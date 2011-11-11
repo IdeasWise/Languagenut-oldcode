@@ -41,29 +41,8 @@ class config {
 	private static $username= 'mystream';
 	private static $password= 'Stealth1980';
 	private static $database= 'languagenut';
-	private static $data = array(
-		// external settings
-		'protocol'			=> 'http://',
-		'host'				=> 'www.languagenut.com/',
-		// internal settings
-		'root'				=>'/var/www/vhosts/languagenut.com/',
-		'uploads'			=>'/var/www/vhosts/languagenut.com/admin_uploads/',
-		'application'		=>'/var/www/application/',
-		'framework'			=>'/var/www/framework/',
-		'site'				=> '/var/www/vhosts/languagenut.com/',
-
-		// instance settings
-		'pagesize'			=> '10',
-		'request'			=> '',
-		'paths'				=> array(),
-		'controller'		=> 'index',
-		// locale
-		'locale'			=> 'en',
-		'cache_classes'		=>array(),
-		'mediamanager_base'	=>'/var/www/vhosts/languagenut.com/',
-		'cdn_url'			=>'http://images.languagenut.com/'
-	);
-
+	public static $data = array();
+	
 	public static function db($key='') {
 		switch ($key) {
 			case 'server':	return self::$server;	break;
@@ -87,10 +66,12 @@ class config {
 
 	public static function set($key='', $value='') {
 		$return = null;
-		if (array_key_exists($key, self::$data)) {
+		
+		// bk - is this needed?
+		//if (array_key_exists($key, self::$data)) {
 			self::$data[$key] = $value;
 			$return = $value;
-		}
+		//}
 		return $return;
 	}
 
@@ -279,7 +260,7 @@ function __autoload($class_name) {
 	);
 
 	$found = false;
-
+		
 	foreach ($classes as $class) {
 		if (file_exists($class)) {
 			$found = true;
@@ -303,6 +284,26 @@ function notify($message='') {
 class core {
 
 	private static $useGeoRedirect = true;
+
+	private static function set_config_vars() {
+
+		config::set('protocol','http://');
+		config::set('host',$_SERVER['HTTP_HOST'].'/');
+		config::set('root',$_SERVER['DOCUMENT_ROOT']);
+		config::set('uploads',$_SERVER['DOCUMENT_ROOT'].'admin_uploads/');
+		config::set('application',preg_replace('/httpdocs\//i','',$_SERVER['DOCUMENT_ROOT']).'application/');
+		config::set('framework',preg_replace('/httpdocs\//i','',$_SERVER['DOCUMENT_ROOT']).'framework/');
+		config::set('site',$_SERVER['DOCUMENT_ROOT']);
+		config::set('pagesize',10);
+		config::set('request','');
+		config::set('paths',array());
+		config::set('controller','index');
+		config::set('locale','en');
+		config::set('cache_classes',array());
+		config::set('mediamanager_base',$_SERVER['DOCUMENT_ROOT']);
+		config::set('cdn_url','http://images.languagenut.com/');
+	
+	}
 
 	private static function security_passed() {
 		/**
@@ -381,6 +382,8 @@ class core {
 
 	public static function start() {
 
+		self::set_config_vars();
+				
 		database::connect();
 
 		if (self::security_passed()) {
