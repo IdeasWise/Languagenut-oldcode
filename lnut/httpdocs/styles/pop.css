@@ -1,0 +1,45 @@
+.popup {
+	z-index: 10;
+	background-color: #fff;
+	border: 5px solid #fff;
+	margin: -5px;
+	-webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+	z-index: 1001;
+}
+
+.popup a.close {
+	background: url(../images/imageZoom.png) no-repeat;
+
+	display: block;
+	width: 25px;
+	height: 25px;
+
+	position: absolute;
+	left: -17px;
+	top: -17px;
+	/* IE-users are prolly used to close-link in right-hand corner */
+	*left: auto;
+	*right: -17px;
+
+	text-decoration: none;
+	text-indent: -100000px;
+	outline: 0;
+
+	z-index: 101;
+}
+
+.popup a.close:hover {
+	background-position: left -25px;
+}
+
+#popupMask {
+	background: url('../images/transparent_mask.png');
+	position: absolute;
+	z-index: 1000;
+	width: 100%;
+	height: 100%;
+	top: 0px;
+	left: 0px;
+}

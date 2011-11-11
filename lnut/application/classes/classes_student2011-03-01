@@ -1,0 +1,35 @@
+<?php
+
+class classes_student extends generic_object {
+
+	public $arrForm = array();
+
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
+
+	public function doSave ($class_uid=null, $student_uid=null) {
+
+		$this->set_class_uid($class_uid);
+		$this->set_student_uid($student_uid);
+
+		$response = $this->insert();
+	}
+	
+	public function CheckAndSave ($class_uid=null, $student_uid=null) {
+
+		$Fields = array('uid');
+		$Where = array('class_uid'=>$class_uid, 'student_uid'=>$student_uid);
+		$row = array();
+		$row = $this->search( $Fields , $Where );
+		
+		if(count($row) == 0) {
+			$this->set_class_uid($class_uid);
+			$this->set_student_uid($student_uid);
+			$response = $this->insert();
+		}	
+		
+	}
+
+}
+?>

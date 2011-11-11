@@ -1,0 +1,26 @@
+<div id="content">
+	<div id="page-header">
+		<div id="header-title">
+			<h1>Invoice &gt; School &gt; List</h1>
+		</div>		
+	</div>
+<div style="float:left;"> <a href="{{ admin_uri }}invoice/school/add/" class="add-icon">Add New Invoice</a> </div>
+<div style="float:right;"> {{ page.display.title }} {{ page.navigation }} </div>
+<div style="clear:both;">Locale: {{ list.locale }}</div>
+	<div id="page-content">
+		<div class="block wide titlerow">
+			<div class="w250 column-header"><p>School Name </p></div>
+			<div class="w150 column-header"><p>Date Due </p></div>
+			<div class="w150 column-header"><p>Date Paid </p></div>
+			<div class="w150 column-header"><p>Time Remaining </p></div>
+			<div class="w80 column-header"><p>&nbsp; </p></div>
+		</div>
+		<ul id="page-list">
+		{{ list.rows }}
+		</ul>
+	</div>
+	<div id="page-footer">
+		<div id="footer-title"> <a href="{{ admin_uri }}invoice/school/add/" class="add-icon">Add New Invoice</a> </div>
+		<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	</div>
+</div>

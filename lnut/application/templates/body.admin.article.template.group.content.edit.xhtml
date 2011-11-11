@@ -1,0 +1,26 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}article-template/list/">Article Template</a>  &gt; <a href="{{ admin_uri }}article-template/groups/{{ template_uid }}/list/">Group List</a> &gt; <a href="{{ admin_uri }}article-template/groups/{{ template_uid }}/content/{{ template_group_uid }}/">Content</a> &gt; Edit</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form id="frm-template" action="{{ admin_uri }}article-template/groups/{{ template_uid }}/content/{{ template_group_uid }}/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+        <input type="hidden" name="template_uid" id="template_uid" value="{{ template_uid }}" />
+        <input type="hidden" name="template_group_uid" id="template_group_uid" value="{{ template_group_uid }}" />
+        <input type="hidden" name="template_content_uid" id="template_content_uid" value="{{ template_content_uid }}" />    
+        
+        <p>
+			<label for="name" class="textbox"> <span class="label {{ error.name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+        
+        <p>        
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>

@@ -1,0 +1,22 @@
+<div class="in">
+	<div class="breadcrumb">
+		<a href="{{ uri }}admin/activity/list/">Activity</a> > <a href="{{ uri }}admin/activity/edit/{{ activity_uid }}/" >{{ activity_name }}</a> > <a href="{{ uri }}admin/activity/reference-materials/{{ activity_uid }}/">Reference Materials</a> > <a href="{{ uri }}admin/exercise_qae_topic/list/{{ activity_uid }}/">Exercise QAE Topic</a> > Exercise QAE Topic Content > List
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+		<tr>
+			<th>Title</th>
+			<th>Available</th>
+			<th></th>
+		</tr>
+		{{ rows }}
+	</table>
+</div>
+<div class="line"></div>
+<div id="page-footer" class="in">
+	<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	<div id="footer-title"> <a href="{{ uri }}admin/exercise_qae_topic_content/add/{{ exercise_qae_topic_uid }}/{{ activity_uid }}/" class="add-icon">Add QAE Topic Content</a> </div>
+</div>

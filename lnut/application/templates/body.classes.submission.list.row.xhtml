@@ -1,0 +1,9 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr>
+	<td><p>{{ submitted_dts }}</p></td>
+	<td><p>{{ title }}</p></td>
+    <td><p>{{ score }}</p></td>
+    <td><p>{{ teacher_comment }}</p></td>
+	<td><p><a href="{{ admin_uri }}classes/view-submission/{{ class_uid }}/{{ student_user_uid }}/edit/{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}classes/view-submission/{{ class_uid }}/{{ student_user_uid }}/delete/{{ uid }}/">Delete</a></p></td>
+</tr>

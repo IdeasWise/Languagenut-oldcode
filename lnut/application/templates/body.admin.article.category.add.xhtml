@@ -1,0 +1,21 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}article-category/list/">Article Category List</a> &gt; Add</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="{{ admin_uri }}article-category/add/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error.name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>		
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

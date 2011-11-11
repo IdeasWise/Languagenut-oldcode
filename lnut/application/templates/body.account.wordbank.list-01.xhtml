@@ -1,0 +1,50 @@
+<div id="page-header">
+	<div id="header-title">
+		<h1>Word Bank</h1>
+	</div>
+</div>
+<div id="page-content">
+	<form action="{{ uri }}account/wordbank/list/" method="post">
+	<div class="tabs">
+		<ul>
+			{{ locales }}
+		</ul>
+		{{ tabs }}
+	</div>
+	<div>
+		<p style="text-align:center;">
+			<input type="submit" class="btnstyle fl-center RemoveCss" value="Save" name="save" />
+		</p>
+	</div>
+	</form>
+
+	<div class="box2">
+		<h3>Add Word<span></span></h3>
+
+		<div class="box2-mid">
+			<div id="cms-add-update">
+				<div class="message_error">  </div>
+				<form name="user-form" id="user-form" method="post" action="{{ uri }}account/wordbank/list/">
+					<p>
+						<label for="add_word" class="textbox">
+							<span class="label">Term</span>
+							<input type="text" name="add_word" id="add_word" value="" />
+						</label>
+					</p>
+					<p>
+						<label for="language_uid" class="select">
+							<span class="label">Language</span>
+							<select name="language_uid">
+								{{ language_options }}
+							</select>
+						</label>
+					</p>
+					<div style="text-align: center;">
+						<input type="submit" value="Add Term" class="btnstyle fl-center RemoveCss" id="submit-user-form" name="add">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+
+</div>

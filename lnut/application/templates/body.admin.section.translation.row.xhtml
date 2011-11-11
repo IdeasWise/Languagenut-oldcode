@@ -1,0 +1,13 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows">
+  <div class="w250 ">
+    <p class="padding10" id="show-{{ uid }}"><a href="javascript:;" onclick="GetEditTranslation('{{ uid }}', '{{ name }}', '{{ active }}', '{{ language_id }}');">{{ language }}</a></p>
+    <p id="data-{{ uid }}" class="invisible padding10"> <a href="javascript:;" onclick="GetEditTranslation('{{ uid }}', '{{ name }}', '{{ active }}', '{{ language_id }}');">Edit</a> | <a href="{{ uri }}admin/section/deletetranslation/{{ section_uid }}/{{ uid }}/" class="Ajax-delete-page">Delete</a> </p>
+  </div>
+  
+  <div class="w250 "> <p>{{ name }}</p> </div>
+  <div class="w100 "> <p>&nbsp;&nbsp;&nbsp;{{ active_yes_no }}</p> </div>
+  <div class="w100 ">&nbsp;</div>
+  
+</div>

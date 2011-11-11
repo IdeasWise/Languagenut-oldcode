@@ -1,0 +1,140 @@
+body {
+	font: 12px "Trebuchet MS", Arial, sans-serif;
+	color: #000;
+	background-color: #fff;
+	padding: 0px;
+    font-size: 12px;
+}
+
+* {
+	margin : 0;
+	padding : 0;
+}
+
+a { color: #333333; }
+
+a:hover { color: #aaaaaa; text-decoration: underline; }
+
+a:active { color: #aaaaaa; }
+
+a:visited { color: #666666; }
+
+img {
+	border-style: none;
+}
+
+div {
+}
+
+#pagewrapper {
+	background-image:	none;
+	height:				auto;
+}
+/*
+#content {
+
+	position: absolute;
+	right: 170px;
+	top: 150px;
+	width: 700px;
+	height: 688px;
+
+}
+*/
+.nutsWrap {
+	position: absolute;
+	right: 30px;
+	top: 160px;
+}
+
+.desc {
+	font-size: 14px;
+	padding: 18px 0px 18px 0px;
+}
+
+#signup p {
+	width: 500px;
+}
+#signup p.break {
+	padding-top: 30px;
+}
+#signup_boxes .box {
+	height: 65px;
+}
+#signup_boxes label {
+	display: block;
+	padding: 10px 0px 5px 0px;
+	font-family: Arial;
+	font-size: 17px;
+	font-weight: bold;
+}
+#signup_boxes input {
+	width: 490px;
+	font-size: 16px;
+}
+#signup_boxes input.highlighted {
+	border: 3px solid #ff0000;
+}
+
+
+#signup_boxes p.half {
+	width: 240px;
+	float: left;
+	padding-right: 10px;
+}
+#signup_boxes p.half input {
+	width: 240px;
+	font-size: 16px;
+}
+
+
+#terms {
+	padding-top: 30px;
+}
+#optin {
+	padding-top: 10px;
+}
+#optin2 {
+	padding-left: 16px;
+}
+#terms span {
+	display: block;
+	float: right;
+}
+#terms input#promo_code {
+	width: 80px;
+	font-size: 12px;
+}
+	
+.confirm {
+	position: absolute;
+	bottom: 10px;
+	right: 20px;
+}
+
+p.continue {
+	padding-top: 30px;
+	font-size: 1.4em;
+}
+
+div.errors {
+	padding: 20px;
+}
+div.errors p {
+	padding: 10px 0px 10px 0px;
+}
+div.errors ul {
+	margin-left: 16px;
+}
+div.errors a.errorClose {
+	display: block;
+	padding-top: 20px;
+}
+
+#signup-form h1 {
+	font-family:Arial;
+	font-size:28px;
+}
+h1 span {
+	font-size:0.5em;
+}

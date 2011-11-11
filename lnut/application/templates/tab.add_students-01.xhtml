@@ -1,0 +1,25 @@
+<p class="normal-text"> Please enter the last name and first name of each student and press the  ( + ) button to create a new line entry for a new student.  When finished, press ADD STUDENTS. If any records are found to match with students already in the database for your school, those records will be shown under the records they match. Please select either the new record you created or one of its matching records.  Repeat this for each student and then press ADD STUDENT again to complete the class.  This helps to ensure student records do not get duplicated. Please do this carefully. </p>
+<div class="message_error">{{ error_message }}</div>
+<form name="Frmstudents" id="Frmstudents" method="post" action="{{ student.frm.action }}">
+  <input type="hidden" name="school_id" id="school_id" value="{{ school_id }}" />
+  <input type="hidden" name="class_uid" id="class_uid" value="{{ class_uid }}" />
+  <input type="hidden" name="student_count" id="student_count" value="{{ student_count }}" />
+  <table cellpadding="1" cellspacing="3" border="0" id="GavScore" width="90%">
+    <tr>
+      <td>&nbsp;</td>
+      <td><b>Last Name</b></td>
+      <td><b>First Name</b></td>
+      <td><input type="button" value="(+)" class="btnstyle fl-center" id="add_student_button"></td>
+    </tr>
+    <!--<tr>
+    <td>&nbsp;</td>
+    <td><input type="text" name="vlastname[]" class="inputClass"></td>
+    <td><input type="text" name="vfirstname[]" class="inputClass"></td>
+    <td>&nbsp;</td>
+  </tr>-->
+    {{ student.rows }}
+  </table>
+  <div class="ClassCenter" style="width:70%;">
+    <input type="submit" name="{{ submit-button }}" id="add_student_submit" value="Add Students" class="btnstyle fl-center"/>
+  </div>
+</form>

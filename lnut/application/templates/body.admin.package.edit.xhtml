@@ -1,0 +1,37 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/packages/">Package List</a> &gt; Edit &gt; {{ name }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form id="frm-package" action="{{ uri }}admin/packages/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<span class="label">
+				What languages would you like available?
+			</span>
+			{{ learnable_languages }}
+		</p>
+
+		<p>
+			<span class="label">
+				What support language should be used?
+			</span>
+			{{ support_languages }}
+		</p>
+		<p><span class="label">Package Prices:</span></p>
+			{{ package.price }}
+		<p>
+		<p>
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>

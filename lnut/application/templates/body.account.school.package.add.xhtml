@@ -1,0 +1,36 @@
+
+<div class="in">
+    <div class="author">
+		<h2><a href="{{ uri }}account/users/school/">School List</a> > Packages</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form name="frmreseller" id="frmreseller" action="{{ uri }}account/users/package/add/{{ school_uid }}/" method="post" enctype="multipart/form-data">
+		<div>
+			<div style="float: left">
+				<h3>Assigned Packages</h3>				
+			{{ available_packages }}				
+			</div>
+			<div style="float: left;margin-left: 93px">
+				<h3>New Packages</h3>				
+			{{ new_packages }}				
+				<div class="padtop">
+					<input type="submit" name="btnsubmit" value="Save" class="com_btn" />
+				</div>
+			</div>
+		</div>
+
+		<div style="clear: both;text-align: center;">
+
+		</div>
+	</form>
+</div>
+<script type="text/javascript">
+	function make_checked(id){
+		document.getElementById(id).checked=true;
+		document.frmreseller.submit();
+	}
+</script>

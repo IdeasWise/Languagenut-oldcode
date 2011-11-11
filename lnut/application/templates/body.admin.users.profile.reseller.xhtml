@@ -1,0 +1,56 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}users/reseller/">Reseller List</a> &gt; Edit &gt; {{ vfirstname }} {{ vlastname }}</h2>
+	</div>
+	<div class="search"> <a href="{{ admin_uri }}users/edit/{{ iuser_uid }}/" target="_blank" class="add-icon">Edit User</a> </div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="" method="post" name="edit-profile">
+		<input type="hidden" name="iuser_uid" id="iuser_uid" value="{{ iuser_uid }}" />
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="firstname" class="textbox"> <span class="label {{ error_vfirstname }}">First Name:</span>
+				<input type="text" name="vfirstname" id="vfirstname" value="{{ vfirstname }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="lastname" class="textbox"> <span class="label {{ error_vlastname }}">Last Name:</span>
+				<input type="text" name="vlastname" id="vlastname" value="{{ vlastname }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="email" class="textbox"> <span class="label {{ error_vemail }}">Email:</span>
+				<input type="text" name="vemail" id="vemail" value="{{ vemail }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="vfax" class="textbox"> <span class="label {{ error_vfax }}">Fax:</span>
+				<input type="text" name="vfax" id="vfax" value="{{ vfax }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="vphone" class="textbox"> <span class="label {{ error_vphone }}">Phone:</span>
+				<input type="text" name="vphone" id="vphone" value="{{ vphone }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="vat" class="textbox"> <span class="label {{ error_vat }}">VAT%:</span>
+				<input type="text" name="vat" id="vphone" value="{{ vat }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label class="listbox" for="locale_rights"><span class="label {{ error_locale_rights }}">Reseller Locale Right:-</span> {{ locale_rights }} </label>
+		</p>
+		<p><span class="label">Message to show when User Limit is reached:-</span></p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="user_limit_reached" id="user_limit_reached">{{ user_limit_reached }}</textarea>
+		</div>
+		<p>
+		<p>
+			<input type="submit" name="submit-edit-profile" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

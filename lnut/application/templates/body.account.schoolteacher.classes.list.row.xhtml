@@ -1,0 +1,6 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr class="{{ subscription_cancelled }}">
+	<td><p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ admin_uri }}classes/game-scores/class-{{ uid }}/">{{ name }}</a></p></td>
+	<td><p id="data-{{ uid }}"> <a href="{{ admin_uri }}classes/edit/{{ uid }}/">Overview</a> | <a href="{{ admin_uri }}classes/submissions/{{ uid }}/">Submissions</a> | <a href="{{ admin_uri }}classes/view-students/{{ uid }}/" target="_blank">Student Login Details</a> | <a href="{{ admin_uri }}classes/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a> | <a href="{{ admin_uri }}class-package-management/manage/{{ uid }}/" >Package Management</a> | <a href="{{ admin_uri }}classes/edit/{{ uid }}/#tab-1" >Add Students</a></p></td>
+</tr>

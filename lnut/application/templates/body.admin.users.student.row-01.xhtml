@@ -1,0 +1,10 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows">
+  <div class="w250">
+    <p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">{{ email }}</a></p>
+    <p id="data-{{ uid }}" class="invisible"> <a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}view_logs/{{ uid }}/">View History</a> | <a href="{{ admin_uri }}users/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p>
+  </div>
+  <div class="w250"> <p>{{ username_open }}</p> </div>
+  <div class="w250"> {{ registered_dts }} </div>
+</div>

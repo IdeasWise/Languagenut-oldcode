@@ -1,0 +1,42 @@
+
+<div id="content">
+	<form action="{{ uri }}subscribe_mike/{{ type }}/" method="post" id="signup-form">
+		<div id="signup">
+			<div style="text-align:center;padding-right:20px;">
+				<!--<img src="{{ common_images }}{{ title_url }}" alt="{{ title_alt }}" />-->
+				<h1>{{ title_alt }}</h1>
+			</div>
+			{{ errors }}
+			<div class="options clearfix" style="margin:0 auto;" id="notErrors">
+				<div class="desc" style="clear:both;">
+					{{ intro_text }}
+				</div>
+
+				<div class="clearfix">
+					<div id="signup_boxes" style="float:left;">
+						<p>
+							<!--<label for="school_name"><img src="{{ images }}school_name.png" alt="School Name" /></label>-->
+							<label for="school_name">{{ translate.label_school_name }}</label>
+							<input type="text" name="school_name" id="school_name" value="{{ school_name }}" {{ highlight:school_name }} />
+						</p>
+
+						<p>
+							<!--<label for="school_address"><img src="{{ images }}school_address.png" alt="School Address" /></label>-->
+							<label for="school_address">{{ translate.label_school_address }}</label>
+							<input type="text" name="school_address" id="school_address" value="{{ school_address }}" {{ highlight:school_address }} />
+						</p>
+
+						<p>
+							<!--<label for="school_postcode"><img src="{{ images }}school_postcode.png" alt="School Postcode" /></label>-->
+							<label for="school_postcode">{{ translate.label_school_postcode }}</label>
+							<input type="text" name="school_postcode" id="school_postcode" value="{{ school_postcode }}" {{ highlight:school_postcode }} />
+						</p>
+					</div>	
+					<div style="float:right;width:122px;margin-right:80px;margin-top:47px;">
+						<input type="submit" class="confirm-button" name="submit" value="Continue" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>

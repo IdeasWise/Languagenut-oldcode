@@ -1,0 +1,13 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows {{ subscription_cancelled }}">
+  <div class="w250 ">
+    <p class="padding10" id="show-{{ uid }}"><a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">{{ name }}</a></p>
+    <p id="data-{{ uid }}" class="invisible padding10"> <a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/invoice/{{ type }}/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a>  | <a href="javascript:alert('Not yet implemented.');" class="ajax invoice page">Invoice</a></p>
+  </div>
+  
+  <div class="w250 "> {{ vemail }}&nbsp; </div>
+  <div class="w80 "> {{ vphone }} </div>
+  <div class="w80 ">{{ date_paid }}</div>
+  <div class="w80 ">{{ amount }}</div>
+</div>

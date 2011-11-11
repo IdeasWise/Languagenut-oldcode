@@ -1,0 +1,39 @@
+
+<div id="content" class="game-score">
+ <h1>{{ breadcrumb }}</h1>
+<div class="note">If you can't see the scores, please scroll down.</div>
+<div class="ui-widget-content">
+  <div class="tabs1 ui-tabs ui-widget ui-widget-content ui-corner-all">
+    <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+      <li class="ui-state-default ui-corner-top"><a href="{{ admin_uri }}classes/edit/{{ class_uid }}/"><span>Update Class</span></a></li>
+      <li class="ui-state-default ui-corner-top {{ unit.active }}" ><a href="{{ admin_uri }}classes/unit-game-scores/class-{{ class_uid }}/"><span>View Unit Scores</span></a></li>
+      <li class="ui-state-default ui-corner-top {{ section.active }}"><a href="{{ admin_uri }}classes/game-scores/class-{{ class_uid }}/" name=""><span>View Section Scores</span></a></li>
+      <li class="ui-state-default ui-corner-top"><a href="{{ admin_uri }}classes/edit/{{ class_uid }}//#tab-1"><span>Add Students</span></a></li>
+	 <li class="ui-state-default ui-corner-top"><a href="{{ admin_uri }}classes/edit/{{ class_uid }}//#tab-6"><span>View Student Logins</span></a></li>
+    </ul>
+  </div>
+  <div class="tabs1 ui-tabs ui-widget ui-widget-content ui-corner-all">
+    <ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
+      <!--<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#lang-16"><span>ar</span></a></li>-->
+      {{ language.li }}
+    </ul>
+  </div>
+  <div class="ui-tabs-V ui-widget ui-widget-content ui-corner-all">
+    <ul class="ui-tabs-V ui-V  ui-widget-header ui-corner-all">
+      <li class="ui-state-default ui-corner-top"><a href="#"><span>Units</span></a></li>
+      {{ units.li }}
+    </ul>
+  </div>
+  <div id="content">
+  	
+    <table  bgcolor="#CCCCCC" cellspacing="1" cellpadding="3" width="93%" id="GavScore">
+      <tr>
+        <th align="left" rowspan="2"> Name </th>
+        {{ th.section }}       
+      </tr>
+      <tr> {{ th.games }} </tr>
+      {{ names.scores.rows }}
+    </table>
+  </div>
+</div>
+</div>

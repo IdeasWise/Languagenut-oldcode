@@ -1,0 +1,27 @@
+<div class="in">
+    <div class="author">
+		<a href="{{ uri }}admin/activity/list/">Activity</a> > <a href="{{ uri }}admin/activity/edit/{{ activity_uid }}/">{{ activity_name }}</a> > <a href="{{ uri }}admin/activity/reference-materials/{{ activity_uid }}/">Reference Materials</a> > <a href="{{ uri }}admin/exercise_qae_topic/list/{{ activity_uid }}/">Exercise QAE Topic</a> > Edit
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <div class="message_error"> {{ message }} </div>
+    <form action="{{ uri }}admin/exercise_qae_topic/edit/{{ uid }}/{{ activity_uid }}/" method="post">
+	<p>
+	    <label for="title" class="textbox"> <span class="label {{ error_title }}">Title:</span>
+		<input type="text" name="title" id="title" value="{{ title }}" class="box" />
+	    </label>
+	</p>
+    
+	<div class="tabs">
+	    <ul>
+			{{ locales }}
+	    </ul>
+		{{ tabs }}
+	</div>
+	<p>
+	    <input type="submit" name="submit" value="Update" class="com_btn" />
+	</p>
+    </form>
+</div>

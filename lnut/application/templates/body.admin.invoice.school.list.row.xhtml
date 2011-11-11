@@ -1,0 +1,12 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr class="{{ subscription_cancelled }}">
+	<td><p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">{{ name }}</a></p></td>
+	<td><p>{{ due_date }}</p></td>
+	<td><p>{{ date_paid }}</p></td>
+	<td><p>{{ time_remains }}</p></td>
+	<td>
+    <div id="button-paid-{{ uid }}" style="{{ paid_button_display }}"><input type="button" name="paid" value="Paid?" title="Are you sure {{ name }} has paid {{ format_amount }} in full?" id="button-{{ uid }}" class="button-paid com_btn" /></div>
+  	<div class="ClassGreen"> {{ paid_string }}</div></td>
+	<td><p id="data-{{ uid }}"> <a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/invoice/{{ type }}/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a> | <a href="{{ uri }}admin/invoice/{{ type }}/view/{{ uid }}/" target="_blank" class="ajax invoice page">Invoice</a></p></td>
+</tr>

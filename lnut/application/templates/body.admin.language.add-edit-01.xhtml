@@ -1,0 +1,52 @@
+<div id="content"> 
+  <div class="tabs">
+    <ul>
+      <li><a href="#tab-1"><span>{{ title }}</span></a></li>
+	 <li><a href="#tab-2" {{ li.display }}><span>Language Translation</span></a></li>
+	 <li><a href="#tab-3" {{ li.display }}><span>Language Images</span></a></li>	
+	</ul>
+  <div id="tab-1">  
+  <div class="message_error"> {{ message_error }} </div>
+    <form action="" method="post" name="edit-profile">	
+	<input type="hidden" name="uid" id="uid" value="{{ uid }}" />     
+      <p>
+        <label for="name" class="textbox"> <span class="label {{ error_name }}">Language:</span>
+        <input type="text" name="name" id="name" value="{{ name }}" />
+        </label>
+      </p>
+      <p>
+        <label for="prefix"  class="textbox"> <span class="label {{ error_prefix }}">Prefix:</span>
+        <input type="text" name="prefix" id="prefix" value="{{ prefix }}" />
+        </label>
+      </p>
+	  
+	 <p>
+      <span style="float:left;">Is this Language active?</span>
+	  <label for="yes_admin" style="float:left;">
+	  	<input type="radio" name="active" id="active"  value="1" checked="checked" />Yes&nbsp;&nbsp;
+	  </label>
+	  <label for="no_admin">	
+		<input type="radio" name="active" id="active"  value="0" {{ active }} /> No        
+      </label>
+    </p>
+    <p>
+      <span style="float:left;">Is this Language available to the public?</span>
+	  <label for="yes_allow" style="float:left;">
+	  	<input type="radio" name="available" id="available"  value="1" checked="checked" />Yes&nbsp;&nbsp;
+	  </label>
+	  <label for="no_allow"> 	
+		<input type="radio" name="available" id="available"  value="0" {{ available }} /> No       
+      </label>
+    </p>  
+     
+      <p>
+        <input type="submit" name="form_submit_button" value="{{ btnval }}" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+</div>
+	{{ language.div }}
+	<div id="tab-3">
+		{{ language.uploades }}
+	</div>
+</div>
+</div>

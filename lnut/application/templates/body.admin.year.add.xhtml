@@ -1,0 +1,36 @@
+
+<div class="box2">
+  <h3>Add Year<span></span></h3>
+  <div class="box2-mid">
+  
+  <div class="message_error"> {{ message_error }} </div>
+    <form action="" method="post" name="edit-profile">	
+	<input type="hidden" name="uid" id="uid" value="{{ uid }}" />     
+      <p>
+        <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+        <input type="text" name="name" id="name" value="{{ name }}" />
+        </label>
+      </p>
+      <p>
+        <label for="position"  class="textbox"> <span class="label {{ error_position }}">Position:</span>
+        <input type="text" name="position" id="position" value="{{ position }}" />
+        </label>
+      </p>
+	  
+	 <p>
+      <span style="float:left;">Is this year active?</span>
+	  <label for="yes_admin" style="float:left;">
+	  	<input type="radio" name="active" id="active"  value="1" checked="checked" />Yes&nbsp;&nbsp;
+	  </label>
+	  <label for="no_admin">	
+		<input type="radio" name="active" id="active"  value="0" {{ active }} /> No        
+      </label>
+    </p>
+    
+     
+      <p>
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+</div>

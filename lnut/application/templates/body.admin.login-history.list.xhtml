@@ -1,0 +1,26 @@
+<div class="in">
+	<div class="author">
+		<h2>Login History</h2>
+	</div>
+	<div class="search"> {{ component-search-form }} </div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+		<tr>
+			<th>School</th>
+			<th>Recent Login</th>
+			<th>Logins Today</th>
+			<th>Logins This Week</th>
+			<th>Last 6 Months</th>
+			<th>Total Usage</th>
+			<th>Promocode</th>
+		</tr>
+		{{ rows }}
+	</table>
+</div>
+<div class="line"></div>
+<div id="page-footer" class="in">
+	<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+</div>

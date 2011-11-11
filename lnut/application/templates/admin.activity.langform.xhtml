@@ -1,0 +1,23 @@
+<div id="tab-{{ uid }}">
+	<table>
+		<tr>
+			<td>
+				Name:
+			</td>
+			<td>
+				<input type="text" name="name_{{ prefix }}" value="{{ name_value }}" class="box" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Available:
+			</td>
+			<td>
+				<select name="available_{{ prefix }}">
+					<option value="1" {{ selected_1 }}>Yes</option>
+					<option value="0" {{ selected_0 }}>No</option>
+				</select>
+			</td>
+		</tr>
+	</table>
+</div>

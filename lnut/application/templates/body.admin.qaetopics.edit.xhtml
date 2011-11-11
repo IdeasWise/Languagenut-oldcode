@@ -1,0 +1,59 @@
+<script type="text/javascript">
+    $(document).ready(function(){
+	$("a.view_image").fancybox();
+    });
+    function imageDelete(locale,uid,imageid){
+	 if(!$("#delete_image_"+imageid+locale).hasClass('pending')) {
+	    $("#delete_image_"+imageid+locale).addClass('pending');
+	    $("#delete_image_"+imageid+locale).css('opacity','0.5');
+	    if(confirm('Are you sure you want to delete this image?')) {
+		$.ajax({
+		   type: "GET",
+		   url: "{{ uri }}admin/qaetopics/ajaximagedelete/"+locale+"/"+uid+"/"+imageid,
+		   data: "",
+		   success: function(msg){
+			if(msg!='0'){
+			    $("#view_image_"+imageid+locale).remove();
+			    $("#delete_image_"+imageid+locale).remove();
+			}
+			else{
+			    alert("image not exist");
+			    $("#delete_image_"+imageid+locale).removeClass('pending');
+			    $("#delete_image_"+imageid+locale).css('opacity','1');
+			}
+		   }
+		});
+	    }
+	    else{
+		$("#delete_image_"+imageid+locale).removeClass('pending');
+		$("#delete_image_"+imageid+locale).css('opacity','1');
+	    }
+	}
+    }
+</script>
+<div class="in">
+    <div class="author">
+	<h2>{{ title }}</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <div class="message_error"> {{ message }} </div>
+    <form action="{{ uri }}admin/qaetopics/edit/{{ topic_uid }}/" method="post" enctype="multipart/form-data">
+	<p>
+	    <label for="title" class="textbox"> <span class="label {{ error_title }}">Title:</span>
+		<input type="text" name="title" id="name" value="{{ qaetitle }}" class="box" />
+	    </label>
+	</p>
+	<div class="tabs">
+	    <ul>
+			{{ locales }}
+	    </ul>
+		{{ tabs }}
+	</div>
+	<p>
+	    <input type="submit" name="submit" value="Update" class="com_btn" />
+	</p>
+    </form>
+</div>

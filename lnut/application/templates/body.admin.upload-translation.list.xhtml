@@ -1,0 +1,36 @@
+<div class="in">
+	<div class="author">
+		<h2>Verify Translations</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<form action="{{ uri }}admin/translations/upload/verify" method="post" id="translation-verify" >
+		<p>The following are the top 20 records from the uploaded csv file. If the following translation details are correct then you click "Import" below to import the translations to the database. Otherwise, please click 'Cancel' to remove the imported translations and try again.</p>
+		<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main" id="page-list">
+			<tr>
+				<th>phrase id</th>
+				<th>year id</th>
+				<th>year</th>
+				<th>unit id</th>
+				<th>unit number</th>
+				<th>unit name</th>
+				<th>section name</th>
+				<th>section number</th>
+				<th>section uid</th>
+				<th>section name translation</th>
+				<th>section name default</th>
+			</tr>
+			{{ import_table }}
+			<tr>
+				<td colspan="11">&nbsp;</td>
+			</tr>
+			<tr>
+				<td colspan="6">&nbsp;</td>
+				<td colspan="1"><input type="submit" name="import" value="Import" id="import-translation-button" class="com_btn" /></td>
+				<td colspan="4"><input type="submit" name="cancel" value="Cancel" class="com_btn" /></td>
+			</tr>
+		</table>
+	</form>
+</div>

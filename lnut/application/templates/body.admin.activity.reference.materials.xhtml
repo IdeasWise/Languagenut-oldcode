@@ -1,0 +1,19 @@
+<div class="in">
+  <div class="breadcrumb">
+    <a href="{{ uri }}admin/activity/list/"> Activity </a> > <a href="{{ uri }}admin/activity/edit/{{ activity_uid }}/">{{ activity_name }}</a> > Reference Materials
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+  <form action="{{ uri }}admin/activity/reference-materials/{{ activity_uid }}/" method="post">
+  <input type="hidden" name="activity_uid" id="activity_uid" value="{{ activity_uid }}" />
+  <input type="hidden" name="material_type_uid" id="material_type_uid" value="{{ material_type_uid }}" />
+    {{ response }}
+    <div align="center">
+      <p>
+        <input type="submit" value="Save" class="com_btn" name="submit">
+      </p>
+    </div>
+  </form>
+</div>

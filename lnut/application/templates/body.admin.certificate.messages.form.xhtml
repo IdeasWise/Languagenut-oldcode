@@ -1,0 +1,11 @@
+<div class="in forms">
+	<form name="pligin_certificate_message" id="pligin_certificate_message" action="{{ form.action }}" method="post" >
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="locale" id="locale" value="{{ prefix }}" />
+		<div align="center" style="color:#57A000;">{{ message }}</div>
+		{{ form.elements }}
+		<p>
+			<input type="submit" name="form_cerrtificate_message" value="Save Change" class="com_btn" />
+		</p>
+	</form>
+</div>

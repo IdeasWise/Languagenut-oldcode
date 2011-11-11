@@ -1,0 +1,70 @@
+
+			<div id="header">
+				<div id="topButtons">
+					<a href="{{ uri }}login/" class="login">Login</a>
+					<a href="{{ uri }}subscribe/" class="subscribe">Subscribe</a>
+				</div>
+
+				<div id="vScreen">
+					<div style="height:206px;width:233px;position:relative;top:38px;left:25px;">
+						<!--<a href="{{ uri }}trynow/"><img src="{{ images }}slide/tryNow_small_bg.gif" /></a>-->
+						<a href="{{ uri }}trynow/"><img src="http://images.languagenut.com/{{ locale }}/slide/tryNow_small_bg.gif" /></a>
+					</div>
+					<div class="cycle" style="overflow:hidden;">
+						<!--<img src="{{ images }}slide/slideshow_img1.jpg" />-->
+						<img src="http://images.languagenut.com/{{ locale }}/slide/slideshow_img1.jpg" />
+						<!--<img src="{{ images }}slide/slideshow_img2.jpg" />-->
+						<img src="http://images.languagenut.com/{{ locale }}/slide/slideshow_img2.jpg" />
+						<!--<img src="{{ images }}slide/slideshow_img3.jpg" />-->
+						<img src="http://images.languagenut.com/{{ locale }}/slide/slideshow_img3.jpg" />
+						<!--<img src="{{ images }}slide/slideshow_img4.jpg" />-->
+						<img src="http://images.languagenut.com/{{ locale }}/slide/slideshow_img4.jpg" />
+					</div>
+				</div>
+			    <div style="clear: both;position:absolute;top:260px;left:177px;width:650px;text-align:center">
+					
+			    </div>
+			</div>
+
+			<div id="slider">
+				<ul class="navigation">
+					<li><a href="#about">{{ translate:welcome }}</a></li>
+					<li><a href="#games">{{ translate:games }}</a></li>
+					<li><a href="#songs">{{ translate:songs }}</a></li>
+					<li><a href="#culture">{{ translate:culture }}</a></li>
+					<li><a href="#teachers">{{ translate:teachers_say }}</a></li>
+					<li><a href="#children">{{ translate:children_say }}</a></li>
+					<li><a href="#contact">{{ translate:contact }}</a></li>
+				</ul>
+
+				<div class="scroll">
+					<div class="scrollContainer">
+						{{ welcome }}
+
+						{{ games }}
+
+						{{ songs }}
+
+						{{ culture }}
+
+						{{ teachers }}
+
+						{{ children }}
+
+						{{ contact }}
+					</div>
+				</div>
+
+				<div id="subNow" style="position:relative;top:-100px;">
+					<a href="{{ uri }}subscribe/" id="subnow-image"> {{ translate:free_2_week_trial }} </a>
+					<a href="{{ uri }}trynow/" style="width:140px;text-align:center;font-size:14px;text-decoration:none;color:#000;" id="try-now-image"><img src="{{ images }}try.png" /></a><!---->
+					<p class="first"> &nbsp; <!--{{ translate:play_and_learn }}--> &nbsp; </p>
+					<p><strong>languagenut.com - primary languages in a nutshell</strong></p>
+				</div>
+
+				<div id="footer" style="padding:20px 0px 0px 50px;font-size:12px;font-weight:normal;position:relative;top:-100px;">
+					<a href="{{ uri }}terms/" style="font-color:#000;">{{ translate:terms }}</a> | 
+					<a href="{{ uri }}privacy/" style="font-color:#000;">{{ translate:privacy_policy }}</a> | 
+					&copy; languagenut - {{ translate:all_rights_reserved }}
+				</div>
+			</div>

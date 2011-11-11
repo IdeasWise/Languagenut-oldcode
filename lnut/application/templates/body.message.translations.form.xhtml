@@ -1,0 +1,15 @@
+<form action="{{ admin_uri }}message_translations" method="post">
+	<input type="hidden" name="locale" id="locale" value="{{ prefix }}" />
+	<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main" id="GavScore">
+    	<tr>
+        	<th>Short Code</th>
+            <th>{{ language_name }}</th>
+		</tr>
+        {{ table_content }}
+    </table>
+    <div>
+		<p style="text-align:center;">
+            <input type="submit" class="com_btn" value="Save" name="form_submit_button" />
+        </p>
+    </div>
+</form>

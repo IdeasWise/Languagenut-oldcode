@@ -1,0 +1,12 @@
+<div class="message_error"> {{ message_error }} </div>
+<form name="frmTab" id="frmTab" method="post" action="{{ action }}">     
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />      
+	  <p>
+        <label for="locale"  class="listbox"> <span class="label {{ error_locale }}">Language:</span>
+        {{ locale }}
+        </label>
+      </p>
+	  <p>
+        <input type="submit" name="form_submit_language" value="Add Translation" class="btnstyle fl-center RemoveCss" />
+      </p>
+</form>

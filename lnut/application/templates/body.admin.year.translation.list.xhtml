@@ -1,0 +1,59 @@
+<div id="content">	
+	<div id="page-content"  style="margin-top:5px;">
+		<div class="block wide titlerow">
+			<div class="w250 column-header"><p>Language </p></div>
+			<div class="w250 column-header"><p>Name </p></div>
+			<div class="w100 column-header"><p>Active</p></div>
+			<div class="w100 column-header"><p>&nbsp;</p></div>			
+		</div>
+		<ul id="page-list">
+		{{ list.rows }}
+		</ul>
+		
+	
+	<form name="frm_translation" method="post" id="frm_translation" action="{{ frm_action }}">
+	<input type="hidden" id="year_id" name="year_id" value="{{ year_id }}" />
+	<input type="hidden" id="uid" name="uid" value="{{ uid }}" />
+	<div class="block wide listrows">
+	<br />
+	<div class="message_error"> {{ message_error }} </div>
+      <div class="w250 ">
+        
+		<p>
+        <label for="language_id" class="listbox" style="width:180px;"> <span class="label {{ error_language_id }}">Language:</span>
+        	{{ language_id }}
+        </label>
+      </p>
+		
+		      
+      </div>
+      <div class="w250 "> 
+	  <p>
+        <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+        <input type="text" name="name" id="name" value="{{ name }}" />
+        </label>
+      </p>
+	   </div>
+      <div class="w100" style="margin-left:5px;"> 
+	  	<p>&nbsp;&nbsp;
+		<label for="yes_allow" style="float:left;">
+	  	<input type="radio" name="active" id="active1"  value="1" checked="checked" />Yes&nbsp;&nbsp;
+	  </label>
+	  <label for="no_allow"> 	
+		<input type="radio" name="active" id="active0"  value="0" {{ available }} /> No       
+      </label>
+		</p>
+	  </div>
+      <div class="w100" align="center">
+	  <p>
+	  	 <input type="submit" name="add_translation" id="add_translation" value="{{ button_lable }}" class="btnstyle fl-center RemoveCss" />
+		 &nbsp;
+		 <input type="button" name="cancel" id="cancel" value="Cancel" onclick="GetResetAll()" style="{{ cancel_button }}" class="btnstyle fl-center RemoveCss"/>
+	  </p>	 
+	  </div>
+    </div>
+	</form>	
+		
+		
+	</div>	
+</div>

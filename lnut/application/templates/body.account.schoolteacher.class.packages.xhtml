@@ -1,0 +1,5 @@
+<p>Please select packages from following list to assign this class.</p>
+<form name="frm_class_packages" id="frm_class_packages" action="{{ admin_uri }}class-package-management/manage/{{ class_uid }}/" method="post">
+{{ package.list }}
+<input type="submit" name="assign_now" value="Assign Now" class="com_btn" />
+</form>

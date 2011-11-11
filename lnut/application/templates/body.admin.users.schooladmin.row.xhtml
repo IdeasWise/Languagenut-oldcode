@@ -1,0 +1,8 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr {{ extra_style }}>
+	<td><p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">{{ email }}</a></p></td>
+	<td><p>{{ username_open }}</p></td>
+	<td><p>{{ registered_dts }}</p></td>
+	<td><p id="data-{{ uid }}"> <a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}users/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p></td>
+</tr>

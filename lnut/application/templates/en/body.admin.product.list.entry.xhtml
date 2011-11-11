@@ -1,0 +1,10 @@
+<tr>
+	<td><a href="{{ admin_uri }}products/edit/{{ uid }}/">{{ name }}</a></td>
+	<td>{{ price }}</td>
+	<td>{{ available_to_buy }}</td>
+	<td>
+		<a style="display:block;float:left;border:1px solid #f7f7f7;margin:3px;" href="{{ admin_uri }}products/edit/{{ uid }}/"><img src="/images/icon-view.png" alt="View" title="View" style="display:block;margin:3px;" /></a> 
+		<a style="display:block;float:left;border:1px solid #f7f7f7;margin:3px;" href="{{ admin_uri }}products/edit/{{ uid }}/packages/"><img src="/images/icon-package.png" alt="Packages" title="Packages" style="display:block;margin:3px;" /></a> 
+		<a style="display:block;float:left;border:1px solid #f7f7f7;margin:3px;" href="{{ admin_uri }}products/delete/{{ uid }}/" class="delete-confirm"><img src="/images/icon-delete.png" alt="Delete" title="Delete" style="display:block;margin:3px;" /></a>
+	</td>
+</tr>

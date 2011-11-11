@@ -1,0 +1,10 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr>
+	<td><p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">{{ name }}</a></p></td>
+	<td><p>{{ due_date }}</p></td>
+	<td><p>{{ date_paid }}</p></td>
+	<td><p>{{ time_remains }} Days</p></td>
+	<td><p>{{ call_status }}</p></td>
+	<td><p id="data-{{ uid }}"> <a href="{{ uri }}admin/invoice/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/invoice/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p></td>
+</tr>

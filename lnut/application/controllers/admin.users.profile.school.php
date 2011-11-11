@@ -1,0 +1,104 @@
+<?php
+class profile_school extends Controller {
+
+	private $parts = array();
+
+	public function __construct() {
+
+		parent::__construct();
+
+		$this->parts = config::get('paths');
+		$this->doProfile();
+	}
+
+	protected function doProfile() {
+
+		$skeleton	= config::getUserSkeleton();
+		$body		= make::tpl('body.admin.users.profile.school');
+		$uid		= null;
+		$arrBody	= array();
+		$objSchool	= new users_schools();
+
+		if ($this->parts[4] > 0) {
+			$arrBody['user_uid'] = $this->parts[4];
+			$objUser = new user($this->parts[4]);
+			$objUser->load();
+		}
+
+		if (count($_POST) > 0 && isset($_POST['submit-edit-profile'])) {
+			if ($objSchool->doSave()) {
+				$objSchool->redirectToDynamic('/users/school/');
+			} else {
+				$body->assign($objSchool->arrForm);
+			}
+
+		} else {
+
+			if ($this->parts[4] > 0) {
+				$arrBody['user_uid'] = $this->parts[4];
+				$objSchool->load(array(), $arrBody);
+				$arrBody['username_open'] = $objUser->get_username_open();
+				$arrBody['password_open'] = $objUser->get_password_open();
+
+				if ($objSchool->get_user_uid() != '') {
+					$uid = $objSchool->TableData['uid']['Value'];
+					foreach ($objSchool->TableData as $idx => $val) {
+						$arrBody[$idx] = $val['Value'];
+					}
+				}
+
+				$query ="SELECT ";
+				$query.="`notes_2wft_call1`, ";
+				$query.="`notes_2wft_call2`, ";
+				$query.="`notes_2wft_call3`,";
+				$query.="`notes_courtesy_call1`, ";
+				$query.="`notes_courtesy_call2`, ";
+				$query.="`notes_renewal_call1`, ";
+				$query.="`notes_renewal_call2`, ";
+				$query.="`call_status` ";
+				$query.="FROM ";
+				$query.="`user` ";
+				$query.="WHERE ";
+				$query.="`uid`='".$arrBody['user_uid']."' ";
+				$query.="LIMIT 0,1";
+				$result = database::query($query);
+				if(mysql_error()=='' && mysql_num_rows($result)) {
+					$arrRow = mysql_fetch_array($result);
+					$arrBody['notes_2wft_call1']		= $arrRow['notes_2wft_call1'];
+					$arrBody['notes_2wft_call2']		= $arrRow['notes_2wft_call2'];
+					$arrBody['notes_2wft_call3']		= $arrRow['notes_2wft_call3'];
+					$arrBody['notes_courtesy_call1']	= $arrRow['notes_courtesy_call1'];
+					$arrBody['notes_courtesy_call2']	= $arrRow['notes_courtesy_call2'];
+					$arrBody['notes_renewal_call1']		= $arrRow['notes_renewal_call1'];
+					$arrBody['notes_renewal_call2']		= $arrRow['notes_renewal_call2'];
+					$arrBody['call_status'.$arrRow['call_status']]	= 'selected="selected"';
+				}
+				$body->assign($arrBody);
+			}
+		}
+		$address_id = (isset($arrBody['address_id'])) ? $arrBody['address_id'] : 0;
+		$arrAddress = array(
+			'user_uid'		=> $arrBody['user_uid'],
+			'tbl_name'		=> 'users_schools',
+			'profile_uid'	=> $uid,
+			'address_id'	=> $address_id
+		);
+		$objAddress = new plugin_address_details($arrAddress);
+		$contentAddress = $objAddress->run();
+		$body->assign(
+			array(
+				'tab.address'		=> $contentAddress->get_content(),
+				'tab.schooladmin'	=> $objUser->getUserListForSchoolByType('schooladmin', $uid, 'profile_schooladmin'),
+				'tab.schoolteacher'	=> $objUser->getUserListForSchoolByType('schoolteacher', $uid, 'profile_schoolteacher'),
+				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid'])
+			)
+		);
+		$skeleton->assign(
+			array(
+				'body' => $body
+			)
+		);
+		output::as_html($skeleton, true);
+	}
+}
+?>

@@ -1,0 +1,35 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}article-template/list/">Article Template List</a> &gt; Edit &gt; {{ name }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form id="frm-package" action="{{ admin_uri }}article-template/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+        <p>
+			<label for="width" class="textbox"> <span class="label {{ error_width }}">Width:</span>
+				<input type="text" name="width" id="width" value="{{ width }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="height" class="textbox"> <span class="label {{ error_height }}">Height:</span>
+				<input type="text" name="height" id="height" value="{{ height }}" class="box" />
+			</label>
+		</p>
+		<p><span class="label">Template Translations:</span></p>
+		{{ template.translation }}
+		<p>
+		<p>
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>

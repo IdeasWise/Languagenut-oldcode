@@ -1,0 +1,141 @@
+<?php
+
+class profile_reseller extends generic_object {
+
+    public $changed_array = array();
+    public function __construct($uid = 0) {
+        parent::__construct($uid, __CLASS__, true);
+    }
+    public function doSave ()
+    {
+        $response = true;
+        $response = $this->isValidate();
+        if( count( $response ) == 0 ){
+            
+            $this->arrFields['itime']['Value'] = time();
+            if( $_POST['uid'] > 0)
+                $this->save ();
+            else{               
+                $insert = $this->insert();
+                $this->changed_array['uid'] = $insert;
+                $sql = database::query("UPDATE user SET user_type = CONCAT(user_type , ',reseller') where uid = '".$_POST['iuser_uid']."' ");
+            }
+        }
+        else{
+            $msg  = NULL;
+            foreach( $response as $idx => $val ){
+                $this->changed_array[$idx] = 'label_error';
+                $msg .= '<li>'.$val.'</li>';
+            }
+            if($msg != NULL)
+                $this->changed_array['message_error'] = '<p>Please correct the errors below:</p><ul>'.$msg.'</ul>';
+        }
+        if( count( $response ) > 0 )
+            return false;
+        else
+            return true;
+    }
+    public function isValidate()
+    {
+
+        if(is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+            parent::__construct($_POST['uid'],__CLASS__);
+            $this->load();
+        }
+        $message            =   array();
+         if( trim($_POST['vfirstname']) == '' ) {            
+            $message['error_vfirstname']      =   "Please provide your first name";
+        }
+        if( trim($_POST['vlastname']) == '' ) {
+            $message['error_vlastname']      =   "Please provide your last name";
+        }       
+        if( trim($_POST['vemail']) == '' ) {
+            $message['error_vemail']      =   "Please provide your email";
+        }
+        if(strlen($_POST['vemail']) <= 0 || strlen($_POST['vemail']) > 255) {
+            $message['error_vemail']      =   "Please provide your valid email";
+        }
+        if(trim($_POST['vfax']) == '' ) {
+            $message['error_vfax']      =   "Please provide your fax number";
+        }
+        if(trim($_POST['vphone']) == '' ) {
+            $message['error_vphone']      =   "Please provide your phone number";
+        }
+		
+		if( isset($_POST['locale_rights']) && count($_POST['locale_rights']) == 0 ) {
+            $message['error_locale_rights']      =   "Please select locale right.";
+        } else {
+			$_POST['locale_rights'] = implode(',',$_POST['locale_rights']);
+		}
+
+        foreach( $_POST as $idx => $val )   {
+            $this->changed_array[$idx] = $val;
+            if( in_array($idx,array('uid', 'submit-edit-profile')) ) continue;
+            $this->arrFields[$idx]['Value'] = $val;
+        }       
+        return $message;
+    }
+	
+	public function GetLocaleRights( $user_uid ) {
+		$locales = '';
+		if(is_numeric($user_uid ) && $user_uid  > 0) {
+			$query  = "SELECT ";
+			$query .= "`locale_rights` ";
+			$query .= "FROM ";
+			$query .= "`profile_reseller` ";
+			$query .= "WHERE ";
+			$query .= "`iuser_uid` = '".$user_uid."' ";
+			
+			$result = database::query($query);
+			if(mysql_error() == '' && mysql_num_rows($result)) {
+				$row = mysql_fetch_array($result);				
+				if(isset($row['locale_rights']) && $row['locale_rights'] != '') {
+					$locales = "'".str_replace(',',"','",$row['locale_rights'])."'";
+				}				
+			}
+		}
+		return $locales;
+	}
+	
+	public static function getPrefixes () {
+
+		$response = array();
+
+		$query = "SELECT ";
+		$query.= "`uid`, ";
+		$query.= "`name`, ";
+		$query.= "`prefix` ";
+		$query.= "FROM ";
+		$query.= "`language` ";
+		$query.= "WHERE ";
+		$query.= "`prefix` IN (".$_SESSION['user']['localeRights'].") ";
+		$query.= "ORDER BY ";
+		$query.= "`prefix` ASC";
+
+		$result = database::query($query);
+
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+			while($row = mysql_fetch_assoc($result)) {
+				$response[$row['uid']] = array (
+					'name'	=> stripslashes($row['name']),
+					'prefix'=> stripslashes($row['prefix'])
+				);
+			}
+		}
+
+		return $response;
+	}
+
+        public function getResellerNameByUid($uid){
+            $sql="SELECT vfirstname,vlastname
+                    FROM
+                    `profile_reseller`
+                    WHERE
+                    iuser_uid='{$uid}' LIMIT 1";
+            $reseller=database::arrQuery($sql);
+            if(empty($reseller))
+                return "";
+            return $reseller[0]["vfirstname"]." ".$reseller[0]["vlastname"];
+        }
+}
+?>

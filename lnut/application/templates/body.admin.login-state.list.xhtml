@@ -1,0 +1,23 @@
+<div id="content">
+    <div id="page-header">
+        <div id="header-title">
+            <h1>LOGIN HISTORY</h1>
+        </div>
+        <div id="header-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+    </div>
+    <div id="page-content">
+        <table id="page-list">
+            <tr>
+                <th>School</th>
+                <th>Recent Login</th>
+                <th>Logins Today</th>
+                <th>Logins This Week</th>
+                <th>Promocode</th>
+            </tr>
+            {{ rows }}
+        </table>
+    </div>
+    <div id="page-footer">
+        <div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+    </div>
+</div>

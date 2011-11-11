@@ -1,0 +1,24 @@
+<div class="in">
+    <div class="author">
+        <h2><a href="{{ admin_uri }}packages/">Package List</a> &gt; Default Settings</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <form id="frm-package" method="post" action="{{ admin_uri }}packages/defaultSettings/">
+        <div class="tabs">
+            <ul>
+                <li><a href="#school"><span>School Packages</span></a></li>
+                <li><a href="#homeuser"><span>Homeuser Packages</span></a></li>
+            </ul>
+            <div id="school"> {{ div.school.packages }} </div>
+            <div id="homeuser"> {{ div.homeuser.packages }} </div>
+        </div>
+        <div align="center">
+            <p>
+                <input type="submit" value="Save" class="com_btn" name="submit">
+            </p>
+        </div>
+    </form>
+</div>

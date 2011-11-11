@@ -1,0 +1,67 @@
+
+<div class="in">
+	<div class="breadcrumb">
+		<a href="{{ uri }}admin/activity/list/">Activity</a> > <a href="{{ uri }}admin/activity/edit/{{ activity_uid }}/">{{ activity_name }}</a> > <a href="{{ uri }}admin/activity/reference-materials/{{ activity_uid }}/">Reference Materials</a> > <a href="{{ uri }}admin/exercise_qae_topic/list/{{ activity_uid }}/">Exercise QAE Topic</a> > <a href="{{ uri }}admin/exercise_qae_topic_content/list/{{ exercise_qae_topic_uid }}/{{ activity_uid }}/">Exercise QAE Topic Content</a> > <a href="{{ uri }}admin/exercise_qae_topic_content_question/list/{{ exercise_qae_topic_content_uid }}/{{ activity_uid }}/{{ exercise_qae_topic_uid }}/">Exercise QAE Topic Content Question</a> > Add
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form action="{{ uri }}admin/exercise_qae_topic_content_question/add/{{ exercise_qae_topic_content_uid }}/{{ activity_uid }}/{{ exercise_qae_topic_uid }}/" method="post" enctype="multipart/form-data">
+		<p>
+			<label for="title" class="textbox"> <span class="label {{ error_title }}">Title:</span>
+				<input type="text" name="title" id="title"  class="box" value="{{ title }}" />
+			</label>
+		</p>
+		<p>
+			<label for="focus" class="textbox"> <span class="label {{ error_focus }}">Focus:</span>
+				<input type="text" name="focus" id="focus"  class="box" value="{{ focus }}" />
+			</label>
+		</p>
+		<p>
+			<label for="difficulty" class="textbox"> <span class="label {{ error_difficulty }}">Difficulty:</span>
+				{{ difficulty_uid }}
+			</label>
+		</p>
+		<p>
+			<label for="available" class="textbox"> <span class="label {{ error_available }}">Available:</span>
+				<select name="available" id="available" >
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</select>
+			</label>
+		</p>
+		<div class="tabs">
+			<ul>
+			{{ locales }}
+			</ul>
+		{{ tabs }}
+		</div>
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>
+<script type="text/javascript" >
+	var option_counter=1;
+function add_qae_option(id,locale){
+	var data='<tr><td><input type="text" name="answer_text_'+locale+'[]" value="" /></td><td><input type="text" name="text_if_wrong_'+locale+'[]" value="" /></td><td><input type="text" name="audio_file_'+locale+'[]" value="" /></td><td><input type="radio" name="correct_answer_'+locale+'" id="correct_answer_'+locale+'" value="'+option_counter+'" /></td><td><a href="javascript:;" onclick="remove_qae_question(this,\''+locale+'\')">Remove</a></td></tr>';
+	$("#"+id).append(data);
+	option_counter++;
+}
+function remove_qae_question(self,locale){
+	$(self).parent().parent().remove();
+	reset_option_counter(locale)
+	option_counter--;
+}
+function reset_option_counter(locale){
+	var cnt=0;
+	$("#option_"+locale+" input[type=radio]").each(function(){
+		
+		$(this).val(cnt);
+		cnt++;
+	});
+	
+}
+</script>

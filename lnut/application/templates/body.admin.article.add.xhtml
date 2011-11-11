@@ -1,0 +1,73 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/article/">Article List</a> &gt; Add</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="{{ uri }}admin/article/add/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="title" class="textbox"> <span class="label {{ error.title }}">Title:</span>
+				<input type="text" name="title" id="title" value="{{ title }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="width" class="textbox"> <span class="label {{ error.width }}">Width:</span>
+				<input type="text" name="width" id="width" value="{{ width }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="height" class="textbox"> <span class="label {{ error.height }}">Height:</span>
+				<input type="text" name="height" id="title" value="{{ height }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="token" class="textbox"> <span class="label {{ error.token }}">Token:</span>
+				<input type="text" name="token" id="token" value="{{ token }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="article_category_uid" class="listbox"> <span class="label {{ error.article_category_uid }}">Article Category:</span>
+				{{ article_category_uid }}
+			</label>
+		</p>
+        
+        <p>
+			<label for="unit_uid" class="listbox"> <span class="label {{ error.unit_uid }}">Article Unit:</span>
+				{{ unit_uid }}
+			</label>
+		</p>
+        
+        <div>
+			<p><span class="label">Article Type:</span></p>
+			<label style="float: left;" for="single_page_radio">
+				<input type="radio" checked="checked" value="1" id="single_page_radio" name="article_template_type_uid">
+				Single </label>
+			<label for="multiple_page_radio">
+				<input type="radio" value="2" id="multiple_page_radio" name="article_template_type_uid">
+				Multiple </label>
+		</div>
+
+		<p>
+			<label for="" class="listbox"> <span class="label {{ error.template_uid }}">Article Template:</span>
+            	<div id="templage_uid_html" style="float:left; margin-right:20px;">
+					{{ template_uid }}
+                </div>
+                <div><input type="button" id="add_template" class="com_btn" value="(+)" style="display:none;"></div>
+                <div style="clear:both;"></div>
+                <div id="template_container"></div>
+			</label>
+		</p>
+        
+        <p><span class="label">Article Translations:</span></p>
+		{{ article.translation }}
+		<p>
+
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

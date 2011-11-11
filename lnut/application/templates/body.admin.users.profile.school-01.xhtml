@@ -1,0 +1,100 @@
+<div id="content">
+	<div id="page-header">
+		<div id="header-title">
+			<h1>School Edit &gt; {{ school }}</h1>
+		</div>
+	</div>
+	<div class="tabs">
+		<ul>
+			<li><a href="#tab-0"><span>Update School</span></a></li>
+			<li><a href="#tab-1"><span>Edit Address</span></a></li>
+			<li><a href="#tab-2"><span>School Admins</span></a></li>
+			<li><a href="#tab-3"><span>School Teachers</span></a></li>
+			<li><a href="#tab-4"><span>Classes</span></a></li>
+			<li><a href="#tab-5"><span>Subscriptions</span></a></li>
+		</ul>
+		<div id="tab-0">
+			<div align="right">
+				<a href="{{ admin_uri }}users/edit/{{ user_uid }}/" target="_blank" style="color:#666666; margin-right:10px; text-decoration:none;">Edit User</a>
+			</div>
+			<div class="message_error"> {{ message_error }} </div>
+			<form action="" method="post" name="edit-profile">
+				<div>
+					<div style="float:left;width:48%;">
+						<p>
+							<label for="school"  class="textbox">
+								<span class="label {{ error_school }}">School Name:</span>
+								<input type="text" name="school" id="school" value="{{ school }}" />
+							</label>
+						</p>
+
+						<p>
+							<label for="contact"  class="textbox">
+								<span class="label {{ error_contact }}">Contact Name:</span>
+								<input type="text" name="contact" id="contact" value="{{ contact }}" />
+							</label>
+						</p>
+
+						<p>
+							<label for="phone_number"  class="textbox">
+								<span class="label {{ error_phone_number }}">Phone Number:</span>
+								<input type="text" name="phone_number" id="phone_number" value="{{ phone_number }}" />
+							</label>
+						</p>
+                        
+                        <p>
+							<label for="user_limit"  class="textbox">
+								<span class="label {{ error_user_limit }}">User Limit:</span>
+								<input type="text" name="user_limit" id="user_limit" value="{{ user_limit }}" />
+							</label>
+						</p>
+                        <p><strong>Note:</strong>A User Limit of 0 means the school has no limit on the number of student accounts it may create.</p>
+                        
+					</div>
+					<div style="float:right;width:48%;">
+						<p>
+							<label for="username_open"  class="textbox">
+								<span class="label {{ error_username_open }}">Open UserName:</span>
+								<input type="text" name="username_open" id="username_open" value="{{ username_open }}" />
+							</label>
+						</p>
+
+						<p>
+							<label for="password_open"  class="textbox">
+								<span class="label {{ error_password_open }}">Open Password:</span>
+								<input type="text" name="password_open" id="password_open" value="{{ password_open }}" />
+							</label>
+						</p>
+
+						<p>
+							<span class="label">Notes:</span>
+							<label for="notes" class="textarea" style="height:150px;">
+								<textarea name="notes" id="notes" style="height:100px;">{{ notes }}</textarea>
+							</label>
+						</p>
+					</div>
+				</div>
+				<p>
+					<input type="hidden" name="user_uid" id="user_uid" value="{{ user_uid }}" />
+					<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+					<input type="submit" name="submit-edit-profile" value="Save" class="btnstyle fl-center RemoveCss" />
+				</p>
+			</form>
+		</div>
+
+		<div id="tab-1"> {{ tab.address }} </div>
+		<div id="tab-2">
+			<div align="right"><a href="{{ admin_uri }}users/add/">Add Admin</a></div>
+			{{ tab.schooladmin }}
+		</div>
+		<div id="tab-3">
+			<div align="right"><a href="{{ admin_uri }}users/add/">Add Teacher</a></div>
+			{{ tab.schoolteacher }}
+		</div>
+		<div id="tab-4"> Coming soon </div>
+		<div id="tab-5">
+			<div align="right"><a href="{{ admin_uri }}invoice/school/add/">Add Subscription</a></div>
+			{{ tab.subscriptions }}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,49 @@
+<div class="in">
+	<div class="author">
+		<h2>Word Bank</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<form action="{{ uri }}account/wordbank/list/" method="post">
+		<div class="tabs">
+			<ul>
+				{{ locales }}
+			</ul>
+			{{ tabs }} </div>
+		<div>
+			<p>
+				<input type="submit" class="com_btn" value="Save" name="save" />
+			</p>
+		</div>
+	</form>
+</div>
+<div class="line"></div>
+<div class="in">
+	<div class="author">
+		<h2>Add Word</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> </div>
+	<form name="user-form" id="user-form" method="post" action="{{ uri }}account/wordbank/list/">
+		<p>
+			<label for="add_word" class="textbox"> <span class="label">Term</span>
+				<input type="text" name="add_word" id="add_word" class="box" value="" />
+			</label>
+		</p>
+		<p>
+			<label for="language_uid" class="select"> <span class="label">Language</span>
+				<select name="language_uid">
+					{{ language_options }}
+				</select>
+			</label>
+		</p>
+		<p>
+			<input type="submit" value="Add Term" class="com_btn" id="submit-user-form" name="add">
+		</p>
+	</form>
+</div>

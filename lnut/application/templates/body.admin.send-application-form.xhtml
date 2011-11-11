@@ -1,0 +1,23 @@
+<div class="in forms" style="width:100%">
+	<div class="message_error"> {{ message_error }} </div>
+	<form name="frmTab" id="frmTab" method="post" action="{{ action }}">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+		<p><span class="label">Introduction Text:</span></p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="introduction_text" id="{{ introduction_text.id }}">{{ introduction_text }}</textarea>
+		</div>
+		<p>
+			<label for="email_subject" class="textbox"> <span class="label {{ error.email_subject }}">E-mail Subject:</span>
+				<input type="text" name="email_subject" id="email_subject" value="{{ email_subject }}" class="box" />
+			</label>
+		</p>
+		<p><span class="label">E-mail Notification Content:</span></p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="email_notification_text" id="{{ email_notification_text.id }}">{{ email_notification_text }}</textarea>
+		</div>
+		<p>
+			<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

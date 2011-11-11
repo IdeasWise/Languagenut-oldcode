@@ -1,0 +1,50 @@
+<table >
+	<tr>
+		<td>
+			<h3>Question</h3>
+			<table>
+				<tr>
+					<td>Question Text</td>
+					<td><input type="text" name="question_text_{{ locale }}" value="{{ question_text }}" class="box" /></td>
+				</tr>
+				<tr>
+					<td>Correct Answer Text</td>
+					<td><input type="text" name="correct_answer_text_{{ locale }}" value="{{ correct_answer_text }}" class="box" /></td>
+				</tr>
+				<tr>
+					<td>Audio File</td>
+					<td><input type="text" name="question_audio_file_{{ locale }}" value="{{ audio_file }}" class="box" /></td>
+				</tr>
+				<tr>
+					<td>Available</td>
+					<td>
+						<select name="available_{{ locale }}" >
+							<option value="1" {{ available_select_1 }}>Yes</option>
+							<option value="0" {{ available_select_0 }}>No</option>
+						</select>
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<h3>Options</h3>
+			<table id="option_{{ locale }}" width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+				<tr>
+					<th>Answer Text</th>
+					<th>Text If Wrong</th>
+					<th>Audio File</th>
+					<th>Correct Answer</th>
+					<th></th>
+				</tr>				
+				{{ options }}		
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<input type="button" name="btn_add_option_{{ locale }}" value="Add Option" class="com_btn" onclick="add_qae_option('option_{{ locale }}','{{ locale }}')" />
+		</td>
+	</tr>		
+</table>

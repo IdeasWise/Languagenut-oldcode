@@ -1,0 +1,23 @@
+<tr class="{{ subscription_cancelled }}" {{ extra_style }}>
+	<td>
+		<p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">{{ email }}</a></p>
+	</td>
+	<td><p>{{ school }}</p></td>
+	<td><p>{{ username_open }}</p></td>
+	<td><p>{{ registered_dts }}</p></td>
+	<td><p>{{ verified }}</p></td>
+	<td><p>{{ paid }}</p></td>
+    <td>
+    	<p>
+        	<a href="{{ admin_uri }}login-history/school/{{ school_uid }}/">Login History</a>
+        </p>
+    </td>
+    <td><p>{{ call_status }}</p></td>
+	<td>
+		<p id="data-{{ uid }}" class="invisible">
+			<a href="{{ admin_uri }}package-management/ordered-packages/{{ school_uid }}/">Package ({{ number_of_requests }} Request/s)</a><br /> 
+			<a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">Edit</a> | 
+			<a href="{{ admin_uri }}users/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a>
+		</p>
+	</td>    
+</tr>

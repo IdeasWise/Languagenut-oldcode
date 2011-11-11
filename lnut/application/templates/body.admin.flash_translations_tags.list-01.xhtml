@@ -1,0 +1,50 @@
+
+<div id="page-content">
+	<div class="box2">
+		<h3>Flash Translation Tags List<span></span></h3>
+
+		<div class="box2-mid">
+			<div id="cms-add-update">
+
+				<div class="message_error">  </div>
+
+				<form name="user-form" id="user-form" method="post" action="{{ uri }}admin/flash_translations_tags/">
+
+					<h4 class="warning">Warning: Do not edit the tag names or you WILL break the flash games. You may edit descriptions.</h4>
+
+					{{ tagHtml }}
+					<div style="text-align: center;">
+						<input type="submit" value="Save" class="btnstyle fl-center RemoveCss" id="submit-user-form" name="submit-button">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+
+	<div class="box2">
+		<h3>Add Tag<span></span></h3>
+
+		<div class="box2-mid">
+			<div id="cms-add-update">
+				<div class="message_error">  </div>
+				<form name="user-form" id="user-form" method="post" action="{{ uri }}admin/flash_translations_tags/">
+					<p>
+						<label for="add_tag" class="textbox">
+							<span class="label">Tag Name</span>
+							<input type="text" name="add_tag" id="add_tag" value="" />
+						</label>
+					</p>
+					<p>
+						<label for="tag_description" class="textbox">
+							<span class="label">Tag Description</span>
+							<input type="text" name="tag_description" id="tag_description" value="" />
+						</label>
+					</p>
+					<div style="text-align: center;">
+						<input type="submit" value="Add Tag" class="btnstyle fl-center RemoveCss" id="submit-user-form" name="submit-button">
+					</div>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

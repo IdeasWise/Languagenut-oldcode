@@ -1,0 +1,35 @@
+
+<div class="box2">
+  <h3>{{ title }}<span></span></h3>
+  <div class="box2-mid">
+  
+  <div class="message_error"> {{ message_error }} </div>
+    <form action="" method="post" name="currency-form" id="currency-form">	
+	<input type="hidden" name="uid" id="uid" value="{{ uid }}" />     
+      <p>
+        <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+        <input type="text" name="name" id="name" value="{{ name }}" />
+        </label>
+      </p>
+      <p>
+        <label for="prefix"  class="textbox"> <span class="label {{ error_symbol }}">Symbol:</span>
+        <input type="text" name="symbol" id="symbol" value="{{ symbol }}" />
+        </label>
+      </p>
+	  
+	 <p>
+      <span style="float:left;">Position</span>
+	  <label for="before" style="float:left;">
+	  	<input type="radio" name="position" id="position"  value="before" checked="checked" />Before&nbsp;&nbsp;
+	  </label>
+	  <label for="after">	
+		<input type="radio" name="position" id="position"  value="after" {{ after }} /> After        
+      </label>
+    </p>     
+     
+      <p>
+        <input type="submit" name="form_submit_button" value="{{ btnval }}" class="btnstyle fl-center" />
+      </p>
+    </form>
+  </div>
+</div>

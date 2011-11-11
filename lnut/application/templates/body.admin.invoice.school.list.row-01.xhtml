@@ -1,0 +1,15 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows {{ subscription_cancelled }}">
+  <div class="w250 ">
+    <p class="padding10" id="show-{{ uid }}"><a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">{{ name }}</a></p>
+    <p id="data-{{ uid }}" class="invisible padding10"> <a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/invoice/{{ type }}/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a>  | <a href="{{ uri }}admin/invoice/{{ type }}/view/{{ uid }}/" target="_blank" class="ajax invoice page">Invoice</a></p>
+  </div>
+  
+  <div class="w150 "> {{ due_date }} </div>
+  <div class="w150 "> {{ date_paid }} </div>
+  <div class="w150 {{ time_class }}">&nbsp;&nbsp;&nbsp; {{ time_remains }}  </div>
+  <div class="w80"> <div id="button-paid-{{ uid }}" style="{{ paid_button_display }}"><input type="button" name="paid" value="Paid?" title="Are you sure {{ name }} has paid {{ format_amount }} in full?" id="button-{{ uid }}" class="button-paid" /></div>
+  	<div class="ClassGreen"> {{ paid_string }}</div>
+   </div>
+</div>

@@ -1,0 +1,31 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}flash_tips/list/">Flash Tips</a> &gt; {{ title }}  &gt; Translation</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<p style="margin:20px;text-align:left;">Select Locale:<br /><span style="color:#f7f7f7;">{{ locales }}</span></p>
+<div class="line"></div>
+<div class="in">
+	<form name="frmTab" id="frmTab" method="post" action="{{ admin_uri }}flash_tips/translation/{{ flash_tips_uid }}/{{ locale }}/">
+    <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+	<input type="hidden" name="flash_tips_uid" id="flash_tips_uid" value="{{ flash_tips_uid }}" />
+    <input type="hidden" name="language_uid" id="language_uid" value="{{ language_uid }}" />
+	<p>
+		<label for="title" class="textbox"> <span class="label {{ error.title }}">Title:-</span>
+			<input type="text" name="title" id="title" value="{{ title }}" class="box" />
+		</label>
+	</p>
+	<p><span class="label">Content:-</span></p>
+	<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+		<textarea class="class-editor-input" name="content" id="content">{{ content }}</textarea>
+	</div>	
+	<p>
+		<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+	</p>
+</form>
+</div>
+<div class="line"></div>
+<div id="page-footer" class="in">
+	<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+</div>

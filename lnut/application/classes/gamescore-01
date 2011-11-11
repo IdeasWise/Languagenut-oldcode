@@ -1,0 +1,669 @@
+<?php
+
+class gamescore extends generic_object {
+
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
+
+	public function getTopByUserGameLanguage ($user_uid=null,$game_uid=null,$language_uid=null) {
+
+		$response = array ();
+
+		$sql = "SELECT ";
+		$sql.= "`uid`, ";
+		$sql.= "`user_uid`, ";
+		$sql.= "`game_uid`, ";
+		$sql.= "`language_uid`, ";
+		$sql.= "`time`, ";
+		$sql.= "`score_right`, ";
+		$sql.= "`score_wrong`, ";
+		$sql.= "`recorded_dts` ";
+		$sql.= "FROM ";
+		$sql.= "`gamescore` ";
+		$sql.= "WHERE ";
+		$sql.= "`user_uid`='".mysql_real_escape_string($user_uid)."' ";
+		$sql.= "AND `game_uid`='".mysql_real_escape_string($game_uid)."' ";
+		$sql.= "AND `language_uid`='".mysql_real_escape_string($language_uid)."' ";
+		$sql.= "ORDER BY ";
+		$sql.= "`score_right` DESC, ";
+		$sql.= "`time` ASC ";
+		$sql.= "LIMIT 1";
+
+		$res = database::query($sql);
+
+		if($res && mysql_error()=='' && mysql_num_rows($res) > 0) {
+			$response = mysql_fetch_assoc($res);
+			$response['vocab'] = gamescore_vocab::getByGame($game_uid);
+		}
+
+		return $response;
+
+	}
+
+	public function create ($jsonObject) {
+
+		$user_uid		= $_SESSION['user']['uid'];
+		$game_uid		= $jsonObject->game_uid;
+		$language_uid	= $jsonObject->language_uid;
+		$support_uid	= $jsonObject->support_language_uid;
+		$is_unit_test	= (isset($jsonObject->is_unit_test) ? $jsonObject->is_unit_test : 0);
+		$time			= $jsonObject->time;
+		$score_for		= $jsonObject->score_right;
+		$score_against	= $jsonObject->score_wrong;
+		$vocab			= array ();
+
+		$unit_uid		= 0;
+		$section_uid	= 0;
+
+		foreach($jsonObject->vocab as $vocabObj) {
+
+			if(0 === $unit_uid && 0 === $section_uid) {
+				$objSectionsVocabulary = new sections_vocabulary($vocabObj->vocab_uid);
+				$objSectionsVocabulary->load();
+				mail('workstation@mystream.co.uk','LNUT gamescore',print_r($objSectionsVocabulary,true),'From: developer@languagenut.com');
+				$section_uid = $objSectionsVocabulary->get_section_uid();
+
+				$objSection = new sections($section_uid);
+				$objSection->load();
+				mail('workstation@mystream.co.uk','LNUT gamescore',print_r($objSection,true),'From: developer@languagenut.com');
+				$unit_uid = $objSection->get_unit_uid();
+			}
+
+			$vocab[$vocabObj->vocab_uid] = array (
+				'for'		=> $vocabObj->score_right,
+				'against'	=> $vocabObj->score_wrong,
+				'time'		=> $vocabObj->time
+			);
+		}
+
+		//mail('workstation@mystream.co.uk','LNUT PARSE',"user_uid:$user_uid \ngame_uid:$game_uid \nlanguage_uid:$language_uid \nis_unit_test:$is_unit_test \ntime:$time \nscore_for:$score_for \nscore_against:$score_against \nsection_uid:$section_uid \nunit_uid:$unit_uid ",'From: developer:languagenut.com');
+
+		if($user_uid !== '' && $game_uid !== '' && $language_uid !== '' && $time !== '' && $score_for !== '' && $score_against !== '' && count($vocab) > 0) {
+			
+			$spelling_right = 0;
+			$spelling_wrong = 0;
+			if( ($score_for+$score_against) > 10) { // > 10 means a spelling game
+				$spelling_right 	= $score_for;
+				$spelling_wrong 	= $score_against;
+				$total 			= 0;
+				$total 			= ($score_for+$score_against);
+				$score_for 		=  round( (($score_for * 10 )/$total) );
+				$score_against 	=  (10  - $score_for) ;
+				
+			}
+			
+			
+
+			$this->set_user_uid($user_uid);
+			$this->set_game_uid($game_uid);
+			$this->set_language_uid($language_uid);
+			$this->set_unit_uid($unit_uid);
+			$this->set_section_uid($section_uid);
+			$this->set_is_unit_test($is_unit_test);
+			$this->set_time($time);
+			
+			$this->set_score_right($score_for);
+			$this->set_score_wrong($score_against);
+			
+			$this->set_spelling_right($spelling_right);
+			$this->set_spelling_wrong($spelling_wrong);
+			
+			$this->set_recorded_dts(date('Y-m-d H:i:s'));
+
+			$entry_uid = $this->insert();
+
+			if(mysql_error()!='') {
+				mail('workstation@mystream.co.uk','LNUT: gamescore add error',mysql_error(),'From: developer@languagenut.com');
+			}
+
+			$objGameVocab = new gamescore_vocab();
+			$objGameVocab->add($entry_uid, $language_uid, $support_uid, $vocab);
+
+			$newVocab = array ();
+
+			foreach($vocab as $uid=>$arr) {
+				$newVocab[] = array (
+					'vocab_uid'		=> $uid,
+					'score_right'	=> $arr['for'],
+					'score_wrong'	=> $arr['against'],
+					'time'			=> $arr['time']
+				);
+			}
+
+			return array(
+				'game_uid'		=> $game_uid,
+				'language_uid'	=> $language_uid,
+				'user_uid'		=> $user_uid,
+				'time'			=> $time,
+				'score_right'	=> $score_for,
+				'score_wrong'	=> $score_against,
+				'vocab'			=> $newVocab
+			);
+		}
+
+		return false;
+
+	}
+
+	public function isValidUpdate ($arrData=array()) {
+
+		$game_uid				= (isset($arrData['game_uid']) && (int)$arrData['game_uid'] > 0) ? $arrData['game_uid'] : '';
+		$name					= (isset($arrData['name']) && strlen(trim($arrData['name'])) > 0) ? $arrData['name'] : '';
+		$active_trynow			= (isset($arrData['active_trynow']) && (int)$arrData['active_trynow'] > -1) ? $arrData['active_trynow'] : '';
+		$active_subscription	= (isset($arrData['active_subscription']) && (int)$arrData['active_subscription'] > -1) ? $arrData['active_subscription'] : '';
+
+		if($game_uid != '' && $name != '' && $active_trynow != '' && $active_subscription != '') {
+
+			$this->__construct($game_uid);
+			$this->load();
+
+			$this->arrFields['name']['Value']				= $name;
+			$this->arrFields['active_trynow']['Value']		= $active_trynow;
+			$this->arrFields['active_subscription']['Value']= $active_subscription;
+
+			$this->save();
+
+			return true;
+		} else {
+			$arrData['name'] = $name;
+			$arrData['active_trynow'] = $active_trynow;
+			$arrData['active_subscription'] = $active_subscription;
+			$arrData['message'] = 'Please complete all fields';
+		}
+
+		return $arrData;
+
+	}
+
+	public function getFields () {
+		$response = array();
+
+		foreach($this->arrFields as $key=>$val) {
+			$response[$key] = $this->arrFields[$key]['Value'];
+		}
+
+		return $response;
+	}
+	 private function ResetPasswordsOfAllStudentsInClass( $class_uid ) {
+	 	 $sql = "SELECT "; 
+		 $sql .= "`S`.`uid`, ";
+		 $sql .= "`S`.`iuser_uid`, ";
+		 $sql .= "CONCAT(`vlastname`,' ',`vfirstname` ) as Name, ";
+		 $sql .= "`U`.`email`, ";
+		 $sql .= "`U`.`locale`, ";
+		 $sql .= "`S`.`wordbank_word` ";
+		 $sql .= "FROM `profile_student` as S, ";
+		 $sql .= "`classes_student` as SC, ";
+		 $sql .= "`user` as U   ";		 
+		 $sql .= "WHERE ";
+		 $sql .= "`U`.`uid` = `S`.`iuser_uid` ";
+		 $sql .= "and `U`.`deleted` != '1' ";
+		 $sql .= "and `S`.`uid` = `SC`.`student_uid` ";
+		 $sql .= "and `SC`.`class_uid` = '".@$class_uid."' ORDER BY `vlastname` ";
+		 $result = database::query($sql);
+		 
+		 $wordbank = new wordbank();
+		 
+		 
+		 if(mysql_num_rows( $result )) {
+		 	while( $row = mysql_fetch_array($result)) {
+				 $word = '';
+				 $word_term = '';
+				 $word = $wordbank->getRandomWord($row['locale']);
+				 if(is_array($word))
+				 	$word_term = $word['term'];
+				 if($word_term && $word_term !== null) {
+					$word_term.= rand(0,10).rand(0,10).rand(0,10);
+				 }
+				
+				 $student = new profile_student($row['uid']);
+				 $student->load();
+				 $student->set_wordbank_word($word_term);
+				 $student->save();
+				 
+				 $user = new user($row['iuser_uid']);
+				 $user->load();
+				 $user->set_password(md5($word_term));
+				 $user->save();
+				 
+				
+			}
+		 }
+	 }
+	 public function getStudentsByClass( $class_uid ) {
+	 	 if(isset($_POST['form_reset_button'])) {
+		 	$this->ResetPasswordsOfAllStudentsInClass( $class_uid );
+		 }
+	 	 $sql = "SELECT "; 
+		 $sql .= "`S`.`uid`, ";
+		 $sql .= "`S`.`iuser_uid`, ";
+		 $sql .= "CONCAT(`vlastname`,' ',`vfirstname` ) as Name, ";
+		 $sql .= "`U`.`email`, ";
+		 $sql .= "`U`.`locale`, ";
+		 $sql .= "`S`.`wordbank_word` ";
+		 $sql .= "FROM `profile_student` as S, ";
+		 $sql .= "`classes_student` as SC, ";
+		 $sql .= "`user` as U   ";		 
+		 $sql .= "WHERE ";
+		 $sql .= "`U`.`uid` = `S`.`iuser_uid` ";
+		 $sql .= "and `U`.`deleted` != '1' ";
+		 $sql .= "and `S`.`uid` = `SC`.`student_uid` ";
+		 $sql .= "and `SC`.`class_uid` = '".@$class_uid."' ORDER BY `vlastname` ";
+		 $result = database::query($sql);
+		 $data = array();
+		 if(mysql_num_rows( $result )) {
+		 	while( $row = mysql_fetch_array($result)) {
+				$data[] = $row;
+			}
+		 }
+		 return $data;
+	 }
+	 public function getClassUsersAndScores ($class_uid,$language_uid,$unit_uid,$sections ) {
+		 
+		 $html = '';
+		 $sql = "SELECT "; 
+		 $sql .= "`S`.`uid`, ";
+		 $sql .= "`S`.`iuser_uid`, ";
+		 $sql .= "CONCAT(`vlastname`,', ',`vfirstname` ) as Name, ";
+		 $sql .= "`U`.`email` ";
+		 $sql .= "FROM `profile_student` as S, ";
+		 $sql .= "`classes_student` as SC, ";
+		 $sql .= "`user` as U   ";
+		 $sql .= "WHERE ";
+		 $sql .= "`U`.`uid` = `S`.`iuser_uid` ";
+		 $sql .= "and `U`.`deleted` != '1' ";
+		 $sql .= "and `S`.`uid` = `SC`.`student_uid` ";
+		 $sql .= "and `SC`.`class_uid` = '".@$class_uid."' ";
+		 $sql .= "ORDER BY `vlastname` ";
+
+		$result = database::query($sql);	
+		
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+            while($row=mysql_fetch_assoc($result)) {
+				$html .='<tr>';
+				$html .='<td>'.$row['Name'].'</td>';
+				
+				if(!empty($sections)) {
+					foreach($sections as $uid=>$data) {
+						//SELECT `G`.`uid` as g_uid  FROM `game` as `G` WHERE 1
+						// SECTION'S SCORES SECTION START HERE
+						$query = "SELECT ";
+						$query .= "`G`.`uid` as `g_uid`, ";
+						$query .= "`G`.`name`, ";
+						$query .= "`G`.`class_name`, ";
+						$query .= "( ";
+							$query .= "SELECT ";
+							$query .= "CONCAT(`score_right`,'-',`uid`) ";
+							$query .= "FROM `gamescore` ";
+							$query .= "where ";
+							$query .= "`game_uid` = `g_uid` ";
+							$query .= "and `user_uid` = '".$row['iuser_uid']."' ";
+							$query .= "and `language_uid` = '".$language_uid."' ";
+							$query .= "and `section_uid` = '".$data['uid']."' ";
+							$query .= "and `is_unit_test` = '0' ";
+							$query .= " ORDER BY `score_right` DESC LIMIT 0,1";
+						$query .= ") as `g_score` ";
+						$query .= "FROM `game` as `G` where `G`.`playable` = '1' ORDER BY `G`.`game_number`";
+
+						$result2 = database::query($query);
+						if($result2 && mysql_error()=='' && mysql_num_rows($result2) > 0) { 
+							while($score = mysql_fetch_assoc($result2)) {
+								$class = '';
+								$score['gscore_uid'] = '';
+								if( !is_null( $score['g_score'] ) )
+									list($score['g_score'], $score['gscore_uid']) = explode('-',$score['g_score']);
+									
+								if( is_numeric($score['g_score'])) {
+									if($score['g_score'] <= 4 )
+										$class = 'medal_bronze';
+									else if($score['g_score'] <= 8 )
+										$class = 'medal_silver';
+									else if($score['g_score'] > 8 )
+										$class = 'medal_gold';
+								}
+								if(!is_null($score['g_score'])) {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' "><a href="'.config::admin_uri('classes/get-certificate/'.$class_uid.'/'.$language_uid.'/'.$score['gscore_uid']).'" target="_blank">'.$score['g_score'].'</a></td>';
+								} else {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' ">-</td>';
+								}							
+							}
+						}
+						// SECTION'S SCORES SECTION END HERE
+						
+					}	
+					
+					// UNIT'S SCORE SECTION START HERE...		
+						
+						$query = "SELECT ";
+						$query .= "`G`.`uid` as `g_uid`, ";
+						$query .= "`G`.`name`, ";
+						$query .= "`G`.`class_name`, ";
+						$query .= "( ";
+							$query .= "SELECT ";
+							$query .= "CONCAT(`score_right`,'-',`uid`) ";
+							$query .= "FROM `gamescore` ";
+							$query .= "where ";
+							$query .= "`game_uid` = `g_uid` ";
+							$query .= "and `user_uid` = '".$row['iuser_uid']."' ";
+							$query .= "and `language_uid` = '".$language_uid."' ";	
+							$query .= "and `unit_uid` = '".$unit_uid."' ";							
+							$query .= "and `is_unit_test` = '1'";
+							$query .= " ORDER BY `score_right` DESC LIMIT 0,1";
+						$query .= ") as `g_score` ";
+						$query .= "FROM `game` as `G` where `G`.`playable` = '1' ORDER BY `G`.`game_number`"; 
+
+						$result3 = database::query($query);
+						if($result3 && mysql_error()=='' && mysql_num_rows($result3) > 0) { 
+							while($score = mysql_fetch_assoc($result3)) {
+								$class = '';
+								$score['gscore_uid'] = '';
+								if( !is_null( $score['g_score'] ) )
+									list($score['g_score'], $score['gscore_uid']) = explode('-',$score['g_score']);
+									
+								if( is_numeric($score['g_score'])) {
+									if($score['g_score'] <= 4 )
+										$class = 'medal_bronze';
+									else if($score['g_score'] <= 8 )
+										$class = 'medal_silver';
+									else if($score['g_score'] > 8 )
+										$class = 'medal_gold';
+								}
+								if(!is_null($score['g_score'])) {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' "><a href="'.config::admin_uri('classes/get-certificate/'.$class_uid.'/'.$language_uid.'/'.$score['gscore_uid']).'" target="_blank">'.$score['g_score'].'</a></td>';
+								} else {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' ">-</td>';
+								}
+							}
+						}		
+				}
+				//$html .='<td align="center">T</td>';
+				$html .='</tr>';
+
+			}
+		}
+		return $html;
+    }
+    
+    
+    
+    public function getClassUsersAndScoresForUnit ($class_uid,$language_uid,$units_uids ) {
+		 
+		 $html = '';
+		 $sql = "SELECT "; 
+		 $sql .= "`S`.`uid`, ";
+		 $sql .= "`S`.`iuser_uid`, ";
+		 $sql .= "CONCAT(`vlastname`,', ',`vfirstname` ) as Name, ";
+		 $sql .= "`U`.`email` ";
+		 $sql .= "FROM `profile_student` as S, ";
+		 $sql .= "`classes_student` as SC, ";
+		 $sql .= "`user` as U   ";
+		 $sql .= "WHERE ";
+		 $sql .= "`U`.`uid` = `S`.`iuser_uid` ";
+		 $sql .= "and `U`.`deleted` != '1' ";
+		 $sql .= "and `S`.`uid` = `SC`.`student_uid` ";
+		 $sql .= "and `SC`.`class_uid` = '".@$class_uid."' ";
+		 $sql .= "ORDER BY `vlastname` ";
+		 
+
+		$result = database::query($sql);	
+		
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+            while($row=mysql_fetch_assoc($result)) {
+				$html .='<tr>';
+				$html .='<td>'.$row['Name'].'</td>';
+				
+				if(!empty($units_uids)) {
+					foreach($units_uids as $uid=>$data) {
+						//SELECT `G`.`uid` as g_uid  FROM `game` as `G` WHERE 1
+						$query = "SELECT ";
+						$query .= "`G`.`uid` as `g_uid`, ";
+						$query .= "`G`.`name`, ";
+						$query .= "`G`.`class_name`, ";
+						$query .= "( ";
+							$query .= "SELECT ";
+							$query .= "CONCAT(`score_right`,'-',`uid`) ";
+							$query .= "FROM `gamescore` ";
+							$query .= "where ";
+							$query .= "`game_uid` = `g_uid` ";
+							$query .= "and `user_uid` = '".$row['iuser_uid']."' ";
+							$query .= "and `language_uid` = '".$language_uid."' ";
+							$query .= "and `unit_uid` = '".$data['uid']."'";
+							$query .= "and `is_unit_test` = '1'";
+							$query .= " ORDER BY `score_right` DESC LIMIT 0,1";
+						$query .= ") as `g_score` ";
+						$query .= "FROM `game` as `G` where `G`.`playable` = '1' ORDER BY `G`.`game_number`";
+
+						$result2 = database::query($query);
+						if($result2 && mysql_error()=='' && mysql_num_rows($result2) > 0) { 
+							while($score = mysql_fetch_assoc($result2)) {
+								$class = '';
+								$score['gscore_uid'] = '';
+								if( !is_null( $score['g_score'] ) )
+									list($score['g_score'], $score['gscore_uid']) = explode('-',$score['g_score']);
+									
+								if( is_numeric($score['g_score'])) {
+									if($score['g_score'] <= 4 )
+										$class = 'medal_bronze';
+									else if($score['g_score'] <= 8 )
+										$class = 'medal_silver';
+									else if($score['g_score'] > 8 )
+										$class = 'medal_gold';
+								}
+								//$html .='<td class="'.$class.'" title="Game: '.$score['name'].' ">'.$score['g_score'].'</td>';
+								if(!is_null($score['g_score'])) {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' "><a href="'.config::admin_uri('classes/get-certificate/'.$class_uid.'/'.$language_uid.'/'.$score['gscore_uid']).'" target="_blank">'.$score['g_score'].'</a></td>';
+								} else {
+									$html .='<td class="'.$class.'" title="Game: '.$score['name'].' ">-</td>';
+								}
+							}
+						}						
+					}			
+				}
+				$html .='</tr>';
+
+			}
+		}
+		return $html;
+    }
+    
+	public function getScoresBySectionAndUser($section_id=null, $user_uid=null, $language_uid=null) {
+		$scores = array();
+		if($user_uid && $section_id && $language_uid) {
+			$query = "SELECT ";
+			$query.= "`game_uid`, ";
+			$query.= "`is_unit_test`, ";
+			$query.= "`time`, ";
+			$query.= "`score_right`, ";
+			$query.= "`score_wrong` ";
+			$query.= "FROM ";
+			$query.= "`gamescore` ";
+			$query.= "WHERE ";
+			$query.= "`user_uid`='".mysql_real_escape_string($user_uid)."' ";
+			$query.= "AND `section_uid`='".mysql_real_escape_string($section_id)."' ";
+			$query.= "AND `language_uid`='".mysql_real_escape_string($language_uid)."' ";
+			$query.= "AND `is_unit_test`=0 ";
+			$query.= "ORDER BY `game_uid` ASC";
+
+			$result = database::query($query);
+
+			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+				$max = array ();
+				while($row = mysql_fetch_assoc($result)) {
+					if($row['game_uid']==1) {
+						$thismax = ($row['score_right']*100/($row['score_right']+$row['score_wrong']));
+					} else if($row['game_uid']==2) {
+						$thismax = ($row['score_right']*100/($row['score_right']+$row['score_wrong']));
+					} else if($row['game_uid']==3) {
+						$thismax = ($row['score_right']*100/($row['score_right']+$row['score_wrong']));
+					} else if($row['game_uid']==4) {
+						$thismax = ($row['score_right']*100/($row['score_right']+$row['score_wrong']));
+					} else {
+						$thismax = -1;
+					}
+					if(!isset($max[$row['game_uid']])) {
+						$max[$row['game_uid']] = 0;
+					}
+					if($thismax > $max[$row['game_uid']]) {
+						$max[$row['game_uid']] = $thismax;
+					}
+					//$scores[$row['game_uid']] = $row;
+				}
+				$scores = $max;
+			}
+		}
+		return $scores;
+	}
+	
+    public function getGameScoreDetail ( $gamescore_uid, $language_uid ) {
+    		 $data = array();
+		 $right_words = array();
+		 $Words = array();
+		 $wrong_words = array();
+		 $Mgessages = array();
+		 $images = array();
+		 
+    		 $query = "SELECT `GS`.*, `GT`.`name` as GameName, CONCAT(`PS`.`vfirstname`,' ', `PS`.`vlastname`) as `StudentName`, `PS`.`uid`  as `student_uid`, `UT`.`name` as `Unit`, `ST`.`name`  as `Section`, `unit_number`, `section_number`, `USER`.`locale`
+				FROM  `gamescore` as `GS`, 
+					 `profile_student` as `PS`,
+					 `game_translation` as `GT`, 
+					 `units_translations` as `UT`,
+					 `sections_translations` as `ST`,
+					 `units` as `U`,
+					 `sections` as `S`,
+					 `user` as `USER`
+				WHERE
+					`GS`.`user_uid` = `PS`.`iuser_uid` and 
+					
+					`GS`.`game_uid` = `GT`.`game_uid` and 
+					`GT`.language_uid = '".$language_uid."' and 
+					
+					`GS`.`unit_uid` = `U`.`uid` and 
+					`GS`.`unit_uid` = `UT`.`unit_id` and 
+					`UT`.language_id = '".$language_uid."' and 
+					
+					`GS`.`section_uid` = `S`.`uid` and 
+					`GS`.`section_uid` = `ST`.`section_uid` and 
+					`ST`.language_id = '".$language_uid."' and 					
+					
+					`USER`.`uid` = `GS`.`user_uid` and 
+					
+					`GS`.`uid` = '".$gamescore_uid."'
+					";
+					
+				$data = database::arrQuery($query);	
+				if(count($data) > 0) {
+					$data[0]['right_words'] = '';
+					$data[0]['wrong_words'] = '';
+					// GET WORDS: You learnt these words perfectly:
+					 $query = "SELECT `word_translated` FROM `gamescore_vocab` 
+							where 
+								`gamescore_uid` = '".$gamescore_uid."' and 
+								`score_right` = '1' and 
+								`score_wrong` = '0'
+							";
+					$Words = database::arrQuery($query);	
+					if(count($Words) > 0) {
+						for($i = 0; $i < count($Words); $i++ ) {
+							$right_words[] = $Words[$i]['word_translated'];
+						}
+						$data[0]['right_words']  = iconv("UTF-8", "cp1252",stripslashes(@implode(', ',$right_words)));
+					}
+					
+					// GET WORDS: Work on these words:
+					 $query = "SELECT `word_translated` FROM `gamescore_vocab` 
+							where 
+								`gamescore_uid` = '".$gamescore_uid."' and 
+								`score_right` = '0' and 
+								`score_wrong` = '1'
+							";
+					$Words = array();		
+					$Words = database::arrQuery($query);	
+					if(count($Words) > 0) {
+						for($i = 0; $i < count($Words); $i++ ) {
+							$wrong_words[] = $Words[$i]['word_translated'];
+						}
+						$data[0]['wrong_words']  = iconv("UTF-8", "cp1252", stripslashes(@implode(', ',$wrong_words)));
+					}
+					unset($Words);
+					// GET CERTIFICATE MESSAGE TRANSLATIONS
+					$query = "SELECT 
+						CM.tag, 
+						(
+							SELECT 							 
+							`text` 
+							FROM 
+							`certificate_messages_translations` as `CMT`
+							WHERE 
+							`CMT`.`message_uid` = `CM`.`uid` AND
+							`CMT`.`locale` = '".$data[0]['locale']."'
+							
+						) as `text`  
+
+						FROM 
+						`certificate_messages` as `CM`
+						";
+					$Mgessages = database::arrQuery($query);
+					
+					
+					
+					for($i = 0;  $i < count($Mgessages); $i++ ) {
+						$data[0][$Mgessages[$i]['tag']] = iconv("UTF-8", "cp1252", stripslashes($Mgessages[$i]['text']));
+					}
+					unset($Mgessages);
+					
+					// GET CERTIFICATE IMAGES
+					$query = "SELECT `logo_url`,`gold_bg`, `silver_bg`,`bronze_bg` FROM `language` where `prefix` = '".$data[0]['locale']."' ";	
+					$images = database::arrQuery($query);
+					
+					if(count($images) > 0 )
+						$data[0] = array_merge($data[0], $images[0]);
+					
+					$sizes = array();	
+					// GET CERTIFICATE GOLD, SILVER BORNZE HEADER SIZES 
+					$query = "SELECT `gold_size`, `silver_size`,`bronze_size` FROM `certificate_font_size` where `locale` = '".$data[0]['locale']."' ";	
+					$sizes = database::arrQuery($query);
+					
+					if(count($sizes) > 0 )
+						$data[0] = array_merge($data[0], $sizes[0]);
+					
+					
+					
+
+				$data[0]['url'] = 'www.languagenut.com/'.$data[0]['locale'];
+				
+			
+			
+			
+			
+			
+			
+			if( is_numeric($data[0]['score_right'])) {
+				if($data[0]['score_right'] <= 4 ) {
+					$data[0]['medal'] = $data[0]['bronze.medal'];
+					$data[0]['font_size'] = $data[0]['bronze_size'];
+					$data[0]['background'] = $data[0]['bronze_bg'];
+					$data[0]['cong.msg'] = $data[0]['bronze.congratulations.medal'];
+					
+				} else if($data[0]['score_right'] <= 8 ) {
+					$data[0]['medal'] = $data[0]['silver.medal'];
+					$data[0]['font_size'] = $data[0]['silver_size'];
+					$data[0]['background'] = $data[0]['silver_bg'];
+					$data[0]['cong.msg'] = $data[0]['silver.congratulations.medal'];
+				} else if($data[0]['score_right'] > 8 ) {
+					$data[0]['medal'] = $data[0]['gold.medal'];
+					$data[0]['font_size'] = $data[0]['gold_size'];
+					$data[0]['background'] = $data[0]['gold_bg'];
+					$data[0]['cong.msg'] = $data[0]['gold.congratulations.medal'];
+				}	
+			}
+					
+					
+				}				
+				
+				return $data;
+    }
+
+}
+
+?>

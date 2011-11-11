@@ -1,0 +1,188 @@
+<?php
+
+class years extends generic_object {
+
+	public $arrForm = array();
+
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
+
+	public function YearSelectBox($inputName, $selctedValue = NULL)
+	{
+		$query = "SELECT ";
+		$query.="`uid`, ";
+		$query.="`name `";
+		$query.="FROM ";
+		$query.="`years` ";
+		$query.="ORDER BY `name`";
+		$result = database::query($query);
+		$data = array();
+		$data[0] = 'Year';
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+			while($row=mysql_fetch_assoc($result)) {
+				$data[$row['uid']] = $row['name'];
+			}
+		}
+		return format::to_select(
+				array(
+					'name'			=> $inputName,
+					'id'			=> $inputName,
+					'options_only'	=> false
+				),
+				$data,
+				$selctedValue
+			);
+
+	}
+
+	public function getList( $data = array(), $OrderBy = "name ", $all = false )
+	{
+		$where = ' WHERE 1=1 ';
+		foreach($data as $idx => $val ){
+			$where .= " AND " . $idx . "='" . $val . "'";
+		}
+		if(!$all) {
+			$query ="SELECT ";
+			$query.="COUNT(`uid`) ";
+			$query.="FROM ";
+			$query.="`years` ";
+			$query.= $where;
+			$this->setPagination( $query );
+		}
+		$query="SELECT ";
+		$query.="* ";
+		$query.="FROM ";
+		$query.="`years` ";
+		$query.=$where . " ";
+		$query.="ORDER BY ";
+		$query.=$OrderBy;
+		if(!all) {
+			$query.=" LIMIT ".$this->get_limit();
+		}
+		return database::arrQuery($query);
+
+	}
+
+
+	public function yearTranslationsList($year_id=null) {
+		$arrRows = array();
+		if(is_numeric($year_id) && $year_id > 0) {
+			$query ="SELECT ";
+			$query.="`YT`.*, ";
+			$query.="`L`.`name` AS `language` ";
+			$query.="FROM ";
+			$query.="`language` AS `L`, ";
+			$query.="`years_translations` AS `YT` ";
+			$query.="WHERE ";
+			$query.="`L`.`uid` = `YT`.`language_id` ";
+			$query.="AND ";
+			$query.="`year_id` = '".$year_id."'";
+			$result = database::query($query);
+			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+				while($row=mysql_fetch_assoc($result)) {
+					if($row['active']) {
+						$row['active_yes_no'] = 'Yes';
+					} else {
+						$row['active_yes_no'] = 'No';
+					}
+					$arrRows[] = $row;
+				}
+			}
+		}
+
+		return $arrRows;
+	}
+
+	public function doSave() {
+
+		if($this->isValidateFormData() == true) {
+
+			if(isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+				$this->save();
+			} else {
+				$insert = $this->insert();
+				$this->arrForm['uid'] = $insert;
+			}
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public function isValidateFormData() {
+
+		if(isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+			parent::__construct($_POST['uid'],__CLASS__);
+			$this->load();
+		}
+
+		$name			= (isset($_POST['name'])) ? $_POST['name']:'';
+		$position	= (isset($_POST['position'])) ? $_POST['position']:'0';
+		$active			= (isset($_POST['active'])) ? $_POST['active']:0;
+		$arrMessages	= array();
+
+		if( trim(strlen($name)) < 3 || trim(strlen($name)) > 255 ) {
+			$arrMessages['error_name'] = "Year name must be 3 to 255 characters in length.";
+		} else if(!validation::isValid('text',$name) ) {
+			$arrMessages['error_name'] = "Please enter valid year name.";
+		}
+
+		if(trim($position) == '' || trim($position) == "0") {
+			$arrMessages['error_position'] = "Please set position.";
+		} else if(!validation::isValid('int',$position) ) {
+			$arrMessages['error_position'] = "Please set valid position.";
+		}
+
+		if(!validation::isValid('int',$active) ) {
+			$arrMessages['error_active'] = "Please choose valid section active option.";
+		}
+
+		if(count($arrMessages) == 0) {
+			$this->set_name($name);
+			$this->set_position($position);
+			$this->set_active($active);
+		} else {
+			$strMessage = '';
+			foreach( $arrMessages as $index => $value ){
+				$this->arrForm[$index] = 'label_error';
+				$strMessage .= '<li>'.$value.'</li>';
+			}
+			$this->arrForm['message_error'] = '<p>Please correct the errors below:</p><ul>'.$strMessage.'</ul>';
+		}
+
+		foreach( $_POST as $index => $value ) {
+			$this->arrForm[$index] = $value;
+		}
+
+		if(count($arrMessages) == 0) {
+			return true;
+		} else {
+			return false;
+		}
+
+	}
+
+
+	public function getYearArray()
+	{
+			$years = array ();
+			$query = "SELECT ";
+			$query.= "* ";
+			$query.= "FROM ";
+			$query.= "`years` ";
+			$query.= "ORDER BY ";
+			$query.= "`name` ASC";
+			$result = database::query($query);
+			if($result && mysql_error()=='' && mysql_num_rows($result)) {
+				if(mysql_num_rows($result) > 0) {
+					while($row = mysql_fetch_assoc($result)) {
+						$years[$row['uid']] = $row['name'];
+					}
+				}
+			}
+			return $years;
+	}
+
+}
+?>

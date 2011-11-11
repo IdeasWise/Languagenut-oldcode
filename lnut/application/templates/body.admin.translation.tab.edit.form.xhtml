@@ -1,0 +1,15 @@
+<div class="in forms" style="width:100%">
+	<form name="admin_translation_tab_edit" id="admin_translation_tab_edit" action="{{ form.action }}" method="post" >
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="message_uid" id="message_uid" value="{{ message_uid }}" />
+		<input type="hidden" name="locale" id="locale" value="{{ locale }}" />
+		<div align="center" style="color:#57A000;">{{ message }}</div>
+		<p>{{ term_caption }}:-</p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="text" id="text-{{ locale }}">{{ text }}</textarea>
+		</div>
+		<p>
+			<input type="submit" name="button_admin_translation_tab" value="Save Change" class="com_btn" />
+		</p>
+	</form>
+</div>

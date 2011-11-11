@@ -1,0 +1,64 @@
+<div id="content">
+	{{ breadcrumb }}
+	<div class="tabs">
+		<ul>
+			<li><a href="#tab-3"><span>{{ title }}</span></a></li>
+			<li {{ add_students_tab }}>
+				<a href="#tab-4" class="view-game-scores" name="{{ admin_uri }}classes/unit-game-scores/class-{{ uid }}/"><span>View Unit Scores</span></a>
+			</li>
+			<li {{ add_students_tab }}>
+				<a href="#tab-5" class="view-game-scores" name="{{ admin_uri }}classes/game-scores/class-{{ uid }}/"><span>View Section Scores</span></a>
+			</li>
+			<li {{ add_students_tab }}>
+				<a href="#tab-1"><span>Add Students</span></a>
+			</li>
+			<li {{ add_students_tab }}>
+				<a href="#tab-6"><span>View Student Logins</span></a>
+			</li>
+		</ul>
+		<div id="tab-3">
+			<div class="message_error"> {{ message_error }} </div>
+			<form action="" method="post" name="edit-profile">
+				<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+				<p>
+					<label for="name" class="textbox">
+						<span class="label {{ error_name }}">Name:</span>
+						<input type="text" name="name" id="name" value="{{ name }}" />
+					</label>
+				</p>
+				<p>
+					<label for="school_name" class="listbox">
+						<span class="label {{ error_school_id }}">School Name:</span>
+						{{ school_id }}
+					</label>
+				</p>
+				<p style="font-size:0.7em;font-weight:bold;line-height:33px;">Comments:</p>
+				<div>
+					<textarea name="description" id="description" style="width:240px;height:100px;">{{ description }}</textarea>
+				</div>
+				<p>
+					<input type="submit" name="form_submit_button" value="{{ btnval }}" class="btnstyle fl-center RemoveCss" />
+				</p>
+			</form>
+		</div>
+		<div id="tab-4">Loading.... </div>
+		<div id="tab-5"> Loading.... </div>
+		<div id="tab-1">
+			<div id="add_students"> {{ tab.add_students }} </div>
+		</div>    
+		<div id="tab-6">
+			<div id="page-content">
+				<form name="LonginResetForm" id="LonginResetForm" method="post" action="{{ students.logins.action }}">
+					<input type="submit" name="form_reset_button" value="Reset All Logins" class="btnstyle fl-center reset-button" />
+				</form>
+				<div class="block wide titlerow">
+					<div class="w80 column-header"><p>#</p></div>
+					<div class="w250 column-header"><p>Name</p></div>
+					<div class="w150 column-header"><p>Username</p></div>
+					<div class="w150 column-header"><p>Password</p></div>
+				</div>
+				{{ list.students.logins }}
+			</div>
+		</div>
+	</div>
+</div>

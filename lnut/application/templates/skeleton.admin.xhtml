@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>{{ title }}</title>
+		<meta http-equiv="content-language" content="en-GB" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv="content-script-type" content="text/javascript" />
+		<meta http-equiv="content-style-type" content="text/css" />
+		<meta http-equiv="pics-Label" content="(pics-1.1 \'http://www.icra.org/pics/vocabularyv03/\' l gen true for \'{{ uri }}\' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for \'{{ uri }}\' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))" />
+		<link rel="stylesheet" media="all" href="{{ common_styles }}admin-new.css" />
+		<link rel="stylesheet" media="all" href="{{ common_styles }}style.css" />
+		<link rel="stylesheet" media="all" href="{{ common_styles }}jquery-ui.css" />
+		<link rel="bookmark" href="{{ images }}favicon.ico" />
+		<link rel="shortcut icon" href="{{ images }}icon.gif" />
+		<script type="text/javascript" src="{{ common_scripts }}jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-ui.min.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-tooltip.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-cookie.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-growl.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-easing.1.3.js"></script>
+		<!--<script type="text/javascript" src="{{ common_scripts }}jquery-fancybox-1.2.1.pack.js"></script>-->
+		<script type="text/javascript" src="{{ common_scripts }}google-map.geo.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery-controller.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}ajaxupload.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}wymeditor/jquery.wymeditor.min.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}editor/codemirror.js"></script>
+		<script type="text/javascript" src="{{ common_scripts }}jquery.fancybox-1.3.4.js"></script>
+
+		<link rel="stylesheet" media="all" href="{{ common_scripts }}jquery.fancybox-1.3.4.css" />
+
+		<link rel="stylesheet" media="all" href="{{ common_styles }}editor/docs.css" />
+		<script type="text/javascript">
+			function confirm_all_delete(url,msg){
+                                    if(msg==""){
+                                        msg='Are you sure you want to delete record?';
+                                    }
+                                    if(confirm(msg)) {
+                                            window.location.href=url;
+                                    }
+				}
+		</script>
+                {{ media_manager_js }}
+                {{ media_manager_css }}
+	</head>
+	<body>
+		<div class="wrapper">
+			<h1 class="logo"><a href="{{ uri }}admin/">LANGUAGENUT</a></h1>
+			<p class="txt_right">Logged in as <strong>{{ logged_user_email }} </strong> <span class="v_line"> | </span> <a id="logout" href="{{ uri }}logout/"> Logout</a></p>
+			<!-- Navigation -->
+			<div class="nav">
+				<ul class="topnav">
+					<li><a href="#">USERS</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/users/affiliate/">Affiliates</a> </li>
+							<li> <a href="{{ uri }}admin/users/homeuser/">Home Users</a> </li>
+							<li> <a href="{{ uri }}admin/users/reseller/">Resellers</a> </li>
+							<li> <a href="{{ uri }}admin/users/school/">Schools</a> </li>
+							<li> <a href="{{ uri }}admin/users/schooladmin/">School Admins</a> </li>
+							<li> <a href="{{ uri }}admin/classes/">School Classes</a> </li>
+							<li> <a href="{{ uri }}admin/users/schoolteacher/">School Teachers</a> </li>
+							<li> <a href="{{ uri }}admin/users/student/">Students</a> </li>
+							<li> <a href="{{ uri }}admin/users/translator/">Translators</a> </li>
+							<li> <a href="{{ uri }}admin/users/list/">All Users</a> </li>
+							<li> <a href="{{ uri }}admin/login-history/">User Login History</a> </li>
+							<li> <a href="{{ uri }}admin/users/add/" style="font-weight:bold;">Add New User</a> </li>
+						</ul>
+					</li>
+					<li><a href="#">SCHOOLS</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/pages/school/">Registration Content </a> </li>
+							<li> <a href="{{ uri }}admin/registration-email/">Registration Emails </a> </li>
+							<li> <a href="{{ uri }}admin/pages/send-application/">Application Translations</a> </li>
+							<li> <a href="{{ uri }}admin/school-registration/" style="font-weight:bold;">Register a School</a> </li>
+						</ul>
+					</li>
+					<li><a href="#">INVOICING</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/invoice/homeuser/list/">Home Users</a> </li>
+							<li> <a href="{{ uri }}admin/invoice/school/list/">Schools</a> </li>
+                            <li> <a href="{{ uri }}admin/invoice/school/expired_due/">Trials Expired ({{ expired_count }})</a> </li>                            
+						</ul>
+					</li>
+					<li><a href="#">CMS</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/multilingual/list/">Admin Translations</a> </li>
+							<li> <a href="{{ uri }}admin/multilingual/add/">Admin Translation (Add)</a> </li>
+							<li> <a href="{{ uri }}admin/flash_translations/">Flash Translations</a></li>
+							<li> <a href="{{ uri }}admin/flash_translations_tags/">Flash Translations (Tags)</a></li>
+							<li> <a href="{{ uri }}admin/pages/tabs/">Home Page ( Tabs )</a> </li>
+							<li> <a href="{{ uri }}admin/pages/homeuser/">Home User Registration </a> </li>
+							<li> <a href="{{ uri }}admin/message_translations/">Message Translations</a></li>
+                            <li> <a href="{{ uri }}admin/flash_tips/list/">Flash Tips</a> </li>
+						</ul>
+					</li>
+					<li><a href="#">GAMES</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/games/list/">Games</a> </li>
+							<li> <a href="{{ uri }}admin/game_translations/list/">Game Translations</a> </li>
+                            <li><a href="{{ uri }}admin/notification/list/">Notification Types</a></li>
+                            <li><a href="{{ uri }}admin/notificationevent/list/">Notification Event</a></li>
+						</ul>
+					</li>
+					<li><a href="#">ACTIVITIES</a>
+						<ul class="subnav">                           
+                            <li><a href="{{ uri }}admin/activity/list/">Activity</a></li>
+                            <li><a href="{{ uri }}admin/article/list/">Articles</a></li>
+                            <li><a href="{{ uri }}admin/article-category/list/">Article Categories</a></li>
+                            <li><a href="{{ uri }}admin/article-template/list/">Article Templates</a></li>
+							<li><a href="{{ uri }}admin/difficultylevel/list/">Difficulty Levels</a></li>
+                            <li><a href="{{ uri }}admin/exercise_qae_topic/list/">Exercise QAE Topic</a></li>
+                            <li><a href="{{ uri }}admin/exercisetype/list/">Exercise Types</a></li>
+                            <li><a href="{{ uri }}admin/referencematerialtype/list/">Material Types</a></li>
+                            <!--<li><a href="{{ uri }}admin/articletemplate/list/">Article Templates</a></li>
+                            <li><a href="{{ uri }}admin/articleitemtype/list/">Article Template Items</a></li>-->
+                            <li><a href="{{ uri }}admin/skills/list/">Skills</a></li>
+						</ul>
+					</li>
+					<li><a href="#">PRODUCTS</a>
+						<ul class="subnav">
+							<li><a href="{{ uri }}admin/products/list">Product List</a></li>
+							<li><a href="{{ uri }}admin/packages/list/">Package List</a></li>
+						</ul>
+					</li>
+					<li><a href="#">SETTINGS</a>
+						<ul class="subnav">
+							<li> <a href="{{ uri }}admin/certificate/settings">Certificate &amp; PDFs</a> </li>
+							<li> <a href="{{ uri }}admin/currency/list/">Currencies</a> </li>
+                            <li> <a href="{{ uri }}admin/email-templates/list/">Email Templates</a> </li>
+							<li> <a href="{{ uri }}admin/language/list/">Languages</a> </li>
+							<li> <a href="{{ uri }}admin/promocode/list/">Promocode</a> </li>
+							<li> <a href="{{ uri }}admin/currency/pricing/">Pricing</a> </li>
+							<li> <a href="{{ uri }}admin/translations/">Translations</a> </li>
+							<li> <a href="{{ uri }}admin/translations/upload/">Translation Import</a> </li>
+							<li> <a href="{{ uri }}admin/wordbank/list/">Word Bank</a> </li>
+						</ul>
+					</li>
+				</ul>
+			</div>
+			<div class="clear"></div>
+			<div class="content"> {{ body }} </div>
+		</div>
+	</body>
+</html>

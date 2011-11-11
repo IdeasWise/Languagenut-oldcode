@@ -1,0 +1,114 @@
+
+<div class="box2">
+  <h3> Invoice / Payment >> {{ section }} >> {{ action }}<span></span></h3>
+  <div class="box2-mid">
+    <div id="cms-add-update">
+      <div class="message_error"> {{ message_error }} </div>
+      <form action="" method="post" id="user-form" name="user-form">
+        <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="mode" value="{{ mode }}" />
+        <div style="clear:both"></div>
+
+<div style="float:left; width:50%; padding-left:25px;">
+	
+		<p>{{ user_uid_edit }}</p>
+        <p  style="{{ user_uid_display }}">
+          <label for="school_name" class="listbox"> <span class="label {{ error_school_id }}">{{ section }} Name:</span> {{ user_uid }} </label>
+        </p>
+		
+        <p class="date-picker-container" id="date_picker-start_dts"> <span class="label">Start Date</span>
+          <label for="start_day" class="textbox"> <span class="label">Day</span>
+          <input type="text" name="start_day" maxlength="2" size="4" id="start_day" value="{{ start_day }}" />
+          </label>
+          <label for="start_month" class="textbox"> <span class="label">Month</span>
+          <input type="text" name="start_month" id="start_month" maxlength="2" size="4" value="{{ start_month }}" />
+          </label>
+          <label for="start_year" class="textbox"> <span class="label">Year</span>
+          <input type="text" name="start_year" id="start_year" value="{{ start_year }}" maxlength="4" size="6" />
+          </label>
+        </p>
+        <p class="date-picker-container" id="date_picker-expires_dts"> <span class="label">Expire Date</span>
+          <label for="expires_day" class="textbox"> <span class="label">Day</span>
+          <input type="text" name="expires_day" maxlength="2" size="4" id="expires_day" value="{{ expires_day }}" />
+          </label>
+          <label for="expires_month" class="textbox"> <span class="label">Month</span>
+          <input type="text" name="expires_month" id="expires_month" maxlength="2" size="4" value="{{ expires_month }}" />
+          </label>
+          <label for="expires_year" class="textbox"> <span class="label">Year</span>
+          <input type="text" name="expires_year" id="expires_year" value="{{ expires_year }}" maxlength="4" size="6" />
+          </label>
+        </p>
+		
+		  <p>
+          <label for="invoice_number" class="textbox"> <span class="label {{ error_invoice_number }}">Invoice Number:</span>
+          <input type="text" name="invoice_number" id="invoice_number" value="{{ invoice_number }}" />
+          </label>
+        </p>
+		 <p style="{{ tax_display }}">
+          <label for="paypal_txn_id" class="textbox"> <span class="label {{ error_paypal_txn_id }}">Paypal Tax ID:</span>
+          <input type="text" name="paypal_txn_id" id="paypal_txn_id" value="{{ paypal_txn_id }}" />
+          </label>
+        </p>
+		
+</div>
+<div style="float:left;">		
+        <p>
+          <label for="amount" class="textbox"> <span class="label {{ error_amount }}">Amount:</span>
+          <input type="text" name="amount" id="amount" value="{{ amount }}" />
+          </label>
+        </p>
+        <p class="date-picker-container" id="date_picker-date_paid"> <span class="label">Paid Date</span>
+          <label for="date_day" class="textbox"> <span class="label">Day</span>
+          <input type="text" name="date_day" maxlength="2" size="4" id="date_day" value="{{ date_day }}" />
+          </label>
+          <label for="date_month" class="textbox"> <span class="label">Month</span>
+          <input type="text" name="date_month" id="date_month" maxlength="2" size="4" value="{{ date_month }}" />
+          </label>
+          <label for="date_year" class="textbox"> <span class="label">Year</span>
+          <input type="text" name="date_year" id="date_year" value="{{ date_year }}" maxlength="4" size="6" />
+          </label>
+        </p>
+		
+		<p class="date-picker-container" id="date_picker-due_date"> <span class="label">Due Date</span>
+          <label for="date_day" class="textbox"> <span class="label">Day</span>
+          <input type="text" name="due_day" maxlength="2" size="4" id="due_day" value="{{ due_day }}" />
+          </label>
+          <label for="due_month" class="textbox"> <span class="label">Month</span>
+          <input type="text" name="due_month" id="due_month" maxlength="2" size="4" value="{{ due_month }}" />
+          </label>
+          <label for="due_year" class="textbox"> <span class="label">Year</span>
+          <input type="text" name="due_year" id="due_year" value="{{ due_year }}" maxlength="4" size="6" />
+          </label>
+       </p>
+		
+		
+        <p> <span style="float:left;">Verified?</span>
+          <label for="yes_sub" style="float:left;">
+          <input type="radio" name="verified" id="verified"  value="1" {{ verified1 }}/>
+          Yes&nbsp;&nbsp; </label>
+          <label for="no_sub">
+          <input type="radio" name="verified" id="verified"  value="0" {{ verified0 }} />
+          No </label>
+        </p>
+        <p class="date-picker-container" id="date_picker-verified_dts"> <span class="label">Verified Date</span>
+          <label for="verified_day" class="textbox"> <span class="label">Day</span>
+          <input type="text" name="verified_day" maxlength="2" size="4" id="verified_day" value="{{ verified_day }}" />
+          </label>
+          <label for="verified_month" class="textbox"> <span class="label">Month</span>
+          <input type="text" name="verified_month" id="verified_month" maxlength="2" size="4" value="{{ verified_month }}" />
+          </label>
+          <label for="verified_year" class="textbox"> <span class="label">Year</span>
+          <input type="text" name="verified_year" id="verified_year" value="{{ verified_year }}" maxlength="4" size="6" />
+          </label>
+        </p>
+</div>		
+        <div style="clear:both">&nbsp;</div>
+        <div id="submit-user-container">
+          <div style="text-align:center;">
+            <input type="submit" name="submit-button" id="submit-user-form" class="RemoveCss" value="{{ action }}" />
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

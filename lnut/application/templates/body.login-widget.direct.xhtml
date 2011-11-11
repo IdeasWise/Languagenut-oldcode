@@ -1,0 +1,120 @@
+
+<div class="page-content">
+	<h2><a href="{{ uri }}login-widget/">Login Widget</a>: direct integration guide</h2>
+
+	<style type="text/css">
+	.tag {
+		color:	blue;
+	}
+	.attribute {
+		color:	#ee0000;
+	}
+	.value {
+		color:	purple;
+	}
+	</style>
+
+	<h3>Example Script</h3>
+	<p>Below is a minimal example html structure showing the options you need to submit the form directly to languagenut.com to log in. Please customise the ID of the widget container. Also, add your own css and locale as additional parameters if needed..</p>
+
+	<p>
+		<pre>
+&lt;<span class="tag">!doctype</span> <span class="attribute">html</span>&gt;
+&lt;<span class="tag">html</span> <span class="attribute">lang</span>=<span class="value">"en"</span>&gt;
+ &lt;<span class="tag">head</span>&gt;
+  &lt;<span class="tag">meta</span> <span class="attribute">charset</span>=<span class="value">"utf-8"</span> /&gt;
+ &lt;<span class="tag">/head</span>&gt;
+ &lt;<span class="tag">body</span>&gt;
+  &lt;<span class="tag">div</span> <span class="attribute">id</span>=<span class="value">"lnut-login-widget"</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/login/"</span>&gt;Log In to LanguageNut&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/trynow/"</span>&gt;Try LanguageNut Now&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/subscribe/school/"</span>&gt;Free trial&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+  &lt;<span class="tag">/div</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">src</span>=<span class="value">"http://code.jquery.com/jquery-1.5.1.min.js"</span>&gt;&lt;<span class="tag">/script</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">src</span>=<span class="value">"http://www.languagenut.com/scripts/lnut-login-widget.js"</span>&gt;&lt;<span class="tag">/script</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span>&gt;
+   if(window.jQuery) {
+    $(document).ready(function(){
+     $('#lnut-login-widget').lnutLoginWidget();
+    });
+   }
+  &lt;<span class="tag">/script</span>&gt;
+ &lt;<span class="tag">/body</span>&gt;
+&lt;<span class="tag">/html</span>&gt;
+		</pre>
+	</p>
+</div><!--
+
+	<h3>Options</h3>
+	<p><strong>Opening LanguageNut in an iframe</strong></p>
+	<p>If your CMS or website uses iframes to show content from various sources, this may be an option for you. With this option, the source of the iframe will be returned from languagenut and will allow the languagenut games to load in an iframe on your site. You will need to provide the value of the id attribute on your iframe for this option to work. Please see the example below that illustrates how this works.</p>
+
+	<p><strong>Embedding LanguageNut in a container</strong></p>
+	<p>If you do not use iframes, but you do load content into a container, e.g. a &lt;div&gt; container on your site, then this option adds an iframe with the correct languagenut.com url into the container div you provide. This may be relevant if you do not want users leaving your site and already have an option for embedding other content into your site. Please see the example below that illustrates this.</p>
+
+	<p><strong>Popup Window</strong></p>
+	<p>If you routinely use popups to load resources and your users are familiar with this process, then this option would open languagenut.com in a new window. Be aware that some computer software blocks popups so you may need to make relevant statements to this effect on your website.</p>
+
+	<p><strong>Submitting straight through to languagenut.com</strong></p>
+	<p>If it is acceptable for users to go straight through to languagenut.com and away from your site, then this is the simplest option to integrate. Please note that users won't have any link back to your site with this option.</p>
+
+	<h3>Configurations</h3>
+	<p>To embed the Widget in a container with the id attribute having a value of 'widget':</p>
+	<p>
+	<pre>$(<span class="value">'#widget'</span>).lnutLoginWidget(<span class="attribute">options</span>);</pre>
+	</p>
+	<p>Available options</p>
+	<p><pre><span class="tag">var</span> <span class="attribute">options</span> = {option:<span class="value">'iframe'</span>,value:<span class="value">'id-of-iframe-here'</span>,locale:<span class="value">'en'</span>};</pre></p>
+	<p><pre><span class="tag">var</span> <span class="attribute">options</span> = {option:<span class="value">'noiframe'</span>,value:<span class="value">'id-of-main-content-area-here'</span>,locale:<span class="value">'en'</span>};</pre></p>
+	<p><pre><span class="tag">var</span> <span class="attribute">options</span> = {option:<span class="value">'popup'</span>,locale:<span class="value">'en'</span>};</pre></p>
+	<p>If no 'option' value is provided, the form defaults to submitting to languagenut directly.</p>
+	<p>The locale should be set to the one provided for your school or 'en' by default. If you're not sure what locales are available for your application, please ask.</p>
+	<p>For both iframe and noiframe options, the 'value' parameter should be the appropriate ID of the target element. For an iframe, it's the id on the iframe. You must ensure the iframe has an ID for this to work. For noiframe, it is the id of the target container in which you want to show the flash application. Again, you need to ensure it has a id for this to work. If the 'option' parameter is 'popup', then a new window will be called and the flash application's url will be used in that window. For all other combinations, the form will submit straight to languagenut.</p>
+
+	<h3>Configuration</h3>
+	<p><strong>Iframe</strong></p>
+	<p>Step 1: Download the widget javascript file</p>
+	<p>Step 2: Open the javascript file in a plain text editor (such as notepad on windows or textedit on a mac). If you don't know plain text editor to use, please ask for assistance because using the wrong kind of editor will introduce characters into the files that may cause the file to be unusable.</p>
+	<p>Step 3: Update configuration options:</p>
+	<p>Step 4: Save and upload the file to your server and link the javascript file in the header of the web page.</p>
+	<p>Step 5: Make sure you include the jQuery library. We recommend jQuery1.5</p>
+
+	<h3>Example Call</h3>
+	<p>
+		<pre>
+&lt;<span class="tag">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span>&gt;
+	$(document).ready(function(){
+		$('#lnutwidget').lnutLoginWidget();
+	});
+&lt;<span class="tag">/script</span>&gt;
+		</pre>
+	</p>
+
+	<h3>Full Simplest Example</h3>
+	<p>
+		<pre>
+&lt;<span class="tag">!doctype</span> <span class="attribute">html</span>&gt;
+&lt;<span class="tag">html</span> <span class="attribute">lang</span>=<span class="value">"en"</span>&gt;
+ &lt;<span class="tag">head</span>&gt;
+  &lt;<span class="tag">meta</span> <span class="attribute">charset</span>=<span class="value">"utf-8"</span> /&gt;
+ &lt;<span class="tag">/head</span>&gt;
+ &lt;<span class="tag">body</span>&gt;
+  &lt;<span class="tag">div</span> <span class="attribute">id</span>=<span class="value">"widget"</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/login/"</span>&gt;Log In to LanguageNut&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/trynow/"</span>&gt;Try LanguageNut Now&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+   &lt;<span class="tag">p</span>&gt;&lt;<span class="tag">a</span> <span class="attribute">href</span>=<span class="value">"http://www.languagenut.com/en/subscribe/school/"</span>&gt;Free trial&lt;<span class="tag">/a</span>&gt;&lt;<span class="tag">/p</span>&gt;
+  &lt;<span class="tag">/div</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">src</span>=<span class="value">"http://code.jquery.com/jquery-1.5.1.min.js"</span>&gt;&lt;<span class="tag">/script</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">src</span>=<span class="value">"http://www.languagenut.com/scripts/widget.lnutloginwidget.js"</span>&gt;&lt;<span class="tag">/script</span>&gt;
+  &lt;<span class="tag">script</span> <span class="attribute">type</span>=<span class="value">"text/javascript"</span>&gt;
+   if(window.jQuery) {
+    $(document).ready(function(){
+     $('#lnutwidget').lnutLoginWidget();
+    });
+   }
+  &lt;<span class="tag">/script</span>&gt;
+ &lt;<span class="tag">/body</span>&gt;
+&lt;<span class="tag">/html</span>&gt;
+		</pre>
+	</p>
+</div>-->

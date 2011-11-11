@@ -1,0 +1,78 @@
+<div id="content">
+	<div id="signup-form">
+		<form action="{{ uri }}subscribe/{{ type }}/" method="post" name="package-form" id="package-form">
+			<input type="hidden" name="signtype" value="{{ signtype }}" />
+			<div id="signup">
+				<div style="text-align:center;padding-right:20px;"><!--<img src="{{ images }}{{ title_url }}" alt="{{ title_alt }}" />-->
+					<h1>{{ pay_by_cybersource }}</h1></div>
+			{{ errors }}
+				<div class="options clearfix" style="margin:0 auto;padding-bottom:10px;" id="notErrors">
+					<div class="desc">
+					{{ intro_text }}
+					</div>
+				</div>
+
+				<div id="signup_boxes" >
+						<input type="hidden" name="unitPrice" id="unitPrice" value="{{ unitPrice }}" />
+						<input type="hidden" name="packageUid" id="packageUid" value="{{ packageUid }}" />					
+					<div class="clear10">
+						<h2>{{ translate_billing_information }}</h2>
+					</div>
+					<p class="box">
+						<label for="firstName">{{ translate_first_name }}</label>
+						<input type="text" name="firstName" id="firstName" value="{{ firstName }}" />
+					</p>
+					<p class="box">
+						<label for="lastName">{{ translate_last_name }}</label>
+						<input type="text" name="lastName" id="lastName" value="{{ lastName }}" />
+					</p>
+					<p class="box">
+						<label for="street1">{{ translate_street1 }}</label>
+						<input type="text" name="street1" id="street1" value="{{ street1 }}" />
+					</p>
+					<p class="box">
+						<label for="city">{{ translate_city }}</label>
+						<input type="text" name="city" id="city" value="{{ city }}" />
+					</p>
+					<p class="box">
+						<label for="state">{{ translate_state }}</label>
+						<input type="text" name="state" id="state" value="{{ state }}" />
+					</p>
+					<p class="box">
+						<label for="postalCode">{{ translate_postal_code }}</label>
+						<input type="text" name="postalCode" id="postalCode" value="{{ postalCode }}" />
+					</p>
+					<p class="box">
+						<label for="country">{{ translate_country }}</label>
+						<input type="text" name="country" id="country" value="{{ country }}" />
+					</p>
+					<p class="box">
+						<label for="email">{{ translate_email }}</label>
+						<input type="text" name="email" id="email" value="{{ email }}" />
+					</p>
+
+					<div class="clear10">
+						<h2>{{ translate_account_detail }}</h2>
+					</div>
+					<p class="box">
+						<label for="accountNumber">{{ translate_credit_card_number }}</label>
+						<input type="text" name="accountNumber" id="accountNumber" value="{{ accountNumber }}" />
+					</p>
+					<p class="box">
+						<label for="expirationMonth">{{ translate_expiration_month }}</label>
+						{{ ComboExpirationMonth }}
+					</p>
+					<p class="box">
+						<label for="expirationYear">{{ translate_expiration_year }}</label>
+						{{ ComboExpirationYear }}
+					</p>
+
+					<input type="submit" class="button" name="submit" value="Pay" />
+
+
+				</div>
+			</div>
+
+		</form>
+	</div>
+</div>

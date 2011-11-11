@@ -1,0 +1,118 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}language/">Language List</a> &gt; {{ title }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="tabs">
+		<ul>
+			<li><a href="#tab-1"><span>{{ title }}</span></a></li>
+			<li><a href="#tab-2" {{ li.display }}><span>Language Translation</span></a></li>
+			<li><a href="#tab-3" {{ li.display }}><span>Language Images</span></a></li>
+		</ul>
+		<div id="tab-1">
+			<div class="in forms" style="width:100%">
+				<div class="message_error"> {{ message_error }} </div>
+				<form action="" method="post" name="edit-profile">
+					<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+					<p>
+						<label for="name" class="textbox"> <span class="label {{ error_name }}">Language:</span>
+							<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+						</label>
+					</p>
+					<p>
+						<label for="prefix"  class="textbox"> <span class="label {{ error_prefix }}">Prefix:</span>
+							<input type="text" name="prefix" id="prefix" value="{{ prefix }}" class="box" />
+						</label>
+					</p>
+					<p> <span class="label">Is this Language active?</span>
+						<label for="yes_admin" style="float:left;">
+							<input type="radio" name="active" id="yes_admin"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp; </label>
+						<label for="no_admin">
+							<input type="radio" name="active" id="no_admin"  value="0" {{ active }} />
+							No </label>
+					</p>
+					<p> <span class="label">Is this Language available to the public?</span>
+						<label for="yes_allow" style="float:left;">
+							<input type="radio" name="available" id="yes_allow"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp; </label>
+						<label for="no_allow">
+							<input type="radio" name="available" id="no_allow"  value="0" {{ available }} />
+							No </label>
+					</p>
+					<p> <span class="label">Is this Language Learnable?</span>
+						<label for="yes_is_learnable" style="float:left;">
+							<input type="radio" name="is_learnable" id="yes_is_learnable"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp; </label>
+						<label for="no_is_learnable">
+							<input type="radio" name="is_learnable" id="no_is_learnable"  value="0" {{ is_learnable }} />
+							No </label>
+					</p>
+					<p> <span class="label">Is this Language For Support?</span>
+						<label for="yes_is_support" style="float:left;">
+							<input type="radio" name="is_support" id="yes_is_support"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp; </label>
+						<label for="no_is_support">
+							<input type="radio" name="is_support" id="no_is_support"  value="0" {{ is_support }} />
+							No </label>
+					</p>
+					<p> 
+						<label for="currency_uid"  >
+							<span class="label" {{ error_currency_uid }}>Currency</span>
+						{{ currency_uid_select }}
+							<br/>
+						</label>						
+					</p>
+					<p>
+						<label for="home_user_price"  class="textbox"> <span class="label {{ error_home_user_price }}">Home User Price:</span>
+							<input type="text" name="home_user_price" id="home_user_price" value="{{ home_user_price }}" class="box" />
+						</label>
+					</p>
+					<p>
+						<label for="school_price"  class="textbox"> <span class="label {{ error_school_price }}">School Price:</span>
+							<input type="text" name="school_price" id="school_price" value="{{ school_price }}" class="box" />
+						</label>
+					</p>
+					<p>
+						<label for="vat"  class="textbox"> <span class="label {{ error_vat }}">Vat:</span>
+							<input type="text" name="vat" id="vat" value="{{ vat }}" class="box" />
+						</label>
+					</p>
+					<p> <span class="label">IP Redirection?</span>
+						<label for="yes_ip_redirect" style="float:left;">
+							<input type="radio" name="ip_redirect" id="yes_ip_redirect"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp; </label>
+						<label for="no_ip_redirect">
+							<input type="radio" name="ip_redirect" id="no_ip_redirect"  value="0" {{ ip_redirect }} />
+							No </label>
+					</p>
+					<p>
+						<label for="lookup_country"  class="textbox"> <span class="label {{ error_prefix }}">Lookup Country:</span>
+							<textArea name="lookup_country" class="box" >{{ lookup_country }}</textarea>
+							<br/>
+							<small>(Put comma separated lookup countries used in ip redirection)</small>
+						</label>
+					</p>
+					<p style="display:{{ display_translate }}" > <span class="label">Propagate translation to all sections</span>
+						<label for="yes_translate" style="float:left;">
+							<input type="radio" name="translate" id="yes_translate"  value="1" checked="checked" />
+							Yes&nbsp;&nbsp;
+						</label>
+						<label for="no_translate">
+							<input type="radio" name="translate" id="no_translate"  value="0"  />
+							No
+						</label>
+					</p>
+					<p>
+						<input type="submit" name="form_submit_button" value="{{ btnval }}" class="com_btn" />
+					</p>
+				</form>
+			</div>
+		</div>
+		{{ language.div }}
+		<div id="tab-3"> {{ language.uploades }} </div>
+	</div>
+</div>

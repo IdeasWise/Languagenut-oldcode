@@ -1,0 +1,35 @@
+<div class="in">
+    <div class="breadcrumb">
+		<a href="{{ uri }}admin/activity/list/">Activity</a> > <a href="{{ uri }}admin/activity/edit/{{ activity_uid }}/" >{{ activity_name }}</a> > <a href="{{ uri }}admin/activity/reference-materials/{{ activity_uid }}/">Reference Materials</a> > <a href="{{ uri }}admin/exercise_qae_topic/list/{{ activity_uid }}/">Exercise QAE Topic</a> > <a href="{{ uri }}admin/exercise_qae_topic_content/list/{{ exercise_qae_topic_uid }}/{{ activity_uid }}/" >Exercise QAE Topic Content</a> > Edit
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <div class="message_error"> {{ message }} </div>
+    <form action="{{ uri }}admin/exercise_qae_topic_content/edit/{{ uid }}/{{ exercise_qae_topic_uid }}/{{ activity_uid }}/" method="post">
+		<p>
+			<label for="title" class="textbox"> <span class="label {{ error_title }}">Title:</span>
+				<input type="text" name="title" id="title" value="{{ title }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="available" class="textbox"> <span class="label {{ error_available }}">Available:</span>
+				<select name="available" id="available" >
+					<option value="1" {{ available_select_1 }}>Yes</option>
+					<option value="0" {{ available_select_0 }}>No</option>
+				</select>
+			</label>
+		</p>
+		<div class="tabs">
+			<ul>
+			{{ locales }}
+			</ul>
+		{{ tabs }}
+		</div>
+		<p>
+			<input type="hidden" name="exercise_qae_topic_uid" value="{{ exercise_qae_topic_uid }}" />
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+    </form>
+</div>

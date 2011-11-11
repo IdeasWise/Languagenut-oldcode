@@ -1,0 +1,27 @@
+<div id="page-content">
+	<div class="box2">
+		<h3>Flash Translations<span></span></h3>
+
+		<div class="box2-mid">
+			<div id="cms-add-update">
+
+				<div class="message_error">  </div>
+
+				<form action="{{ uri }}admin/flash_translations/" method="post">
+					<div class="tabs">
+						<ul>
+							{{ locales }}
+						</ul>
+						{{ tabs }}
+					</div>
+					<div>
+						<p style="text-align:center;">
+							<input type="submit" class="btnstyle fl-center RemoveCss" value="Save" name="form_submit_button" />
+						</p>
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</div>

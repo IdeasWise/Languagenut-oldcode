@@ -1,0 +1,55 @@
+<div class="in">
+	<div class="author">
+		<h2>Users > {{ action }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="" method="post" id="user-form" name="user-form">
+		<p><strong>Note:</strong> To add students, please <a href="{{ uri }}account/classes/">create or select a class</a> first and select the 'Add Students' tab.</p>
+		<input type="hidden" name="user_uid" id="user_uid" value="{{ uid }}" />
+		<input type="hidden" name="allow_access_without_sub" value="0" />
+		<input type="hidden" name="optin" value="0" />
+		<input type="hidden" name="referral" value="" />
+		<input type="hidden" name="allow_access" value="1" />
+		<input type="hidden" name="deleted" value="0" />
+		<input type="hidden" name="locale" value="{{ mylocale }}" />
+		<div style="clear:both"></div>
+		<p>
+			<label for="email" class="textbox {{ email_error }}"> <span class="label">Email Address:</span>
+				<input type="text" name="email" id="email" value="{{ email }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="password" class="password  {{ pass_error }}"> <span class="label">Password:</span>
+				<input type="password" name="password" id="password" value="" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="conf-password" class="password  {{ cpass_error }}"> <span class="label">Confirm Password:</span>
+				<input type="password" name="conf_password" id="conf_password" value="" class="box" />
+			</label>
+		</p>
+		<!--<p>
+						<label for="user_type_lable" class="listbox {{user_type_error }}">
+							<span class="label">User Type:</span>
+							{{ user_type }}
+						</label>
+					</p>-->
+		<p> <span class="label">User Type:</span>
+			<label for="schooladmin" style="float:left;">
+				<input type="radio" name="user_type" id="schooladmin"  value="schooladmin" checked="checked" />
+				HOD / Coordinator or&nbsp;&nbsp; </label>
+			<label for="no_sub">
+				<input type="radio" name="user_type" id="schoolteacher"  value="schoolteacher" />
+				Teacher </label>
+		</p>
+		<div id="submit-user-container">
+			<p>
+				<input type="submit" name="submit-user" id="submit-user-form" class="com_btn" value="{{ action }}" />
+			</p>
+		</div>
+	</form>
+</div>

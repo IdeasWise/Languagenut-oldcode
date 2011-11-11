@@ -1,0 +1,29 @@
+<div id="content">
+	<div id="page-header">
+		<div id="header-title">
+			<h1>Home User &gt; List</h1>
+		</div>
+
+		<div id="header-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+		<div style="clear:both;">Locale: {{ list.locale }}</div>
+	</div>
+	{{ component-search-form }}
+	<div id="page-content">
+		<!-- <div class="block wide titlerow">
+			<div class="w548 column-header"><p>Email Address</p></div>
+			<div class="w80 button"><p>Created Date</p></div>
+		</div> -->
+		<table id="page-list" style="width:100%;font-size:0.8em;border-collapse:collapse;">
+			<tr>
+				<th style="text-align:left;font-size:0.9em;-moz-border-radius-topleft:8px;-webkit-border-radius-topleft:8px;background:-moz-linear-gradient(center top,#dddddd,#aaaaaa) repeat scroll 0 0 transparent;color:#333333;height:20px;line-height:20px;padding-left:20px;"><a href="{{ admin_uri }}users/{{ section }}/{{ sort_email }}">Email Address</a></th>
+				<th style="text-align:left;font-size:0.9em;background:-moz-linear-gradient(center top,#dddddd,#aaaaaa) repeat scroll 0 0 transparent;color:#333333;height:20px;line-height:20px;padding-left:20px;"><a href="{{ admin_uri }}users/{{ section }}/{{ sort_registered_dts }}">Created Date</a></th>
+				<th style="text-align:left;font-size:0.9em;-moz-border-radius-topright:8px;-webkit-border-radius-topright:8px;background:-moz-linear-gradient(center top,#dddddd,#aaaaaa) repeat scroll 0 0 transparent;color:#333333;height:20px;line-height:20px;">Actions</th>
+			</tr>
+			{{ users.rows }}
+		</table>
+	</div>
+	<div id="page-footer">
+		<div id="footer-title"> <a href="{{ admin_uri }}users/add/" class="add-icon">Add New</a> </div>
+		<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	</div>
+</div>

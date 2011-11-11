@@ -1,0 +1,25 @@
+<div class="in">
+	<div class="author">
+		<h2>Translator &gt; List</h2>
+		<p>Locale: {{ list.locale }}</p>
+	</div>
+	<div class="search"> {{ component-search-form }} </div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+		<tr>
+			<th>Email Address</th>
+			<th>Username</th>
+			<th>Created Date</th>
+			<th class="last">Actions</th>
+		</tr>
+		{{ users.rows }}
+	</table>
+</div>
+<div class="line"></div>
+<div id="page-footer" class="in">
+	<div id="footer-title"> <a href="{{ uri }}admin/users/add/translator/" class="add-icon">Add New</a> </div>
+	<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+</div>

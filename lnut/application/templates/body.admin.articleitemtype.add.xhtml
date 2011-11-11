@@ -1,0 +1,23 @@
+
+<div class="in">
+    <div class="author">
+	<h2>{{ title }}</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <div class="message_error"> {{ message }} </div>
+    <form action="{{ uri }}admin/articleitemtype/add/" method="post" enctype="multipart/form-data">
+	<p>
+	    <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+		<input type="text" name="name" id="name"  class="box" />
+	    </label>
+	</p>
+	
+	
+	<p>
+	    <input type="submit" name="submit" value="Add" class="com_btn" />
+	</p>
+    </form>
+</div>

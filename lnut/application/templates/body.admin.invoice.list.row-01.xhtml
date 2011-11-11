@@ -1,0 +1,12 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows">
+  <div class="w250 ">
+    <p class="padding10" id="show-{{ uid }}"><a href="{{ uri }}admin/invoice/{{ type }}/edit/{{ uid }}/">{{ name }}</a></p>
+    <p id="data-{{ uid }}" class="invisible padding10"> <a href="{{ uri }}admin/invoice/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/invoice/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p>
+  </div>
+  
+  <div class="w150 "> {{ due_date }} </div>
+  <div class="w150 "> {{ date_paid }} </div>
+  <div class="w150 {{ time_class }}">&nbsp;&nbsp;&nbsp; {{ time_remains }} Days </div>
+</div>

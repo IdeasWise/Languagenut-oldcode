@@ -1,0 +1,49 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/products/list/{{ locale }}/">Product List</a> &gt; Add</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="line"></div>
+
+<div class="in forms">
+
+	<div class="message_error"> {{ message }} </div>
+
+	<form action="{{ uri }}admin/products/addmain/" method="post">
+		<div style="overflow:hidden;">
+			<p style="float:left;width:260px;">
+				<label for="name" class="textbox">
+					<span class="label {{ error.name }}">Name:</span>
+					<input type="text" name="name" id="name" value="{{ name }}" class="box" style="width:240px;" />
+				</label>
+			</p>
+			<p style="float:left;width:280px;margin-left:20px;">
+				<label for="available_to_buy" class="textbox"><span class="label">Copy to all Locales:</span></label>
+				<label for="yes_copy" style="float:left;">
+					<input type="radio" name="copy" id="yes_copy" value="1" />
+					Yes
+				</label>
+				<label for="no_copy">
+					<input type="radio" name="copy" id="no_copy"  value="0" />
+					No
+				</label>
+			</p>
+            <p style="float:left;width:240px;margin-left:20px;">
+				<label for="target_market" class="textbox"><span class="label">Target Market:</span></label>
+				<label for="product_type_homeuser" style="float:left;">
+					<input type="radio" name="product_type" id="product_type_homeuser" value="homeuser" />
+					Homeuser
+				</label>
+				<label for="product_type_school">
+					<input type="radio" name="product_type" id="product_type_school"  value="school" checked="checked" />
+					School
+				</label>
+			</p>
+		</div>
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

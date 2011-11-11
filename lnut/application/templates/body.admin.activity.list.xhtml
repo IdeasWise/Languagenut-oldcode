@@ -1,0 +1,22 @@
+<div class="in">
+	<div class="breadcrumb">
+	    Activities &gt; List
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+		<tr>
+			<th>Name</th>			
+			<th></th>
+			<th></th>
+		</tr>
+		{{ rows }}
+	</table>
+</div>
+<div class="line"></div>
+<div id="page-footer" class="in">
+	<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	<div id="footer-title"> <a href="{{ uri }}admin/activity/add-main/" class="add-icon">Add Activity</a> </div>
+</div>

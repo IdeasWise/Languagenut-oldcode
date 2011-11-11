@@ -1,0 +1,27 @@
+<div id="content">
+	<div id="page-header">
+		<div id="header-title">
+			<h1>School List</h1>
+		</div>
+
+		<div id="header-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+		<div style="clear:both;">Locale: {{ list.locale }}</div>
+	</div>
+
+	<div id="page-content">
+		<table id="page-list">
+			<tr>
+				<th class="first">Email Address</th>
+				<th>School Name</th>
+				<th>Username</th>
+				<th>Created Date</th>
+				<th class="last">Actions</th>
+			</tr>
+			{{ users.rows }}
+		</table>
+	</div>
+	<div id="page-footer">
+		<div id="footer-title"> <a href="{{ uri }}admin/users/add/" class="add-icon">Add New</a> </div>
+		<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	</div>
+</div>

@@ -1,0 +1,5 @@
+<tr>
+	<td><a href="{{ admin_uri }}article/edit/{{ uid }}/">{{ title }}</a></td>
+	<td>{{ created_date }}</td>
+	<td><a href="{{ admin_uri }}article/content/{{ uid }}/list/">Content</a> | <a href="{{ admin_uri }}article/edit/{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}article/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></td>
+</tr>

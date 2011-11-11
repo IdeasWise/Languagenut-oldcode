@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title> {{ title }} </title>
+		<meta http-equiv="content-language" content="en-GB" />
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta http-equiv="content-script-type" content="text/javascript" />
+		<meta http-equiv="content-style-type" content="text/css" />
+
+		<!--<link rel="stylesheet" type="text/css" media="all" href="{{ styles }}styles.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="{{ common_styles }}slider.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="{{ common_styles }}imageZoom.css" />-->
+		<link rel="stylesheet" type="text/css" media="all" href="http://css.languagenut.com/slider.imageZoom.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="http://css.languagenut.com/{{ locale }}/styles.css" />
+		<link rel="stylesheet" type="text/css" media="all" href="http://css.languagenut.com/common.css" />
+		<link rel="shortcut icon" href="{{ images }}icon.gif" />
+
+		<meta name="language" content="{{ language }}" />
+		<meta name="robots" content="all" />
+		<meta name="rating" content="general" />
+		<meta name="distribution" content="global" />
+		<style type="text/css">
+		#about h2 a{text-decoration:underline !important;}
+		#about h2 a:hover {color:#990000 !important;text-decoration:none !important;}
+		</style>
+	</head>
+	<body>
+		<div id="pagewrapper">
+
+			{{ body }}
+		</div>
+
+		<!--<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery-1.4.min.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.pngFix.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.scrollTo-1.4.2.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.localscroll-1.2.7-min.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.serialScroll-1.2.2-min.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}coda-slider.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.cycle.js"></script>
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}jquery.imageZoom.js"></script>
+
+		<script type="text/javascript" charset="utf-8" src="{{ common_scripts }}start.js"></script>-->
+		<script type="text/javascript" src="http://js.languagenut.com/jquery.lib.min.js"></script>
+		<script type="text/javascript" src="http://js.languagenut.com/coda-slider.js"></script>
+		<script type="text/javascript" src="http://js.languagenut.com/start.js"></script>
+
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("UA-11083377-1");
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+	</body>
+</html>

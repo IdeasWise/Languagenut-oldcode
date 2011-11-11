@@ -1,0 +1,104 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}article/list/">Article</a> &gt; <a href="{{ admin_uri }}article/content/{{ article_page_uid }}/list/">Content</a> &gt; Edit</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form id="frm-template" action="{{ admin_uri }}article/content/{{ article_uid }}/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+        <input type="hidden" name="article_uid" id="article_uid" value="{{ article_uid }}" />
+        <input type="hidden" name="article_page_uid" id="article_page_uid" value="{{ article_page_uid }}" />
+		
+        <div>
+			<p><span class="label">Content Type:</span></p>
+			<label style="float: left;" for="type_image">
+				<input type="radio" checked="checked" value="1" id="type_image" name="item_type_uid" />
+				Image </label>
+			<label for="type_text">
+				<input type="radio" value="2" id="type_text" name="item_type_uid" {{ type_text_checked }} />
+				Text </label>
+		</div>
+        
+        <p>
+			<label for="content" class="textbox"> <span class="label {{ error.content }}">Content:</span>
+				<input type="text" name="content" id="content" value="{{ content }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="rotation" class="textbox"> <span class="label {{ error.rotation }}">Rotation:</span>
+				<input type="text" name="rotation" id="rotation" value="{{ rotation }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="width" class="textbox"> <span class="label {{ error.width }}">Width:</span>
+				<input type="text" name="width" id="width" value="{{ width }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="height" class="textbox"> <span class="label {{ error.height }}">Height:</span>
+				<input type="text" name="height" id="height" value="{{ height }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="fontfamily" class="textbox"> <span class="label {{ error.fontfamily }}">Font Family:</span>
+				<input type="text" name="fontfamily" id="fontfamily" value="{{ fontfamily }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="fontsize" class="textbox"> <span class="label {{ error.fontsize }}">Font Size:</span>
+				<input type="text" name="fontsize" id="fontsize" value="{{ fontsize }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="textalignment" class="textbox"> <span class="label {{ error.textalignment }}">Text Alignment:</span>
+				<input type="text" name="textalignment" id="textalignment" value="{{ textalignment }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="textcolour" class="textbox"> <span class="label {{ error.textcolour }}">Text Color:</span>
+				<input type="text" name="textcolour" id="textcolour" value="{{ textcolour }}" class="box" />
+			</label>
+		</p>
+        
+        <p>
+			<label for="positionx" class="textbox"> <span class="label {{ error.positionx }}">Position X:</span>
+				<input type="text" name="positionx" id="positionx" value="{{ positionx }}" class="box" />
+			</label>
+		</p> 
+        
+        <p>
+			<label for="positiony" class="textbox"> <span class="label {{ error.positiony }}">Position Y:</span>
+				<input type="text" name="positiony" id="positiony" value="{{ positiony }}" class="box" />
+			</label>
+		</p> 
+        
+        <p>
+			<label for="stackingposition" class="textbox"> <span class="label {{ error.stackingposition }}">Stacking Position:</span>
+				<input type="text" name="stackingposition" id="stackingposition" value="{{ stackingposition }}" class="box" />
+			</label>
+		</p>
+        
+        <div>
+			<p><span class="label">Accepts Content</span></p>
+			<label style="float: left;" for="accept_content_yes">
+				<input type="radio" checked="checked" value="1" id="accept_content_yes" name="accept_content">
+				Yes </label>
+			<label for="accept_content_no">
+				<input type="radio" value="0" id="accept_content_no" name="accept_content" {{ accept_content_no }}>
+				No </label>
+		</div>             
+        
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>
