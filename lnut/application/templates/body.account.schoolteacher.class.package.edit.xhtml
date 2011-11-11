@@ -1,0 +1,38 @@
+<div class="in">
+	<div class="author">
+		<h2>
+			<a href="{{ admin_uri }}classes/list">Class List</a> &gt; {{ class_name }} &gt; <a href="{{ admin_uri }}class-package-management/manage/{{ class_uid }}/#manage">Manage Packages</a> &gt; Edit
+		</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form id="frm-package" action="{{ admin_uri }}class-package-management/manage/{{ class_uid }}/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" readonly="readonly" />
+			</label>
+		</p>
+
+		<p>
+			<span class="label">
+				What languages would you like available?
+			</span>
+			{{ learnable_languages }}
+		</p>
+
+		<p>
+			<span class="label">
+				What support language should be used?
+			</span>
+			{{ support_languages }}
+		</p>
+       
+		<p>
+			<input type="submit" name="submit" value="Save Changes" class="com_btn" />
+		</p>
+	</form>
+</div>

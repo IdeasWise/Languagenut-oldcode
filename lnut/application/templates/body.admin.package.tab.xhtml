@@ -1,0 +1,30 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/packages/">Package List</a> &gt; <a href="{{ uri }}admin/packages/edit/{{ package_uid }}/">{{ name }}</a> &gt; Manage Sections</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div {{ display }}>
+	<div class="in">
+		<div class="author">
+			<h3>Sections Saved:[<a href="{{ uri }}admin/packages/edit/{{ package_uid }}/">Edit Package</a>] or [<a href="{{ uri }}admin/packages/gamesandactivities/{{ package_uid }}/">Edit Games and Activities</a>]</h3>
+		</div>
+		<div class="clear"></div>
+	</div>
+	<div class="line"></div>
+</div>
+<div class="in forms">
+	<form id="frm-package" method="post" action="{{ uri }}admin/packages/sections/{{ package_uid }}/">
+		<input type="hidden" name="package_uid" id="package_uid" value="{{ package_uid }}" />
+		<div class="tabs">
+			<ul>
+				{{ tabs.lis }}
+			</ul>
+			{{ tabs.divs }}
+		</div>
+		<div align="center">
+			<p><input type="submit" value="Save" class="com_btn" name="submit"></p>
+		</div>
+	</form>
+</div>

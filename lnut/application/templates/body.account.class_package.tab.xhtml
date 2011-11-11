@@ -1,0 +1,21 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}account/classes/">Class List</a> > <a href="{{ uri }}account/classes/game-scores/class-{{ class_uid }}/">{{ class_name }}</a> > <a href="{{ uri }}account/classes/classpackage/list/{{ class_uid }}/"> Packages </a> > Section</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<form id="frm-package" method="post" action="{{ uri }}account/classes/classpackage/package_sections/{{ class_uid }}/{{ package_uid }}/">
+		<input type="hidden" name="package_uid" id="package_uid" value="{{ package_uid }}" />
+		<div class="tabs">
+			<ul>
+				{{ tabs.lis }}
+			</ul>
+			{{ tabs.divs }}
+		</div>
+		<div align="center">
+			<p><input type="submit" value="Save" class="com_btn" name="submit"></p>
+		</div>
+	</form>
+</div>

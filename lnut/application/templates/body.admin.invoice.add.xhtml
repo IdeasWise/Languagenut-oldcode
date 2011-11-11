@@ -1,0 +1,183 @@
+<div class="in">
+	<div class="author">
+		<h2>Invoice / Payment &gt; {{ section }} &gt; {{ action }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="" method="post" id="user-form" name="user-form">
+
+		<input type="hidden" name="redirect" id="redirect" value="{{ redirect }}" />
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="mode" value="{{ mode }}" />
+		<input type="hidden" name="amount" value="{{ amount }}" />
+		<input type="hidden" name="vat" value="{{ vat }}" />
+		<input type="hidden" name="paypal_txn_id" value="{{ paypal_txn_id }}" />
+
+		<p align="right">{{ user_uid_edit }}</p>
+		<p  style="{{ user_uid_display }}">
+		<!--{{ error_school_name }}-->
+			<label for="school_name" class="listbox"> <span class="label">{{ section }} Name:</span> {{ user_uid }} </label>
+		</p>
+		<div style="overflow:hidden;">
+			<p style="float:left;width:280px;">
+				<label for="invoice_number" class="textbox">
+					<span class="label {{ error_invoice_number }}">Subscription Number:</span>
+					<input type="text" name="invoice_number" id="invoice_number" value="{{ invoice_number }}" class="box" style="width:240px;" />
+				</label>
+			</p>
+			<!--
+			<p class="date-picker-container" id="date_picker-due_date" style="display:none;">
+				<span class="label">Payment Due Date:</span>
+				<label for="date_day" class="textbox"> <span class="label">Day</span>
+					<input type="text" name="due_day" maxlength="2" size="4" id="due_day" value="{{ due_day }}" class="box" />
+				</label>
+				<label for="due_month" class="textbox"> <span class="label">Month</span>
+					<input type="text" name="due_month" id="due_month" maxlength="2" size="4" value="{{ due_month }}" class="box" />
+				</label>
+				<label for="due_year" class="textbox"> <span class="label">Year</span>
+					<input type="text" name="due_year" id="due_year" value="{{ due_year }}" maxlength="4" size="6" class="box" />
+				</label>
+			</p>
+			
+			<p class="date-picker-container" id="date_picker-date_paid" style="float:left;margin-right:15px;display:none;">
+				<span class="label">Paid Date:</span>
+				<label for="date_day" class="textbox"> <span class="label">Day</span>
+					<input type="text" name="date_day" maxlength="2" size="4" id="date_day" value="{{ date_day }}" class="box" />
+				</label>
+				<label for="date_month" class="textbox"> <span class="label">Month</span>
+					<input type="text" name="date_month" id="date_month" maxlength="2" size="4" value="{{ date_month }}" class="box" />
+				</label>
+				<label for="date_year" class="textbox"> <span class="label">Year</span>
+					<input type="text" name="date_year" id="date_year" value="{{ date_year }}" maxlength="4" size="6" class="box" />
+				</label>
+			</p>
+			-->
+			<p class="date-picker-container" id="date_picker-start_dts" style="float:left;margin-right:15px;">
+				<span class="label">Begin From:</span>
+				<label for="start_day" class="textbox"> <span class="label">Day</span>
+					<input type="text" name="start_day" maxlength="2" size="4" id="start_day" value="{{ start_day }}" class="box" />
+				</label>
+				<label for="start_month" class="textbox"> <span class="label">Month</span>
+					<input type="text" name="start_month" id="start_month" maxlength="2" size="4" value="{{ start_month }}" class="box" />
+				</label>
+				<label for="start_year" class="textbox"> <span class="label">Year</span>
+					<input type="text" name="start_year" id="start_year" value="{{ start_year }}" maxlength="4" size="6" class="box" />
+				</label>
+			</p>
+			<p class="date-picker-container" id="date_picker-expires_dts" style="float:left;clear:right;">
+				<span class="label">Expires On:</span>
+				<label for="expires_day" class="textbox"> <span class="label">Day</span>
+					<input type="text" name="expires_day" maxlength="2" size="4" id="expires_day" value="{{ expires_day }}" class="box" />
+				</label>
+				<label for="expires_month" class="textbox"> <span class="label">Month</span>
+					<input type="text" name="expires_month" id="expires_month" maxlength="2" size="4" value="{{ expires_month }}" class="box" />
+				</label>
+				<label for="expires_year" class="textbox"> <span class="label">Year</span>
+					<input type="text" name="expires_year" id="expires_year" value="{{ expires_year }}" maxlength="4" size="6" class="box" />
+				</label>
+			</p>
+		</div>
+
+		<div style="overflow:hidden;clear:both;">
+			<div style="float:left;margin-right:15px;">
+				<p style="margin:0;"><b>Invoice:</b></p>
+				<div style="overflow:hidden;">
+					<p style="float:left;margin-right:15px;clear:both;margin-top:0;">
+						<label for=""> <span class="label" style="font-weight:normal;">Sent:</span></label>
+						<label for="yes_sent" style="float:left;">
+							<input type="radio" name="invoice_sent" id="yes_sent"  value="1" {{ verified1 }}/>
+							Yes
+						</label>
+						<label for="no_sent">
+							<input type="radio" name="invoice_sent" id="no_sent"  value="0" {{ verified0 }} />
+							No
+						</label>
+					</p>
+					<p class="date-picker-container" id="date_picker-sent_dts" style="float:left;clear:right;margin-top:0;">
+						<span class="label" style="font-weight:normal;">When:</span>
+						<label for="sent_day" class="textbox">
+							<span class="label">Day</span>
+							<input type="text" name="sent_day" maxlength="2" size="4" id="sent_day" value="{{ sent_day }}" class="box" />
+						</label>
+						<label for="sent_month" class="textbox">
+							<span class="label">Month</span>
+							<input type="text" name="sent_month" id="sent_month" maxlength="2" size="4" value="{{ sent_month }}" class="box" />
+						</label>
+						<label for="sent_year" class="textbox">
+							<span class="label">Year</span>
+							<input type="text" name="sent_year" id="sent_year" value="{{ sent_year }}" maxlength="4" size="6" class="box" />
+						</label>
+					</p>
+				</div>
+			</div>
+			<div style="float:left;margin-right:15px;">
+				<p style="margin:0;"><b>Subscription:</b></p>
+				<div style="overflow:hidden;">
+					<p style="float:left;margin-right:15px;clear:both;margin-top:0;">
+						<label for=""> <span class="label" style="font-weight:normal;">Verified:</span></label>
+						<label for="yes_sub" style="float:left;">
+							<input type="radio" name="verified" id="yes_sub"  value="1" {{ verified1 }}/>
+							Yes
+						</label>
+						<label for="no_sub">
+							<input type="radio" name="verified" id="no_sub"  value="0" {{ verified0 }} />
+							No
+						</label>
+					</p>
+					<p class="date-picker-container" id="date_picker-verified_dts" style="float:left;clear:right;margin-top:0;">
+						<span class="label" style="font-weight:normal;">When:</span>
+						<label for="verified_day" class="textbox">
+							<span class="label">Day</span>
+							<input type="text" name="verified_day" maxlength="2" size="4" id="verified_day" value="{{ verified_day }}" class="box" />
+						</label>
+						<label for="verified_month" class="textbox">
+							<span class="label">Month</span>
+							<input type="text" name="verified_month" id="verified_month" maxlength="2" size="4" value="{{ verified_month }}" class="box" />
+						</label>
+						<label for="verified_year" class="textbox">
+							<span class="label">Year</span>
+							<input type="text" name="verified_year" id="verified_year" value="{{ verified_year }}" maxlength="4" size="6" class="box" />
+						</label>
+					</p>
+				</div>
+			</div>
+			<div style="float:left;">
+				<p style="margin:0;"><b>Payment:</b></p>
+				<div style="overflow:hidden;">
+					<p style="float:left;margin-right:15px;margin-top:0;">
+						<label for=""> <span class="label" style="font-weight:normal;">Verified:</span></label>
+						<label for="yes_pay_verified" style="float:left;">
+							<input type="radio" name="payment_verified" id="yes_pay_verified"  value="1" {{ payverified1 }}/>
+							Yes
+						</label>
+						<label for="no_pay_verified">
+							<input type="radio" name="payment_verified" id="no_pay_verified"  value="0" {{ payverified0 }} />
+							No
+						</label>
+					</p>
+					<p class="date-picker-container" id="date_picker-payverified_dts" style="float:left;clear:right;margin-top:0;">
+						<span class="label" style="font-weight:normal;">When:</span>
+						<label for="payment_verified_day" class="textbox">
+							<span class="label">Day</span>
+							<input type="text" name="payverified_day" maxlength="2" size="4" id="payverified_day" value="{{ payverified_day }}" class="box" />
+						</label>
+						<label for="payment_verified_month" class="textbox">
+							<span class="label">Month</span>
+							<input type="text" name="payverified_month" id="payverified_month" maxlength="2" size="4" value="{{ payverified_month }}" class="box" />
+						</label>
+						<label for="payment_verified_year" class="textbox">
+							<span class="label">Year</span>
+							<input type="text" name="payverified_year" id="payverified_year" value="{{ payverified_year }}" maxlength="4" size="6" class="box" />
+						</label>
+					</p>
+				</div>
+			</div>
+		</div>
+		<p>
+			<input type="submit" name="submit-button" id="submit-user-form" class="com_btn" value="{{ action }}" />
+		</p>
+	</form>
+</div>

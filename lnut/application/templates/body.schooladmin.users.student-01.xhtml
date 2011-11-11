@@ -1,0 +1,25 @@
+<div id="content">
+	<div id="page-header">
+		<div id="header-title">
+			<h1>Students in your school</h1>
+		</div>
+
+		<div id="header-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+		<div style="clear:both;"><!-- Locale: {{ list.locale }} --></div>
+	</div>
+	{{ component-search-form }}
+	<div id="page-content">
+		<div class="block wide titlerow">
+			<div class="w250 column-header"><p><a href="{{ admin_uri }}users/{{ section }}/{{ sort_email }}">Email Address</a></p></div>
+			<div class="w250 column-header"><p>Username</p></div>
+			<div class="w80 button"><p><a href="{{ admin_uri }}users/{{ section }}/{{ sort_registered_dts }}">Created Date</a></p></div>
+		</div>
+		<ul id="page-list">
+		{{ users.rows }}
+		</ul>
+	</div>
+	<div id="page-footer">
+		<!--<div id="footer-title"> <a href="{{ admin_uri }}users/add/" class="add-icon">Add New</a> </div>-->
+		<div id="footer-additional"> {{ page.display.title }} {{ page.navigation }} </div>
+	</div>
+</div>

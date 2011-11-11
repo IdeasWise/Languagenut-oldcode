@@ -1,0 +1,48 @@
+
+<div id="content">
+	<div id="signup-form">
+		<div id="signup">
+			<div style="text-align:center;padding-right:20px;">
+				<!--<img src="{{ common_images }}{{ title_url }}" alt="{{ title_alt }}" />-->
+				<h1>{{ title_alt }}</h1>
+			</div>
+			{{ errors }}
+			<div class="options clearfix" style="margin:0 auto;" id="notErrors">
+				<div class="desc" style="clear:both;">
+					{{ intro_text }}
+				</div>
+
+				<div id="signup_boxes" style="padding-bottom:20px;text-align:center;">
+					<form name="_xclick" action="https://www.paypal.com/uk/cgi-bin/webscr" method="post" style="text-align:center;">
+						<input type="hidden" name="cmd" value="_xclick" />
+						<input type="hidden" name="business" value="billing@languagenut.com" />
+						<input type="hidden" name="currency_code" value="{{ currency_code }}" />
+						<!--<input type="hidden" name="currency_code" value="GBP" />-->
+						<input type="hidden" name="item_name" value="{{ item_name }}" />
+						<input type="hidden" name="item_number" value="{{ item_number }}" />
+						<input type="hidden" name="amount" value="{{ price }}" />
+						<input type="hidden" name="return" value="{{ uri }}subscribe/{{ type }}/success/" />
+						<input type="hidden" name="cancel_return" value="{{ uri }}subscribe/{{ type }}/cancel/" />
+						<input type="hidden" name="notify_url" value="{{ uri }}subscribe/{{ type }}/ipn/" />
+						<input type="image" src="http://www.paypal.com/en_GB/i/btn/x-click-but01.gif" border="0" name="submit" alt="{{ click_here }}" style="width:auto;" />
+					</form>
+					<!--
+					<form method="post" action="https://www.paypal.com/cgi-bin/webscr">
+						<input type="hidden" name="business" value="paypal@mystream.co.uk" />
+						<input type="hidden" name="cmd" value="_xclick" />
+						<input type="hidden" name="item_name" value="{{ item_name }}" />
+						<input type="hidden" name="item_number" value="{{ user_uid }}" />
+						<input type="hidden" name="amount" value="{{ price }}" />
+						<input type="hidden" name="currency_code" value="GBP" />
+						<input type="hidden" name="country" value="UK" />
+						<input type="hidden" name="return" value="{{ uri }}subscribe/{{ type }}/success/" id="PayPalReturn" />
+						<input type="hidden" name="cancel_return" value="{{ uri }}subscribe/{{ type }}/cancel/" id="PayPalCancelReturn" />
+						<input type="hidden" name="notify_url" value="{{ uri }}subscribe/{{ type }}/ipn/" id="PayPalNotifyUrl" />
+						<input type="image" name="submit" border="0" src="https://www.paypal.com/en_US/i/btn/btn_buynow_LG.gif" alt="{{ click_here }}" style="width:auto;" /> <img alt="" border="0" width="1" height="1" src="https://www.paypal.com/en_US/i/scr/pixel.gif" />
+					</form>
+					-->
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

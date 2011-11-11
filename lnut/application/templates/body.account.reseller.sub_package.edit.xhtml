@@ -1,0 +1,61 @@
+<div class="in">
+	<div class="author">
+		<h2>
+			<a href="{{ admin_uri }}packages/list/">Packages</a> &gt; Edit
+		</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form id="frm-package" action="{{ admin_uri }}packages/edit/{{ uid }}" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+        <input type="hidden" name="reseller_uid" id="reseller_uid" value="{{ reseller_uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+
+		<p>
+			<span class="label">
+				What languages would you like available?
+			</span>
+			{{ learnable_languages }}
+		</p>
+
+		<p>
+			<span class="label">
+				What support language should be used?
+			</span>
+			{{ support_languages }}
+		</p>
+        <p>
+			<span class="label">
+				Package Type:
+			</span>
+			<label style="float: left;" for="package_type_school">
+				<input type="radio" checked="checked" value="school" id="package_type_school" name="package_type">
+				School </label>
+			<label for="package_type_homeuser">
+				<input type="radio" value="homeuser" id="package_type_homeuser" name="package_type" {{ homeuser_checked }} >
+				Homeuser </label>
+		</p>
+		<!--<p><span class="label">Package Prices:</span></p>
+		{{ package.price }}-->
+         <p>
+			<label for="price" class="textbox"> <span class="label {{ error_price }}">Price({{ CurrencySymbol }}):</span>
+				<input type="text" name="price" id="price" value="{{ price }}" class="box" />
+			</label>
+		</p>
+        <p>
+			<label for="vat" class="textbox"> <span class="label {{ error_vat }}">TAX:</span>
+				<input type="text" name="vat" id="vat" value="{{ vat }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

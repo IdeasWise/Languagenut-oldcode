@@ -1,0 +1,26 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}account/reseller_sub_package/packageadd/{{ reseller_uid }}/"> Packages </a> > <a href="{{ uri }}account/reseller_sub_package/list/{{ reseller_uid }}/{{ package_uid }}/">Sub Packages</a> > Games And Activity</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+
+<div class="in forms">
+	<form id="frm-package" method="post" action="{{ uri }}account/reseller_sub_package/gamesandactivities/{{ reseller_sub_package_uid }}/{{ reseller_uid }}/{{ package_uid }}/">
+		<input type="hidden" name="package_uid" id="package_uid" value="{{ reseller_sub_package_uid }}" />
+		<div class="tabs">
+			<ul>
+				<li><a href="#games"><span>Games</span></a></li>
+				{{ skill_type_li }}
+			</ul>
+			<div id="games">
+				{{ div.games }}
+			</div>
+			{{ skill_type_div }}
+		</div>
+		<div align="center">
+			<p><input type="submit" value="Save" class="com_btn" name="submit"></p>
+		</div>
+	</form>
+</div>

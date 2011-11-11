@@ -1,0 +1,26 @@
+<div class="in">
+    <div class="author">
+        <h2><a href="{{ admin_uri }}language/">Language List</a> &gt; {{ name }} &gt; Manage Translation</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+<p>
+If you are using a language for more than one locale and want to duplicate translation changes from that language to this locale, you can copy the translations from that language to this one using the form below.</p>
+<p><b>WARNING:</b> This will copy all of the translations from the language selected below and overwrite the current translations for this locale. Please only do this if you are 100% sure. You will not be able to undo this action.</p>
+</p>
+    <div class="message_error"> {{ message_error }} </div>
+    <form action="" method="post" name="manage_language_settings">
+        <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+         
+        <div id="divCopyFrom">
+            <p>
+                <label for="from_language_uid"  > <span class="label" {{ error_currency_uid }}>Copy translation from the following Language:</span> {{ from_language_uid }} </label>
+            </p>
+        </div>
+        <p>
+            <input type="submit" name="form_submit_button" id="manage_translation_button" value="Save Changes" class="com_btn" />
+        </p>
+    </form>
+</div>

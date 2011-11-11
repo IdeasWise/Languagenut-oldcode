@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>{{ title }}</title>
+        <meta http-equiv="content-language" content="en-GB" />
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta http-equiv="content-script-type" content="text/javascript" />
+        <meta http-equiv="content-style-type" content="text/css" />
+        <meta http-equiv="pics-Label" content="(pics-1.1 \'http://www.icra.org/pics/vocabularyv03/\' l gen true for \'{{ uri }}\' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for \'{{ uri }}\' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))" />
+
+        <link rel="stylesheet" media="all" href="{{ common_styles }}admin.css" />
+        <link rel="stylesheet" media="all" href="{{ common_styles }}style.css" />
+        <link rel="stylesheet" media="all" href="{{ common_styles }}jquery-ui.css" />
+        <link rel="meta" href="{{ resources }}labels.rdf" type="application/rdf xml" title="ICRA labels" />
+        <link rel="bookmark" href="{{ images }}favicon.ico" />
+        <link rel="shortcut icon" href="{{ images }}icon.gif" />
+        <script type="text/javascript" src="{{ common_scripts }}jquery-1.4.2.min.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-ui.min.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-tooltip.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-cookie.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-growl.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-easing.1.3.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-fancybox-1.2.1.pack.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}google-map.geo.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}jquery-controller.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}ajaxupload.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}wymeditor/jquery.wymeditor.min.js"></script>
+        <script type="text/javascript" src="{{ common_scripts }}editor/codemirror.js"></script>
+
+
+        <link rel="stylesheet" media="all" href="{{ common_styles }}editor/docs.css" />
+        <meta name="verify-v1" content="JqnhGp3vdriZeyMxP/pJNPKkqiq1P+TbsR2nu2XHASE=" />
+        <meta name="language" content="en-GB" />
+        <meta name="robots" content="all" />
+        <meta name="rating" content="general" />
+        <meta name="distribution" content="global" />
+        <meta name="Identifier-URL" content="{{ uri }}" />
+    </head>
+    <body>
+        <div id="container">
+            <div id="header">
+				<div id="header-content">
+					<div style="float:left;"><img src="{{ common_images }}/monsterLNhalf.png" height="150" /></div>
+					<div style="float:right;color:white;font-size:0.9em;"><a id="logout" href="{{ uri }}logout/">Sign out</a></div>
+				</div>
+            </div>
+            <div id="main">
+                <div id="main-content" class="clearfix">
+                    <div class="body">
+                        <div id="body-content"> {{ body }} </div>
+                    </div>
+                    <div class="aside">
+                        <h2 id="tab-settings"><a href="{{ uri }}admin/users/list/"><span>School Management</span></a></h2>
+                        <div id="content-settings" class="menu-content">
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/school/"><span>Schools</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/schooladmin/"><span>School Admins</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/classes/"><span>Classes</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/schoolteacher/"><span>School Teachers</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/student/"><span>Students</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/homeuser/"><span>Home Users</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/affiliate/"><span>Affiliates</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/users/reseller/"><span>Resellers</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/users/list/"><span>User List</span></a> </div>
+                            <div class="sub-empty last"> <a href="{{ uri }}admin/users/add/"><span>Add New User</span></a> </div>
+                        </div>
+
+						<h2 id="tab-settings"><a href="{{ uri }}admin/invoice/list/"><span>Invoice / Payment</span></a></h2>
+						<div id="content-settings" class="menu-content">
+							<div class="sub-empty"> <a href="{{ uri }}admin/invoice/school/list/"><span>Schools</span></a> </div>
+							<div class="sub-empty last"> <a href="{{ uri }}admin/invoice/homeuser/list/"><span>Home Users</span></a> </div>
+                        </div>
+
+                        <h2 id="tab-pages"><a href="{{ uri }}admin/pages/list/"><span>Pages</span></a></h2>
+                        <div id="content-pages" class="menu-content">
+							<div class="sub-empty"> <a href="{{ uri }}admin/pages/tabs/"><span>Home Page ( Tabs )</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/pages/school/"><span>School Registration </span></a> </div>
+							<div class="sub-empty last"> <a href="{{ uri }}admin/pages/homeuser/"><span>Home User Registration </span></a> </div>
+
+                            <!--<div class="sub-empty"> <a href="{{ uri }}admin/pages/list/"><span>List</span></a> </div>
+                            <div class="sub-empty last"> <a href="{{ uri }}admin/pages/add/"><span>Add New</span></a> </div>-->
+                        </div>
+                        
+                        <h2 id="tab-plugins"><a href="{{ uri }}admin/plugins/list/"><span>Plugins</span></a></h2>
+                        <div id="content-plugins" class="menu-content">
+							<div class="sub-empty"> <a href="{{ uri }}admin/translations/"><span>Translations</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/language/list/"><span>Language</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/currency/list/"><span>Currencies</span></a> </div>
+							<div class="sub-empty last"> <a href="{{ uri }}admin/currency/pricing/"><span>Pricing</span></a> </div>
+							<!--<div class="sub-empty"> <a href="{{ uri }}admin/year/list/"><span>Year</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/unit/list/"><span>Unit</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/section/list/"><span>Section</span></a> </div>
+							<div class="sub-empty"> <a href="{{ uri }}admin/vocabulary/list/"><span>Vocabulary</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/plugins/menu-manager/"><span>Menu Manager</span></a> </div>
+                            <div class="sub-exists last">
+                                <div id="tab-statistics"><a href="{{ uri }}admin/plugins/statistics/"><span>Statistics</span></a></div>
+                                <div id="content-statistics"> </div>
+                            </div>-->
+                        </div>
+<!--						
+						<h2 id="tab-appearance"><a href="{{ uri }}admin/appearance/templates/"><span>Appearance</span></a></h2>
+                        <div id="content-appearance" class="menu-content">
+                            <div class="sub-empty"> <a href="{{ uri }}admin/appearance/themes/list/"><span>Themes</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/appearance/templates/"><span>Templates</span></a> </div>
+                            <div class="sub-empty last"> <a href="{{ uri }}admin/appearance/files/"><span>File Manager</span></a> </div>
+                        </div>
+						
+                        <h2 id="tab-settings"><a href="{{ uri }}admin/settings/categories/"><span>Settings</span></a></h2>
+                        <div id="content-settings" class="menu-content">
+                            <div class="sub-empty"> <a href="{{ uri }}admin/settings/categories/"><span>Categories</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/settings/tags/"><span>Tags</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/settings/access-control/"><span>IP Manager</span></a> </div>
+                            <div class="sub-empty last"> <a href="{{ uri }}admin/settings/search-history/"><span>Search History</span></a> </div>
+                        </div>
+                        <h2 id="tab-settings"><a href="{{ uri }}admin/library/contact-numbers-type/"><span>Library</span></a></h2>
+                        <div id="content-settings" class="menu-content">
+                            <div class="sub-empty"> <a href="{{ uri }}admin/library/contact-numbers-type/"><span>Contact Numbers Type</span></a> </div>
+
+                            <div class="sub-empty"> <a href="{{ uri }}admin/library/email-address-type/"><span>Email Address Type</span></a> </div>
+
+                            <div class="sub-empty"> <a href="{{ uri }}admin/library/property-address/"><span>Property Address</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/library/country-type/"><span>Country Type</span></a> </div>
+                            <div class="sub-empty"> <a href="{{ uri }}admin/library/country-sub-type/"><span>Country Sub Type</span></a> </div>
+                            <div class="sub-empty last"> <a href="{{ uri }}admin/library/country/"><span>Country</span></a> </div>
+
+                        </div>
+						
+						-->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

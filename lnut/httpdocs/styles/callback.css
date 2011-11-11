@@ -1,0 +1,153 @@
+/**
+ * Default Settings
+ */
+	html,
+	body {
+		margin:					0;
+		padding:				0;
+	}
+	#container {
+		color:					#333333;
+		background:				#ffffff;
+		margin:					0 auto;
+	}
+	h1,h2 {
+		color:					#94db3b;
+		background:				transparent none scroll repeat left top;
+		margin:					0;
+		padding:				0;
+		font-family:			Arial,sans-serif;
+		line-height:			24px;
+	}
+	a {
+		color:					#94db3b;
+		text-decoration:		none;
+	}
+	.clearfix:after,
+	.field-input:after,
+	.label-text:after {
+		content:				"";
+		display:				block;
+		height:					0;
+		clear:					both;
+	}
+/**
+* Main
+*/
+	#main {
+		color:					#333333;
+		background:				#ffffff none scroll repeat left top;
+	}
+	#main-content {
+		margin:					0 auto;
+	}
+	#main-content .body {
+		float:					left;
+		margin:					6px;
+		padding:				0;
+	}
+/**
+ * Form Send
+ */
+	#formsend,
+	fieldset {
+		margin:					0;
+		padding:				0;
+		border:					0;
+		font-family:			Arial,sans-serif;
+	}
+	#formsend,
+	#formsent {
+		float:					left;
+		width:					370px;
+	}
+	#formsend h1,
+	.aside h1 {
+		font-size:				0.7em;
+	}
+	.field-input {
+		line-height:			24px;
+		float:					left;
+		clear:					both;
+	}
+	.label-text {
+		display:				block;
+	}
+	label.label-text {
+		float:					left;
+	}
+	span.label-text {
+		float:					left;
+		clear:					both;
+		width:					370px;
+	}
+	.label-text span.label {
+		display:				block;
+		float:					left;
+		width:					115px;
+	}
+	.label-text span {
+		font-size:				0.7em;
+		font-weight:			bold;
+	}
+	.label-text input.text {
+		display:				block;
+		float:					left;
+		width:					240px;
+		font-size:				0.7em;
+		border:					1px solid #444444;
+		margin:					0;
+		padding:				2px;
+		height:					15px;
+	}
+	.submit-line {
+		margin:					0 0 0 115px;
+	}
+	.aside {
+		float:					right;
+		width:					140px;
+	}
+	.aside p {
+		margin:					0;
+		line-height:			24px;
+	}
+	.aside p a {
+		color:					#333333;
+		font-size:				0.7em;
+		font-weight:			bold;
+		text-shadow:			0 1px 1px #93999e;
+		font-style:				italic;
+		font-family:			Georgia, serif;
+		text-decoration:		none;
+	}
+	.aside p a:hover {
+		color:					#000000;
+		text-shadow:			0 1px 1px #a3a9ae;
+		text-decoration:		underline;
+	}
+	#note {
+		font-family:			Arial,sans-serif;
+		font-size:				0.7em;
+		color:					red;
+	}
+/**
+ * Form Sent
+ */
+	#formsent {
+		font-family:			Arial,sans-serif;
+		font-size:				0.7em;
+	}
+	#formsent h1 {
+		font-size:				1.1em;
+		margin:					0;
+		padding:				0;
+	}
+	#formsent p {
+		margin:					0;
+		line-height:			24px;
+	}
+	#formsent h2 {
+		font-size:				1em;
+		margin:					0;
+		padding:				0;
+	}

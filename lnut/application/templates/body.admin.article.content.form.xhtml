@@ -1,0 +1,26 @@
+<div class="in forms" style="width:100%">
+	<div class="message_error"> {{ message_error }} </div>
+	<form name="frmTab" id="frmTab" method="post" action="{{ action }}">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+		<p>
+			<label for="title" class="textbox"> <span class="label {{ error.title }}">Title</span>
+				<input type="text" name="title" id="title" value="{{ title }}" class="box" />
+			</label>
+		</p>
+        <p>
+			<label for="width" class="textbox"> <span class="label {{ error.width }}">Width:</span>
+				<input type="text" name="width" id="width" value="{{ width }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="height" class="textbox"> <span class="label {{ error.height }}">Height:</span>
+				<input type="text" name="height" id="title" value="{{ height }}" class="box" />
+			</label>
+		</p>       
+		
+		<p>
+			<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

@@ -1,0 +1,11 @@
+<tr>
+	<td><a href="{{ uri }}admin/games/edit/{{ game_uid }}/">{{ name }}</a></td>
+	<td>{{ trynow }}</td>
+	<td>{{ subscription }}</td>
+	<td>
+	<a href="{{ uri }}admin/games/move/{{ game_uid }}/up" {{ styleUp }}><img src="{{ common_images }}/uparrow.png" border="0" alt="Up" title="Up" /></a>
+	<a href="{{ uri }}admin/games/move/{{ game_uid }}/down" {{ styleDown }}><img src="{{ common_images }}/check.png" border="0" alt="Down" title="Down" /></a></td>
+    <td><a href="{{ uri }}admin/game_data/{{ game_uid }}/">Game Data</a></td>
+	<td><a href="{{ uri }}admin/games/edit/{{ game_uid }}/">Edit</a></td>
+	<td><a href="{{ uri }}admin/games/delete/{{ game_uid }}/">Delete</a></td>
+</tr>

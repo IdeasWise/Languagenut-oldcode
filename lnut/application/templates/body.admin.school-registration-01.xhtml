@@ -1,0 +1,79 @@
+<div id="content">
+    <div class="box2">
+        <h3> School Registration<span></span></h3>
+        <div class="box2-mid">
+            <div class="message_error"> {{ message_error }} </div>
+            <form action="" method="post" name="frm-school-registration">
+                <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+                <div class="left-container">
+                    <p>
+                        <label for="name" class="textbox"> <span class="label {{ error.name }}">Owner Name:</span>
+                            <input type="text" name="name" id="name" value="{{ name }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="phone_number" class="textbox"> <span class="label {{ error.phone_number }}">Phone Number:</span>
+                            <input type="text" name="phone_number" id="phone_number" value="{{ phone_number }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="email" class="textbox"> <span class="label {{ error.email }}">Email:</span>
+                            <input type="text" name="email" id="email" value="{{ email }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="password" class="textbox"> <span class="label {{ error.password }}">Password:</span>
+                            <input type="password" name="password" id="password" value="{{ password }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="password2" class="textbox"> <span class="label {{ error.password2 }}">Repeat Password:</span>
+                            <input type="password" name="password2" id="password2" value="{{ password2 }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="locale" class="listbox {{ error.locale }}"> <span class="label">Locale:</span> {{ locale }} </label>
+                    </p>
+                </div>
+                <div class="right-container">
+                    <p>
+                        <label for="school"  class="textbox"> <span class="label {{ error.school }}">School Name:</span>
+                            <input type="text" name="school" id="school" value="{{ school }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="school_address"  class="textbox"> <span class="label {{ error.school_address }}">School Address:</span>
+                            <input type="text" name="school_address" id="school_address" value="{{ school_address }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="school_postcode"  class="textbox"> <span class="label {{ error.school_postcode }}">Postcode:</span>
+                            <input type="text" name="school_postcode" id="school_postcode" value="{{ school_postcode }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="username_open"  class="textbox"> <span class="label {{ error.username_open }}">Open Username:</span>
+                            <input type="text" name="username_open" id="username_open" value="{{ username_open }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="password_open"  class="textbox"> <span class="label {{ error.password_open }}">Open Password:</span>
+                            <input type="text" name="password_open" id="password_open" value="{{ password_open }}" />
+                        </label>
+                    </p>
+                    <p>
+                        <label for="email_template" class="listbox {{ error.email_template }}">
+                        	<span class="label">Send Following Email:</span>
+                            {{ email_template }}
+                        </label>
+                    </p>
+                </div>
+               
+                
+                <div class="button-container">
+                    <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+				</div>
+            </form>
+        </div>
+    </div>
+</div>

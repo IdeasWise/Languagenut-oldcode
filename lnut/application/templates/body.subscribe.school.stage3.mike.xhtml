@@ -1,0 +1,38 @@
+
+<div id="content">
+	<form action="{{ uri }}subscribe_mike/{{ type }}/" method="post" id="signup-form">
+		<div id="signup">
+			<div style="text-align:center;padding-right:20px;">
+				<!--<img src="{{ common_images }}{{ title_url }}" alt="{{ title_alt }}" />-->
+				<h1>{{ title_alt }}</h1>
+			</div>
+			{{ errors }}
+			<div class="options clearfix" style="margin:0 auto;" id="notErrors">
+				<div class="clearfix">
+					<div id="signup_boxes" style="float:left;">
+						<p class="desc">
+							{{ intro_text }}
+						</p>
+						<p class="desc">
+							{{ explanation }}
+						</p>
+						<p>
+							<!--<label for="username_open"><img src="{{ images }}username_open.png" alt="Username" /></label>-->
+							<label for="username_open">{{ translate.label_whole_school_username }}</label>
+							<input type="text" name="username_open" id="username_open" value="{{ username_open }}" {{ highlight:username_open }} />
+						</p>
+
+						<p>
+							<!--<label for="password_open"><img src="{{ images }}password_open.png" alt="School Name" /></label>-->
+							<label for="password_open">{{ translate.label_whole_school_password }}</label>
+							<input type="text" name="password_open" id="password_open" value="{{ password_open }}" {{ highlight:password_open }} />
+						</p>
+					</div>
+					<div style="float:right;width:122px;margin-right:80px;margin-top:115px;">
+						<input type="submit" class="confirm-button" name="submit" value="Continue" />
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>

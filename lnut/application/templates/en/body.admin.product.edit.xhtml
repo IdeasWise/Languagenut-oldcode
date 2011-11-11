@@ -1,0 +1,101 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/products/list/{{ locale }}/">Products</a> &gt; Edit &gt; {{ name }} &gt; Settings</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="line"></div>
+
+<div class="in forms">
+
+	<div class="message_error"> {{ message }} </div>
+
+	<form action="{{ uri }}admin/products/edit/{{ uid }}/" method="post">
+		<div>
+			<input type="hidden" name="uid" value="{{ uid }}" />
+			<input type="hidden" name="action" value="update" />
+            <input type="hidden" name="price" id="price" value="{{ price }}" />
+		</div>
+
+		<div style="overflow:hidden;">
+			<p style="float:left;width:260px;">
+				<label for="name" class="textbox">
+					<span class="label {{ error.name }}">Name:</span>
+					<input type="text" name="name" id="name" value="{{ name }}" class="box" style="width:240px;" />
+				</label>
+			</p>
+			<!--<p style="float:left;width:260px;margin-left:20px;">
+				<label for="price" class="textbox">
+					<span class="label {{ error.price }}">Price:</span>
+					<input type="text" name="price" id="price" value="{{ price }}" class="box" style="width:240px;" />
+				</label>
+			</p>-->
+			<p style="float:left;width:280px;margin-left:20px;">
+				<label for="available_to_buy" class="textbox"><span class="label {{ error.available_to_buy }}">Available to Buy:</span></label>
+				<label for="yes_available_to_buy" style="float:left;">
+					<input type="radio" name="available_to_buy" id="yes_available_to_buy" value="1" {{ available_to_buy1 }}/>
+					Yes
+				</label>
+				<label for="no_available_to_buy">
+					<input type="radio" name="available_to_buy" id="no_available_to_buy"  value="0" {{ available_to_buy0 }} />
+					No
+				</label>
+			</p>
+		</div>
+		<p>
+			<label for="description" class="textbox">
+				<span class="label {{ error.description }}">Description:</span>
+				<textarea name="description" class="box" >{{ description }}</textarea>
+			</label>
+		</p>
+		<p>
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>
+
+<div class="line"></div>
+
+<div class="in forms">
+
+	<p><b>Pricing Options:</b> [<a href="{{ uri }}admin/products/edit/{{ uid }}/packages/">View Packages</a>]</p>
+
+	<form action="{{ uri }}admin/products/edit/{{ uid }}/" method="post">
+		<div>
+			<input type="hidden" name="uid" value="{{ uid }}" />
+			<input type="hidden" name="action" value="pricing" />
+		</div>
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main">
+			<tr>
+				<th>Term of Subscription</th>
+				<th>Price</th>
+			</tr>
+			<tr>
+				<td> 1 Year </td>
+				<td><input type="text" name="years_1" id="years_1" value="{{ years_1 }}" /></td>
+			</tr>
+			<tr>
+				<td> 2 Years </td>
+				<td><input type="text" name="years_2" id="years_2" value="{{ years_2 }}" /></td>
+			</tr>
+			<tr>
+				<td> 3 Years </td>
+				<td><input type="text" name="years_3" id="years_3" value="{{ years_3 }}" /></td>
+			</tr>
+			<tr>
+				<td> 4 Years </td>
+				<td><input type="text" name="years_4" id="years_4" value="{{ years_4 }}" /></td>
+			</tr>
+			<tr>
+				<td> 5 Years </td>
+				<td><input type="text" name="years_5" id="years_5" value="{{ years_5 }}" /></td>
+			</tr>
+		</table>
+		<p>
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+
+</div>

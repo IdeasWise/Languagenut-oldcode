@@ -1,0 +1,28 @@
+ <br />
+<p><span class="label">Current Translations of Key Value Pair:</span></p>
+<div class="line"></div>
+<div class="message_error"> {{ current_message_error }} </div>
+<table width="100%" border="0" cellspacing="0" cellpadding="10" id="GavScore">
+    <!--<tr>
+        <td><p>
+                <label for="new_key" class="textbox {{ new_key_error }}"> <span class="label">Key:</span>
+                    <input type="text" name="new_key" id="new_key" value="{{ new_key }}" class="inputClass" />
+                </label>
+            </p></td>
+        <td><p>
+                <label for="new_value" class="textbox {{ new_value_error }}"> <span class="label">Value:</span>
+                    <input type="text" name="new_value" id="new_value" value="{{ new_value }}" class="inputClass" />
+                </label>
+            </p></td>
+    </tr>-->
+    <tr>
+        <td><p><span class="label">Key:</span></p></td>
+        <td><p><span class="label">Value:</span></p></td>
+    </tr>
+    {{ rows }}
+    <tr>
+        <td colspan="2"><p>
+                <input type="submit" name="save_changes" id="save_changes" class="com_btn" value="Save Changes" />
+            </p></td>
+    </tr>
+</table>

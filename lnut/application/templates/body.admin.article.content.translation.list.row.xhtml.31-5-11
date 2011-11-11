@@ -1,0 +1,4 @@
+<tr>
+	<td><a href="{{ admin_uri }}article/content-translation/{{ article_translation_uid }}/edit/{{ uid }}/">{{ content }}</a></td>
+	<td><!--<a href="{{ admin_uri }}article/content-translation/{{ article_translation_uid }}/groups/{{ uid }}/">Groups</a>--><a href="#">Groups</a> | <a href="{{ admin_uri }}article/content-translation/{{ article_translation_uid }}/edit/{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}article/content-translation/{{ article_translation_uid }}/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></td>
+</tr>

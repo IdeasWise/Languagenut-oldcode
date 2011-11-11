@@ -1,0 +1,20 @@
+<!-- move this to another template and repeat as per pagination limits -->
+<div class="block wide listrows">
+    <div class="w80">
+        <img src="{{ img_uri }}" alt="{{ name }}" title="{{ name }}" width="50" height="50" />
+    </div>
+    <div class="w400">
+        <p class="show" id="show-{{ uid }}"><a href="{{ uri }}admin/appearance/themes/edit/{{ uid }}/">{{ name }}</a></p>
+        <p id="data-{{ uid }}">
+            <a href="{{ uri }}admin/appearance/themes/edit/{{ uid }}/">Edit</a> |
+            <a href="{{ uri }}admin/appearance/themes/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a> |
+            <a href="{{ uri }}admin/appearance/themes/view/{{ uid }}/" class="popup">View</a>
+        </p>
+    </div>    
+    <div class="w80">
+        {{ added_dts }}
+    </div>
+    <div class="w80">
+        {{ status }}
+    </div>
+</div>

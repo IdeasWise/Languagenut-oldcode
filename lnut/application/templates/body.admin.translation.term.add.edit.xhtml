@@ -1,0 +1,20 @@
+<div class="in forms" style="width:100%">
+	<form name="admin_translation_term" id="admin_translation_term" action="{{ form.action }}" method="post" >
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<div align="center" style="color:#57A000;">{{ message }}</div>
+		<p>
+			<label for="term_tag" class="textbox"> <span class="label {{ error.term_tag }}">Term Tag:-</span>
+				<input type="text" name="term_tag" id="term_tag" value="{{ term_tag }}" class="box" />
+			</label>
+		</p>
+		<label for="module_uid" class="listbox"> <span class="label {{ error_module_uid }}">Module:-</span> {{ module_uid }} </label>
+		</p>
+		<p>Term Caption:-</p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="term_caption" id="term_caption">{{ term_caption }}</textarea>
+		</div>
+		<p>
+			<input type="submit" name="button_admin_translation_term" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

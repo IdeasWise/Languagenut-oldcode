@@ -1,0 +1,84 @@
+
+<div id="content">
+	<form action="{{ uri }}subscribe/{{ type }}/" method="post" id="signup-form">
+		<div id="signup">
+			<div style="text-align:center;padding-right:20px;">
+				<!--<img src="{{ images }}{{ title_url }}" alt="{{ title_alt }}" />-->
+				<h1>{{ title_alt }}</h1>
+			</div>
+			{{ errors }}
+			<div class="options clearfix" style="margin:0 auto;padding-bottom:10px;" id="notErrors">
+				<div class="desc">
+					{{ intro_text }}
+				</div>
+
+				<div id="signup_boxes">
+					<p class="half box" style="clear:both;">
+						<label for="name">{{ translate.use_promo_code }}</label>
+						<input type="text" name="promo_code" id="promo_code" value="{{ promo_code }}" {{ highlight:promo_code }} />
+					</p>
+					<p class="half box" style="clear:left;">
+						<label for="name">{{ translate.label_name }}</label>
+						<input type="text" name="name" id="name" value="{{ name }}" {{ highlight:name }} />
+					</p>
+
+					<p class="half box">
+						<label for="name">{{ translate.label_phone_number }}</label>
+						<input type="text" name="phone_number" id="phone_number" value="{{ phone_number }}" {{ highlight:phone_number }} />
+					</p>
+
+					<p style="clear: left;" class="box">
+						<label for="email">{{ translate.label_email }}</label>
+						<input type="text" name="email" id="email" value="{{ email }}" {{ highlight:email }} />
+					</p>
+
+					<p class="half box">
+						<label for="password1">{{ translate.label_password }}</label>
+						<input type="password" name="password1" id="password1" value="" {{ highlight:password1 }} />
+					</p>
+
+					<p class="half box">
+						<label for="password2">{{ translate.label_repeat_password }}</label>
+						<input type="password" name="password2" id="password2" value="" {{ highlight:password2 }} />
+					</p>
+
+					<p style="clear: left;{{ reseller_code_visibility }}" class="box">
+						<label for="reseller_code_uid">{{ translate.which_reseller }}</label>
+						<select name="reseller_code_uid" id="reseller_code_uid"{{ highlight:reseller_code_uid }}>
+							{{ reseller_code_uids }}
+						</select>
+					</p>
+
+					<div class="break" style="padding-top:15px;clear: left;">
+						<label for="captcha">{{ translate.label_please_retype_captcha }}</label>
+						<div class="clearfix">
+							<div style="float:left;width:320px;">
+								<div>
+									{{ captcha }}
+								</div>
+
+								<p style="padding-top:15px;width:auto;">
+									{{ translate.captchatext }}
+								</p>
+							</div>
+							<div style="float:right;width:385px;">
+								<div class="clearfix" style="width:380px;">
+									<div style="float:left;width:240px;">
+										<p style="width:auto;">
+											<input type="checkbox" name="accept_terms" checked="checked" value="yes" style="width:auto;" /> {{ translate.accept_terms }}
+										</p>
+										<p id="optin" style="width:auto;"><input type="checkbox" name="optin" checked="checked" value="yes" style="width:auto;" /> {{ translate.send_updates }}</p>
+										<p id="optin2" style="width:auto;">{{ translate.emails_not_to_3rd_party }}</p>
+									</div>
+									<div style="float:right;width:131px;">
+										<input type="submit" class="confirm-button" name="submit" value="Continue" />
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>

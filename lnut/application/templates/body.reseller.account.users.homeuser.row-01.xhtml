@@ -1,0 +1,12 @@
+<tr class="{{ subscription_cancelled }}">
+	<td style="border-bottom:1px solid #444444;">
+		<p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ uri }}admin/users/{{ edit }}{{ uid }}/">{{ email }}</a></p>
+	</td>
+	<td style="border-bottom:1px solid #444444;">{{ registered_dts }}</td>
+	<td style="border-bottom:1px solid #444444;">
+		<p id="data-{{ uid }}" class="invisible">
+			<a href="{{ uri }}admin/users/{{ edit }}{{ uid }}/" class="btn"><span>Edit</span></a> | 
+			<a href="{{ uri }}admin/users/delete/{{ uid }}/" class="btn Ajax-delete-page"><span>Delete</span></a>
+		</p>
+	</td>
+</tr>

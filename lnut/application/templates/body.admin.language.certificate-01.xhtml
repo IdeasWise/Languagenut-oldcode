@@ -1,0 +1,37 @@
+<form name="pligin_certificate" id="pligin_certificate" action="{{ form.action }}" method="post" enctype="multipart/form-data">
+<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+<div align="center" style="color:#57A000;">{{ message }}</div>
+	<p>
+          <label for="logo_url" class="textbox"> <span class="label {{ error_logo_url }}">Logo URL: {{ logo_image }}</span>
+          <input type="file" name="logo_url" id="logo_url" value="" />
+		<input type="hidden" name="logo_url_hidden" id="logo_url_hidden" value="{{ logo_url }}" />
+          </label>
+     </p>
+	
+	<p>
+          <label for="gold_bg" class="textbox"> <span class="label {{ error_gold_bg }}">Gold Background URL: {{ gold_image }}</span>
+          <input type="file" name="gold_bg" id="gold_bg" value="" />
+		<input type="hidden" name="gold_bg_hidden" id="gold_bg_hidden" value="{{ gold_bg }}" />
+          </label>
+     </p>
+	
+	
+	<p>
+          <label for="silver_bg" class="textbox"> <span class="label {{ error_silver_bg }}">Silver Background URL: {{ silver_image }}</span>
+          <input type="file" name="silver_bg" id="silver_bg" value="{{ silver_bg }}" />
+		<input type="hidden" name="silver_bg_hidden" id="silver_bg_hidden" value="{{ silver_bg }}" />
+          </label>
+     </p>
+	
+	<p>
+          <label for="bronze_bg" class="textbox"> <span class="label {{ error_bronze_bg }}">Bronze Background URL: {{ bronze_image }}</span>
+          <input type="file" name="bronze_bg" id="bronze_bg" value="{{ bronze_bg }}" />
+		<input type="hidden" name="bronze_bg_hidden" id="bronze_bg_hidden" value="{{ bronze_bg }}" />
+          </label>
+     </p>
+	
+	<p>
+		<input type="submit" name="form_language_uploads" value="Save Change" class="btnstyle fl-center RemoveCss" />
+	</p>
+
+</form>

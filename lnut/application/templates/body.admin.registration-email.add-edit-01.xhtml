@@ -1,0 +1,20 @@
+<div id="content">
+    <div class="box2">
+        <h3> School Registration Emails >> {{ title }} Template <span></span></h3>
+        <div class="box2-mid">
+            <div class="message_error"> {{ message_error }} </div>
+            <form action="" method="post" name="frm-registration-email">
+                <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+                <p>
+                    <label for="template_name" class="textbox"> <span class="label {{ error.template_name }}">Template Name:</span>
+                        <input type="text" name="template_name" id="template_name" value="{{ template_name }}" />
+                    </label>
+                </p>
+                <p>&nbsp;</p>
+                <p>
+                    <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+                </p>
+            </form>
+        </div>
+    </div>
+</div>

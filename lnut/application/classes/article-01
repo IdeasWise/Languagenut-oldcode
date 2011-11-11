@@ -1,0 +1,167 @@
+<?php
+
+class article extends generic_object {
+
+	public $arrForm = array( );
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
+
+	public function getList( $all = false ) {
+		
+		if( !$all ) {
+			$query ="SELECT ";
+			$query.="count(`uid`) ";
+			$query.="FROM ";
+			$query.="`article` ";
+			$this->setPagination( $query );
+		}
+		$query ="SELECT ";
+		$query.="* ";
+		$query.="FROM ";
+		$query.="`article` ";
+		$query.="ORDER BY ";
+		$query.="`title` ";
+		if($all	== false) {
+			$query.= "LIMIT ".$this->get_limit();
+		}
+		return database::arrQuery($query);
+	}
+
+	public function isValidCreate () {
+		
+		if($this->isValidateFormData() === true) {
+			$article_uid = $this->insert();
+			$objArticleTranslation = new article_translations();
+			$objArticleTranslation->SaveArticleTranslation($article_uid);
+			return true;
+		} else {
+			return false;
+		}
+		
+	}
+
+	public function isValidUpdate () {
+		
+		if($this->isValidateFormData() === true) {
+			$this->save();
+			$objArticleTranslation = new article_translations();
+			$objArticleTranslation->SaveArticleTranslation($this->get_uid());
+			return true;
+		} else {
+			return false;
+		}
+		
+	}
+
+	private function isValidateFormData() {
+
+		if(isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+			parent::__construct($_POST['uid'],__CLASS__);
+			$this->load();
+		} else {
+			$this->set_created_date(date('Y-m-d H:i:s'));
+		}
+		$arrFields = array(
+			'title'=>array(
+				'value'			=> (isset($_POST['title']))?trim($_POST['title']):'',
+				'checkEmpty'	=> false,
+				'errEmpty'		=> '',
+				'minChar'		=> 5,
+				'maxChar'		=> 260,
+				'errMinMax'		=> 'Title must be 5 to 255 characters in length.',
+				'dataType'		=> 'text',
+				'errdataType'	=> 'Please enter valid title.',
+				'errIndex'		=> 'error.title'
+			),
+			'template_uid'=>array(
+				'value'			=> (isset($_POST['template_uid']))?trim($_POST['template_uid']):0,
+				'checkEmpty'	=> true,
+				'errEmpty'		=> 'Please select template.',
+				'minChar'		=> 0,
+				'maxChar'		=> 0,
+				'errMinMax'		=> '',
+				'dataType'		=> 'int',
+				'errdataType'	=> 'Please select valid template.',
+				'errIndex'		=> 'error.template_uid'
+			),
+			'article_category_uid'=>array(
+				'value'			=> (isset($_POST['article_category_uid']))?trim($_POST['article_category_uid']):0,
+				'checkEmpty'	=> true,
+				'errEmpty'		=> 'Please select category.',
+				'minChar'		=> 0,
+				'maxChar'		=> 0,
+				'errMinMax'		=> '',
+				'dataType'		=> 'int',
+				'errdataType'	=> 'Please select valid category.',
+				'errIndex'		=> 'error.article_category_uid'
+			),
+			'width'=>array(
+				'value'			=> (isset($_POST['width']))?trim($_POST['width']):0,
+				'checkEmpty'	=> false,
+				'errEmpty'		=> '',
+				'minChar'		=> 0,
+				'maxChar'		=> 5,
+				'errMinMax'		=> 'Width should not more than 5 digits.',
+				'dataType'		=> 'int',
+				'errdataType'	=> 'Please enter valid width.',
+				'errIndex'		=> 'error.width'
+			),
+			'height'=>array(
+				'value'			=> (isset($_POST['height']))?trim($_POST['height']):0,
+				'checkEmpty'	=> false,
+				'errEmpty'		=> '',
+				'minChar'		=> 0,
+				'maxChar'		=> 5,
+				'errMinMax'		=> 'Height should not more than 5 digits.',
+				'dataType'		=> 'int',
+				'errdataType'	=> 'Please enter valid Height.',
+				'errIndex'		=> 'error.height'
+			),
+			'token'=>array(
+				'value'			=> (isset($_POST['token']))?trim($_POST['token']):'',
+				'checkEmpty'	=> false,
+				'errEmpty'		=> '',
+				'minChar'		=> 0,
+				'maxChar'		=> 255,
+				'errMinMax'		=> 'Token must be 0 to 255 characters in length.',
+				'dataType'		=> 'text',
+				'errdataType'	=> 'Please enter valid token.',
+				'errIndex'		=> 'error.token'
+			)
+		);
+
+		$arrMessages = array();
+
+		$objArticleTranslation = new article_translations();
+		$result = $objArticleTranslation->isValidInput();
+		if(is_array($result) && count($result)) {
+			if(is_array($result['arrName']) && count($result['arrName'])) {
+				$arrMessages['error_names'] = "Name translation should not more than 255 characters in length in ".implode(',',$result['arrName'])." locale.";
+			}
+			if(is_array($result['arrWidth']) && count($result['arrWidth'])) {
+				$arrMessages['error_widths'] = "Please enter valid width or it should not more than 5 digits in ".implode(',',$result['arrWidth'])." locale.";
+			}
+			if(is_array($result['arrHeight']) && count($result['arrHeight'])) {
+				$arrMessages['error_heights'] = "Please enter valid height or it should not more than 5 digits in ".implode(',',$result['arrHeight'])." locale.";
+			}
+		}
+
+
+		// $arrFields contains array for fields which needs to be validate and then we are passing class object($this)
+		if($this->isValidarrFields($arrFields,$this,$arrMessages) === true) {
+			$this->set_title($arrFields['title']['value']);
+			$this->set_template_uid($arrFields['template_uid']['value']);
+			$this->set_article_category_uid($arrFields['article_category_uid']['value']);
+			$this->set_width($arrFields['width']['value']);
+			$this->set_height($arrFields['height']['value']);
+			$this->set_token($arrFields['token']['value']);
+			return true;
+		} else {
+			return false;
+		}
+
+	}
+
+}
+?>

@@ -1,0 +1,145 @@
+html, body {
+	margin: 0; padding: 0; line-height: 1; border: 0; font-size: 0.9em; font-family: Arial, sans;
+}
+a {
+	outline:	none;
+}
+#content {
+	margin: 0 auto; width: 886px; background: transparent none scroll no-repeat left top;
+}
+#signup-form {
+	margin: 80px auto; width: 340px; background: #fff; border: 2px solid black;
+}
+#signup {
+	width: 300px;
+}
+#signup,
+#signup-form p {
+	padding: 0; margin: 20px 0 0 20px;
+}
+#signup:after {
+	content: ""; display: block; height: 0; clear: both;
+}
+#signup dt {
+	width: 300px; padding: 0; margin: 13px 0 0 0;
+}
+#signup dd {
+	width: 300px; padding: 0; margin: 3px 0 0 0;
+}
+#signup input {
+	height: 18px; width: 300px; padding: 0; margin: 0 border: 2px solid silver;
+}
+#signup-form div.input {
+	text-align: right; padding: 8px; background: black; border-top: 1px solid lightsteelblue; margin-top:3px;
+}
+#signup-form div.input a {
+	color: white;
+}
+#signup-form p {
+	width: 300px;
+}
+.details dt {
+	font-weight: bold;
+}
+div.errors, div.errors2 {
+	font-size: 0.9em; border: 1px solid #C3CB37; background: #F9F9CF; padding: 10px; margin: 8px; line-height: 1.1 em;
+}
+div.error ul, div.error li, div.error2 ul, div.error2 li {
+	list-style: none; border: 0; margin: 0; padding: 0;
+}
+div.error li, div.error2 li {
+	padding: 8px;
+}
+input.highlighted {
+	border:2px solid red;
+}
+#paypalform {
+	text-align: center; margin-top: 10px;
+}
+#signup-form p.goback {
+	background: black; margin: 10px 0 0 0; width: 100%; height:36px;
+}
+#signup-form p.goback a {
+	color: white; position: relative; left: 10px; top: 10px;
+}
+#loginform {
+	color: #222; background: transparent url(../../images/fr/login_bg.jpg) no-repeat scroll left top; width: 912px; height: 646px; margin: 0 auto; font-weight:bold; font-size:1.2em
+}
+#loginform .back {
+	display: block; overflow: hidden; padding: 13px 0 0 80px;
+}
+#loginform .back a {
+	display: block; height: 69px; width: 118px; background: url(../../images/fr/login_back_sprite.png) scroll no-repeat left top transparent;
+}
+#loginform .back a:hover {
+	background-position: -118px 0;
+}
+#loginform form {
+	width:300px; padding: 200px 0 0 280px;
+}
+
+#login {
+	width: 330px; float: left;
+}
+#login:after {
+	content: ""; display: block; height: 0; clear: both;
+}
+#login dt {
+	width: 80px; padding: 0; margin: 1px 0 1px 15px; display:block; float:left; clear: left; height: 20px; line-height: 1;
+}
+#login dd {
+	width: 190px; padding: 0; margin: 1px 10px 1px 5px; display:block; float: right;height: 20px; line-height: 1;
+}
+#login input {
+	height: 18px; width: 160px; padding: 0; margin: 0 border: 0;
+}
+#login p {
+	width: 300px; margin: 10px 0 0 10px; padding: 0; font-size:0.8em; text-align: center;
+}
+#login p a {
+	color: black; text-decoration:none;
+}
+#login p a:hover {
+	text-decoration: underline;
+}
+#login #signup {
+	padding:10px 0 0 24px; margin: 0; 
+}
+#login #signup-form p {
+	padding: 0 0 0 30px; margin: 0; 
+}
+#login #login-button {
+	height:78px;
+	width:152px;
+	margin-left:249px;/* position:absolute; top:400px;*/
+	background:url(../../images/fr/login_login_sprite.png) scroll no-repeat left top;
+	border:0;
+	padding:0;
+	font-size:0;
+	line-height:0;
+}
+.side-bar {
+	width: 268px;
+	background:#98c900;
+	height: 80px; display: none; position: absolute; margin-left: 33px;
+}
+.side-bar2 {
+	width: 268px; background:#b6f300; border: 1px solid #9cce00; height: 80px; margin-left: 33px; margin-top: 6px;
+}
+.side-bar3 {
+	height:25px;
+	text-align:right;
+	margin-right:100px;
+}
+#login .side-bar p, #login .side-bar2 p {
+	margin: 0 0 5px 0; padding: 0; width: 270px
+}
+#login .side-bar3 .error {
+	padding-top:8px;
+}
+#login .side-bar3 p {
+	margin:0;padding:0;
+}
+#close {
+	cursor:pointer;
+}

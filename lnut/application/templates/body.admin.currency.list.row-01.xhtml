@@ -1,0 +1,10 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows">
+  <div class="w250">
+    <p class="show" id="show-{{ uid }}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ uri }}admin/currency/edit/{{ uid }}/">{{ name }}</a></p>
+    <p id="data-{{ uid }}" class="invisible"> <a href="{{ uri }}admin/currency/edit/{{ uid }}/">Edit</a> | <a href="{{ uri }}admin/currency/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p>
+  </div>
+  <div class="w250"><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ symbol }} </p></div>
+  <div class="w250"><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{ position }} </p></div>
+</div>

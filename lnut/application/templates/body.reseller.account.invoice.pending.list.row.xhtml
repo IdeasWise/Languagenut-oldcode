@@ -1,0 +1,23 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<tr{{ extra_style }}>
+	<td><p class="show" id="show-{{ user_uid }}"><a href="{{ admin_uri }}users/profile/school/{{ user_uid }}/" title="{{ email }}">{{ school }}</a></p></td>
+	<td><p>{{ expires }}</p></td>
+	<td><p>{{ time_remains }}</p></td>
+	<!-- <td>
+		<div id="button-paid-{{ user_uid }}" style="{{ paid_button_display }}">
+			<input type="button" name="paid" value="Paid?" title="Are you sure {{ name }} has paid {{ format_amount }} in full?" id="button-{{ user_uid }}" class="button-paid com_btn" />
+		</div>
+		<div class="ClassGreen"> {{ paid_string }}</div>
+	</td> -->
+	<td><p style="text-align:center;">{{ years_subscribing }}</p></td>
+	<td><p>{{ call_status }}</p></td>
+	<td>
+		<p id="data-{{ uid }}">
+			<!--<a href="{{ admin_uri }}invoice/{{ type }}/edit/{{ user_uid }}/">Edit</a> | 
+			<a href="{{ admin_uri }}invoice/{{ type }}/delete/{{ user_uid }}/" class="Ajax-delete-page">Delete</a>-->
+			<a href="{{ admin_uri }}users/profile/school/{{ user_uid }}/">Edit</a> | 
+			<a href="{{ admin_uri }}users/delete/{{ user_uid }}/">Delete</a>
+		</p>
+	</td>
+</tr>

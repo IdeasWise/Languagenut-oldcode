@@ -1,0 +1,41 @@
+<?php
+
+/**
+ * geolookup
+ */
+class geolookup {
+
+	private static $result = null;
+	private static $conversion = 100000;
+
+	public static function get($ip='') {
+		$result = database::query("SELECT * FROM `geolookup` WHERE `ip` = '" . $ip . "' LIMIT 1");
+		if ($result && mysql_error() == '' && mysql_num_rows($result) > 0) {
+			self::$result = mysql_fetch_array($result);
+			self::$result['latitude'] = self::$result['latitude'] / self::$conversion;
+			self::$result['longitude'] = self::$result['longitude'] / self::$conversion;
+		}
+		return self::$result;
+	}
+
+	public static function set($country = '', $city = '', $lat = '', $lon = '', $ip = '') {
+		$query = "INSERT INTO ";
+		$query.= "`geolookup` (";
+		$query.= "`country`, ";
+		$query.= "`city`, ";
+		$query.= "`latitude`, ";
+		$query.= "`longitude`, ";
+		$query.= "`ip`";
+		$query.= ") VALUES (";
+		$query.= "'" . mysql_real_escape_string($country) . "', ";
+		$query.= "'" . mysql_real_escape_string($city) . "', ";
+		$query.= "'" . (int) mysql_real_escape_string((float) $lat * self::$conversion) . "', ";
+		$query.= "'" . (int) mysql_real_escape_string((float) $lon * self::$conversion) . "', ";
+		$query.= "'" . mysql_real_escape_string($ip) . "'";
+		$query.= ")";
+		return database::query($query);
+	}
+
+}
+
+?>

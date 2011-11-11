@@ -1,0 +1,145 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}users/school/">School List</a> &gt; Edit &gt; {{ school }}</h2>
+		<p></p>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<div class="tabs">
+		<ul>
+			<li><a href="#tab-0"><span>Update School</span></a></li>
+			<li><a href="#tab-1"><span>Edit Address</span></a></li>
+			<li><a href="#tab-2"><span>School Admins</span></a></li>
+			<li><a href="#tab-3"><span>School Teachers</span></a></li>
+			<li><a href="#tab-4"><span>Classes</span></a></li>
+			<li><a href="#tab-5"><span>Subscriptions</span></a></li>
+		</ul>
+		<div id="tab-0">
+			<div align="right"> <a href="{{ admin_uri }}users/edit/{{ user_uid }}/" target="_blank" class="add-icon">Edit User</a> </div>
+			<div class="message_error"> {{ message_error }} </div>
+			<div class="in forms">
+				<form action="" method="post" name="edit-profile">
+					<p>
+						<label for="school" class="textbox">
+							<span class="label {{ error_school }}">School Name:</span>
+							<input type="text" name="school" id="school" value="{{ school }}" class="box" />
+						</label>
+					</p>
+					<div style="overflow:hidden;">
+						<p style="float:left;margin-right:15px;">
+							<label for="contact" class="textbox">
+								<span class="label {{ error_contact }}">Contact Name:</span>
+								<input type="text" name="contact" id="contact" value="{{ contact }}" class="box" style="width:220px;" />
+							</label>
+						</p>
+						<p style="float:left;margin-right:15px;">
+							<label for="phone_number" class="textbox">
+								<span class="label {{ error_phone_number }}">Phone Number:</span>
+								<input type="text" name="phone_number" id="phone_number" value="{{ phone_number }}" class="box" style="width:220px;" />
+							</label>
+						</p>
+						<p style="float:left;clear:right;">
+							<label for="user_limit" class="textbox">
+								<span class="label {{ error_user_limit }}">User Limit:</span>
+								<input type="text" name="user_limit" id="user_limit" value="{{ user_limit }}" class="box" style="width:85px;" />
+							</label>
+						</p>
+					</div>
+					<p><strong>Note:</strong> A User Limit of 0 means the school has no limit on the number of student accounts it may create.</p>
+					<div style="overflow:hidden;">
+						<p style="float:left;margin-right:15px;">
+							<label for="username_open"  class="textbox">
+								<span class="label {{ error_username_open }}">Open UserName:</span>
+								<input type="text" name="username_open" id="username_open" value="{{ username_open }}" class="box" style="width:220px;" />
+							</label>
+						</p>
+						<p style="float:left;margin-right:15px;">
+							<label for="password_open"  class="textbox">
+								<span class="label {{ error_password_open }}">Open Password:</span>
+								<input type="text" name="password_open" id="password_open" value="{{ password_open }}" class="box" style="width:220px;" />
+							</label>
+						</p>
+						<p style="float:left;clear:right;">
+							<label for="affiliate"  class="textbox">
+								<span class="label {{ error_affiliate }}">Promo Code:</span>
+								<input type="text" name="affiliate" id="affiliate" value="{{ affiliate }}" class="box" style="width:85px;" />
+							</label>
+						</p>
+					</div>
+					<p>
+						<label for="notes" class="textarea">
+							<span class="label">Notes:</span>
+							<textarea name="notes" id="notes" class="box" rows="5" cols="30">{{ notes }}</textarea>
+						</label>
+					</p>
+					<p><strong>Two Week Free Trial</strong></p>
+					<p>
+						<label for="notes_2wft_call1" class="textarea">
+							<span class="label">Call 1:</span>
+							<input type="text" name="notes_2wft_call1" id="notes_2wft_call1" class="box" value="{{ notes_2wft_call1 }}" />
+						</label>
+					</p>
+					<p>
+						<label for="notes_2wft_call2" class="textarea">
+							<span class="label">Call 2:</span>
+							<input type="text" name="notes_2wft_call2" id="notes_2wft_call2" class="box" value="{{ notes_2wft_call2 }}" />
+						</label>
+					</p>
+					<p>
+						<label for="notes_2wft_call3" class="textarea">
+							<span class="label">Call 3:</span>
+							<input type="text" name="notes_2wft_call3" id="notes_2wft_call3" class="box" value="{{ notes_2wft_call3 }}" />
+						</label>
+					</p>
+					<p><strong>Courtesy Calls</strong></p>
+					<p>
+						<label for="notes_courtesy_call1" class="textarea">
+							<span class="label">Call 1: (4 months)</span>
+							<input type="text" name="notes_courtesy_call1" id="notes_courtesy_call1" class="box" value="{{ notes_courtesy_call1 }}" />
+						</label>
+					</p>
+					<p>
+						<label for="notes_courtesy_call2" class="textarea">
+							<span class="label">Call 2: (8 months)</span>
+							<input type="text" name="notes_courtesy_call2" id="notes_courtesy_call2" class="box" value="{{ notes_courtesy_call2 }}" />
+						</label>
+					</p>
+					<p><strong>Renewal Calls</strong></p>
+					<p>
+						<label for="notes_renewal_call1" class="textarea">
+							<span class="label">Call 1: (30 days to go)</span>
+							<input type="text" name="notes_renewal_call1" id="notes_renewal_call1" class="box" value="{{ notes_renewal_call1 }}" />
+						</label>
+					</p>
+					<p>
+						<label for="notes_renewal_call2" class="textarea">
+							<span class="label">Call 2: (1 week to go - close)</span>
+							<input type="text" name="notes_renewal_call2" id="notes_renewal_call2" class="box" value="{{ notes_renewal_call2 }}" />
+						</label>
+					</p>
+					<p>
+						<input type="hidden" name="user_uid" id="user_uid" value="{{ user_uid }}" />
+						<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+						<input type="submit" name="submit-edit-profile" value="Save" class="com_btn" />
+					</p>
+				</form>
+			</div>
+		</div>
+		<div id="tab-1"> {{ tab.address }} </div>
+		<div id="tab-2">
+			<div align="right"><a href="{{ admin_uri }}users/add/" class="add-icon">Add Admin</a></div>
+			{{ tab.schooladmin }}
+		</div>
+		<div id="tab-3">
+			<div align="right"><a href="{{ admin_uri }}users/add/" class="add-icon">Add Teacher</a></div>
+			{{ tab.schoolteacher }}
+		</div>
+		<div id="tab-4"> Coming soon </div>
+		<div id="tab-5">
+			<div align="right"><a href="{{ admin_uri }}invoice/school/add/" class="add-icon">Add Subscription</a></div>
+			{{ tab.subscriptions }}
+		</div>
+	</div>
+</div>

@@ -1,0 +1,61 @@
+<div class="in">
+	<div class="author">
+		<h2>{{ breadcrumb }} &gt; Student &gt; Edit Submission</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	
+			<div class="in forms">
+				<div class="message_error"> {{ message_error }} </div>
+				<form action="" method="post" name="edit-submission">
+					<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+                    <div style="width:50%; float:left;">
+                    
+                        <p>
+                            <label for="title" class="textbox"> <span class="label">Article:</span>
+                                {{ title }}
+                            </label>
+                        </p>
+                        <p style="font-size: 0.9em;font-weight: bold;">Article Content:</p>
+                        <div>{{ article_content }}</div>
+                        
+                    </div>
+                    
+                    <div style="width:50%; float:right;">
+                    	
+                        <p>
+                            <label for="name" class="textbox"> <span class="label">Student:</span>
+                                {{ vlastname }} {{ vfirstname }}
+                            </label>
+						</p>
+                        <p style="font-size: 0.9em;font-weight: bold;">Student's Input:</p>
+                        <div>{{ value_submitted }}</div>
+                    
+                    </div>
+                    
+                    <div style="clear:both;">
+                    
+                    	<p>
+						<label for="teacher_comment" class="textarea"> <span class="label {{ error.teacher_comment }}">Comments:</span>
+							<textarea name="teacher_comment" id="teacher_comment" class="box" cols="30" rows="5">{{ teacher_comment }}</textarea>
+						</label>
+					</p>
+                    
+                    </div>               
+                    
+					<p>
+						<label for="score" class="textbox"> <span class="label {{ error.score }}">Marks:</span>
+							<input type="text" name="score" id="score" value="{{ score }}" class="box" />
+						</label>
+					</p>					
+					
+					<p>
+						<input type="submit" name="btn_save_changes" value="Save Changes" class="com_btn" />
+					</p>
+				</form>
+			</div>		
+		
+	</div>
+</div>

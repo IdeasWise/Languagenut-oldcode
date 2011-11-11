@@ -1,0 +1,40 @@
+
+<div class="box2">
+
+	<h3>{{ title }}<span></span></h3>
+
+	<div class="box2-mid">
+		<div class="message_error"> {{ message }} </div>
+
+		<form action="{{ uri }}admin/games/add/" method="post">
+			<p>
+				<label for="name" class="textbox">
+					<span class="label {{ error_name }}">Name:</span>
+					<input type="text" name="name" id="name" value="{{ name }}" />
+				</label>
+			</p>
+			<div>
+				<p>Show in Try Now Area</p>
+				<label for="trynow_yes" style="float:left;">
+					<input type="radio" name="active_trynow" id="trynow_yes" value="1"{{ trynow_yes }} />Yes
+				</label>
+				<label for="trynow_no">
+					<input type="radio" name="active_trynow" id="trynow_no"  value="0"{{ trynow_no }} /> No
+				</label>
+			</div>
+			<div>
+				<p>Show in Subscription Area</p>
+				<label for="subscription_yes" style="float:left;">
+					<input type="radio" name="active_subscription" id="subscription_yes" value="1"{{ subscription_yes }} />Yes
+				</label>
+				<label for="subscription_no">
+					<input type="radio" name="active_subscription" id="subscription_no"  value="0"{{ subscription_no }} /> No
+				</label>
+			</div>
+			<p>
+				<input type="submit" name="submit" value="Add" class="btnstyle fl-center" />
+			</p>
+		</form>
+
+	</div>
+</div>

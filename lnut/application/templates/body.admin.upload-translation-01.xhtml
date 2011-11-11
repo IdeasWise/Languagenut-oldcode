@@ -1,0 +1,29 @@
+
+<div class="box2">
+
+	<h3>Import Translations<span></span></h3>
+
+	<div class="box2-mid">
+		<div class="message_error"> {{ message }} </div>
+
+		<form action="{{ uri }}admin/translations/upload/" method="post" enctype="multipart/form-data">
+			<p>
+				<label for="language_uid" class="listbox">
+					<span class="label {{ error_language_uid }}">Language:</span>
+					{{ language_uid }}
+				</label>
+			</p>
+            <p>
+				<label for="csv_file" class="textbox">
+					<span class="label {{ error_csv_file }}">Upload CSV File:</span>
+					<input type="file" name="csv_file" id="csv_file" value="{{ name }}" />
+				</label>
+			</p>
+			
+			<p>
+				<input type="submit" name="submit" value="Upload" class="btnstyle fl-center" />
+			</p>
+		</form>
+
+	</div>
+</div>

@@ -1,0 +1,76 @@
+<div class="tabs">
+  <ul>
+    <li><a href="#subtab{{ tabName }}-1"><span>English</span></a></li>
+    <li><a href="#subtab{{ tabName }}-2"><span>French</span></a></li>
+    <li><a href="#subtab{{ tabName }}-3"><span>Brazilian</span></a></li>
+    <li><a href="#subtab{{ tabName }}-4"><span>Japanese</span></a></li>
+    <li><a href="#subtab{{ tabName }}-5"><span>Danish</span></a></li>
+  </ul>
+  
+  <div id="subtab{{ tabName }}-1">
+    <form name="frmTab" id="frmTab" method="post" action="{{ en.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ en.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ en.id }}">{{ en.html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  <div id="subtab{{ tabName }}-2">
+    <form name="frmTab" id="frmTab" method="post" action="{{ fr.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ fr.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ fr.id }}">{{ fr.html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  <div id="subtab{{ tabName }}-3">
+    <form name="frmTab" id="frmTab" method="post" action="{{ br.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ br.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ br.id }}">{{ br.html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+   <div id="subtab{{ tabName }}-4">
+    <form name="frmTab" id="frmTab" method="post" action="{{ ja.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ ja.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ ja.id }}">{{ ja.html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  <div id="subtab{{ tabName }}-5">
+    <form name="frmTab" id="frmTab" method="post" action="{{ dk.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ dk.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ dk.id }}">{{ dk.html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  
+</div>

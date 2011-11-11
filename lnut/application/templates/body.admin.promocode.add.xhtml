@@ -1,0 +1,82 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/promocode/">Promocode List</a> &gt; Add</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message }} </div>
+	<form action="{{ uri }}admin/promocode/add/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="code" class="textbox"> <span class="label {{ error_code }}">Code:</span>
+				<input type="text" name="code" id="code" value="{{ code }}" class="box" />
+			</label>
+		</p>
+		<p class="date-picker-container" id="date_picker-active_from"> <span class="label">Promocode Start Date:</span>
+			<label for="active_day" class="textbox"> <span class="label">Day</span>
+				<input type="text" name="active_day" maxlength="2" size="4" id="active_day" value="{{ active_day }}" class="box" />
+			</label>
+			<label for="active_month" class="textbox"> <span class="label">Month</span>
+				<input type="text" name="active_month" id="active_month" maxlength="2" size="4" value="{{ active_month }}" class="box" />
+			</label>
+			<label for="active_year" class="textbox"> <span class="label">Year</span>
+				<input type="text" name="active_year" id="active_year" value="{{ active_year }}" maxlength="4" size="6" class="box" />
+			</label>
+		</p>
+		<p class="date-picker-container" id="date_picker-avail_until"> <span class="label">Promocode End Date:</span>
+			<label for="avail_day" class="textbox"> <span class="label">Day</span>
+				<input type="text" name="avail_day" maxlength="2" size="4" id="avail_day" value="{{ avail_day }}" class="box" />
+			</label>
+			<label for="avail_month" class="textbox"> <span class="label">Month</span>
+				<input type="text" name="avail_month" id="avail_month" maxlength="2" size="4" value="{{ avail_month }}" class="box" />
+			</label>
+			<label for="avail_year" class="textbox"> <span class="label">Year</span>
+				<input type="text" name="avail_year" id="avail_year" value="{{ avail_year }}" maxlength="4" size="6" class="box" />
+			</label>
+		</p>
+		<p class="date-picker-container" id="date_picker-sub_start_date"> <span class="label">Subscription Start Date:</span>
+			<label for="sub_start_day" class="textbox"> <span class="label">Day</span>
+				<input type="text" name="sub_start_day" maxlength="2" size="4" id="sub_start_day" value="{{ sub_start_day }}" class="box" />
+			</label>
+			<label for="sub_start_month" class="textbox"> <span class="label">Month</span>
+				<input type="text" name="sub_start_month" id="sub_start_month" maxlength="2" size="4" value="{{ sub_start_month }}" class="box" />
+			</label>
+			<label for="sub_start_year" class="textbox"> <span class="label">Year</span>
+				<input type="text" name="sub_start_year" id="sub_start_year" value="{{ sub_start_year }}" maxlength="4" size="6" class="box" />
+			</label>
+		</p>
+		<p class="date-picker-container" id="date_picker-sub_end_date"> <span class="label">Subscription End Date:</span>
+			<label for="sub_end_day" class="textbox"> <span class="label">Day</span>
+				<input type="text" name="sub_end_day" maxlength="2" size="4" id="sub_end_day" value="{{ sub_end_day }}" class="box" />
+			</label>
+			<label for="sub_end_month" class="textbox"> <span class="label">Month</span>
+				<input type="text" name="sub_end_month" id="sub_end_month" maxlength="2" size="4" value="{{ sub_end_month }}" class="box" />
+			</label>
+			<label for="sub_end_year" class="textbox"> <span class="label">Year</span>
+				<input type="text" name="sub_end_year" id="sub_end_year" value="{{ sub_end_year }}" maxlength="4" size="6" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="locale" class="listbox {{locale_error }}"> <span class="label">Locale:</span> {{ locale }} </label>
+		</p>
+		<div>
+			<p><span class="label">Override Date</span></p>
+			<label for="override_date_yes" style="float:left;">
+				<input type="radio" name="override_date" id="override_date_yes" value="1" checked="checked" />
+				Yes </label>
+			<label for="override_date_no">
+				<input type="radio" name="override_date" id="override_date_no"  value="0" {{ override_date_no }} />
+				No </label>
+		</div>
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

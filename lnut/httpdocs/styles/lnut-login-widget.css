@@ -1,0 +1,72 @@
+/* CSS Document */
+#language-nut-widget {
+	/*-moz-border-radius:		5px;*/ /* Firefox */
+	/*-webkit-border-radius:	5px;*/ /* Safari, Chrome */		
+	/*-khtml-border-radius:	20px;*/ /* Linux browsers */
+	/*border-radius:			5px;*/ /* CSS3 */
+	/*behavior:				url("border-radius.htc");*/
+	color:					#000000;
+	background:				url(http://www.languagenut.com/images/login_widget.jpg) no-repeat scroll 0 0 #FFFFFF;
+	/*border:					1px solid #CCCCCC;*/
+	width:					170px;
+	height:					210px;
+	padding:				5px;
+	float:					left;
+}
+#frm-login {
+	padding-top:			30px;
+}
+#language-nut-widget p.widget-text {
+	margin:					0 0 0 3px;
+}
+#language-nut-widget .widget-text label span {
+	font-family:			Verdana, Arial, Helvetica, sans-serif;
+	font-size:				11px;
+	color:					#59584a !important;	
+	position:				absolute;
+	padding:				3px 0 0 3px;
+}
+#language-nut-widget .widget-text label input {
+	height:					17px;
+	width:					140px;
+	/*border:					1px solid #CCCCCC;*/
+	border:					0;
+	font-family:			Verdana, Arial, Helvetica, sans-serif;
+	font-size:				11px;
+	background:				transparent;
+}
+
+#language-nut-widget .widget-error p {
+	margin:					0;
+	color:					#FF0000 !important;
+}
+#language-nut-widget a {
+	text-decoration:		none;
+	font-family:			Verdana, Arial, Helvetica, sans-serif;
+	font-size:				11px;
+	/*color:				#59584a !important;*/
+}
+#language-nut-widget a.lnut-trynow {
+	float:					left;
+	color:					black;
+}
+#language-nut-widget a.lnut-free-trial {
+	float:					right;
+	color:					black;
+}
+.widget-footer {
+	overflow:				auto;
+	font-weight:			bold;
+}
+#login-button {
+	background:				none repeat scroll 0 0 transparent;
+	border:					0 none;
+	margin-left:			28px;
+	padding:				0;
+	cursor:					pointer;
+}
+.widget-submit {
+	padding:				5px 0 0 0;
+	margin:					0;
+	height:					122px;
+}

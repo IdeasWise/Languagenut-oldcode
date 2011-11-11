@@ -1,0 +1,69 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+		<title>Languagenut.com</title>
+		<script type="text/javascript" src="http://js.languagenut.com/swfobject.js"></script>
+		<script type="text/javascript" src="http://js.languagenut.com/swfaddress.js"></script>
+		<script type="text/javascript">
+
+
+			var flashvars = {
+				//swf_url: "{{ base }}swf/LanguageNutNew.swf",
+				swf_url: "{{ base }}{{ swf }}/LanguageNutNew.swf",
+				runtime_url : "{{ base }}{{ swf }}/runtime/",
+				config_script: "{{ uri }}loader_support/",
+				unit_section_script: "{{ uri }}unitsection/",
+				game_script: "{{ uri }}games/",
+				printables_script: "{{ uri }}printables/",
+				subscribe_url: "{{ uri }}subscribe/",
+				support_language_id: {{ support_language_uid }},
+				try_now:1,
+				// old
+				//image_url:"{{ base }}swf/pictures/",
+				// new
+				image_url: "http://swf.languagenut.com/pictures/",
+				// old
+				//audio_url:"{{ base }}swf/mp3/",
+				// new
+				audio_url: "http://vocab.languagenut.com/",
+				home_url : "{{ uri }}"
+		   };
+			var params = {
+				allowfullscreen: "true",
+				allowScriptAccess: "always"
+			};
+
+			var attributes = {
+
+		           id:"website" 
+
+			};
+
+			swfobject.embedSWF("{{ base }}{{ swf }}/LanguageNutNew.swf", "myContent", "100%", "100%", "9.0.0", "{{ base }}swf/expressInstall.swf", flashvars, params, attributes);
+
+		</script>
+
+		<style type="text/css">
+			<!--
+			html,body {
+				margin: 0;
+			}
+			#myContentWrap {
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+			}
+			-->
+		</style>
+	</head>
+	<body bgcolor="#FFFFFF">	
+	
+		<div id="myContentWrap">
+			<div id="myContent">
+				<h1>{{ translate:need_flash }}</h1>
+				<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" /></a></p>
+			</div>
+		</div>
+
+	</body>
+</html>

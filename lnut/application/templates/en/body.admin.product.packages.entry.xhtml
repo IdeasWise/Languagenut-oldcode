@@ -1,0 +1,12 @@
+<tr>
+	<td style="vertical-align:top;">{{ name }}</td>
+	<td style="vertical-align:top;">{{ support_language }}</td>
+	<td style="vertical-align:top;">{{ package_type }}</td>
+	<td style="text-align:center;width:70px;vertical-align:top;">{{ is_default_school_package }}</td>
+	<td style="text-align:center;width:70px;vertical-align:top;">{{ is_default_homeuser_package }}</td>
+	<td>{{ learnable_language }}</td>
+	<td style="vertical-align:top;">
+		Yes <input type="radio" name="option_{{ uid }}" value="1" {{ yes_checked }} /> 
+		No <input type="radio" name="option_{{ uid }}" value="0" {{ no_checked }} />
+	</td>
+</tr>

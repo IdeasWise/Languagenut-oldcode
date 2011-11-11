@@ -1,0 +1,6 @@
+<tr>
+	<td><a href="{{ uri }}admin/activity/edit/{{ uid }}/">{{ name }}</a></td>
+	<td>{{ available }}</td>
+	<td><a href="{{ uri }}admin/activity/edit/{{ uid }}/">Edit</a></td>
+	<td><a href="javascript:;" onclick="confirm_all_delete('{{ uri }}admin/skills/delete/{{ uid }}')" >Delete</a></td>
+</tr>

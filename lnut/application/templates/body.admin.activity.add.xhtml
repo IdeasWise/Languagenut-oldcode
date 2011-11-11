@@ -1,0 +1,50 @@
+
+<div class="in">
+  <div class="breadcrumb">
+    {{ title }}
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+  <div class="message_error"> {{ message }} </div>
+  <form action="{{ uri }}admin/activity/add/" method="post">
+    <p>
+      <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+        <input type="text" name="name" id="name"  class="box" />
+      </label>
+    </p>
+    <p>
+      <label for="difficulty_uid" class="listbox"> <span class="label">Difficulty:</span> {{ difficulty_uid }} </label>
+    </p>
+    <p>
+      <label for="exercise_type_uid" class="listbox"> <span class="label">Exercise Type:</span> {{ exercise_type_uid }} </label>
+    </p>
+    <p>
+      <label for="material_type_uid" class="listbox"> <span class="label">Material Type:</span> {{ material_type_uid }} </label>
+    </p>
+    <p>
+      <label for="skill_level_uid" class="listbox"> <span class="label">Skill Type:</span> {{ skill_level_uid }} </label>
+    </p>
+    <p>
+      <label for="unit_uid" class="listbox"> <span class="label">Unit:</span> {{ unit_uid }} </label>
+    </p>
+    <p>
+      <label for="available" > <span class="label {{ error_available }}">Available:</span>
+        <select name="available">
+          <option value="1">Yes</option>
+          <option value="0">No</option>
+        </select>
+      </label>
+    </p>    
+    <div class="tabs">
+	    <ul>
+			{{ locales }}
+	    </ul>
+		{{ tabs }}
+	</div>
+    <p>
+      <input type="submit" name="submit" value="Add" class="com_btn" />
+    </p>
+  </form>
+</div>

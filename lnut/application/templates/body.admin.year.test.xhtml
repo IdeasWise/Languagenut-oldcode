@@ -1,0 +1,21 @@
+<div class="in">
+	<div class="author">
+		<h2>{{ page_title }}</h2>		
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<div class="tabs">
+		<ul>
+			<li {{ tab1_style }}><a href="#tab-1"><span>{{ tab1 }}</span></a></li>
+			<li {{ tab2_style }}><a href="#tab-2"><span>{{ tab2 }}</span></a></li>
+		</ul>
+		<div id="tab-1">
+			<p class="breadcrumb">{{ breadcrumb }}</p>
+			{{ tab1.contents }} </div>
+		<div id="tab-2">
+			<p class="breadcrumb">{{ breadcrumb }}</p>
+			{{ tab2.contents }} </div>
+	</div>
+</div>

@@ -1,0 +1,161 @@
+<?php
+
+class invoice extends FPDF {
+
+	private $topoffset = 126.5;
+	private $max_offset = 151.2;
+	private $lineheight = 3.5;
+	private $fontsize = 6;
+	private $fontfamily = 'Courier';
+	private $width_left_margin = 1.8;
+	private $width_token = 18.5;
+	private $width_description = 33.6;
+	private $width_quantity = 9.4;
+	private $width_unit_price = 10.6;
+	private $width_discount_price = 18.5;
+	private $width_total_price = 14;
+	private $subtotal = 0;
+	private $pagedata = array();
+	private $currentpage = 0;
+	private $headerToken = '';
+
+	function addMoney($money) {
+		//return iconv("UTF-8", "ISO-8859-1", ""). $money;
+		//return "". $money;
+		return $money;
+	}
+
+	//Basic Format
+	function generate($data) {
+		$this->AddPage();
+		$this->Image(config::get('site').'/images/logo-small.png', 20, 12, 60.6);
+		$this->SetFont('Arial', 'B', 12);
+		$this->SetY(50);
+		$this->Cell(180, $this->lineheight, 'INVOICE', 0, 1, 'C');
+		// spacers
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// LANGNUT Address
+		$this->SetFont('Arial', '', 10);
+		$this->Cell(170, $this->lineheight, 'Languagenut Ltd', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, '19 The Twitten', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, 'Ditchling', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, 'Hassocks', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, 'BN6 8UJ', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, 'Tel : 07944 151674', 0, 1, 'R');
+		$this->Cell(170, $this->lineheight, 'Email: subs@languagenut.com', 0, 1, 'R');
+		// spacers
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// add address
+		$this->SetFont('Arial', 'B', 10);
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Finances', 0, 1, 'L');
+		$this->SetFont('Arial', '', 10);
+		if (isset($data['address']) && count($data['address']) > 0) {
+			$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+			$this->Cell(170, $this->lineheight, $data['to'], 0, 1, 'L');
+			foreach ($data['address'] as $address_line) {
+				$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+				$this->Cell(170, $this->lineheight, $address_line, 0, 1, 'L');
+			}
+			$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+			$this->Cell(170, $this->lineheight, $data['school_postcode'], 0, 1, 'L');
+		}
+		// spacers
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// user details
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Invoice No: ' . $data['invoice_number'], 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Date: ' . $data['date'], 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Due Date: ' . $data['due_date'], 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Reference: ' . $data['reference'], 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'To: ' . $data['to'], 0, 1, 'L');
+		// spacers
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// invoice details
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(100, $this->lineheight, 'Description', 0, 0, 'L');
+		$this->Cell(70, $this->lineheight, 'One year website subscription', 0, 1, 'R');
+		// spacer
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// invoice cost
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(100, $this->lineheight, 'Cost excl VAT:', 0, 0, 'L');
+		$this->Cell(70, $this->lineheight, $data['amount'], 0, 1, 'R');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, '', 0, 1, 'L');
+		// spacer
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// invoice VAT
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(100, $this->lineheight, 'VAT @ ' . $data['vat'] . '%:', 0, 0, 'L');
+		$this->Cell(70, $this->lineheight, $data['vat_tax'], 0, 1, 'R');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, '', 0, 1, 'L');
+		// spacer
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(10, 0.5, '', 0, 0, 'L');
+		$this->Cell(170, 0.5, '', 'B', 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// invoice total
+		$this->SetFont('Arial', 'B', 10);
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(100, $this->lineheight, 'Balance Due:', 0, 0, 'L');
+		$this->Cell(70, $this->lineheight, $data['total'], 0, 1, 'R');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, '', 0, 1, 'L');
+		// spacers
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		$this->Cell(180, $this->lineheight, '', 0, 1, 'L');
+		// ending text
+		$this->SetFont('Arial', 'I', 10);
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Payable within 14 days  cheques made payable to Language Nut.', 0, 1, 'L');
+		$this->SetFont('Arial', '', 10);
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'BACS: account number 33096882', 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Sort Code: 20-49-76', 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Please quote invoice number ' . $data['invoice_number'], 0, 1, 'L');
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'VAT registration number: 983 9715 59', 0, 1, 'L');
+		// spacers
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, '', 0, 1, 'L');
+		// thank you
+		$this->SetFont('Arial', 'B', 10);
+		$this->Cell(10, $this->lineheight, '', 0, 0, 'L');
+		$this->Cell(170, $this->lineheight, 'Thank you for your payment.', 0, 1, 'L');
+		$this->Output();
+	}
+
+}
+
+?>

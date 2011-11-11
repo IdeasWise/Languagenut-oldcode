@@ -1,0 +1,92 @@
+<?php
+
+class profile_student extends generic_object {
+
+    public $arrForm = array();
+    public function __construct($uid = 0) {
+        parent::__construct($uid, __CLASS__, true);
+    }
+    public function doSave ()
+    {
+        $response = true;
+        $response = $this->isValidate();
+        if( count( $response ) == 0 ){
+            
+            $this->arrFields['itime']['Value'] = time();
+            if( $_POST['uid'] > 0)
+                $this->save ();
+            else{               
+                $insert = $this->insert();
+                $this->arrForm['uid'] = $insert;
+                $sql = database::query("UPDATE user SET user_type = CONCAT(user_type , ',student') where uid = '".$_POST['iuser_uid']."' ");
+            }
+        }
+        else{
+            $msg  = NULL;
+            foreach( $response as $idx => $val ){
+                $this->arrForm[$idx] = 'label_error';
+                $msg .= '<li>'.$val.'</li>';
+            }
+            if($msg != NULL)
+                $this->arrForm['message_error'] = '<p>Please correct the errors below:</p><ul>'.$msg.'</ul>';
+        }
+        if( count( $response ) > 0 )
+            return false;
+        else
+            return true;
+    }
+    public function isValidate()
+    {
+
+        if(is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+            parent::__construct($_POST['uid'],__CLASS__);
+            $this->load();
+        }
+        $message            =   array();
+         if( trim($_POST['vfirstname']) == '' ) {            
+            $message['error_vfirstname']      =   "Please provide your first name";
+        }
+        if( trim($_POST['vlastname']) == '' ) {
+            $message['error_vlastname']      =   "Please provide your last name";
+        }
+        if( trim($_POST['school_id']) == '' ) {
+            $message['error_school_id']      =   "Please choose your school name";
+        }        
+        foreach( $_POST as $idx => $val )   {
+            $this->arrForm[$idx] = $val;
+            if( in_array($idx,array('uid', 'submit-edit-profile')) ) continue;
+            $this->arrFields[$idx]['Value'] = $val;
+        }       
+        return $message;
+    }
+
+	public function generateLogin () {
+
+		$user = new user($this->iuser_uid);
+		
+		$wordbank = new wordbank();
+		$word = $wordbank->getRandomWord($user->get_locale());
+
+		if($word && $word !== null) {
+			$word.= rand(0,10).rand(0,10).rand(0,10);
+
+			// save to the user object's password via md5
+			$user->changePassword($word);
+			$user->save();
+
+			// store in an open field for the student's profile
+			$this->set_wordbankword($word);
+			$this->save();
+
+			// format username based on the firstname/lastname etc
+			$user->updateUsername();
+			$user->save();
+
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+}
+?>

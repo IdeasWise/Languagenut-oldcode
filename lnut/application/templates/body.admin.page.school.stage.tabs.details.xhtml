@@ -1,0 +1,191 @@
+<div class="tabs">
+  <ul>
+    <li><a href="#subtab{{ tabName }}-1"><span>English</span></a></li>
+    <li><a href="#subtab{{ tabName }}-2"><span>French</span></a></li>    
+    <li><a href="#subtab{{ tabName }}-3"><span>Danish</span></a></li>
+  </ul>
+  
+  <div id="subtab{{ tabName }}-1">
+  <div class="message_error"> {{ en.message_error }} </div>
+    <form name="frmTab" id="frmTab" method="post" action="{{ en.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ en.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+	  	<p>
+            <label for="background_url" class="textbox"> <span class="label {{ en.error.background_url }}">Background URL</span>
+              <input type="text" name="background_url" id="background_url" value="{{ en.background_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_url" class="textbox"> <span class="label {{ en.error.title_url }}">Title URL</span>
+              <input type="text" name="title_url" id="title_url" value="{{ en.title_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_alt" class="textbox"> <span class="label {{ en.error.title_alt }}">Title URL</span>
+              <input type="text" name="title_alt" id="title_alt" value="{{ en.title_alt }}" />
+            </label>
+       </p>
+	  <p>Introduction Text:</p> 
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="intro_text" id="{{ en.id }}">{{ en.intro_text }}</textarea>
+      </div>
+	  <p>Recaptcha Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="recaptcha_text" id="en.recaptcha_text">{{ en.recaptcha_text }}</textarea>
+      </div>
+	  <p>Promo Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="promo_text" id="en.promo_text">{{ en.promo_text }}</textarea>
+      </div>
+	  <p>Accept Terms Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="accept_terms" id="en.accept_terms">{{ en.accept_terms }}</textarea>
+      </div>
+	  <p>Send Update Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="send_updates" id="en.send_updates">{{ en.send_updates }}</textarea>
+      </div>
+	  <p>Email Security Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="emails_not_to_3rd_party" id="en.emails_not_to_3rd_party">{{ en.emails_not_to_3rd_party }}</textarea>
+      </div>
+	  
+	  <p>
+            <label for="sub_price" class="textbox"> <span class="label {{ en.error.sub_price }}">Subscription Price</span>
+              <input type="text" name="sub_price" id="en.sub_price" value="{{ en.sub_price }}" />
+            </label>
+       </p>
+	  
+	  
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  <div id="subtab{{ tabName }}-2">
+  <div class="message_error"> {{ fr.message_error }} </div>
+    <form name="frmTab" id="frmTab" method="post" action="{{ fr.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ fr.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+	  	<p>
+            <label for="background_url" class="textbox"> <span class="label {{ fr.error.background_url }}">Background URL</span>
+              <input type="text" name="background_url" id="background_url" value="{{ fr.background_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_url" class="textbox"> <span class="label {{ fr.error.title_url }}">Title URL</span>
+              <input type="text" name="title_url" id="title_url" value="{{ fr.title_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_alt" class="textbox"> <span class="label {{ fr.error.title_alt }}">Title URL</span>
+              <input type="text" name="title_alt" id="title_alt" value="{{ fr.title_alt }}" />
+            </label>
+       </p>
+	  <p>Introduction Text:</p> 
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="intro_text" id="{{ fr.id }}">{{ fr.intro_text }}</textarea>
+      </div>
+	  <p>Recaptcha Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="recaptcha_text" id="fr.recaptcha_text">{{ fr.recaptcha_text }}</textarea>
+      </div>
+	  <p>Promo Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="promo_text" id="fr.promo_text">{{ fr.promo_text }}</textarea>
+      </div>
+	  <p>Accept Terms Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="accept_terms" id="fr.accept_terms">{{ fr.accept_terms }}</textarea>
+      </div>
+	  <p>Send Update Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="send_updates" id="fr.send_updates">{{ fr.send_updates }}</textarea>
+      </div>
+	  <p>Email Security Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="emails_not_to_3rd_party" id="fr.emails_not_to_3rd_party">{{ fr.emails_not_to_3rd_party }}</textarea>
+      </div>
+	  
+	  <p>
+            <label for="sub_price" class="textbox"> <span class="label {{ fr.error.sub_price }}">Subscription Price</span>
+              <input type="text" name="sub_price" id="fr.sub_price" value="{{ fr.sub_price }}" />
+            </label>
+       </p>
+	  
+	  
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+
+  
+  <div id="subtab{{ tabName }}-3">
+  <div class="message_error"> {{ dk.message_error }} </div>
+    <form name="frmTab" id="frmTab" method="post" action="{{ dk.action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ dk.uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+	  	<p>
+            <label for="background_url" class="textbox"> <span class="label {{ dk.error.background_url }}">Background URL</span>
+              <input type="text" name="background_url" id="background_url" value="{{ dk.background_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_url" class="textbox"> <span class="label {{ dk.error.title_url }}">Title URL</span>
+              <input type="text" name="title_url" id="title_url" value="{{ dk.title_url }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="title_alt" class="textbox"> <span class="label {{ dk.error.title_alt }}">Title URL</span>
+              <input type="text" name="title_alt" id="title_alt" value="{{ dk.title_alt }}" />
+            </label>
+       </p>
+	  <p>Introduction Text:</p> 
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="intro_text" id="{{ dk.id }}">{{ dk.intro_text }}</textarea>
+      </div>
+	  <p>Recaptcha Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="recaptcha_text" id="dk.recaptcha_text">{{ dk.recaptcha_text }}</textarea>
+      </div>
+	  <p>Promo Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="promo_text" id="dk.promo_text">{{ dk.promo_text }}</textarea>
+      </div>
+	  <p>Accept Terms Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="accept_terms" id="dk.accept_terms">{{ dk.accept_terms }}</textarea>
+      </div>
+	  <p>Send Update Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="send_updates" id="dk.send_updates">{{ dk.send_updates }}</textarea>
+      </div>
+	  <p>Email Security Text:</p> 
+	  <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="emails_not_to_3rd_party" id="dk.emails_not_to_3rd_party">{{ dk.emails_not_to_3rd_party }}</textarea>
+      </div>
+	  
+	  <p>
+            <label for="sub_price" class="textbox"> <span class="label {{ dk.error.sub_price }}">Subscription Price</span>
+              <input type="text" name="sub_price" id="dk.sub_price" value="{{ dk.sub_price }}" />
+            </label>
+       </p>
+	  
+	  
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+  </div>
+  
+  
+</div>

@@ -1,0 +1,700 @@
+<?php
+
+class admin_package extends Controller {
+
+	private $token = 'list';
+	private $arrTokens = array(
+		'list',
+		'edit',
+		'add',
+		'delete',
+		'move',
+		'sections',
+		'gamesandactivities'
+	);
+	private $arrPaths = array();
+
+	public function __construct() {
+		parent::__construct();
+		$this->arrPaths = config::get('paths');
+		if (isset($this->arrPaths[2]) && in_array($this->arrPaths[2], $this->arrTokens)) {
+			$this->token = $this->arrPaths[2];
+		}
+		if (in_array($this->token, $this->arrTokens)) {
+			$method = 'do' . ucfirst($this->token);
+			$this->$method();
+		}
+	}
+
+	protected function doGamesandactivities() {
+		if (isset($this->arrPaths[3]) && is_numeric($this->arrPaths[3])) {
+			$objPackage = new package($this->arrPaths[3]);
+			if ($objPackage->get_valid()) {
+				$objPackage->load();
+				if (isset($_POST['submit'])) {
+					$objPackageGames = new package_games();
+					$objPackageGames->saveGames();
+					if (isset($this->arrPaths[3])) {
+						if (!isset($_SESSION['option_save_success'])) {
+							$_SESSION['option_save_success'] = 1;
+						}
+						output::redirect(config::url('admin/packages/gamesandactivities/' . $this->arrPaths[3] . '/'));
+					} else {
+						output::redirect(config::url('admin/packages/list/'));
+					}
+				}
+				$skeleton = make::tpl('skeleton.admin');
+				$body = make::tpl('body.admin.package.gamesandactivities.tabs');
+				$display = "style='display:none;'";
+				if (isset($_SESSION['option_save_success'])) {
+					$display = '';
+					unset($_SESSION['option_save_success']);
+				}
+
+				// for skilltype
+				$skillTypeLi = "";
+				$skillTypeDiv = "";
+				$skill_levels = activity_skill::getAllActivitySkills();
+				if (!empty($skill_levels)) {
+					foreach ($skill_levels as $uid => $data) {
+						$data["name_id"]=str_replace(" ", "_", $data["name"]);
+						
+						$skillTypeLi.='<li><a href="#'.$data["name_id"].'"><span>'.$data["name"].'</span></a></li>';
+						
+						$skillTypeDiv.='<div id="'.$data["name_id"].'">';
+						$skillTypeDiv.='comming soon';
+						$skillTypeDiv.='</div>';
+					}
+				}
+								
+				$body->assign(
+						array(
+							'div.games' => $this->getGameContent($this->arrPaths[3]),
+							'package_uid' => $this->arrPaths[3],
+							'name' => $objPackage->get_name(),
+							'display' => $display,
+							'skill_type_li' => $skillTypeLi,
+							'skill_type_div' => $skillTypeDiv
+						)
+				);
+				$skeleton->assign(
+						array(
+							'body' => $body
+						)
+				);
+				output::as_html($skeleton, true);
+			} else {
+				output::redirect(config::url('admin/packages/list/'));
+			}
+		} else {
+			output::redirect(config::url('admin/packages/list/'));
+		}
+	}
+
+	private function getGameContent($package_uid=null) {
+		if ($package_uid != null) {
+			return $this->getPackageLearnableLanguages($package_uid, 'getGames');
+		}
+		return ' ';
+	}
+
+	private function getPackageLearnableLanguages($package_uid=null, $endMethod=null) {
+		if ($package_uid != null && $endMethod != null) {
+			$query = "SELECT ";
+			$query.="DISTINCT `L`.`uid`, ";
+			$query.="`L`.`name` ";
+			$query.="FROM ";
+			$query.="`language` AS `L`, ";
+			$query.="`package_sections` AS `PS`";
+			$query.="WHERE ";
+			$query.="`learnable_language_uid` = `L`.`uid` ";
+			$query.=" AND ";
+			$query.="`package_uid` = '" . $package_uid . "'";
+			$query.=" ORDER BY `L`.`name`";
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#language-' . $row['uid'] . '"><span>' . $row['name'] . '</span></a></li>';
+					$arrDiv[] = '<div id="language-' . $row['uid'] . '">
+									' . $this->getPackageYears($row['uid'], $package_uid, $endMethod) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getPackageYears($language_uid=null, $package_uid=null, $endMethod=null) {
+		if ($language_uid != null && $package_uid != null && $endMethod != null) {
+			$query = "SELECT ";
+			$query.=" DISTINCT `Y`.`uid`, ";
+			$query.=" `Y`.`name` ";
+			$query.=" FROM ";
+			$query.="`years` AS `Y`, ";
+			$query.="`package_sections` AS `PS`";
+			$query.=" WHERE ";
+			$query.="`PS`.`year_uid` = `Y`.`uid` ";
+			$query.=" AND ";
+			$query.="`package_uid` = '" . $package_uid . "'";
+			$query.=" AND ";
+			$query.="`learnable_language_uid` = '" . $language_uid . "'";
+			$query.=" ORDER BY `Y`.`position`"; //exit;
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#year-' . $language_uid . '_' . $row['uid'] . '"><span>' . $row['name'] . '</span></a></li>';
+					$arrDiv[] = '<div id="year-' . $language_uid . '_' . $row['uid'] . '">
+									' . $this->getPackageUnits($language_uid, $package_uid, $row['uid'], $endMethod) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getPackageUnits($language_uid=null, $package_uid=null, $year_uid=null, $endMethod=null) {
+		if ($language_uid != null && $package_uid != null && $year_uid != null && $endMethod != null) {
+			$query = "SELECT ";
+			$query.="DISTINCT `U`.`uid`, ";
+			$query.="`U`.`name`, ";
+			$query.="`U`.`unit_number` ";
+			$query.="FROM ";
+			$query.="`units` AS `U`, ";
+			$query.="`package_sections` AS `PS`";
+			$query.="WHERE ";
+			$query.="`PS`.`unit_uid` = `U`.`uid` ";
+			$query.=" AND ";
+			$query.="`package_uid` = '" . $package_uid . "'";
+			$query.=" AND ";
+			$query.="`PS`.`year_uid` = '" . $year_uid . "'";
+			$query.=" AND ";
+			$query.="`learnable_language_uid` = '" . $language_uid . "'";
+			$query.=" ORDER BY `U`.`unit_number`";
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#units-' . $language_uid . '_' . $row['uid'] . '"><span>Unit ' . $row['unit_number'] . '</span></a></li>';
+					$arrDiv[] = '<div id="units-' . $language_uid . '_' . $row['uid'] . '">
+									' . $row['name'] . '<br/>' . $this->getPackageSection($language_uid, $package_uid, $row['uid'], $endMethod) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getPackageSection($language_uid=null, $package_uid=null, $unit_uid=null, $endMethod=null) {
+		if ($language_uid != null && $package_uid != null && $unit_uid != null && $endMethod != null) {
+			$query = "SELECT ";
+			$query.="`S`.`name`, ";
+			$query.="`S`.`uid`, ";
+			$query.="`S`.`section_number` ";
+			$query.="FROM ";
+			$query.="`sections` AS `S`, ";
+			$query.="`package_sections` AS `PS`";
+			$query.="WHERE ";
+			$query.="`PS`.`section_uid` = `S`.`uid` ";
+			$query.=" AND ";
+			$query.="`package_uid` = '" . $package_uid . "'";
+			$query.=" AND ";
+			$query.="`learnable_language_uid` = '" . $language_uid . "'";
+			$query.=" AND ";
+			$query.="`PS`.`unit_uid` = '" . $unit_uid . "'";
+			$query.=" ORDER BY `S`.`section_number`";
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#section-' . $language_uid . '_' . $unit_uid . '_' . $row['uid'] . '"><span>Section ' . $row['section_number'] . '</span></a></li>';
+					$arrDiv[] = '<div id="section-' . $language_uid . '_' . $unit_uid . '_' . $row['uid'] . '">
+									' . $row['name'] . '<br/>' . $this->$endMethod($language_uid, $row['uid']) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getGames($language_uid=null, $section_uid=null) {
+		$html = '';
+		if ($language_uid != null && $section_uid != null) {
+			$objPackageGames = new package_games();
+			$query = "SELECT ";
+			$query.="`uid`, ";
+			$query.="`name` ";
+			$query.="FROM ";
+			$query.="`game` ";
+			$query.="ORDER BY `game_number`";
+			$result = database::query($query);
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$html.='<p><label for="game-' . $language_uid . '-' . $row['uid'] . '">';
+					$html.='<input type="checkbox" value="' . $row['uid'] . '" ';
+					$html.='id="game-' . $language_uid . '-' . $row['uid'] . '" ';
+					$html.='name="game[' . $language_uid . '_' . $section_uid . '_' . $row['uid'] . ']" ';
+					$html.=$objPackageGames->checkExist($this->arrPaths[3], $language_uid, $section_uid, $row['uid']) . '/> ';
+					$html.=$row['name'];
+					$html.=' </label></p>';
+				}
+			}
+		}
+		return $html;
+	}
+
+	protected function doSections() {
+		$skeleton = make::tpl('skeleton.admin');
+		$body = make::tpl('body.admin.package.tab');
+
+		if (isset($_POST['submit'])) {
+			$objPackageSections = new package_sections();
+			$objPackageSections->saveSections();
+			if (isset($this->arrPaths[3])) {
+				if (!isset($_SESSION['section_save_success'])) {
+					$_SESSION['section_save_success'] = 1;
+				}
+				output::redirect(config::url('admin/packages/sections/' . $this->arrPaths[3] . '/'));
+			} else {
+				output::redirect(config::url('admin/packages/list/'));
+			}
+		}
+		if (isset($this->arrPaths[3]) && is_numeric($this->arrPaths[3])) {
+			$objPackage = new package($this->arrPaths[3]);
+
+			if ($objPackage->get_valid()) {
+				$objPackage->load();
+				$query = "SELECT ";
+				$query.="`L`.`name`, ";
+				$query.="`L`.`uid` ";
+				$query.="FROM ";
+				$query.="`language` AS `L`, ";
+				$query.="`package_language` AS `PL`";
+				$query.="WHERE ";
+				$query.="`learnable_language_uid` = `L`.`uid` ";
+				$query.=" AND ";
+				$query.="`package_uid` = '" . $this->arrPaths[3] . "'";
+				$query.=" ORDER BY `L`.`name`";
+				$result = database::query($query);
+				$arrLi = array();
+				$arrDiv = array();
+				if (mysql_num_rows($result)) {
+					while ($row = mysql_fetch_array($result)) {
+						$arrLi[] = '<li><a href="#language-' . $row['uid'] . '"><span>' . $row['name'] . '</span></a></li>';
+						$arrDiv[] = '<div id="language-' . $row['uid'] . '">
+										' . $this->getYears($row['uid']) . '
+									</div>';
+					}
+				}
+				$display = "style='display:none;'";
+				if (isset($_SESSION['section_save_success'])) {
+					$display = '';
+					unset($_SESSION['section_save_success']);
+				}
+				$body->assign(
+						array(
+							'tabs.lis' => implode('', $arrLi),
+							'tabs.divs' => implode('', $arrDiv),
+							'package_uid' => $this->arrPaths[3],
+							'name' => $objPackage->get_name(),
+							'display' => $display
+						)
+				);
+				$skeleton->assign(
+						array(
+							'body' => $body
+						)
+				);
+				output::as_html($skeleton, true);
+			} else {
+				output::redirect(config::url('admin/packages/list/'));
+			}
+		} else {
+			output::redirect(config::url('admin/packages/list/'));
+		}
+	}
+
+	private function getYears($learnable_language_uid=null) {
+		if ($learnable_language_uid != null) {
+			$l_uid = $learnable_language_uid;
+			$query = "SELECT ";
+			$query.="`name`, ";
+			$query.="`uid` ";
+			$query.="FROM ";
+			$query.="`years` ";
+			$query.="ORDER BY `position`";
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#year-' . $l_uid . '-' . $row['uid'] . '"><span>' . $row['name'] . '</span></a></li>';
+					$arrDiv[] = '<div id="year-' . $l_uid . '-' . $row['uid'] . '">
+									' . $this->getUnitTabs($row['uid'], $learnable_language_uid) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getUnitTabs($year_uid=null, $learnable_language_uid=null) {
+		if ($year_uid != null && $learnable_language_uid != null) {
+			$l_uid = $learnable_language_uid;
+			$query = "SELECT ";
+			$query.="`uid`,";
+			$query.="`name`,";
+			$query.="`unit_number` ";
+			$query.="FROM ";
+			$query.="`units` ";
+			$query.="WHERE ";
+			$query.="`active` = '1' ";
+			$query.="AND ";
+			$query.="`year_uid` = '" . $year_uid . "'";
+			$result = database::query($query);
+			$arrLi = array();
+			$arrDiv = array();
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$arrLi[] = '<li><a href="#unit-' . $l_uid . '-' . $row['uid'] . '"><span>Unit ' . $row['unit_number'] . '</span></a></li>';
+					$arrDiv[] = '<div id="unit-' . $l_uid . '-' . $row['uid'] . '">
+									' . $row['name'] . '<br/>' . $this->getSections($row['uid'], $year_uid, $learnable_language_uid) . '
+								</div>';
+				}
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getSections($unit_uid=null, $year_uid=null, $learnable_language_uid=null) {
+		$html = ' ';
+		if ($year_uid != null && $unit_uid != null && $learnable_language_uid != null) {
+			$objPackageSections = new package_sections();
+			$l_uid = $learnable_language_uid;
+			$query = "SELECT ";
+			$query.="`uid`,";
+			$query.="`name`,";
+			$query.="`section_number` ";
+			$query.="FROM ";
+			$query.="`sections` ";
+			$query.="WHERE ";
+			$query.="`active` = '1' ";
+			$query.="AND ";
+			$query.="`unit_uid` = '" . $unit_uid . "'";
+			$result = database::query($query);
+			if (mysql_num_rows($result)) {
+				while ($row = mysql_fetch_array($result)) {
+					$html.='<p><label for="section-' . $l_uid . '-' . $row['uid'] . '">';
+					$html.='<input type="checkbox" value="' . $row['uid'] . '" ';
+					$html.='id="section-' . $l_uid . '-' . $row['uid'] . '" ';
+					$html.='name="section[' . $l_uid . '_' . $year_uid . '_' . $unit_uid . '_' . $row['uid'] . ']" ';
+					$html.=$objPackageSections->checkExist($this->arrPaths[3], $l_uid, $row['uid']) . '/> ';
+					$html.=$row['name'];
+					$html.=' </label></p>';
+				}
+			}
+		}
+		return $html;
+	}
+
+	protected function doAdd() {
+		$skeleton = make::tpl('skeleton.admin');
+		$body = make::tpl('body.admin.package.add');
+		$support_language_uid = 0;
+		$arrLearnable = array();
+		if (count($_POST) > 0) {
+			$objPackage = new package();
+			if (($response = $objPackage->isValidCreate()) === true) {
+				output::redirect(config::url('admin/packages/list/'));
+			} else {
+				if (isset($objPackage->arrForm['support_language_uid'])) {
+					$support_language_uid = $objPackage->arrForm['support_language_uid'];
+				}
+				if (isset($_POST['learnable_language_uid'])) {
+					$arrLearnable = $_POST['learnable_language_uid'];
+				}
+				$body->assign($objPackage->arrForm);
+			}
+		}
+
+		$arrLearnableLanguages = $this->getLearnableLanguages($arrLearnable);
+		$body->assign(
+				array(
+					'learnable_languages' => implode("", $arrLearnableLanguages)
+				)
+		);
+
+		$arrSupportLanguages = $this->getSupportLanguages($support_language_uid);
+		$body->assign(
+				array(
+					'support_languages' => implode("", $arrSupportLanguages)
+				)
+		);
+
+		$body->assign(
+				array(
+					'package.price' => $this->getPriceForm()
+				)
+		);
+
+		$skeleton->assign(
+				array(
+					'body' => $body
+				)
+		);
+		output::as_html($skeleton, true);
+	}
+
+	protected function doEdit() {
+
+		$skeleton = make::tpl('skeleton.admin');
+		$body = make::tpl('body.admin.package.edit');
+		$arrBody = array();
+		$uid = (isset($this->arrPaths[3]) && (int) $this->arrPaths[3] > 0) ? $this->arrPaths[3] : '';
+
+		$support_language_uid = 0;
+		$arrLearnable = array();
+		$objPackageLanguage = new package_language();
+		if ($uid != '') {
+			$objPackage = new package($uid);
+			$objPackage->load();
+			$arrBody['uid'] = $uid;
+			if (count($_POST) > 0) {
+				if (($response = $objPackage->isValidUpdate()) === true) {
+					output::redirect(config::url('admin/packages/list/'));
+				} else {
+					if (isset($objPackage->arrForm['support_language_uid'])) {
+						$support_language_uid = $objPackage->arrForm['support_language_uid'];
+					}
+					if (isset($_POST['learnable_language_uid'])) {
+						$arrLearnable = $_POST['learnable_language_uid'];
+					}
+					$body->assign($objPackage->arrForm);
+				}
+			} else {
+				foreach ($objPackage->TableData as $idx => $val) {
+					$arrBody[$idx] = $val['Value'];
+				}
+				$support_language_uid = $arrBody['support_language_uid'];
+				$arrLearnable = $objPackageLanguage->getPackageLearnableLanguage($uid);
+				$body->assign($arrBody);
+			}
+
+			$arrLearnableLanguages = $this->getLearnableLanguages($arrLearnable);
+			$body->assign(
+					array(
+						'learnable_languages' => implode("", $arrLearnableLanguages)
+					)
+			);
+
+			$arrSupportLanguages = $this->getSupportLanguages($support_language_uid);
+			$body->assign(
+					array(
+						'support_languages' => implode("", $arrSupportLanguages)
+					)
+			);
+
+			$body->assign(
+					array(
+						'package.price' => $this->getPriceForm($uid)
+					)
+			);
+		} else {
+			output::redirect(config::url('admin/packages/list/'));
+		}
+
+		$skeleton->assign(
+				array(
+					'body' => $body
+				)
+		);
+		output::as_html($skeleton, true);
+	}
+
+	private function getPriceForm($package_uid=null) {
+		$query = "SELECT ";
+		$query.="`prefix` AS `locale`, ";
+		$query.="( ";
+		$query.="SELECT ";
+		$query.="`price` ";
+		$query.="FROM ";
+		$query.="`package_price` ";
+		$query.="WHERE ";
+		$query.="`package_price`.`locale` = `language`.`prefix` ";
+		$query.="AND ";
+		$query.="`package_uid` = '" . $package_uid . "'";
+		$query.="LIMIT 1";
+		$query.=") AS `price`, ";
+		$query.="( ";
+		$query.="SELECT ";
+		$query.="`vat` ";
+		$query.="FROM ";
+		$query.="`package_price` ";
+		$query.="WHERE ";
+		$query.="`package_price`.`locale` = `language`.`prefix` ";
+		$query.="AND ";
+		$query.="`package_uid` = '" . $package_uid . "'";
+		$query.="LIMIT 1";
+		$query.=") AS `vat` ";
+		$query.="FROM ";
+		$query.="`language` ";
+		$query.= "ORDER BY ";
+		$query.= "`prefix` ASC";
+		$result = database::query($query);
+		if (mysql_error() == '' && mysql_num_rows($result)) {
+			$arrLi = array();
+			$arrDiv = array();
+			while ($row = mysql_fetch_array($result)) {
+				if (($package_uid == null || is_null($row['price']) || $row['price'] == 0) && isset($_POST['price'][$row['locale']])) {
+					$row['price'] = $_POST['price'][$row['locale']];
+				}
+
+				if (($package_uid == null || is_null($row['vat']) || $row['vat'] == 0) && isset($_POST['vat'][$row['locale']])) {
+					$row['vat'] = $_POST['vat'][$row['locale']];
+				}
+
+				$arrLi[] = '<li><a href="#locale-' . $row['locale'] . '"><span>' . $row['locale'] . '</span></a></li>';
+				$arrDiv[] = make::tpl('body.admin.package.price')->assign($row)->get_content();
+			}
+			return make::tpl('body.admin.package.tabs.inner')->assign(
+					array(
+						'tabs.lis' => implode('', $arrLi),
+						'tabs.divs' => implode('', $arrDiv)
+					)
+			)->get_content();
+		}
+		return ' ';
+	}
+
+	private function getSupportLanguages($support_language_uid=null) {
+		$arrSupportLanguages = array();
+		$query = "SELECT ";
+		$query.="`name`, ";
+		$query.="`uid` ";
+		$query.="FROM ";
+		$query.="`language` ";
+		$query.="WHERE ";
+		$query.="`is_support` = 1 ";
+		$query.="ORDER BY `name` ";
+		$arrLanguage = database::arrQuery($query);
+		$iCount = 0;
+		if (count($arrLanguage) && is_array($arrLanguage)) {
+			foreach ($arrLanguage as $arr) {
+				if ($iCount % 3 == 0) {
+					$arrSupportLanguages[] = '<br />';
+				}
+				$iCount++;
+				if ($support_language_uid == $arr['uid']) {
+					$arr['Checked'] = 'checked="checked"';
+				}
+				$arrSupportLanguages[] = make::tpl('body.admin.package.support_languages')->assign($arr)->get_content();
+			}
+		}
+		return $arrSupportLanguages;
+	}
+
+	private function getLearnableLanguages($arrLearnable = array()) {
+		$arrLearnableLanguages = array();
+		$query = "SELECT ";
+		$query.="`name`, ";
+		$query.="`uid` ";
+		$query.="FROM ";
+		$query.="`language` ";
+		$query.="WHERE ";
+		$query.="`is_learnable` = 1 ";
+		$query.="ORDER BY `name` ";
+		$arrLanguage = database::arrQuery($query);
+		$iCount = 0;
+		if (count($arrLanguage) && is_array($arrLanguage)) {
+			foreach ($arrLanguage as $arr) {
+				if ($iCount % 3 == 0) {
+					$arrLearnableLanguages[] = '<br />';
+				}
+				$iCount++;
+				if (count($arrLearnable) && in_array($arr['uid'], $arrLearnable)) {
+					$arr['Checked'] = 'checked="checked"';
+				}
+				$arrLearnableLanguages[] = make::tpl('body.admin.package.available_language')->assign($arr)->get_content();
+			}
+		}
+		return $arrLearnableLanguages;
+	}
+
+	protected function doDelete() {
+		if (isset($this->arrPaths[3]) && (int) $this->arrPaths[3] > 0) {
+			$objPackage = new package($this->arrPaths[3]);
+			$objPackage->delete();
+			$objPackage->redirectTo('admin/packages/list/');
+		} else {
+			output::redirect(config::url('admin/packages/list/'));
+		}
+	}
+
+	protected function doList() {
+		$skeleton = make::tpl('skeleton.admin');
+		$body = make::tpl('body.admin.package.list');
+		$objPackage = new package();
+		$arrPackages = $objPackage->getList();
+
+		if ($arrPackages && count($arrPackages) > 0) {
+			$rows = array();
+			foreach ($arrPackages as $uid => $arrData) {
+				$arrData['created_date'] = date('d/m/Y H:i:s', strtotime($arrData['created_date']));
+				$row = make::tpl('body.admin.package.list.row')->assign($arrData);
+				$rows[] = $row->get_content();
+			}
+			$body->assign('rows', implode('', $rows));
+		}
+
+		$skeleton->assign(
+				array(
+					'body' => $body
+				)
+		);
+		output::as_html($skeleton, true);
+	}
+
+}
+
+?>

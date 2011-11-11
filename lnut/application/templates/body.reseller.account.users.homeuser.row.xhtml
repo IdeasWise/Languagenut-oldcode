@@ -1,0 +1,6 @@
+<tr class="{{ subscription_cancelled }}" {{ extra_style }}>
+	<td><p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/">{{ email }}</a></p></td>
+	<td>{{ registered_dts }}</td>
+	<td><p><a href="{{ admin_uri }}login-history/homeuser/{{ uid }}/">Login History</a></p></td>
+	<td><p id="data-{{ uid }}"> <a href="{{ admin_uri }}users/{{ edit }}{{ uid }}/" class="btn"><span>Edit</span></a> | <a href="{{ admin_uri }}users/delete/{{ uid }}/" class="btn Ajax-delete-page"><span>Delete</span></a> </p></td>
+</tr>

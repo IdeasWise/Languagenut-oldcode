@@ -1,0 +1,110 @@
+<div class="in">
+	<div class="author">
+		<h2>Find Address</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<form action="{{ address-frm-action }}" method="post" name="search_frm">
+		<input type="hidden" name="user-address-uid" value="{{ user_address_uid }}" />
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label class="textbox" for="im_name"> <span class="label">Find Address:</span>
+				<input type="text" name="keyword" id="keyword" class="box" value="{{ keyword }}" />
+			</label>
+			<br />
+			ie. zipcode, address, city, county, etc... </p>
+		<p>
+			<input type="submit" name="submit-search-address" value="Search" class="com_btn" />
+		</p>
+		<div style="clear:both;"></div>
+	</form>
+</div>
+<div class="in">
+	<div id="div-container-user-address" style=" {{ address.div }} ">
+		<div>
+			<h5>Search Result</h5>
+		</div>
+		<form action="{{ address-frm-action }}" method="post" name="search_result">
+			<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+			{{ user.address.list }}
+			<p style=" {{ result.button }} ">
+				<input type="submit" name="submit-use-address" value="Save" class="com_btn" />
+			</p>
+		</form>
+		<div id="footer-additional" style="display:none;"> {{ page.display.title }} {{ page.navigation }} </div>
+	</div>
+</div>
+<div class="line"></div>
+<div class="in">
+	<div class="author">
+		<h2>Address</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="{{ address-frm-action }}" method="post" name="address-form">
+		<input type="hidden" name="form" value="add-update-user-address" />
+		<input type="hidden" name="user-address-uid" value="{{ user_address_uid }}" />
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="flat_number" class="textbox"> <span class="label">Flat Number:</span>
+				<input type="text" name="flat_number" id="flat_number" value="{{ flat_number }}" maxlength="8" size="8" class="box" />
+			</label>
+			<span class="and-or">and/or</span>
+		</p>
+		<p>
+			<label for="flat_number" class="textbox"> <span class="label">Building Number:</span>
+				<input type="text" name="number" id="number" value="{{ number }}" maxlength="8" size="8" class="box" />
+			</label>
+			<span class="and-or">and/or</span>
+		</p>
+		<p>
+			<label for="flat_number" class="textbox"> <span class="label">Building Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" maxlength="32" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="street_name_1" class="textbox"> <span class="label">Street Name 1:</span>
+				<input type="text" name="street_name_1" id="street_name_1" value="{{ street_name_1 }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="street_name_2" class="textbox"> <span class="label">Street Name 2:</span>
+				<input type="text" name="street_name_2" id="street_name_2" value="{{ street_name_2 }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="district" class="textbox"> <span class="label">District:</span>
+				<input type="text" name="district" id="district" value="{{ district }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="town" class="textbox"> <span class="label">Town:</span>
+				<input type="text" name="town" id="town" value="{{ town }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="city" class="textbox"> <span class="label">City:</span>
+				<input type="text" name="city" id="city" value="{{ city }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="county" class="textbox"> <span class="label">County/State:</span>
+				<input type="text" name="county" id="county" value="{{ county }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="postcode" class="textbox"> <span class="label">Postcode/Zipcode:</span>
+				<input type="text" name="postcode" id="postcode" value="{{ postcode }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="country_uid" class="listbox"> <span class="label">Country:</span> {{ country_uid }} </label>
+		</p>
+		<input type="submit" name="submit-address-save" value="Save" class="com_btn" />
+	</form>
+</div>

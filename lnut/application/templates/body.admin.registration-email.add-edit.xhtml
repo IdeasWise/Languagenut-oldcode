@@ -1,0 +1,22 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}registration-email/">Registration Email Template</a> &gt; {{ title }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="" method="post" name="frm-registration-email">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="template_name" class="textbox"> <span class="label {{ error.template_name }}">Template Name:</span>
+				<input type="text" name="template_name" id="template_name" value="{{ template_name }}" class="box" />
+			</label>
+		</p>
+		<p>&nbsp;</p>
+		<p>
+			<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

@@ -1,0 +1,32 @@
+
+<div class="in">
+    <div class="author">
+	<h2>Activities > <a href="{{ uri }}admin/notificationevent/list/">Notification Event</a> > Add</h2>
+    </div>
+    <div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+    <div class="message_error"> {{ message }} </div>
+    <form action="{{ uri }}admin/notificationevent/add/" method="post" enctype="multipart/form-data">
+	<p>
+	    <label for="name" class="textbox"> <span class="label {{ error_name }}">Name:</span>
+		<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+	    </label>
+	</p>
+	<p>
+	    <label for="description" class="textbox"> <span class="label {{ error_description }}">Description:</span>
+		<textarea name="description" class="box" id="description">{{ description }}</textarea>	    </label>
+	</p>
+	
+	<div class="tabs">
+	    <ul>
+			{{ locales }}
+	    </ul>
+		{{ tabs }}
+	</div>
+	<p>
+	    <input type="submit" name="submit" value="Add" class="com_btn" />
+	</p>
+    </form>
+</div>

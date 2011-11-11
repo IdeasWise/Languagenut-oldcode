@@ -1,0 +1,75 @@
+<div class="in">
+	<div class="author">
+		<h2>Users >> {{ action }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+	<form action="" method="post" id="user-form" name="user-form">
+		<input type="hidden" name="user_uid" id="user_uid" value="{{ uid }}" />
+		<input type="hidden" name="user_type" id="user_type" value="{{ user_type }}" />
+				
+		<p>
+			<label for="email" class="textbox {{ email_error }}"> <span class="label">Email Address:</span>
+				<input type="text" name="email" id="email" value="{{ email }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="password" class="password  {{ pass_error }}"> <span class="label">Password:</span>
+				<input type="password" name="password" id="password" value="" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="conf-password" class="password  {{ cpass_error }}"> <span class="label">Confirm Password:</span>
+				<input type="password" name="conf_password" id="conf_password" value="" class="box" />
+			</label>
+		</p>		
+		<p> <span class="label">Can this user login without a subscription?</span>
+			<label for="yes_sub" style="float:left;">
+				<input type="radio" name="allow_access_without_sub" id="yes_sub"  value="1" />
+				Yes&nbsp;&nbsp; </label>
+			<label for="no_sub">
+				<input type="radio" name="allow_access_without_sub" id="no_sub"  value="0" checked="checked" />
+				No </label>
+		</p>
+		<p> <span class="label">Is this user subscribed to our newsletter?</span>
+			<label for="yes_news" style="float:left;">
+				<input type="radio" name="optin" id="yes_news"  value="1"  />
+				Yes&nbsp;&nbsp; </label>
+			<label for="no_news">
+				<input type="radio" name="optin" id="no_news"  value="0" checked="checked" />
+				No </label>
+		</p>
+		<p>
+			<label for="referral" class="textarea"> <span class="label">Referral:</span>
+				<textarea name="referral" id="referral" rows="5" cols="30" class="box">{{ referral }}</textarea>
+			</label>
+		</p>
+		<p> <span class="label">Is this user allowed to log in?</span>
+			<label for="yes_allow" style="float:left;">
+				<input type="radio" name="allow_access" id="yes_allow"  value="1" checked="checked" />
+				Yes&nbsp;&nbsp; </label>
+			<label for="no_allow">
+				<input type="radio" name="allow_access" id="no_allow"  value="0" {{ is_allow_access }} />
+				No </label>
+		</p>
+		<p> <span class="label"> Was this user's account deleted ?</span>
+			<label for="yes_delete" style="float:left;">
+				<input type="radio" name="deleted" id="yes_delete"  value="1"  />
+				Yes&nbsp;&nbsp; </label>
+			<label for="no_delete">
+				<input type="radio" name="deleted" id="no_delete"  value="0" checked="checked" />
+				No </label>
+		</p>
+		<p>
+			<label for="locale" class="listbox {{locale_error }}"> <span class="label">Locale:</span> {{ locale }} </label>
+		</p>
+		<div id="submit-user-container">
+			<p>
+				<input type="submit" name="submit-user" id="submit-user-form" class="com_btn" value="{{ action }}" />
+			</p>
+		</div>
+	</form>
+</div>

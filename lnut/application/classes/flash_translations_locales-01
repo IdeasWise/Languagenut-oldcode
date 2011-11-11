@@ -1,0 +1,92 @@
+<?php
+
+class flash_translations_locales extends generic_object {
+
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
+
+	public function exists($uid=null) {
+		$sql = "SELECT * FROM `flash_translations_locales` WHERE `uid`='".$uid."' LIMIT 1";
+		$res = database::query($sql);
+
+		if($res && mysql_error()=='' && mysql_num_rows($res) > 0) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public function getListByLanguageUid($language_uid=null) {
+
+		$data = array ();
+
+		$sql = "SELECT ";
+		$sql.= "`flash_translations_locales`.`uid`, ";
+		$sql.= "`flash_translations_locales`.`tag_uid`, ";
+		$sql.= "`flash_translations_locales`.`translation_text`, ";
+		$sql.= "`flash_translations_tags`.`tag_name` ";
+		$sql.= "FROM `flash_translations_locales`, `flash_translations_tags` ";
+		$sql.= "WHERE ";
+		$sql.= "`flash_translations_locales`.`tag_uid`=`flash_translations_tags`.`uid` ";
+		$sql.= "AND `flash_translations_locales`.`support_language_uid`='".mysql_real_escape_string($language_uid)."' ";
+		$sql.= "ORDER BY `flash_translations_tags`.`tag_name` ASC";
+
+		$result	= database::query($sql);
+
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+			while($row=mysql_fetch_assoc($result)) {
+				$data[$row['uid']] = array(
+					'tag_uid'			=> $row['tag_uid'],
+					'translation_text'	=> ((strlen($row['translation_text']) > 0) ? $row['translation_text'] : $this->getDefaultTranslation($row['tag_uid'],14)),
+					'tag_name'			=> $row['tag_name']
+				);
+			}
+		}
+
+		return $data;
+	}
+
+	public static function getTagsByLanguageUid($language_uid=null) {
+
+		$data = array ();
+
+		$sql= "SELECT ";
+		$sql.="`uid`, ";
+		$sql.="`tag_uid`, ";
+		$sql.="`translation_text` ";
+		$sql.="FROM ";
+		$sql.="`flash_translations_locales` ";
+		$sql.="WHERE ";
+		$sql.="`support_language_uid`='".$language_uid."'";
+
+		$result	= database::query($sql);
+
+		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+			while($row = mysql_fetch_assoc($result)) {
+				$data[$row['uid']]=array(
+					'tag_uid'			=> $row['tag_uid'],
+					'translation_text'	=> stripslashes($row['translation_text'])
+				);
+			}
+		}
+
+		return $data;
+
+	}
+
+	public function getDefaultTranslation($tag_uid=null,$default_language_uid=null) {
+		$response = '';
+
+		$sql = "SELECT `translation_text` FROM `flash_translations_locales` WHERE `support_language_uid`='".$default_language_uid."' AND `tag_uid`='".$tag_uid."' LIMIT 1";
+		$res = database::query($sql);
+
+		if($res && mysql_error()=='' && mysql_num_rows($res) > 0) {
+			$row = mysql_fetch_assoc($res);
+			$response = stripslashes($row['translation_text']);
+		}
+
+		return $response;
+	}
+}
+?>

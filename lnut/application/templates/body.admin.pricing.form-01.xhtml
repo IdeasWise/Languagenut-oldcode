@@ -1,0 +1,35 @@
+<div class="message_error"> {{ message_error }} </div>
+    <form name="frmTab" id="frmTab" method="post" action="{{ action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+	  	<p>
+            <label for="currency_uid" class="listbox"><span class="label {{ error.home_user_price }}">Currency</span>
+             {{ currency_uid }}
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="home_user_price" class="textbox"> <span class="label {{ error.home_user_price }}">Home User Price</span>
+              <input type="text" name="home_user_price" id="home_user_price" value="{{ home_user_price }}" />
+            </label>
+       </p>
+	   
+	   <p>
+            <label for="school_price" class="textbox"> <span class="label {{ error.school_price }}">School Price</span>
+              <input type="text" name="school_price" id="school_price" value="{{ school_price }}" />
+            </label>
+       </p>
+	   
+	    <p>
+            <label for="vat" class="textbox"> <span class="label {{ error.vat }}">VAT %</span>
+              <input type="text" name="vat" id="vat" value="{{ vat }}" />
+            </label>
+       </p>
+	   
+	  
+	  
+	  
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>

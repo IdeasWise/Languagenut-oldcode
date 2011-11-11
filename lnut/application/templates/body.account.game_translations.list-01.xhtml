@@ -1,0 +1,20 @@
+<div id="page-header">
+	<div id="header-title">
+		<h1>Game Translations</h1>
+	</div>
+</div>
+<div id="page-content">
+	<form action="{{ uri }}account/game_translations/list/" method="post">
+	<div class="tabs">
+		<ul>
+			{{ locales }}
+		</ul>
+		{{ tabs }}
+	</div>
+	<div>
+		<p style="text-align:center;">
+			<input type="submit" class="btnstyle fl-center RemoveCss" value="Save" name="form_submit_button" />
+		</p>
+	</div>
+	</form>
+</div>

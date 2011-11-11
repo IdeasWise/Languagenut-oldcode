@@ -1,0 +1,240 @@
+
+
+	<div class="box2">
+
+				<h3> Users >> {{ action }}<span></span></h3>
+
+
+
+				<div class="box2-mid">
+
+					
+
+					<div id="cms-add-update">
+
+					
+
+<div class="message_error"> {{ message_error }} </div>
+
+					
+
+  <form action="" method="post" id="user-form" name="user-form">
+
+    <input type="hidden" name="user_uid" id="user_uid" value="{{ uid }}" />
+
+    
+
+    <div style="clear:both"></div>
+
+    <p>
+
+      <label for="email" class="textbox {{ email_error }}"> <span class="label">Email Address:</span>
+
+        <input type="text" name="email" id="email" value="{{ email }}" />
+
+      </label>
+
+    </p>
+
+    <p>
+
+      <label for="password" class="password  {{ pass_error }}"> <span class="label">Password:</span>
+
+        <input type="password" name="password" id="password" value="" />
+
+      </label>
+
+    </p>
+
+    <p>
+
+      <label for="conf-password" class="password  {{ cpass_error }}"> <span class="label">Confirm Password:</span>
+
+        <input type="password" name="conf_password" id="conf_password" value="" />
+
+      </label>
+
+    </p>
+
+
+
+     <p>
+
+      <label for="user_type_lable" class="listbox {{user_type_error }}"> <span class="label">User Type:</span>
+
+          <select name="user_type" id="user_type">              
+
+		 	  <option value="" selected="selected">User Type</option>
+
+			  <option value="school" {{ school }}>School</option>
+
+              <option value="schooladmin" {{ schooladmin }}>School Admin</option>
+
+              <option value="schoolteacher" {{ schoolteacher }}>School Teacher</option>
+
+              <!--<option value="student" {{ student }}>Student</option>-->
+
+              <option value="homeuser" {{ homeuser }}>Home User</option>
+
+			  <option value="affiliate">Affiliate</option>
+
+			  <option value="reseller">Reseller</option>
+              
+              <option value="translator">Translator</option>
+
+          </select>
+
+      </label>
+
+    </p>
+
+	
+
+	<p>
+
+      <span style="float:left;">Can this user login without a subscription?</span>
+
+	  <label for="yes_sub" style="float:left;">
+
+        <input type="radio" name="allow_access_without_sub" id="allow_access_without_sub"  value="1" />Yes&nbsp;&nbsp;
+
+		</label>
+
+		<label for="no_sub">
+
+		<input type="radio" name="allow_access_without_sub" id="allow_access_without_sub"  value="0" checked="checked" />No
+
+      </label>
+
+    </p>
+
+	
+
+	<p>
+
+      <span style="float:left;">Is this user subscribed to our newsletter?</span>
+
+	   <label for="yes_news" style="float:left;">
+
+        <input type="radio" name="optin" id="optin"  value="1"  />Yes&nbsp;&nbsp;
+
+		</label>
+
+		<label for="no_news">
+
+		<input type="radio" name="optin" id="optin"  value="0" checked="checked" />No
+
+      </label>
+
+    </p>
+
+	
+
+	<p>
+
+      <label for="referral" class="textarea" style="height:150px;"> <span class="label">Referral:</span>
+
+	  <textarea name="referral" id="referral" style="height:100px;">{{ referral }}</textarea>
+
+      </label>
+
+    </p>
+
+	
+
+    <p>
+
+      <span style="float:left;">Does this user have administration rights?</span>
+
+	  <label for="yes_admin" style="float:left;">
+
+	  	<input type="radio" name="is_admin" id="is_admin"  value="1"  />Yes&nbsp;&nbsp;
+
+	  </label>
+
+	  <label for="no_admin">	
+
+		<input type="radio" name="is_admin" id="is_admin"  value="0" checked="checked" /> No        
+
+      </label>
+
+    </p>
+
+    <p>
+
+      <span style="float:left;">Is this user allowed to log in?</span>
+
+	  <label for="yes_allow" style="float:left;">
+
+	  	<input type="radio" name="allow_access" id="allow_access"  value="1" checked="checked" />Yes&nbsp;&nbsp;
+
+	  </label>
+
+	  <label for="no_allow"> 	
+
+		<input type="radio" name="allow_access" id="allow_access"  value="0" {{ is_allow_access }} /> No       
+
+      </label>
+
+    </p>
+
+    <p>
+
+      <span style="float:left;"> Was this user's account deleted ?</span>
+
+	  <label for="yes_delete" style="float:left;">
+
+	  	<input type="radio" name="deleted" id="deleted"  value="1"  />Yes&nbsp;&nbsp;
+
+	  </label>
+
+	  <lable for="no_delete">	
+
+		<input type="radio" name="deleted" id="deleted"  value="0" checked="checked" /> No        
+
+      </label>
+
+    </p>
+
+	
+
+	<p>
+
+      <label for="locale" class="listbox {{locale_error }}"> <span class="label">Locale:</span>
+
+          {{ locale }}
+
+      </label>
+
+    </p>
+
+	
+
+  
+
+  <div id="submit-user-container">
+
+    <div style="text-align:center;">
+
+      <input type="submit" name="submit-user" id="submit-user-form" class="RemoveCss" value="{{ action }}" />
+
+    </div>
+
+  </div>
+
+  </form>
+
+</div>
+
+					
+
+				</div>
+
+			</div>
+
+			
+
+
+
+
+

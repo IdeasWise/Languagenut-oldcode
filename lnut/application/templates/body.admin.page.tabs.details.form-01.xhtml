@@ -1,0 +1,10 @@
+<form name="frmTab" id="frmTab" method="post" action="{{ action }}">
+      <input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+      <input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+      <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+        <textarea class="class-editor-input" name="cms-body" id="{{ cms.id }}">{{ html }}</textarea>
+      </div>
+	  <p align="center">
+        <input type="submit" name="form_submit_button" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+</form>

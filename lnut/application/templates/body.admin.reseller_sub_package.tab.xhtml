@@ -1,0 +1,23 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/users/reseller/">Reseller List</a> > {{ reseller_name }} > <a href="{{ uri }}admin/users/profile/reseller/{{ reseller_uid }}/packages/"> Packages </a> > <a href="{{ uri }}admin/reseller_sub_package/list/{{ reseller_uid }}/{{ parent_package_uid }}/">Sub Packages</a></h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<form id="frm-package" method="post" action="{{ uri }}admin/reseller_sub_package/sections/{{ uid }}/{{ reseller_uid }}/{{ parent_package_uid }}/">
+		<input type="hidden" name="package_uid" id="package_uid" value="{{ uid }}" />
+        <input type="hidden" name="parent_package_uid" id="parent_package_uid" value="{{ parent_package_uid }}" />
+        <input type="hidden" name="reseller_uid" id="reseller_uid" value="{{ reseller_uid }}" />
+		<div class="tabs">
+			<ul>
+				{{ tabs.lis }}
+			</ul>
+			{{ tabs.divs }}
+		</div>
+		<div align="center">
+			<p><input type="submit" value="Save" class="com_btn" name="submit"></p>
+		</div>
+	</form>
+</div>

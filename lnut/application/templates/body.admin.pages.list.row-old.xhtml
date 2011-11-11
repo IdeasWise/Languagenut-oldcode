@@ -1,0 +1,23 @@
+<li id="{{ sequence }}">
+<!-- move this to another template and repeat as per pagination limits -->
+		<div class="block wide listrows">
+			<div class="w400">
+				<p class="show" id="show-123"><a href="{{ uri }}admin/pages/edit/{{ uid }}/">{{ title }}</a></p>
+				<p id="data-123">
+					<a href="{{ uri }}admin/pages/edit/{{ uid }}/">Edit</a> |
+					<a href="{{ uri }}admin/pages/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a> |
+					<a href="{{ uri }}admin/pages/view/{{ uid }}/" class="popup">View</a>
+				</p>
+			</div>
+			<div class="w80">
+				<input type="checkbox" value="yes" id="cache-{{ uid }}" name="cache_{{ uid }}" class="class-tick" />
+			</div>
+			<div class="w80">
+				<input type="text" name="cache-time-{{ uid }}" id="cache_time_{{ uid }}" value="{{ cache_time }}" class="class-input" />
+			</div>
+			<div class="w80">
+				<img src="{{ uri }}images/icon_fave_16x14.png" alt="Drag to Move" class="drag pos-{{ uid }}" id="{{ sequence }}" />
+                                <img src="{{ uri }}images/icon_fave_16x14.png" alt="Drag to Move" class="drop pos-{{ uid }}" id="{{ sequence }}" />
+			</div>
+		</div>
+</li>

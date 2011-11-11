@@ -1,0 +1,25 @@
+<div class="in">
+	<div class="author">
+        <h3>
+        <a href="{{ admin_uri }}classes/list">Class List</a> &gt; {{ class_name }} &gt; <a href="{{ admin_uri }}student-package-management/manage/{{ student_pair }}/#manage">Manage Packages</a> &gt; Manage Games & Activities | [<a href="{{ admin_uri }}student-package-management/manage/{{ student_pair }}/sections/{{ uid }}/">Manage Sections</a>]       
+      </h3>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+
+<div class="in forms">
+	<form id="frm-package" method="post" action="{{ admin_uri }}student-package-management/manage/{{ student_pair }}/gamesandactivities/{{ uid }}/">		
+		<div class="tabs">
+			<ul>
+				<li><a href="#games"><span>Games</span></a></li>
+			</ul>
+			<div id="games">
+				{{ div.games }}
+			</div>			
+		</div>
+		<div align="center">
+			<p><input type="submit" value="Save Changes" class="com_btn" name="submit"></p>
+		</div>
+	</form>
+</div>

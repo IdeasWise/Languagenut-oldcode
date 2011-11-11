@@ -1,0 +1,27 @@
+<div id="content">
+
+	<div id="page-header">
+		<div id="header-title">
+			<h1>Promocode &gt; List</h1>
+		</div>
+	</div>
+
+	<div id="page-content">
+		<table id="page-list">
+			<tr>
+				<th>Name</th>
+				<th>Code</th>
+				<th>Available From</th>
+				<th>Available To</th>
+				<th>Subscription From</th>
+				<th>Subscription To</th>
+                <th>Locale</th>
+                <th>&nbsp;</th>
+			</tr>
+			{{ rows }}
+		</table>
+		<div>
+			<a href="{{ uri }}admin/promocode/add/">Add Promocode</a>
+		</div>
+	</div>
+</div>

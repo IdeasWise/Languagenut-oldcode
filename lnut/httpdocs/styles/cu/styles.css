@@ -1,0 +1,270 @@
+body {
+	font: 12px "Trebuchet MS", Arial, sans-serif;
+	color: #000;
+	background-color: #fff;
+	padding: 0px;
+    font-size: 14px;
+}
+
+* {
+	margin : 0;
+	padding : 0;
+}
+
+a { color: #333333; }
+
+a:hover { color: #aaaaaa; text-decoration: underline; }
+
+a:active { color: #aaaaaa; }
+
+a:visited { color: #666666; }
+
+img {
+	border-style: none;
+}
+
+.panel p, .panel ul {
+	padding-top: 13px;
+    font-size: 14px;
+}
+.panel p {
+	line-height: 20px;
+}
+.panel ul {
+	padding-left: 20px;
+}
+.panel p img {
+	float: right;
+	padding-left: 50px;
+}
+.panel h2 {
+    font-size: 28px;
+}
+
+#pagewrapper {
+	width: 860px;
+	height: 1150px;
+	margin: 0px auto;
+	background-image: url(http://images.languagenut.com/cu/bg.jpg);
+	background-position: top;
+}
+.page-content {
+	width: 740px;
+	margin-left:85px;
+}
+.page-content p {
+	line-height: 1.5em;
+	padding-bottom: 10px;
+}
+#header {
+	width: 860px;
+	height: 286px;
+	position: relative;
+}
+#vScreen {
+	position: absolute;
+	top: 0px;
+	right: 20px;
+	width: 675px;
+	height: 261px;
+	background-image: url(http://images.languagenut.com/cu/vScreenBg.png);
+}
+#vScreen div.cycle {
+	position: absolute;
+	top: 38px;
+	/*left: 40px;*/
+	left:260px;
+	/*width: 599px;*/
+	width:400px;
+	height: 213px;
+}
+#topButtons a.login {
+	position: absolute;
+	top: 10px;
+	left: 14px;
+	width: 152px;
+	height: 83px;
+	background:url(http://images.languagenut.com/cu/login_sprite.png) scroll no-repeat left top;
+}
+#topButtons a.login:hover {
+	background-position: -152px top;
+}
+#topButtons a.subscribe {
+	position: absolute;
+	top: 93px;
+	left: 4px;
+	width: 172px;
+	height: 188px;
+	background: url(http://images.languagenut.com/cu/subscribe_sprite.png) scroll no-repeat left top;
+}
+#topButtons a.subscribe:hover {
+	background-position: -172px top;
+}
+
+#subNow {
+	padding: 0px 40px 40px 40px;
+}
+#subNow a {
+	float: right;
+	font-size: 18px;
+}
+#subNow p.first {
+	padding-top: 30px;
+}
+#subNow p {
+	padding-top: 10px;
+}
+#subnow-image {
+	display:block;
+	width:147px;
+	height:111px;
+	background:url(http://images.languagenut.com/cu/subNow_sprite.png) scroll no-repeat left top;
+	font-size:0 !important;
+	line-height:0;
+}
+#subnow-image:hover {
+	background-position:-147px top;
+}
+#subscribe-school {
+	width:334px;
+	height:188px;
+	display:block;
+	background:url(http://images.languagenut.com/cu/schoolUser_sprite.png) scroll no-repeat left top;
+	font-size:0;
+	line-height:0;
+	text-decoration:none;
+}
+#subscribe-school:hover {
+	background-position:-334px top;
+}
+#subscribe-homeuser {
+	width:185px;
+	height:188px;
+	display:block;
+	background:url(http://images.languagenut.com/cu/homeUser_sprite.png) scroll no-repeat left top;
+	font-size:0;
+	line-height:0;
+	text-decoration:none;
+}
+#subscribe-homeuser:hover {
+	background-position:-185px top;
+}
+#continue-login {
+	background:url(http://images.languagenut.com/cu/enter_sprite.png) scroll no-repeat left top;
+	width:213px;
+	height:150px;
+	display:block;
+}
+#continue-login:hover {
+	background-position:-213px top;
+}
+#games ul {
+	padding: 10px 0px 0px 0px;
+	float: left;
+	width: 185px;
+}
+#games li, #games li a {
+	display: block;
+	width: 177px;
+	height:37px;
+	text-decoration: none;
+}
+#games li a {
+	width: 157px;
+	height:17px;
+	padding: 8px 10px 11px 10px;
+	cursor: pointer;
+	background: url(http://images.languagenut.com/cu/buttonBg.png) top no-repeat;
+	color: #000;
+}
+#games li a:hover {
+	text-decoration: none;
+	background-position: 0px -36px;
+}
+
+#games #gameIcons {
+	float: right;
+	width: 250px;
+	height: 215px;
+	background-image: url(http://images.languagenut.com/cu/gameIcons/iconHangman.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+/**
+* Specific pages
+*/
+#back-to-home-link {
+	height:				80px;
+}
+#back-to-home-link a {
+	display:			block;
+	font-size:			0;
+	line-height:		0;
+	height:				35px;
+	width:				190px;
+	position:			relative;
+	left:				120px;
+	top:				25px;
+}
+#signup-form {
+	padding-left:		100px;
+	padding-top:		15px;
+	padding-right:		100px;
+}
+.clearfix {
+	display:block;
+}
+.clearfix:after {
+	content: " ";
+	display: block;
+	height: 0;
+	clear: both;
+}
+
+/**
+ * Basic Page Layout
+ */
+#basicheader {
+	background:			url(http://images.languagenut.com/cu/generic_bg_header.jpg) scroll no-repeat left top transparent;
+	width:				910px;
+	height:				111px;
+}
+#basicheader a {
+	display:			block;
+	float:				left;
+	margin:				10px 0 0 160px;
+	background:			url(http://images.languagenut.com/cu/back_sprite.png) scroll no-repeat left top transparent;
+	font-size:			0;
+	line-height:		0;
+	text-decoration:	none;
+	height:				61px;
+	width:				108px;
+}
+#basicheader a:hover {
+	background-position:-108px top;
+}
+#basiccontent {
+	background:			url(http://images.languagenut.com/cu/generic_bg_middle.jpg) scroll repeat-y left top transparent;
+	width:				910px;
+}
+#basicfooter {
+	background:			url(http://images.languagenut.com/cu/generic_bg_footer.jpg) scroll no-repeat left top transparent;
+	width:				910px;
+	height:				412px;
+}
+
+/**
+ * Buttons
+ */
+.confirm-button, 
+#signup_boxes input.confirm-button {
+	font-size:			0;
+	line-height:		0;
+	border:				0;
+	margin:				0;
+	padding:			0;
+	background:			url(http://images.languagenut.com/cu/confirm_sprite.png) scroll no-repeat left top transparent;
+	height:				131px;
+	width:				131px;
+	cursor:				pointer;
+}

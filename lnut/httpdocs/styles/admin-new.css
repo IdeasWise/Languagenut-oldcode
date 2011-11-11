@@ -1,0 +1,157 @@
+
+/* CSS Document */
+
+body { text-align:center; margin:0; padding:0; font-family:Lucida Grande, Arial; font-size:13px; background-color:#ebebeb; color:#464646; }
+
+.wrapper { margin:0 auto; width:900px; padding:20px 0; }
+
+.content { background-color:#FFFFFF; border:1px solid #bab9b9; text-align:center; padding-bottom:25px; }
+
+.in { width:850px; margin:0 auto; text-align:left; clear:both; padding:25px 0; }
+
+.line { border-top:1px solid #bab9b9; height:1px; }
+
+/*.............................................................General.................... */
+
+.wrapper h1, .wrapper h2, .wrapper h3 { margin:0; padding:0; }
+
+.wrapper h1 { font-size:32px; }
+
+.wrapper h2 { font-family:Georgia; font-size:24px; font-style:italic; }
+.wrapper h3 { font-family:Georgia; font-size:16px; }
+
+.author { float:left; width:auto }
+
+.search { float:right; width:auto }
+
+.author p { margin:0; padding:0; }
+
+.forms { line-height:2em; }
+
+.wrapper a:link, .wrapper a:visited { color:#30a4b1; text-decoration:none; }
+
+.wrapper a.selected { color:#f7941d; text-decoration:none; }
+
+.wrapper a:hover { color:#f7941d; }
+
+.v_line { padding:0 5px; color:#999999; }
+
+/*.............................................................Header.................... */
+
+.logo { float:left; margin:25px 0; }
+
+.wrapper .logo a { color:#464646; text-decoration:none }
+
+.logo a:hover { color:#464646; }
+
+.txt_right { float:right; margin-top:15px; }
+
+/*.............................................................Form.................... */
+
+
+.box { border:1px solid #bab9b9; padding:10px; width:600px; color:#707070; font-size:14px; }
+
+.box2, .wrapper select { border:1px solid #bab9b9; padding:10px; width:400px; color:#707070; font-size:14px; }
+
+.com_btn { margin:0px; padding:10px 20px; border:0px; background-color:#f7941d; color:#fff; font-size:14px; cursor:pointer }
+
+/*.............................................................Check YES or NO.................... */
+
+.check { margin:25px; text-align:left; padding:10px 15px; border:1px solid #bab9b9; background-color:#f7f7f7; }
+
+.good { }
+
+.icon { padding-right:8px; float:left; }
+
+.bad { }
+
+/*..................................................... Navigation .....................*/	
+	
+
+.nav { background-color:#464646; float: left; margin-bottom:20px; width:900px; position:relative; }
+
+.nav ul { margin:0px; padding:0px; }
+
+.nav ul li { list-style:none; float: left; margin: 0; padding: 0; font-weight:normal; }
+
+.wrapper .nav li a { float:left; color:#fff; margin: 0; font-size: 14px; text-decoration: none; padding:20px 15px; }
+
+.nav li a:hover, .nav li .active { color:#FFFFFF; background-color:#30a4b1; }
+
+.clear { clear:both; }
+
+/*............................... Search Form.....................*/	
+
+
+#searchform { position:absolute; top:13px; right:15px; }
+
+.search_box { padding:6px; color:#999999; font-size:13px; margin:0; background-color:#FFFFFF; border:1px solid #ccc; }
+
+.search_btn { margin:0 0 0 5px; padding:6px; border:0px; background-color:#f7941d; color:#fff; height:30px; font-size:13px; }
+
+/*.............................................................Footer................... */
+
+.footer { text-align:right; margin-bottom:40px; }
+
+/*.............................................................Table................... */
+
+
+.wrapper td { padding: 7px; text-align:left; }
+
+.gray td { background-color:#f7f7f7; }
+
+.table_main { border-top: 1px solid #bab9b9; border-right: 1px solid #bab9b9; border-left: 1px solid #bab9b9; }
+
+.wrapper th { background-color:#d9d8d8; font-size:14px;  }
+
+.wrapper th a { color:#464646 !important; }
+
+.table_main .delete { background:url(images/x2.gif) center left no-repeat; padding-left:12px; }
+
+.wrapper tr td { border-bottom: 1px solid #bab9b9; }
+
+/* navigation */
+
+ul.topnav { list-style: none; padding: 0; margin: 0; float: left; width: 900px; background: #222; font-size: 1.2em; }
+
+ul.topnav li { float: left; margin: 0; padding: 0; position: relative; /*--Declare X and Y axis base--*/ }
+
+ul.topnav li a { /*padding: 10px 5px;*/color: #fff; display: block; text-decoration: none; float: left; }
+
+ul.topnav li span { /*--Drop down trigger styles--*/ width: 17px; height: 35px; float: left; background: url(http://ell.languagenut.com/images/subnav_btn.gif) no-repeat center top; margin-top:10px; }
+
+ul.topnav li span.subhover { background-position: center bottom; cursor: pointer; } /*--Hover effect for trigger--*/
+
+ul.topnav li ul.subnav { list-style: none; position: absolute; /*--Important - Keeps subnav from affecting main navigation flow--*/ left: 0; top: 56px; background: #333; margin: 0; padding: 0; display: none; float: left; width: 170px; -moz-border-radius-bottomleft: 5px; -moz-border-radius-bottomright: 5px; -webkit-border-bottom-left-radius: 5px; -webkit-border-bottom-right-radius: 5px; border: 1px solid #111; z-index:9999; }
+
+ul.topnav li ul.subnav li { margin: 0; padding: 0; border-top: 1px solid #252525; /*--Create bevel effect--*/ border-bottom: 1px solid #444; /*--Create bevel effect--*/ clear: both; width: 170px; z-index:9999; }
+
+html ul.topnav li ul.subnav li a { float: left; width: 160px; font-size:12px; padding:10px 0 5px 10px; text-align:left }
+
+.add-icon { text-align:center; background-color:#464646; color:#FFF !important; display:inline-block; padding:5px; text-decoration:none }
+
+.add-icon:hover { background-color:#30a4b1; color:#FFF !important; text-decoration:none }
+
+#page-footer { display:block; clear:both; }
+
+#footer-title { float:left; }
+
+#footer-additional { float:right; }
+
+#GavScore .box { width:200px !important; }
+
+#GavScore td { background-color:#FFF; }
+
+#GavScore .inputClass { border:1px solid #bab9b9; padding:10px; width:200px; color:#707070; font-size:14px; }
+
+.datepicker { border:1px solid #bab9b9; padding:10px; color:#707070; font-size:14px; }
+
+.forms a.redioText { text-align:center; background-color:#464646; color:#FFF !important; display:inline-block; padding:5px; text-decoration:none  }
+
+.forms a.redioText:hover { background-color:#30a4b1; color:#FFF !important; text-decoration:none }
+
+#flash_translations .box { width: auto !important; }
+
+.ui-tabs .ui-tabs-nav li a { padding:0.3em 0.5em!important; }
+
+.ui-tabs-panel .breadcrumb { text-align:left; }

@@ -1,0 +1,64 @@
+<div class="tabs">
+  <ul>
+    <li><a href="#tab-0"><span>Update School Teacher</span></a></li>
+	<li><a href="#tab-1"><span>School Admins</span></a></li>
+  </ul>
+  <div id="tab-0">
+  <!--    Edit Profile -->  
+  	
+	<div align="right">
+  <a href="{{ admin_uri }}users/edit/{{ user_uid }}/" target="_blank" style="color:#666666; margin-right:10px; text-decoration:none;">Edit User</a>
+  </div>
+  <div class="message_error"> {{ message_error }} </div>
+    <form action="" method="post" name="edit-profile">	
+	<input type="hidden" name="iuser_uid" id="iuser_uid" value="{{ iuser_uid }}" />
+	<input type="hidden" name="uid" id="uid" value="{{ uid }}" />     
+      <p>
+        <label for="firstname" class="textbox"> <span class="label {{ error_vfirstname }}">First Name:</span>
+        <input type="text" name="vfirstname" id="vfirstname" value="{{ vfirstname }}" />
+        </label>
+      </p>
+      <p>
+        <label for="lastname" class="textbox"> <span class="label {{ error_vlastname }}">Last Name:</span>
+        <input type="text" name="vlastname" id="vlastname" value="{{ vlastname }}" />
+        </label>
+      </p>
+	  
+	  <p>
+        <label for="school_name" class="listbox"> <span class="label {{ error_school_id }}">School Name:</span>
+        	{{ school_id }}
+        </label>
+      </p>
+	  
+	  <p>
+        <label for="email"  class="textbox"> <span class="label {{ error_vemail }}">Email:</span>
+        <input type="text" name="vemail" id="vemail" value="{{ vemail }}" />
+        </label>
+      </p>
+	  
+	  
+	   <p>
+        <label for="vphone" class="textbox"> <span class="label {{ error_vphone }}">Phone:</span>
+        <input type="text" name="vphone" id="vphone" value="{{ vphone }}" />
+        </label>
+      </p>
+     
+      <p>
+        <input type="submit" name="submit-edit-profile" value="Save" class="btnstyle fl-center RemoveCss" />
+      </p>
+    </form>
+	
+  <!-- End Of Edit Profile -->
+  
+   </div>
+   
+ 
+  <div id="tab-1"> 
+  	<div align="right"><a href="{{ admin_uri }}users/add/">Add Admin</a></div>
+  	{{ tab.schooladmin }} 
+  </div>
+ 
+</div>
+
+
+

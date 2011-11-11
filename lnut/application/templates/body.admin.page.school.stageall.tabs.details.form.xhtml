@@ -1,0 +1,30 @@
+<div class="in forms" style="width:100%">
+	<div class="message_error"> {{ message_error }} </div>
+	<form name="frmTab" id="frmTab" method="post" action="{{ action }}">
+		<input type="hidden" name="locale" id="locale" value="{{ locale }}" />
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="table_name" id="table_name" value="{{ table_name }}" />
+		<p>
+			<label for="background_url" class="textbox"> <span class="label {{ error.background_url }}">Background URL</span>
+				<input type="text" name="background_url" id="background_url" value="{{ background_url }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="title_url" class="textbox"> <span class="label {{ error.title_url }}">Title URL</span>
+				<input type="text" name="title_url" id="title_url" value="{{ title_url }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="title_alt" class="textbox"> <span class="label {{ error.title_alt }}">Title Alt Text</span>
+				<input type="text" name="title_alt" id="title_alt" value="{{ title_alt }}" class="box" />
+			</label>
+		</p>
+		<p><span class="label">Introduction Text:</span></p>
+		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+			<textarea class="class-editor-input" name="intro_text" id="{{ cms.id }}">{{ intro_text }}</textarea>
+		</div>
+		<p>
+			<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>

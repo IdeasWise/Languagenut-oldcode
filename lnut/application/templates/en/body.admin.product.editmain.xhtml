@@ -1,0 +1,53 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ uri }}admin/products/list/{{ locale }}/">Products</a> &gt; Edit &gt; {{ name }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+
+<div class="line"></div>
+
+<div class="in forms">
+
+	<div class="message_error"> {{ message }} </div>
+
+	<form action="{{ uri }}admin/products/editmain/{{ uid }}/" method="post">
+		<div>
+			<input type="hidden" name="uid" value="{{ uid }}" />
+			<input type="hidden" name="action" value="update" />
+		</div>
+
+		<p>
+			<label for="name" class="textbox">
+				<span class="label {{ error.name }}">Name:</span>
+				<input type="text" name="name" id="name" value="{{ name }}" class="box" />
+			</label>
+		</p>
+         <p>
+				<label for="target_market" class="textbox"><span class="label">Target Market:</span></label>
+				<label for="product_type_homeuser" style="float:left;">
+					<input type="radio" name="product_type" id="product_type_homeuser" value="homeuser" {{ product_type_homeuser }} />
+					Homeuser
+				</label>
+				<label for="product_type_school">
+					<input type="radio" name="product_type" id="product_type_school"  value="school" {{ product_type_school }} />
+					School
+				</label>
+			</p>
+		<p>
+			<label for="description" class="textbox">
+				<span class="label {{ error.description }}">Description:</span>
+				<textarea name="description" class="box" >{{ description }}</textarea>
+			</label>
+		</p>
+		<p>
+			<label for="site_map" class="textbox">
+				<span class="label {{ error.site_map }}">Site Map:</span>
+				<textarea name="site_map" class="box" >{{ site_map }}</textarea>
+			</label>
+		</p>
+		<p>
+			<input type="submit" name="submit" value="Update" class="com_btn" />
+		</p>
+	</form>
+</div>

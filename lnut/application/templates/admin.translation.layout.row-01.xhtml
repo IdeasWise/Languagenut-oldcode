@@ -1,0 +1,13 @@
+<!-- move this to another template and repeat as per pagination limits -->
+
+<div class="block wide listrows">
+  <div class="w200">
+    <p>&nbsp;&nbsp;{{ module }}</p>
+  </div>
+  <div class="w548"> 
+  <p class="show" id="show-{{ uid }}"><a href="{{ admin_uri }}multilingual/edit/{{ uid }}/">[ {{ term_tag }} ]-{{ term_caption }}</a></p>
+    <p id="data-{{ uid }}" class="invisible"> <a href="{{ admin_uri }}multilingual/edit/{{ uid }}/">Edit</a> | <a href="{{ admin_uri }}multilingual/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a></p>
+  
+  
+  </div>
+</div>

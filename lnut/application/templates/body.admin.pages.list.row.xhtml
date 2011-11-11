@@ -1,0 +1,22 @@
+<!-- move this to another template and repeat as per pagination limits -->
+<div class="block wide listrows">
+    <div class="w548">
+        <p class="show" id="show-{{ uid }}">{{ level }}<a href="{{ uri }}admin/pages/edit/{{ uid }}/">{{ title }}</a></p>
+        <p id="data-{{ uid }}" class="invisible">
+            <a href="{{ uri }}admin/pages/edit/{{ uid }}/">Edit</a> |
+            <a href="{{ uri }}admin/pages/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a> |
+            <a href="{{ uri }}{{ slug }}" class="popup" target="_blank">View</a>
+        </p>
+    </div>
+    <div class="w80">
+        <input type="checkbox" value="yes" id="cache-{{ uid }}" name="cache_{{ uid }}" class="class-tick" />
+    </div>
+    <div class="w80">
+        <input type="text" name="cache-time-{{ uid }}" id="cache_time_{{ uid }}" value="{{ cache_time }}" class="class-input" />
+    </div>
+    <div class="w80">
+        <div class="icon {{ is_droppable }} pos-{{ uid }} child" id="child_{{ uid }}" title="Drop to Add Child Under">C</div>
+        <div class="icon {{ is_droppable }} pos-{{ uid }} sibling" id="sibling_{{ uid }}" title="Drop to Add Sibling After">S</div>
+        <div class="icon {{ is_draggable }} pos-{{ uid }} draggable" id="draggable_{{ uid }}" title="Drag to Move Position">D</div>
+    </div>
+</div>

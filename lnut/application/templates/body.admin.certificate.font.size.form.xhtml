@@ -1,0 +1,26 @@
+<div class="in forms">
+	<form name="pligin_certificate_font_size" id="pligin_certificate_fontsize" action="{{ form.action }}" method="post" >
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<input type="hidden" name="locale" id="locale" value="{{ prefix }}" />
+		<div align="center" style="color:#57A000;">{{ message }}</div>
+		<p class="normal-text"> 190 is the default font size. If in case you forget the size please use '190' as font size. </p>
+		<p>
+			<label class="textbox"> <span class="label">GOLD MEDAL:-</span>
+				<input type="text" name="gold_size" id="gold_size" value="{{ gold_size }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label class="textbox"> <span class="label">SILVER MEDAL:-</span>
+				<input type="text" name="silver_size" id="silver_size" value="{{ silver_size }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label class="textbox"> <span class="label">BRONZE MEDAL:-</span>
+				<input type="text" name="bronze_size" id="bronze_size" value="{{ bronze_size }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<input type="submit" name="form_cerrtificate_fontsize" value="Save Change" class="com_btn" />
+		</p>
+	</form>
+</div>
