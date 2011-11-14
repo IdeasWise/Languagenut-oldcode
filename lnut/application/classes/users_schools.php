@@ -762,7 +762,14 @@ class users_schools extends generic_object {
 			);
 			$message = $_email->get_content();
 			$this->mail_html(
-					$_POST['email'], $data['subject'], $message, $data['from'], '', '', '', ''
+				$_POST['email'],
+				$data['subject'],
+				$message,
+				$data['from'],
+				'',
+				'',
+				'cshepard@languagenut.com,support@languagenut.com',
+				''
 			);
 		}
 	}

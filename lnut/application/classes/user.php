@@ -140,8 +140,7 @@ class user extends generic_object {
 				$sql.= "* ";
 				$sql.= "FROM ";
 				$sql.= "`user` ".$where." ";
-				$sql.= "ORDER BY ";
-				$sql.= "`registered_dts` DESC ";
+				$sql.= $this->getOrderBy();
 				$sql.= "LIMIT ".$this->get_limit();
 				$result	= database::query($sql);
 			} else {
@@ -340,6 +339,10 @@ class user extends generic_object {
 
 		$query = "SELECT ";
 		$query.= "`U`.* ";
+		if(count($Fields)) {
+			$query.= ", ";
+			$query.= implode(", ",$Fields);
+		}
 		$query.= "FROM ";
 		$query.= "`user` AS `U` ";
 		$query.= ', `profile_student` AS `ST` ';
