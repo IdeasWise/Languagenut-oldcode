@@ -86,9 +86,13 @@ class account_users extends Controller {
 					"optin"						=> ($objUser->get_optin() == 0) ? 'checked="checked"' : '',
 					"locale"					=> $locale,
 					"allow_access_without_sub"	=> ($objUser->get_allow_access_without_sub() == 0) ? 'checked="checked"' : '',
-					"has_active_subscription"	=> (($objUser->has_active_subscription() === true) ? ' <div style="border:1px solid #30A4B1;padding:10px;font-weight:bold;margin-left:15px;float:left;">Subscription Active</div>' : '<div style="color:#f7941d;font-weight:bold;float:left;margin-left:15px;">Expired</div>')
+					"has_active_subscription"	=> (($objUser->has_active_subscription() === true) ? ' <div style="border:1px solid #30A4B1;padding:10px;font-weight:bold;margin-left:15px;float:left;">Subscription Active</div>' : '<div style="color:#f7941d;font-weight:bold;float:left;margin-left:15px;">Expired</div>'),
+					'success_message'	=> (isset($_SESSION['success_message']))?$_SESSION['success_message']:''
 				)
 			);
+				if(isset($_SESSION['success_message'])) {
+					unset($_SESSION['success_message']);
+				}
 		} else {
 			// $objUser->redirectToDynamic('/users/'); // redirect to user list if user does not exist;
 		}
@@ -97,7 +101,11 @@ class account_users extends Controller {
 
 			$response = $objUser->isUpdateSuccessFul();
 			if ($response[0] == 'success') {
-				$objUser->redirectToDynamic('/users/');
+				//$objUser->redirectToDynamic('/users/');
+				if(!isset($_SESSION['success_message'])) {
+					$_SESSION['success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objUser->redirectToDynamic('/users/edit/'.$objUser->get_uid().'/');
 			} else {
 				$deleted = ($_POST['deleted'] == 0) ? 'checked="checked"' : '';
 				$access = ($_POST['allow_access'] == 0) ? 'checked="checked"' : '';
@@ -270,6 +278,7 @@ class account_users extends Controller {
 				if (in_array(strtolower($this->arrPaths[2]), $this->arrProfiles)) {
 					$data['edit'] = 'profile/' . $this->arrPaths[2] . '/';
 				}
+				$data['extra_style'] = '';
 				$arrRows[] = make::tpl('body.admin.users.' . $this->arrPaths[2] . '.row')->assign($data)->get_content();
 
 			}

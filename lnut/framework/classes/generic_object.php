@@ -327,7 +327,9 @@ class generic_object extends pager {
 			$row = mysql_fetch_array($result);
 			$max = $row[0];
 		}
-
+		if(isset($_GET['p']) && is_numeric($_GET['p'])) {
+			$pageId = (int)$_GET['p'];
+		}
 		if ($pageId == '') {
 			$parts = config::get('paths');
 			$page = end($parts);
@@ -357,11 +359,20 @@ class generic_object extends pager {
 				}
 			}
 		}
-		$this->pager(
+		if(isset($_GET) && count($_GET)) {
+			$this->pager(
 				$max, //see above
 				$record_limit, //how many records to display at one time
-				$pageId, array("php_self" => "p-")
-		);
+				$pageId, array("php_self" => "&p=")
+			);
+
+		} else {
+			$this->pager(
+					$max, //see above
+					$record_limit, //how many records to display at one time
+					$pageId, array("php_self" => "p-")
+			);
+		}
 		$this->set_range(10);
 	}
 

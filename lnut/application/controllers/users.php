@@ -83,9 +83,13 @@ class users extends Controller {
 					"optin"						=> ($objUser->get_optin() == 0) ? 'checked="checked"' : '',
 					"locale"					=> $objLanguage->LocaleSelectBox('locale', $objUser->get_locale()),
 					"allow_access_without_sub"	=> ($objUser->get_allow_access_without_sub() == 0) ? 'checked="checked"' : '',
-					"has_active_subscription"	=> (($objUser->has_active_subscription() === true) ? ' <span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Currently Active</div>' : '<span style="color:#f7941d;font-weight:bold;padding:5px;border:1px solid #f7941d;">Expired!</span>')
+					"has_active_subscription"	=> (($objUser->has_active_subscription() === true) ? ' <span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Currently Active</div>' : '<span style="color:#f7941d;font-weight:bold;padding:5px;border:1px solid #f7941d;">Expired!</span>'),
+					'success_message'	=> (isset($_SESSION['success_message']))?$_SESSION['success_message']:''
 				)
 			);
+				if(isset($_SESSION['success_message'])) {
+					unset($_SESSION['success_message']);
+				}
 		} else {
 			// $objUser->redirectToDynamic('/users/'); // redirect to user list if user does not exist;
 		}
@@ -93,7 +97,11 @@ class users extends Controller {
 		if (count($_POST) > 0) {
 			$arrResponse = $objUser->isUpdateSuccessFul();
 			if ($arrResponse[0] == 'success') {
-				$objUser->redirectToDynamic('/users/list/');
+				//$objUser->redirectToDynamic('/users/list/');
+				if(!isset($_SESSION['success_message'])) {
+					$_SESSION['success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objUser->redirectToDynamic('/users/edit/'.$objUser->get_uid().'/');
 			} else {
 				$deleted = ($_POST['deleted'] == 0) ? 'checked="checked"' : '';
 				$access = ($_POST['allow_access'] == 0) ? 'checked="checked"' : '';

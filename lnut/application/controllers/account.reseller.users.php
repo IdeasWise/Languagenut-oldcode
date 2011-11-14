@@ -93,9 +93,13 @@ class account_reseller_users extends Controller {
 						'referral' => $objUser->get_referral(),
 						"optin" => ($objUser->get_optin() == 0) ? 'checked="checked"' : '',
 						"locale" => $locale,
-						"allow_access_without_sub" => ($objUser->get_allow_access_without_sub() == 0) ? 'checked="checked"' : ''
+						"allow_access_without_sub" => ($objUser->get_allow_access_without_sub() == 0) ? 'checked="checked"' : '',
+						'success_message'	=> (isset($_SESSION['success_message']))?$_SESSION['success_message']:''
 					)
 			);
+				if(isset($_SESSION['success_message'])) {
+					unset($_SESSION['success_message']);
+				}
 		} else {
 			// $objUser->redirectToDynamic('/users/'); // redirect to user list if user does not exist;
 		}
@@ -103,7 +107,11 @@ class account_reseller_users extends Controller {
 		if (count($_POST) > 0) {
 			$response = $objUser->isUpdateSuccessFul();
 			if ($response[0] == 'success') {
-				$objUser->redirectToDynamic('/users/list/');
+				//$objUser->redirectToDynamic('/users/list/');
+				if(!isset($_SESSION['success_message'])) {
+					$_SESSION['success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objUser->redirectToDynamic('/users/edit/'.$objUser->get_uid().'/');
 			} else {
 				$deleted = ($_POST['deleted'] == 0) ? 'checked="checked"' : '';
 				$access = ($_POST['allow_access'] == 0) ? 'checked="checked"' : '';

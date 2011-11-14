@@ -155,3 +155,15 @@ html ul.topnav li ul.subnav li a { float: left; width: 160px; font-size:12px; pa
 .ui-tabs .ui-tabs-nav li a { padding:0.3em 0.5em!important; }
 
 .ui-tabs-panel .breadcrumb { text-align:left; }
+
+.message_error p {
+	color:#F00;!important;
+	font-weight: bold;	
+}
+.message_error li {
+	color:#F00;
+}
+.message_success p {
+	color:#090;!important;
+	font-weight: bold;
+}

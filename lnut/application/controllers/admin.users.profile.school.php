@@ -27,7 +27,11 @@ class profile_school extends Controller {
 
 		if (count($_POST) > 0 && isset($_POST['submit-edit-profile'])) {
 			if ($objSchool->doSave()) {
-				$objSchool->redirectToDynamic('/users/school/');
+				//$objSchool->redirectToDynamic('/users/school/');
+				if(!isset($_SESSION['school_success_message'])) {
+					$_SESSION['school_success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objSchool->redirectToDynamic('/users/profile/school/'.$objUser->get_uid().'/');
 			} else {
 				$body->assign($objSchool->arrForm);
 			}
@@ -72,6 +76,12 @@ class profile_school extends Controller {
 					$arrBody['notes_renewal_call1']		= $arrRow['notes_renewal_call1'];
 					$arrBody['notes_renewal_call2']		= $arrRow['notes_renewal_call2'];
 					$arrBody['call_status'.$arrRow['call_status']]	= 'selected="selected"';
+				}
+				if(!isset($arrBody['success_message'])) {
+					$arrBody['success_message'] = (isset($_SESSION['school_success_message']))?$_SESSION['school_success_message']:'';
+				}
+				if(isset($_SESSION['school_success_message'])) {
+					unset($_SESSION['school_success_message']);
 				}
 				$body->assign($arrBody);
 			}

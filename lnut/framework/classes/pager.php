@@ -111,7 +111,14 @@ class pager {
 			if(@strstr($q, '/p-', true)) {
 				$q = @strstr($q, '/p-', true);
 			}*/
-			return $q.'/'.$this->_req_url;
+			if($this->_req_url == '&p=') {
+				if(strpos($q,"&p=") !== false) {
+					$q = substr($q,0,strpos($q,"&p="));
+				}
+				return $q.''.$this->_req_url;
+			} else {
+				return $q.'/'.$this->_req_url;
+			}
 		}
         return $this->_req_url;// . $q . $s . $this->_ctl . '=';
     }
