@@ -639,6 +639,20 @@ class subscriptions extends generic_object {
 							"From: info@languagenut.com"
 						);
 
+						mail(
+							'testing@mystream.co.uk',
+							'Subscription Verified',
+							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
+							"Contact Name: $contact_name\n".
+							"School Name: $school_name\n".
+							"School Address: $school_address\n".
+							"Phone: $phone\n".
+							"Email: $email\n".
+							"Verified Date: ".date('d/m/Y',strtotime($arrFields['verified_dts']['value']))."\n".
+							$extraMessage,
+							"From: info@languagenut.com"
+						);
+
 					}
 				} else {
 				}
