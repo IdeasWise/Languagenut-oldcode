@@ -70,14 +70,14 @@
 					<input type="radio" name="allow_access" id="no_allow"  value="0" {{ is_allow_access }} />
 					No
 				</label>
-				{{ has_active_subscription }}
+				{{ has_active_subscription }} {{ access_denied_text }}
 			</p>
 		</div>
 		<div style="overflow:hidden;">
 			<p style="float:left;width:300px;">
 				<span class="label">Referral:</span>
 				<label for="referral" class="textbox">
-					<input name="referral" id="referral" class="box" class="box" value="{{ referral }}" style="width:280px;" />
+					<input name="referral" id="referral" class="box" value="{{ referral }}" style="width:280px;" />
 				</label>
 			</p>
 			<p style="float:left;width:300px;clear:right;margin-left:15px;">

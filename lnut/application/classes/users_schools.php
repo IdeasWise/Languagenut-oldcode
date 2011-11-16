@@ -813,6 +813,13 @@ class users_schools extends generic_object {
 		$result = $cm->subscriberAdd($email, $name);
 	}
 
+	public function getClassesBySchooluId($school_uid=null) {
+		$arrClasses = array();
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid > 0) {
+
+		}
+	}
+
 }
 
 ?>

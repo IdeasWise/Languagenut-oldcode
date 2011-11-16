@@ -1289,6 +1289,17 @@ class user extends generic_object {
 
 	public function	has_active_subscription() {
 
+		$arrUserType = explode(',',$this->get_user_type());
+		$arrPaidUserTypes = array (
+			'reseller',
+			'affiliate',
+			'translator'
+		);
+		if(count(array_intersect($arrPaidUserTypes, $arrUserType))) {
+			return true;
+		}
+		
+		
 		$return		= false;
 		$user_uid	= $this->getSchoolId();
 

@@ -100,7 +100,8 @@ class profile_school extends Controller {
 				'tab.address'		=> $contentAddress->get_content(),
 				'tab.schooladmin'	=> $objUser->getUserListForSchoolByType('schooladmin', $uid, 'profile_schooladmin'),
 				'tab.schoolteacher'	=> $objUser->getUserListForSchoolByType('schoolteacher', $uid, 'profile_schoolteacher'),
-				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid'])
+				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid']),
+				'tab.classes'		=> 'Coming Soon'
 			)
 		);
 		$skeleton->assign(
@@ -109,6 +110,10 @@ class profile_school extends Controller {
 			)
 		);
 		output::as_html($skeleton, true);
+	}
+
+	public function getClasses() {
+
 	}
 }
 ?>

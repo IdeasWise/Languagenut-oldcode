@@ -83,7 +83,8 @@ class users extends Controller {
 					"optin"						=> ($objUser->get_optin() == 0) ? 'checked="checked"' : '',
 					"locale"					=> $objLanguage->LocaleSelectBox('locale', $objUser->get_locale()),
 					"allow_access_without_sub"	=> ($objUser->get_allow_access_without_sub() == 0) ? 'checked="checked"' : '',
-					"has_active_subscription"	=> (($objUser->has_active_subscription() === true && $objUser->get_access_allowed()==1) ? ' <span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Currently Active</div>' : '<span style="color:#f7941d;font-weight:bold;padding:5px;border:1px solid #f7941d;">Expired!</span>'),
+					"has_active_subscription"	=> (($objUser->has_active_subscription() === true) ? ' <span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Currently Active</span>' : '<span style="color:#f7941d;font-weight:bold;padding:5px;border:1px solid #f7941d;">Expired!</span>'),
+					"access_denied_text"	=> (($objUser->get_access_allowed() == 0) ?'<br/><span style="color:#FCBCAE;font-weight:bold;padding:5px;border:1px solid #FCBCAE;">Access Denied</span>' : ''),
 					'success_message'	=> (isset($_SESSION['success_message']))?$_SESSION['success_message']:''
 				)
 			);

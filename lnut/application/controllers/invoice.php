@@ -197,6 +197,14 @@ class admin_invoice extends Controller {
 					);
 				}
 
+				if($arrBody['sent'] == '1' ) {
+					$arrBody['sent1'] = 'checked="checked"';
+					$arrBody['sent0'] = '';
+				} else {
+					$arrBody['sent0'] = 'checked="checked"';
+					$arrBody['sent1'] = '';
+				}
+
 				if($arrBody['date_paid'] != '0000-00-00 00:00:00' ) {
 					list(
 						$arrBody['date_day'],

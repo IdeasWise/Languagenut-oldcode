@@ -554,19 +554,45 @@ class subscriptions extends generic_object {
 			$this->set_date_paid($arrFields['payverified_dts']['value']);
 			$this->set_verified_dts($arrFields['verified_dts']['value']);
 			$this->set_sent_dts($arrFields['sent_dts']['value']);
+			$this->set_sent(((isset($_POST['invoice_sent']) && $_POST['invoice_sent']==1)?1:0));
 			$this->set_due_date($arrFields['due_date']['value']);
 			//$this->set_call_status(isset($arrFields['call_status']) ? $arrFields['call_status']['value'] : '');
 			//$this->set_name($arrFields['name']['value']);
 
 			if(0==$was_verified && $arrFields['verified']['value']==1) {
-				$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `iuser_uid`=".$_SESSION['user']['uid']." LIMIT 1";
+				$this->financeNotification($arrFields['user_uid']['value']);
+			} else {
+			}
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public function getUserlocale($user_uid=null) {
+		if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
+			$query = "SELECT `locale` FROM `user` WHERE`uid`='".$user_uid."'";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$arrRow = mysql_fetch_array($result);
+				return $arrRow['locale'];
+			}
+		}
+		return false;
+	}
+	public function financeNotification($user_uid=null) {
+		if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
+			$locale = $this->getUserlocale($user_uid);
+			if($locale!=false) {
+				//$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `iuser_uid`=".$_SESSION['user']['uid']." LIMIT 1";
+				$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `locale_rights`='".$locale."' LIMIT 1";
 				$result = database::query($query);
 				if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 					$row = mysql_fetch_assoc($result);
 					$finance_email = $row['finance_email'];
 					if(strlen($finance_email) > 0) {
 
-						$query = "SELECT `name`,`school`,`address`,`postcode`,`contact`,`phone_number` FROM `users_schools` WHERE `user_uid`=".$arrFields['user_uid']['value']." LIMIT 1";
+						$query = "SELECT `name`,`school`,`address`,`postcode`,`contact`,`phone_number` FROM `users_schools` WHERE `user_uid`=".$user_uid." LIMIT 1";
 
 						$contact_name = '';
 						$school_name = '';
@@ -655,12 +681,9 @@ class subscriptions extends generic_object {
 
 					}
 				} else {
+
 				}
-			} else {
 			}
-			return true;
-		} else {
-			return false;
 		}
 	}
 
