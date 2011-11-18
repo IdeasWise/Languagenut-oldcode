@@ -359,7 +359,8 @@ class generic_object extends pager {
 				}
 			}
 		}
-		if(isset($_GET) && count($_GET)) {
+
+		if(isset($_GET) && count($_GET) && isset($_SERVER['QUERY_STRING']) && strlen($_SERVER['QUERY_STRING'])>0) {
 			$this->pager(
 				$max, //see above
 				$record_limit, //how many records to display at one time
