@@ -147,6 +147,7 @@ class admin_invoice extends Controller {
 		if(isset($_POST['submit-button'])) {
 			$objSubscription		= new subscriptions();
 			if($objSubscription->doSave()){
+				/*
 				if(isset($_POST['redirect']) && $_POST['redirect'] == 1) {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('admin/users/profile/school/'.@$_POST['user_uid'].'/');
@@ -154,6 +155,12 @@ class admin_invoice extends Controller {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('admin/invoice/'.$this->arrPaths[2].'/list');
 				}
+				*/
+				if(!isset($_SESSION['invoice_success_message'])) {
+					$_SESSION['invoice_success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objSubscription->redirectTo('admin/invoice/'.$this->arrPaths[2].'/edit/'.$this->arrPaths[4].'/');
+
 			} else {
 				$arrBody['user_uid_display']	= 'display:none;';
 				$arrBody['user_uid_edit']		= subscriptions::getOptions($objSubscription->arrForm['user_uid']);
@@ -167,6 +174,10 @@ class admin_invoice extends Controller {
 				$objSubscription->load();
 				foreach($objSubscription->TableData as $idx => $val ) {
 					$arrBody[$idx] = $val['Value'];
+				}
+				$arrBody['success_message'] = (isset($_SESSION['invoice_success_message']))?$_SESSION['invoice_success_message']:'';
+				if(isset($_SESSION['invoice_success_message'])) {
+					unset($_SESSION['invoice_success_message']);
 				}
 				if($arrBody['verified'] == 0) {
 					$arrBody['verified0'] = 'checked="checked"';
@@ -195,6 +206,14 @@ class admin_invoice extends Controller {
 						$arrBody['sent_month'],
 						$arrBody['sent_year']) = explode('-', date('d-m-Y', strtotime($arrBody['sent_dts']))
 					);
+				}
+
+				if($arrBody['sent'] == '1' ) {
+					$arrBody['sent1'] = 'checked="checked"';
+					$arrBody['sent0'] = '';
+				} else {
+					$arrBody['sent0'] = 'checked="checked"';
+					$arrBody['sent1'] = '';
 				}
 
 				if($arrBody['date_paid'] != '0000-00-00 00:00:00' ) {

@@ -7,6 +7,7 @@
 <div class="line"></div>
 <div class="in forms">
 	<div class="message_error"> {{ message_error }} </div>
+    {{ success_message }}
 	<form action="" method="post" id="user-form" name="user-form">
 
 		<input type="hidden" name="redirect" id="redirect" value="{{ redirect }}" />
@@ -88,11 +89,11 @@
 					<p style="float:left;margin-right:15px;clear:both;margin-top:0;">
 						<label for=""> <span class="label" style="font-weight:normal;">Sent:</span></label>
 						<label for="yes_sent" style="float:left;">
-							<input type="radio" name="invoice_sent" id="yes_sent"  value="1" {{ verified1 }}/>
+							<input type="radio" name="invoice_sent" id="yes_sent"  value="1" {{ sent1 }}/>
 							Yes
 						</label>
 						<label for="no_sent">
-							<input type="radio" name="invoice_sent" id="no_sent"  value="0" {{ verified0 }} />
+							<input type="radio" name="invoice_sent" id="no_sent"  value="0" {{ sent0 }} />
 							No
 						</label>
 					</p>

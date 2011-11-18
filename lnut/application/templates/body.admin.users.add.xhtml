@@ -69,13 +69,13 @@
 				<input type="radio" name="is_admin" id="no_admin"  value="0" checked="checked" />
 				No </label>
 		</p>
-		<p> <span class="label">Is this user allowed to log in?</span>
+		<p> <span class="label">Deactivate login?</span>
 			<label for="yes_allow" style="float:left;">
 				<input type="radio" name="allow_access" id="yes_allow"  value="1" checked="checked" />
-				Yes&nbsp;&nbsp; </label>
+				No&nbsp;&nbsp; </label>
 			<label for="no_allow">
 				<input type="radio" name="allow_access" id="no_allow"  value="0" {{ is_allow_access }} />
-				No </label>
+				Yes </label>
 		</p>
 		<p> <span class="label"> Was this user's account deleted ?</span>
 			<label for="yes_delete" style="float:left;">
