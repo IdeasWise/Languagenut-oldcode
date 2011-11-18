@@ -101,7 +101,7 @@ class profile_school extends Controller {
 				'tab.schooladmin'	=> $objUser->getUserListForSchoolByType('schooladmin', $uid, 'profile_schooladmin'),
 				'tab.schoolteacher'	=> $objUser->getUserListForSchoolByType('schoolteacher', $uid, 'profile_schoolteacher'),
 				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid']),
-				'tab.classes'		=> 'Coming Soon'
+				'tab.classes'		=> $this->getClasses($uid)
 			)
 		);
 		$skeleton->assign(
@@ -112,8 +112,24 @@ class profile_school extends Controller {
 		output::as_html($skeleton, true);
 	}
 
-	public function getClasses() {
-
+	public function getClasses($school_uid=null) {
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid>0) {
+			$arrClasses = users_schools::getClassesBySchooluId($school_uid);
+			if(is_array($arrClasses) && count($arrClasses)) {
+				$arrRows = array();
+				$body = make::tpl('body.admin.school.class.list');
+				foreach($arrClasses as $arrClass) {
+					$arrRows[] = make::tpl('body.admin.school.class.list.row')->assign($arrClass)->get_content();
+				}
+				$body->assign('list.rows', implode('', $arrRows));
+				$body->assign('school_uid', $school_uid);
+				return $body->get_content();
+			} else {
+				return make::tpl('body.admin.school.class.notfound')->assign('school_uid',$school_uid)->get_content();
+			}
+		} else {
+			return '<span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Classes are not found!</span>';
+		}
 	}
 }
 ?>
