@@ -323,24 +323,29 @@ class account_reseller_users extends Controller {
 						$expiry = strtotime($arrSubscription['expires_dts']);
 						$regd = strtotime($thisUser->TableData['registered_dts']['Value']);
 						$verified = ($arrSubscription['verified']==1 ? true : false);
-						$paid = ($arrSubscription['paid']==1 ? true : false);
+						//$paid = ($arrSubscription['paid']==1 ? true : false);
 
 						$data['verified'] = 'Yes';
 						$data['paid'] = ($arrSubscription['date_paid']!='0000-00-00 00:00:00') ? 'Yes' : 'No';
 
 						if($hasActiveSubscription) {
-							if($regd < $two_weeks_ago && !$paid) {
+							if($regd < $two_weeks_ago && !$verified) {
 								$data['extra_style'] = ' style="background:#FCBCAE;"';
-							} else if($regd < $two_weeks_ago && $paid) {
-								$data['extra_style'] = ' style="background:#B8ED9C;"';
-							} else if($regd > $two_weeks_ago && !$paid) {
-								$data['extra_style'] = ' style="background:#FCC52F;"';
-							} else if($paid) {
-								$data['extra_style'] = ' style="background:#bbdfB1;"';
+							} else if($regd < $two_weeks_ago && $verified) {
+								if($regd < $two_weeks_ago && !$verified) {
+									$data['extra_style'] = ' style="background:#FCBCAE;"';
+								} else if( floor(($expiry-$now)/86400) <=30 && $verified) {
+									$data['extra_style'] = ' style="background:#ED6688;"';
+								} else if($regd < $two_weeks_ago && $verified) {
+									$data['extra_style'] = ' style="background:#B8ED9C;"';
+								} else if($regd > $two_weeks_ago && !$verified) {
+									$data['extra_style'] = ' style="background:#FCC52F;"';
+								} else if($verified) {
+									$data['extra_style'] = ' style="background:#bbdfB1;"';
+								}
 							}
+							$data['call_status'] = subscriptions::toCallStatusText($arrSubscription['call_status']);
 						}
-						$data['call_status'] = subscriptions::toCallStatusText($arrSubscription['call_status']);
-					}
 				}
 				if($this->arrPaths[2]=='school') {
 					$data['number_of_requests'] = $objSchoolPackages->getPendingRequests($data['school_uid']);
