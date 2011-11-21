@@ -1,5 +1,4 @@
 <?php
-
 /**
  * subscribe.php
  */
@@ -613,10 +612,12 @@ class Subscribe extends Controller {
 				$school_uid = $objSchool->SubscribeSchoolSave($user_uid);
 				if($school_uid > 0) {
 					if (true == $form1['optin']['value']) {
+						/*
 						$this->addEmailList(
 							$form1['name']['value'],
 							$form1['email']['value']
 						);
+						*/
 					}
 
 					$_SESSION['login_email']	= $form1['email']['value'];

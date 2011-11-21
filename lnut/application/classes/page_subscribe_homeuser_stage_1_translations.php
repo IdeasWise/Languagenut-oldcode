@@ -368,10 +368,12 @@ class page_subscribe_homeuser_stage_1_translations extends generic_object {
 
 
 								if(true==$optin) {
+									/*
 									$this->addEmailList(
 													$form1['name']['value'],
 													$form1['email']['value']
 														);
+									*/
 								}
 								$parantObj->sendHomeUserWelcomeEmail(
 																$user_uid,
