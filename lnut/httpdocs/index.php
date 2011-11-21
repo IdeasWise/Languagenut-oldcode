@@ -42,7 +42,7 @@ class config {
 	private static $password= 'Stealth1980';
 	private static $database= 'languagenut';
 	public static $data = array();
-	
+
 	public static function db($key='') {
 		switch ($key) {
 			case 'server':	return self::$server;	break;
@@ -66,7 +66,7 @@ class config {
 
 	public static function set($key='', $value='') {
 		$return = null;
-		
+
 		// bk - is this needed?
 		//if (array_key_exists($key, self::$data)) {
 			self::$data[$key] = $value;
@@ -232,7 +232,7 @@ class config {
 		}
 		return $skeleton;
 	}
-	
+
 	public function doMikeError() {
 		if($_SERVER['REMOTE_ADDR']=='83.105.41.208') {
 			echo '<pre>';
@@ -260,7 +260,7 @@ function __autoload($class_name) {
 	);
 
 	$found = false;
-		
+
 	foreach ($classes as $class) {
 		if (file_exists($class)) {
 			$found = true;
@@ -302,7 +302,8 @@ class core {
 		config::set('cache_classes',array());
 		config::set('mediamanager_base',$_SERVER['DOCUMENT_ROOT']);
 		config::set('cdn_url','http://images.languagenut.com/');
-	
+		config::set('PRD',($_SERVER['DOCUMENT_ROOT'] == '/var/www/vhosts/languagenut.com/' ? true : false));
+
 	}
 
 	private static function security_passed() {
@@ -383,7 +384,7 @@ class core {
 	public static function start() {
 
 		self::set_config_vars();
-				
+
 		database::connect();
 
 		if (self::security_passed()) {
