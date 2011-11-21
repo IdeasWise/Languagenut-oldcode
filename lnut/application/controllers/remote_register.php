@@ -202,7 +202,7 @@ class remote_register extends Controller {
 		}
 		$res		= database::query( $query ) or die($query.'<br>'.mysql_error());
 		$school_uid	= mysql_insert_id();
-		$this->addEmailList($school->contact_name, $school->email);
+		//$this->addEmailList($school->contact_name, $school->email);
 
 
 		if(is_numeric($school_uid) && $school_uid > 0) {

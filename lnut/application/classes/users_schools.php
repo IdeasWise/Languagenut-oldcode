@@ -218,7 +218,7 @@ class users_schools extends generic_object {
 				$res = database::query($query);
 				if (mysql_error() == '' && mysql_num_rows($res)) {
 					$row = mysql_fetch_array($res);
-					$this->addEmailList($_POST['contact'], $row['email']);
+					//$this->addEmailList($_POST['contact'], $row['email']);
 				}
 			}
 			return true;
@@ -604,7 +604,7 @@ class users_schools extends generic_object {
 			$this->set_address_id($addressObject->insert());
 
 			$school_uid = $this->insert();
-			$this->addEmailList($_POST['name'], $_POST['email']);
+			//$this->addEmailList($_POST['name'], $_POST['email']);
 			/**
 			 * Fetch the page data from the database for this given locale
 			 */
