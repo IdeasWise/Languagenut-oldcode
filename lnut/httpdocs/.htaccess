@@ -8,23 +8,12 @@ RewriteEngine on
 
 RewriteBase /
 
-#RewriteRule ^cancel-subscription.php$ http://www.languagenut.com/cancel-subscription/ [L]
-#RewriteRule ^send-application.php$ http://www.languagenut.com/send-application/ [L]
-
-
 RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
 RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
 RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
 RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
 RewriteRule ^(.*)$ index.php [F,L]
 
-
-
-#RewriteCond %{HTTP_HOST} !^www.languagenut.com$
-#RewriteRule ^(.*)$ http://www.languagenut.com/$1 [R=301]
-
-#RewriteCond %{HTTP_HOST} !^shailesh\.testingnut\.com [NC]
-#RewriteRule ^(.*)$ http://shailesh.testingnut.com/$1 [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
