@@ -1,7 +1,5 @@
 <?php
 
-echo 'test';exit;
-
 /* * *************************************
  * MyStream Framework
  */
