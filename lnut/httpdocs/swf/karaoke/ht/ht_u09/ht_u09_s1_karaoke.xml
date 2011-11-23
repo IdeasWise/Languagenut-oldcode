@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="128130" >
+	<lines>
+		<line words="Koute! Koute." start="5274" length="4835" >
+			<highlight index="0" start="1611" length="929" />
+			<highlight index="1" start="3722" length="905" />
+			<subtitles>
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Koute! Koute." start="9560" length="4835" >
+			<highlight index="0" start="1611" length="929" />
+			<highlight index="1" start="3251" length="905" />
+			<subtitles>
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Koute! Koute." start="14285" length="3846" >
+			<highlight index="0" start="293" length="929" />
+			<highlight index="1" start="1972" length="905" />
+			<subtitles>
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Koute! Koute." start="17692" length="3736" >
+			<highlight index="0" start="357" length="929" />
+			<highlight index="1" start="1982" length="905" />
+			<subtitles>
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Men prens la. L ap vini!" start="21208" length="3297" >
+			<highlight index="0" start="554" length="267" />
+			<highlight index="1" start="797" length="421" />
+			<highlight index="2" start="1208" length="502" />
+			<highlight index="4" start="1734" length="200" />
+			<highlight index="5" start="1915" length="760" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the prince. He is coming!" />
+			</subtitles>
+		</line>
+		<line words="Men prens la. Li adorab!" start="24395" length="4000" >
+			<highlight index="0" start="637" length="406" />
+			<highlight index="1" start="1014" length="568" />
+			<highlight index="2" start="1553" length="359" />
+			<highlight index="3" start="1889" length="203" />
+			<highlight index="4" start="2063" length="991" />
+			<subtitles>
+				<subtitle lang="en" line="Here is the prince. He is charming!" />
+			</subtitles>
+		</line>
+		<line words="Men prens la. L ap vini!" start="28241" length="3297" >
+			<highlight index="0" start="420" length="277" />
+			<highlight index="1" start="678" length="554" />
+			<highlight index="2" start="1223" length="454" />
+			<highlight index="3" start="1700" length="200" />
+			<highlight index="4" start="1887" length="282" />
+			<highlight index="5" start="2164" length="865" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the prince. He is coming!" />
+			</subtitles>
+		</line>
+		<line words="Men prens la. L si tèlman gran!" start="31538" length="4000" >
+			<highlight index="0" start="562" length="411" />
+			<highlight index="1" start="944" length="319" />
+			<highlight index="2" start="1257" length="180" />
+			<highlight index="3" start="1501" length="127" />
+			<highlight index="4" start="1617" length="243" />
+			<highlight index="5" start="1849" length="524" />
+			<highlight index="6" start="2347" length="623" />
+			<subtitles>
+				<subtitle lang="en" line="Here is the prince. He is so grand!" />
+			</subtitles>
+		</line>
+		<line words="Gade! Gade." start="40329" length="4000" >
+			<highlight index="0" start="643" length="600" />
+			<highlight index="1" start="2509" length="965" />
+			<subtitles>
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Gade! Gade." start="44175" length="3516" >
+			<highlight index="0" start="469" length="600" />
+			<highlight index="1" start="2144" length="965" />
+			<subtitles>
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Gade! Gade." start="47581" length="3516" >
+			<highlight index="0" start="469" length="600" />
+			<highlight index="1" start="2144" length="965" />
+			<subtitles>
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Gade! Gade." start="50988" length="3516" >
+			<highlight index="0" start="469" length="600" />
+			<highlight index="1" start="2144" length="965" />
+			<subtitles>
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Men bote k ap dòmi a, li tèlman bèl." start="54394" length="4000" >
+			<highlight index="0" start="631" length="279" />
+			<highlight index="1" start="892" length="348" />
+			<highlight index="2" start="1228" length="186" />
+			<highlight index="3" start="1420" length="185" />
+			<highlight index="4" start="1565" length="605" />
+			<highlight index="5" start="2243" length="104" />
+			<highlight index="6" start="2336" length="139" />
+			<highlight index="7" start="2451" length="595" />
+			<highlight index="8" start="3025" length="484" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the sleeping beauty, so beautiful." />
+			</subtitles>
+		</line>
+		<line words="Men bote k ap dòmi a, li poze." start="58240" length="3517" >
+			<highlight index="0" start="382" length="285" />
+			<highlight index="1" start="657" length="275" />
+			<highlight index="2" start="917" length="183" />
+			<highlight index="3" start="1085" length="184" />
+			<highlight index="4" start="1263" length="500" />
+			<highlight index="5" start="1763" length="148" />
+			<highlight index="6" start="1885" length="199" />
+			<highlight index="7" start="2135" length="770" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the sleeping beauty, so quiet." />
+			</subtitles>
+		</line>
+		<line words="Men bote k ap dòmi a, li tèlman bèl." start="61647" length="4000" >
+			<highlight index="0" start="562" length="243" />
+			<highlight index="1" start="782" length="301" />
+			<highlight index="2" start="1078" length="197" />
+			<highlight index="3" start="1257" length="250" />
+			<highlight index="4" start="1489" length="325" />
+			<highlight index="5" start="1791" length="237" />
+			<highlight index="6" start="2150" length="316" />
+			<highlight index="7" start="2411" length="527" />
+			<highlight index="8" start="2904" length="455" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the sleeping beauty, so beautiful." />
+			</subtitles>
+		</line>
+		<line words="Men bote k ap dòmi a, li poze, tèlman poze." start="65603" length="5165" >
+			<highlight index="0" start="0" length="357" />
+			<highlight index="1" start="344" length="397" />
+			<highlight index="2" start="711" length="209" />
+			<highlight index="3" start="875" length="150" />
+			<highlight index="4" start="1010" length="389" />
+			<highlight index="5" start="1377" length="232" />
+			<highlight index="6" start="1571" length="315" />
+			<highlight index="7" start="1863" length="515" />
+			<highlight index="8" start="3023" length="816" />
+			<highlight index="9" start="3817" length="973" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the sleeping beauty, oh so quiet. Oh so quiet." />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="74504" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="78020" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="81427" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="84724" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Men manman lougawou a. (fèmen bouch ou!) " start="88680" length="3077" >
+			<highlight index="0" start="102" length="227" />
+			<highlight index="1" start="316" length="459" />
+			<highlight index="2" start="744" length="705" />
+			<highlight index="3" start="1431" length="307" />
+			<highlight index="4" start="1962" length="343" />
+			<highlight index="5" start="2287" length="441" />
+			<highlight index="6" start="2737" length="383" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the wicked witch." />
+			</subtitles>
+		</line>
+		<line words="Men manman lougawou a. (chita!)" start="91866" length="4000" >
+			<highlight index="0" start="342" length="264" />
+			<highlight index="1" start="579" length="568" />
+			<highlight index="2" start="1153" length="678" />
+			<highlight index="3" start="1820" length="266" />
+			<highlight index="4" start="2295" length="1414" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the wicked witch." />
+			</subtitles>
+		</line>
+		<line words="Men manman lougawou a. (leve!)" start="96042" length="3516" >
+			<highlight index="0" start="0" length="132" />
+			<highlight index="1" start="122" length="556" />
+			<highlight index="2" start="652" length="582" />
+			<highlight index="3" start="1202" length="224" />
+			<highlight index="4" start="1411" length="1742" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the wicked witch." />
+			</subtitles>
+		</line>
+		<line words="Men manman lougawou a. (leve men w anlè)" start="99449" length="4000" >
+			<highlight index="0" start="0" length="160" />
+			<highlight index="1" start="150" length="618" />
+			<highlight index="2" start="736" length="739" />
+			<highlight index="3" start="1402" length="403" />
+			<highlight index="4" start="1930" length="475" />
+			<highlight index="5" start="2370" length="267" />
+			<highlight index="6" start="2608" length="214" />
+			<highlight index="7" start="2869" length="1003" />
+			<subtitles>
+				<subtitle lang="en" line="Here's the wicked witch." />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="108459" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="108459" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="111756" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="115273" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+		<line words="Silans! Silans!" start="118789" length="3626" >
+			<highlight index="0" start="284" length="849" />
+			<highlight index="1" start="1907" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="Silence! Silence!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="128052" >
+	<lines>
+		<line words="Comment vas-tu à l'école mon ami?" start="9405" length="4306" >
+			<highlight index="0" start="515" length="515" />
+			<highlight index="1" start="1011" length="566" />
+			<highlight index="2" start="1806" length="200" />
+			<highlight index="3" start="2105" length="585" />
+			<highlight index="4" start="2728" length="305" />
+			<highlight index="5" start="3090" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école à pied, mon ami." start="13371" length="4420" >
+			<highlight index="0" start="548" length="254" />
+			<highlight index="1" start="789" length="275" />
+			<highlight index="2" start="1044" length="200" />
+			<highlight index="3" start="1214" length="489" />
+			<highlight index="4" start="1801" length="275" />
+			<highlight index="5" start="2069" length="372" />
+			<highlight index="6" start="2976" length="307" />
+			<highlight index="7" start="3296" length="385" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga altijd lopend naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg går til skole, min ven" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="I go to school on foot my friend." />
+			</subtitles>
+		</line>
+		<line words="Comment vas-tu à l'école mon ami?" start="17451" length="4306" >
+			<highlight index="0" start="515" length="515" />
+			<highlight index="1" start="1011" length="566" />
+			<highlight index="2" start="1806" length="200" />
+			<highlight index="3" start="2105" length="585" />
+			<highlight index="4" start="2728" length="305" />
+			<highlight index="5" start="3090" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école en bus, mon ami." start="21530" length="4420" >
+			<highlight index="0" start="365" length="254" />
+			<highlight index="1" start="594" length="275" />
+			<highlight index="2" start="861" length="200" />
+			<highlight index="3" start="1051" length="489" />
+			<highlight index="4" start="1801" length="275" />
+			<highlight index="5" start="2069" length="372" />
+			<highlight index="6" start="2859" length="307" />
+			<highlight index="7" start="3127" length="483" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga met de bus naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg tager bussen til skole, min ven" />
+				<subtitle lang="nz" line="I go to school by bus my friend." />
+				<subtitle lang="en" line="I go to school by bus my friend." />
+			</subtitles>
+		</line>
+		<line words="En France, je vais à l'école." start="25497" length="4192" >
+			<highlight index="0" start="501" length="749" />
+			<highlight index="1" start="1250" length="526" />
+			<highlight index="2" start="2352" length="200" />
+			<highlight index="3" start="2519" length="297" />
+			<highlight index="4" start="2854" length="200" />
+			<highlight index="5" start="3052" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In Frankrijk ga ik naar school." />
+				<subtitle lang="dk" line="I Frankrig går jeg i skole." />
+				<subtitle lang="nz" line="In France, I go to school." />
+				<subtitle lang="en" line="In France, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Belgique tu vas à l'école." start="29236" length="4192" >
+			<highlight index="0" start="699" length="848" />
+			<highlight index="1" start="1523" length="526" />
+			<highlight index="2" start="2588" length="200" />
+			<highlight index="3" start="2810" length="297" />
+			<highlight index="4" start="3095" length="200" />
+			<highlight index="5" start="3275" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In België ga jij naar school." />
+				<subtitle lang="dk" line="I Belgien går du i skole." />
+				<subtitle lang="nz" line="In Belgium, I go to school." />
+				<subtitle lang="en" line="In Belgium, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Guyane, il va à l'école." start="32976" length="4419" >
+			<highlight index="0" start="900" length="749" />
+			<highlight index="1" start="1768" length="526" />
+			<highlight index="2" start="2780" length="235" />
+			<highlight index="3" start="2982" length="297" />
+			<highlight index="4" start="3250" length="200" />
+			<highlight index="5" start="3517" length="758" />
+			<subtitles>
+				<subtitle lang="nl" line="In Guyana gaat hij naar school." />
+				<subtitle lang="dk" line="I Guyana går han i skole." />
+				<subtitle lang="nz" line="In Guyana, I go to school." />
+				<subtitle lang="en" line="In Guyana, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Côte d'Ivoire elle va à l'école." start="36715" length="4986" >
+			<highlight index="0" start="655" length="280" />
+			<highlight index="1" start="1008" length="457" />
+			<highlight index="2" start="1583" length="729" />
+			<highlight index="3" start="3151" length="200" />
+			<highlight index="4" start="3343" length="200" />
+			<highlight index="5" start="3564" length="751" />
+			<highlight index="6" start="3770" length="685" />
+			<subtitles>
+				<subtitle lang="nl" line="In Ivoorkust gaat zij naar school." />
+				<subtitle lang="dk" line="På Elfenbenskysten går hun i skole." />
+				<subtitle lang="nz" line="In the Ivory Coast, I go to school." />
+				<subtitle lang="en" line="In the Ivory Coast, I go to school." />
+			</subtitles>
+		</line>
+		<line words="Comment vas-tu à l'école mon ami?" start="41361" length="4306" >
+			<highlight index="0" start="515" length="515" />
+			<highlight index="1" start="1011" length="566" />
+			<highlight index="2" start="1920" length="200" />
+			<highlight index="3" start="2136" length="585" />
+			<highlight index="4" start="2836" length="305" />
+			<highlight index="5" start="3199" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école en train, mon ami." start="45328" length="4420" >
+			<highlight index="0" start="548" length="254" />
+			<highlight index="1" start="789" length="275" />
+			<highlight index="2" start="1044" length="200" />
+			<highlight index="3" start="1214" length="489" />
+			<highlight index="4" start="1854" length="275" />
+			<highlight index="5" start="2121" length="372" />
+			<highlight index="6" start="2976" length="307" />
+			<highlight index="7" start="3296" length="385" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga met de trein naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg tager toget til skole, min ven" />
+				<subtitle lang="nz" line="I go to school on the train, my friend." />
+				<subtitle lang="en" line="I go to school on the train, my friend." />
+			</subtitles>
+		</line>
+		<line words="Comment vas-tu à l'école mon ami?" start="49520" length="4306" >
+			<highlight index="0" start="445" length="515" />
+			<highlight index="1" start="934" length="566" />
+			<highlight index="2" start="1806" length="200" />
+			<highlight index="3" start="2105" length="585" />
+			<highlight index="4" start="2728" length="305" />
+			<highlight index="5" start="2995" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école en métro mon ami." start="53260" length="4420" >
+			<highlight index="0" start="548" length="254" />
+			<highlight index="1" start="789" length="275" />
+			<highlight index="2" start="1044" length="200" />
+			<highlight index="3" start="1214" length="594" />
+			<highlight index="4" start="1854" length="275" />
+			<highlight index="5" start="2121" length="594" />
+			<highlight index="6" start="2976" length="346" />
+			<highlight index="7" start="3303" length="450" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga met de metro naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg tager undergrunden til skole, min ven" />
+				<subtitle lang="nz" line="I go to school on the underground, my friend." />
+				<subtitle lang="en" line="I go to school on the underground, my friend." />
+			</subtitles>
+		</line>
+		<line words="En France, je vais à l'école." start="57566" length="4192" >
+			<highlight index="0" start="501" length="749" />
+			<highlight index="1" start="1250" length="526" />
+			<highlight index="2" start="2352" length="200" />
+			<highlight index="3" start="2519" length="297" />
+			<highlight index="4" start="2854" length="200" />
+			<highlight index="5" start="3052" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In Frankrijk ga ik naar school." />
+				<subtitle lang="dk" line="I Frankrig går jeg i skole." />
+				<subtitle lang="nz" line="In France, I go to school." />
+				<subtitle lang="en" line="In France, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Belgique tu vas à l'école." start="61306" length="4192" >
+			<highlight index="0" start="699" length="848" />
+			<highlight index="1" start="1523" length="526" />
+			<highlight index="2" start="2588" length="200" />
+			<highlight index="3" start="2810" length="297" />
+			<highlight index="4" start="3095" length="200" />
+			<highlight index="5" start="3275" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In België ga jij naar school." />
+				<subtitle lang="dk" line="I Belgien går du i skole." />
+				<subtitle lang="nz" line="In Belgium, I go to school." />
+				<subtitle lang="en" line="In Belgium, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Guyane, il va à l'école." start="65045" length="4419" >
+			<highlight index="0" start="900" length="749" />
+			<highlight index="1" start="1768" length="526" />
+			<highlight index="2" start="2780" length="235" />
+			<highlight index="3" start="2982" length="297" />
+			<highlight index="4" start="3250" length="200" />
+			<highlight index="5" start="3517" length="758" />
+			<subtitles>
+				<subtitle lang="nl" line="In Guyana gaat hij naar school." />
+				<subtitle lang="dk" line="I Guyana går han i skole." />
+				<subtitle lang="nz" line="In Guyana, I go to school." />
+				<subtitle lang="en" line="In Guyana, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Côte d'Ivoire elle va à l'école." start="69125" length="4533" >
+			<highlight index="0" start="395" length="280" />
+			<highlight index="1" start="749" length="457" />
+			<highlight index="2" start="1211" length="831" />
+			<highlight index="3" start="2771" length="241" />
+			<highlight index="4" start="2986" length="200" />
+			<highlight index="5" start="3166" length="395" />
+			<highlight index="6" start="3468" length="685" />
+			<subtitles>
+				<subtitle lang="nl" line="In Ivoorkust gaat zij naar school." />
+				<subtitle lang="dk" line="På Elfenbenskysten går hun i skole." />
+				<subtitle lang="nz" line="In the Ivory Coast, I go to school." />
+				<subtitle lang="en" line="In the Ivory Coast, I go to school." />
+			</subtitles>
+		</line>
+		<line words="Comment vas-tu à l'école mon ami?" start="73544" length="4306" >
+			<highlight index="0" start="476" length="515" />
+			<highlight index="1" start="947" length="566" />
+			<highlight index="2" start="1806" length="200" />
+			<highlight index="3" start="2066" length="585" />
+			<highlight index="4" start="2728" length="305" />
+			<highlight index="5" start="3090" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école en vélo, mon ami." start="77511" length="4420" >
+			<highlight index="0" start="365" length="254" />
+			<highlight index="1" start="594" length="275" />
+			<highlight index="2" start="861" length="200" />
+			<highlight index="3" start="1051" length="489" />
+			<highlight index="4" start="1801" length="275" />
+			<highlight index="5" start="2069" length="372" />
+			<highlight index="6" start="2859" length="307" />
+			<highlight index="7" start="3127" length="483" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga op de fiets naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg cykler til skole, min ven." />
+				<subtitle lang="nz" line="I go to school by bike my friend." />
+				<subtitle lang="en" line="I go to school by bike my friend." />
+			</subtitles>
+		</line>
+		<line words="Comment vas-tu à l'école mon ami?" start="81703" length="4306" >
+			<highlight index="0" start="254" length="515" />
+			<highlight index="1" start="756" length="566" />
+			<highlight index="2" start="1640" length="200" />
+			<highlight index="3" start="1869" length="585" />
+			<highlight index="4" start="2518" length="305" />
+			<highlight index="5" start="2861" length="605" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?" />
+				<subtitle lang="dk" line="Hvordan kommer du til skole, min ven?" />
+				<subtitle lang="nz" line="How do you go to school, my friend?" />
+				<subtitle lang="en" line="How do you go to school, my friend?" />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'école en voiture, mon ami." start="85556" length="4420" >
+			<highlight index="0" start="365" length="235" />
+			<highlight index="1" start="561" length="275" />
+			<highlight index="2" start="861" length="200" />
+			<highlight index="3" start="1051" length="489" />
+			<highlight index="4" start="1801" length="275" />
+			<highlight index="5" start="2069" length="574" />
+			<highlight index="6" start="2859" length="307" />
+			<highlight index="7" start="3127" length="483" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga met de auto naar school, mijn vriend." />
+				<subtitle lang="dk" line="Jeg bliver kørt til skole, min ven." />
+				<subtitle lang="nz" line="I go to school by car, my friend." />
+				<subtitle lang="en" line="I go to school by car, my friend." />
+			</subtitles>
+		</line>
+		<line words="En France, je vais à l'école." start="89636" length="4192" >
+			<highlight index="0" start="501" length="749" />
+			<highlight index="1" start="1250" length="526" />
+			<highlight index="2" start="2278" length="200" />
+			<highlight index="3" start="2451" length="365" />
+			<highlight index="4" start="2854" length="200" />
+			<highlight index="5" start="3052" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In Frankrijk ga ik naar school." />
+				<subtitle lang="dk" line="I Frankrig går jeg i skole." />
+				<subtitle lang="nz" line="In France, I go to school." />
+				<subtitle lang="en" line="In France, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Belgique tu vas à l'école." start="93375" length="4192" >
+			<highlight index="0" start="575" length="972" />
+			<highlight index="1" start="1523" length="526" />
+			<highlight index="2" start="2588" length="200" />
+			<highlight index="3" start="2810" length="297" />
+			<highlight index="4" start="3095" length="200" />
+			<highlight index="5" start="3275" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="In België ga jij naar school." />
+				<subtitle lang="dk" line="I Belgien går du i skole." />
+				<subtitle lang="nz" line="In Belgium, I go to school." />
+				<subtitle lang="en" line="In Belgium, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Guyane, il va à l'école." start="97115" length="4419" >
+			<highlight index="0" start="900" length="749" />
+			<highlight index="1" start="1768" length="526" />
+			<highlight index="2" start="2780" length="235" />
+			<highlight index="3" start="2982" length="297" />
+			<highlight index="4" start="3250" length="200" />
+			<highlight index="5" start="3517" length="758" />
+			<subtitles>
+				<subtitle lang="nl" line="In Guyana gaat hij naar school." />
+				<subtitle lang="dk" line="I Guyana går han i skole." />
+				<subtitle lang="nz" line="In Guyana, I go to school." />
+				<subtitle lang="en" line="In Guyana, I go to school." />
+			</subtitles>
+		</line>
+		<line words="En Côte d'Ivoire elle va à l'école." start="100968" length="4986" >
+			<highlight index="0" start="412" length="383" />
+			<highlight index="1" start="787" length="457" />
+			<highlight index="2" start="1229" length="1105" />
+			<highlight index="3" start="2857" length="200" />
+			<highlight index="4" start="3048" length="200" />
+			<highlight index="5" start="3284" length="383" />
+			<highlight index="6" start="3645" length="847" />
+			<subtitles>
+				<subtitle lang="nl" line="In Ivoorkust gaat zij naar school." />
+				<subtitle lang="dk" line="På Elfenbenskysten går hun i skole." />
+				<subtitle lang="nz" line="In the Ivory Coast, I go to school." />
+				<subtitle lang="en" line="In the Ivory Coast, I go to school." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

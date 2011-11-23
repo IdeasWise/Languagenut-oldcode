@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="68310" >
+	<lines>
+		<line words="Le Fantôme. " start="0" length="3570" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1255" length="200" />
+				<highlight index="1" start="1441" length="687" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Het spook." />
+				<subtitle lang="en" line="The Ghost." />
+				<subtitle lang="nz" line="The Ghost." />
+				<subtitle lang="dk" line="Spøgelset." />
+				<subtitle lang="us" line="The Ghost." />
+			</subtitles>
+		</line>
+		<line words="Il est minuit, il y a un fantôme dans notre école." start="3395" length="7316" useLNutResource="true" image="23#4#7" >
+			<highlights>
+				<highlight index="0" start="2360" length="200" />
+				<highlight index="1" start="2530" length="200" />
+				<highlight index="2" start="2667" length="657" />
+				<highlight index="3" start="3631" length="200" />
+				<highlight index="4" start="3790" length="200" />
+				<highlight index="5" start="3938" length="200" />
+				<highlight index="6" start="4012" length="200" />
+				<highlight index="7" start="4150" length="836" />
+				<highlight index="8" start="4933" length="307" />
+				<highlight index="9" start="5198" length="317" />
+				<highlight index="10" start="5441" length="561" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Het is middernacht en er is een spook in onze school." />
+				<subtitle lang="en" line="It is midnight, there is a ghost in our school." />
+				<subtitle lang="nz" line="It is midnight, there is a ghost in our school." />
+				<subtitle lang="dk" line="Det er midnat, og der er et spøgelse på skolen." />
+				<subtitle lang="us" line="It is midnight, there is a ghost in our school." />
+			</subtitles>
+		</line>
+		<line words="Il est à la bibliothèque, et à l’entrée." start="10653" length="6790" useLNutResource="true" image="23#4#7" >
+			<highlights>
+				<highlight index="0" start="2210" length="200" />
+				<highlight index="1" start="2309" length="200" />
+				<highlight index="2" start="2485" length="200" />
+				<highlight index="3" start="2643" length="157" />
+				<highlight index="4" start="2751" length="864" />
+				<highlight index="5" start="4185" length="200" />
+				<highlight index="6" start="4323" length="200" />
+				<highlight index="7" start="4441" length="805" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Hij is in de bibliotheek en bij de ingang." />
+				<subtitle lang="en" line="He is in the library and the entrance." />
+				<subtitle lang="nz" line="He is in the library and the entrance." />
+				<subtitle lang="dk" line="Han er på biblioteket og ved indgangen." />
+				<subtitle lang="us" line="He is in the library and the entrance." />
+			</subtitles>
+		</line>
+		<line words="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie." start="17326" length="10653" useLNutResource="true" image="19#4#4" >
+			<highlights>
+				<highlight index="0" start="2004" length="200" />
+				<highlight index="1" start="2142" length="232" />
+				<highlight index="2" start="2327" length="200" />
+				<highlight index="3" start="2466" length="663" />
+				<highlight index="4" start="3191" length="570" />
+				<highlight index="5" start="3776" length="139" />
+				<highlight index="6" start="3853" length="617" />
+				<highlight index="7" start="4578" length="200" />
+				<highlight index="8" start="4701" length="154" />
+				<highlight index="9" start="4794" length="1017" />
+				<highlight index="10" start="6042" length="200" />
+				<highlight index="11" start="6181" length="524" />
+				<highlight index="12" start="6644" length="215" />
+				<highlight index="13" start="6798" length="493" />
+				<highlight index="14" start="7384" length="262" />
+				<highlight index="15" start="7584" length="555" />
+				<highlight index="16" start="8093" length="200" />
+				<highlight index="17" start="8201" length="169" />
+				<highlight index="18" start="8309" length="1063" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Hij houdt van gym, tekenen, Frans en aardrijkskunde. Hij haat wiskunde, geschiedenis, natuurkunde en techniek." />
+				<subtitle lang="en" line="He likes sport, art, French and geography. He hates maths, history, science and technology." />
+				<subtitle lang="nz" line="He likes sport, art, French and geography. He hates maths, history, science and technology." />
+				<subtitle lang="dk" line="Han kan godt lide sport, billedkunst, fransk og geografi. Han hader matematik, historie, natur/teknik og teknologi." />
+				<subtitle lang="us" line="He likes sport, art, French and geography. He hates maths, history, science and technology." />
+			</subtitles>
+		</line>
+		<line words="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine." start="27921" length="11063" useLNutResource="true" image="19#1#2" >
+			<highlights>
+				<highlight index="0" start="1953" length="560" />
+				<highlight index="1" start="2737" length="248" />
+				<highlight index="2" start="2897" length="544" />
+				<highlight index="3" start="3586" length="200" />
+				<highlight index="4" start="3746" length="200" />
+				<highlight index="5" start="3874" length="608" />
+				<highlight index="6" start="4818" length="272" />
+				<highlight index="7" start="5026" length="513" />
+				<highlight index="8" start="5443" length="200" />
+				<highlight index="9" start="5539" length="288" />
+				<highlight index="10" start="5731" length="240" />
+				<highlight index="11" start="5939" length="416" />
+				<highlight index="12" start="6307" length="208" />
+				<highlight index="13" start="6435" length="544" />
+				<highlight index="14" start="7107" length="200" />
+				<highlight index="15" start="7236" length="200" />
+				<highlight index="16" start="7364" length="240" />
+				<highlight index="17" start="7540" length="752" />
+				<highlight index="18" start="8244" length="208" />
+				<highlight index="19" start="8372" length="200" />
+				<highlight index="20" start="8516" length="769" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Gistermiddag zat ik in de kantine te eten en te drinken met mijn vrienden en toen hoorde ik hem in de keuken." />
+				<subtitle lang="en" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen." />
+				<subtitle lang="nz" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen." />
+				<subtitle lang="dk" line="I går sad jeg i kantinen til middag og spiste og drak sammen med mine venner, og jeg hørte ham i køkkenet." />
+				<subtitle lang="us" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen." />
+			</subtitles>
+		</line>
+		<line words="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport." start="38867" length="10185" useLNutResource="true" image="19#5#6" >
+			<highlights>
+				<highlight index="0" start="1267" length="221" />
+				<highlight index="1" start="1400" length="200" />
+				<highlight index="2" start="1577" length="840" />
+				<highlight index="3" start="2667" length="310" />
+				<highlight index="4" start="2932" length="200" />
+				<highlight index="5" start="3065" length="398" />
+				<highlight index="6" start="3625" length="280" />
+				<highlight index="7" start="3831" length="649" />
+				<highlight index="8" start="4539" length="200" />
+				<highlight index="9" start="4686" length="678" />
+				<highlight index="10" start="5335" length="200" />
+				<highlight index="11" start="5482" length="619" />
+				<highlight index="12" start="6175" length="200" />
+				<highlight index="13" start="6367" length="200" />
+				<highlight index="14" start="6499" length="222" />
+				<highlight index="15" start="6691" length="1061" />
+				<highlight index="16" start="7708" length="177" />
+				<highlight index="17" start="7840" length="200" />
+				<highlight index="18" start="7958" length="354" />
+				<highlight index="19" start="8253" length="147" />
+				<highlight index="20" start="8327" length="737" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="In de pauze speelde ik op het schoolplein, ik danste, ik zong en toen hoorde ik hem op het sportveld." />
+				<subtitle lang="en" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field." />
+				<subtitle lang="nz" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field." />
+				<subtitle lang="dk" line="I pausen ude på legepladsen legede, dansede og sang jeg, og jeg hørte ham på sportspladsen." />
+				<subtitle lang="us" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field." />
+			</subtitles>
+		</line>
+		<line words=" Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir." start="48993" length="10770" useLNutResource="true" image="19#4#7" >
+			<highlights>
+				<highlight index="1" start="2181" length="733" />
+				<highlight index="2" start="3132" length="249" />
+				<highlight index="3" start="3304" length="200" />
+				<highlight index="4" start="3413" length="342" />
+				<highlight index="5" start="3693" length="156" />
+				<highlight index="6" start="3802" length="624" />
+				<highlight index="7" start="4737" length="156" />
+				<highlight index="8" start="4831" length="249" />
+				<highlight index="9" start="5033" length="250" />
+				<highlight index="10" start="5236" length="200" />
+				<highlight index="11" start="5330" length="452" />
+				<highlight index="12" start="6093" length="281" />
+				<highlight index="13" start="6311" length="328" />
+				<highlight index="14" start="6561" length="561" />
+				<highlight index="15" start="7511" length="187" />
+				<highlight index="16" start="7621" length="140" />
+				<highlight index="17" start="7714" length="218" />
+				<highlight index="18" start="7870" length="748" />
+				<highlight index="19" start="8540" length="296" />
+				<highlight index="20" start="8758" length="156" />
+				<highlight index="21" start="8867" length="951" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Maandag om half twee had ik informatica en toen hoorde ik hem op de gang." />
+				<subtitle lang="en" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall." />
+				<subtitle lang="nz" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall." />
+				<subtitle lang="dk" line="Mandag halv to sad jeg i klassen og arbejdede med IT, og jeg hørte ham i aulaen." />
+				<subtitle lang="us" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall." />
+			</subtitles>
+		</line>
+		<line words="C’est mardi, il est deux heures et demie et il est parti." start="59705" length="8605" useLNutResource="true" image="19#1#4" >
+			<highlights>
+				<highlight index="0" start="2278" length="374" />
+				<highlight index="1" start="2540" length="597" />
+				<highlight index="2" start="3362" length="200" />
+				<highlight index="3" start="3536" length="200" />
+				<highlight index="4" start="3698" length="211" />
+				<highlight index="5" start="3847" length="274" />
+				<highlight index="6" start="4084" length="124" />
+				<highlight index="7" start="4146" length="436" />
+				<highlight index="8" start="5130" length="149" />
+				<highlight index="9" start="5217" length="162" />
+				<highlight index="10" start="5329" length="200" />
+				<highlight index="11" start="5491" length="747" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Nu is het dinsdag, half drie, en hij is verdwenen." />
+				<subtitle lang="en" line="It isTuesday, it is half past two and he has gone." />
+				<subtitle lang="nz" line="It isTuesday, it is half past two and he has gone." />
+				<subtitle lang="dk" line="Det er tirsdag, klokken er halv tre, og han er væk." />
+				<subtitle lang="us" line="It isTuesday, it is half past two and he has gone." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="155324" >
+	<lines>
+		<line words="En primaria o en secundaria," start="13925" length="3348" >
+			<highlight index="0" start="412" length="266" />
+			<highlight index="1" start="650" length="837" />
+			<highlight index="2" start="1889" length="232" />
+			<highlight index="3" start="2093" length="200" />
+			<highlight index="4" start="2279" length="803" />
+			<subtitles>
+				<subtitle lang="nl" line="Op de basisschool en middelbare school," />
+				<subtitle lang="dk" line="Både i de små og de store klasser," />
+				<subtitle lang="en" line="Whether at primary, whether at secondary," />
+				<subtitle lang="nz" line="Whether at primary, whether at secondary," />
+			</subtitles>
+		</line>
+		<line words="hay muchas materias que estudiar." start="17005" length="3481" >
+			<highlight index="0" start="295" length="271" />
+			<highlight index="1" start="531" length="332" />
+			<highlight index="2" start="845" length="778" />
+			<highlight index="3" start="2102" length="221" />
+			<highlight index="4" start="2294" length="721" />
+			<subtitles>
+				<subtitle lang="nl" line="moeten we heel veel leren." />
+				<subtitle lang="dk" line="Er der meget at lære." />
+				<subtitle lang="en" line="there are lots of subjects to learn." />
+				<subtitle lang="nz" line="there are lots of subjects to learn." />
+			</subtitles>
+		</line>
+		<line words="En Inglaterra o en Francia," start="20352" length="3348" >
+			<highlight index="0" start="412" length="266" />
+			<highlight index="1" start="650" length="837" />
+			<highlight index="2" start="1889" length="232" />
+			<highlight index="3" start="2093" length="200" />
+			<highlight index="4" start="2279" length="803" />
+			<subtitles>
+				<subtitle lang="nl" line="Ook in Engeland, en in Frankrijk," />
+				<subtitle lang="dk" line="Både i England og i Frankrig," />
+				<subtitle lang="en" line="Whether in England, whether in France," />
+				<subtitle lang="nz" line="Whether in England, whether in France," />
+			</subtitles>
+		</line>
+		<line words="estudiamos matemáticas y danza." start="23834" length="3079" >
+			<highlight index="0" start="398" length="891" />
+			<highlight index="1" start="1275" length="851" />
+			<highlight index="2" start="2107" length="251" />
+			<highlight index="3" start="2333" length="610" />
+			<subtitles>
+				<subtitle lang="nl" line="leren ze wiskunde, en bewegen." />
+				<subtitle lang="dk" line="Hat vi matematik og dans." />
+				<subtitle lang="en" line="we study maths, and we study dance." />
+				<subtitle lang="nz" line="we study maths, and we study dance." />
+			</subtitles>
+		</line>
+		<line words="Bienvenido a la escuela." start="26780" length="2276" >
+			<highlight index="0" start="452" length="392" />
+			<highlight index="1" start="824" length="147" />
+			<highlight index="2" start="956" length="170" />
+			<highlight index="3" start="1113" length="697" />
+			<subtitles>
+				<subtitle lang="nl" line="Welkom op onze school ja ja." />
+				<subtitle lang="dk" line="Velkommen til vores sted." />
+				<subtitle lang="en" line="Welcome to our school." />
+				<subtitle lang="nz" line="Welcome to our school." />
+			</subtitles>
+		</line>
+		<line words="¡Vamos! Hagamos un tour de nuestra escuela." start="28788" length="5088" >
+			<highlight index="0" start="379" length="683" />
+			<highlight index="1" start="1467" length="309" />
+			<highlight index="2" start="1764" length="200" />
+			<highlight index="3" start="1973" length="813" />
+			<highlight index="4" start="2776" length="383" />
+			<highlight index="5" start="3137" length="353" />
+			<highlight index="6" start="3461" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik geef je een rondleiding." />
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole." />
+				<subtitle lang="en" line="Let’s go! We’re doing a tour of the school." />
+				<subtitle lang="nz" line="Let’s go! We’re doing a tour of the school." />
+			</subtitles>
+		</line>
+		<line words="Bienvenido a la escuela." start="33341" length="2009" >
+			<highlight index="0" start="185" length="392" />
+			<highlight index="1" start="557" length="147" />
+			<highlight index="2" start="689" length="170" />
+			<highlight index="3" start="846" length="697" />
+			<subtitles>
+				<subtitle lang="nl" line="Welkom op onze school ja ja." />
+				<subtitle lang="dk" line="Velkommen til vores sted." />
+				<subtitle lang="en" line="Welcome to our school." />
+				<subtitle lang="nz" line="Welcome to our school." />
+			</subtitles>
+		</line>
+		<line words="¡Vamos! Hagamos un tour para ver lo que hay." start="35215" length="4285" >
+			<highlight index="0" start="379" length="683" />
+			<highlight index="1" start="1467" length="309" />
+			<highlight index="2" start="1764" length="200" />
+			<highlight index="3" start="1973" length="675" />
+			<highlight index="4" start="2626" length="259" />
+			<highlight index="5" start="2849" length="403" />
+			<highlight index="6" start="3245" length="223" />
+			<highlight index="7" start="3432" length="200" />
+			<highlight index="8" start="3618" length="518" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik geef je een rondleiding." />
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole." />
+				<subtitle lang="en" line="Let’s go! Here is a tour of what’s on show." />
+				<subtitle lang="nz" line="Let’s go! Here is a tour of what’s on show." />
+			</subtitles>
+		</line>
+		<line words="El estacionamiento y la puerta principal." start="39366" length="3348" >
+			<highlight index="0" start="409" length="200" />
+			<highlight index="1" start="594" length="1125" />
+			<highlight index="2" start="1711" length="149" />
+			<highlight index="3" start="1889" length="151" />
+			<highlight index="4" start="2021" length="422" />
+			<highlight index="5" start="2448" length="625" />
+			<subtitles>
+				<subtitle lang="nl" line="Hier de parkeerplaats, hier de ingang." />
+				<subtitle lang="dk" line="Her er parkeringspladsen, her er kontoret." />
+				<subtitle lang="en" line="Here is the car park and here is the front door." />
+				<subtitle lang="nz" line="Here is the car park and here is the front door." />
+			</subtitles>
+		</line>
+		<line words="Aquí está el salón y la cafetería." start="42580" length="3615" >
+			<highlight index="0" start="292" length="203" />
+			<highlight index="1" start="475" length="152" />
+			<highlight index="2" start="613" length="117" />
+			<highlight index="3" start="725" length="635" />
+			<highlight index="4" start="1789" length="200" />
+			<highlight index="5" start="1968" length="154" />
+			<highlight index="6" start="2121" length="1217" />
+			<subtitles>
+				<subtitle lang="nl" line="Hier een klaslokaal en de keuken." />
+				<subtitle lang="dk" line="Her er et klasseværelse og køkkenet." />
+				<subtitle lang="en" line="Here is the classroom and the canteen." />
+				<subtitle lang="nz" line="Here is the classroom and the canteen." />
+			</subtitles>
+		</line>
+		<line words="Aquí está el patio y las canchas." start="46061" length="3214" >
+			<highlight index="0" start="292" length="203" />
+			<highlight index="1" start="475" length="152" />
+			<highlight index="2" start="613" length="155" />
+			<highlight index="3" start="754" length="635" />
+			<highlight index="4" start="1881" length="276" />
+			<highlight index="5" start="2142" length="373" />
+			<highlight index="6" start="2504" length="424" />
+			<subtitles>
+				<subtitle lang="nl" line="Hier is het schoolplein en het sportveld." />
+				<subtitle lang="dk" line="Her er legepladsen og sportspladsen." />
+				<subtitle lang="en" line="Here is the playground  and the sports field." />
+				<subtitle lang="nz" line="Here is the playground  and the sports field." />
+			</subtitles>
+		</line>
+		<line words="La biblioteca para pedir libros." start="49275" length="2678" >
+			<highlight index="0" start="241" length="200" />
+			<highlight index="1" start="431" length="754" />
+			<highlight index="2" start="1421" length="309" />
+			<highlight index="3" start="1712" length="447" />
+			<highlight index="4" start="2138" length="471" />
+			<subtitles>
+				<subtitle lang="nl" line="En de bibliotheek, die is wat kleiner." />
+				<subtitle lang="dk" line="Men biblioteket er lille, synes jeg." />
+				<subtitle lang="en" line="Here is the library, you can borrow the books." />
+				<subtitle lang="nz" line="Here is the library, you can borrow the books." />
+			</subtitles>
+		</line>
+		<line words="En primaria o en secundaria," start="52488" length="3348" >
+			<highlight index="0" start="340" length="266" />
+			<highlight index="1" start="587" length="748" />
+			<highlight index="2" start="1666" length="213" />
+			<highlight index="3" start="1865" length="203" />
+			<highlight index="4" start="2040" length="803" />
+			<subtitles>
+				<subtitle lang="nl" line="Op de basisschool en middelbare school," />
+				<subtitle lang="dk" line="Både i de små og de store klasser." />
+				<subtitle lang="en" line="Whether at primary, whether at secondary," />
+				<subtitle lang="nz" line="Whether at primary, whether at secondary," />
+			</subtitles>
+		</line>
+		<line words="hay muchas materias que estudiar." start="55434" length="3481" >
+			<highlight index="0" start="295" length="271" />
+			<highlight index="1" start="531" length="332" />
+			<highlight index="2" start="845" length="778" />
+			<highlight index="3" start="2102" length="221" />
+			<highlight index="4" start="2294" length="721" />
+			<subtitles>
+				<subtitle lang="nl" line="moeten we heel veel leren." />
+				<subtitle lang="dk" line="Er der meget at lære." />
+				<subtitle lang="en" line="there are lots of subjects to learn." />
+				<subtitle lang="nz" line="there are lots of subjects to learn." />
+			</subtitles>
+		</line>
+		<line words="En Inglaterra o en Francia," start="59049" length="3348" >
+			<highlight index="0" start="284" length="266" />
+			<highlight index="1" start="535" length="837" />
+			<highlight index="2" start="1657" length="204" />
+			<highlight index="3" start="1841" length="332" />
+			<highlight index="4" start="2173" length="689" />
+			<subtitles>
+				<subtitle lang="nl" line="Ook in Engeland, en in Frankrijk," />
+				<subtitle lang="dk" line="Både i England og i Frankrig," />
+				<subtitle lang="en" line="Whether in England, whether in France," />
+				<subtitle lang="nz" line="Whether in England, whether in France," />
+			</subtitles>
+		</line>
+		<line words="estudiamos matemáticas y danza." start="61995" length="3347" >
+			<highlight index="0" start="411" length="1146" />
+			<highlight index="1" start="1543" length="851" />
+			<highlight index="2" start="2375" length="251" />
+			<highlight index="3" start="2601" length="610" />
+			<subtitles>
+				<subtitle lang="nl" line="leren ze wiskunde, en bewegen." />
+				<subtitle lang="dk" line="Hat vi matematik og dans." />
+				<subtitle lang="en" line="we study maths, and we study dance." />
+				<subtitle lang="nz" line="we study maths, and we study dance." />
+			</subtitles>
+		</line>
+		<line words="Bienvenido a la escuela." start="65075" length="2276" >
+			<highlight index="0" start="452" length="392" />
+			<highlight index="1" start="824" length="147" />
+			<highlight index="2" start="956" length="170" />
+			<highlight index="3" start="1113" length="697" />
+			<subtitles>
+				<subtitle lang="nl" line="Welkom op onze school ja ja." />
+				<subtitle lang="dk" line="Velkommen til vores sted." />
+				<subtitle lang="en" line="Welcome to our school." />
+				<subtitle lang="nz" line="Welcome to our school." />
+			</subtitles>
+		</line>
+		<line words="¡Vamos! Hagamos un tour de nuestra escuela." start="67217" length="5088" >
+			<highlight index="0" start="379" length="683" />
+			<highlight index="1" start="1467" length="309" />
+			<highlight index="2" start="1764" length="200" />
+			<highlight index="3" start="1973" length="813" />
+			<highlight index="4" start="2776" length="318" />
+			<highlight index="5" start="3079" length="302" />
+			<highlight index="6" start="3338" length="582" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik geef je een rondleiding." />
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole." />
+				<subtitle lang="en" line="Let’s go! We’re doing a tour of the school" />
+				<subtitle lang="nz" line="Let’s go! We’re doing a tour of the school" />
+			</subtitles>
+		</line>
+		<line words="Bienvenido a la escuela." start="71770" length="2008" >
+			<highlight index="0" start="321" length="392" />
+			<highlight index="1" start="701" length="147" />
+			<highlight index="2" start="833" length="170" />
+			<highlight index="3" start="988" length="697" />
+			<subtitles>
+				<subtitle lang="nl" line="Welkom op onze school ja ja." />
+				<subtitle lang="dk" line="Velkommen til vores sted." />
+				<subtitle lang="en" line="Welcome to our school." />
+				<subtitle lang="nz" line="Welcome to our school." />
+			</subtitles>
+		</line>
+		<line words="¡Vamos! Hagamos un tour para ver lo que hay." start="73645" length="4285" >
+			<highlight index="0" start="379" length="683" />
+			<highlight index="1" start="1467" length="309" />
+			<highlight index="2" start="1764" length="200" />
+			<highlight index="3" start="1973" length="675" />
+			<highlight index="4" start="2626" length="259" />
+			<highlight index="5" start="2849" length="403" />
+			<highlight index="6" start="3245" length="223" />
+			<highlight index="7" start="3432" length="200" />
+			<highlight index="8" start="3618" length="518" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik geef je een rondleiding." />
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole." />
+				<subtitle lang="en" line="Let’s go! Here is a tour of what’s on show." />
+				<subtitle lang="nz" line="Let’s go! Here is a tour of what’s on show." />
+			</subtitles>
+		</line>
+		<line words="En ciencias naturales, mis ideas explotan." start="77662" length="3749" >
+			<highlight index="0" start="379" length="200" />
+			<highlight index="1" start="554" length="481" />
+			<highlight index="2" start="1012" length="719" />
+			<highlight index="3" start="1906" length="200" />
+			<highlight index="4" start="2087" length="583" />
+			<highlight index="5" start="2641" length="715" />
+			<subtitles>
+				<subtitle lang="nl" line="Bij scheikunde ontploffen mijn ideeën ." />
+				<subtitle lang="dk" line="I nature, eksploderer mine edeer." />
+				<subtitle lang="en" line="In science class my ideas explode." />
+				<subtitle lang="nz" line="In science class my ideas explode." />
+			</subtitles>
+		</line>
+		<line words="En historia, aprendemos sobre el pasado." start="81277" length="4000" >
+			<highlight index="0" start="350" length="215" />
+			<highlight index="1" start="543" length="685" />
+			<highlight index="2" start="1312" length="673" />
+			<highlight index="3" start="1963" length="232" />
+			<highlight index="4" start="2172" length="200" />
+			<highlight index="5" start="2364" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="Bij geschiedenis leer ik de koningen." />
+				<subtitle lang="dk" line="Og I historie lærer vi om konger." />
+				<subtitle lang="en" line="In history class we learn about the past." />
+				<subtitle lang="nz" line="In history class we learn about the past." />
+			</subtitles>
+		</line>
+		<line words="En TIC, aprendemos cosas útiles." start="84624" length="3482" >
+			<highlight index="0" start="157" length="278" />
+			<highlight index="1" start="404" length="659" />
+			<highlight index="2" start="1044" length="966" />
+			<highlight index="3" start="1973" length="411" />
+			<highlight index="4" start="2372" length="691" />
+			<subtitles>
+				<subtitle lang="nl" line="Bij informatica leer ik nuttige dingen." />
+				<subtitle lang="dk" line="I IT lærer vi nyttige ting." />
+				<subtitle lang="en" line="In ICT we learn useful things." />
+				<subtitle lang="nz" line="In ICT we learn useful things." />
+			</subtitles>
+		</line>
+		<line words="En geografía, exploramos la Tierra." start="87972" length="3482" >
+			<highlight index="0" start="157" length="278" />
+			<highlight index="1" start="404" length="659" />
+			<highlight index="2" start="1044" length="812" />
+			<highlight index="3" start="1841" length="316" />
+			<highlight index="4" start="2137" length="691" />
+			<subtitles>
+				<subtitle lang="nl" line="En bij aardrijkskunde verkennen we de aarde." />
+				<subtitle lang="dk" line="Endelig udforsker vi jorden I geografi." />
+				<subtitle lang="en" line="In geography we explore the earth." />
+				<subtitle lang="nz" line="In geography we explore the earth." />
+			</subtitles>
+		</line>
+		<line words="En primaria o en secundaria," start="90918" length="3213" >
+			<highlight index="0" start="291" length="266" />
+			<highlight index="1" start="541" length="778" />
+			<highlight index="2" start="1720" length="213" />
+			<highlight index="3" start="1919" length="203" />
+			<highlight index="4" start="2094" length="741" />
+			<subtitles>
+				<subtitle lang="nl" line="Op de basisschool en middelbare school," />
+				<subtitle lang="dk" line="Både i de små og de store klasser." />
+				<subtitle lang="en" line="Whether at primary, whether at secondary," />
+				<subtitle lang="nz" line="Whether at primary, whether at secondary," />
+			</subtitles>
+		</line>
+		<line words="hay muchas materias que estudiar." start="93596" length="3481" >
+			<highlight index="0" start="295" length="271" />
+			<highlight index="1" start="531" length="332" />
+			<highlight index="2" start="845" length="778" />
+			<highlight index="3" start="2210" length="221" />
+			<highlight index="4" start="2427" length="721" />
+			<subtitles>
+				<subtitle lang="nl" line="moeten we heel veel leren." />
+				<subtitle lang="dk" line="Er der meget at lære." />
+				<subtitle lang="en" line="there are lots of subjects to learn." />
+				<subtitle lang="nz" line="there are lots of subjects to learn." />
+			</subtitles>
+		</line>
+		<line words="En Inglaterra o en Francia," start="97077" length="3348" >
+			<highlight index="0" start="369" length="266" />
+			<highlight index="1" start="615" length="837" />
+			<highlight index="2" start="1960" length="204" />
+			<highlight index="3" start="2149" length="417" />
+			<highlight index="4" start="2547" length="613" />
+			<subtitles>
+				<subtitle lang="nl" line="Ook in Engeland, en in Frankrijk," />
+				<subtitle lang="dk" line="Både i England og i Frankrig," />
+				<subtitle lang="en" line="Whether in England, whether in France," />
+				<subtitle lang="nz" line="Whether in England, whether in France," />
+			</subtitles>
+		</line>
+		<line words="estudiamos matemáticas y danza." start="100425" length="3480" >
+			<highlight index="0" start="403" length="1053" />
+			<highlight index="1" start="1422" length="837" />
+			<highlight index="2" start="2249" length="251" />
+			<highlight index="3" start="2480" length="610" />
+			<subtitles>
+				<subtitle lang="nl" line="leren ze wiskunde, en bewegen." />
+				<subtitle lang="dk" line="Hat vi matematik og dans." />
+				<subtitle lang="en" line="we study maths, and we study dance." />
+				<subtitle lang="nz" line="we study maths, and we study dance." />
+			</subtitles>
+		</line>
+		<line words="Ayer, ayer…" start="106316" length="3197" >
+			<highlight index="0" start="538" length="601" />
+			<highlight index="1" start="2107" length="733" />
+			<subtitles>
+				<subtitle lang="nl" line="Gisteren, Gisteren…" />
+				<subtitle lang="dk" line="I går, i går…" />
+				<subtitle lang="en" line="Yesterday, yesterday…" />
+				<subtitle lang="nz" line="Yesterday, yesterday…" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="109931" length="1607" >
+			<highlight index="0" start="423" length="116" />
+			<highlight index="1" start="525" length="264" />
+			<highlight index="2" start="778" length="668" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="111404" length="1607" >
+			<highlight index="0" start="423" length="116" />
+			<highlight index="1" start="525" length="264" />
+			<highlight index="2" start="778" length="668" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="113011" length="1607" >
+			<highlight index="0" start="423" length="116" />
+			<highlight index="1" start="540" length="319" />
+			<highlight index="2" start="856" length="526" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="114484" length="1607" >
+			<highlight index="0" start="423" length="174" />
+			<highlight index="1" start="600" length="259" />
+			<highlight index="2" start="856" length="526" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Ayer jugué, jugué en el patio." start="116091" length="3615" >
+			<highlight index="0" start="548" length="347" />
+			<highlight index="1" start="871" length="537" />
+			<highlight index="2" start="2042" length="320" />
+			<highlight index="3" start="2346" length="159" />
+			<highlight index="4" start="2500" length="164" />
+			<highlight index="5" start="2679" length="503" />
+			<subtitles>
+				<subtitle lang="nl" line="Gisteren speelde ik, speelde ik op het schoolplein." />
+				<subtitle lang="dk" line="I går legede jeg på legepladsen, jeg legede på legepladsen." />
+				<subtitle lang="en" line="Yesterday I played, I played in the playground." />
+				<subtitle lang="nz" line="Yesterday I played, I played in the playground." />
+			</subtitles>
+		</line>
+		<line words="Ayer canté, canté en el coro." start="119438" length="3615" >
+			<highlight index="0" start="548" length="347" />
+			<highlight index="1" start="871" length="537" />
+			<highlight index="2" start="1942" length="379" />
+			<highlight index="3" start="2310" length="185" />
+			<highlight index="4" start="2479" length="184" />
+			<highlight index="5" start="2638" length="503" />
+			<subtitles>
+				<subtitle lang="nl" line="Gisteren zong ik, zong ik in het koor." />
+				<subtitle lang="dk" line="I går sang jeg, jeg sang i kor." />
+				<subtitle lang="en" line="Yesterday I sang, I sang in the choir." />
+				<subtitle lang="nz" line="Yesterday I sang, I sang in the choir." />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="122652" length="1607" >
+			<highlight index="0" start="384" length="155" />
+			<highlight index="1" start="525" length="264" />
+			<highlight index="2" start="778" length="668" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="124125" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="497" length="264" />
+			<highlight index="2" start="754" length="668" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="125732" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="509" length="341" />
+			<highlight index="2" start="852" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="127472" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="509" length="341" />
+			<highlight index="2" start="852" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Ayer trabajé, trabajé en el salón." start="128811" length="3615" >
+			<highlight index="0" start="613" length="581" />
+			<highlight index="1" start="1165" length="598" />
+			<highlight index="2" start="1743" length="440" />
+			<highlight index="3" start="2162" length="220" />
+			<highlight index="4" start="2387" length="194" />
+			<highlight index="5" start="2576" length="503" />
+			<subtitles>
+				<subtitle lang="nl" line="Gisteren werkte ik, werkte ik in het klaslokaal." />
+				<subtitle lang="dk" line="I går arbejdede jeg, jeg arbejdede I klasseværelset." />
+				<subtitle lang="en" line="Yesterday I worked, I worked in the classroom." />
+				<subtitle lang="nz" line="Yesterday I worked, I worked in the classroom." />
+			</subtitles>
+		</line>
+		<line words="Ayer hablé, hablé con Miss Broom." start="132025" length="3615" >
+			<highlight index="0" start="582" length="435" />
+			<highlight index="1" start="996" length="598" />
+			<highlight index="2" start="2091" length="260" />
+			<highlight index="3" start="2326" length="271" />
+			<highlight index="4" start="2587" length="281" />
+			<highlight index="5" start="2847" length="599" />
+			<subtitles>
+				<subtitle lang="nl" line="Gisteren sprak ik, sprak ik met juf Bloem." />
+				<subtitle lang="dk" line="I går talte jeg, jeg talte med fru Broom." />
+				<subtitle lang="en" line="Yesterday I spoke, I spoke with Mrs Broom." />
+				<subtitle lang="nz" line="Yesterday I worked, I worked in the classroom." />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="135506" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="509" length="341" />
+			<highlight index="2" start="852" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="137113" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="500" length="341" />
+			<highlight index="2" start="827" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="138720" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="500" length="341" />
+			<highlight index="2" start="827" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="¿Qué hiciste ayer?" start="140327" length="1607" >
+			<highlight index="0" start="352" length="155" />
+			<highlight index="1" start="500" length="341" />
+			<highlight index="2" start="827" length="570" />
+			<subtitles>
+				<subtitle lang="nl" line="Wat deed jij gisteren?" />
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+				<subtitle lang="nz" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

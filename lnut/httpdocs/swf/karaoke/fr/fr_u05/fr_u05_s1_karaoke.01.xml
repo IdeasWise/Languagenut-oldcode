@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="253152" >
+	<lines>
+		<line words="C'est qui qui galope?" start="10475" length="2837" >
+			<highlight index="0" start="311" length="336" />
+			<highlight index="1" start="713" length="489" />
+			<highlight index="2" start="1285" length="601" />
+			<highlight index="3" start="1882" length="523" />
+			<subtitles>
+				<subtitle lang="nl" line="Wie gaat daar in gallop?" />
+				<subtitle lang="dk" line="Hvem er det der galopperer?" />
+				<subtitle lang="en" line="Who's that galloping? " />
+			</subtitles>
+		</line>
+		<line words="C'est qui qui galope?" start="13530" length="4000" >
+			<highlight index="0" start="567" length="602" />
+			<highlight index="1" start="1122" length="240" />
+			<highlight index="2" start="1385" length="532" />
+			<highlight index="3" start="1924" length="878" />
+			<subtitles>
+				<subtitle lang="nl" line="Wie gaat daar in gallop?" />
+				<subtitle lang="dk" line="Hvem er det der galopperer?" />
+				<subtitle lang="en" line="Who's that galloping? " />
+			</subtitles>
+		</line>
+		<line words="Le cheval galope, le cheval galope." start="18415" length="7543" >
+			<highlight index="0" start="1216" length="418" />
+			<highlight index="1" start="1710" length="780" />
+			<highlight index="2" start="2631" length="778" />
+			<highlight index="3" start="4100" length="395" />
+			<highlight index="4" start="4374" length="1085" />
+			<highlight index="5" start="5481" length="1250" />
+			<subtitles>
+				<subtitle lang="nl" line="Het paard gaat in galop, het paard gaat in galop." />
+				<subtitle lang="dk" line="Hesten galopperer, hesten galopperer." />
+				<subtitle lang="en" line="The horse is galloping, the horse is galloping." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le cheval le cheval" start="26846" length="9318" >
+			<highlight index="0" start="1746" length="1057" />
+			<highlight index="1" start="2505" length="487" />
+			<highlight index="2" start="2898" length="393" />
+			<highlight index="3" start="3263" length="691" />
+			<highlight index="4" start="5240" length="366" />
+			<highlight index="5" start="5593" length="962" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! dat roept het paard, het paard." />
+				<subtitle lang="dk" line="Yippee! råber hesten, hesten." />
+				<subtitle lang="en" line="Yippee! shouts the horse, the horse" />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le cheval le cheval" start="35720" length="9318" >
+			<highlight index="0" start="1652" length="1057" />
+			<highlight index="1" start="2437" length="487" />
+			<highlight index="2" start="2830" length="393" />
+			<highlight index="3" start="3263" length="691" />
+			<highlight index="4" start="5078" length="447" />
+			<highlight index="5" start="5471" length="962" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! dat roept het paard, het paard." />
+				<subtitle lang="dk" line="Yippee! råber hesten, hesten." />
+				<subtitle lang="en" line="Yippee! shouts the horse, the horse" />
+			</subtitles>
+		</line>
+		<line words="C'est qui qui trottine? C'est qui qui trottine?" start="49254" length="8431" >
+			<highlight index="0" start="882" length="551" />
+			<highlight index="1" start="1482" length="294" />
+			<highlight index="2" start="1776" length="624" />
+			<highlight index="3" start="2328" length="1017" />
+			<highlight index="4" start="3982" length="367" />
+			<highlight index="5" start="4398" length="405" />
+			<highlight index="6" start="4803" length="649" />
+			<highlight index="7" start="5379" length="1299" />
+			<subtitles>
+				<subtitle lang="nl" line="Wie trippelt? Wie trippelt?" />
+				<subtitle lang="dk" line="Hvem er det der tripper? Hvem er det der tripper?" />
+				<subtitle lang="en" line="Who's that scamperinging? Who's that scamperinging?" />
+			</subtitles>
+		</line>
+		<line words="La souris trottine, la souris trottine." start="57685" length="8874" >
+			<highlight index="0" start="1173" length="297" />
+			<highlight index="1" start="1470" length="1122" />
+			<highlight index="2" start="2553" length="761" />
+			<highlight index="3" start="4294" length="336" />
+			<highlight index="4" start="4604" length="1083" />
+			<highlight index="5" start="5649" length="1186" />
+			<subtitles>
+				<subtitle lang="nl" line="De muis die trippelt ja, de muis die trippelt ja." />
+				<subtitle lang="dk" line="Musen tripper, musen tripper." />
+				<subtitle lang="en" line="The mouse is scampering, the mouse is scampering." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie la souris, la souris" start="66560" length="8653" >
+			<highlight index="0" start="1358" length="729" />
+			<highlight index="1" start="2100" length="300" />
+			<highlight index="2" start="2389" length="401" />
+			<highlight index="3" start="2804" length="855" />
+			<highlight index="4" start="4741" length="413" />
+			<highlight index="5" start="5093" length="767" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! roept de muis, roept de muis." />
+				<subtitle lang="dk" line="Yippee! råber musen, musen." />
+				<subtitle lang="en" line="Yippee! Shouts the mouse, the mouse" />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie la souris, la souris" start="74991" length="8653" >
+			<highlight index="0" start="1496" length="805" />
+			<highlight index="1" start="2276" length="300" />
+			<highlight index="2" start="2502" length="401" />
+			<highlight index="3" start="2892" length="855" />
+			<highlight index="4" start="4753" length="516" />
+			<highlight index="5" start="5131" length="767" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! roept de muis, roept de muis." />
+				<subtitle lang="dk" line="Yippee! råber musen, musen." />
+				<subtitle lang="en" line="Yippee! Shouts the mouse, the mouse" />
+			</subtitles>
+		</line>
+		<line words="C'est qui qui sautille? C'est qui qui sautille?" start="88081" length="9319" >
+			<highlight index="0" start="1151" length="579" />
+			<highlight index="1" start="1774" length="460" />
+			<highlight index="2" start="2356" length="390" />
+			<highlight index="3" start="2911" length="813" />
+			<highlight index="4" start="4415" length="393" />
+			<highlight index="5" start="4794" length="538" />
+			<highlight index="6" start="5363" length="471" />
+			<highlight index="7" start="5810" length="1192" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie hupt daar toch? Hee wie hupt daar toch?" />
+				<subtitle lang="dk" line="Hvem er det der hopper forbi? Hvem er det der hopper forbi?" />
+				<subtitle lang="en" line="Who's that hopping? Who's that hopping?" />
+			</subtitles>
+		</line>
+		<line words="Le lapin sautille, le lapin sautille." start="97622" length="7321" >
+			<highlight index="0" start="489" length="455" />
+			<highlight index="1" start="893" length="830" />
+			<highlight index="2" start="1691" length="958" />
+			<highlight index="3" start="3755" length="458" />
+			<highlight index="4" start="4213" length="626" />
+			<highlight index="5" start="4830" length="902" />
+			<subtitles>
+				<subtitle lang="nl" line="Het konijn hupt ja hupt, het konijn hupt ja hupt." />
+				<subtitle lang="dk" line="Kaninen hopper forbi, kaninen hopper forbi." />
+				<subtitle lang="en" line="The rabbits hopping, the rabbits hopping." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le lapin, le lapin" start="105165" length="8875" >
+			<highlight index="0" start="1885" length="608" />
+			<highlight index="1" start="2457" length="475" />
+			<highlight index="2" start="2923" length="298" />
+			<highlight index="3" start="3173" length="740" />
+			<highlight index="4" start="5440" length="251" />
+			<highlight index="5" start="5631" length="728" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! roept het konijn, het konijn." />
+				<subtitle lang="dk" line="Yippee! råber kaninen, kaninen." />
+				<subtitle lang="en" line="Yippee! shouts the rabbit, the rabbit." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le lapin, le lapin." start="113818" length="8209" >
+			<highlight index="0" start="1885" length="608" />
+			<highlight index="1" start="2457" length="475" />
+			<highlight index="2" start="2923" length="298" />
+			<highlight index="3" start="3173" length="740" />
+			<highlight index="4" start="5440" length="251" />
+			<highlight index="5" start="5631" length="728" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! roept het konijn, het konijn." />
+				<subtitle lang="dk" line="Yippee! råber kaninen, kaninen." />
+				<subtitle lang="en" line="Yippee! shouts the rabbit, the rabbit." />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui court?" start="127574" length="3550" >
+			<highlight index="0" start="933" length="398" />
+			<highlight index="1" start="1300" length="464" />
+			<highlight index="2" start="1723" length="572" />
+			<highlight index="3" start="2254" length="537" />
+			<highlight index="4" start="2765" length="779" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie rent daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der løber?" />
+				<subtitle lang="en" line="And who's that running?" />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui court?" start="130680" length="4881" >
+			<highlight index="0" start="933" length="398" />
+			<highlight index="1" start="1300" length="464" />
+			<highlight index="2" start="1723" length="572" />
+			<highlight index="3" start="2254" length="537" />
+			<highlight index="4" start="2765" length="779" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie rent daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der løber?" />
+				<subtitle lang="en" line="And who's that running?" />
+			</subtitles>
+		</line>
+		<line words="Ay, le mouton court. Ay le mouton court" start="136227" length="8875" >
+			<highlight index="0" start="838" length="735" />
+			<highlight index="1" start="1547" length="491" />
+			<highlight index="2" start="1947" length="813" />
+			<highlight index="3" start="2708" length="941" />
+			<highlight index="4" start="4424" length="464" />
+			<highlight index="5" start="4837" length="335" />
+			<highlight index="6" start="5146" length="864" />
+			<highlight index="7" start="5946" length="787" />
+			<subtitles>
+				<subtitle lang="nl" line="Het schaap rent ja rent. Het schaap rent ja rent." />
+				<subtitle lang="dk" line="Fåret løber. Fåret løber." />
+				<subtitle lang="en" line="The sheep is running, the sheep is running." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le mouton, le mouton." start="145323" length="8431" >
+			<highlight index="0" start="955" length="580" />
+			<highlight index="1" start="1494" length="503" />
+			<highlight index="2" start="1825" length="360" />
+			<highlight index="3" start="2144" length="907" />
+			<highlight index="4" start="4349" length="384" />
+			<highlight index="5" start="4668" length="845" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept het schaap, het schaap." />
+				<subtitle lang="dk" line="Yippee! Råber fåret, fåret." />
+				<subtitle lang="en" line="Yippee! shouts the sheep, the sheep." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le mouton, le mouton." start="153976" length="8431" >
+			<highlight index="0" start="955" length="580" />
+			<highlight index="1" start="1494" length="503" />
+			<highlight index="2" start="1825" length="360" />
+			<highlight index="3" start="2144" length="907" />
+			<highlight index="4" start="4349" length="384" />
+			<highlight index="5" start="4668" length="845" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept het schaap, het schaap." />
+				<subtitle lang="dk" line="Yippee! Råber fåret, fåret." />
+				<subtitle lang="en" line="Yippee! shouts the sheep, the sheep." />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui danse?" start="166623" length="4215" >
+			<highlight index="0" start="1353" length="276" />
+			<highlight index="1" start="1660" length="325" />
+			<highlight index="2" start="2168" length="282" />
+			<highlight index="3" start="2664" length="243" />
+			<highlight index="4" start="2971" length="729" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie danst daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der danser?" />
+				<subtitle lang="en" line="And who's that dancing?" />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui danse?" start="170838" length="4215" >
+			<highlight index="0" start="300" length="276" />
+			<highlight index="1" start="563" length="325" />
+			<highlight index="2" start="900" length="282" />
+			<highlight index="3" start="1415" length="243" />
+			<highlight index="4" start="1641" length="729" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie danst daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der danser?" />
+				<subtitle lang="en" line="And who's that dancing?" />
+			</subtitles>
+		</line>
+		<line words="La p'tite vache danse, la p'tite vache danse." start="175276" length="9762" >
+			<highlight index="0" start="1376" length="299" />
+			<highlight index="1" start="1688" length="793" />
+			<highlight index="2" start="2426" length="880" />
+			<highlight index="3" start="3249" length="795" />
+			<highlight index="4" start="4440" length="312" />
+			<highlight index="5" start="4724" length="624" />
+			<highlight index="6" start="5292" length="922" />
+			<highlight index="7" start="6185" length="795" />
+			<subtitles>
+				<subtitle lang="nl" line="De koe danst ja danst, de koe danst ja danst." />
+				<subtitle lang="dk" line="Det er koen der danser, det er koen der danser." />
+				<subtitle lang="en" line="The little cow is dancing, the little cow is dancing." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie la vache, la p'tite vache." start="185260" length="8431" >
+			<highlight index="0" start="416" length="580" />
+			<highlight index="1" start="980" length="503" />
+			<highlight index="2" start="1519" length="360" />
+			<highlight index="3" start="1923" length="907" />
+			<highlight index="4" start="3823" length="384" />
+			<highlight index="5" start="4141" length="405" />
+			<highlight index="6" start="4497" length="759" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept de koe, de koe." />
+				<subtitle lang="dk" line="Yippee! råber anden, anden." />
+				<subtitle lang="en" line="Yippee! shouts the cow, the little cow." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie la vache, la p'tite vache." start="193913" length="8431" >
+			<highlight index="0" start="416" length="580" />
+			<highlight index="1" start="980" length="503" />
+			<highlight index="2" start="1519" length="360" />
+			<highlight index="3" start="1923" length="907" />
+			<highlight index="4" start="3823" length="384" />
+			<highlight index="5" start="4141" length="405" />
+			<highlight index="6" start="4497" length="759" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept de koe, de koe." />
+				<subtitle lang="dk" line="Yippee! råber anden, anden." />
+				<subtitle lang="en" line="Yippee! shouts the cow, the little cow." />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui nage?" start="207003" length="3328" >
+			<highlight index="0" start="297" length="298" />
+			<highlight index="1" start="553" length="468" />
+			<highlight index="2" start="1096" length="351" />
+			<highlight index="3" start="1436" length="393" />
+			<highlight index="4" start="1851" length="628" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie zwemt daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der svømmer?" />
+				<subtitle lang="en" line="And who's that swimming?" />
+			</subtitles>
+		</line>
+		<line words="Et c'est qui qui nage?" start="210109" length="2775" >
+			<highlight index="0" start="297" length="298" />
+			<highlight index="1" start="553" length="468" />
+			<highlight index="2" start="1096" length="351" />
+			<highlight index="3" start="1436" length="393" />
+			<highlight index="4" start="1851" length="628" />
+			<subtitles>
+				<subtitle lang="nl" line="Hee wie zwemt daar toch?" />
+				<subtitle lang="dk" line="Og hvem er det der svømmer?" />
+				<subtitle lang="en" line="And who's that swimming?" />
+			</subtitles>
+		</line>
+		<line words="Ay, le canard nage. Ay le canard nage." start="214103" length="9540" >
+			<highlight index="0" start="1691" length="277" />
+			<highlight index="1" start="2176" length="430" />
+			<highlight index="2" start="2523" length="943" />
+			<highlight index="3" start="3396" length="665" />
+			<highlight index="4" start="4728" length="430" />
+			<highlight index="5" start="5116" length="402" />
+			<highlight index="6" start="5490" length="1095" />
+			<highlight index="7" start="6544" length="860" />
+			<subtitles>
+				<subtitle lang="nl" line="De eend zwemt ja zwemt. De eend zwemt ja zwemt." />
+				<subtitle lang="dk" line="Det er anden der svømmer, det er anden der svømmer." />
+				<subtitle lang="en" line="The duck is swimming, the duck is swimming." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le canard, le canard." start="224530" length="8431" >
+			<highlight index="0" start="416" length="580" />
+			<highlight index="1" start="980" length="503" />
+			<highlight index="2" start="1519" length="360" />
+			<highlight index="3" start="1923" length="907" />
+			<highlight index="4" start="3823" length="384" />
+			<highlight index="5" start="4141" length="674" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept de eend, de eend." />
+				<subtitle lang="dk" line="Yippee! råber anden, anden." />
+				<subtitle lang="en" line="Yippee! shouts the duck, the duck." />
+			</subtitles>
+		</line>
+		<line words="Youpi! crie le canard, le canard." start="233183" length="8431" >
+			<highlight index="0" start="416" length="580" />
+			<highlight index="1" start="980" length="503" />
+			<highlight index="2" start="1519" length="360" />
+			<highlight index="3" start="1923" length="907" />
+			<highlight index="4" start="3823" length="384" />
+			<highlight index="5" start="4141" length="1054" />
+			<subtitles>
+				<subtitle lang="nl" line="Jippie! Dat roept de eend, de eend." />
+				<subtitle lang="dk" line="Yippee! råber anden, anden." />
+				<subtitle lang="en" line="Yippee! shouts the duck, the duck." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

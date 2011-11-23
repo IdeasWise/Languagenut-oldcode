@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<data>
+	<years>
+		<year id="8" title="3rd Year" />
+		<year id="2" title="4th Year" />
+		<year id="3" title="5th Year" />
+		<year id="4" title="6th Year" />
+	</years>
+	<languages>
+		<language id="3" title="French" />
+		<language id="4" title="Spanish" />
+		<language id="5" title="Italian" />
+		<language id="6" title="German" />
+		<language id="7" title="Chinese" />
+		<language id="9" title="Welsh" />
+		<language id="10" title="Japanese" />
+		<language id="11" title="Japanese phonetics" />
+		<language id="12" title="Chinese characters" />
+		<language id="13" title="Japanese Hiragana" />
+		<language id="14" title="English" />
+		<language id="15" title="Arabic" />
+		<language id="16" title="Arabic script" />
+		<language id="17" title="aMaori" />
+		<language id="18" title="aPortuguese" />
+		<language id="19" title="Indonesian" />
+		<language id="20" title="Danish" />
+		<language id="21" title="Dutch" />
+	</languages>
+</data>

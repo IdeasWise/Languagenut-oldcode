@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="520907" >
+	<lines>
+		<line words="Alrededor del mundo" start="0" length="6385" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1725" length="854" />
+				<highlight index="1" start="2674" length="271" />
+				<highlight index="2" start="2914" length="519" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Around the World " />
+				<subtitle lang="nz" line="Around the World " />
+			</subtitles>
+		</line>
+		<line words="Una mañana Emil se despierta como siempre. A Emil le gusta su rutina. Siempre le da de comer al gato por la mañana. ¡Pero algo raro pasa esta mañana!" start="6385" length="18246" useLNutResource="true" image="11#1#1" >
+			<highlights>
+				<highlight index="0" start="850" length="200" />
+				<highlight index="1" start="1051" length="600" />
+				<highlight index="2" start="1950" length="539" />
+				<highlight index="3" start="2492" length="200" />
+				<highlight index="4" start="2691" length="663" />
+				<highlight index="5" start="3354" length="367" />
+				<highlight index="6" start="3712" length="878" />
+				<highlight index="7" start="5218" length="200" />
+				<highlight index="8" start="5407" length="536" />
+				<highlight index="9" start="5950" length="200" />
+				<highlight index="10" start="6146" length="308" />
+				<highlight index="11" start="6454" length="200" />
+				<highlight index="12" start="6637" length="915" />
+				<highlight index="13" start="8075" length="398" />
+				<highlight index="14" start="8465" length="200" />
+				<highlight index="15" start="8654" length="200" />
+				<highlight index="16" start="8851" length="200" />
+				<highlight index="17" start="9049" length="550" />
+				<highlight index="18" start="9565" length="200" />
+				<highlight index="19" start="9728" length="421" />
+				<highlight index="20" start="10106" length="200" />
+				<highlight index="21" start="10295" length="200" />
+				<highlight index="22" start="10493" length="1169" />
+				<highlight index="23" start="12104" length="288" />
+				<highlight index="24" start="12379" length="426" />
+				<highlight index="25" start="12780" length="400" />
+				<highlight index="26" start="13118" length="526" />
+				<highlight index="27" start="13644" length="489" />
+				<highlight index="28" start="14144" length="1465" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="One morning Emil wakes up as usual. Emil likes his routines. He always feeds his cat in the morning. But this morning something is wrong!" />
+				<subtitle lang="nz" line="One morning Emil wakes up as usual. Emil likes his routines. He always feeds his cat in the morning. But this morning something is wrong!" />
+			</subtitles>
+		</line>
+		<line words="Su gato no está allí. Emil mira por todas partes pero no puede encontrar a su gato. Entonces ve una nota en la mesa de la cocina." start="24175" length="18245" useLNutResource="true" image="11#1#1" >
+			<highlights>
+				<highlight index="0" start="1847" length="248" />
+				<highlight index="1" start="2003" length="405" />
+				<highlight index="2" start="2341" length="235" />
+				<highlight index="3" start="2497" length="339" />
+				<highlight index="4" start="2784" length="598" />
+				<highlight index="5" start="4423" length="598" />
+				<highlight index="6" start="5021" length="411" />
+				<highlight index="7" start="5386" length="301" />
+				<highlight index="8" start="5568" length="463" />
+				<highlight index="9" start="5984" length="608" />
+				<highlight index="10" start="7155" length="503" />
+				<highlight index="11" start="7545" length="209" />
+				<highlight index="12" start="7702" length="435" />
+				<highlight index="13" start="8040" length="425" />
+				<highlight index="14" start="8404" length="208" />
+				<highlight index="15" start="8534" length="234" />
+				<highlight index="16" start="8716" length="1098" />
+				<highlight index="17" start="10720" length="1424" />
+				<highlight index="18" start="12047" length="390" />
+				<highlight index="19" start="12307" length="260" />
+				<highlight index="20" start="12437" length="417" />
+				<highlight index="21" start="12750" length="314" />
+				<highlight index="22" start="12984" length="208" />
+				<highlight index="23" start="13114" length="572" />
+				<highlight index="24" start="13660" length="260" />
+				<highlight index="25" start="13868" length="347" />
+				<highlight index="26" start="14103" length="1449" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="His cat is not there! Emil looks everywhere but cannot find his cat. Then he sees a note on the kitchen table." />
+				<subtitle lang="nz" line="His cat is not there! Emil looks everywhere but cannot find his cat. Then he sees a note on the kitchen table." />
+			</subtitles>
+		</line>
+		<line words="La nota dice: “si quieres que tu gato vuelva, tienes que viajar alrededor del mundo y recoger tres pistas. Debes empezar en España. Busca a alguien que este iendo al colegio en el país que visitas.”" start="42387" length="25603" useLNutResource="true" image="18#1#9" >
+			<highlights>
+				<highlight index="0" start="1486" length="200" />
+				<highlight index="1" start="1679" length="387" />
+				<highlight index="2" start="2069" length="583" />
+				<highlight index="3" start="3655" length="200" />
+				<highlight index="4" start="3857" length="505" />
+				<highlight index="5" start="4347" length="200" />
+				<highlight index="6" start="4546" length="230" />
+				<highlight index="7" start="4776" length="351" />
+				<highlight index="8" start="5122" length="852" />
+				<highlight index="9" start="6408" length="464" />
+				<highlight index="10" start="6857" length="200" />
+				<highlight index="11" start="7043" length="580" />
+				<highlight index="12" start="7612" length="1007" />
+				<highlight index="13" start="8619" length="200" />
+				<highlight index="14" start="8808" length="772" />
+				<highlight index="15" start="9831" length="252" />
+				<highlight index="16" start="10049" length="1135" />
+				<highlight index="17" start="11151" length="454" />
+				<highlight index="18" start="11588" length="1147" />
+				<highlight index="19" start="13661" length="671" />
+				<highlight index="20" start="14311" length="724" />
+				<highlight index="21" start="15021" length="200" />
+				<highlight index="22" start="15224" length="1194" />
+				<highlight index="23" start="17103" length="513" />
+				<highlight index="24" start="17585" length="257" />
+				<highlight index="25" start="17778" length="1173" />
+				<highlight index="26" start="18951" length="305" />
+				<highlight index="27" start="19272" length="200" />
+				<highlight index="28" start="19401" length="401" />
+				<highlight index="29" start="19738" length="265" />
+				<highlight index="30" start="19963" length="964" />
+				<highlight index="31" start="20976" length="200" />
+				<highlight index="32" start="21131" length="326" />
+				<highlight index="33" start="21406" length="601" />
+				<highlight index="34" start="21990" length="200" />
+				<highlight index="35" start="22162" length="1581" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="The note says: ‘If you want your cat back you have to travel around the world and collect 3 clues. You must start in Spain. Look for someone on their way to school in each country you visit.’ " />
+				<subtitle lang="nz" line="The note says: ‘If you want your cat back you have to travel around the world and collect 3 clues. You must start in Spain. Look for someone on their way to school in each country you visit.’ " />
+			</subtitles>
+		</line>
+		<line words="Emil quiere a su gato, y empieza a hacer la maleta inmediatamente. “¿Qué haces, cariño?” Le pregunta su madre. “Voy a hacer un viaje alrededor del mundo para salvar a mi gato,” dice Emil." start="66900" length="21960" useLNutResource="true" image="18#1#9" >
+			<highlights>
+				<highlight index="0" start="2562" length="743" />
+				<highlight index="1" start="3290" length="260" />
+				<highlight index="2" start="3544" length="129" />
+				<highlight index="3" start="3670" length="157" />
+				<highlight index="4" start="3821" length="668" />
+				<highlight index="5" start="4864" length="200" />
+				<highlight index="6" start="5054" length="461" />
+				<highlight index="7" start="5511" length="146" />
+				<highlight index="8" start="5653" length="326" />
+				<highlight index="9" start="5975" length="200" />
+				<highlight index="10" start="6164" length="563" />
+				<highlight index="11" start="6843" length="1996" />
+				<highlight index="12" start="9896" length="200" />
+				<highlight index="13" start="10080" length="383" />
+				<highlight index="14" start="10471" length="1553" />
+				<highlight index="15" start="11999" length="200" />
+				<highlight index="16" start="12182" length="441" />
+				<highlight index="17" start="12619" length="200" />
+				<highlight index="18" start="12765" length="1340" />
+				<highlight index="19" start="14756" length="243" />
+				<highlight index="20" start="14963" length="200" />
+				<highlight index="21" start="15120" length="547" />
+				<highlight index="22" start="15618" length="291" />
+				<highlight index="23" start="15924" length="598" />
+				<highlight index="24" start="16492" length="867" />
+				<highlight index="25" start="17344" length="200" />
+				<highlight index="26" start="17524" length="508" />
+				<highlight index="27" start="17972" length="299" />
+				<highlight index="28" start="18241" length="433" />
+				<highlight index="29" start="18659" length="239" />
+				<highlight index="30" start="18869" length="245" />
+				<highlight index="31" start="19078" length="1061" />
+				<highlight index="32" start="20124" length="443" />
+				<highlight index="33" start="20554" length="756" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil loves his cat, and starts packing straight away. §What are you doing darling?§ Asks his mum. §I’m going to a trip around the world to save my cat,§ Emil says. " />
+				<subtitle lang="nz" line="Emil loves his cat, and starts packing straight away. §What are you doing darling?§ Asks his mum. §I’m going to a trip around the world to save my cat,§ Emil says. " />
+			</subtitles>
+		</line>
+		<line words="“¡Muy bien, cariño. No te olvides el cepillo de dientes,” dice su madre." start="88349" length="7150" useLNutResource="true" image="4#3#3" >
+			<highlights>
+				<highlight index="0" start="416" length="137" />
+				<highlight index="1" start="555" length="200" />
+				<highlight index="2" start="755" length="686" />
+				<highlight index="3" start="2060" length="103" />
+				<highlight index="4" start="2153" length="100" />
+				<highlight index="5" start="2247" length="441" />
+				<highlight index="6" start="2673" length="193" />
+				<highlight index="7" start="2857" length="652" />
+				<highlight index="8" start="3492" length="142" />
+				<highlight index="9" start="3628" length="669" />
+				<highlight index="10" start="4705" length="322" />
+				<highlight index="11" start="5019" length="200" />
+				<highlight index="12" start="5212" length="612" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§OK darling. Don’t forget to brush your teeth!§ says his mum." />
+				<subtitle lang="nz" line="§OK darling. Don’t forget to brush your teeth!§ says his mum." />
+			</subtitles>
+		</line>
+		<line words="Emil encuentra su pasaporte y lo pone en su mochila." start="95499" length="9703" useLNutResource="true" image="7#6#8" >
+			<highlights>
+				<highlight index="0" start="3314" length="1076" />
+				<highlight index="1" start="4390" length="701" />
+				<highlight index="2" start="5091" length="200" />
+				<highlight index="3" start="5284" length="830" />
+				<highlight index="4" start="6826" length="200" />
+				<highlight index="5" start="7010" length="200" />
+				<highlight index="6" start="7211" length="200" />
+				<highlight index="7" start="7400" length="200" />
+				<highlight index="8" start="7574" length="200" />
+				<highlight index="9" start="7758" length="937" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil finds his passport and he puts it in his bag." />
+				<subtitle lang="nz" line="Emil finds his passport and he puts it in his bag." />
+			</subtitles>
+		</line>
+		<line words="Emil encuentra su dinero y lo pone en su mochila" start="103670" length="12768" useLNutResource="true" image="7#6#7" >
+			<highlights>
+				<highlight index="0" start="5359" length="961" />
+				<highlight index="1" start="6314" length="725" />
+				<highlight index="2" start="7036" length="200" />
+				<highlight index="3" start="7229" length="881" />
+				<highlight index="4" start="8781" length="200" />
+				<highlight index="5" start="8962" length="200" />
+				<highlight index="6" start="9154" length="378" />
+				<highlight index="7" start="9497" length="200" />
+				<highlight index="8" start="9684" length="200" />
+				<highlight index="9" start="9870" length="772" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil finds his money and He puts it in his bag." />
+				<subtitle lang="nz" line="Emil finds his money and He puts it in his bag." />
+			</subtitles>
+		</line>
+		<line words="Emil encuentra su pelota de fútbol y la pone en su mochila." start="116438" length="9703" useLNutResource="true" image="8#1#3" >
+			<highlights>
+				<highlight index="0" start="1927" length="948" />
+				<highlight index="1" start="2863" length="629" />
+				<highlight index="2" start="3486" length="200" />
+				<highlight index="3" start="3691" length="651" />
+				<highlight index="4" start="4347" length="200" />
+				<highlight index="5" start="4546" length="807" />
+				<highlight index="6" start="5950" length="200" />
+				<highlight index="7" start="6140" length="200" />
+				<highlight index="8" start="6333" length="320" />
+				<highlight index="9" start="6659" length="200" />
+				<highlight index="10" start="6875" length="224" />
+				<highlight index="11" start="7133" length="987" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil finds his football and He puts it in his bag." />
+				<subtitle lang="nz" line="Emil finds his football and He puts it in his bag." />
+			</subtitles>
+		</line>
+		<line words="Emil encuentra el teléfono de su padre y lo pone en su mochila." start="125119" length="11746" useLNutResource="true" image="8#4#8" >
+			<highlights>
+				<highlight index="0" start="3330" length="855" />
+				<highlight index="1" start="4179" length="544" />
+				<highlight index="2" start="4726" length="200" />
+				<highlight index="3" start="4929" length="670" />
+				<highlight index="4" start="5590" length="200" />
+				<highlight index="5" start="5796" length="200" />
+				<highlight index="6" start="5982" length="1036" />
+				<highlight index="7" start="7437" length="200" />
+				<highlight index="8" start="7641" length="200" />
+				<highlight index="9" start="7818" length="393" />
+				<highlight index="10" start="8206" length="200" />
+				<highlight index="11" start="8394" length="200" />
+				<highlight index="12" start="8582" length="803" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil finds his dad’s telephone and He puts it in his bag." />
+				<subtitle lang="nz" line="Emil finds his dad’s telephone and He puts it in his bag." />
+			</subtitles>
+		</line>
+		<line words="Va al ordenador y reserva un billete. Va a España, después a Méjico y después a Cuba." start="136355" length="15831" useLNutResource="true" image="8#4#6" >
+			<highlights>
+				<highlight index="0" start="1954" length="200" />
+				<highlight index="1" start="2144" length="200" />
+				<highlight index="2" start="2347" length="909" />
+				<highlight index="3" start="3329" length="200" />
+				<highlight index="4" start="3528" length="861" />
+				<highlight index="5" start="4385" length="200" />
+				<highlight index="6" start="4573" length="1090" />
+				<highlight index="7" start="6325" length="200" />
+				<highlight index="8" start="6517" length="200" />
+				<highlight index="9" start="6694" length="1172" />
+				<highlight index="10" start="8362" length="464" />
+				<highlight index="11" start="8817" length="200" />
+				<highlight index="12" start="9006" length="1092" />
+				<highlight index="13" start="10089" length="200" />
+				<highlight index="14" start="10269" length="808" />
+				<highlight index="15" start="11069" length="200" />
+				<highlight index="16" start="11269" length="1059" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He goes to the computer and reserves a ticket. He is going to Spain, then Mexico and then Cuba." />
+				<subtitle lang="nz" line="He goes to the computer and reserves a ticket. He is going to Spain, then Mexico and then Cuba." />
+			</subtitles>
+		</line>
+		<line words="Deja la casa. “¡Adiós, mamá!” le dice. “¡Adiós, cariño! Ten un buen día en el colegio,” le dice su madre." start="151165" length="13869" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="1063" length="206" />
+				<highlight index="1" start="1260" length="200" />
+				<highlight index="2" start="1459" length="680" />
+				<highlight index="3" start="2390" length="468" />
+				<highlight index="4" start="2849" length="495" />
+				<highlight index="5" start="4027" length="200" />
+				<highlight index="6" start="4217" length="923" />
+				<highlight index="7" start="5121" length="462" />
+				<highlight index="8" start="5560" length="897" />
+				<highlight index="9" start="7162" length="185" />
+				<highlight index="10" start="7364" length="150" />
+				<highlight index="11" start="7513" length="200" />
+				<highlight index="12" start="7700" length="291" />
+				<highlight index="13" start="7976" length="200" />
+				<highlight index="14" start="8186" length="200" />
+				<highlight index="15" start="8372" length="1086" />
+				<highlight index="16" start="9381" length="255" />
+				<highlight index="17" start="9585" length="485" />
+				<highlight index="18" start="10019" length="484" />
+				<highlight index="19" start="10427" length="637" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He leaves his house. §Bye mum!§ he calls. §Bye darling! Have a nice day at school.§ His mum says." />
+				<subtitle lang="nz" line="He leaves his house. §Bye mum!§ he calls. §Bye darling! Have a nice day at school.§ His mum says." />
+			</subtitles>
+		</line>
+		<line words="Se va al aeropuerto y recoge sus billetes. Se sube al avión, está nervioso, pero muy entusiasmado. " start="163932" length="16853" useLNutResource="true" image="7#6#3" >
+			<highlights>
+				<highlight index="0" start="1920" length="355" />
+				<highlight index="1" start="2230" length="200" />
+				<highlight index="2" start="2385" length="279" />
+				<highlight index="3" start="2602" length="960" />
+				<highlight index="4" start="3531" length="279" />
+				<highlight index="5" start="3717" length="558" />
+				<highlight index="6" start="4151" length="526" />
+				<highlight index="7" start="4585" length="681" />
+				<highlight index="8" start="8736" length="464" />
+				<highlight index="9" start="9170" length="526" />
+				<highlight index="10" start="9665" length="403" />
+				<highlight index="11" start="9975" length="620" />
+				<highlight index="12" start="10595" length="619" />
+				<highlight index="13" start="11152" length="868" />
+				<highlight index="14" start="12391" length="403" />
+				<highlight index="15" start="12825" length="403" />
+				<highlight index="16" start="13228" length="1022" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He goes to the airport and collects his ticket. He gets on the plane. He is nervous, but very excited." />
+				<subtitle lang="nz" line="He goes to the airport and collects his ticket. He gets on the plane. He is nervous, but very excited." />
+			</subtitles>
+		</line>
+		<line words="El avión aterriza en el aeropuerto de Barcelona. El aeropuerto se llama “aeropuerto del Prat.” Y entonces coge el tren a la ciudad." start="179763" length="16853" useLNutResource="true" image="7#4#1" >
+			<highlights>
+				<highlight index="0" start="2083" length="200" />
+				<highlight index="1" start="2268" length="400" />
+				<highlight index="2" start="2923" length="427" />
+				<highlight index="3" start="3344" length="200" />
+				<highlight index="4" start="3541" length="200" />
+				<highlight index="5" start="3733" length="618" />
+				<highlight index="6" start="4348" length="200" />
+				<highlight index="7" start="4549" length="837" />
+				<highlight index="8" start="6264" length="200" />
+				<highlight index="9" start="6461" length="948" />
+				<highlight index="10" start="7399" length="200" />
+				<highlight index="11" start="7596" length="499" />
+				<highlight index="12" start="8085" length="752" />
+				<highlight index="13" start="8824" length="200" />
+				<highlight index="14" start="9013" length="778" />
+				<highlight index="15" start="11136" length="200" />
+				<highlight index="16" start="11313" length="1131" />
+				<highlight index="17" start="12462" length="705" />
+				<highlight index="18" start="13156" length="200" />
+				<highlight index="19" start="13324" length="310" />
+				<highlight index="20" start="13611" length="200" />
+				<highlight index="21" start="13772" length="200" />
+				<highlight index="22" start="13941" length="1287" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="The plane lands at the airport in Barcelona. The airport is called ‘Prat’. Then Emil goes by train into the city." />
+				<subtitle lang="nz" line="The plane lands at the airport in Barcelona. The airport is called ‘Prat’. Then Emil goes by train into the city." />
+			</subtitles>
+		</line>
+		<line words="Emil mira alrededor. Está fascinado con los edificios. “¡Mira que formas!” dice. “Un famoso arquitecto llamado Gaudí las diseñó,” dice un transeúnte." start="196106" length="22470" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1969" length="722" />
+				<highlight index="1" start="2697" length="254" />
+				<highlight index="2" start="2942" length="1072" />
+				<highlight index="3" start="4858" length="425" />
+				<highlight index="4" start="5289" length="1207" />
+				<highlight index="5" start="6472" length="200" />
+				<highlight index="6" start="6640" length="200" />
+				<highlight index="7" start="6819" length="1381" />
+				<highlight index="8" start="8423" length="505" />
+				<highlight index="9" start="8909" length="200" />
+				<highlight index="10" start="9062" length="933" />
+				<highlight index="11" start="10015" length="1096" />
+				<highlight index="12" start="13055" length="229" />
+				<highlight index="13" start="13260" length="558" />
+				<highlight index="14" start="13761" length="718" />
+				<highlight index="15" start="14456" length="929" />
+				<highlight index="16" start="15329" length="786" />
+				<highlight index="17" start="16062" length="200" />
+				<highlight index="18" start="16256" length="1410" />
+				<highlight index="19" start="18304" length="427" />
+				<highlight index="20" start="18687" length="230" />
+				<highlight index="21" start="18864" length="1639" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil looks around. He is amazed at the buildings. §Look at the shapes!§ he says. §A famous architect called Gaudi designed them,§ says a passerby. " />
+				<subtitle lang="nz" line="Emil looks around. He is amazed at the buildings. §Look at the shapes!§ he says. §A famous architect called Gaudi designed them,§ says a passerby. " />
+			</subtitles>
+		</line>
+		<line words="Entonces ve a un niño que va al colegio. “¡Hola! ¿Vas al colegio?”" start="217555" length="10214" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="2054" length="891" />
+				<highlight index="1" start="3332" length="357" />
+				<highlight index="2" start="3704" length="124" />
+				<highlight index="3" start="3821" length="478" />
+				<highlight index="4" start="4293" length="200" />
+				<highlight index="5" start="4498" length="184" />
+				<highlight index="6" start="4670" length="163" />
+				<highlight index="7" start="4821" length="191" />
+				<highlight index="8" start="5009" length="1139" />
+				<highlight index="9" start="6681" length="1164" />
+				<highlight index="10" start="7816" length="200" />
+				<highlight index="11" start="7990" length="200" />
+				<highlight index="12" start="8187" length="921" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Then he sees a boy on his way to school. §Hello! Are you going to school?§" />
+				<subtitle lang="nz" line="Then he sees a boy on his way to school. §Hello! Are you going to school?§" />
+			</subtitles>
+		</line>
+		<line words="“Sí,” dice el niño. “Voy en bici. Tengo algo para tí.” El niño le da una foto arrugada a Emil y se va." start="227258" length="13789" useLNutResource="true" image="7#1#5" >
+			<highlights>
+				<highlight index="0" start="591" length="616" />
+				<highlight index="1" start="1531" length="200" />
+				<highlight index="2" start="1721" length="200" />
+				<highlight index="3" start="1908" length="869" />
+				<highlight index="4" start="3132" length="200" />
+				<highlight index="5" start="3337" length="276" />
+				<highlight index="6" start="3602" length="894" />
+				<highlight index="7" start="5247" length="312" />
+				<highlight index="8" start="5543" length="333" />
+				<highlight index="9" start="5876" length="222" />
+				<highlight index="10" start="6089" length="426" />
+				<highlight index="11" start="7511" length="185" />
+				<highlight index="12" start="7684" length="469" />
+				<highlight index="13" start="8144" length="200" />
+				<highlight index="14" start="8342" length="419" />
+				<highlight index="15" start="8744" length="231" />
+				<highlight index="16" start="8950" length="345" />
+				<highlight index="17" start="9287" length="756" />
+				<highlight index="18" start="10051" length="200" />
+				<highlight index="19" start="10244" length="714" />
+				<highlight index="20" start="10976" length="200" />
+				<highlight index="21" start="11130" length="200" />
+				<highlight index="22" start="11281" length="928" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§Yes§ says the boy. §I go by bike. I have something for you.§ The boy gives Emil a torn photograph and rides off." />
+				<subtitle lang="nz" line="§Yes§ says the boy. §I go by bike. I have something for you.§ The boy gives Emil a torn photograph and rides off." />
+			</subtitles>
+		</line>
+		<line words="Emil pone la foto arrugada cuidadosamente en su mochila, va a la estación de tren y coge el tren al aeropuerto. “¡Siguiente parada: Méjico!”" start="240025" length="19407" useLNutResource="true" image="15#2#7" >
+			<highlights>
+				<highlight index="0" start="2501" length="906" />
+				<highlight index="1" start="3580" length="299" />
+				<highlight index="2" start="3862" length="126" />
+				<highlight index="3" start="3988" length="298" />
+				<highlight index="4" start="4286" length="555" />
+				<highlight index="5" start="5285" length="1417" />
+				<highlight index="6" start="6697" length="222" />
+				<highlight index="7" start="6909" length="200" />
+				<highlight index="8" start="7090" length="898" />
+				<highlight index="9" start="8727" length="304" />
+				<highlight index="10" start="9038" length="200" />
+				<highlight index="11" start="9218" length="200" />
+				<highlight index="12" start="9418" length="408" />
+				<highlight index="13" start="9819" length="159" />
+				<highlight index="14" start="9957" length="803" />
+				<highlight index="15" start="10835" length="200" />
+				<highlight index="16" start="11013" length="672" />
+				<highlight index="17" start="11657" length="200" />
+				<highlight index="18" start="11807" length="803" />
+				<highlight index="19" start="12563" length="200" />
+				<highlight index="20" start="12759" length="1405" />
+				<highlight index="21" start="14693" length="696" />
+				<highlight index="22" start="15337" length="671" />
+				<highlight index="23" start="16059" length="1805" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil puts the torn photograph carefully into his bag, goes to the train station and goes by train to the airport. §Next stop Mexico!§" />
+				<subtitle lang="nz" line="Emil puts the torn photograph carefully into his bag, goes to the train station and goes by train to the airport. §Next stop Mexico!§" />
+			</subtitles>
+		</line>
+		<line words="Después de un largo vuelo, Emil llega al aeropuerto de Méjico, la ciudad de Méjico. La ciudad es grande, está llena de gente y hace calor." start="258921" length="16342" useLNutResource="true" image="7#2#3" >
+			<highlights>
+				<highlight index="0" start="2054" length="323" />
+				<highlight index="1" start="2368" length="100" />
+				<highlight index="2" start="2468" length="100" />
+				<highlight index="3" start="2580" length="420" />
+				<highlight index="4" start="2979" length="498" />
+				<highlight index="5" start="3794" length="550" />
+				<highlight index="6" start="4347" length="213" />
+				<highlight index="7" start="4560" length="130" />
+				<highlight index="8" start="4681" length="1025" />
+				<highlight index="9" start="5701" length="188" />
+				<highlight index="10" start="5863" length="748" />
+				<highlight index="11" start="7008" length="160" />
+				<highlight index="12" start="7155" length="607" />
+				<highlight index="13" start="7751" length="200" />
+				<highlight index="14" start="7939" length="770" />
+				<highlight index="15" start="9160" length="200" />
+				<highlight index="16" start="9357" length="603" />
+				<highlight index="17" start="9930" length="200" />
+				<highlight index="18" start="10115" length="639" />
+				<highlight index="19" start="11405" length="340" />
+				<highlight index="20" start="11706" length="366" />
+				<highlight index="21" start="12059" length="252" />
+				<highlight index="22" start="12346" length="653" />
+				<highlight index="23" start="13226" length="200" />
+				<highlight index="24" start="13424" length="430" />
+				<highlight index="25" start="13821" length="1374" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="After a long flight Emil arrives at the airport in the capital of Mexico, Mexico City. The city is big, crowded and hot." />
+				<subtitle lang="nz" line="After a long flight Emil arrives at the airport in the capital of Mexico, Mexico City. The city is big, crowded and hot." />
+			</subtitles>
+		</line>
+		<line words="Emil coge el autobús a la ciudad. Ve un extraordinario edificio. El edificio parece muy antiguo. “¿Qué es eso?” le pregunta a una anciana." start="274752" length="20428" useLNutResource="true" image="15#6#2" >
+			<highlights>
+				<highlight index="0" start="2595" length="1033" />
+				<highlight index="1" start="3618" length="317" />
+				<highlight index="2" start="3922" length="112" />
+				<highlight index="3" start="4028" length="614" />
+				<highlight index="4" start="4644" length="200" />
+				<highlight index="5" start="4842" length="124" />
+				<highlight index="6" start="4960" length="1030" />
+				<highlight index="7" start="7257" length="616" />
+				<highlight index="8" start="7879" length="200" />
+				<highlight index="9" start="8082" length="1045" />
+				<highlight index="10" start="9085" length="991" />
+				<highlight index="11" start="10649" length="200" />
+				<highlight index="12" start="10814" length="972" />
+				<highlight index="13" start="11766" length="698" />
+				<highlight index="14" start="12452" length="204" />
+				<highlight index="15" start="12631" length="1272" />
+				<highlight index="16" start="14329" length="200" />
+				<highlight index="17" start="14508" length="287" />
+				<highlight index="18" start="14760" length="693" />
+				<highlight index="19" start="15852" length="225" />
+				<highlight index="20" start="16063" length="553" />
+				<highlight index="21" start="16630" length="200" />
+				<highlight index="22" start="16796" length="401" />
+				<highlight index="23" start="17169" length="1797" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil takes a bus into the city. He sees an extraordinary building. The building looks very old. §What is that?§ He asks an old lady." />
+				<subtitle lang="nz" line="Emil takes a bus into the city. He sees an extraordinary building. The building looks very old. §What is that?§ He asks an old lady." />
+			</subtitles>
+		</line>
+		<line words="“Es la pirámide de Tenayuca, fue construida por los aztecas hace ochocientos años,” dice. “Esta es una tierra muy antigua.”" start="294159" length="16853" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1670" length="158" />
+				<highlight index="1" start="1806" length="200" />
+				<highlight index="2" start="2000" length="1187" />
+				<highlight index="3" start="3226" length="200" />
+				<highlight index="4" start="3420" length="1036" />
+				<highlight index="5" start="5262" length="200" />
+				<highlight index="6" start="5464" length="868" />
+				<highlight index="7" start="6323" length="292" />
+				<highlight index="8" start="6598" length="200" />
+				<highlight index="9" start="6783" length="836" />
+				<highlight index="10" start="7593" length="608" />
+				<highlight index="11" start="8169" length="1288" />
+				<highlight index="12" start="9444" length="966" />
+				<highlight index="13" start="10365" length="753" />
+				<highlight index="14" start="12069" length="772" />
+				<highlight index="15" start="12995" length="200" />
+				<highlight index="16" start="13150" length="276" />
+				<highlight index="17" start="13370" length="496" />
+				<highlight index="18" start="13855" length="254" />
+				<highlight index="19" start="14164" length="1686" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§That is the ancient pyramid Tenayuca built by the Aztecs 800 years ago!§ she says. §This is an ancient land!§" />
+				<subtitle lang="nz" line="§That is the ancient pyramid Tenayuca built by the Aztecs 800 years ago!§ she says. §This is an ancient land!§" />
+			</subtitles>
+		</line>
+		<line words="Entonces, Emil ve a una niña caminando. Lleva un uniforme escolar." start="309990" length="10725" useLNutResource="true" image="15#6#3" >
+			<highlights>
+				<highlight index="0" start="3326" length="677" />
+				<highlight index="1" start="3994" length="837" />
+				<highlight index="2" start="5190" length="200" />
+				<highlight index="3" start="5393" length="100" />
+				<highlight index="4" start="5493" length="100" />
+				<highlight index="5" start="5583" length="516" />
+				<highlight index="6" start="6090" length="924" />
+				<highlight index="7" start="8083" length="377" />
+				<highlight index="8" start="8470" length="200" />
+				<highlight index="9" start="8686" length="527" />
+				<highlight index="10" start="9182" length="1099" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Then Emil sees a girl walking past. She has a school uniform on. " />
+				<subtitle lang="nz" line="Then Emil sees a girl walking past. She has a school uniform on. " />
+			</subtitles>
+		</line>
+		<line words="“¡Hola! ¿Vas al colegio?” “Si,” dice la niña. “Voy a pie al colegio. Tengo algo para tí.” La niña le da otra foto arrugada y se va." start="320715" length="21960" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="2976" length="837" />
+				<highlight index="1" start="4224" length="259" />
+				<highlight index="2" start="4468" length="103" />
+				<highlight index="3" start="4571" length="985" />
+				<highlight index="4" start="6823" length="600" />
+				<highlight index="5" start="7692" length="499" />
+				<highlight index="6" start="8185" length="200" />
+				<highlight index="7" start="8370" length="566" />
+				<highlight index="8" start="9396" length="222" />
+				<highlight index="9" start="9602" length="200" />
+				<highlight index="10" start="9787" length="329" />
+				<highlight index="11" start="10092" length="145" />
+				<highlight index="12" start="10229" length="1108" />
+				<highlight index="13" start="12389" length="291" />
+				<highlight index="14" start="12641" length="350" />
+				<highlight index="15" start="12991" length="330" />
+				<highlight index="16" start="13290" length="867" />
+				<highlight index="17" start="15208" length="200" />
+				<highlight index="18" start="15349" length="411" />
+				<highlight index="19" start="15760" length="211" />
+				<highlight index="20" start="15956" length="453" />
+				<highlight index="21" start="16488" length="329" />
+				<highlight index="22" start="16769" length="420" />
+				<highlight index="23" start="17133" length="1149" />
+				<highlight index="24" start="18324" length="200" />
+				<highlight index="25" start="18462" length="212" />
+				<highlight index="26" start="18674" length="1654" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§Hello! Are you going to school?§ Yes says the girl.§ §I walk to school. I have something for you.§ The girl gives Emil another torn photograph and walks off." />
+				<subtitle lang="nz" line="§Hello! Are you going to school?§ Yes says the girl.§ §I walk to school. I have something for you.§ The girl gives Emil another torn photograph and walks off." />
+			</subtitles>
+		</line>
+		<line words="Emil pone la foto arrrugada cuidadosamente en su mochila, va a la parade del autobús y se va al aeropuerto en autobús. “¡Siguiente parada: Cuba!”" start="342164" length="18385" useLNutResource="true" image="7#4#1" >
+			<highlights>
+				<highlight index="0" start="1117" length="749" />
+				<highlight index="1" start="2105" length="238" />
+				<highlight index="2" start="2338" length="100" />
+				<highlight index="3" start="2434" length="287" />
+				<highlight index="4" start="2706" length="617" />
+				<highlight index="5" start="3799" length="1274" />
+				<highlight index="6" start="5061" length="145" />
+				<highlight index="7" start="5194" length="139" />
+				<highlight index="8" start="5328" length="944" />
+				<highlight index="9" start="7146" length="295" />
+				<highlight index="10" start="7430" length="133" />
+				<highlight index="11" start="7540" length="100" />
+				<highlight index="12" start="7623" length="682" />
+				<highlight index="13" start="8277" length="200" />
+				<highlight index="14" start="8461" length="819" />
+				<highlight index="15" start="9762" length="207" />
+				<highlight index="16" start="9942" length="200" />
+				<highlight index="17" start="10079" length="352" />
+				<highlight index="18" start="10458" length="200" />
+				<highlight index="19" start="10672" length="868" />
+				<highlight index="20" start="11500" length="170" />
+				<highlight index="21" start="11631" length="1140" />
+				<highlight index="22" start="13561" length="734" />
+				<highlight index="23" start="14244" length="941" />
+				<highlight index="24" start="15198" length="1740" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil puts the torn photograph carefully into his bag, goes to the bus stop and goes by bus to the airport. §Next stop Cuba!§" />
+				<subtitle lang="nz" line="Emil puts the torn photograph carefully into his bag, goes to the bus stop and goes by bus to the airport. §Next stop Cuba!§" />
+			</subtitles>
+		</line>
+		<line words="Después de un corto vuelo, Emil llega al aeropuerto de Cuba. Coge un taxi con forma de huevo a la capital, la Havana." start="360549" length="15321" useLNutResource="true" image="7#2#4" >
+			<highlights>
+				<highlight index="0" start="1002" length="508" />
+				<highlight index="1" start="1507" length="148" />
+				<highlight index="2" start="1646" length="133" />
+				<highlight index="3" start="1776" length="544" />
+				<highlight index="4" start="2326" length="676" />
+				<highlight index="5" start="3238" length="384" />
+				<highlight index="6" start="3616" length="160" />
+				<highlight index="7" start="3812" length="135" />
+				<highlight index="8" start="3918" length="881" />
+				<highlight index="9" start="4763" length="200" />
+				<highlight index="10" start="4969" length="1129" />
+				<highlight index="11" start="6985" length="412" />
+				<highlight index="12" start="7376" length="200" />
+				<highlight index="13" start="7560" length="696" />
+				<highlight index="14" start="8618" length="200" />
+				<highlight index="15" start="8817" length="454" />
+				<highlight index="16" start="9253" length="200" />
+				<highlight index="17" start="9429" length="551" />
+				<highlight index="18" start="9961" length="200" />
+				<highlight index="19" start="10123" length="200" />
+				<highlight index="20" start="10297" length="1367" />
+				<highlight index="21" start="11780" length="200" />
+				<highlight index="22" start="11942" length="1617" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="After a short flight Emil arrives at the airport in Cuba. He takes an egg-shaped taxi to the capital, Havana." />
+				<subtitle lang="nz" line="After a short flight Emil arrives at the airport in Cuba. He takes an egg-shaped taxi to the capital, Havana." />
+			</subtitles>
+		</line>
+		<line words="Como en Méjico, en la Havana hace calor y está abarrotada. Emil ve a maravillosos coches, y ponis y coches de caballos." start="374848" length="18897" useLNutResource="true" image="12#1#10" >
+			<highlights>
+				<highlight index="0" start="2153" length="278" />
+				<highlight index="1" start="2362" length="278" />
+				<highlight index="2" start="2605" length="930" />
+				<highlight index="3" start="3543" length="312" />
+				<highlight index="4" start="3786" length="347" />
+				<highlight index="5" start="3960" length="852" />
+				<highlight index="6" start="4758" length="481" />
+				<highlight index="7" start="5175" length="745" />
+				<highlight index="8" start="5801" length="312" />
+				<highlight index="9" start="6078" length="729" />
+				<highlight index="10" start="6773" length="1511" />
+				<highlight index="11" start="9691" length="879" />
+				<highlight index="12" start="11328" length="259" />
+				<highlight index="13" start="11579" length="200" />
+				<highlight index="14" start="11784" length="843" />
+				<highlight index="15" start="12616" length="1151" />
+				<highlight index="16" start="13767" length="200" />
+				<highlight index="17" start="13972" length="809" />
+				<highlight index="18" start="14758" length="200" />
+				<highlight index="19" start="14986" length="746" />
+				<highlight index="20" start="15679" length="200" />
+				<highlight index="21" start="15814" length="1750" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Like Mexico City, Havana is hot and busy. Emil sees amazing cars, and ponies and horses pulling carts." />
+				<subtitle lang="nz" line="Like Mexico City, Havana is hot and busy. Emil sees amazing cars, and ponies and horses pulling carts." />
+			</subtitles>
+		</line>
+		<line words="En un pequeño parque Emil ve a varios hombres tocando algunos instrumentos y escucha la música." start="393744" length="11235" useLNutResource="true" image="14#1#9" >
+			<highlights>
+				<highlight index="0" start="1492" length="374" />
+				<highlight index="1" start="1870" length="120" />
+				<highlight index="2" start="1990" length="535" />
+				<highlight index="3" start="2516" length="665" />
+				<highlight index="4" start="3667" length="699" />
+				<highlight index="5" start="4671" length="200" />
+				<highlight index="6" start="4859" length="200" />
+				<highlight index="7" start="5053" length="329" />
+				<highlight index="8" start="5365" length="611" />
+				<highlight index="9" start="5941" length="676" />
+				<highlight index="10" start="6611" length="729" />
+				<highlight index="11" start="7311" length="960" />
+				<highlight index="12" start="8250" length="200" />
+				<highlight index="13" start="8414" length="698" />
+				<highlight index="14" start="9088" length="200" />
+				<highlight index="15" start="9294" length="1168" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="In a little park Emil sees some men playing instruments. He listens to the music. " />
+				<subtitle lang="nz" line="In a little park Emil sees some men playing instruments. He listens to the music. " />
+			</subtitles>
+		</line>
+		<line words="La música es fantástica: “¿Quiénes sois?” pregunta. “Somos la Compañía Segundo, y esta música se llama El Son.”" start="404468" length="14811" useLNutResource="true" image="14#1#9" >
+			<highlights>
+				<highlight index="0" start="2761" length="155" />
+				<highlight index="1" start="2907" length="383" />
+				<highlight index="2" start="3290" length="125" />
+				<highlight index="3" start="3412" length="1152" />
+				<highlight index="4" start="5321" length="475" />
+				<highlight index="5" start="5787" length="815" />
+				<highlight index="6" start="6753" length="1004" />
+				<highlight index="7" start="8535" length="490" />
+				<highlight index="8" start="9007" length="200" />
+				<highlight index="9" start="9207" length="612" />
+				<highlight index="10" start="9807" length="956" />
+				<highlight index="11" start="11264" length="200" />
+				<highlight index="12" start="11425" length="315" />
+				<highlight index="13" start="11692" length="533" />
+				<highlight index="14" start="12169" length="161" />
+				<highlight index="15" start="12322" length="606" />
+				<highlight index="16" start="12904" length="200" />
+				<highlight index="17" start="13106" length="875" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="The music is fantastic! §Who are you?§ he asks. §We are Compay Segundo, and this music is called El Son!§" />
+				<subtitle lang="nz" line="The music is fantastic! §Who are you?§ he asks. §We are Compay Segundo, and this music is called El Son!§" />
+			</subtitles>
+		</line>
+		<line words="Entonces Emil ve a una niña pasar con un burro. Lleva un uniforme escolar y trenzas en el pelo." start="419279" length="11937" useLNutResource="true" image="11#1#7" >
+			<highlights>
+				<highlight index="0" start="3013" length="849" />
+				<highlight index="1" start="3933" length="603" />
+				<highlight index="2" start="4708" length="154" />
+				<highlight index="3" start="4854" length="100" />
+				<highlight index="4" start="4946" length="133" />
+				<highlight index="5" start="5067" length="375" />
+				<highlight index="6" start="5442" length="544" />
+				<highlight index="7" start="6310" length="139" />
+				<highlight index="8" start="6439" length="200" />
+				<highlight index="9" start="6616" length="635" />
+				<highlight index="10" start="7948" length="315" />
+				<highlight index="11" start="8258" length="200" />
+				<highlight index="12" start="8447" length="628" />
+				<highlight index="13" start="9036" length="819" />
+				<highlight index="14" start="10007" length="200" />
+				<highlight index="15" start="10159" length="463" />
+				<highlight index="16" start="10609" length="200" />
+				<highlight index="17" start="10784" length="200" />
+				<highlight index="18" start="10954" length="759" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Then Emil sees a girl passing on a donkey. She has a school uniform on and plaits in her hair." />
+				<subtitle lang="nz" line="Then Emil sees a girl passing on a donkey. She has a school uniform on and plaits in her hair." />
+			</subtitles>
+		</line>
+		<line words="“¡Hola! ¿Vas al colegio?“ §Sí,§ dice la niña. “Voy en el burro de mi hermano. Tengo algo para tí.” La niña le da una foto arrugada y se va." start="431025" length="19868" useLNutResource="true" image="11#1#7" >
+			<highlights>
+				<highlight index="0" start="3295" length="702" />
+				<highlight index="1" start="4171" length="200" />
+				<highlight index="2" start="4364" length="200" />
+				<highlight index="3" start="4554" length="1191" />
+				<highlight index="4" start="6353" length="753" />
+				<highlight index="5" start="7130" length="411" />
+				<highlight index="6" start="7559" length="200" />
+				<highlight index="7" start="7776" length="885" />
+				<highlight index="8" start="9213" length="690" />
+				<highlight index="9" start="9886" length="171" />
+				<highlight index="10" start="10056" length="200" />
+				<highlight index="11" start="10256" length="489" />
+				<highlight index="12" start="10753" length="200" />
+				<highlight index="13" start="10932" length="200" />
+				<highlight index="14" start="11125" length="888" />
+				<highlight index="15" start="12419" length="248" />
+				<highlight index="16" start="12675" length="281" />
+				<highlight index="17" start="12939" length="256" />
+				<highlight index="18" start="13188" length="1011" />
+				<highlight index="19" start="15027" length="200" />
+				<highlight index="20" start="15235" length="703" />
+				<highlight index="21" start="15927" length="200" />
+				<highlight index="22" start="16115" length="200" />
+				<highlight index="23" start="16267" length="424" />
+				<highlight index="24" start="16644" length="540" />
+				<highlight index="25" start="17137" length="635" />
+				<highlight index="26" start="17772" length="200" />
+				<highlight index="27" start="17983" length="212" />
+				<highlight index="28" start="18171" length="1092" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§Hello! Are you going to school?§ Yes says the girl. §I ride to school on my brother’s donkey. I have something for you.§ The girl gives Emil another torn photograph and rides away." />
+				<subtitle lang="nz" line="§Hello! Are you going to school?§ Yes says the girl. §I ride to school on my brother’s donkey. I have something for you.§ The girl gives Emil another torn photograph and rides away." />
+			</subtitles>
+		</line>
+		<line words="“¡Hora de volver a casa!” dice Emil. Se va al aeropuerto en coche, un fantástico coche, y va a la casa en avión." start="450942" length="14395" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="2861" length="296" />
+				<highlight index="1" start="3150" length="100" />
+				<highlight index="2" start="3257" length="323" />
+				<highlight index="3" start="3580" length="148" />
+				<highlight index="4" start="3709" length="623" />
+				<highlight index="5" start="4413" length="318" />
+				<highlight index="6" start="4731" length="726" />
+				<highlight index="7" start="5857" length="200" />
+				<highlight index="8" start="6054" length="200" />
+				<highlight index="9" start="6254" length="200" />
+				<highlight index="10" start="6449" length="740" />
+				<highlight index="11" start="7170" length="200" />
+				<highlight index="12" start="7361" length="1131" />
+				<highlight index="13" start="8473" length="200" />
+				<highlight index="14" start="8679" length="1107" />
+				<highlight index="15" start="9745" length="1033" />
+				<highlight index="16" start="10770" length="200" />
+				<highlight index="17" start="10968" length="422" />
+				<highlight index="18" start="11390" length="200" />
+				<highlight index="19" start="11457" length="186" />
+				<highlight index="20" start="11669" length="669" />
+				<highlight index="21" start="12331" length="269" />
+				<highlight index="22" start="12622" length="1534" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§Time to go home!§ Says Emil. He goes to the airport by car – a fantastic car – and goes home by plane." />
+				<subtitle lang="nz" line="§Time to go home!§ Says Emil. He goes to the airport by car – a fantastic car – and goes home by plane." />
+			</subtitles>
+		</line>
+		<line words="En el avión Emil saca las tres fotos. ¡Se unen como un puzle! Mira cuidadosamente la foto." start="465241" length="15895" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="2850" length="200" />
+				<highlight index="1" start="3046" length="101" />
+				<highlight index="2" start="3144" length="612" />
+				<highlight index="3" start="4014" length="754" />
+				<highlight index="4" start="4914" length="451" />
+				<highlight index="5" start="5350" length="265" />
+				<highlight index="6" start="5615" length="415" />
+				<highlight index="7" start="6018" length="1752" />
+				<highlight index="8" start="9097" length="269" />
+				<highlight index="9" start="9364" length="391" />
+				<highlight index="10" start="9724" length="494" />
+				<highlight index="11" start="10207" length="200" />
+				<highlight index="12" start="10372" length="1316" />
+				<highlight index="13" start="12274" length="227" />
+				<highlight index="14" start="12501" length="1336" />
+				<highlight index="15" start="13827" length="200" />
+				<highlight index="16" start="14012" length="1131" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="On the aeroplane Emil takes out the 3 pieces of photograph. They match up like a puzzle! He looks carefully at the picture." />
+				<subtitle lang="nz" line="On the aeroplane Emil takes out the 3 pieces of photograph. They match up like a puzzle! He looks carefully at the picture." />
+			</subtitles>
+		</line>
+		<line words="¡La foto es de una niña, su vecina Juanita!" start="480562" length="8490" useLNutResource="true" image="1#4#1" >
+			<highlights>
+				<highlight index="0" start="2930" length="200" />
+				<highlight index="1" start="3120" length="638" />
+				<highlight index="2" start="3898" length="160" />
+				<highlight index="3" start="4052" length="154" />
+				<highlight index="4" start="4198" length="157" />
+				<highlight index="5" start="4352" length="508" />
+				<highlight index="6" start="5519" length="200" />
+				<highlight index="7" start="5718" length="477" />
+				<highlight index="8" start="6188" length="797" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="The picture is of a girl – it’s his neighbour Juanita!" />
+				<subtitle lang="nz" line="The picture is of a girl – it’s his neighbour Juanita!" />
+			</subtitles>
+		</line>
+		<line words="Va directamente del aeropuerto a la casa de Juanita. Juanita ha vuelto del colegio." start="488733" length="9695" useLNutResource="true" image="11#1#1" >
+			<highlights>
+				<highlight index="0" start="2900" length="330" />
+				<highlight index="1" start="3239" length="888" />
+				<highlight index="2" start="4124" length="200" />
+				<highlight index="3" start="4323" length="680" />
+				<highlight index="4" start="4994" length="200" />
+				<highlight index="5" start="5190" length="200" />
+				<highlight index="6" start="5377" length="272" />
+				<highlight index="7" start="5645" length="200" />
+				<highlight index="8" start="5840" length="818" />
+				<highlight index="9" start="7234" length="462" />
+				<highlight index="10" start="7671" length="200" />
+				<highlight index="11" start="7851" length="411" />
+				<highlight index="12" start="8241" length="200" />
+				<highlight index="13" start="8432" length="917" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He goes straight to Juanita’s house from the airport. She is back from school. ‘Hi Emil! Your cat is here!’" />
+				<subtitle lang="nz" line="He goes straight to Juanita’s house from the airport. She is back from school. ‘Hi Emil! Your cat is here!’" />
+			</subtitles>
+		</line>
+		<line words="Emil está muy feliz. Va a casa con su gato. “¡Hola cariño! Dice su madre. “¿Cómo fue el colegio?”" start="497925" length="15321" useLNutResource="true" image="15#2#9" >
+			<highlights>
+				<highlight index="0" start="3782" length="460" />
+				<highlight index="1" start="4230" length="309" />
+				<highlight index="2" start="4527" length="190" />
+				<highlight index="3" start="4706" length="908" />
+				<highlight index="4" start="6535" length="200" />
+				<highlight index="5" start="6746" length="200" />
+				<highlight index="6" start="6936" length="395" />
+				<highlight index="7" start="7317" length="200" />
+				<highlight index="8" start="7509" length="200" />
+				<highlight index="9" start="7691" length="1036" />
+				<highlight index="10" start="8938" length="308" />
+				<highlight index="11" start="9240" length="786" />
+				<highlight index="12" start="10532" length="345" />
+				<highlight index="13" start="10898" length="200" />
+				<highlight index="14" start="11099" length="646" />
+				<highlight index="15" start="12247" length="406" />
+				<highlight index="16" start="12635" length="233" />
+				<highlight index="17" start="12868" length="200" />
+				<highlight index="18" start="13049" length="1226" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Emil is very happy. He goes home with his cat. §Hello darling,§ says his mum. §How was school?§" />
+				<subtitle lang="nz" line="Emil is very happy. He goes home with his cat. §Hello darling,§ says his mum. §How was school?§" />
+			</subtitles>
+		</line>
+		<line words="Fin" start="512966" length="7941" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="The End" />
+				<subtitle lang="nz" line="The End" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

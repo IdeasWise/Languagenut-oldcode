@@ -1,0 +1,839 @@
+<karaoke length="170370">
+  <lines>
+    <line words="Die Sportseite. Die Bildungsseite." start="5742" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="2130" length="200"/>
+      <highlight index="3" start="2317" length="1083"/>
+      <subtitles>
+        <subtitle lang="fr" line="La rubrique - sport, La rubrique – éducation"/>
+        <subtitle lang="sp" line="La sección de deportes. La sección de educación."/>
+        <subtitle lang="nz" line="The sports column, the education column"/>
+        <subtitle lang="nl" line="De sportrubriek, De onderwijsrubriek"/>
+        <subtitle lang="en" line="The sports column, the education column"/>
+        <subtitle lang="dk" line="Sportssektionen, Uddannelse"/>
+      </subtitles>
+    </line>
+    <line words="Die Nachrichtenseite, Die Modeseite" start="8887" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="2130" length="200"/>
+      <highlight index="3" start="2317" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de noticias. La sección de moda."/>
+        <subtitle lang="nl" line="Het actuele nieuws, De moderubriek"/>
+        <subtitle lang="en" line="The news column, the fashion column"/>
+        <subtitle lang="nz" line="The news column, the fashion column"/>
+        <subtitle lang="fr" line="La rubrique – actualités. La rubrique - mode."/>
+        <subtitle lang="dk" line="Nyheder, Mode"/>
+      </subtitles>
+    </line>
+    <line words="Die Rezepteseite, Die Reiseseite" start="12169" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de cocina. La sección de viajes."/>
+        <subtitle lang="nl" line="De kookrubriek, De reisrubriek"/>
+        <subtitle lang="en" line="The cookery column, the travel column"/>
+        <subtitle lang="nz" line="The cookery column, the travel column"/>
+        <subtitle lang="fr" line="La rubrique - cuisine. La rubrique - voyage."/>
+        <subtitle lang="dk" line="Madlavning, Rejse"/>
+      </subtitles>
+    </line>
+    <line words="Die Kulturseite, Die Wetterseite" start="15314" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de cultura. La sección del tiempo"/>
+        <subtitle lang="nl" line="De cultuurrubriek, Het weer"/>
+        <subtitle lang="en" line="The culture column, the weather column"/>
+        <subtitle lang="nz" line="The culture column, the weather colum"/>
+        <subtitle lang="fr" line="La rubrique - culture. La rubrique – météo."/>
+        <subtitle lang="dk" line="Kultur, Vejret"/>
+      </subtitles>
+    </line>
+    <line words="Ich bevorzuge die Sportseite" start="18595" length="4000">
+      <highlight index="0" start="494" length="363"/>
+      <highlight index="1" start="827" length="903"/>
+      <highlight index="2" start="1724" length="419"/>
+      <highlight index="3" start="2138" length="1448"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je prefère la rubrique sport"/>
+        <subtitle lang="sp" line="Prefiero la sección de deportes"/>
+        <subtitle lang="nz" line="I prefer the sports column"/>
+        <subtitle lang="nl" line="Ik lees graag de sportrubriek"/>
+        <subtitle lang="en" line="I prefer the sports column"/>
+        <subtitle lang="dk" line="Jeg kan bedst lide sportssektionen"/>
+      </subtitles>
+    </line>
+    <line words="Ich hasse die Modeseite" start="22014" length="3144">
+      <highlight index="0" start="327" length="363"/>
+      <highlight index="1" start="665" length="667"/>
+      <highlight index="2" start="1314" length="359"/>
+      <highlight index="3" start="1651" length="1162"/>
+      <subtitles>
+        <subtitle lang="sp" line="Odio la sección de moda"/>
+        <subtitle lang="nl" line="Ik haat de moderubriek"/>
+        <subtitle lang="en" line="I hate the fashion column"/>
+        <subtitle lang="nz" line="I hate the fashion column"/>
+        <subtitle lang="fr" line="Je déteste la rubrique mode"/>
+        <subtitle lang="dk" line="Jeg hader modesiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich liebe die Rezepteseite" start="25295" length="3144">
+      <highlight index="0" start="327" length="363"/>
+      <highlight index="1" start="665" length="667"/>
+      <highlight index="2" start="1314" length="359"/>
+      <highlight index="3" start="1651" length="1377"/>
+      <subtitles>
+        <subtitle lang="fr" line="J’adore la rubrique cuisine"/>
+        <subtitle lang="sp" line="Me encanta la sección de cocina"/>
+        <subtitle lang="nz" line="I love the cookery column"/>
+        <subtitle lang="nl" line="Ik houd van de kookrubriek"/>
+        <subtitle lang="en" line="I love the cookery column"/>
+        <subtitle lang="dk" line="Jeg elsker madlavningssiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich mag nicht die Reiseseite" start="28303" length="3144">
+      <highlight index="0" start="327" length="363"/>
+      <highlight index="1" start="665" length="548"/>
+      <highlight index="2" start="1205" length="359"/>
+      <highlight index="3" start="1538" length="511"/>
+      <highlight index="4" start="2033" length="979"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je n’aime pas la rubrique voyage"/>
+        <subtitle lang="sp" line="No me gusta la sección de viajes"/>
+        <subtitle lang="nz" line="I don’t like the travel column"/>
+        <subtitle lang="nl" line="Ik houd niet van de reisrubriek"/>
+        <subtitle lang="en" line="I don’t like the travel column"/>
+        <subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne"/>
+      </subtitles>
+    </line>
+    <line words="Warum?" start="31722" length="2188">
+      <highlight index="0" start="912" length="699"/>
+      <subtitles>
+        <subtitle lang="sp" line="¿Por qué?"/>
+        <subtitle lang="nl" line="Waarom?"/>
+        <subtitle lang="en" line="Why?"/>
+        <subtitle lang="nz" line="Why?"/>
+        <subtitle lang="fr" line="Pourquoi?"/>
+        <subtitle lang="dk" line="Hvorfor?"/>
+      </subtitles>
+    </line>
+    <line words="Weil..." start="33956" length="1911">
+      <highlight index="0" start="706" length="699"/>
+      <subtitles>
+        <subtitle lang="fr" line="Parce que…"/>
+        <subtitle lang="sp" line="porque"/>
+        <subtitle lang="nz" line="Because"/>
+        <subtitle lang="nl" line="Omdat..."/>
+        <subtitle lang="en" line="Because"/>
+        <subtitle lang="dk" line="Fordi"/>
+      </subtitles>
+    </line>
+    <line words="Die toll ist" start="35867" length="1461">
+      <highlight index="0" start="149" length="304"/>
+      <highlight index="1" start="444" length="349"/>
+      <highlight index="2" start="781" length="374"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est génial"/>
+        <subtitle lang="sp" line="Es fenomenal"/>
+        <subtitle lang="nz" line="It’s great!"/>
+        <subtitle lang="nl" line="Erg super"/>
+        <subtitle lang="en" line="It’s great!"/>
+        <subtitle lang="dk" line="Det er fedt"/>
+      </subtitles>
+    </line>
+    <line words="Die zu lang ist" start="37191" length="1466">
+      <highlight index="0" start="56" length="304"/>
+      <highlight index="1" start="351" length="306"/>
+      <highlight index="2" start="648" length="261"/>
+      <highlight index="3" start="905" length="369"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est trop long"/>
+        <subtitle lang="sp" line="Es demasiado larga"/>
+        <subtitle lang="nz" line="It’s too long"/>
+        <subtitle lang="nl" line="Veel te lang"/>
+        <subtitle lang="en" line="It’s too long"/>
+        <subtitle lang="dk" line="Det er for langt"/>
+      </subtitles>
+    </line>
+    <line words="Die fantastisch ist" start="38622" length="1715">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es fantástica"/>
+        <subtitle lang="nz" line="It's fantastic!"/>
+        <subtitle lang="dk" line="Det er fantastisk"/>
+        <subtitle lang="nl" line="Heel fantastisch"/>
+        <subtitle lang="fr" line="C’est fantastique"/>
+        <subtitle lang="en" line="It's fantastic!"/>
+      </subtitles>
+    </line>
+    <line words="Die langweilig ist" start="40336" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es aburrida"/>
+        <subtitle lang="nl" line="Het is saai"/>
+        <subtitle lang="en" line="It’s boring"/>
+        <subtitle lang="nz" line="It’s boring"/>
+        <subtitle lang="fr" line="C’est ennuyeux"/>
+        <subtitle lang="dk" line="Det er kedeligt"/>
+      </subtitles>
+    </line>
+    <line words="Die spass macht" start="42113" length="1915">
+      <highlight index="0" start="263" length="227"/>
+      <highlight index="1" start="482" length="481"/>
+      <highlight index="2" start="956" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est amusant"/>
+        <subtitle lang="sp" line="Es divertida"/>
+        <subtitle lang="nz" line="It’s fun"/>
+        <subtitle lang="nl" line="Het is leuk"/>
+        <subtitle lang="en" line="It’s fun"/>
+        <subtitle lang="dk" line="Det er sjovt"/>
+      </subtitles>
+    </line>
+    <line words="Die ärgerlich ist" start="43481" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Me molesta"/>
+        <subtitle lang="nl" line="Erg vervelend"/>
+        <subtitle lang="en" line="It’s annoying"/>
+        <subtitle lang="nz" line="It’s annoying"/>
+        <subtitle lang="fr" line="C’est agaçant"/>
+        <subtitle lang="dk" line="Det er irriterende"/>
+      </subtitles>
+    </line>
+    <line words="Die interessant ist" start="44985" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est interessant"/>
+        <subtitle lang="sp" line="Es interesante"/>
+        <subtitle lang="nz" line="It’s interesting"/>
+        <subtitle lang="nl" line="Erg interessant"/>
+        <subtitle lang="en" line="It’s interesting"/>
+        <subtitle lang="dk" line="Det er interessant"/>
+      </subtitles>
+    </line>
+    <line words="Die kompliziert ist" start="46489" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es complicada"/>
+        <subtitle lang="nl" line="Heel ingewikkeld"/>
+        <subtitle lang="en" line="It’s complicated"/>
+        <subtitle lang="nz" line="It’s complicated"/>
+        <subtitle lang="fr" line="C’est compliqué"/>
+        <subtitle lang="dk" line="Det er svært"/>
+      </subtitles>
+    </line>
+    <line words="Ich bevorzuge die Wetterseite" start="48266" length="4000">
+      <highlight index="0" start="469" length="200"/>
+      <highlight index="1" start="655" length="741"/>
+      <highlight index="2" start="1376" length="402"/>
+      <highlight index="3" start="1755" length="1679"/>
+      <subtitles>
+        <subtitle lang="sp" line="Prefiero la sección del tiempo"/>
+        <subtitle lang="nl" line="Ik lees graag over het weer"/>
+        <subtitle lang="en" line="I prefer the weather column"/>
+        <subtitle lang="nz" line="I prefer the weather column"/>
+        <subtitle lang="fr" line="Je prefère la rubrique météo"/>
+        <subtitle lang="dk" line="Jeg kan bedst lide vejrudsigten"/>
+      </subtitles>
+    </line>
+    <line words="Ich hasse die Kulturseite" start="51685" length="4000">
+      <highlight index="0" start="307" length="362"/>
+      <highlight index="1" start="655" length="741"/>
+      <highlight index="2" start="1376" length="402"/>
+      <highlight index="3" start="1755" length="1679"/>
+      <subtitles>
+        <subtitle lang="sp" line="Odio la sección de cultura"/>
+        <subtitle lang="nl" line="Ik haat de cultuurrubriek"/>
+        <subtitle lang="en" line="I hate the culture column"/>
+        <subtitle lang="nz" line="I hate the culture column"/>
+        <subtitle lang="fr" line="Je déteste la rubrique culture"/>
+        <subtitle lang="dk" line="Jeg hader kultursiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich liebe die Nachrichtenseite" start="55240" length="3145">
+      <highlight index="0" start="242" length="362"/>
+      <highlight index="1" start="564" length="600"/>
+      <highlight index="2" start="1144" length="364"/>
+      <highlight index="3" start="1472" length="1110"/>
+      <subtitles>
+        <subtitle lang="sp" line="Me encanta la sección de noticias"/>
+        <subtitle lang="nl" line="Ik houd van het actuele nieuws"/>
+        <subtitle lang="en" line="I love the news column"/>
+        <subtitle lang="nz" line="I love the news column"/>
+        <subtitle lang="fr" line="J’adore la rubrique actualités"/>
+        <subtitle lang="dk" line="Jeg elsker nyhederne"/>
+      </subtitles>
+    </line>
+    <line words="Ich mag nicht die Bildungsseite" start="57975" length="3145">
+      <highlight index="0" start="242" length="362"/>
+      <highlight index="1" start="564" length="502"/>
+      <highlight index="2" start="1054" length="454"/>
+      <highlight index="3" start="1472" length="383"/>
+      <highlight index="4" start="1844" length="1098"/>
+      <subtitles>
+        <subtitle lang="sp" line="No me gusta la sección de educación"/>
+        <subtitle lang="nl" line="Ik houd niet van de onderwijsrubriek"/>
+        <subtitle lang="en" line="I love the news column"/>
+        <subtitle lang="nz" line="I love the news column"/>
+        <subtitle lang="fr" line="Je n’aime pas la rubrique education"/>
+        <subtitle lang="dk" line="Jeg kan ikke lide uddannelsessiden"/>
+      </subtitles>
+    </line>
+    <line words="Warum?" start="61256" length="2188">
+      <highlight index="0" start="973" length="699"/>
+      <subtitles>
+        <subtitle lang="fr" line="Pourquoi?"/>
+        <subtitle lang="sp" line="¿Por qué?"/>
+        <subtitle lang="nz" line="Why?"/>
+        <subtitle lang="nl" line="Waarom?"/>
+        <subtitle lang="en" line="Why?"/>
+        <subtitle lang="dk" line="Hvorfor?"/>
+      </subtitles>
+    </line>
+    <line words="Weil..." start="63170" length="2188">
+      <highlight index="0" start="706" length="699"/>
+      <subtitles>
+        <subtitle lang="fr" line="Parce que…"/>
+        <subtitle lang="sp" line="Porque "/>
+        <subtitle lang="nz" line="Because ..."/>
+        <subtitle lang="nl" line="Omdat..."/>
+        <subtitle lang="en" line="Because ..."/>
+        <subtitle lang="dk" line="Forbi"/>
+      </subtitles>
+    </line>
+    <line words="Die toll ist" start="65358" length="1368">
+      <highlight index="0" start="182" length="282"/>
+      <highlight index="1" start="453" length="349"/>
+      <highlight index="2" start="798" length="374"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est génial"/>
+        <subtitle lang="sp" line="Es fenomenal"/>
+        <subtitle lang="nz" line="It's great"/>
+        <subtitle lang="nl" line="Erg super"/>
+        <subtitle lang="en" line="It's great"/>
+        <subtitle lang="dk" line="Det er fedt"/>
+      </subtitles>
+    </line>
+    <line words="Die zu lang ist" start="66295" length="2499">
+      <highlight index="0" start="56" length="304"/>
+      <highlight index="1" start="351" length="306"/>
+      <highlight index="2" start="648" length="261"/>
+      <highlight index="3" start="905" length="369"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est trop long"/>
+        <subtitle lang="sp" line="Es demasiado larga"/>
+        <subtitle lang="nz" line="It's too long."/>
+        <subtitle lang="nl" line="Veel te lang"/>
+        <subtitle lang="en" line="It's too long."/>
+        <subtitle lang="dk" line="Det er for langt"/>
+      </subtitles>
+    </line>
+    <line words="Die fantastisch ist" start="67177" length="2831">
+      <highlight index="0" start="1205" length="227"/>
+      <highlight index="1" start="1427" length="720"/>
+      <highlight index="2" start="2135" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est fantastique"/>
+        <subtitle lang="sp" line="Es fantástica"/>
+        <subtitle lang="nz" line="It’s fantastic"/>
+        <subtitle lang="nl" line="Heel fantastisch"/>
+        <subtitle lang="en" line="It’s fantastic"/>
+        <subtitle lang="dk" line="Det er fantastisk"/>
+      </subtitles>
+    </line>
+    <line words="Die langweilig ist" start="69870" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est ennuyeux"/>
+        <subtitle lang="sp" line="Es aburrida"/>
+        <subtitle lang="nz" line="It’s annoying"/>
+        <subtitle lang="nl" line="Het is saai"/>
+        <subtitle lang="en" line="It’s annoying"/>
+        <subtitle lang="dk" line="Det er kedeligt"/>
+      </subtitles>
+    </line>
+    <line words="Die spass macht" start="71511" length="1915">
+      <highlight index="0" start="263" length="227"/>
+      <highlight index="1" start="482" length="696"/>
+      <highlight index="1" start="1178" length="200"/>
+      <highlight index="2" start="1168" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es divertida"/>
+        <subtitle lang="nl" line="Het is leuk"/>
+        <subtitle lang="en" line="It’s fun"/>
+        <subtitle lang="nz" line="It’s fun"/>
+        <subtitle lang="fr" line="C’est amusant"/>
+        <subtitle lang="dk" line="Det er sjovt"/>
+      </subtitles>
+    </line>
+    <line words="Die ärgerlich ist" start="73289" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est agaçant"/>
+        <subtitle lang="sp" line="Me molesta"/>
+        <subtitle lang="nz" line="It’s annoying"/>
+        <subtitle lang="nl" line="Erg vervelend"/>
+        <subtitle lang="en" line="It’s annoying"/>
+        <subtitle lang="dk" line="Det er irriterende"/>
+      </subtitles>
+    </line>
+    <line words="Die interessant ist" start="74793" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est interessant"/>
+        <subtitle lang="sp" line="Es interesante"/>
+        <subtitle lang="nz" line="It’s interesting"/>
+        <subtitle lang="nl" line="Erg interessant"/>
+        <subtitle lang="en" line="It’s interesting"/>
+        <subtitle lang="dk" line="Det er interessant"/>
+      </subtitles>
+    </line>
+    <line words="Die kompliziert ist" start="76434" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est compliqué"/>
+        <subtitle lang="sp" line="Es complicada"/>
+        <subtitle lang="nz" line="It’s complicated"/>
+        <subtitle lang="nl" line="Heel ingewikkeld"/>
+        <subtitle lang="en" line="It’s complicated"/>
+        <subtitle lang="dk" line="Det er svært"/>
+      </subtitles>
+    </line>
+    <line words="Ich bevorzuge die Sportseite" start="77938" length="3691">
+      <highlight index="0" start="469" length="200"/>
+      <highlight index="1" start="655" length="890"/>
+      <highlight index="2" start="1521" length="396"/>
+      <highlight index="3" start="1898" length="1513"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je prefère la rubrique sport"/>
+        <subtitle lang="sp" line="Prefiero la sección de deportes"/>
+        <subtitle lang="nz" line="I prefer the sports column"/>
+        <subtitle lang="nl" line="Ik lees graag de sportrubriek"/>
+        <subtitle lang="en" line="I prefer the sports column"/>
+        <subtitle lang="dk" line="Jeg kan bedst lide sportssektionen"/>
+      </subtitles>
+    </line>
+    <line words="Ich hasse die Modeseite" start="81219" length="3009">
+      <highlight index="0" start="307" length="362"/>
+      <highlight index="1" start="655" length="741"/>
+      <highlight index="2" start="1376" length="402"/>
+      <highlight index="3" start="1755" length="1139"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je déteste la rubrique mode"/>
+        <subtitle lang="sp" line="Odio la sección de moda"/>
+        <subtitle lang="nz" line="I hate the fashion column"/>
+        <subtitle lang="nl" line="Ik haat de moderubriek"/>
+        <subtitle lang="en" line="I hate the fashion column"/>
+        <subtitle lang="dk" line="Jeg hader modesiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich liebe die Rezepteseite" start="84364" length="3145">
+      <highlight index="0" start="242" length="362"/>
+      <highlight index="1" start="590" length="667"/>
+      <highlight index="2" start="1253" length="364"/>
+      <highlight index="3" start="1606" length="1372"/>
+      <subtitles>
+        <subtitle lang="fr" line="J’adore la rubrique cuisine"/>
+        <subtitle lang="sp" line="Me encanta la sección de cocina"/>
+        <subtitle lang="nz" line="I love the cookery column"/>
+        <subtitle lang="nl" line="Ik houd van de kookrubriek"/>
+        <subtitle lang="en" line="I love the cookery column"/>
+        <subtitle lang="dk" line="Jeg elsker madlavningssiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich mag nicht die Reiseseite" start="87372" length="3555">
+      <highlight index="0" start="242" length="362"/>
+      <highlight index="1" start="564" length="600"/>
+      <highlight index="2" start="1144" length="364"/>
+      <highlight index="3" start="1472" length="542"/>
+      <highlight index="4" start="2006" length="1414"/>
+      <subtitles>
+        <subtitle lang="sp" line="No me gusta la sección de viajes"/>
+        <subtitle lang="nl" line="Ik houd niet van de reisrubriek"/>
+        <subtitle lang="en" line="I don’t like the travel column"/>
+        <subtitle lang="nz" line="I don’t like the travel column"/>
+        <subtitle lang="fr" line="Je n’aime pas la rubrique voyage"/>
+        <subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne"/>
+      </subtitles>
+    </line>
+    <line words="Warum?" start="91064" length="2188">
+      <highlight index="0" start="912" length="699"/>
+      <subtitles>
+        <subtitle lang="fr" line="Pourquoi?"/>
+        <subtitle lang="sp" line="¿Por qué?"/>
+        <subtitle lang="nz" line="Why?"/>
+        <subtitle lang="nl" line="Waarom?"/>
+        <subtitle lang="en" line="Why?"/>
+        <subtitle lang="dk" line="Hvorfor?"/>
+      </subtitles>
+    </line>
+    <line words="Weil..." start="93115" length="2188">
+      <highlight index="0" start="485" length="699"/>
+      <subtitles>
+        <subtitle lang="fr" line="Parce que…"/>
+        <subtitle lang="sp" line="Porque "/>
+        <subtitle lang="nz" line="Because"/>
+        <subtitle lang="nl" line="Omdat..."/>
+        <subtitle lang="en" line="Because"/>
+        <subtitle lang="dk" line="Fordi"/>
+      </subtitles>
+    </line>
+    <line words="Die toll ist" start="95303" length="1368">
+      <highlight index="0" start="56" length="304"/>
+      <highlight index="1" start="351" length="349"/>
+      <highlight index="2" start="688" length="374"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est génial"/>
+        <subtitle lang="sp" line="Es fenomenal"/>
+        <subtitle lang="nz" line="It's great"/>
+        <subtitle lang="nl" line="Erg super"/>
+        <subtitle lang="en" line="It's great"/>
+        <subtitle lang="dk" line="Det er fedt"/>
+      </subtitles>
+    </line>
+    <line words="Die zu lang ist" start="96670" length="1368">
+      <highlight index="0" start="22" length="190"/>
+      <highlight index="1" start="210" length="185"/>
+      <highlight index="2" start="389" length="449"/>
+      <highlight index="3" start="833" length="369"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es demasiado larga"/>
+        <subtitle lang="nl" line="Veel te lang"/>
+        <subtitle lang="en" line="It’s too long"/>
+        <subtitle lang="nz" line="It’s too long"/>
+        <subtitle lang="fr" line="C’est trop long"/>
+        <subtitle lang="dk" line="Det er for langt"/>
+      </subtitles>
+    </line>
+    <line words="Die fantastisch ist" start="97901" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est fantastique"/>
+        <subtitle lang="sp" line="Es fantástica"/>
+        <subtitle lang="nz" line="It’s fantastic"/>
+        <subtitle lang="nl" line="Heel fantastisch"/>
+        <subtitle lang="en" line="It’s fantastic"/>
+        <subtitle lang="dk" line="Det er fantastisk"/>
+      </subtitles>
+    </line>
+    <line words="Die langweilig ist" start="99405" length="1915">
+      <highlight index="0" start="289" length="227"/>
+      <highlight index="1" start="511" length="720"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es aburrida"/>
+        <subtitle lang="nl" line="Het is saai"/>
+        <subtitle lang="en" line="It’s boring"/>
+        <subtitle lang="nz" line="It’s boring"/>
+        <subtitle lang="fr" line="C’est ennuyeux"/>
+        <subtitle lang="dk" line="Det er kedeligt"/>
+      </subtitles>
+    </line>
+    <line words="Die spass macht" start="101182" length="1915">
+      <highlight index="0" start="152" length="227"/>
+      <highlight index="1" start="371" length="855"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="fr" line="C’est amusant"/>
+        <subtitle lang="sp" line="Es divertida"/>
+        <subtitle lang="nz" line="It’s fun"/>
+        <subtitle lang="nl" line="Het is leuk"/>
+        <subtitle lang="en" line="It’s fun"/>
+        <subtitle lang="dk" line="Det er sjovt"/>
+      </subtitles>
+    </line>
+    <line words="Die ärgerlich ist" start="102686" length="1915">
+      <highlight index="0" start="152" length="227"/>
+      <highlight index="1" start="371" length="855"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Me molesta"/>
+        <subtitle lang="nl" line="Erg vervelend"/>
+        <subtitle lang="en" line="It’s annoying"/>
+        <subtitle lang="nz" line="It’s annoying"/>
+        <subtitle lang="fr" line="C’est agaçant"/>
+        <subtitle lang="dk" line="Det er irriterende"/>
+      </subtitles>
+    </line>
+    <line words="Die interessant ist" start="104327" length="1915">
+      <highlight index="0" start="152" length="227"/>
+      <highlight index="1" start="371" length="855"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es interesante"/>
+        <subtitle lang="nl" line="Erg interessant"/>
+        <subtitle lang="en" line="It’s interesting"/>
+        <subtitle lang="nz" line="It’s interesting"/>
+        <subtitle lang="fr" line="C’est interessant"/>
+        <subtitle lang="dk" line="Det er interessant"/>
+      </subtitles>
+    </line>
+    <line words="Die kompliziert ist" start="106105" length="1915">
+      <highlight index="0" start="152" length="227"/>
+      <highlight index="1" start="371" length="855"/>
+      <highlight index="2" start="1219" length="522"/>
+      <subtitles>
+        <subtitle lang="sp" line="Es complicada"/>
+        <subtitle lang="nl" line="Heel ingewikkeld"/>
+        <subtitle lang="en" line="It’s complicated"/>
+        <subtitle lang="nz" line="It’s complicated"/>
+        <subtitle lang="fr" line="C’est compliqué"/>
+        <subtitle lang="dk" line="Det er svært"/>
+      </subtitles>
+    </line>
+    <line words="Ich bevorzuge die Sportseite" start="107746" length="3418">
+      <highlight index="0" start="469" length="200"/>
+      <highlight index="1" start="655" length="741"/>
+      <highlight index="2" start="1376" length="402"/>
+      <highlight index="3" start="1755" length="1180"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je prefère la rubrique sport"/>
+        <subtitle lang="sp" line="Prefiero la sección de deportes"/>
+        <subtitle lang="nz" line="I prefer the sports column"/>
+        <subtitle lang="nl" line="Ik lees graag de sportrubriek"/>
+        <subtitle lang="en" line="I prefer the sports column"/>
+        <subtitle lang="dk" line="Jeg kan bedst lide sportssektionen"/>
+      </subtitles>
+    </line>
+    <line words="Ich hasse die Modeseite" start="111027" length="3144">
+      <highlight index="0" start="277" length="319"/>
+      <highlight index="1" start="582" length="698"/>
+      <highlight index="2" start="1272" length="402"/>
+      <highlight index="3" start="1641" length="1284"/>
+      <subtitles>
+        <subtitle lang="sp" line="Odio la sección de moda"/>
+        <subtitle lang="nl" line="Ik haat de moderubriek"/>
+        <subtitle lang="en" line="I hate the fashion column"/>
+        <subtitle lang="nz" line="I hate the fashion column"/>
+        <subtitle lang="fr" line="Je déteste la rubrique mode"/>
+        <subtitle lang="dk" line="Jeg hader modesiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich liebe die Rezepteseite" start="114172" length="3144">
+      <highlight index="0" start="469" length="200"/>
+      <highlight index="1" start="655" length="741"/>
+      <highlight index="2" start="1376" length="402"/>
+      <highlight index="3" start="1755" length="1069"/>
+      <subtitles>
+        <subtitle lang="fr" line="J’adore la rubrique cuisine"/>
+        <subtitle lang="sp" line="Me encanta la sección de cocina"/>
+        <subtitle lang="nz" line="I love the cookery column"/>
+        <subtitle lang="nl" line="Ik houd van de kookrubriek"/>
+        <subtitle lang="en" line="I love the cookery column"/>
+        <subtitle lang="dk" line="Jeg elsker madlavningssiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich mag nicht die Reiseseite" start="117180" length="3144">
+      <highlight index="0" start="469" length="200"/>
+      <highlight index="1" start="655" length="542"/>
+      <highlight index="2" start="1185" length="402"/>
+      <highlight index="3" start="1577" length="290"/>
+      <highlight index="4" start="1851" length="1146"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je n’aime pas la rubrique voyage"/>
+        <subtitle lang="sp" line="No me gusta la sección de viajes"/>
+        <subtitle lang="nz" line="I don’t like the travel column"/>
+        <subtitle lang="nl" line="Ik houd niet van de reisrubriek"/>
+        <subtitle lang="en" line="I don’t like the travel column"/>
+        <subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne"/>
+      </subtitles>
+    </line>
+    <line words="Ich bevorzuge die Sportseite" start="120325" length="3144">
+      <highlight index="0" start="384" length="200"/>
+      <highlight index="1" start="566" length="852"/>
+      <highlight index="2" start="1415" length="402"/>
+      <highlight index="3" start="1815" length="1098"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je prefère la rubrique sport"/>
+        <subtitle lang="sp" line="Prefiero la sección de deportes"/>
+        <subtitle lang="nz" line="I prefer the sports column"/>
+        <subtitle lang="nl" line="Ik lees graag de sportrubriek"/>
+        <subtitle lang="en" line="I prefer the sports column"/>
+        <subtitle lang="dk" line="Jeg kan bedst lide sportssektionen"/>
+      </subtitles>
+    </line>
+    <line words="Ich hasse die Modeseite" start="123333" length="3555">
+      <highlight index="0" start="511" length="436"/>
+      <highlight index="1" start="927" length="491"/>
+      <highlight index="2" start="1415" length="402"/>
+      <highlight index="3" start="1815" length="1627"/>
+      <subtitles>
+        <subtitle lang="fr" line="Je déteste la rubrique mode"/>
+        <subtitle lang="sp" line="Odio la sección de moda"/>
+        <subtitle lang="nz" line="I love the cookery column"/>
+        <subtitle lang="nl" line="Ik haat de moderubriek"/>
+        <subtitle lang="en" line="I love the cookery column"/>
+        <subtitle lang="dk" line="Jeg hader modesiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich liebe die Rezepteseite" start="126615" length="3555">
+      <highlight index="0" start="511" length="436"/>
+      <highlight index="1" start="927" length="491"/>
+      <highlight index="2" start="1415" length="402"/>
+      <highlight index="3" start="1815" length="1627"/>
+      <subtitles>
+        <subtitle lang="fr" line="J’adore la rubrique cuisine"/>
+        <subtitle lang="sp" line="Me encanta la sección de cocina"/>
+        <subtitle lang="nz" line="I love the cookery column"/>
+        <subtitle lang="nl" line="Ik houd van de kookrubriek"/>
+        <subtitle lang="en" line="I love the cookery column"/>
+        <subtitle lang="dk" line="Jeg elsker madlavningssiden"/>
+      </subtitles>
+    </line>
+    <line words="Ich mag nicht die Reiseseite" start="129760" length="3555">
+      <highlight index="0" start="511" length="436"/>
+      <highlight index="1" start="927" length="491"/>
+      <highlight index="2" start="1394" length="402"/>
+      <highlight index="3" start="1815" length="363"/>
+      <highlight index="4" start="2156" length="1327"/>
+      <subtitles>
+        <subtitle lang="sp" line="No me gusta la sección de viajes"/>
+        <subtitle lang="nl" line="Ik houd niet van de reisrubriek"/>
+        <subtitle lang="en" line="I don’t like the travel column"/>
+        <subtitle lang="nz" line="I don’t like the travel column"/>
+        <subtitle lang="fr" line="Je n’aime pas la rubrique voyage"/>
+        <subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne"/>
+      </subtitles>
+    </line>
+    <line words="Die Sportseite, Die Bildungsseite" start="136049" length="3555">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="2130" length="200"/>
+      <highlight index="3" start="2317" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de deportes. La sección de educación."/>
+        <subtitle lang="nl" line="De sportrubriek, De onderwijsrubriek"/>
+        <subtitle lang="en" line="The sports column, the education column"/>
+        <subtitle lang="nz" line="The sports column, the education column"/>
+        <subtitle lang="fr" line="La rubrique - sport, La rubrique – éducation"/>
+        <subtitle lang="dk" line="Sportssektionen, Uddannelse"/>
+      </subtitles>
+    </line>
+    <line words="Die Nachrichtenseite, Die Modeseite" start="139194" length="3555">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="2130" length="200"/>
+      <highlight index="3" start="2317" length="1157"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de noticias. La sección de moda."/>
+        <subtitle lang="nl" line="Het actuele nieuws, De moderubriek"/>
+        <subtitle lang="en" line="The news column, the fashion column"/>
+        <subtitle lang="nz" line="The news column, the fashion column"/>
+        <subtitle lang="fr" line="La rubrique – actualités. La rubrique - mode."/>
+        <subtitle lang="dk" line="Nyheder, Mode"/>
+      </subtitles>
+    </line>
+    <line words="Die Rezepteseite, Die Reiseseite" start="142613" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de cocina. La sección de viajes."/>
+        <subtitle lang="nl" line="De kookrubriek, De reisrubriek"/>
+        <subtitle lang="en" line="The cookery column, the travel column"/>
+        <subtitle lang="nz" line="The cookery column, the travel column"/>
+        <subtitle lang="fr" line="La rubrique - cuisine. La rubrique - voyage."/>
+        <subtitle lang="dk" line="Madlavning, Rejse"/>
+      </subtitles>
+    </line>
+    <line words="Die Kulturseite, Die Wetterseite" start="145894" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="fr" line="La rubrique - culture. La rubrique – météo."/>
+        <subtitle lang="sp" line="La sección de cultura. La sección del tiempo"/>
+        <subtitle lang="nz" line="The culture column, the weather column"/>
+        <subtitle lang="nl" line="De cultuurrubriek, Het weer"/>
+        <subtitle lang="en" line="The culture column, the weather column"/>
+        <subtitle lang="dk" line="Kultur, Vejret"/>
+      </subtitles>
+    </line>
+    <line words="Die Sportseite, Die Bildungsseite" start="149039" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de deportes. La sección de educación."/>
+        <subtitle lang="nl" line="De sportrubriek, De onderwijsrubriek"/>
+        <subtitle lang="en" line="The sports column, the education column"/>
+        <subtitle lang="nz" line="The sports column, the education column"/>
+        <subtitle lang="fr" line="La rubrique - sport, La rubrique – éducation"/>
+        <subtitle lang="dk" line="Sportssektionen, Uddannelse"/>
+      </subtitles>
+    </line>
+    <line words="Die Nachrichtenseite, Die Modeseite" start="152047" length="3555">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="2130" length="200"/>
+      <highlight index="3" start="2317" length="1157"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de noticias. La sección de moda."/>
+        <subtitle lang="nl" line="Het actuele nieuws, De moderubriek"/>
+        <subtitle lang="en" line="The news column, the fashion column"/>
+        <subtitle lang="nz" line="The news column, the fashion column"/>
+        <subtitle lang="fr" line="La rubrique – actualités. La rubrique - mode."/>
+        <subtitle lang="dk" line="Nyheder, Mode"/>
+      </subtitles>
+    </line>
+    <line words="Die Rezepteseite, Die Reiseseite" start="155192" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de cocina. La sección de viajes."/>
+        <subtitle lang="nl" line="De kookrubriek, De reisrubriek"/>
+        <subtitle lang="en" line="The cookery column, the travel column"/>
+        <subtitle lang="nz" line="The cookery column, the travel column"/>
+        <subtitle lang="fr" line="La rubrique - cuisine. La rubrique - voyage."/>
+        <subtitle lang="dk" line="Madlavning, Rejse"/>
+      </subtitles>
+    </line>
+    <line words="Die Kulturseite, Die Wetterseite" start="158474" length="3419">
+      <highlight index="0" start="265" length="320"/>
+      <highlight index="1" start="579" length="1291"/>
+      <highlight index="2" start="1970" length="282"/>
+      <highlight index="3" start="2241" length="1083"/>
+      <subtitles>
+        <subtitle lang="sp" line="La sección de cultura. La sección del tiempo."/>
+        <subtitle lang="nl" line="De cultuurrubriek, Het weer"/>
+        <subtitle lang="en" line="The culture column, the weather column"/>
+        <subtitle lang="nz" line="The culture column, the weather column"/>
+        <subtitle lang="fr" line="La rubrique - culture. La rubrique – météo."/>
+        <subtitle lang="dk" line="Kultur, Vejret"/>
+      </subtitles>
+    </line>
+  </lines>
+</karaoke>

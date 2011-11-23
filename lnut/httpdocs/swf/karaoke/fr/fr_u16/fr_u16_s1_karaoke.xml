@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="201116" >
+	<lines>
+		<line words="La mer, la plage et les bateaux" start="8363" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="The sea, the beach and the boats" />
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="je les aime, je les aime!" start="12022" length="3833" >
+			<highlight index="0" start="537" length="310" />
+			<highlight index="1" start="847" length="200" />
+			<highlight index="2" start="1034" length="820" />
+			<highlight index="3" start="2165" length="457" />
+			<highlight index="4" start="2651" length="254" />
+			<highlight index="5" start="2922" length="859" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg elsker det hele, jeg elsker det hele" />
+				<subtitle lang="nz" line="I love them, I love them!" />
+				<subtitle lang="en" line="I love them, I love them!" />
+			</subtitles>
+		</line>
+		<line words="La baie, le sable et les rochers" start="15680" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Bugten, sandet og klipperne" />
+				<subtitle lang="nz" line="The bay, the sand and the rocks" />
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="les coquillages que l'on récolte." start="19339" length="4000" >
+			<highlight index="0" start="58" length="378" />
+			<highlight index="1" start="418" length="1275" />
+			<highlight index="2" start="1846" length="277" />
+			<highlight index="3" start="2094" length="419" />
+			<highlight index="4" start="2501" length="1292" />
+			<subtitles>
+				<subtitle lang="dk" line="Skallerne som vi samler" />
+				<subtitle lang="nz" line="the shells that we collect." />
+				<subtitle lang="en" line="the shells that we collect." />
+			</subtitles>
+		</line>
+		<line words="En été je vais en vacances" start="22824" length="4000" >
+			<highlight index="0" start="477" length="200" />
+			<highlight index="1" start="672" length="513" />
+			<highlight index="2" start="1168" length="200" />
+			<highlight index="3" start="1356" length="519" />
+			<highlight index="4" start="1852" length="230" />
+			<highlight index="5" start="2070" length="1487" />
+			<subtitles>
+				<subtitle lang="dk" line="Om sommeren er jeg på ferie" />
+				<subtitle lang="nz" line="In summer I go on holiday" />
+				<subtitle lang="en" line="In summer I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="à la plage à Marseilles" start="26483" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2182" length="390" />
+			<highlight index="4" start="2566" length="1067" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i Marseille" />
+				<subtitle lang="nz" line="at the beach in Marseilles" />
+				<subtitle lang="en" line="at the beach in Marseilles" />
+			</subtitles>
+		</line>
+		<line words="C'est dans le sud de la France" start="30142" length="3484" >
+			<highlight index="0" start="169" length="355" />
+			<highlight index="1" start="508" length="200" />
+			<highlight index="2" start="683" length="200" />
+			<highlight index="3" start="858" length="370" />
+			<highlight index="4" start="1207" length="200" />
+			<highlight index="5" start="1377" length="395" />
+			<highlight index="6" start="1747" length="1135" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er i Sydfrankrig" />
+				<subtitle lang="nz" line="It's in the south of France" />
+				<subtitle lang="en" line="It's in the south of France" />
+			</subtitles>
+		</line>
+		<line words="c'est la plage de Marseilles" start="33801" length="4000" >
+			<highlight index="0" start="94" length="808" />
+			<highlight index="1" start="902" length="325" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2182" length="390" />
+			<highlight index="4" start="2566" length="1067" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er stranden i Marseille" />
+				<subtitle lang="nz" line="it's Marseille beach" />
+				<subtitle lang="en" line="it's Marseille beach" />
+			</subtitles>
+		</line>
+		<line words="C'est toujours bon et toujours propre" start="37634" length="3484" >
+			<highlight index="0" start="118" length="165" />
+			<highlight index="1" start="267" length="493" />
+			<highlight index="2" start="739" length="314" />
+			<highlight index="3" start="1027" length="283" />
+			<highlight index="4" start="1294" length="555" />
+			<highlight index="5" start="1829" length="575" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er altid godt og altid rent" />
+				<subtitle lang="nz" line="It's always good and always clean" />
+				<subtitle lang="en" line="It's always good and always clean" />
+			</subtitles>
+		</line>
+		<line words="à la plage à Marseilles." start="40770" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2182" length="390" />
+			<highlight index="4" start="2566" length="1067" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i Marseille" />
+				<subtitle lang="nz" line="at the beach in Marseilles." />
+				<subtitle lang="en" line="at the beach in Marseilles." />
+			</subtitles>
+		</line>
+		<line words="C'est du sable, c'est ensoleillé" start="44603" length="3484" >
+			<highlight index="0" start="169" length="355" />
+			<highlight index="1" start="508" length="200" />
+			<highlight index="2" start="765" length="329" />
+			<highlight index="3" start="1068" length="370" />
+			<highlight index="4" start="1413" length="1469" />
+			<subtitles>
+				<subtitle lang="dk" line="Der er solskin og sandet" />
+				<subtitle lang="nz" line="It's sandy, it's sunny" />
+				<subtitle lang="en" line="It's sandy, it's sunny" />
+			</subtitles>
+		</line>
+		<line words="c'est la plage de Marseilles." start="47913" length="4000" >
+			<highlight index="0" start="94" length="808" />
+			<highlight index="1" start="902" length="325" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2182" length="390" />
+			<highlight index="4" start="2566" length="1067" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er stranden i Marseille" />
+				<subtitle lang="nz" line="it's Mareilles beach." />
+				<subtitle lang="en" line="it's Mareilles beach." />
+			</subtitles>
+		</line>
+		<line words="La mer, la plage et les bateaux" start="51572" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="The sea, the beach and the boats" />
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="je les aime, je les aime!" start="55231" length="3833" >
+			<highlight index="0" start="537" length="310" />
+			<highlight index="1" start="847" length="200" />
+			<highlight index="2" start="1034" length="820" />
+			<highlight index="3" start="2165" length="457" />
+			<highlight index="4" start="2651" length="254" />
+			<highlight index="5" start="2922" length="859" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg elsker det hele, jeg elsker det hele" />
+				<subtitle lang="nz" line="I love them, I love them!" />
+				<subtitle lang="en" line="I love them, I love them!" />
+			</subtitles>
+		</line>
+		<line words="La baie, le sable et les rochers" start="58890" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Bugten, sandet og klipperne" />
+				<subtitle lang="nz" line="The bay, the sand and the rocks" />
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="les coquillages que l'on récolte." start="62375" length="4000" >
+			<highlight index="0" start="58" length="378" />
+			<highlight index="1" start="418" length="1275" />
+			<highlight index="2" start="1846" length="277" />
+			<highlight index="3" start="2094" length="619" />
+			<highlight index="4" start="2690" length="1103" />
+			<subtitles>
+				<subtitle lang="dk" line="Skallerne som vi samler" />
+				<subtitle lang="nz" line="the shells that we collect." />
+				<subtitle lang="en" line="the shells that we collect." />
+			</subtitles>
+		</line>
+		<line words="En automne je vais en vacances" start="66034" length="4000" >
+			<highlight index="0" start="477" length="200" />
+			<highlight index="1" start="672" length="513" />
+			<highlight index="2" start="1168" length="200" />
+			<highlight index="3" start="1356" length="519" />
+			<highlight index="4" start="1852" length="230" />
+			<highlight index="5" start="2070" length="1487" />
+			<subtitles>
+				<subtitle lang="dk" line="Om efteråret er jeg på ferie" />
+				<subtitle lang="nz" line="In autumn I go on holiday" />
+				<subtitle lang="en" line="In autumn I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="à la plage à Dieppe." start="69692" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2672" length="159" />
+			<highlight index="4" start="2931" length="242" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i Dieppe" />
+				<subtitle lang="nz" line="at the beach in Dieppe." />
+				<subtitle lang="en" line="at the beach in Dieppe." />
+			</subtitles>
+		</line>
+		<line words="C'est dans le nord de la France" start="73526" length="4007" >
+			<highlight index="0" start="169" length="355" />
+			<highlight index="1" start="508" length="200" />
+			<highlight index="2" start="683" length="200" />
+			<highlight index="3" start="910" length="318" />
+			<highlight index="4" start="1207" length="200" />
+			<highlight index="5" start="1377" length="395" />
+			<highlight index="6" start="1747" length="1135" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er i Nordfrankrig" />
+				<subtitle lang="nz" line="It's in the north of France" />
+				<subtitle lang="en" line="It's in the north of France" />
+			</subtitles>
+		</line>
+		<line words="c'est la plage de Dieppe." start="77010" length="4000" >
+			<highlight index="0" start="94" length="808" />
+			<highlight index="1" start="902" length="325" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2607" length="265" />
+			<highlight index="4" start="2955" length="360" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er stranden i Dieppe" />
+				<subtitle lang="nz" line="it's Dieppe beach." />
+				<subtitle lang="en" line="it's Dieppe beach." />
+			</subtitles>
+		</line>
+		<line words="C'est assez sale et toujours vide" start="80669" length="3832" >
+			<highlight index="0" start="30" length="253" />
+			<highlight index="1" start="267" length="493" />
+			<highlight index="2" start="830" length="314" />
+			<highlight index="3" start="1152" length="283" />
+			<highlight index="4" start="1429" length="555" />
+			<highlight index="5" start="2017" length="644" />
+			<subtitles>
+				<subtitle lang="dk" line="Der er ret beskidt og altid tomt" />
+				<subtitle lang="nz" line="It's quite dirty and always empty" />
+				<subtitle lang="en" line="It's quite dirty and always empty" />
+			</subtitles>
+		</line>
+		<line words="à la plage à Dieppe." start="83979" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2695" length="159" />
+			<highlight index="4" start="2884" length="360" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i Dieppe" />
+				<subtitle lang="nz" line="at Dieppe beach." />
+				<subtitle lang="en" line="at Dieppe beach." />
+			</subtitles>
+		</line>
+		<line words="Mais je trouve des coquillages" start="87638" length="3484" >
+			<highlight index="0" start="210" length="355" />
+			<highlight index="1" start="575" length="200" />
+			<highlight index="2" start="765" length="329" />
+			<highlight index="3" start="1068" length="370" />
+			<highlight index="4" start="1413" length="1469" />
+			<subtitles>
+				<subtitle lang="dk" line="Men jeg finder mange skaller" />
+				<subtitle lang="nz" line="But I find shells" />
+				<subtitle lang="en" line="But I find shells" />
+			</subtitles>
+		</line>
+		<line words="à la plage de Dieppe." start="91123" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="991" />
+			<highlight index="3" start="2725" length="159" />
+			<highlight index="4" start="2884" length="360" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i Dieppe" />
+				<subtitle lang="nz" line="at Dieppe beach." />
+				<subtitle lang="en" line="at Dieppe beach." />
+			</subtitles>
+		</line>
+		<line words="La mer, la plage et les bateaux" start="94956" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="The sea, the beach and the boats" />
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="je les aime, je les aime!" start="98266" length="3833" >
+			<highlight index="0" start="537" length="310" />
+			<highlight index="1" start="847" length="200" />
+			<highlight index="2" start="1034" length="820" />
+			<highlight index="3" start="2165" length="457" />
+			<highlight index="4" start="2651" length="254" />
+			<highlight index="5" start="2922" length="859" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="I love them, I love them!" />
+				<subtitle lang="en" line="I love them, I love them!" />
+			</subtitles>
+		</line>
+		<line words="La baie, le sable et les rochers" start="101925" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Bugten, sandet og klipperne" />
+				<subtitle lang="nz" line="The bay, the sand and the rocks" />
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="les coquillages que l'on récolte." start="105584" length="4000" >
+			<highlight index="0" start="58" length="378" />
+			<highlight index="1" start="418" length="1275" />
+			<highlight index="2" start="1846" length="277" />
+			<highlight index="3" start="2094" length="619" />
+			<highlight index="4" start="2690" length="1103" />
+			<subtitles>
+				<subtitle lang="dk" line="Skallerne som vi samler" />
+				<subtitle lang="nz" line="the shells that we collect." />
+				<subtitle lang="en" line="the shells that we collect." />
+			</subtitles>
+		</line>
+		<line words="En hiver je vais en vacances" start="109243" length="4000" >
+			<highlight index="0" start="477" length="200" />
+			<highlight index="1" start="672" length="513" />
+			<highlight index="2" start="1168" length="200" />
+			<highlight index="3" start="1356" length="519" />
+			<highlight index="4" start="1852" length="230" />
+			<highlight index="5" start="2070" length="1487" />
+			<subtitles>
+				<subtitle lang="dk" line="Om vinteren er jeg på ferie" />
+				<subtitle lang="nz" line="In winter I go on holiday" />
+				<subtitle lang="en" line="In winter I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="à la plage à La Rochelle." start="112902" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="684" />
+			<highlight index="3" start="1881" length="159" />
+			<highlight index="4" start="2029" length="525" />
+			<highlight index="5" start="2542" length="1227" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i La Rochelle" />
+				<subtitle lang="nz" line="to the beach in La Rochelle." />
+				<subtitle lang="en" line="to the beach in La Rochelle." />
+			</subtitles>
+		</line>
+		<line words="C'est dans l'ouest de la France" start="116561" length="3484" >
+			<highlight index="0" start="169" length="355" />
+			<highlight index="1" start="688" length="200" />
+			<highlight index="2" start="873" length="375" />
+			<highlight index="3" start="1284" length="195" />
+			<highlight index="4" start="1469" length="190" />
+			<highlight index="5" start="1690" length="1172" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er i Vestfrankrig" />
+				<subtitle lang="nz" line="It's in the west of France" />
+				<subtitle lang="en" line="It's in the west of France" />
+			</subtitles>
+		</line>
+		<line words="c'est la plage de La Rochelle." start="120220" length="4000" >
+			<highlight index="0" start="94" length="808" />
+			<highlight index="1" start="902" length="325" />
+			<highlight index="2" start="1203" length="525" />
+			<highlight index="3" start="1704" length="265" />
+			<highlight index="4" start="1964" length="360" />
+			<highlight index="5" start="2401" length="1215" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er stranden i La Rochelle" />
+				<subtitle lang="nz" line="it's La Rochelle beach." />
+				<subtitle lang="en" line="it's La Rochelle beach." />
+			</subtitles>
+		</line>
+		<line words="C'est dangereux et nuageux" start="123879" length="3832" >
+			<highlight index="0" start="30" length="253" />
+			<highlight index="1" start="267" length="902" />
+			<highlight index="2" start="1192" length="314" />
+			<highlight index="3" start="1559" length="1447" />
+			<subtitles>
+				<subtitle lang="dk" line="Det er farligt og overskyet" />
+				<subtitle lang="nz" line="It's dangerous and cloudy" />
+				<subtitle lang="en" line="It's dangerous and cloudy" />
+			</subtitles>
+		</line>
+		<line words="à la plage à La Rochelle." start="127363" length="4000" >
+			<highlight index="0" start="371" length="454" />
+			<highlight index="1" start="878" length="231" />
+			<highlight index="2" start="1150" length="619" />
+			<highlight index="3" start="1805" length="159" />
+			<highlight index="4" start="1970" length="643" />
+			<highlight index="5" start="2642" length="1056" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i La Rochelle" />
+				<subtitle lang="nz" line="at the beach in La Rochelle." />
+				<subtitle lang="en" line="at the beach in La Rochelle." />
+			</subtitles>
+		</line>
+		<line words="C'est du sable, on voit des voiliers" start="131196" length="3484" >
+			<highlight index="0" start="92" length="201" />
+			<highlight index="1" start="308" length="200" />
+			<highlight index="2" start="498" length="329" />
+			<highlight index="3" start="858" length="215" />
+			<highlight index="4" start="1068" length="216" />
+			<highlight index="5" start="1377" length="395" />
+			<highlight index="6" start="1747" length="1135" />
+			<subtitles>
+				<subtitle lang="dk" line="men man kan se alle sejlbådene" />
+				<subtitle lang="nz" line="It's sandy, we see sailing boats" />
+				<subtitle lang="en" line="It's sandy, we see sailing boats" />
+			</subtitles>
+		</line>
+		<line words="c'est la plage de La Rochelle." start="134507" length="4000" >
+			<highlight index="0" start="371" length="454" />
+			<highlight index="1" start="878" length="231" />
+			<highlight index="2" start="1150" length="619" />
+			<highlight index="3" start="1805" length="159" />
+			<highlight index="4" start="1970" length="643" />
+			<highlight index="5" start="2642" length="1056" />
+			<subtitles>
+				<subtitle lang="dk" line="På stranden i La Rochelle" />
+				<subtitle lang="nz" line="it's La Rochelle beach." />
+				<subtitle lang="en" line="it's La Rochelle beach." />
+			</subtitles>
+		</line>
+		<line words="La mer, la plage et les bateaux" start="137991" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="The sea, the beach and the boats" />
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="je les aime, je les aime!" start="141650" length="3833" >
+			<highlight index="0" start="537" length="310" />
+			<highlight index="1" start="847" length="200" />
+			<highlight index="2" start="1034" length="820" />
+			<highlight index="3" start="2165" length="457" />
+			<highlight index="4" start="2651" length="254" />
+			<highlight index="5" start="2922" length="859" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg elsker det hele, jeg elsker det hele" />
+				<subtitle lang="nz" line="I love them, I love them!" />
+				<subtitle lang="en" line="I love them, I love them!" />
+			</subtitles>
+		</line>
+		<line words="La baie, le sable et les rochers" start="145309" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Bugten, sandet og klipperne" />
+				<subtitle lang="nz" line="The bay, the sand and the rocks" />
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="les coquillages que l'on récolte." start="148794" length="4000" >
+			<highlight index="0" start="58" length="378" />
+			<highlight index="1" start="418" length="1275" />
+			<highlight index="2" start="1846" length="277" />
+			<highlight index="3" start="2094" length="619" />
+			<highlight index="4" start="2690" length="1103" />
+			<subtitles>
+				<subtitle lang="dk" line="Skallerne som vi samler" />
+				<subtitle lang="nz" line="the shells that we collect." />
+				<subtitle lang="en" line="the shells that we collect." />
+			</subtitles>
+		</line>
+		<line words="Au printemps je vais en vacances" start="152627" length="4000" >
+			<highlight index="0" start="306" length="200" />
+			<highlight index="1" start="501" length="513" />
+			<highlight index="2" start="1085" length="283" />
+			<highlight index="3" start="1356" length="384" />
+			<highlight index="4" start="1722" length="360" />
+			<highlight index="5" start="2070" length="1487" />
+			<subtitles>
+				<subtitle lang="dk" line="Om foråret er jeg på ferie" />
+				<subtitle lang="nz" line="In spring I go on holiday" />
+				<subtitle lang="en" line="In spring I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="mais il n'y a pas de plage." start="156112" length="4000" >
+			<highlight index="0" start="477" length="531" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="684" />
+			<highlight index="3" start="1881" length="159" />
+			<highlight index="4" start="2029" length="525" />
+			<highlight index="5" start="2542" length="171" />
+			<highlight index="6" start="2707" length="1092" />
+			<subtitles>
+				<subtitle lang="dk" line="men jeg tager ikke til stranden" />
+				<subtitle lang="nz" line="but there is no beach." />
+				<subtitle lang="en" line="but there is no beach." />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'est de la France" start="159945" length="3484" >
+			<highlight index="0" start="97" length="200" />
+			<highlight index="1" start="298" length="272" />
+			<highlight index="2" start="560" length="200" />
+			<highlight index="3" start="858" length="370" />
+			<highlight index="4" start="1207" length="200" />
+			<highlight index="5" start="1377" length="395" />
+			<highlight index="6" start="1747" length="1135" />
+			<subtitles>
+				<subtitle lang="dk" line="jeg tager til Østfrankrig" />
+				<subtitle lang="nz" line="I go to the east of France" />
+				<subtitle lang="en" line="I go to the east of France" />
+			</subtitles>
+		</line>
+		<line words="juste à côté de la Suisse." start="163081" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="313" />
+			<highlight index="2" start="1303" length="891" />
+			<highlight index="3" start="2182" length="543" />
+			<highlight index="4" start="2719" length="183" />
+			<highlight index="5" start="2914" length="578" />
+			<subtitles>
+				<subtitle lang="dk" line="til Alperne i Svejts" />
+				<subtitle lang="nz" line="just next to Switzerland." />
+				<subtitle lang="en" line="just next to Switzerland." />
+			</subtitles>
+		</line>
+		<line words="Au printemps je vais en vacances" start="166914" length="4000" >
+			<highlight index="0" start="477" length="200" />
+			<highlight index="1" start="672" length="513" />
+			<highlight index="2" start="1168" length="200" />
+			<highlight index="3" start="1356" length="519" />
+			<highlight index="4" start="1852" length="230" />
+			<highlight index="5" start="2070" length="1487" />
+			<subtitles>
+				<subtitle lang="dk" line="Om foråret er jeg på ferie" />
+				<subtitle lang="nz" line="In spring I go on holiday" />
+				<subtitle lang="en" line="In spring I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="mais il n'y a pas de plage." start="170573" length="4000" >
+			<highlight index="0" start="477" length="531" />
+			<highlight index="1" start="996" length="231" />
+			<highlight index="2" start="1203" length="684" />
+			<highlight index="3" start="1881" length="159" />
+			<highlight index="4" start="2029" length="525" />
+			<highlight index="5" start="2542" length="295" />
+			<highlight index="6" start="2849" length="950" />
+			<subtitles>
+				<subtitle lang="dk" line="men jeg tager ikke til stranden" />
+				<subtitle lang="nz" line="but there is no beach." />
+				<subtitle lang="en" line="but there is no beach." />
+			</subtitles>
+		</line>
+		<line words="Je vais à l'est de la France" start="174406" length="3484" >
+			<highlight index="0" start="97" length="200" />
+			<highlight index="1" start="298" length="272" />
+			<highlight index="2" start="560" length="200" />
+			<highlight index="3" start="858" length="370" />
+			<highlight index="4" start="1207" length="200" />
+			<highlight index="5" start="1377" length="395" />
+			<highlight index="6" start="1747" length="1135" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg tager til Østfrankrig" />
+				<subtitle lang="nz" line="I go to the east of France" />
+				<subtitle lang="en" line="I go to the east of France" />
+			</subtitles>
+		</line>
+		<line words="juste à côté de la Suisse." start="177542" length="4000" >
+			<highlight index="0" start="554" length="454" />
+			<highlight index="1" start="996" length="313" />
+			<highlight index="2" start="1303" length="891" />
+			<highlight index="3" start="2182" length="543" />
+			<highlight index="4" start="2719" length="183" />
+			<highlight index="5" start="2914" length="578" />
+			<subtitles>
+				<subtitle lang="dk" line="Til Alperne i Svejts" />
+				<subtitle lang="nz" line="just next to Switzerland." />
+				<subtitle lang="en" line="just next to Switzerland." />
+			</subtitles>
+		</line>
+		<line words="La mer, la plage et les bateaux" start="181201" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Havet, stranden og bådene" />
+				<subtitle lang="nz" line="The sea, the beach and the boats" />
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="je les aime, je les aime!" start="184860" length="3833" >
+			<highlight index="0" start="537" length="310" />
+			<highlight index="1" start="847" length="200" />
+			<highlight index="2" start="1034" length="820" />
+			<highlight index="3" start="2165" length="457" />
+			<highlight index="4" start="2651" length="254" />
+			<highlight index="5" start="2922" length="859" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg elsker det hele, jeg elsker det hele" />
+				<subtitle lang="nz" line="I love them, I love them!" />
+				<subtitle lang="en" line="I love them, I love them!" />
+			</subtitles>
+		</line>
+		<line words="La baie, le sable et les rochers" start="188345" length="4007" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="401" length="384" />
+			<highlight index="2" start="998" length="200" />
+			<highlight index="3" start="1187" length="420" />
+			<highlight index="4" start="1944" length="200" />
+			<highlight index="5" start="2127" length="467" />
+			<highlight index="6" start="2671" length="1034" />
+			<subtitles>
+				<subtitle lang="dk" line="Bugten, sandet og klipperne" />
+				<subtitle lang="nz" line="The bay, the sand and the rocks" />
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="les coquillages que l'on récolte." start="192178" length="4000" >
+			<highlight index="0" start="58" length="378" />
+			<highlight index="1" start="418" length="1275" />
+			<highlight index="2" start="1846" length="277" />
+			<highlight index="3" start="2094" length="619" />
+			<highlight index="4" start="2690" length="1103" />
+			<subtitles>
+				<subtitle lang="dk" line="Skallerne som vi samler" />
+				<subtitle lang="nz" line="the shells that we collect." />
+				<subtitle lang="en" line="the shells that we collect." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

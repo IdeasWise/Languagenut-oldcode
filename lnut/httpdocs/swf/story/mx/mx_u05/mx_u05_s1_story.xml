@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="336561" >
+	<lines>
+		<line words="Los Cuatro Amigos" start="288" length="5484" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2551" length="333" />
+				<highlight index="1" start="2861" length="548" />
+				<highlight index="2" start="3377" length="1098" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The Four Friends" />
+				<subtitle lang="en" line="The Four Friends" />
+			</subtitles>
+		</line>
+		<line words="El sol brilla y el pequeño caballo negro va a pasear por el campo." start="4618" length="9814" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2759" length="298" />
+				<highlight index="1" start="3043" length="313" />
+				<highlight index="2" start="3313" length="669" />
+				<highlight index="3" start="4181" length="185" />
+				<highlight index="4" start="4323" length="199" />
+				<highlight index="5" start="4465" length="626" />
+				<highlight index="6" start="5077" length="398" />
+				<highlight index="7" start="5418" length="526" />
+				<highlight index="8" start="6143" length="413" />
+				<highlight index="9" start="6499" length="128" />
+				<highlight index="10" start="6599" length="440" />
+				<highlight index="11" start="6983" length="213" />
+				<highlight index="12" start="7167" length="157" />
+				<highlight index="13" start="7295" length="968" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The sun is shining. The little black horse is going for a walk in the fields." />
+				<subtitle lang="en" line="The sun is shining. The little black horse is going for a walk in the fields." />
+			</subtitles>
+		</line>
+		<line words="Él ve un hermoso manzano con una enorme manzana roja.  §¡Oooh!§ dice el pequeño caballo negro. §Esa es una hermosa manzana roja. Me encantaría comerme esa hermosa manzana roja.§" start="14143" length="18473" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1177" length="456" />
+				<highlight index="1" start="1579" length="294" />
+				<highlight index="2" start="1766" length="241" />
+				<highlight index="3" start="1981" length="669" />
+				<highlight index="4" start="2543" length="803" />
+				<highlight index="5" start="3239" length="267" />
+				<highlight index="6" start="3426" length="348" />
+				<highlight index="7" start="3667" length="616" />
+				<highlight index="8" start="4229" length="616" />
+				<highlight index="9" start="4818" length="723" />
+				<highlight index="11" start="5996" length="616" />
+				<highlight index="12" start="6853" length="375" />
+				<highlight index="13" start="7147" length="295" />
+				<highlight index="14" start="7388" length="562" />
+				<highlight index="15" start="7843" length="562" />
+				<highlight index="16" start="8352" length="535" />
+				<highlight index="17" start="9610" length="428" />
+				<highlight index="18" start="10012" length="321" />
+				<highlight index="19" start="10253" length="455" />
+				<highlight index="20" start="10574" length="749" />
+				<highlight index="21" start="11190" length="776" />
+				<highlight index="22" start="11859" length="482" />
+				<highlight index="23" start="12956" length="375" />
+				<highlight index="24" start="13278" length="1124" />
+				<highlight index="25" start="14349" length="963" />
+				<highlight index="26" start="15232" length="482" />
+				<highlight index="27" start="15633" length="482" />
+				<highlight index="28" start="16089" length="696" />
+				<highlight index="29" start="16678" length="842" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He sees a beautiful apple tree with a massive red apple. §Oh,§ says the little black horse. §That's a beautiful red apple. I'd really like to eat that beautiful red apple.§" />
+				<subtitle lang="en" line="He sees a beautiful apple tree with a massive red apple. §Oh,§ says the little black horse. §That's a beautiful red apple. I'd really like to eat that beautiful red apple.§" />
+			</subtitles>
+		</line>
+		<line words="Entonces, el pequeño caballo trata de alcanzar la manzana, pero es imposible." start="31751" length="11257" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2626" length="930" />
+				<highlight index="1" start="4013" length="293" />
+				<highlight index="2" start="4241" length="604" />
+				<highlight index="3" start="4796" length="571" />
+				<highlight index="4" start="5334" length="636" />
+				<highlight index="5" start="5905" length="196" />
+				<highlight index="6" start="6084" length="604" />
+				<highlight index="7" start="6672" length="277" />
+				<highlight index="8" start="6884" length="815" />
+				<highlight index="9" start="8238" length="326" />
+				<highlight index="10" start="8499" length="244" />
+				<highlight index="11" start="8694" length="1098" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="So, the little black horse tries to pick the apple but it's impossible!" />
+				<subtitle lang="en" line="So, the little black horse tries to pick the apple but it's impossible!" />
+			</subtitles>
+		</line>
+		<line words="§Mmmm,§ dice el pequeño caballo negro, §voy a ir a buscar a mi amigo el borrego.§ El caballo galopa, el caballo galopa hacia la pequeña casa del borrego blanco." start="42719" length="16453" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1883" length="906" />
+				<highlight index="1" start="2789" length="549" />
+				<highlight index="2" start="3266" length="191" />
+				<highlight index="3" start="3385" length="572" />
+				<highlight index="4" start="3862" length="620" />
+				<highlight index="5" start="4387" length="572" />
+				<highlight index="6" start="5793" length="287" />
+				<highlight index="7" start="6008" length="238" />
+				<highlight index="8" start="6127" length="358" />
+				<highlight index="9" start="6413" length="215" />
+				<highlight index="10" start="6533" length="715" />
+				<highlight index="11" start="7224" length="286" />
+				<highlight index="12" start="7415" length="262" />
+				<highlight index="13" start="7629" length="406" />
+				<highlight index="14" start="7915" length="239" />
+				<highlight index="15" start="8130" length="548" />
+				<highlight index="16" start="9227" length="286" />
+				<highlight index="17" start="9441" length="596" />
+				<highlight index="18" start="9990" length="739" />
+				<highlight index="19" start="10872" length="405" />
+				<highlight index="20" start="11206" length="548" />
+				<highlight index="21" start="11707" length="691" />
+				<highlight index="22" start="12303" length="429" />
+				<highlight index="23" start="12636" length="191" />
+				<highlight index="24" start="12779" length="620" />
+				<highlight index="25" start="13328" length="429" />
+				<highlight index="26" start="13709" length="167" />
+				<highlight index="27" start="13781" length="715" />
+				<highlight index="28" start="14425" length="1058" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hmmm,§ says the little black horse, §I'll fetch my friend the sheep.§ The horse gallops, the horse gallops to the little white sheep's house." />
+				<subtitle lang="en" line="§Hmmm,§ says the little black horse, §I'll fetch my friend the sheep.§ The horse gallops, the horse gallops to the little white sheep's house." />
+			</subtitles>
+		</line>
+		<line words="Toc, toc, toc.  §¿Quién?§ dice el pequeño borrego blanco. §Soy yo, el pequeño caballo negro. Por favor ven a ayudarme.§ §Sí, iré en seguida.§ " start="58595" length="16452" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2193" length="310" />
+				<highlight index="1" start="2431" length="286" />
+				<highlight index="2" start="2670" length="605" />
+				<highlight index="4" start="4029" length="572" />
+				<highlight index="5" start="5173" length="382" />
+				<highlight index="6" start="5507" length="238" />
+				<highlight index="7" start="5650" length="572" />
+				<highlight index="8" start="6127" length="524" />
+				<highlight index="9" start="6556" length="596" />
+				<highlight index="10" start="7772" length="238" />
+				<highlight index="11" start="7891" length="334" />
+				<highlight index="12" start="8511" length="238" />
+				<highlight index="13" start="8702" length="596" />
+				<highlight index="14" start="9226" length="525" />
+				<highlight index="15" start="9727" length="429" />
+				<highlight index="16" start="10538" length="286" />
+				<highlight index="17" start="10776" length="453" />
+				<highlight index="18" start="11539" length="286" />
+				<highlight index="19" start="11730" length="262" />
+				<highlight index="20" start="11897" length="715" />
+				<highlight index="21" start="12898" length="501" />
+				<highlight index="22" start="13732" length="263" />
+				<highlight index="23" start="13899" length="262" />
+				<highlight index="24" start="14090" length="596" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Knock, knock, knock! §Who's there?§ says the little white sheep. §It's me, the little black horse. Please come and help me.§ §Yes, I'll come straight away.§" />
+				<subtitle lang="en" line="Knock, knock, knock! §Who's there?§ says the little white sheep. §It's me, the little black horse. Please come and help me.§ §Yes, I'll come straight away.§" />
+			</subtitles>
+		</line>
+		<line words="Entonces, los dos amigos regresaron a donde estaba el manzano. El borrego ve la hermosa manzana roja." start="74237" length="10969" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1843" length="986" />
+				<highlight index="1" start="3083" length="207" />
+				<highlight index="2" start="3274" length="302" />
+				<highlight index="3" start="3513" length="683" />
+				<highlight index="4" start="4164" length="1002" />
+				<highlight index="5" start="5102" length="191" />
+				<highlight index="6" start="5245" length="413" />
+				<highlight index="7" start="5627" length="413" />
+				<highlight index="8" start="5960" length="191" />
+				<highlight index="9" start="6104" length="667" />
+				<highlight index="10" start="7280" length="270" />
+				<highlight index="11" start="7502" length="652" />
+				<highlight index="12" start="8408" length="239" />
+				<highlight index="13" start="8599" length="255" />
+				<highlight index="14" start="8806" length="572" />
+				<highlight index="15" start="9315" length="667" />
+				<highlight index="16" start="9934" length="525" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="So the two friends go back to the apple tree. The sheep sees the beautiful red apple. " />
+				<subtitle lang="en" line="So the two friends go back to the apple tree. The sheep sees the beautiful red apple. " />
+			</subtitles>
+		</line>
+		<line words="§¡Oooh!§ dice el pequeño borrego blanco. §Esa es una hermosa manzana roja. Me encantaría comerme esa hermosa manzana roja.§" start="85439" length="11834" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="1" start="0" length="394" />
+				<highlight index="2" start="771" length="652" />
+				<highlight index="3" start="1337" length="189" />
+				<highlight index="4" start="1474" length="446" />
+				<highlight index="5" start="1852" length="600" />
+				<highlight index="6" start="2400" length="498" />
+				<highlight index="7" start="3498" length="360" />
+				<highlight index="8" start="3790" length="257" />
+				<highlight index="9" start="3995" length="258" />
+				<highlight index="10" start="4218" length="566" />
+				<highlight index="11" start="4733" length="669" />
+				<highlight index="12" start="5333" length="514" />
+				<highlight index="13" start="5968" length="274" />
+				<highlight index="14" start="6173" length="1098" />
+				<highlight index="15" start="7219" length="806" />
+				<highlight index="16" start="7957" length="446" />
+				<highlight index="17" start="8334" length="635" />
+				<highlight index="18" start="8952" length="908" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Oh,§ says the little white sheep. §That's a beautiful red apple. I'd really like to eat that beautiful red apple.§" />
+				<subtitle lang="en" line="§Oh,§ says the little white sheep. §That's a beautiful red apple. I'd really like to eat that beautiful red apple.§" />
+			</subtitles>
+		</line>
+		<line words="§Rápido,§ dice el pequeño caballo negro,  §sube a mi lomo.§ El borrego se sube al lomo del caballo y trata de alcanzar la manzana, pero es imposible." start="96696" length="15875" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1955" length="736" />
+				<highlight index="1" start="3059" length="437" />
+				<highlight index="2" start="3404" length="230" />
+				<highlight index="3" start="3565" length="552" />
+				<highlight index="4" start="4048" length="438" />
+				<highlight index="5" start="4394" length="667" />
+				<highlight index="7" start="5268" length="529" />
+				<highlight index="8" start="5705" length="207" />
+				<highlight index="9" start="5866" length="207" />
+				<highlight index="10" start="6004" length="506" />
+				<highlight index="11" start="6947" length="322" />
+				<highlight index="12" start="7177" length="759" />
+				<highlight index="13" start="7867" length="276" />
+				<highlight index="14" start="8097" length="369" />
+				<highlight index="15" start="8351" length="253" />
+				<highlight index="16" start="8535" length="460" />
+				<highlight index="17" start="8949" length="253" />
+				<highlight index="18" start="9110" length="759" />
+				<highlight index="19" start="10076" length="207" />
+				<highlight index="20" start="10191" length="460" />
+				<highlight index="21" start="10582" length="184" />
+				<highlight index="22" start="10720" length="644" />
+				<highlight index="23" start="11272" length="230" />
+				<highlight index="24" start="11433" length="782" />
+				<highlight index="25" start="12538" length="368" />
+				<highlight index="26" start="12837" length="299" />
+				<highlight index="27" start="13021" length="897" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Quick, quick,§ says the little black horse, §climb onto my back.§ The sheep climbs onto the horses back. He tries to pick the apple but it’s impossible!" />
+				<subtitle lang="en" line="§Quick, quick,§ says the little black horse, §climb onto my back.§ The sheep climbs onto the horses back. He tries to pick the apple but it’s impossible!" />
+			</subtitles>
+		</line>
+		<line words="§Mmmm,§ dice el pequeño borrego blanco, §voy a ir a buscar a mi amigo el conejo.§ El borrego corre, el borrego corre hacia la pequeña casa del conejo gris." start="111705" length="15010" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1914" length="783" />
+				<highlight index="1" start="2784" length="348" />
+				<highlight index="2" start="3045" length="217" />
+				<highlight index="3" start="3197" length="587" />
+				<highlight index="4" start="3697" length="566" />
+				<highlight index="5" start="4176" length="565" />
+				<highlight index="6" start="5459" length="327" />
+				<highlight index="7" start="5720" length="174" />
+				<highlight index="8" start="5807" length="435" />
+				<highlight index="9" start="6155" length="261" />
+				<highlight index="10" start="6329" length="501" />
+				<highlight index="11" start="6743" length="195" />
+				<highlight index="12" start="6851" length="218" />
+				<highlight index="13" start="7025" length="457" />
+				<highlight index="14" start="7439" length="152" />
+				<highlight index="15" start="7504" length="566" />
+				<highlight index="16" start="8505" length="391" />
+				<highlight index="17" start="8809" length="544" />
+				<highlight index="18" start="9309" length="414" />
+				<highlight index="19" start="10310" length="283" />
+				<highlight index="20" start="10506" length="544" />
+				<highlight index="21" start="10984" length="348" />
+				<highlight index="22" start="11289" length="435" />
+				<highlight index="23" start="11615" length="261" />
+				<highlight index="24" start="11811" length="587" />
+				<highlight index="25" start="12311" length="457" />
+				<highlight index="26" start="12724" length="196" />
+				<highlight index="27" start="12855" length="479" />
+				<highlight index="28" start="13290" length="896" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hmmm,§ says little white sheep, §I'll fetch my friend the rabbit.§ The sheep runs, the sheep runs to the little grey rabbit's house." />
+				<subtitle lang="en" line="§Hmmm,§ says little white sheep, §I'll fetch my friend the rabbit.§ The sheep runs, the sheep runs to the little grey rabbit's house." />
+			</subtitles>
+		</line>
+		<line words="“Toc, toc, toc”  §¿Quién?§ dice el pequeño conejo gris. §Soy yo, el pequeño borrego blanco. Por favor ven a ayudarme.§ §Sí, iré en seguida.§" start="126426" length="15299" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1795" length="532" />
+				<highlight index="1" start="2239" length="332" />
+				<highlight index="2" start="2483" length="687" />
+				<highlight index="4" start="3525" length="510" />
+				<highlight index="5" start="4412" length="443" />
+				<highlight index="6" start="4766" length="200" />
+				<highlight index="7" start="4877" length="710" />
+				<highlight index="8" start="5498" length="510" />
+				<highlight index="9" start="5986" length="377" />
+				<highlight index="10" start="6606" length="422" />
+				<highlight index="11" start="6961" length="532" />
+				<highlight index="12" start="7781" length="222" />
+				<highlight index="13" start="7959" length="598" />
+				<highlight index="14" start="8491" length="443" />
+				<highlight index="15" start="8868" length="621" />
+				<highlight index="16" start="9799" length="266" />
+				<highlight index="17" start="9999" length="354" />
+				<highlight index="18" start="10287" length="288" />
+				<highlight index="19" start="10486" length="156" />
+				<highlight index="20" start="10619" length="688" />
+				<highlight index="21" start="11551" length="376" />
+				<highlight index="22" start="12282" length="466" />
+				<highlight index="23" start="12681" length="222" />
+				<highlight index="24" start="12836" length="799" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Knock, knock, knock!§ §Who’s there?§ says the little grey rabbit. §It's me, the little white sheep. Please come and help me.§ §Yes, I'll come straight away.§" />
+				<subtitle lang="en" line="§Knock, knock, knock!§ §Who’s there?§ says the little grey rabbit. §It's me, the little white sheep. Please come and help me.§ §Yes, I'll come straight away.§" />
+			</subtitles>
+		</line>
+		<line words="Entonces, los dos amigos regresaron a donde estaba el manzano. El conejo ve la hermosa manzana roja." start="141725" length="10679" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1299" length="975" />
+				<highlight index="1" start="2507" length="309" />
+				<highlight index="2" start="2754" length="372" />
+				<highlight index="3" start="3064" length="758" />
+				<highlight index="4" start="4101" length="851" />
+				<highlight index="5" start="4874" length="217" />
+				<highlight index="6" start="5045" length="356" />
+				<highlight index="7" start="5385" length="526" />
+				<highlight index="8" start="5849" length="186" />
+				<highlight index="9" start="5989" length="665" />
+				<highlight index="10" start="6917" length="325" />
+				<highlight index="11" start="7196" length="510" />
+				<highlight index="12" start="7644" length="202" />
+				<highlight index="13" start="7815" length="185" />
+				<highlight index="14" start="7908" length="665" />
+				<highlight index="15" start="8496" length="650" />
+				<highlight index="16" start="9084" length="850" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="So, the two friends go back to the apple tree. The rabbit sees the beautiful red apple." />
+				<subtitle lang="en" line="So, the two friends go back to the apple tree. The rabbit sees the beautiful red apple." />
+			</subtitles>
+		</line>
+		<line words=" §¡Oooh!§ dice el pequeño conejo gris. §Esa es una hermosa manzana roja. Me encantaría comerme esa hermosa manzana roja.§" start="151827" length="11835" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="1" start="0" length="663" />
+				<highlight index="2" start="908" length="464" />
+				<highlight index="3" start="1354" length="206" />
+				<highlight index="4" start="1474" length="549" />
+				<highlight index="5" start="1955" length="480" />
+				<highlight index="6" start="2383" length="395" />
+				<highlight index="7" start="3310" length="411" />
+				<highlight index="8" start="3653" length="171" />
+				<highlight index="9" start="3790" length="394" />
+				<highlight index="10" start="4099" length="617" />
+				<highlight index="11" start="4630" length="669" />
+				<highlight index="12" start="5231" length="514" />
+				<highlight index="13" start="6002" length="292" />
+				<highlight index="14" start="6242" length="1012" />
+				<highlight index="15" start="7512" length="789" />
+				<highlight index="16" start="8266" length="395" />
+				<highlight index="17" start="8626" length="515" />
+				<highlight index="18" start="9089" length="652" />
+				<highlight index="19" start="9690" length="514" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line=" §Oh,§ says the little grey rabbit. §That's a beautiful red apple. I'd really like to eat the beautiful red apple.§" />
+				<subtitle lang="en" line=" §Oh,§ says the little grey rabbit. §That's a beautiful red apple. I'd really like to eat the beautiful red apple.§" />
+			</subtitles>
+		</line>
+		<line words="§Rápido.§ dice el pequeño borrego blanco. §Sube a mi cabeza.§ Entonces, el borrego se sube al lomo del caballo y el conejo se sube a la cabeza del borrego y trata de alcanzar la manzana, pero es imposible." start="163373" length="20783" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1746" length="783" />
+				<highlight index="1" start="2831" length="391" />
+				<highlight index="2" start="3162" length="181" />
+				<highlight index="3" start="3312" length="784" />
+				<highlight index="4" start="4005" length="512" />
+				<highlight index="5" start="4457" length="602" />
+				<highlight index="6" start="5240" length="452" />
+				<highlight index="7" start="5632" length="241" />
+				<highlight index="8" start="5752" length="331" />
+				<highlight index="9" start="5933" length="602" />
+				<highlight index="10" start="6927" length="1174" />
+				<highlight index="11" start="7951" length="512" />
+				<highlight index="12" start="8402" length="543" />
+				<highlight index="13" start="8824" length="241" />
+				<highlight index="14" start="8975" length="572" />
+				<highlight index="15" start="9487" length="301" />
+				<highlight index="16" start="9667" length="512" />
+				<highlight index="17" start="10089" length="301" />
+				<highlight index="18" start="10240" length="602" />
+				<highlight index="19" start="11053" length="361" />
+				<highlight index="20" start="11294" length="301" />
+				<highlight index="21" start="11444" length="753" />
+				<highlight index="22" start="12077" length="331" />
+				<highlight index="23" start="12318" length="482" />
+				<highlight index="24" start="12709" length="332" />
+				<highlight index="25" start="12950" length="271" />
+				<highlight index="26" start="13071" length="662" />
+				<highlight index="27" start="13643" length="301" />
+				<highlight index="28" start="13884" length="632" />
+				<highlight index="29" start="14607" length="452" />
+				<highlight index="30" start="14908" length="512" />
+				<highlight index="31" start="15299" length="211" />
+				<highlight index="32" start="15420" length="783" />
+				<highlight index="33" start="16113" length="241" />
+				<highlight index="34" start="16293" length="663" />
+				<highlight index="35" start="17408" length="512" />
+				<highlight index="36" start="17739" length="271" />
+				<highlight index="37" start="17920" length="1495" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Quick§ says the white sheep, §climb onto my head.§ So, the sheep climbs onto the horses back and the rabbit climbs on to the sheep’s head. He tries to pick the apple but it’s impossible!" />
+				<subtitle lang="en" line="§Quick§ says the white sheep, §climb onto my head.§ So, the sheep climbs onto the horses back and the rabbit climbs on to the sheep’s head. He tries to pick the apple but it’s impossible!" />
+			</subtitles>
+		</line>
+		<line words="§Mmmm,§ dice el pequeño conejo gris. §Voy a ir a buscar a mi amiga la ratoncita.§ El conejo brinca, el conejo brinca hacia la pequeña casa de la ratoncita café." start="183867" length="17030" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1579" length="938" />
+				<highlight index="1" start="2443" length="419" />
+				<highlight index="2" start="2714" length="272" />
+				<highlight index="3" start="2887" length="592" />
+				<highlight index="4" start="3381" length="592" />
+				<highlight index="5" start="3874" length="592" />
+				<highlight index="6" start="5034" length="420" />
+				<highlight index="7" start="5404" length="247" />
+				<highlight index="8" start="5552" length="445" />
+				<highlight index="9" start="5947" length="346" />
+				<highlight index="10" start="6219" length="888" />
+				<highlight index="11" start="6984" length="173" />
+				<highlight index="12" start="7107" length="198" />
+				<highlight index="13" start="7181" length="395" />
+				<highlight index="14" start="7477" length="297" />
+				<highlight index="15" start="7699" length="938" />
+				<highlight index="16" start="9378" length="271" />
+				<highlight index="17" start="9575" length="543" />
+				<highlight index="18" start="10069" length="839" />
+				<highlight index="19" start="11031" length="370" />
+				<highlight index="20" start="11303" length="592" />
+				<highlight index="21" start="11772" length="592" />
+				<highlight index="22" start="12290" length="296" />
+				<highlight index="23" start="12487" length="296" />
+				<highlight index="24" start="12685" length="666" />
+				<highlight index="25" start="13277" length="494" />
+				<highlight index="26" start="13968" length="296" />
+				<highlight index="27" start="14190" length="296" />
+				<highlight index="28" start="14388" length="940" />
+				<highlight index="29" start="15177" length="842" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hmmm,§ says the little grey rabbit. §I'll fetch my friend the mouse.§ The rabbit hops, the rabbit hops to the little brown mouse's house." />
+				<subtitle lang="en" line="§Hmmm,§ says the little grey rabbit. §I'll fetch my friend the mouse.§ The rabbit hops, the rabbit hops to the little brown mouse's house." />
+			</subtitles>
+		</line>
+		<line words="“Toc, toc, toc.”  §¿Quién?§ dice la ratoncita café. §Soy yo, el pequeño conejo gris. Por favor ven a ayudarme.§ §Sí, iré en seguida.§" start="200608" length="15876" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1794" length="460" />
+				<highlight index="1" start="2162" length="299" />
+				<highlight index="2" start="2415" length="414" />
+				<highlight index="4" start="3612" length="621" />
+				<highlight index="5" start="4693" length="414" />
+				<highlight index="6" start="5015" length="299" />
+				<highlight index="7" start="5245" length="736" />
+				<highlight index="8" start="5889" length="529" />
+				<highlight index="9" start="7109" length="483" />
+				<highlight index="10" start="7477" length="483" />
+				<highlight index="11" start="7822" length="483" />
+				<highlight index="12" start="8167" length="644" />
+				<highlight index="13" start="8673" length="644" />
+				<highlight index="14" start="9202" length="437" />
+				<highlight index="15" start="9870" length="460" />
+				<highlight index="16" start="10215" length="483" />
+				<highlight index="17" start="10606" length="230" />
+				<highlight index="18" start="10813" length="230" />
+				<highlight index="19" start="10905" length="690" />
+				<highlight index="20" start="11917" length="506" />
+				<highlight index="21" start="12653" length="322" />
+				<highlight index="22" start="12883" length="277" />
+				<highlight index="23" start="13114" length="798" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Knock, knock, knock!§ §Who is there?§ says the little brown mouse. §It's me, the little grey rabbit. Please come and help me.§ §Yes, I'll come straight away.§" />
+				<subtitle lang="en" line="§Knock, knock, knock!§ §Who is there?§ says the little brown mouse. §It's me, the little grey rabbit. Please come and help me.§ §Yes, I'll come straight away.§" />
+			</subtitles>
+		</line>
+		<line words="Los dos amigos regresaron a donde estaba el manzano. El ratón ve la hermosa manzana roja. §¡Oooh!§ dice la ratoncita café, §esa es una hermosa manzana roja. Me encantaría comerme esa hermosa manzana roja.§" start="216484" length="19916" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="634" length="578" />
+				<highlight index="1" start="1154" length="317" />
+				<highlight index="2" start="1414" length="808" />
+				<highlight index="3" start="2135" length="1068" />
+				<highlight index="4" start="3174" length="231" />
+				<highlight index="5" start="3261" length="404" />
+				<highlight index="6" start="3549" length="520" />
+				<highlight index="7" start="3925" length="231" />
+				<highlight index="8" start="4069" length="750" />
+				<highlight index="9" start="5195" length="375" />
+				<highlight index="10" start="5425" length="664" />
+				<highlight index="11" start="5974" length="519" />
+				<highlight index="12" start="6407" length="404" />
+				<highlight index="13" start="6695" length="318" />
+				<highlight index="14" start="6984" length="779" />
+				<highlight index="15" start="7734" length="549" />
+				<highlight index="16" start="8860" length="750" />
+				<highlight index="17" start="9726" length="491" />
+				<highlight index="18" start="10130" length="231" />
+				<highlight index="19" start="10303" length="722" />
+				<highlight index="20" start="10938" length="548" />
+				<highlight index="21" start="11948" length="462" />
+				<highlight index="22" start="12295" length="288" />
+				<highlight index="23" start="12439" length="462" />
+				<highlight index="24" start="12843" length="577" />
+				<highlight index="25" start="13305" length="721" />
+				<highlight index="26" start="13882" length="606" />
+				<highlight index="27" start="14777" length="404" />
+				<highlight index="28" start="15036" length="895" />
+				<highlight index="29" start="15845" length="692" />
+				<highlight index="30" start="16422" length="433" />
+				<highlight index="31" start="16768" length="635" />
+				<highlight index="32" start="17374" length="491" />
+				<highlight index="33" start="17778" length="1326" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The two friends go back to the apple tree. The mouse sees the beautiful red apple. §Oh,§ says the little brown mouse, §that's a beautiful red apple. I'd really like to eat the beautiful red apple.§" />
+				<subtitle lang="en" line="The two friends go back to the apple tree. The mouse sees the beautiful red apple. §Oh,§ says the little brown mouse, §that's a beautiful red apple. I'd really like to eat the beautiful red apple.§" />
+			</subtitles>
+		</line>
+		<line words="§Rápido,§ dice el pequeño conejo gris.§ §Sube a mi nariz.§ Entonces, el borrego se sube al lomo del caballo y el conejo se sube a la cabeza del borrego y la ratoncita se sube a la nariz del conejo." start="235823" length="19628" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1961" length="908" />
+				<highlight index="1" start="3162" length="468" />
+				<highlight index="2" start="3572" length="234" />
+				<highlight index="3" start="3747" length="615" />
+				<highlight index="4" start="4274" length="352" />
+				<highlight index="5" start="4597" length="732" />
+				<highlight index="6" start="5504" length="586" />
+				<highlight index="7" start="6002" length="205" />
+				<highlight index="8" start="6119" length="234" />
+				<highlight index="9" start="6295" length="410" />
+				<highlight index="10" start="7320" length="1054" />
+				<highlight index="11" start="8608" length="468" />
+				<highlight index="12" start="8930" length="644" />
+				<highlight index="13" start="9486" length="293" />
+				<highlight index="14" start="9691" length="557" />
+				<highlight index="15" start="10160" length="439" />
+				<highlight index="16" start="10511" length="498" />
+				<highlight index="17" start="10892" length="380" />
+				<highlight index="18" start="11214" length="498" />
+				<highlight index="19" start="11917" length="380" />
+				<highlight index="20" start="12268" length="234" />
+				<highlight index="21" start="12385" length="732" />
+				<highlight index="22" start="13234" length="293" />
+				<highlight index="23" start="13498" length="468" />
+				<highlight index="24" start="13908" length="205" />
+				<highlight index="25" start="14025" length="205" />
+				<highlight index="26" start="14142" length="556" />
+				<highlight index="27" start="14552" length="234" />
+				<highlight index="28" start="14728" length="819" />
+				<highlight index="29" start="15723" length="264" />
+				<highlight index="30" start="15928" length="264" />
+				<highlight index="31" start="16074" length="1084" />
+				<highlight index="32" start="17363" length="351" />
+				<highlight index="33" start="17539" length="527" />
+				<highlight index="34" start="17978" length="175" />
+				<highlight index="35" start="18066" length="234" />
+				<highlight index="36" start="18183" length="527" />
+				<highlight index="37" start="18593" length="263" />
+				<highlight index="38" start="18739" length="815" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Quick,§ says the little grey rabbit. §Climb onto my nose.§ So the sheep climbs onto the horse’s back, the rabbit climbs onto the sheep’s head and the mouse climbs onto the rabbit’s nose. " />
+				<subtitle lang="en" line="§Quick,§ says the little grey rabbit. §Climb onto my nose.§ So the sheep climbs onto the horse’s back, the rabbit climbs onto the sheep’s head and the mouse climbs onto the rabbit’s nose. " />
+			</subtitles>
+		</line>
+		<line words="La ratoncita trata de alcanzar la manzana con su mano y... logra agarrar la hermosa manzana roja." start="255162" length="10639" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="632" length="385" />
+				<highlight index="1" start="940" length="879" />
+				<highlight index="2" start="2266" length="385" />
+				<highlight index="3" start="2574" length="262" />
+				<highlight index="4" start="2790" length="678" />
+				<highlight index="5" start="3422" length="185" />
+				<highlight index="6" start="3546" length="632" />
+				<highlight index="7" start="4147" length="247" />
+				<highlight index="8" start="4363" length="262" />
+				<highlight index="9" start="4548" length="431" />
+				<highlight index="10" start="5272" length="432" />
+				<highlight index="11" start="6336" length="509" />
+				<highlight index="12" start="6783" length="401" />
+				<highlight index="13" start="7153" length="278" />
+				<highlight index="14" start="7369" length="478" />
+				<highlight index="15" start="7785" length="602" />
+				<highlight index="16" start="8387" length="832" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The mouse reaches out her hand and... she picks the beautiful red apple." />
+				<subtitle lang="en" line="The mouse reaches out her hand and... she picks the beautiful red apple." />
+			</subtitles>
+		</line>
+		<line words=" §¡Yupii!§ grita la ratoncita café y salta hacia bajo.  §¡Yupii!§ grita el pequeño conejo gris y salta hacia abajo.  §¡Yupii!§ grita el pequeño borrego blanco y salta hacia abajo. §¡Yupii!§ grita el pequeño caballo negro." start="265265" length="23380" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="1" start="1727" length="1390" />
+				<highlight index="2" start="3015" length="542" />
+				<highlight index="3" start="3455" length="271" />
+				<highlight index="4" start="3625" length="881" />
+				<highlight index="5" start="4370" length="610" />
+				<highlight index="6" start="4912" length="542" />
+				<highlight index="7" start="5387" length="576" />
+				<highlight index="8" start="5895" length="474" />
+				<highlight index="9" start="6200" length="610" />
+				<highlight index="11" start="7284" length="1423" />
+				<highlight index="12" start="8775" length="610" />
+				<highlight index="13" start="9283" length="305" />
+				<highlight index="14" start="9452" length="509" />
+				<highlight index="15" start="9893" length="610" />
+				<highlight index="16" start="10469" length="610" />
+				<highlight index="17" start="10977" length="339" />
+				<highlight index="18" start="11180" length="746" />
+				<highlight index="19" start="11824" length="305" />
+				<highlight index="20" start="11994" length="609" />
+				<highlight index="22" start="13247" length="1152" />
+				<highlight index="23" start="14298" length="609" />
+				<highlight index="24" start="14738" length="271" />
+				<highlight index="25" start="14907" length="509" />
+				<highlight index="26" start="15314" length="508" />
+				<highlight index="27" start="15721" length="542" />
+				<highlight index="28" start="16093" length="542" />
+				<highlight index="29" start="16568" length="508" />
+				<highlight index="30" start="16974" length="407" />
+				<highlight index="31" start="17347" length="474" />
+				<highlight index="32" start="18465" length="1389" />
+				<highlight index="33" start="19752" length="373" />
+				<highlight index="34" start="20057" length="407" />
+				<highlight index="35" start="20227" length="677" />
+				<highlight index="36" start="20667" length="576" />
+				<highlight index="37" start="21108" length="1013" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hoorah!§ cries the little brown mouse and climbs down. §Hoorah!§ cries the little grey rabbit and climbs down. §Hoorah!§ cries the little white sheep and climbs down. §Hoorah!§ cries the little black horse." />
+				<subtitle lang="en" line="§Hoorah!§ cries the little brown mouse and climbs down. §Hoorah!§ cries the little grey rabbit and climbs down. §Hoorah!§ cries the little white sheep and climbs down. §Hoorah!§ cries the little black horse." />
+			</subtitles>
+		</line>
+		<line words="Chiquichaque. Los cuatro amigos se comen la hermosa manzana roja. ¡Mmm, mmm, mmm!" start="288068" length="13278" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2193" length="1963" />
+				<highlight index="1" start="4233" length="269" />
+				<highlight index="2" start="4464" length="558" />
+				<highlight index="3" start="4945" length="481" />
+				<highlight index="4" start="5330" length="211" />
+				<highlight index="5" start="5483" length="539" />
+				<highlight index="6" start="5945" length="212" />
+				<highlight index="7" start="6080" length="654" />
+				<highlight index="8" start="6638" length="673" />
+				<highlight index="9" start="7235" length="692" />
+				<highlight index="10" start="7850" length="1066" />
+				<highlight index="11" start="9428" length="1181" />
+				<highlight index="12" start="11160" length="1393" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Munch, munch, munch. The four friends eat the beautiful red apple. ‘Yum, yum, yum!’" />
+				<subtitle lang="en" line="Munch, munch, munch. The four friends eat the beautiful red apple. ‘Yum, yum, yum!’" />
+			</subtitles>
+		</line>
+		<line words="Entonces, el pequeño caballo negro galopa de regreso hacia su casa.  §¡Bye!§" start="301057" length="10391" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2078" length="1024" />
+				<highlight index="1" start="3267" length="271" />
+				<highlight index="2" start="3493" length="663" />
+				<highlight index="3" start="4110" length="512" />
+				<highlight index="4" start="4592" length="557" />
+				<highlight index="5" start="5119" length="723" />
+				<highlight index="6" start="5782" length="211" />
+				<highlight index="7" start="5948" length="843" />
+				<highlight index="8" start="6731" length="606" />
+				<highlight index="9" start="7227" length="272" />
+				<highlight index="10" start="7453" length="758" />
+				<highlight index="12" start="8372" length="1073" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Then the little black horse gallops home. §Goodbye!§" />
+				<subtitle lang="en" line="Then the little black horse gallops home. §Goodbye!§" />
+			</subtitles>
+		</line>
+		<line words="El pequeño borrego blanco corre de regreso hacia su casa.  §¡Bye!§" start="311160" length="8370" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2146" length="292" />
+				<highlight index="1" start="2401" length="679" />
+				<highlight index="2" start="3020" length="485" />
+				<highlight index="3" start="3444" length="576" />
+				<highlight index="4" start="3929" length="486" />
+				<highlight index="5" start="4366" length="206" />
+				<highlight index="6" start="4548" length="794" />
+				<highlight index="7" start="5300" length="413" />
+				<highlight index="8" start="5676" length="206" />
+				<highlight index="9" start="5834" length="546" />
+				<highlight index="11" start="6768" length="940" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The little white sheep runs home. §Goodbye!§" />
+				<subtitle lang="en" line="The little white sheep runs home. §Goodbye!§" />
+			</subtitles>
+		</line>
+		<line words="El pequeño conejo gris brinca de regreso hacia su casa.  §¡Bye!§" start="319242" length="9236" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2583" length="308" />
+				<highlight index="1" start="2850" length="496" />
+				<highlight index="2" start="3279" length="669" />
+				<highlight index="3" start="3868" length="321" />
+				<highlight index="4" start="4189" length="802" />
+				<highlight index="5" start="4925" length="214" />
+				<highlight index="6" start="5086" length="696" />
+				<highlight index="7" start="5728" length="455" />
+				<highlight index="8" start="6143" length="201" />
+				<highlight index="9" start="6290" length="562" />
+				<highlight index="11" start="7267" length="1057" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The little grey rabbit hops home. §Goodbye!§" />
+				<subtitle lang="en" line="The little grey rabbit hops home. §Goodbye!§" />
+			</subtitles>
+		</line>
+		<line words="Y la ratoncita café corretea de regreso hacia su casa.  §¡Bye!§" start="328190" length="8659" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2032" length="239" />
+				<highlight index="1" start="2258" length="251" />
+				<highlight index="2" start="2472" length="839" />
+				<highlight index="3" start="3250" length="476" />
+				<highlight index="4" start="3664" length="1116" />
+				<highlight index="5" start="4743" length="213" />
+				<highlight index="6" start="4918" length="728" />
+				<highlight index="7" start="5571" length="590" />
+				<highlight index="8" start="6123" length="176" />
+				<highlight index="9" start="6249" length="902" />
+				<highlight index="11" start="7152" length="1142" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="And the little brown mouse scurries home. §Goodbye!§" />
+				<subtitle lang="en" line="And the little brown mouse scurries home. §Goodbye!§" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

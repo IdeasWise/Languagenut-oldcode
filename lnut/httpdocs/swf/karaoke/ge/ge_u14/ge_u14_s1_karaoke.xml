@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="158432" >
+	<lines>
+		<line words="Wer mag Musik?" start="8117" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="11698" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="14876" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="18309" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="1306" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Jazz?" start="21743" length="2162" >
+			<highlight index="0" start="537" length="289" />
+			<highlight index="1" start="820" length="371" />
+			<highlight index="2" start="1183" length="490" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta el jazz?" />
+				<subtitle lang="en" line="Who likes jazz?" />
+				<subtitle lang="nl" line="Houd je van jazz?" />
+				<subtitle lang="fr" line="Qui aime le jazz?" />
+				<subtitle lang="nz" line="Who likes jazz?" />
+				<subtitle lang="dk" line="Hvem kan lide jazz?" />
+			</subtitles>
+		</line>
+		<line words="Ich liebe Jazz! Ich liebe Jazz!" start="23904" length="3052" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="354" length="419" />
+			<highlight index="2" start="758" length="454" />
+			<highlight index="3" start="1562" length="285" />
+			<highlight index="4" start="1839" length="389" />
+			<highlight index="5" start="2216" length="593" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Me encanta el jazz! ¡Me encanta el jazz! " />
+				<subtitle lang="en" line="I love jazz! I love jazz!" />
+				<subtitle lang="nl" line="Ik houd van jazz! Ik houd van jazz!" />
+				<subtitle lang="fr" line="J’adore le jazz! J’adore le jazz!" />
+				<subtitle lang="nz" line="I love jazz! I love jazz!" />
+				<subtitle lang="dk" line="Jeg elsker jazz! Jeg elsker jazz!" />
+			</subtitles>
+		</line>
+		<line words="Weil er toll ist" start="26956" length="2034" >
+			<highlight index="0" start="246" length="569" />
+			<highlight index="1" start="795" length="261" />
+			<highlight index="2" start="1048" length="185" />
+			<highlight index="3" start="1225" length="552" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque es fenomenal" />
+				<subtitle lang="en" line="Because it’s great." />
+				<subtitle lang="nl" line="omdat het zo cool klinkt" />
+				<subtitle lang="fr" line="Parce que c’est génial" />
+				<subtitle lang="nz" line="Because it’s great." />
+				<subtitle lang="dk" line="Fordi det er fedt." />
+			</subtitles>
+		</line>
+		<line words="Mit dem Saxophon" start="28482" length="2034" >
+			<highlight index="0" start="384" length="300" />
+			<highlight index="1" start="677" length="261" />
+			<highlight index="2" start="931" length="728" />
+			<subtitles>
+				<subtitle lang="sp" line="Con el saxofón" />
+				<subtitle lang="en" line="With the saxophone" />
+				<subtitle lang="nl" line="Met de saxofoon" />
+				<subtitle lang="fr" line="Avec le saxophone" />
+				<subtitle lang="nz" line="With the saxophone" />
+				<subtitle lang="dk" line="Med saxofonen" />
+			</subtitles>
+		</line>
+		<line words="und der Trompete" start="30516" length="2035" >
+			<highlight index="0" start="348" length="314" />
+			<highlight index="1" start="649" length="344" />
+			<highlight index="2" start="985" length="744" />
+			<subtitles>
+				<subtitle lang="sp" line="y la trompeta" />
+				<subtitle lang="en" line="And the trumpet" />
+				<subtitle lang="nl" line="En de trompet" />
+				<subtitle lang="fr" line="Et la trompette" />
+				<subtitle lang="nz" line="And the trumpet" />
+				<subtitle lang="dk" line="Og trompeten" />
+			</subtitles>
+		</line>
+		<line words="Ja ja! Jazz ist toll!" start="32296" length="2670" >
+			<highlight index="0" start="266" length="200" />
+			<highlight index="1" start="450" length="200" />
+			<highlight index="2" start="854" length="313" />
+			<highlight index="3" start="1154" length="279" />
+			<highlight index="4" start="1413" length="729" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Sí, el jazz es fenomenal!" />
+				<subtitle lang="fr" line="Ah oui le jazz c’est génial!" />
+				<subtitle lang="en" line="Oh yes, jazz is great!" />
+				<subtitle lang="nl" line="Ja, jazz klinkt o zo cool!" />
+				<subtitle lang="nz" line="Oh yes, jazz is great!" />
+				<subtitle lang="dk" line="Ja, jazz er fedt." />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="37255" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="40561" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="43994" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="47427" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Pop Musik?" start="50482" length="2416" >
+			<highlight index="0" start="750" length="250" />
+			<highlight index="1" start="997" length="408" />
+			<highlight index="2" start="1399" length="451" />
+			<highlight index="3" start="1838" length="505" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música pop?" />
+				<subtitle lang="en" line="Who likes pop music?" />
+				<subtitle lang="nl" line="Houd je van popmuziek?" />
+				<subtitle lang="fr" line="Qui aime la pop musique?" />
+				<subtitle lang="nz" line="Who likes pop music?" />
+				<subtitle lang="dk" line="Hvem kan lide popmusik?" />
+			</subtitles>
+		</line>
+		<line words="Ich liebe Pop Musik! Ich liebe Pop Musik!" start="53101" length="3433" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="354" length="419" />
+			<highlight index="2" start="758" length="454" />
+			<highlight index="3" start="1204" length="396" />
+			<highlight index="4" start="1593" length="493" />
+			<highlight index="5" start="2069" length="346" />
+			<highlight index="6" start="2398" length="450" />
+			<highlight index="7" start="2844" length="419" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Me encanta la música pop! ¡Me encanta la música pop!" />
+				<subtitle lang="en" line="I love pop music! I love pop music!" />
+				<subtitle lang="nl" line="Ik houd van popmuziek! Ik houd van popmuziek!" />
+				<subtitle lang="fr" line="J’adore la pop musique! J’adore la pop musique!" />
+				<subtitle lang="nz" line="I love pop music! I love pop music!" />
+				<subtitle lang="dk" line="Jeg elsker popmusik! Jeg elsker popmusik!" />
+			</subtitles>
+		</line>
+		<line words="Wiel sie toll ist" start="56217" length="1704" >
+			<highlight index="0" start="199" length="261" />
+			<highlight index="1" start="453" length="554" />
+			<highlight index="2" start="994" length="289" />
+			<highlight index="3" start="1274" length="427" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque es fenomenal" />
+				<subtitle lang="en" line="Because it’s great." />
+				<subtitle lang="nl" line="omdat het zo gaaf klinkt" />
+				<subtitle lang="fr" line="Parce que c’est génial" />
+				<subtitle lang="nz" line="Because it’s great." />
+				<subtitle lang="dk" line="fordi det er fedt" />
+			</subtitles>
+		</line>
+		<line words="Mit der Gitarre" start="57854" length="2034" >
+			<highlight index="0" start="384" length="300" />
+			<highlight index="1" start="677" length="261" />
+			<highlight index="2" start="931" length="728" />
+			<subtitles>
+				<subtitle lang="sp" line="Con la guitarra" />
+				<subtitle lang="en" line="With the guitar" />
+				<subtitle lang="nl" line="Met de gitaar" />
+				<subtitle lang="fr" line="Avec la guitar" />
+				<subtitle lang="nz" line="With the guitar" />
+				<subtitle lang="dk" line="Med guitaren" />
+			</subtitles>
+		</line>
+		<line words="und dem Schlagzeug" start="59634" length="2034" >
+			<highlight index="0" start="384" length="300" />
+			<highlight index="1" start="677" length="310" />
+			<highlight index="2" start="977" length="856" />
+			<subtitles>
+				<subtitle lang="sp" line="y con la batería" />
+				<subtitle lang="en" line="And the drums" />
+				<subtitle lang="nl" line="En de drums" />
+				<subtitle lang="fr" line="Et la batterie" />
+				<subtitle lang="nz" line="And the drums" />
+				<subtitle lang="dk" line="Og trommerne" />
+			</subtitles>
+		</line>
+		<line words="Pop Musik ist toll!" start="61414" length="2670" >
+			<highlight index="0" start="266" length="296" />
+			<highlight index="1" start="552" length="474" />
+			<highlight index="2" start="1013" length="465" />
+			<highlight index="3" start="1461" length="808" />
+			<subtitles>
+				<subtitle lang="sp" line="¡La música pop es fenomenal!" />
+				<subtitle lang="en" line="Pop music is great!" />
+				<subtitle lang="nl" line="Ja popmuziek is gaaf!" />
+				<subtitle lang="fr" line="La pop musique c’est génial!" />
+				<subtitle lang="nz" line="Pop music is great!" />
+				<subtitle lang="dk" line="Popmusik er fedt" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="66500" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="694" />
+			<highlight index="2" start="1345" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="69806" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="73112" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="718" />
+			<highlight index="2" start="1376" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="76672" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Balladen?" start="79851" length="2162" >
+			<highlight index="0" start="537" length="289" />
+			<highlight index="1" start="820" length="371" />
+			<highlight index="2" start="1183" length="490" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan las baladas?" />
+				<subtitle lang="en" line="Who likes ballads?" />
+				<subtitle lang="nl" line="Houd je van ballads?" />
+				<subtitle lang="fr" line="Qui aime les ballades?" />
+				<subtitle lang="nz" line="Who likes ballads?" />
+				<subtitle lang="dk" line="Hvem kan lide folkemusik?" />
+			</subtitles>
+		</line>
+		<line words="Ich liebe Balladen! Ich liebe Balladen!" start="81761" length="3052" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="354" length="419" />
+			<highlight index="2" start="758" length="665" />
+			<highlight index="3" start="1793" length="285" />
+			<highlight index="4" start="2074" length="389" />
+			<highlight index="5" start="2455" length="593" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Me encantan las baladas! ¡Me encantan las baladas!" />
+				<subtitle lang="en" line="I love ballads! I love ballads!" />
+				<subtitle lang="nl" line="Ik houd van ballads! Ik houd van ballads!" />
+				<subtitle lang="fr" line="J’adore les ballades! J’adore les ballades!" />
+				<subtitle lang="nz" line="I love ballads! I love ballads!" />
+				<subtitle lang="dk" line="Jeg elsker folkemusik" />
+			</subtitles>
+		</line>
+		<line words="Weil sie toll sind" start="85319" length="2034" >
+			<highlight index="0" start="246" length="569" />
+			<highlight index="1" start="795" length="261" />
+			<highlight index="2" start="1048" length="272" />
+			<highlight index="3" start="1313" length="552" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque son fenomenales" />
+				<subtitle lang="en" line="Because they’re great." />
+				<subtitle lang="nl" line="Omdat het zo mooi klinkt" />
+				<subtitle lang="fr" line="Parce que c’est génial" />
+				<subtitle lang="nz" line="Because they’re great." />
+				<subtitle lang="dk" line="fordi det er fedt." />
+			</subtitles>
+		</line>
+		<line words="Mit der Klarinette" start="86845" length="2034" >
+			<highlight index="0" start="384" length="300" />
+			<highlight index="1" start="677" length="261" />
+			<highlight index="2" start="931" length="728" />
+			<subtitles>
+				<subtitle lang="sp" line="Con el clarinete" />
+				<subtitle lang="en" line="With the clarinet" />
+				<subtitle lang="nl" line="Met de klarinet" />
+				<subtitle lang="fr" line="Avec la clarinette" />
+				<subtitle lang="nz" line="With the clarinet" />
+				<subtitle lang="dk" line="Med klarinetten" />
+			</subtitles>
+		</line>
+		<line words="Und der Blockflöte" start="88454" length="2035" >
+			<highlight index="0" start="348" length="314" />
+			<highlight index="1" start="649" length="344" />
+			<highlight index="2" start="985" length="744" />
+			<subtitles>
+				<subtitle lang="sp" line="y la grabadora" />
+				<subtitle lang="en" line="And the recorder" />
+				<subtitle lang="nl" line="En de blokfluit" />
+				<subtitle lang="fr" line="Et la flute à bec" />
+				<subtitle lang="nz" line="And the recorder" />
+				<subtitle lang="dk" line="Og blokfjølten" />
+			</subtitles>
+		</line>
+		<line words="Ja Balladen sind toll!" start="90786" length="2670" >
+			<highlight index="0" start="266" length="200" />
+			<highlight index="1" start="450" length="200" />
+			<highlight index="2" start="854" length="313" />
+			<highlight index="3" start="1154" length="711" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Sí, las baladas son fenomenales!" />
+				<subtitle lang="en" line="Yes ballads are great!" />
+				<subtitle lang="nl" line="Ja, ballads zijn zo mooi" />
+				<subtitle lang="fr" line="Les ballades c’est génial!" />
+				<subtitle lang="nz" line="Yes ballads are great!" />
+				<subtitle lang="dk" line="Ja, folkemusik er fedt!" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="95872" length="3110" >
+			<highlight index="0" start="160" length="361" />
+			<highlight index="1" start="505" length="463" />
+			<highlight index="2" start="960" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="98924" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="102230" length="3110" >
+			<highlight index="0" start="533" length="443" />
+			<highlight index="1" start="956" length="526" />
+			<highlight index="2" start="1474" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="105790" length="3110" >
+			<highlight index="0" start="270" length="404" />
+			<highlight index="1" start="662" length="463" />
+			<highlight index="2" start="1113" length="1071" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Klassische Musik?" start="108842" length="2416" >
+			<highlight index="0" start="545" length="250" />
+			<highlight index="1" start="776" length="408" />
+			<highlight index="2" start="1185" length="451" />
+			<highlight index="3" start="1620" length="505" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música clásica?" />
+				<subtitle lang="en" line="Who likes classical music?" />
+				<subtitle lang="nl" line="Houd je van klassieke muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique classique?" />
+				<subtitle lang="nz" line="Who likes classical music?" />
+				<subtitle lang="dk" line="Hvem kan lide klassisk musik?" />
+			</subtitles>
+		</line>
+		<line words="Ich liebe Klassische Musik! Ich liebe Klassische Musik!" start="111004" length="3433" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="354" length="419" />
+			<highlight index="2" start="758" length="454" />
+			<highlight index="3" start="1204" length="396" />
+			<highlight index="4" start="1800" length="390" />
+			<highlight index="5" start="2173" length="441" />
+			<highlight index="6" start="2584" length="450" />
+			<highlight index="7" start="3014" length="419" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Me encanta la música clásica! ¡Me encanta la música clásica!" />
+				<subtitle lang="fr" line="J’adore la musique classique! J’adore la musique classique!" />
+				<subtitle lang="en" line="I love classical music! I love classical music!" />
+				<subtitle lang="nl" line="Ik houd van klassieke muziek! Ik houd van klassieke muziek!" />
+				<subtitle lang="nz" line="I love classical music! I love classical music!" />
+				<subtitle lang="dk" line="Jeg elsker klassisk musik! Jeg elsker klassisk musik!" />
+			</subtitles>
+		</line>
+		<line words="Weil sie toll ist." start="114310" length="2034" >
+			<highlight index="0" start="246" length="569" />
+			<highlight index="1" start="807" length="406" />
+			<highlight index="2" start="1210" length="336" />
+			<highlight index="3" start="1523" length="342" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque es fenomenal" />
+				<subtitle lang="en" line="Because it’s great." />
+				<subtitle lang="nl" line="Omdat het zo fijn klinkt" />
+				<subtitle lang="fr" line="Parce que c’est génial" />
+				<subtitle lang="nz" line="Because it’s great." />
+				<subtitle lang="dk" line="fordi det er fedt." />
+			</subtitles>
+		</line>
+		<line words="Mit der Geige" start="116344" length="2034" >
+			<highlight index="0" start="259" length="310" />
+			<highlight index="1" start="559" length="261" />
+			<highlight index="2" start="810" length="841" />
+			<subtitles>
+				<subtitle lang="sp" line="Con el violin" />
+				<subtitle lang="en" line="With the violin" />
+				<subtitle lang="nl" line="Met de viool" />
+				<subtitle lang="fr" line="Avec le violin" />
+				<subtitle lang="nz" line="With the violin" />
+				<subtitle lang="dk" line="Med violinen" />
+			</subtitles>
+		</line>
+		<line words="Und dem Klavier" start="117870" length="2034" >
+			<highlight index="0" start="384" length="300" />
+			<highlight index="1" start="677" length="310" />
+			<highlight index="2" start="977" length="856" />
+			<subtitles>
+				<subtitle lang="sp" line="y con el piano" />
+				<subtitle lang="fr" line="Et le piano" />
+				<subtitle lang="en" line="And the piano" />
+				<subtitle lang="nl" line="En de piano" />
+				<subtitle lang="nz" line="And the piano" />
+				<subtitle lang="dk" line="Og klaveret" />
+			</subtitles>
+		</line>
+		<line words="Klassische musik ist toll!" start="119590" length="2670" >
+			<highlight index="0" start="266" length="296" />
+			<highlight index="1" start="552" length="559" />
+			<highlight index="2" start="1094" length="320" />
+			<highlight index="3" start="1403" length="808" />
+			<subtitles>
+				<subtitle lang="sp" line="¡La música clásica es fenomenal!" />
+				<subtitle lang="en" line="Classical music is great!" />
+				<subtitle lang="nl" line="Klassieke muziek is fijn!" />
+				<subtitle lang="fr" line="la musique classique c’est génial!" />
+				<subtitle lang="nz" line="Classical music is great!" />
+				<subtitle lang="dk" line="klassisk musik er fedt" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="124227" length="3110" >
+			<highlight index="0" start="654" length="361" />
+			<highlight index="1" start="1003" length="718" />
+			<highlight index="2" start="1709" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="127915" length="3110" >
+			<highlight index="0" start="501" length="404" />
+			<highlight index="1" start="886" length="463" />
+			<highlight index="2" start="1341" length="1047" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Musik?" start="131094" length="3110" >
+			<highlight index="0" start="654" length="361" />
+			<highlight index="1" start="1003" length="718" />
+			<highlight index="2" start="1709" length="941" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta la música?" />
+				<subtitle lang="en" line="Who likes music?" />
+				<subtitle lang="nl" line="Wie houdt er van muziek?" />
+				<subtitle lang="fr" line="Qui aime la musique?" />
+				<subtitle lang="nz" line="Who likes music?" />
+				<subtitle lang="dk" line="Hvem kan lide musik?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Instrumente?" start="134718" length="3046" >
+			<highlight index="0" start="437" length="404" />
+			<highlight index="1" start="822" length="463" />
+			<highlight index="2" start="1277" length="1047" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gustan los instrumentos?" />
+				<subtitle lang="en" line="Who likes instruments?" />
+				<subtitle lang="nl" line="En wie ook van instrumenten?" />
+				<subtitle lang="fr" line="Qui aime les instruments?" />
+				<subtitle lang="nz" line="Who likes instruments?" />
+				<subtitle lang="dk" line="Hvem kan lide instrumenter?" />
+			</subtitles>
+		</line>
+		<line words="Wer mag Reggae?" start="138214" length="2416" >
+			<highlight index="0" start="545" length="250" />
+			<highlight index="1" start="776" length="408" />
+			<highlight index="2" start="1172" length="735" />
+			<subtitles>
+				<subtitle lang="sp" line="¿A quién le gusta el reggae?" />
+				<subtitle lang="en" line="Who likes reggae?" />
+				<subtitle lang="nl" line="Houd je van reggae?" />
+				<subtitle lang="fr" line="Qui aime le reggae?" />
+				<subtitle lang="nz" line="Who likes reggae?" />
+				<subtitle lang="dk" line="Hvem kan lide reggae?" />
+			</subtitles>
+		</line>
+		<line words="Ich liebe Reggae! Ich liebe Reggae!" start="140376" length="3433" >
+			<highlight index="0" start="169" length="402" />
+			<highlight index="1" start="549" length="419" />
+			<highlight index="2" start="956" length="454" />
+			<highlight index="3" start="1653" length="396" />
+			<highlight index="4" start="2034" length="390" />
+			<highlight index="5" start="2415" length="441" />
+			<subtitles>
+				<subtitle lang="sp" line="¡Me encanta el reggae! ¡Me encanta el reggae!" />
+				<subtitle lang="en" line="I love reggae! I love reggae!" />
+				<subtitle lang="nl" line="Ik houd van reggae! Ik houd van reggae!" />
+				<subtitle lang="fr" line="J’adore le reggae! J’adore le reggae!" />
+				<subtitle lang="nz" line="I love reggae! I love reggae!" />
+				<subtitle lang="dk" line="Jeg elsker reggae! Jeg elsker reggae!" />
+			</subtitles>
+		</line>
+		<line words="Weil er toll ist." start="143300" length="2416" >
+			<highlight index="0" start="545" length="353" />
+			<highlight index="1" start="877" length="524" />
+			<highlight index="2" start="1389" length="369" />
+			<highlight index="3" start="1754" length="505" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque es fenomenal" />
+				<subtitle lang="en" line="Because it’s great." />
+				<subtitle lang="nl" line="Omdat het zo stoer klinkt" />
+				<subtitle lang="fr" line="Parce que c’est génial" />
+				<subtitle lang="nz" line="Because it’s great." />
+				<subtitle lang="dk" line="fordi det er fedt." />
+			</subtitles>
+		</line>
+		<line words="Mit der Gitarre" start="145192" length="2034" >
+			<highlight index="0" start="300" length="300" />
+			<highlight index="1" start="589" length="261" />
+			<highlight index="2" start="838" length="728" />
+			<subtitles>
+				<subtitle lang="sp" line="Con la guitarra" />
+				<subtitle lang="fr" line="Avec la guitar" />
+				<subtitle lang="en" line="With the guitar" />
+				<subtitle lang="nl" line="Met de gitaar" />
+				<subtitle lang="nz" line="With the guitar" />
+				<subtitle lang="dk" line="Med guitaren" />
+			</subtitles>
+		</line>
+		<line words="und dem Schlagzeug" start="146938" length="2084" >
+			<highlight index="0" start="434" length="300" />
+			<highlight index="1" start="727" length="310" />
+			<highlight index="2" start="1027" length="856" />
+			<subtitles>
+				<subtitle lang="sp" line="y la bateria" />
+				<subtitle lang="en" line="and the drums" />
+				<subtitle lang="nl" line="En de drums" />
+				<subtitle lang="fr" line="Et la batterie" />
+				<subtitle lang="nz" line="and the drums" />
+				<subtitle lang="dk" line="Og trommerne" />
+			</subtitles>
+		</line>
+		<line words="Reggae-Musik ist toll!" start="148768" length="2670" >
+			<highlight index="0" start="383" length="919" />
+			<highlight index="1" start="1289" length="340" />
+			<highlight index="2" start="1616" length="932" />
+			<subtitles>
+				<subtitle lang="sp" line="¡La música reggae es fenomenal!" />
+				<subtitle lang="fr" line="Oui le reggae c’est génial!" />
+				<subtitle lang="en" line="Reggae music is great!" />
+				<subtitle lang="nl" line="Reggaemuziek is stoer!" />
+				<subtitle lang="nz" line="Reggae music is great!" />
+				<subtitle lang="dk" line="Reggae er fedt!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

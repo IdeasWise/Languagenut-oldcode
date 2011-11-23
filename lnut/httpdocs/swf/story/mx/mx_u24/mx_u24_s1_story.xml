@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="260153" >
+	<lines>
+		<line words="Televisión. Por Dave Waddell." start="0" length="7804" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2929" length="991" />
+				<highlight index="1" start="4297" length="317" />
+				<highlight index="2" start="4580" length="463" />
+				<highlight index="3" start="5010" length="723" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Television. By Dave Waddell." />
+				<subtitle lang="en" line="Television. By Dave Waddell." />
+			</subtitles>
+		</line>
+		<line words="Alfredo y su mamá están sentados en la sala. Alfredo está viendo la televisión y su mamá leyendo el periódico." start="7804" length="11852" useLNutResource="true" image="24#1#7" >
+			<highlights>
+				<highlight index="0" start="669" length="756" />
+				<highlight index="1" start="1374" length="188" />
+				<highlight index="2" start="1494" length="172" />
+				<highlight index="3" start="1614" length="464" />
+				<highlight index="4" start="2318" length="412" />
+				<highlight index="5" start="2662" length="721" />
+				<highlight index="6" start="3280" length="206" />
+				<highlight index="7" start="3400" length="258" />
+				<highlight index="8" start="3624" length="360" />
+				<highlight index="9" start="4963" length="670" />
+				<highlight index="10" start="5564" length="344" />
+				<highlight index="11" start="5856" length="481" />
+				<highlight index="12" start="6269" length="223" />
+				<highlight index="13" start="6440" length="687" />
+				<highlight index="14" start="7454" length="309" />
+				<highlight index="15" start="7729" length="223" />
+				<highlight index="16" start="7866" length="361" />
+				<highlight index="17" start="8381" length="670" />
+				<highlight index="18" start="8999" length="172" />
+				<highlight index="19" start="9103" length="1041" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo and Alfredo’s Mum are sitting in the lounge. Alfredo is watching television. Alfredo’s Mum is reading the newspaper." />
+				<subtitle lang="en" line="Alfredo and Alfredo’s Mum are sitting in the lounge. Alfredo is watching television. Alfredo’s Mum is reading the newspaper." />
+			</subtitles>
+		</line>
+		<line words="Alfredo está viendo un episodio de los Simpsons. Homero Simpson está contestando un cuestionario del periódico y le lee algunas de las preguntas a su hijo Bart." start="19656" length="14742" useLNutResource="true" image="24#4#1" >
+			<highlights>
+				<highlight index="0" start="1260" length="662" />
+				<highlight index="1" start="1794" length="299" />
+				<highlight index="2" start="2050" length="535" />
+				<highlight index="3" start="2820" length="299" />
+				<highlight index="4" start="3055" length="833" />
+				<highlight index="5" start="3802" length="257" />
+				<highlight index="6" start="3973" length="342" />
+				<highlight index="7" start="4251" length="854" />
+				<highlight index="8" start="5789" length="598" />
+				<highlight index="9" start="6345" length="598" />
+				<highlight index="10" start="7071" length="449" />
+				<highlight index="11" start="7455" length="919" />
+				<highlight index="12" start="8695" length="256" />
+				<highlight index="13" start="8887" length="940" />
+				<highlight index="14" start="9720" length="256" />
+				<highlight index="15" start="9912" length="855" />
+				<highlight index="16" start="11002" length="256" />
+				<highlight index="17" start="11215" length="300" />
+				<highlight index="18" start="11450" length="321" />
+				<highlight index="19" start="11685" length="748" />
+				<highlight index="20" start="12390" length="235" />
+				<highlight index="21" start="12561" length="299" />
+				<highlight index="22" start="12775" length="705" />
+				<highlight index="23" start="13373" length="235" />
+				<highlight index="24" start="13565" length="193" />
+				<highlight index="25" start="13694" length="470" />
+				<highlight index="26" start="14057" length="606" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo is watching an episode of The Simpsons. Homer Simpson is answering a newspaper questionnaire. He reads out some of the questions to his son, Bart: " />
+				<subtitle lang="en" line="Alfredo is watching an episode of The Simpsons. Homer Simpson is answering a newspaper questionnaire. He reads out some of the questions to his son, Bart: " />
+			</subtitles>
+		</line>
+		<line words="§Bart, ¿cómo te llamas?; Bart ¿dónde vives?; Bart ¿Te gustan las papas?; Bart ¿Cuántos años tienes?; Bart ¿Te gusta el tenis?§ Bart no responde y se sale con su patineta." start="33819" length="23414" useLNutResource="true" image="8#1#1" >
+			<highlights>
+				<highlight index="0" start="1221" length="746" />
+				<highlight index="1" start="2239" length="543" />
+				<highlight index="2" start="2646" length="339" />
+				<highlight index="3" start="2884" length="678" />
+				<highlight index="4" start="4309" length="712" />
+				<highlight index="5" start="5564" length="272" />
+				<highlight index="6" start="5802" length="644" />
+				<highlight index="7" start="7261" length="950" />
+				<highlight index="8" start="8448" length="407" />
+				<highlight index="9" start="8686" length="543" />
+				<highlight index="10" start="9093" length="339" />
+				<highlight index="11" start="9297" length="780" />
+				<highlight index="12" start="10586" length="814" />
+				<highlight index="13" start="11807" length="475" />
+				<highlight index="14" start="12181" length="509" />
+				<highlight index="15" start="12520" length="916" />
+				<highlight index="16" start="13945" length="713" />
+				<highlight index="17" start="15201" length="373" />
+				<highlight index="18" start="15404" length="509" />
+				<highlight index="19" start="15913" length="204" />
+				<highlight index="20" start="16015" length="712" />
+				<highlight index="21" start="17474" length="679" />
+				<highlight index="22" start="17983" length="407" />
+				<highlight index="23" start="18220" length="917" />
+				<highlight index="24" start="19408" length="204" />
+				<highlight index="25" start="19544" length="373" />
+				<highlight index="26" start="19747" length="475" />
+				<highlight index="27" start="20053" length="407" />
+				<highlight index="28" start="20324" length="339" />
+				<highlight index="29" start="20528" length="1421" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Bart, what is your name? Bart, where do you live? Bart, do you like chips? Bart, how old are you? Bart, do you like tennis?” Bart does not answer. Bart goes off on his skateboard." />
+				<subtitle lang="en" line="“Bart, what is your name? Bart, where do you live? Bart, do you like chips? Bart, how old are you? Bart, do you like tennis?” Bart does not answer. Bart goes off on his skateboard." />
+			</subtitles>
+		</line>
+		<line words="Alfredo se ríe fuertemente. §Me encanta ver la televisión§ dice Alfredo. §Es brillante.§" start="57233" length="11852" useLNutResource="true" image="24#2#1" >
+			<highlights>
+				<highlight index="0" start="996" length="824" />
+				<highlight index="1" start="1769" length="257" />
+				<highlight index="2" start="2009" length="326" />
+				<highlight index="3" start="2267" length="1168" />
+				<highlight index="4" start="4585" length="275" />
+				<highlight index="5" start="4791" length="894" />
+				<highlight index="6" start="5599" length="309" />
+				<highlight index="7" start="5856" length="155" />
+				<highlight index="8" start="5977" length="1230" />
+				<highlight index="9" start="7282" length="395" />
+				<highlight index="10" start="7660" length="652" />
+				<highlight index="11" start="8725" length="292" />
+				<highlight index="12" start="9017" length="1013" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="us" line="Alfredo laughs loudly. “I love watching TV,” says Alfredo. “It’s brilliant.”" />
+				<subtitle lang="nz" line="Alfredo laughs loudly. “I love watching TV,” says Alfredo. “It’s brilliant.”" />
+				<subtitle lang="en" line="Alfredo laughs loudly. “I love watching TV,” says Alfredo. “It’s brilliant.”" />
+			</subtitles>
+		</line>
+		<line words="La mama de Alfredo levanta la Mirada. §Me encanta leer el periódico. ¿Podrías bajarle un poco a la televisión? Me molesta§ dice su mamá." start="68796" length="14742" useLNutResource="true" image="24#4#1" >
+			<highlights>
+				<highlight index="0" start="1452" length="278" />
+				<highlight index="1" start="1666" length="363" />
+				<highlight index="2" start="1965" length="256" />
+				<highlight index="3" start="2136" length="662" />
+				<highlight index="4" start="2734" length="598" />
+				<highlight index="5" start="3247" length="363" />
+				<highlight index="6" start="3482" length="534" />
+				<highlight index="7" start="4657" length="384" />
+				<highlight index="8" start="4913" length="620" />
+				<highlight index="9" start="5469" length="427" />
+				<highlight index="10" start="5832" length="299" />
+				<highlight index="11" start="6045" length="684" />
+				<highlight index="12" start="7242" length="491" />
+				<highlight index="13" start="7690" length="470" />
+				<highlight index="14" start="8096" length="171" />
+				<highlight index="15" start="8225" length="384" />
+				<highlight index="16" start="8524" length="100" />
+				<highlight index="17" start="8566" length="193" />
+				<highlight index="18" start="8716" length="748" />
+				<highlight index="19" start="9784" length="235" />
+				<highlight index="20" start="9955" length="748" />
+				<highlight index="21" start="11109" length="363" />
+				<highlight index="22" start="11429" length="192" />
+				<highlight index="23" start="11536" length="598" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="us" line="Alfredo’s Mum looks up. “I love reading the newspaper. Could you turn the TV down, please? It’s annoying,” says Alfredo’s Mum" />
+				<subtitle lang="nz" line="Alfredo’s Mum looks up. “I love reading the newspaper. Could you turn the TV down, please? It’s annoying,” says Alfredo’s Mum" />
+				<subtitle lang="en" line="Alfredo’s Mum looks up. “I love reading the newspaper. Could you turn the TV down, please? It’s annoying,” says Alfredo’s Mum" />
+			</subtitles>
+		</line>
+		<line words="Alfredo le sube a la televisión. “¡ME ENCANTAN LAS PAPAS Y VIVO EN LONDRES!” dice Homero Simpson. Alfredo se ríe fuertemente." start="83248" length="15032" useLNutResource="true" image="10#2#7" >
+			<highlights>
+				<highlight index="0" start="653" length="959" />
+				<highlight index="1" start="1851" length="305" />
+				<highlight index="2" start="2047" length="545" />
+				<highlight index="3" start="2526" length="153" />
+				<highlight index="4" start="2592" length="348" />
+				<highlight index="5" start="2810" length="849" />
+				<highlight index="6" start="4988" length="218" />
+				<highlight index="7" start="5097" length="850" />
+				<highlight index="8" start="5881" length="349" />
+				<highlight index="9" start="6121" length="566" />
+				<highlight index="10" start="6578" length="349" />
+				<highlight index="11" start="6818" length="370" />
+				<highlight index="12" start="7166" length="196" />
+				<highlight index="13" start="7232" length="958" />
+				<highlight index="14" start="8212" length="479" />
+				<highlight index="15" start="8604" length="545" />
+				<highlight index="16" start="9062" length="697" />
+				<highlight index="17" start="10194" length="872" />
+				<highlight index="18" start="10979" length="370" />
+				<highlight index="19" start="11262" length="592" />
+				<highlight index="20" start="11697" length="1046" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="us" line="Alfredo turns the TV up. “I LOVE CHIPS! I LIVE IN LONDON!” says Homer Simpson. Alfredo laughs loudly." />
+				<subtitle lang="nz" line="Alfredo turns the TV up. “I LOVE CHIPS! I LIVE IN LONDON!” says Homer Simpson. Alfredo laughs loudly." />
+				<subtitle lang="en" line="Alfredo turns the TV up. “I LOVE CHIPS! I LIVE IN LONDON!” says Homer Simpson. Alfredo laughs loudly." />
+			</subtitles>
+		</line>
+		<line words="“¡Alfredo!” dice su mamá, ”Estoy tratando de leer.” “Yo estoy tratando de ver” dice Alfredo. “De todas formas” dice Alfredo, “¿Por qué leer cuando puedes ver la televisión?§" start="98280" length="17054" useLNutResource="true" image="1#4#2" >
+			<highlights>
+				<highlight index="0" start="617" length="939" />
+				<highlight index="1" start="1977" length="519" />
+				<highlight index="2" start="2397" length="321" />
+				<highlight index="3" start="2570" length="445" />
+				<highlight index="4" start="3583" length="618" />
+				<highlight index="5" start="4102" length="692" />
+				<highlight index="6" start="4646" length="321" />
+				<highlight index="7" start="4843" length="643" />
+				<highlight index="8" start="6573" length="346" />
+				<highlight index="9" start="6821" length="395" />
+				<highlight index="10" start="7167" length="494" />
+				<highlight index="11" start="7562" length="321" />
+				<highlight index="12" start="7784" length="322" />
+				<highlight index="13" start="8674" length="346" />
+				<highlight index="14" start="8946" length="667" />
+				<highlight index="15" start="10132" length="322" />
+				<highlight index="16" start="10404" length="396" />
+				<highlight index="17" start="10750" length="865" />
+				<highlight index="18" start="11590" length="371" />
+				<highlight index="19" start="11912" length="642" />
+				<highlight index="20" start="13123" length="395" />
+				<highlight index="21" start="13419" length="223" />
+				<highlight index="22" start="13592" length="593" />
+				<highlight index="23" start="14136" length="519" />
+				<highlight index="24" start="14581" length="371" />
+				<highlight index="25" start="15001" length="297" />
+				<highlight index="26" start="15223" length="198" />
+				<highlight index="27" start="15372" length="1188" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Alfredo!” says Alfredo’s Mum. “I am trying to read.” “And I’m trying to watch,” says Alfredo. “Anyway,” says Alfredo, “why read when you can watch TV?§" />
+				<subtitle lang="en" line="“Alfredo!” says Alfredo’s Mum. “I am trying to read.” “And I’m trying to watch,” says Alfredo. “Anyway,” says Alfredo, “why read when you can watch TV?§" />
+			</subtitles>
+		</line>
+		<line words="§Hasta mi maestra no le gusta leer el periódico y, de hecho, le gustan los Simpsons.”" start="114756" length="9539" useLNutResource="true" image="24#3#10" >
+			<highlights>
+				<highlight index="0" start="0" length="835" />
+				<highlight index="1" start="787" length="249" />
+				<highlight index="2" start="967" length="747" />
+				<highlight index="3" start="1645" length="387" />
+				<highlight index="4" start="1962" length="249" />
+				<highlight index="5" start="2142" length="470" />
+				<highlight index="6" start="2557" length="428" />
+				<highlight index="7" start="2902" length="249" />
+				<highlight index="8" start="3096" length="733" />
+				<highlight index="9" start="4119" length="332" />
+				<highlight index="10" start="4409" length="539" />
+				<highlight index="11" start="4865" length="415" />
+				<highlight index="12" start="5584" length="263" />
+				<highlight index="13" start="5778" length="553" />
+				<highlight index="14" start="6262" length="318" />
+				<highlight index="15" start="6510" length="1057" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Even my teacher doesn’t like the newspaper. She actually likes The Simpsons ”" />
+				<subtitle lang="en" line="§Even my teacher doesn’t like the newspaper. She actually likes The Simpsons ”" />
+			</subtitles>
+		</line>
+		<line words="La mamá de Alfredo deja salir un profundo suspiro y se quita los lentes. " start="124006" length="8093" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="1055" length="305" />
+				<highlight index="1" start="1290" length="363" />
+				<highlight index="2" start="1583" length="223" />
+				<highlight index="3" start="1782" length="657" />
+				<highlight index="4" start="2709" length="352" />
+				<highlight index="5" start="3002" length="621" />
+				<highlight index="6" start="3577" length="480" />
+				<highlight index="7" start="3987" length="669" />
+				<highlight index="8" start="4632" length="576" />
+				<highlight index="9" start="5688" length="246" />
+				<highlight index="10" start="5887" length="211" />
+				<highlight index="11" start="6051" length="411" />
+				<highlight index="12" start="6427" length="304" />
+				<highlight index="13" start="6685" length="809" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum lets out a long sigh. She takes off her glasses. " />
+				<subtitle lang="en" line="Alfredo’s Mum lets out a long sigh. She takes off her glasses. " />
+			</subtitles>
+		</line>
+		<line words="§El periódico§ dice la mamá de Alfredo, §Está lleno de cosas interesantes e importantes, como: educación, asuntos actuales, deportes, viajes, cocina, jardinería, cultura, el clima, dinero y moda.§" start="132084" length="21969" useLNutResource="true" image="24#1#4" >
+			<highlights>
+				<highlight index="0" start="0" length="613" />
+				<highlight index="1" start="509" length="1051" />
+				<highlight index="2" start="1432" length="892" />
+				<highlight index="3" start="2133" length="382" />
+				<highlight index="4" start="2419" length="478" />
+				<highlight index="5" start="2769" length="255" />
+				<highlight index="6" start="2865" length="605" />
+				<highlight index="7" start="3947" length="382" />
+				<highlight index="8" start="4202" length="541" />
+				<highlight index="9" start="4680" length="318" />
+				<highlight index="10" start="4902" length="510" />
+				<highlight index="11" start="5284" length="1083" />
+				<highlight index="12" start="6303" length="319" />
+				<highlight index="13" start="6558" length="1178" />
+				<highlight index="14" start="7672" length="573" />
+				<highlight index="15" start="8118" length="1273" />
+				<highlight index="16" start="9646" length="764" />
+				<highlight index="17" start="10346" length="892" />
+				<highlight index="18" start="11493" length="1337" />
+				<highlight index="19" start="12702" length="733" />
+				<highlight index="20" start="13403" length="1210" />
+				<highlight index="21" start="14422" length="1496" />
+				<highlight index="22" start="16236" length="796" />
+				<highlight index="23" start="16969" length="573" />
+				<highlight index="24" start="17414" length="637" />
+				<highlight index="25" start="17892" length="1050" />
+				<highlight index="26" start="18783" length="319" />
+				<highlight index="27" start="19006" length="1155" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Newspapers,” says Alfredo’s Mum, “are full of interesting and important things – like education, current affairs, sports, travel, cookery, gardening, culture, the weather, money and fashion.” " />
+				<subtitle lang="en" line="“Newspapers,” says Alfredo’s Mum, “are full of interesting and important things – like education, current affairs, sports, travel, cookery, gardening, culture, the weather, money and fashion.” " />
+			</subtitles>
+		</line>
+		<line words="La mama de Alfredo pone énfasis en su discurso. §En mi opinión, Alfredo, la televisión es muy simplista. El periódico está lleno de historias fantásticas, fotos hermosas. " start="153779" length="16765" useLNutResource="true" image="1#4#3" >
+			<highlights>
+				<highlight index="0" start="826" length="315" />
+				<highlight index="1" start="1020" length="437" />
+				<highlight index="2" start="1360" length="316" />
+				<highlight index="3" start="1579" length="680" />
+				<highlight index="4" start="2162" length="486" />
+				<highlight index="5" start="2575" length="947" />
+				<highlight index="6" start="3449" length="341" />
+				<highlight index="7" start="3717" length="243" />
+				<highlight index="8" start="3935" length="924" />
+				<highlight index="9" start="5806" length="292" />
+				<highlight index="10" start="6025" length="267" />
+				<highlight index="11" start="6219" length="705" />
+				<highlight index="12" start="6826" length="1094" />
+				<highlight index="13" start="7895" length="292" />
+				<highlight index="14" start="8090" length="874" />
+				<highlight index="15" start="8867" length="195" />
+				<highlight index="16" start="8964" length="559" />
+				<highlight index="17" start="9426" length="923" />
+				<highlight index="18" start="10908" length="200" />
+				<highlight index="19" start="11175" length="656" />
+				<highlight index="20" start="11734" length="389" />
+				<highlight index="21" start="12074" length="340" />
+				<highlight index="22" start="12317" length="219" />
+				<highlight index="23" start="12512" length="534" />
+				<highlight index="24" start="12973" length="1361" />
+				<highlight index="25" start="14212" length="608" />
+				<highlight index="26" start="14698" length="875" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum puts on an important sounding voice: “In my opinion, Alfredo, television is too simplistic. Newspapers are full of fantastic stories, beautiful pictures. " />
+				<subtitle lang="en" line="Alfredo’s Mum puts on an important sounding voice: “In my opinion, Alfredo, television is too simplistic. Newspapers are full of fantastic stories, beautiful pictures. " />
+			</subtitles>
+		</line>
+		<line words="§A veces la televisión hace que las cosas complicadas parezcan tontas. Además, todo es acerca de diversión; sin embargo, la gente no sabe esto y por eso sólo ven televisión.§" start="169966" length="17055" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="49" length="200" />
+				<highlight index="1" start="173" length="444" />
+				<highlight index="2" start="494" length="346" />
+				<highlight index="3" start="692" length="840" />
+				<highlight index="4" start="1705" length="395" />
+				<highlight index="5" start="2001" length="272" />
+				<highlight index="6" start="2174" length="248" />
+				<highlight index="7" start="2323" length="568" />
+				<highlight index="8" start="2743" length="1013" />
+				<highlight index="9" start="3682" length="766" />
+				<highlight index="10" start="4399" length="741" />
+				<highlight index="11" start="5412" length="791" />
+				<highlight index="12" start="6623" length="272" />
+				<highlight index="13" start="6846" length="370" />
+				<highlight index="14" start="7142" length="544" />
+				<highlight index="15" start="7637" length="296" />
+				<highlight index="16" start="7834" length="692" />
+				<highlight index="17" start="8897" length="470" />
+				<highlight index="18" start="9243" length="643" />
+				<highlight index="19" start="9812" length="469" />
+				<highlight index="20" start="10182" length="668" />
+				<highlight index="21" start="10776" length="271" />
+				<highlight index="22" start="10949" length="593" />
+				<highlight index="23" start="11418" length="593" />
+				<highlight index="24" start="12629" length="420" />
+				<highlight index="25" start="12950" length="272" />
+				<highlight index="26" start="13123" length="470" />
+				<highlight index="27" start="13519" length="692" />
+				<highlight index="28" start="14112" length="371" />
+				<highlight index="29" start="14409" length="964" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Often, television makes complicated things sound dumb. In addition, it is all about fun. However, people don’t know this. Therefore, they just watch television.”  " />
+				<subtitle lang="en" line="§Often, television makes complicated things sound dumb. In addition, it is all about fun. However, people don’t know this. Therefore, they just watch television.”  " />
+			</subtitles>
+		</line>
+		<line words="La mamá de Alfredo está muy contenta consigo misma. Estira el periódico, se pone los lentes y empieza a leer otra vez." start="187021" length="14163" useLNutResource="true" image="24#4#1" >
+			<highlights>
+				<highlight index="0" start="1354" length="329" />
+				<highlight index="1" start="1621" length="431" />
+				<highlight index="2" start="1970" length="185" />
+				<highlight index="3" start="2114" length="697" />
+				<highlight index="4" start="2729" length="308" />
+				<highlight index="5" start="2996" length="554" />
+				<highlight index="6" start="3489" length="718" />
+				<highlight index="7" start="4228" length="554" />
+				<highlight index="8" start="4741" length="513" />
+				<highlight index="9" start="5705" length="698" />
+				<highlight index="10" start="6321" length="246" />
+				<highlight index="11" start="6465" length="821" />
+				<highlight index="12" start="7594" length="225" />
+				<highlight index="13" start="7799" length="431" />
+				<highlight index="14" start="8189" length="287" />
+				<highlight index="15" start="8456" length="554" />
+				<highlight index="16" start="9195" length="307" />
+				<highlight index="17" start="9400" length="616" />
+				<highlight index="18" start="9954" length="123" />
+				<highlight index="19" start="10016" length="410" />
+				<highlight index="20" start="10323" length="616" />
+				<highlight index="21" start="10836" length="780" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum is very pleased with herself. She straightens the newspaper. Alfredo’s Mum puts her glasses on. Alfredo’s Mum starts to read again." />
+				<subtitle lang="en" line="Alfredo’s Mum is very pleased with herself. She straightens the newspaper. Alfredo’s Mum puts her glasses on. Alfredo’s Mum starts to read again." />
+			</subtitles>
+		</line>
+		<line words="“No obstante,“ dice Alfredo, con la misma voz que su mamá. “La televisión también es muy divertida. Por ejemplo, mira lo que está haciendo Homero ahorita.”" start="200606" length="17055" useLNutResource="true" image="1#4#2" >
+			<highlights>
+				<highlight index="0" start="963" length="618" />
+				<highlight index="1" start="1507" length="840" />
+				<highlight index="2" start="3064" length="420" />
+				<highlight index="3" start="3435" length="1038" />
+				<highlight index="4" start="4374" length="223" />
+				<highlight index="5" start="4572" length="148" />
+				<highlight index="6" start="4621" length="692" />
+				<highlight index="7" start="5214" length="297" />
+				<highlight index="8" start="5486" length="346" />
+				<highlight index="9" start="5734" length="197" />
+				<highlight index="10" start="5882" length="346" />
+				<highlight index="11" start="6895" length="321" />
+				<highlight index="12" start="7068" length="1038" />
+				<highlight index="13" start="7983" length="815" />
+				<highlight index="14" start="8724" length="272" />
+				<highlight index="15" start="8947" length="395" />
+				<highlight index="16" start="9243" length="1359" />
+				<highlight index="17" start="10578" length="296" />
+				<highlight index="18" start="10825" length="741" />
+				<highlight index="19" start="11863" length="494" />
+				<highlight index="20" start="12258" length="248" />
+				<highlight index="21" start="12407" length="247" />
+				<highlight index="22" start="12555" length="395" />
+				<highlight index="23" start="12827" length="593" />
+				<highlight index="24" start="13420" length="717" />
+				<highlight index="25" start="14013" length="717" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Nevertheless,” says Alfredo, in his Mum’s important sounding voice, “television is also very funny. Look, for example, at what Homer is doing right now.”  " />
+				<subtitle lang="en" line="“Nevertheless,” says Alfredo, in his Mum’s important sounding voice, “television is also very funny. Look, for example, at what Homer is doing right now.”  " />
+			</subtitles>
+		</line>
+		<line words="La mama de Alfredo deja salir un largo suspiro y se quita los lentes. Ve la televisión. Homero Simpson sólo trae puesto el pantalón de su pijama, está parado en una silla y se está comiendo el periódico. “Duh!“ dice Homero." start="217661" length="24570" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="569" length="463" />
+				<highlight index="1" start="925" length="534" />
+				<highlight index="2" start="1317" length="285" />
+				<highlight index="3" start="1459" length="784" />
+				<highlight index="4" start="2385" length="570" />
+				<highlight index="5" start="2884" length="498" />
+				<highlight index="6" start="3346" length="357" />
+				<highlight index="7" start="3596" length="712" />
+				<highlight index="8" start="4237" length="819" />
+				<highlight index="9" start="4913" length="570" />
+				<highlight index="10" start="5447" length="249" />
+				<highlight index="11" start="5590" length="498" />
+				<highlight index="12" start="5981" length="499" />
+				<highlight index="13" start="6302" length="783" />
+				<highlight index="14" start="7263" length="321" />
+				<highlight index="15" start="7512" length="321" />
+				<highlight index="16" start="7797" length="926" />
+				<highlight index="17" start="9221" length="535" />
+				<highlight index="18" start="9649" length="890" />
+				<highlight index="19" start="10361" length="997" />
+				<highlight index="20" start="11251" length="534" />
+				<highlight index="21" start="11678" length="641" />
+				<highlight index="22" start="12212" length="428" />
+				<highlight index="23" start="12497" length="784" />
+				<highlight index="24" start="13174" length="320" />
+				<highlight index="25" start="13352" length="249" />
+				<highlight index="26" start="13459" length="961" />
+				<highlight index="27" start="14634" length="605" />
+				<highlight index="28" start="15132" length="570" />
+				<highlight index="29" start="15595" length="285" />
+				<highlight index="30" start="15809" length="498" />
+				<highlight index="31" start="16200" length="534" />
+				<highlight index="32" start="16948" length="521" />
+				<highlight index="33" start="17162" length="391" />
+				<highlight index="34" start="17411" length="285" />
+				<highlight index="35" start="17553" length="641" />
+				<highlight index="36" start="18087" length="321" />
+				<highlight index="37" start="18372" length="784" />
+				<highlight index="38" start="19512" length="783" />
+				<highlight index="39" start="20509" length="747" />
+				<highlight index="40" start="21043" length="925" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum lets out a long sigh. She takes off her glasses. She looks at the television. Homer Simpson is dressed in just his pajama bottoms. He is standing on a chair. He is eating the newspaper. “Duh!” says Homer.   " />
+				<subtitle lang="en" line="Alfredo’s Mum lets out a long sigh. She takes off her glasses. She looks at the television. Homer Simpson is dressed in just his pajama bottoms. He is standing on a chair. He is eating the newspaper. “Duh!” says Homer.   " />
+			</subtitles>
+		</line>
+		<line words="La mama de Alfredo sonríe." start="241942" length="4914" useLNutResource="true" image="1#2#8" >
+			<highlights>
+				<highlight index="0" start="626" length="200" />
+				<highlight index="1" start="826" length="398" />
+				<highlight index="2" start="1167" length="186" />
+				<highlight index="3" start="1338" length="549" />
+				<highlight index="4" start="1865" length="777" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum smiles. " />
+				<subtitle lang="en" line="Alfredo’s Mum smiles. " />
+			</subtitles>
+		</line>
+		<line words="La mama de Alfredo sonríe de oreja a oreja." start="246567" length="6359" useLNutResource="true" image="1#2#8" >
+			<highlights>
+				<highlight index="0" start="903" length="377" />
+				<highlight index="1" start="1216" length="369" />
+				<highlight index="2" start="1548" length="138" />
+				<highlight index="3" start="1640" length="737" />
+				<highlight index="4" start="2377" length="624" />
+				<highlight index="5" start="3022" length="184" />
+				<highlight index="6" start="3170" length="893" />
+				<highlight index="7" start="4017" length="166" />
+				<highlight index="8" start="4128" length="716" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum grins." />
+				<subtitle lang="en" line="Alfredo’s Mum grins." />
+			</subtitles>
+		</line>
+		<line words="La mamá de Alfredo se ríe fuertemente." start="252348" length="5781" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2052" length="200" />
+				<highlight index="1" start="2228" length="410" />
+				<highlight index="2" start="2588" length="235" />
+				<highlight index="3" start="2789" length="629" />
+				<highlight index="4" start="3384" length="184" />
+				<highlight index="5" start="3543" length="402" />
+				<highlight index="6" start="3920" length="1240" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo’s Mum laughs very loudly." />
+				<subtitle lang="en" line="Alfredo’s Mum laughs very loudly." />
+			</subtitles>
+		</line>
+		<line words="FIN" start="257551" length="2602" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1847" length="596" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="THE END" />
+				<subtitle lang="en" line="THE END" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

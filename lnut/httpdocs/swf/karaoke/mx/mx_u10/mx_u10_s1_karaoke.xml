@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="133825" >
+	<lines>
+		<line words="Lunes, martes, miércoles." start="14766" length="4000" >
+			<highlight index="0" start="548" length="741" />
+			<highlight index="1" start="1289" length="906" />
+			<highlight index="2" start="2149" length="928" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jueves, viernes, sábado." start="18227" length="4000" >
+			<highlight index="0" start="520" length="826" />
+			<highlight index="1" start="1335" length="837" />
+			<highlight index="2" start="2149" length="1262" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="¡Domingo amo ir a jugar!" start="21804" length="2884" >
+			<highlight index="0" start="384" length="439" />
+			<highlight index="1" start="811" length="294" />
+			<highlight index="2" start="1097" length="183" />
+			<highlight index="3" start="1288" length="151" />
+			<highlight index="4" start="1460" length="1015" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="¡Oh, sí! Amo ir a jugar." start="25034" length="2884" >
+			<highlight index="0" start="342" length="200" />
+			<highlight index="1" start="526" length="416" />
+			<highlight index="2" start="921" length="388" />
+			<highlight index="3" start="1293" length="203" />
+			<highlight index="4" start="1476" length="347" />
+			<highlight index="5" start="1819" length="714" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, I really love sport." />
+			</subtitles>
+		</line>
+		<line words="El lunes juego fútbol" start="28495" length="3539" >
+			<highlight index="0" start="445" length="200" />
+			<highlight index="1" start="620" length="661" />
+			<highlight index="2" start="1286" length="616" />
+			<highlight index="3" start="1881" length="1117" />
+			<subtitles>
+				<subtitle lang="en" line="Monday I play football" />
+			</subtitles>
+		</line>
+		<line words="y tomo agua. Tomo mucha agua." start="31841" length="4000" >
+			<highlight index="0" start="339" length="200" />
+			<highlight index="1" start="520" length="747" />
+			<highlight index="2" start="1289" length="798" />
+			<highlight index="3" start="2081" length="357" />
+			<highlight index="4" start="2410" length="268" />
+			<highlight index="5" start="2715" length="866" />
+			<subtitles>
+				<subtitle lang="en" line="and drink some water! Drink lots of water." />
+			</subtitles>
+		</line>
+		<line words="El martes juego tenis" start="35302" length="3539" >
+			<highlight index="0" start="345" length="300" />
+			<highlight index="1" start="620" length="661" />
+			<highlight index="2" start="1286" length="616" />
+			<highlight index="3" start="1881" length="1117" />
+			<subtitles>
+				<subtitle lang="en" line="Tuesday I play tennis" />
+			</subtitles>
+		</line>
+		<line words="y tomo jugo. Tomo mucho jugo." start="38784" length="4000" >
+			<highlight index="0" start="339" length="200" />
+			<highlight index="1" start="520" length="747" />
+			<highlight index="2" start="1289" length="798" />
+			<highlight index="3" start="2081" length="357" />
+			<highlight index="4" start="2410" length="268" />
+			<highlight index="5" start="2715" length="866" />
+			<subtitles>
+				<subtitle lang="en" line="and I drink some juice. Drink lots of juice." />
+			</subtitles>
+		</line>
+		<line words="El miércoles juego golf" start="42339" length="3539" >
+			<highlight index="0" start="305" length="220" />
+			<highlight index="1" start="495" length="726" />
+			<highlight index="2" start="1206" length="696" />
+			<highlight index="3" start="1881" length="1117" />
+			<subtitles>
+				<subtitle lang="en" line="Wednesday I play golf" />
+			</subtitles>
+		</line>
+		<line words="y tomo agua. Tomo mucho jugo." start="45569" length="4000" >
+			<highlight index="0" start="339" length="200" />
+			<highlight index="1" start="520" length="747" />
+			<highlight index="2" start="1289" length="798" />
+			<highlight index="3" start="2081" length="357" />
+			<highlight index="4" start="2432" length="268" />
+			<highlight index="5" start="2715" length="866" />
+			<subtitles>
+				<subtitle lang="en" line="and I drink some water. I drink lots of juice." />
+			</subtitles>
+		</line>
+		<line words="Lunes, martes, miércoles." start="52722" length="3346" >
+			<highlight index="0" start="503" length="741" />
+			<highlight index="1" start="1221" length="821" />
+			<highlight index="2" start="2014" length="899" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jueves, viernes, sábado." start="55837" length="3461" >
+			<highlight index="0" start="520" length="826" />
+			<highlight index="1" start="1335" length="837" />
+			<highlight index="2" start="2149" length="1262" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="¡Domingo amo ir a jugar!" start="59298" length="2884" >
+			<highlight index="0" start="384" length="533" />
+			<highlight index="1" start="913" length="367" />
+			<highlight index="2" start="1260" length="285" />
+			<highlight index="3" start="1525" length="208" />
+			<highlight index="4" start="1721" length="888" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="¡Oh, sí! Amo ir a jugar." start="62643" length="2884" >
+			<highlight index="0" start="342" length="200" />
+			<highlight index="1" start="526" length="416" />
+			<highlight index="2" start="1044" length="265" />
+			<highlight index="3" start="1293" length="256" />
+			<highlight index="4" start="1541" length="359" />
+			<highlight index="5" start="1900" length="857" />
+			<subtitles>
+				<subtitle lang="en" line="Yes! I really love sport." />
+			</subtitles>
+		</line>
+		<line words="El jueves voy a nadar." start="65989" length="3230" >
+			<highlight index="0" start="445" length="200" />
+			<highlight index="1" start="620" length="661" />
+			<highlight index="2" start="1286" length="290" />
+			<highlight index="3" start="1551" length="391" />
+			<highlight index="4" start="1917" length="1091" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday I go swimming." />
+			</subtitles>
+		</line>
+		<line words="Como pescado, mucho pescado." start="69104" length="4269" >
+			<highlight index="0" start="561" length="725" />
+			<highlight index="1" start="1273" length="1226" />
+			<highlight index="2" start="2493" length="670" />
+			<highlight index="3" start="3139" length="773" />
+			<subtitles>
+				<subtitle lang="en" line="I eat some fish, lots of fish." />
+			</subtitles>
+		</line>
+		<line words="El viernes hago judo" start="73026" length="3230" >
+			<highlight index="0" start="388" length="200" />
+			<highlight index="1" start="620" length="764" />
+			<highlight index="2" start="1370" length="676" />
+			<highlight index="3" start="2028" length="649" />
+			<subtitles>
+				<subtitle lang="en" line="Friday I do judo" />
+			</subtitles>
+		</line>
+		<line words="y como carne, como mucha carne." start="76487" length="3770" >
+			<highlight index="0" start="250" length="315" />
+			<highlight index="1" start="543" length="752" />
+			<highlight index="2" start="1269" length="719" />
+			<highlight index="3" start="1978" length="416" />
+			<highlight index="4" start="2399" length="416" />
+			<highlight index="5" start="2777" length="624" />
+			<subtitles>
+				<subtitle lang="en" line="and I eat some meat, eat lots of meat." />
+			</subtitles>
+		</line>
+		<line words="El sábado monto a caballo" start="79948" length="3461" >
+			<highlight index="0" start="283" length="240" />
+			<highlight index="1" start="499" length="925" />
+			<highlight index="2" start="1409" length="299" />
+			<highlight index="3" start="1683" length="211" />
+			<highlight index="4" start="1879" length="1091" />
+			<subtitles>
+				<subtitle lang="en" line="Saturday I go horseriding" />
+			</subtitles>
+		</line>
+		<line words="y como verduras, muchas verduras." start="83179" length="3770" >
+			<highlight index="0" start="213" length="315" />
+			<highlight index="1" start="506" length="603" />
+			<highlight index="2" start="1151" length="719" />
+			<highlight index="3" start="2276" length="416" />
+			<highlight index="4" start="2676" length="864" />
+			<subtitles>
+				<subtitle lang="en" line="and eat some veg, eat lots of veg." />
+			</subtitles>
+		</line>
+		<line words="Lunes, martes, miércoles." start="90447" length="3346" >
+			<highlight index="0" start="503" length="741" />
+			<highlight index="1" start="1221" length="821" />
+			<highlight index="2" start="2014" length="899" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jueves, viernes, sábado." start="93562" length="3461" >
+			<highlight index="0" start="520" length="826" />
+			<highlight index="1" start="1335" length="837" />
+			<highlight index="2" start="2149" length="1262" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="¡Domingo amo ir a jugar!" start="96907" length="2884" >
+			<highlight index="0" start="384" length="533" />
+			<highlight index="1" start="913" length="367" />
+			<highlight index="2" start="1260" length="391" />
+			<highlight index="3" start="1639" length="208" />
+			<highlight index="4" start="1823" length="888" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="¡Oh, sí! Amo ir a jugar." start="100368" length="2884" >
+			<highlight index="0" start="342" length="200" />
+			<highlight index="1" start="526" length="595" />
+			<highlight index="2" start="1117" length="237" />
+			<highlight index="3" start="1354" length="203" />
+			<highlight index="4" start="1554" length="347" />
+			<highlight index="5" start="1896" length="816" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, I really love sport!" />
+			</subtitles>
+		</line>
+		<line words="El domingo no juego a nada," start="103599" length="3539" >
+			<highlight index="0" start="385" length="255" />
+			<highlight index="1" start="620" length="691" />
+			<highlight index="2" start="1286" length="310" />
+			<highlight index="3" start="1576" length="316" />
+			<highlight index="4" start="1871" length="411" />
+			<highlight index="5" start="2272" length="876" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport," />
+			</subtitles>
+		</line>
+		<line words="así que como dulces, tomo Coca Cola." start="106944" length="4000" >
+			<highlight index="0" start="316" length="306" />
+			<highlight index="1" start="594" length="356" />
+			<highlight index="2" start="927" length="787" />
+			<highlight index="3" start="1702" length="917" />
+			<highlight index="4" start="2602" length="469" />
+			<highlight index="5" start="3049" length="418" />
+			<highlight index="6" start="3433" length="447" />
+			<subtitles>
+				<subtitle lang="en" line="so I eat some sweets, drink some coke." />
+			</subtitles>
+		</line>
+		<line words="El domingo no juego a nada," start="110520" length="3539" >
+			<highlight index="0" start="385" length="255" />
+			<highlight index="1" start="620" length="691" />
+			<highlight index="2" start="1286" length="310" />
+			<highlight index="3" start="1576" length="316" />
+			<highlight index="4" start="1871" length="411" />
+			<highlight index="5" start="2272" length="876" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport," />
+			</subtitles>
+		</line>
+		<line words="así que como dulces, tomo Coca Cola." start="113751" length="4000" >
+			<highlight index="0" start="316" length="306" />
+			<highlight index="1" start="594" length="356" />
+			<highlight index="2" start="927" length="787" />
+			<highlight index="3" start="1702" length="917" />
+			<highlight index="4" start="2602" length="469" />
+			<highlight index="5" start="3049" length="418" />
+			<highlight index="6" start="3433" length="447" />
+			<subtitles>
+				<subtitle lang="en" line="so I eat some sweets, drink some coke." />
+			</subtitles>
+		</line>
+		<line words="así que como dulces, tomo Coca Cola." start="120557" length="4000" >
+			<highlight index="0" start="316" length="306" />
+			<highlight index="1" start="594" length="356" />
+			<highlight index="2" start="927" length="787" />
+			<highlight index="3" start="1702" length="917" />
+			<highlight index="4" start="2602" length="469" />
+			<highlight index="5" start="3049" length="418" />
+			<highlight index="6" start="3433" length="447" />
+			<subtitles>
+				<subtitle lang="en" line="so I eat some sweets, drink some coke." />
+			</subtitles>
+		</line>
+		<line words="El domingo no juego a nada," start="117327" length="3539" >
+			<highlight index="0" start="470" length="255" />
+			<highlight index="1" start="700" length="611" />
+			<highlight index="2" start="1286" length="310" />
+			<highlight index="3" start="1576" length="316" />
+			<highlight index="4" start="1871" length="411" />
+			<highlight index="5" start="2272" length="876" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport," />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

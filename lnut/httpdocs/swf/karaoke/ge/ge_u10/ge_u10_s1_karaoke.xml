@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="134347" >
+	<lines>
+		<line words="Montag, Dienstag, Mittwoch" start="15168" length="3839" >
+			<highlight index="0" start="449" length="564" />
+			<highlight index="1" start="1005" length="830" />
+			<highlight index="2" start="1820" length="1660" />
+			<subtitles>
+				<subtitle lang="nl" line="Maandag, dinsdag, woensdag." />
+				<subtitle lang="sp" line="Lunes, martes, miércoles" />
+				<subtitle lang="fr" line="Lundi, mardi, mercredi" />
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday" />
+				<subtitle lang="dk" line="Mandag, tirsdag, onsdag." />
+				<subtitle lang="nz" line="Monday, Tuesday, Wednesday" />
+			</subtitles>
+		</line>
+		<line words="Donnerstag, Freitag, Samstag" start="18644" length="3427" >
+			<highlight index="0" start="224" length="564" />
+			<highlight index="1" start="809" length="945" />
+			<highlight index="2" start="1774" length="1109" />
+			<subtitles>
+				<subtitle lang="nl" line="donderdag, vrijdag, zaterdag." />
+				<subtitle lang="en" line="Thursday, Friday, Saturday" />
+				<subtitle lang="sp" line="Jueves, viernes, sábado" />
+				<subtitle lang="dk" line="Torsdag, fredag, lørdag." />
+				<subtitle lang="nz" line="Thursday, Friday, Saturday" />
+				<subtitle lang="fr" line="Jeudi, vendredi, samedi." />
+			</subtitles>
+		</line>
+		<line words="Sonntag. Ich liebe Sport!" start="21796" length="3701" >
+			<highlight index="0" start="315" length="514" />
+			<highlight index="1" start="881" length="251" />
+			<highlight index="2" start="1094" length="499" />
+			<highlight index="3" start="1630" length="837" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag, ik houd van sport!" />
+				<subtitle lang="en" line="Sunday. I love sport!" />
+				<subtitle lang="sp" line="Domingo, me encantan los deportes" />
+				<subtitle lang="dk" line="Søndag. Jeg elsker sport." />
+				<subtitle lang="nz" line="Sunday. I love sport!" />
+				<subtitle lang="fr" line="Dimanche. J'adore le sport!" />
+			</subtitles>
+		</line>
+		<line words="Ja, ich liebe Sport." start="25365" length="3564" >
+			<highlight index="0" start="289" length="396" />
+			<highlight index="1" start="891" length="282" />
+			<highlight index="2" start="1180" length="686" />
+			<highlight index="3" start="1831" length="799" />
+			<subtitles>
+				<subtitle lang="nl" line="Ja ik houd van sport." />
+				<subtitle lang="en" line="Yes, I like sport." />
+				<subtitle lang="sp" line="Sí, me gustan los deportes" />
+				<subtitle lang="dk" line="Ja, jeg kan lide al slags sport." />
+				<subtitle lang="nz" line="Yes, I like sport." />
+				<subtitle lang="fr" line="Oui, j'aime bien le sport." />
+			</subtitles>
+		</line>
+		<line words="Montag spiele ich Fußball! Also trinkt das Wasser, trinkt das Wasser." start="28651" length="7266" >
+			<highlight index="0" start="418" length="418" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="1471" />
+			<highlight index="4" start="3373" length="317" />
+			<highlight index="5" start="3647" length="432" />
+			<highlight index="6" start="4022" length="403" />
+			<highlight index="7" start="4368" length="692" />
+			<highlight index="8" start="5406" length="534" />
+			<highlight index="9" start="5939" length="200" />
+			<highlight index="10" start="6112" length="635" />
+			<subtitles>
+				<subtitle lang="nl" line="Maandag speel ik voetbal! Dan drink ik water, drink ik water." />
+				<subtitle lang="en" line="On Monday I play football! So drink water! Drink water." />
+				<subtitle lang="sp" line="El lunes juego al fútbol. ¡Así que bebo agua, bebo agua!" />
+				<subtitle lang="dk" line="Om mandagen spiller jeg fodbold! Så drik vand. Drik vand." />
+				<subtitle lang="nz" line="On Monday I play football! So drink water! Drink water." />
+				<subtitle lang="fr" line="Lundi je joue au foot! Alors buvez de l'eau, buvez de l'eau." />
+			</subtitles>
+		</line>
+		<line words="Dienstag spiele ich Tennis. Trinkt den Saft, trinkt den Saft." start="35780" length="6717" >
+			<highlight index="0" start="119" length="717" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="1471" />
+			<highlight index="4" start="3373" length="465" />
+			<highlight index="5" start="3784" length="432" />
+			<highlight index="6" start="4171" length="403" />
+			<highlight index="7" start="5197" length="439" />
+			<highlight index="8" start="5597" length="343" />
+			<highlight index="9" start="5877" length="493" />
+			<subtitles>
+				<subtitle lang="nl" line="Dinsdag speel ik tennis! Dan drink ik sap, drink ik wat sap." />
+				<subtitle lang="en" line="On Tuesday I play tennis! Drink some juice! Drink some juice." />
+				<subtitle lang="sp" line="¡El martes juego al tenis! ¡Así que bebo zumo, bebe zumo!" />
+				<subtitle lang="dk" line="Om tirsdagen spiller jeg tennis! Så drik juice. Drik noget juice." />
+				<subtitle lang="nz" line="On Tuesday I play tennis! Drink some juice! Drink some juice." />
+				<subtitle lang="fr" line="Mardi je joue au tennis! Alors buvez du jus, buvez du jus." />
+			</subtitles>
+		</line>
+		<line words="Mittwoch spiele ich Golf! Trinkt das Wasser oder trinkt den Saft!" start="42360" length="6717" >
+			<highlight index="0" start="119" length="717" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="1471" />
+			<highlight index="4" start="3465" length="465" />
+			<highlight index="5" start="3864" length="432" />
+			<highlight index="6" start="4278" length="773" />
+			<highlight index="7" start="5064" length="439" />
+			<highlight index="8" start="5517" length="333" />
+			<highlight index="9" start="5797" length="493" />
+			<highlight index="10" start="6112" length="635" />
+			<subtitles>
+				<subtitle lang="nl" line="Op woensdag speel ik golf! Dan drink ik water of drink ik wat sap." />
+				<subtitle lang="sp" line="El miércoles juego al golf. ¡Así que bebo agua y zumo!" />
+				<subtitle lang="fr" line="Mercredi je joue au golf! Alors buvez de l'eau ou buvez du jus." />
+				<subtitle lang="en" line="Wednesday I play some golf! So drink water or drink some juice." />
+				<subtitle lang="dk" line="Om onsdagen spiller jeg golf! Så drik vand eller drik noget juice." />
+				<subtitle lang="nz" line="Wednesday I play some golf! So drink water or drink some juice." />
+			</subtitles>
+		</line>
+		<line words="Montag, Dienstag, Mittwoch" start="52770" length="3839" >
+			<highlight index="0" start="449" length="564" />
+			<highlight index="1" start="1005" length="830" />
+			<highlight index="2" start="1820" length="1660" />
+			<subtitles>
+				<subtitle lang="nl" line="Maandag, dinsdag, woensdag." />
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday" />
+				<subtitle lang="sp" line="Lunes, martes, miércoles" />
+				<subtitle lang="dk" line="Mandag, tirsdag, onsdag." />
+				<subtitle lang="nz" line="Monday, Tuesday, Wednesday" />
+				<subtitle lang="fr" line="Lundi, mardi, mercredi" />
+			</subtitles>
+		</line>
+		<line words="Donnerstag, Freitag, Samstag" start="56593" length="3427" >
+			<highlight index="0" start="224" length="564" />
+			<highlight index="1" start="809" length="945" />
+			<highlight index="2" start="1774" length="1109" />
+			<subtitles>
+				<subtitle lang="nl" line="donderdag, vrijdag, zaterdag." />
+				<subtitle lang="en" line="Thursday, Friday, Saturday" />
+				<subtitle lang="sp" line="Jueves, viernes, sábado" />
+				<subtitle lang="dk" line="Torsdag, fredag, lørdag." />
+				<subtitle lang="nz" line="Thursday, Friday, Saturday" />
+				<subtitle lang="fr" line="Jeudi, vendredi, samedi." />
+			</subtitles>
+		</line>
+		<line words="Sonntag. Ich liebe Sport!" start="59633" length="3701" >
+			<highlight index="0" start="315" length="514" />
+			<highlight index="1" start="881" length="251" />
+			<highlight index="2" start="1094" length="499" />
+			<highlight index="3" start="1630" length="837" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag, ik houd van sport!" />
+				<subtitle lang="en" line="Sunday. I love sport!" />
+				<subtitle lang="sp" line="Domingo, me encantan los deportes¡" />
+				<subtitle lang="dk" line="Søndag. Jeg elsker sport." />
+				<subtitle lang="nz" line="Sunday. I love sport!" />
+				<subtitle lang="fr" line="Dimanche. J'adore le sport!" />
+			</subtitles>
+		</line>
+		<line words="Ja, ich liebe Sport." start="62967" length="3564" >
+			<highlight index="0" start="289" length="396" />
+			<highlight index="1" start="891" length="282" />
+			<highlight index="2" start="1180" length="686" />
+			<highlight index="3" start="1831" length="799" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag, ik houd van sport!" />
+				<subtitle lang="en" line="Sunday. I love sport!" />
+				<subtitle lang="sp" line="Sí, me gustan todos los deportes" />
+				<subtitle lang="dk" line="Ja, jeg kan lide al slags sport." />
+				<subtitle lang="nz" line="Sunday. I love sport!" />
+				<subtitle lang="fr" line="Oui, j'aime bien le sport." />
+			</subtitles>
+		</line>
+		<line words="Donnerstag gehe ich schwimmen. Also esst den Fisch, esst den Fisch." start="66350" length="7266" >
+			<highlight index="0" start="418" length="504" />
+			<highlight index="1" start="1009" length="403" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="1471" />
+			<highlight index="4" start="3373" length="317" />
+			<highlight index="5" start="3647" length="432" />
+			<highlight index="6" start="4022" length="403" />
+			<highlight index="7" start="4368" length="692" />
+			<highlight index="8" start="5406" length="534" />
+			<highlight index="9" start="5939" length="200" />
+			<highlight index="10" start="6112" length="635" />
+			<subtitles>
+				<subtitle lang="nl" line="Donderdag ga ik zwemmen in het bad! Dan eet ik vis, dan eet ik vis." />
+				<subtitle lang="en" line="Thursday I go swimming! So eat some fish, eat some fish." />
+				<subtitle lang="sp" line="¡El jueves hago natación! Así que como pescado y carne." />
+				<subtitle lang="dk" line="Om torsdagen svømmer jeg! Så spis noget fisk, spis noget fisk." />
+				<subtitle lang="nz" line="Thursday I go swimming! So eat some fish, eat some fish." />
+				<subtitle lang="fr" line="Jeudi je fais de la natation! Alors mangez du poisson, mangez du poisson." />
+			</subtitles>
+		</line>
+		<line words="Freitag mache ich Judo. Also esst das Steak, esst das Steak." start="73342" length="6717" >
+			<highlight index="0" start="119" length="717" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="1471" />
+			<highlight index="4" start="3185" length="653" />
+			<highlight index="5" start="3784" length="338" />
+			<highlight index="6" start="4171" length="240" />
+			<highlight index="7" start="4531" length="439" />
+			<highlight index="8" start="5330" length="343" />
+			<highlight index="9" start="5637" length="306" />
+			<highlight index="10" start="5930" length="635" />
+			<subtitles>
+				<subtitle lang="nl" line="Vrijdag ga ik naar de judo! Dan eet ik vlees, dan eet ik vlees." />
+				<subtitle lang="en" line="Freitag mache ich Judo.Also esst das Steak, esst das Steak." />
+				<subtitle lang="sp" line="¡El viernes hago judo! Así que como un filete, como un filete" />
+				<subtitle lang="dk" line="Fredag går jeg til judo! Så spis noget kød, spis noget kød." />
+				<subtitle lang="nz" line="Freitag mache ich Judo.Also esst das Steak, esst das Steak." />
+				<subtitle lang="fr" line="Vendredi je fais du judo! Alors mangez du steak, mangez du steak." />
+			</subtitles>
+		</line>
+		<line words="Samstag gehe ich reiten. Also esst das Gemüse, esst das Gemüse." start="79922" length="7266" >
+			<highlight index="0" start="466" length="626" />
+			<highlight index="1" start="1079" length="267" />
+			<highlight index="2" start="1279" length="506" />
+			<highlight index="3" start="1759" length="1471" />
+			<highlight index="4" start="3465" length="465" />
+			<highlight index="5" start="3864" length="432" />
+			<highlight index="6" start="4278" length="333" />
+			<highlight index="7" start="4557" length="1080" />
+			<highlight index="8" start="5637" length="333" />
+			<highlight index="9" start="5917" length="280" />
+			<highlight index="10" start="6199" length="821" />
+			<subtitles>
+				<subtitle lang="nl" line="Zaterdag ga ik rijden op mijn paard! Dan eet ik groente, dan eet ik groente." />
+				<subtitle lang="en" line="Saturday I go horseriding! So eat some veg, eat some veg." />
+				<subtitle lang="sp" line="¡el sábado monto a caballo! Así que como verduras, como verduras." />
+				<subtitle lang="dk" line="Lørdag går jeg til ridning! Så spis nogle grøntsager, spis nogle grøntsager." />
+				<subtitle lang="nz" line="Saturday I go horseriding! So eat some veg, eat some veg." />
+				<subtitle lang="fr" line="Samedi je fais de l'équitation! Alors mangez des légumes, mangez des légumes" />
+			</subtitles>
+		</line>
+		<line words="Montag, Dienstag, Mittwoch" start="90117" length="3839" >
+			<highlight index="0" start="449" length="564" />
+			<highlight index="1" start="1005" length="830" />
+			<highlight index="2" start="1820" length="1660" />
+			<subtitles>
+				<subtitle lang="nl" line="Maandag, dinsdag, woensdag." />
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday" />
+				<subtitle lang="sp" line="Lunes, martes, miércoles" />
+				<subtitle lang="dk" line="Mandag, tirsdag, onsdag." />
+				<subtitle lang="nz" line="Monday, Tuesday, Wednesday" />
+				<subtitle lang="fr" line="Lundi, mardi, mercredi" />
+			</subtitles>
+		</line>
+		<line words="Donnerstag, Freitag, Samstag" start="94042" length="3427" >
+			<highlight index="0" start="224" length="564" />
+			<highlight index="1" start="809" length="945" />
+			<highlight index="2" start="1774" length="1109" />
+			<subtitles>
+				<subtitle lang="nl" line="donderdag, vrijdag, zaterdag." />
+				<subtitle lang="en" line="Thursday, Friday, Saturday" />
+				<subtitle lang="sp" line="Jueves, viernes, sábado" />
+				<subtitle lang="dk" line="Torsdag, fredag, lørdag." />
+				<subtitle lang="nz" line="Thursday, Friday, Saturday" />
+				<subtitle lang="fr" line="Jeudi, vendredi, samedi." />
+			</subtitles>
+		</line>
+		<line words="Sonntag. Ich liebe Sport!" start="97195" length="3701" >
+			<highlight index="0" start="315" length="514" />
+			<highlight index="1" start="881" length="251" />
+			<highlight index="2" start="1094" length="499" />
+			<highlight index="3" start="1630" length="837" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag, ik houd van sport!" />
+				<subtitle lang="en" line="Sunday. I love sport!" />
+				<subtitle lang="sp" line="Domingo, me encantan los deportes¡" />
+				<subtitle lang="dk" line="Søndag. Jeg elsker sport." />
+				<subtitle lang="nz" line="Sunday. I love sport!" />
+				<subtitle lang="fr" line="Dimanche. J'adore le sport!" />
+			</subtitles>
+		</line>
+		<line words="Ja, ich liebe Sport." start="100823" length="3564" >
+			<highlight index="0" start="289" length="396" />
+			<highlight index="1" start="891" length="282" />
+			<highlight index="2" start="1180" length="686" />
+			<highlight index="3" start="1831" length="799" />
+			<subtitles>
+				<subtitle lang="nl" line="Ja ik houd van sport." />
+				<subtitle lang="en" line="Oh, I really love sport" />
+				<subtitle lang="sp" line="Sí, me gustan todos los deportes" />
+				<subtitle lang="dk" line="Ja, jeg kan lide al slags sport." />
+				<subtitle lang="nz" line="Oh, I really love sport" />
+				<subtitle lang="fr" line="Oui, j'aime bien le sport." />
+			</subtitles>
+		</line>
+		<line words="Sonntag mache ich keinen Sport. Esst die Bonbons und trinkt die Cola." start="104187" length="7266" >
+			<highlight index="0" start="418" length="418" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="577" />
+			<highlight index="4" start="2349" length="880" />
+			<highlight index="5" start="3647" length="432" />
+			<highlight index="6" start="4022" length="303" />
+			<highlight index="7" start="4296" length="807" />
+			<highlight index="8" start="5146" length="274" />
+			<highlight index="9" start="5363" length="445" />
+			<highlight index="10" start="5766" length="346" />
+			<highlight index="11" start="6098" length="1009" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag sport ik helemaal niet! Ja dan eet ik snoepjes en drink ik cola." />
+				<subtitle lang="en" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="sp" line="¡El domingo no hago deporte! Así que como dulces y bebo coca cola" />
+				<subtitle lang="dk" line="Om søndagen dyrker jeg ikke sport! Så spis noget slik og drik noget cola." />
+				<subtitle lang="nz" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="fr" line="Dimanche je ne fais pas de sport! Alors mangez des bons-bons et buvez du coca." />
+			</subtitles>
+		</line>
+		<line words="Sonntag mache ich keinen Sport. Esst die Bonbons und trinkt die Cola." start="111041" length="7266" >
+			<highlight index="0" start="418" length="418" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="577" />
+			<highlight index="4" start="2349" length="880" />
+			<highlight index="5" start="3647" length="432" />
+			<highlight index="6" start="4022" length="303" />
+			<highlight index="7" start="4296" length="807" />
+			<highlight index="8" start="5146" length="274" />
+			<highlight index="9" start="5363" length="445" />
+			<highlight index="10" start="5766" length="346" />
+			<highlight index="11" start="6098" length="822" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag sport ik helemaal niet! Ja dan eet ik snoepjes en drink ik cola." />
+				<subtitle lang="en" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="sp" line="¡El domingo no hago deporte! Así que como dulces y bebo coca cola" />
+				<subtitle lang="dk" line="Om søndagen dyrker jeg ikke sport! Så spis noget slik og drik noget cola." />
+				<subtitle lang="nz" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="fr" line="Dimanche je ne fais pas de sport! Alors mangez des bons-bons et buvez du coca." />
+			</subtitles>
+		</line>
+		<line words="Sonntag mache ich keinen Sport. Esst die Bonbons und trinkt die Cola." start="117896" length="7266" >
+			<highlight index="0" start="418" length="418" />
+			<highlight index="1" start="922" length="433" />
+			<highlight index="2" start="1355" length="403" />
+			<highlight index="3" start="1758" length="577" />
+			<highlight index="4" start="2349" length="880" />
+			<highlight index="5" start="3647" length="432" />
+			<highlight index="6" start="4022" length="303" />
+			<highlight index="7" start="4296" length="807" />
+			<highlight index="8" start="5146" length="274" />
+			<highlight index="9" start="5363" length="445" />
+			<highlight index="10" start="5766" length="346" />
+			<highlight index="11" start="6098" length="822" />
+			<subtitles>
+				<subtitle lang="nl" line="Zondag sport ik helemaal niet! Ja dan eet ik snoepjes en drink ik cola." />
+				<subtitle lang="en" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="sp" line="¡El domingo no hago deporte! Así que como dulces y bebo coca cola" />
+				<subtitle lang="dk" line="Om søndagen dyrker jeg ikke sport! Så spis noget slik og drik noget cola." />
+				<subtitle lang="nz" line="Sunday I don't do sport! So eat some sweets and drink some cola." />
+				<subtitle lang="fr" line="Dimanche je ne fais pas de sport! Alors mangez des bons-bons et buvez du coca." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

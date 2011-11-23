@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="231732" >
+	<lines>
+		<line words="La Cafetería de Comida Loca. Por Dave Waddell" start="2726" length="7156" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="238" length="228" />
+				<highlight index="1" start="456" length="829" />
+				<highlight index="2" start="1244" length="207" />
+				<highlight index="3" start="1410" length="529" />
+				<highlight index="4" start="1918" length="477" />
+				<highlight index="5" start="3111" length="207" />
+				<highlight index="6" start="3308" length="466" />
+				<highlight index="7" start="3733" length="895" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The Crazy Food Café. By Dave Waddell" />
+				<subtitle lang="en" line="The Crazy Food Café. By Dave Waddell" />
+			</subtitles>
+		</line>
+		<line words="§Tengo hambre§ dice Jimmy. §¿Qué se te antoja?§ dice la mamá de Jimmy. Ella ve su reloj. §Comida, por supuesto§ dice Jimmy, §y también tengo sed.§" start="9142" length="14508" useLNutResource="true" image="21#2#1" >
+			<highlights>
+				<highlight index="0" start="691" length="829" />
+				<highlight index="1" start="1290" length="645" />
+				<highlight index="2" start="2119" length="461" />
+				<highlight index="3" start="2442" length="737" />
+				<highlight index="4" start="3640" length="553" />
+				<highlight index="5" start="4009" length="368" />
+				<highlight index="6" start="4055" length="506" />
+				<highlight index="7" start="4377" length="737" />
+				<highlight index="8" start="5207" length="414" />
+				<highlight index="9" start="5437" length="415" />
+				<highlight index="10" start="5760" length="368" />
+				<highlight index="11" start="5944" length="369" />
+				<highlight index="12" start="6128" length="691" />
+				<highlight index="13" start="7142" length="507" />
+				<highlight index="14" start="7465" length="368" />
+				<highlight index="15" start="7695" length="323" />
+				<highlight index="16" start="7925" length="738" />
+				<highlight index="17" start="9216" length="875" />
+				<highlight index="18" start="9861" length="507" />
+				<highlight index="19" start="10183" length="1152" />
+				<highlight index="20" start="11335" length="507" />
+				<highlight index="21" start="11658" length="691" />
+				<highlight index="22" start="12487" length="415" />
+				<highlight index="23" start="12764" length="691" />
+				<highlight index="24" start="13271" length="507" />
+				<highlight index="25" start="13639" length="599" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§I’m hungry,§ says Jimmy. §What for?§ says Jimmy’s Mum. She looks at her watch. §Food, of course,§ says Jimmy. §And I’m thirsty too.§" />
+				<subtitle lang="en" line="§I’m hungry,§ says Jimmy. §What for?§ says Jimmy’s Mum. She looks at her watch. §Food, of course,§ says Jimmy. §And I’m thirsty too.§" />
+			</subtitles>
+		</line>
+		<line words="§Oh, ok bien§ dice la mamá de Jimmy, §pero no vayas a comer mucho ¿eeh? Sólo una bebida: una coca, o una limonada, o un jugo de naranja. Y un bocadillo o algo así.§" start="23451" length="17489" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="50" length="811" />
+				<highlight index="1" start="709" length="583" />
+				<highlight index="2" start="1140" length="710" />
+				<highlight index="3" start="2357" length="405" />
+				<highlight index="4" start="2661" length="355" />
+				<highlight index="5" start="2889" length="380" />
+				<highlight index="6" start="3142" length="228" />
+				<highlight index="7" start="3294" length="583" />
+				<highlight index="8" start="4181" length="304" />
+				<highlight index="9" start="4409" length="609" />
+				<highlight index="10" start="4916" length="381" />
+				<highlight index="11" start="5271" length="254" />
+				<highlight index="12" start="5398" length="507" />
+				<highlight index="13" start="5803" length="558" />
+				<highlight index="14" start="6285" length="431" />
+				<highlight index="15" start="6995" length="608" />
+				<highlight index="16" start="7476" length="380" />
+				<highlight index="17" start="7780" length="634" />
+				<highlight index="18" start="8845" length="633" />
+				<highlight index="19" start="9402" length="913" />
+				<highlight index="20" start="10239" length="304" />
+				<highlight index="21" start="10467" length="380" />
+				<highlight index="22" start="10746" length="861" />
+				<highlight index="23" start="11531" length="558" />
+				<highlight index="24" start="11987" length="355" />
+				<highlight index="25" start="12292" length="253" />
+				<highlight index="26" start="12469" length="228" />
+				<highlight index="27" start="12646" length="609" />
+				<highlight index="28" start="13457" length="279" />
+				<highlight index="29" start="13686" length="304" />
+				<highlight index="30" start="13863" length="735" />
+				<highlight index="31" start="14522" length="355" />
+				<highlight index="32" start="14801" length="355" />
+				<highlight index="33" start="15054" length="1087" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="’‘Oh, ok then,’ says Jimmy’s Mum, ‘but let’s not go crazy, eh. Just one drink - a cola, or lemonade, or an orange juice. And a biscuit. Something like that. ’" />
+				<subtitle lang="en" line="’‘Oh, ok then,’ says Jimmy’s Mum, ‘but let’s not go crazy, eh. Just one drink - a cola, or lemonade, or an orange juice. And a biscuit. Something like that. ’" />
+			</subtitles>
+		</line>
+		<line words="Jimmy y su mamá se sientan afuera de La Cafetería de Comida Loca y ven el menú." start="40741" length="9354" useLNutResource="true" image="21#2#2" >
+			<highlights>
+				<highlight index="0" start="921" length="732" />
+				<highlight index="1" start="1626" length="149" />
+				<highlight index="2" start="1707" length="109" />
+				<highlight index="3" start="1802" length="471" />
+				<highlight index="4" start="2250" length="271" />
+				<highlight index="5" start="2480" length="556" />
+				<highlight index="6" start="2968" length="542" />
+				<highlight index="7" start="3429" length="190" />
+				<highlight index="8" start="3578" length="190" />
+				<highlight index="9" start="3727" length="908" />
+				<highlight index="10" start="4595" length="176" />
+				<highlight index="11" start="4703" length="448" />
+				<highlight index="12" start="5096" length="488" />
+				<highlight index="13" start="5815" length="284" />
+				<highlight index="14" start="6086" length="271" />
+				<highlight index="15" start="6303" length="284" />
+				<highlight index="16" start="6533" length="475" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jimmy and his Mum sit outside The Crazy Food Café. They look at the menu. " />
+				<subtitle lang="en" line="Jimmy and his Mum sit outside The Crazy Food Café. They look at the menu. " />
+			</subtitles>
+		</line>
+		<line words="Un mesero viene a atenderles. Su chamarra está cubierta de pedazos de comida y de bebidas: Café, chocolate caliente, mejillones, leche, té, y todo tipo de helado que te puedas imaginar. " start="49685" length="18483" useLNutResource="true" image="21#6#1" >
+			<highlights>
+				<highlight index="0" start="624" length="780" />
+				<highlight index="1" start="1365" length="546" />
+				<highlight index="2" start="1794" length="468" />
+				<highlight index="3" start="2145" length="390" />
+				<highlight index="4" start="2379" length="859" />
+				<highlight index="5" start="3628" length="351" />
+				<highlight index="6" start="3862" length="663" />
+				<highlight index="7" start="4408" length="507" />
+				<highlight index="8" start="4759" length="546" />
+				<highlight index="9" start="5188" length="274" />
+				<highlight index="10" start="5423" length="663" />
+				<highlight index="11" start="5969" length="273" />
+				<highlight index="12" start="6125" length="546" />
+				<highlight index="13" start="6749" length="234" />
+				<highlight index="14" start="6866" length="390" />
+				<highlight index="15" start="7022" length="858" />
+				<highlight index="16" start="8193" length="897" />
+				<highlight index="17" start="9012" length="1326" />
+				<highlight index="18" start="10143" length="976" />
+				<highlight index="19" start="11353" length="1248" />
+				<highlight index="20" start="12952" length="703" />
+				<highlight index="21" start="13889" length="546" />
+				<highlight index="22" start="14747" length="468" />
+				<highlight index="23" start="15020" length="702" />
+				<highlight index="24" start="15527" length="468" />
+				<highlight index="25" start="15722" length="625" />
+				<highlight index="26" start="16074" length="585" />
+				<highlight index="27" start="16542" length="351" />
+				<highlight index="28" start="16776" length="351" />
+				<highlight index="29" start="16932" length="819" />
+				<highlight index="30" start="17556" length="858" />
+				<highlight index="31" start="18766" length="351" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="A waiter comes over. His jacket is covered in bits of food and drink: Coffee, hot chocolate, mussels, milk tea and every kind of ice cream you can think of." />
+				<subtitle lang="en" line="A waiter comes over. His jacket is covered in bits of food and drink: Coffee, hot chocolate, mussels, milk tea and every kind of ice cream you can think of." />
+			</subtitles>
+		</line>
+		<line words="Le sonríe a Jimmy. Jimmy le sonríe de regreso. A Jimmy le cae bien el mesero." start="68168" length="8744" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="177" length="380" />
+				<highlight index="1" start="519" length="558" />
+				<highlight index="2" start="1051" length="165" />
+				<highlight index="3" start="1165" length="532" />
+				<highlight index="4" start="2344" length="317" />
+				<highlight index="5" start="2623" length="228" />
+				<highlight index="6" start="2787" length="456" />
+				<highlight index="7" start="3205" length="216" />
+				<highlight index="8" start="3370" length="834" />
+				<highlight index="9" start="4713" length="203" />
+				<highlight index="10" start="4878" length="558" />
+				<highlight index="11" start="5385" length="329" />
+				<highlight index="12" start="5702" length="342" />
+				<highlight index="13" start="5993" length="418" />
+				<highlight index="14" start="6373" length="216" />
+				<highlight index="15" start="6525" length="1062" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He grins at Jimmy. Jimmy grins back. Jimmy likes this waiter. " />
+				<subtitle lang="en" line="He grins at Jimmy. Jimmy grins back. Jimmy likes this waiter. " />
+			</subtitles>
+		</line>
+		<line words="§¿Puedo tener una mezcla de todas las bebidas deliciosas y una mezcla de todos los helados?§ dice Jimmy. §¡Jimmy!§ le dice su mamá." start="76316" length="15354" useLNutResource="true" image="21#4#1" >
+			<highlights>
+				<highlight index="0" start="2047" length="422" />
+				<highlight index="1" start="2336" length="556" />
+				<highlight index="2" start="2981" length="423" />
+				<highlight index="3" start="3337" length="534" />
+				<highlight index="4" start="3804" length="245" />
+				<highlight index="5" start="3982" length="490" />
+				<highlight index="6" start="4338" length="401" />
+				<highlight index="7" start="4628" length="645" />
+				<highlight index="8" start="5139" length="1157" />
+				<highlight index="9" start="6207" length="290" />
+				<highlight index="10" start="6430" length="289" />
+				<highlight index="11" start="6652" length="601" />
+				<highlight index="12" start="7231" length="178" />
+				<highlight index="13" start="7342" length="712" />
+				<highlight index="14" start="7965" length="267" />
+				<highlight index="15" start="8210" length="667" />
+				<highlight index="16" start="9211" length="445" />
+				<highlight index="17" start="9589" length="557" />
+				<highlight index="18" start="10813" length="868" />
+				<highlight index="19" start="11726" length="356" />
+				<highlight index="20" start="11970" length="423" />
+				<highlight index="21" start="12304" length="312" />
+				<highlight index="22" start="12549" length="489" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Can I have a mix of every delicious drink? And a mix of every ice cream?§ says Willy. §Jimmy!§ says Jimmy’s Mum.  " />
+				<subtitle lang="en" line="§Can I have a mix of every delicious drink? And a mix of every ice cream?§ says Willy. §Jimmy!§ says Jimmy’s Mum.  " />
+			</subtitles>
+		</line>
+		<line words="El mesero sonríe, saca lápiz y papel y empieza a escribir: §Para tomar: un vaso de jugo de manzana, naranja, coca, limonada, agua mineral y malteada§ ordena Jimmy. §Sin agua mineral§ dice Jimmy. " start="91023" length="20669" useLNutResource="true" image="21#6#1" >
+			<highlights>
+				<highlight index="0" start="1242" length="439" />
+				<highlight index="1" start="1607" length="622" />
+				<highlight index="2" start="2156" length="657" />
+				<highlight index="3" start="2887" length="548" />
+				<highlight index="4" start="3289" length="584" />
+				<highlight index="5" start="3727" length="329" />
+				<highlight index="6" start="3873" length="548" />
+				<highlight index="7" start="4348" length="439" />
+				<highlight index="8" start="4641" length="658" />
+				<highlight index="9" start="5152" length="256" />
+				<highlight index="10" start="5262" length="658" />
+				<highlight index="11" start="6541" length="439" />
+				<highlight index="12" start="6833" length="585" />
+				<highlight index="13" start="7820" length="329" />
+				<highlight index="14" start="8076" length="402" />
+				<highlight index="15" start="8405" length="329" />
+				<highlight index="16" start="8624" length="402" />
+				<highlight index="17" start="8953" length="219" />
+				<highlight index="18" start="9063" length="877" />
+				<highlight index="19" start="9867" length="986" />
+				<highlight index="20" start="11109" length="731" />
+				<highlight index="21" start="11731" length="1132" />
+				<highlight index="22" start="13119" length="475" />
+				<highlight index="23" start="13448" length="768" />
+				<highlight index="24" start="14179" length="402" />
+				<highlight index="25" start="14508" length="804" />
+				<highlight index="26" start="15385" length="694" />
+				<highlight index="27" start="15933" length="658" />
+				<highlight index="28" start="17285" length="622" />
+				<highlight index="29" start="17760" length="512" />
+				<highlight index="30" start="18126" length="621" />
+				<highlight index="31" start="18930" length="585" />
+				<highlight index="32" start="19332" length="512" />
+				<highlight index="33" start="20246" length="584" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The waiter grins, takes out a pencil and paper and begins to write: §To drink: a glass of apple, orange, cola, lemonade, mineral water and milkshake.§ §No mineral water,§ says Jimmy." />
+				<subtitle lang="en" line="The waiter grins, takes out a pencil and paper and begins to write: §To drink: a glass of apple, orange, cola, lemonade, mineral water and milkshake.§ §No mineral water,§ says Jimmy." />
+			</subtitles>
+		</line>
+		<line words="§Sin agua mineral§ escribe el mesero." start="111294" length="4994" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="57" length="384" />
+				<highlight index="1" start="419" length="413" />
+				<highlight index="2" start="810" length="499" />
+				<highlight index="3" start="1671" length="681" />
+				<highlight index="4" start="2315" length="131" />
+				<highlight index="5" start="2424" length="687" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§No mineral water,§ writes the waiter.   " />
+				<subtitle lang="en" line="§No mineral water,§ writes the waiter.   " />
+			</subtitles>
+		</line>
+		<line words="§¿Y para comer?§ pregunta el mesero, chupando la orilla de su lápiz. " start="115866" length="6558" useLNutResource="true" image="21#4#6" >
+			<highlights>
+				<highlight index="0" start="1463" length="238" />
+				<highlight index="1" start="1644" length="332" />
+				<highlight index="2" start="1929" length="513" />
+				<highlight index="3" start="2860" length="618" />
+				<highlight index="4" start="3459" length="199" />
+				<highlight index="5" start="3592" length="694" />
+				<highlight index="6" start="4419" length="532" />
+				<highlight index="7" start="4932" length="171" />
+				<highlight index="8" start="5074" length="485" />
+				<highlight index="9" start="5502" length="100" />
+				<highlight index="10" start="5550" length="294" />
+				<highlight index="11" start="5787" length="704" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§And to eat,§ says the waiter, licking the end of his pencil. " />
+				<subtitle lang="en" line="§And to eat,§ says the waiter, licking the end of his pencil. " />
+			</subtitles>
+		</line>
+		<line words="§Una bola de helado de limón, caramelo, frambuesa, pistache, menta, durazno, chocolate, grosella, vainilla. Y fresa § dice Jimmy. §¡Jimmy!§ le dice su mamá. §Y fresa§ sonríe el mesero." start="122225" length="22855" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1391" length="397" />
+				<highlight index="1" start="1622" length="464" />
+				<highlight index="2" start="2053" length="298" />
+				<highlight index="3" start="2219" length="364" />
+				<highlight index="4" start="2450" length="332" />
+				<highlight index="5" start="2682" length="663" />
+				<highlight index="6" start="3543" length="961" />
+				<highlight index="7" start="4405" length="1093" />
+				<highlight index="8" start="5729" length="1193" />
+				<highlight index="9" start="6856" length="1059" />
+				<highlight index="10" start="8081" length="861" />
+				<highlight index="11" start="8843" length="1291" />
+				<highlight index="12" start="10333" length="1027" />
+				<highlight index="13" start="11426" length="961" />
+				<highlight index="14" start="12619" length="397" />
+				<highlight index="15" start="12850" length="497" />
+				<highlight index="16" start="13811" length="497" />
+				<highlight index="17" start="14308" length="662" />
+				<highlight index="18" start="15235" length="994" />
+				<highlight index="19" start="16162" length="497" />
+				<highlight index="20" start="16527" length="596" />
+				<highlight index="21" start="16957" length="232" />
+				<highlight index="22" start="17090" length="464" />
+				<highlight index="23" start="18448" length="265" />
+				<highlight index="24" start="18647" length="563" />
+				<highlight index="25" start="19176" length="928" />
+				<highlight index="26" start="20004" length="332" />
+				<highlight index="27" start="20203" length="1393" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§A scoop of lemon, caramel, raspberry, pistachio, mint, apricot, chocolate, blackcurrant, vanilla ice cream.§ §And strawberry,§ says Jimmy. §Jimmy!§ says Jimmy’s Mum. §And strawberry,§ grins the waiter.  " />
+				<subtitle lang="en" line="§A scoop of lemon, caramel, raspberry, pistachio, mint, apricot, chocolate, blackcurrant, vanilla ice cream.§ §And strawberry,§ says Jimmy. §Jimmy!§ says Jimmy’s Mum. §And strawberry,§ grins the waiter.  " />
+			</subtitles>
+		</line>
+		<line words="La mamá de Jimmy ordena un sándwich tostado de queso, una ensalada, papas fritas y un vaso de agua. §¿Algo más?§ dice el mesero. Le sonríe a la mamá de Jimmy. " start="144832" length="15551" useLNutResource="true" image="21#5#5" >
+			<highlights>
+				<highlight index="0" start="0" length="1573" />
+				<highlight index="1" start="1398" length="466" />
+				<highlight index="2" start="1689" length="467" />
+				<highlight index="3" start="2039" length="699" />
+				<highlight index="4" start="2447" length="641" />
+				<highlight index="5" start="2738" length="758" />
+				<highlight index="6" start="3438" length="1049" />
+				<highlight index="7" start="4195" length="758" />
+				<highlight index="8" start="4836" length="408" />
+				<highlight index="9" start="5069" length="583" />
+				<highlight index="10" start="5419" length="933" />
+				<highlight index="11" start="6177" length="1049" />
+				<highlight index="12" start="6993" length="1165" />
+				<highlight index="13" start="7925" length="699" />
+				<highlight index="14" start="8391" length="583" />
+				<highlight index="15" start="8741" length="466" />
+				<highlight index="16" start="9032" length="350" />
+				<highlight index="17" start="9324" length="408" />
+				<highlight index="18" start="9557" length="641" />
+				<highlight index="19" start="10256" length="991" />
+				<highlight index="20" start="11130" length="466" />
+				<highlight index="21" start="11363" length="933" />
+				<highlight index="22" start="12004" length="466" />
+				<highlight index="23" start="12179" length="699" />
+				<highlight index="24" start="13286" length="583" />
+				<highlight index="25" start="13578" length="699" />
+				<highlight index="26" start="14102" length="350" />
+				<highlight index="27" start="14277" length="408" />
+				<highlight index="28" start="14452" length="524" />
+				<highlight index="29" start="14801" length="234" />
+				<highlight index="30" start="14860" length="699" />
+				<highlight index="31" start="15792" length="408" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jimmy’s Mum orders a toasted cheese sandwich, a salad, chips and a glass of water. §Anything else?§ says the waiter. He grins at Jimmy’s Mum. " />
+				<subtitle lang="en" line="Jimmy’s Mum orders a toasted cheese sandwich, a salad, chips and a glass of water. §Anything else?§ says the waiter. He grins at Jimmy’s Mum. " />
+			</subtitles>
+		</line>
+		<line words="La mamá de Jimmy le sonríe de regreso. A la mamá de Jimmy le cae bien el mesero. §Y café de queso, un paquete de toffee azucarado y un litro de helado de papas.§ §¿Cuánto azúcar?§ pregunta el mesero. §Sólo una pizca§ dice la mamá." start="160185" length="24842" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="0" length="431" />
+				<highlight index="1" start="364" length="861" />
+				<highlight index="2" start="1126" length="231" />
+				<highlight index="3" start="1291" length="497" />
+				<highlight index="4" start="1689" length="364" />
+				<highlight index="5" start="1954" length="629" />
+				<highlight index="6" start="2417" length="298" />
+				<highlight index="7" start="2616" length="861" />
+				<highlight index="8" start="4173" length="232" />
+				<highlight index="9" start="4305" length="232" />
+				<highlight index="10" start="4504" length="397" />
+				<highlight index="11" start="4769" length="331" />
+				<highlight index="12" start="4968" length="530" />
+				<highlight index="13" start="5365" length="331" />
+				<highlight index="14" start="5564" length="463" />
+				<highlight index="15" start="5928" length="629" />
+				<highlight index="16" start="6359" length="232" />
+				<highlight index="17" start="6524" length="1227" />
+				<highlight index="18" start="8478" length="332" />
+				<highlight index="19" start="8677" length="431" />
+				<highlight index="20" start="8975" length="398" />
+				<highlight index="21" start="9240" length="497" />
+				<highlight index="22" start="10333" length="431" />
+				<highlight index="23" start="10631" length="464" />
+				<highlight index="24" start="10996" length="430" />
+				<highlight index="25" start="11294" length="795" />
+				<highlight index="26" start="11956" length="961" />
+				<highlight index="27" start="13049" length="331" />
+				<highlight index="28" start="13248" length="364" />
+				<highlight index="29" start="13513" length="563" />
+				<highlight index="30" start="13910" length="265" />
+				<highlight index="31" start="14109" length="497" />
+				<highlight index="32" start="14473" length="265" />
+				<highlight index="33" start="14639" length="695" />
+				<highlight index="34" start="16560" length="629" />
+				<highlight index="35" start="17024" length="861" />
+				<highlight index="36" start="18150" length="596" />
+				<highlight index="37" start="18514" length="497" />
+				<highlight index="38" start="18845" length="563" />
+				<highlight index="39" start="19905" length="606" />
+				<highlight index="40" start="20468" length="398" />
+				<highlight index="41" start="20700" length="732" />
+				<highlight index="42" start="21396" length="425" />
+				<highlight index="43" start="21857" length="354" />
+				<highlight index="44" start="22034" length="1050" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jimmy’s Mum grins back. Jimmy’s Mum likes this waiter. §And a cheese coffee, a packet of toffee, sugar and a litre of crisps ice cream.§ §How much sugar?§ says the waiter. §Just a pinch,§ says Mum.   " />
+				<subtitle lang="en" line="Jimmy’s Mum grins back. Jimmy’s Mum likes this waiter. §And a cheese coffee, a packet of toffee, sugar and a litre of crisps ice cream.§ §How much sugar?§ says the waiter. §Just a pinch,§ says Mum.   " />
+			</subtitles>
+		</line>
+		<line words="§¡Mamá!...§ los ojos de Jimmy son tan grandes y tan redondos como dos canicas grandes y redondas. §¿Qué?§ sonríe la mamá de Jimmy  " start="184704" length="13639" useLNutResource="true" image="21#6#1" >
+			<highlights>
+				<highlight index="0" start="805" length="1512" />
+				<highlight index="0" start="1242" length="100" />
+				<highlight index="1" start="2216" length="806" />
+				<highlight index="2" start="2955" length="369" />
+				<highlight index="3" start="3190" length="268" />
+				<highlight index="4" start="3324" length="605" />
+				<highlight index="5" start="3794" length="370" />
+				<highlight index="6" start="4096" length="605" />
+				<highlight index="7" start="4667" length="739" />
+				<highlight index="8" start="5305" length="370" />
+				<highlight index="9" start="5574" length="504" />
+				<highlight index="10" start="5943" length="1109" />
+				<highlight index="11" start="7052" length="436" />
+				<highlight index="12" start="7421" length="369" />
+				<highlight index="13" start="7690" length="671" />
+				<highlight index="14" start="8261" length="738" />
+				<highlight index="15" start="8899" length="335" />
+				<highlight index="16" start="9134" length="839" />
+				<highlight index="17" start="10443" length="571" />
+				<highlight index="18" start="11518" length="705" />
+				<highlight index="19" start="12122" length="269" />
+				<highlight index="20" start="12257" length="470" />
+				<highlight index="21" start="12626" length="302" />
+				<highlight index="22" start="12794" length="537" />
+				<highlight index="23" start="14070" length="638" />
+				<highlight index="24" start="14540" length="840" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Mum!§ Jimmy’s eyes are as large and as round as two large, round marbles. §What?§ grins Jimmy’s Mum. " />
+				<subtitle lang="en" line="§Mum!§ Jimmy’s eyes are as large and as round as two large, round marbles. §What?§ grins Jimmy’s Mum. " />
+			</subtitles>
+		</line>
+		<line words="§Sí, ¿Qué?§ dice el mesero mientras pone la comida para Jimmy y su mamá en la mesa." start="197548" length="9738" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1141" length="510" />
+				<highlight index="1" start="1966" length="661" />
+				<highlight index="2" start="3242" length="301" />
+				<highlight index="3" start="3483" length="225" />
+				<highlight index="4" start="3693" length="525" />
+				<highlight index="5" start="4158" length="751" />
+				<highlight index="6" start="4834" length="315" />
+				<highlight index="7" start="5104" length="255" />
+				<highlight index="8" start="5284" length="481" />
+				<highlight index="9" start="5690" length="480" />
+				<highlight index="10" start="6110" length="510" />
+				<highlight index="11" start="6560" length="181" />
+				<highlight index="12" start="6695" length="241" />
+				<highlight index="13" start="6876" length="435" />
+				<highlight index="14" start="7266" length="120" />
+				<highlight index="15" start="7326" length="285" />
+				<highlight index="16" start="7536" length="1101" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Yes, what?§ says the waiter, bringing Jimmy and Jimmy’s Mum’s food over to the table. " />
+				<subtitle lang="en" line="§Yes, what?§ says the waiter, bringing Jimmy and Jimmy’s Mum’s food over to the table. " />
+			</subtitles>
+		</line>
+		<line words="Jimmy se come todo." start="206491" length="6157" useLNutResource="true" image="21#2#1" >
+			<highlights>
+				<highlight index="0" start="2043" length="491" />
+				<highlight index="1" start="2525" length="187" />
+				<highlight index="2" start="2667" length="330" />
+				<highlight index="3" start="2962" length="771" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jimmy eats everything. " />
+				<subtitle lang="en" line="Jimmy eats everything. " />
+			</subtitles>
+		</line>
+		<line words="La mamá de Jimmy se come todo." start="212454" length="4682" useLNutResource="true" image="21#2#4" >
+			<highlights>
+				<highlight index="0" start="583" length="149" />
+				<highlight index="1" start="705" length="373" />
+				<highlight index="2" start="1051" length="197" />
+				<highlight index="3" start="1234" length="475" />
+				<highlight index="4" start="1675" length="326" />
+				<highlight index="5" start="1974" length="468" />
+				<highlight index="6" start="2408" length="736" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jimmy’s Mum eats everything." />
+				<subtitle lang="en" line="Jimmy’s Mum eats everything." />
+			</subtitles>
+		</line>
+		<line words="El mesero toca un tambor con una cucharita y una cuchara." start="216627" length="8289" useLNutResource="true" image="21#6#1" >
+			<highlights>
+				<highlight index="0" start="1873" length="265" />
+				<highlight index="1" start="2078" length="600" />
+				<highlight index="2" start="2630" length="337" />
+				<highlight index="3" start="2942" length="337" />
+				<highlight index="4" start="3231" length="636" />
+				<highlight index="5" start="4180" length="252" />
+				<highlight index="6" start="4360" length="264" />
+				<highlight index="7" start="4600" length="997" />
+				<highlight index="8" start="5693" length="229" />
+				<highlight index="9" start="5873" length="373" />
+				<highlight index="10" start="6198" length="908" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The waiter plays a drum with a teaspoon and a soupspoon" />
+				<subtitle lang="en" line="The waiter plays a drum with a teaspoon and a soupspoon" />
+			</subtitles>
+		</line>
+		<line words="Todos pasan un excelente tiempo en La Cafetería de Comida Loca." start="224577" length="8177" useLNutResource="true" image="21#6#1" >
+			<highlights>
+				<highlight index="0" start="2121" length="403" />
+				<highlight index="1" start="2512" length="591" />
+				<highlight index="2" start="3104" length="261" />
+				<highlight index="3" start="3306" length="828" />
+				<highlight index="4" start="4052" length="498" />
+				<highlight index="5" start="4502" length="391" />
+				<highlight index="6" start="4858" length="154" />
+				<highlight index="7" start="4953" length="923" />
+				<highlight index="8" start="5830" length="237" />
+				<highlight index="9" start="6031" length="450" />
+				<highlight index="10" start="6422" length="745" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Everyone has the best time at The Crazy Food Café.  " />
+				<subtitle lang="en" line="Everyone has the best time at The Crazy Food Café.  " />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

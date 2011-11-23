@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="363180" >
+	<lines>
+		<line words="Éste es el cuento de un niño. §¡Hola!  ¿Cómo te llamas?§ §Yo me llamo Jack.§" start="0" length="11524" useLNutResource="true" image="6#3#10" >
+			<highlights>
+				<highlight index="0" start="3039" length="568" />
+				<highlight index="1" start="3573" length="201" />
+				<highlight index="2" start="3724" length="217" />
+				<highlight index="3" start="3907" length="435" />
+				<highlight index="4" start="4325" length="184" />
+				<highlight index="5" start="4458" length="134" />
+				<highlight index="6" start="4575" length="518" />
+				<highlight index="7" start="5694" length="902" />
+				<highlight index="9" start="7030" length="368" />
+				<highlight index="10" start="7331" length="217" />
+				<highlight index="11" start="7481" length="585" />
+				<highlight index="12" start="9068" length="133" />
+				<highlight index="13" start="9185" length="200" />
+				<highlight index="14" start="9335" length="384" />
+				<highlight index="15" start="9669" length="484" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="This is the story of a boy. §Hello! What’s your name?§ §My name’s Jack.§" />
+				<subtitle lang="en" line="This is the story of a boy. §Hello! What’s your name?§ §My name’s Jack.§" />
+			</subtitles>
+		</line>
+		<line words="Jack es pobre... su madre es pobre... Jack y su madre son pobres, muy pobres." start="11213" length="11836" useLNutResource="true" image="6#4#2" >
+			<highlights>
+				<highlight index="0" start="1903" length="669" />
+				<highlight index="1" start="2538" length="343" />
+				<highlight index="2" start="2830" length="651" />
+				<highlight index="3" start="3979" length="412" />
+				<highlight index="4" start="4305" length="463" />
+				<highlight index="5" start="4751" length="274" />
+				<highlight index="6" start="4974" length="497" />
+				<highlight index="7" start="5969" length="686" />
+				<highlight index="8" start="6569" length="240" />
+				<highlight index="9" start="6706" length="240" />
+				<highlight index="10" start="6860" length="429" />
+				<highlight index="11" start="7221" length="360" />
+				<highlight index="12" start="7512" length="686" />
+				<highlight index="13" start="8696" length="446" />
+				<highlight index="14" start="9073" length="858" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack is poor … Mother is poor …. Jack and his mother are poor, very poor. " />
+				<subtitle lang="en" line="Jack is poor … Mother is poor …. Jack and his mother are poor, very poor. " />
+			</subtitles>
+		</line>
+		<line words="Nada para desayunar... nada para comer... nada para cenar... ¡nada en absoluto!" start="22164" length="11836" useLNutResource="true" image="6#4#1" >
+			<highlights>
+				<highlight index="0" start="1766" length="515" />
+				<highlight index="1" start="2229" length="275" />
+				<highlight index="2" start="2469" length="910" />
+				<highlight index="3" start="4185" length="531" />
+				<highlight index="4" start="4665" length="326" />
+				<highlight index="5" start="4922" length="515" />
+				<highlight index="6" start="6209" length="446" />
+				<highlight index="7" start="6552" length="566" />
+				<highlight index="8" start="6998" length="394" />
+				<highlight index="9" start="8147" length="583" />
+				<highlight index="10" start="8627" length="275" />
+				<highlight index="11" start="8833" length="1332" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Nothing for breakfast ... nothing for lunch … nothing for supper … nothing at all!" />
+				<subtitle lang="en" line="Nothing for breakfast ... nothing for lunch … nothing for supper … nothing at all!" />
+			</subtitles>
+		</line>
+		<line words="Su madre le dice, §Jack vamos a vender la vaca.§ Muuu, muuu, muu, muu, muu. §Ve al mercado. ¡Rápido!, ¡Rápido!§" start="33639" length="19000" useLNutResource="true" image="6#3#4" >
+			<highlights>
+				<highlight index="0" start="1431" length="551" />
+				<highlight index="1" start="1872" length="440" />
+				<highlight index="2" start="2202" length="248" />
+				<highlight index="3" start="2395" length="578" />
+				<highlight index="4" start="3304" length="826" />
+				<highlight index="5" start="4240" length="550" />
+				<highlight index="6" start="4735" length="193" />
+				<highlight index="7" start="4818" length="413" />
+				<highlight index="8" start="5066" length="440" />
+				<highlight index="9" start="5424" length="605" />
+				<highlight index="10" start="6470" length="1349" />
+				<highlight index="11" start="7737" length="1652" />
+				<highlight index="12" start="9251" length="2017" />
+				<highlight index="13" start="11261" length="2871" />
+				<highlight index="15" start="14400" length="468" />
+				<highlight index="16" start="14620" length="248" />
+				<highlight index="17" start="14813" length="716" />
+				<highlight index="18" start="15694" length="854" />
+				<highlight index="19" start="16437" length="964" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Mother says, §Jack, let’s sell the cow.§ Moo, moo, moo, moo, moo. §Go to the market. Quick! Quick!§" />
+				<subtitle lang="en" line="Mother says, §Jack, let’s sell the cow.§ Moo, moo, moo, moo, moo. §Go to the market. Quick! Quick!§" />
+			</subtitles>
+		</line>
+		<line words="Jack y la vaca se van al mercado. Ellos se encuentran a un viejito. §Me gustaría comprar una vaca. Tengo cinco frijoles mágicos. Uno… dos… tres… cuatro… cinco…§" start="52016" length="24295" useLNutResource="true" image="6#3#5" >
+			<highlights>
+				<highlight index="0" start="1725" length="704" />
+				<highlight index="1" start="2253" length="387" />
+				<highlight index="2" start="2464" length="282" />
+				<highlight index="3" start="2605" length="563" />
+				<highlight index="4" start="3027" length="388" />
+				<highlight index="5" start="3239" length="387" />
+				<highlight index="6" start="3555" length="247" />
+				<highlight index="7" start="3696" length="810" />
+				<highlight index="8" start="4753" length="598" />
+				<highlight index="9" start="5210" length="352" />
+				<highlight index="10" start="5421" length="705" />
+				<highlight index="11" start="5950" length="387" />
+				<highlight index="12" start="6126" length="316" />
+				<highlight index="13" start="6266" length="705" />
+				<highlight index="14" start="7745" length="493" />
+				<highlight index="15" start="8097" length="986" />
+				<highlight index="16" start="8942" length="704" />
+				<highlight index="17" start="9506" length="492" />
+				<highlight index="18" start="9787" length="810" />
+				<highlight index="19" start="10456" length="1197" />
+				<highlight index="20" start="11548" length="809" />
+				<highlight index="21" start="12146" length="951" />
+				<highlight index="22" start="12991" length="1056" />
+				<highlight index="23" start="14787" length="845" />
+				<highlight index="24" start="16301" length="1150" />
+				<highlight index="25" start="18026" length="810" />
+				<highlight index="26" start="19681" length="1091" />
+				<highlight index="27" start="21511" length="1960" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack and the cow go to the market. They meet an old man. §I’d like to buy a cow. Here are five magic beans. One … two … three … four … five …§" />
+				<subtitle lang="en" line="Jack and the cow go to the market. They meet an old man. §I’d like to buy a cow. Here are five magic beans. One … two … three … four … five …§" />
+			</subtitles>
+		</line>
+		<line words="Pero la madre le dice, §En verdad eres muy tonto.§ Toma los frijoles... los frijoles mágicos. Uno… dos… tres… cuatro… cinco… Y los avienta lejos." start="75688" length="20246" useLNutResource="true" image="6#3#5" >
+			<highlights>
+				<highlight index="0" start="1877" length="294" />
+				<highlight index="1" start="2024" length="293" />
+				<highlight index="2" start="2259" length="528" />
+				<highlight index="3" start="2699" length="293" />
+				<highlight index="4" start="2816" length="558" />
+				<highlight index="5" start="3931" length="528" />
+				<highlight index="6" start="4312" length="734" />
+				<highlight index="7" start="4987" length="499" />
+				<highlight index="8" start="5427" length="529" />
+				<highlight index="9" start="5867" length="822" />
+				<highlight index="10" start="6982" length="499" />
+				<highlight index="11" start="7393" length="235" />
+				<highlight index="12" start="7599" length="850" />
+				<highlight index="13" start="8537" length="499" />
+				<highlight index="14" start="8889" length="851" />
+				<highlight index="15" start="9652" length="1086" />
+				<highlight index="16" start="11002" length="675" />
+				<highlight index="17" start="11530" length="1115" />
+				<highlight index="18" start="12616" length="880" />
+				<highlight index="19" start="13965" length="734" />
+				<highlight index="20" start="14552" length="1755" />
+				<highlight index="21" start="16254" length="411" />
+				<highlight index="22" start="16518" length="499" />
+				<highlight index="23" start="16841" length="645" />
+				<highlight index="24" start="17339" length="1227" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="But mother says, §You are really stupid!§ She takes the beans …. the magic beans. One … two … three … four … five … And she throws them away." />
+				<subtitle lang="en" line="But mother says, §You are really stupid!§ She takes the beans …. the magic beans. One … two … three … four … five … And she throws them away." />
+			</subtitles>
+		</line>
+		<line words="Pero durante la noche, un tallo en el frijol mágico crece y crece… y crece… y crece… ¡Ooooh!" start="95622" length="13705" useLNutResource="true" image="6#3#1" >
+			<highlights>
+				<highlight index="0" start="933" length="655" />
+				<highlight index="1" start="1469" length="636" />
+				<highlight index="2" start="2065" length="199" />
+				<highlight index="3" start="2224" length="655" />
+				<highlight index="4" start="3376" length="397" />
+				<highlight index="5" start="3674" length="576" />
+				<highlight index="6" start="4170" length="159" />
+				<highlight index="7" start="4270" length="317" />
+				<highlight index="8" start="4468" length="576" />
+				<highlight index="9" start="4965" length="774" />
+				<highlight index="10" start="5660" length="655" />
+				<highlight index="11" start="6494" length="358" />
+				<highlight index="12" start="6792" length="774" />
+				<highlight index="13" start="7884" length="477" />
+				<highlight index="14" start="8281" length="1194" />
+				<highlight index="15" start="9592" length="338" />
+				<highlight index="16" start="9870" length="1053" />
+				<highlight index="17" start="10903" length="1908" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="But during the night, a magic beanstalk grows. And grows … and grows … and grows …Oh!" />
+				<subtitle lang="en" line="But during the night, a magic beanstalk grows. And grows … and grows … and grows …Oh!" />
+			</subtitles>
+		</line>
+		<line words="Jack trepa el tallo de frijol. Él trepa… trepa… y trepa… justo hasta el cielo. Jack ve un enorme castillo. Toc, toc, toc, toc, toc, toc. §¿Hay alguien ahí?§" start="108704" length="23049" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="1670" length="1068" />
+				<highlight index="1" start="2638" length="1303" />
+				<highlight index="2" start="3841" length="234" />
+				<highlight index="3" start="3941" length="434" />
+				<highlight index="4" start="4175" length="267" />
+				<highlight index="5" start="4275" length="768" />
+				<highlight index="6" start="5411" length="534" />
+				<highlight index="7" start="5678" length="1169" />
+				<highlight index="8" start="7248" length="968" />
+				<highlight index="9" start="8383" length="368" />
+				<highlight index="10" start="8550" length="869" />
+				<highlight index="11" start="10020" length="568" />
+				<highlight index="12" start="10387" length="435" />
+				<highlight index="13" start="10755" length="234" />
+				<highlight index="14" start="10855" length="635" />
+				<highlight index="15" start="12024" length="601" />
+				<highlight index="16" start="12893" length="267" />
+				<highlight index="17" start="13060" length="434" />
+				<highlight index="18" start="13293" length="602" />
+				<highlight index="19" start="13694" length="1002" />
+				<highlight index="20" start="15498" length="334" />
+				<highlight index="21" start="15698" length="635" />
+				<highlight index="22" start="16834" length="601" />
+				<highlight index="23" start="17335" length="668" />
+				<highlight index="24" start="17870" length="1135" />
+				<highlight index="25" start="18805" length="434" />
+				<highlight index="26" start="20208" length="367" />
+				<highlight index="27" start="20408" length="668" />
+				<highlight index="28" start="20909" length="568" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack climbs the magic beanstalk. He climbs … he climbs … and he climbs … right up to the sky. Jack sees a huge castle. Knock, knock, knock, knock, knock … §Is anybody there?§" />
+				<subtitle lang="en" line="Jack climbs the magic beanstalk. He climbs … he climbs … and he climbs … right up to the sky. Jack sees a huge castle. Knock, knock, knock, knock, knock … §Is anybody there?§" />
+			</subtitles>
+		</line>
+		<line words="Jack entra al castillo. Él ve algunas monedas de oro, una gallina y un arpa mágica." start="131442" length="13393" useLNutResource="true" image="6#3#6" >
+			<highlights>
+				<highlight index="0" start="1707" length="622" />
+				<highlight index="1" start="2329" length="951" />
+				<highlight index="2" start="3163" length="311" />
+				<highlight index="3" start="3377" length="737" />
+				<highlight index="4" start="5415" length="446" />
+				<highlight index="5" start="5803" length="485" />
+				<highlight index="6" start="6133" length="892" />
+				<highlight index="7" start="6948" length="679" />
+				<highlight index="8" start="7530" length="291" />
+				<highlight index="9" start="7705" length="427" />
+				<highlight index="10" start="8850" length="453" />
+				<highlight index="11" start="9219" length="757" />
+				<highlight index="12" start="9840" length="349" />
+				<highlight index="13" start="10111" length="195" />
+				<highlight index="14" start="10228" length="679" />
+				<highlight index="15" start="10830" length="989" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack enters the castle. He sees some gold coins, a hen and a magic harp." />
+				<subtitle lang="en" line="Jack enters the castle. He sees some gold coins, a hen and a magic harp." />
+			</subtitles>
+		</line>
+		<line words="El gigante se aparece. El gran, gran, gran gigante Jack se esconde. §¡Huele a niño!§ Pero no encuentra a Jack." start="144212" length="16197" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="1666" length="446" />
+				<highlight index="1" start="2065" length="657" />
+				<highlight index="2" start="2628" length="352" />
+				<highlight index="3" start="2863" length="751" />
+				<highlight index="4" start="3943" length="305" />
+				<highlight index="5" start="4154" length="610" />
+				<highlight index="6" start="4976" length="563" />
+				<highlight index="7" start="5445" length="904" />
+				<highlight index="8" start="6149" length="916" />
+				<highlight index="9" start="8027" length="751" />
+				<highlight index="10" start="8708" length="399" />
+				<highlight index="11" start="8989" length="728" />
+				<highlight index="12" start="11055" length="1033" />
+				<highlight index="13" start="11970" length="305" />
+				<highlight index="14" start="12158" length="493" />
+				<highlight index="15" start="13261" length="681" />
+				<highlight index="16" start="13825" length="211" />
+				<highlight index="17" start="13895" length="751" />
+				<highlight index="18" start="14529" length="258" />
+				<highlight index="19" start="14717" length="833" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant appears. The big, big big giant. Jack, hides. §I smell a boy!§ But he doesn’t find Jack." />
+				<subtitle lang="en" line="The giant appears. The big, big big giant. Jack, hides. §I smell a boy!§ But he doesn’t find Jack." />
+			</subtitles>
+		</line>
+		<line words="El gigante se queda dormido. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decide entrar. Él toma las monedas de oro." start="159786" length="24295" useLNutResource="true" image="6#3#3" >
+			<highlights>
+				<highlight index="0" start="2323" length="493" />
+				<highlight index="1" start="2675" length="704" />
+				<highlight index="2" start="3203" length="458" />
+				<highlight index="3" start="3450" length="458" />
+				<highlight index="4" start="3767" length="880" />
+				<highlight index="5" start="5351" length="11830" />
+				<highlight index="6" start="18167" length="633" />
+				<highlight index="7" start="18589" length="1056" />
+				<highlight index="8" start="19434" length="669" />
+				<highlight index="9" start="20842" length="352" />
+				<highlight index="10" start="21089" length="563" />
+				<highlight index="11" start="21511" length="352" />
+				<highlight index="12" start="21687" length="669" />
+				<highlight index="13" start="22215" length="353" />
+				<highlight index="14" start="22427" length="1150" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the gold coins." />
+				<subtitle lang="en" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the gold coins." />
+			</subtitles>
+		</line>
+		<line words="Jack se desliza hacia abajo por el tallo de frijol. Abajo... abajo... abajo. ¿Y después?" start="183770" length="12770" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="1850" length="537" />
+				<highlight index="1" start="2313" length="370" />
+				<highlight index="2" start="2572" length="833" />
+				<highlight index="3" start="3331" length="481" />
+				<highlight index="4" start="3701" length="536" />
+				<highlight index="5" start="4237" length="333" />
+				<highlight index="6" start="4515" length="222" />
+				<highlight index="7" start="4681" length="463" />
+				<highlight index="8" start="5089" length="185" />
+				<highlight index="9" start="5237" length="666" />
+				<highlight index="10" start="6421" length="866" />
+				<highlight index="11" start="7642" length="981" />
+				<highlight index="12" start="8734" length="944" />
+				<highlight index="13" start="9697" length="296" />
+				<highlight index="14" start="9900" length="1255" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack slides down the beanstalk …down… down… down. And then?" />
+				<subtitle lang="en" line="Jack slides down the beanstalk …down… down… down. And then?" />
+			</subtitles>
+		</line>
+		<line words="Jack trepa el tallo de frijol Él trepa… trepa… y trepa… justo hasta el cielo. Jack entra al castillo… y ve... una gallina... y un arpa mágica." start="195917" length="19623" useLNutResource="true" image="6#3#7" >
+			<highlights>
+				<highlight index="0" start="1649" length="597" />
+				<highlight index="1" start="2161" length="426" />
+				<highlight index="2" start="2559" length="227" />
+				<highlight index="3" start="2786" length="398" />
+				<highlight index="4" start="3071" length="341" />
+				<highlight index="5" start="3241" length="768" />
+				<highlight index="6" start="4379" length="369" />
+				<highlight index="7" start="4692" length="910" />
+				<highlight index="8" start="5943" length="881" />
+				<highlight index="9" start="6853" length="341" />
+				<highlight index="10" start="7080" length="967" />
+				<highlight index="11" start="8303" length="626" />
+				<highlight index="12" start="8872" length="426" />
+				<highlight index="13" start="9213" length="284" />
+				<highlight index="14" start="9355" length="740" />
+				<highlight index="15" start="10862" length="541" />
+				<highlight index="16" start="11772" length="654" />
+				<highlight index="17" start="12284" length="228" />
+				<highlight index="18" start="12398" length="853" />
+				<highlight index="19" start="13763" length="370" />
+				<highlight index="20" start="13991" length="284" />
+				<highlight index="21" start="14559" length="512" />
+				<highlight index="22" start="15014" length="740" />
+				<highlight index="23" start="16237" length="341" />
+				<highlight index="24" start="16436" length="341" />
+				<highlight index="25" start="16635" length="512" />
+				<highlight index="26" start="17062" length="1479" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle … and he sees … the hen … and the magic harp." />
+				<subtitle lang="en" line="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle … and he sees … the hen … and the magic harp." />
+			</subtitles>
+		</line>
+		<line words="El gigante se aparece. El gran, gran, gran gigante Jack se esconde. §¡Huele a niño!§ Pero no encuentra a Jack" start="215229" length="16508" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="1459" length="526" />
+				<highlight index="1" start="1865" length="766" />
+				<highlight index="2" start="2583" length="263" />
+				<highlight index="3" start="2775" length="550" />
+				<highlight index="4" start="3779" length="407" />
+				<highlight index="5" start="3995" length="646" />
+				<highlight index="6" start="4593" length="861" />
+				<highlight index="7" start="5310" length="886" />
+				<highlight index="8" start="6052" length="837" />
+				<highlight index="9" start="7942" length="622" />
+				<highlight index="10" start="8492" length="359" />
+				<highlight index="11" start="8731" length="957" />
+				<highlight index="12" start="10765" length="1124" />
+				<highlight index="13" start="11770" length="311" />
+				<highlight index="14" start="12057" length="693" />
+				<highlight index="15" start="13205" length="431" />
+				<highlight index="16" start="13588" length="287" />
+				<highlight index="17" start="13779" length="598" />
+				<highlight index="18" start="14281" length="168" />
+				<highlight index="19" start="14377" length="1277" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant appears. The big, big giant.Jack, hides. §I smell a boy.§ But he doesn’t find Jack." />
+				<subtitle lang="en" line="The giant appears. The big, big giant.Jack, hides. §I smell a boy.§ But he doesn’t find Jack." />
+			</subtitles>
+		</line>
+		<line words="El gigante se queda dormido. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decide entrar. Él toma la gallina." start="231114" length="23984" useLNutResource="true" image="6#3#7" >
+			<highlights>
+				<highlight index="0" start="1772" length="626" />
+				<highlight index="1" start="2224" length="765" />
+				<highlight index="2" start="2815" length="278" />
+				<highlight index="3" start="2954" length="452" />
+				<highlight index="4" start="3301" length="800" />
+				<highlight index="5" start="4935" length="11078" />
+				<highlight index="6" start="17795" length="695" />
+				<highlight index="7" start="18594" length="835" />
+				<highlight index="8" start="19290" length="625" />
+				<highlight index="9" start="20159" length="521" />
+				<highlight index="10" start="20506" length="556" />
+				<highlight index="11" start="20888" length="348" />
+				<highlight index="12" start="21097" length="973" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the hen." />
+				<subtitle lang="en" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the hen." />
+			</subtitles>
+		</line>
+		<line words="Jack se desliza hacia abajo por el tallo de frijol. Abajo... abajo... abajo. ¿Y después?" start="254786" length="13394" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="1086" length="563" />
+				<highlight index="1" start="1591" length="233" />
+				<highlight index="2" start="1746" length="699" />
+				<highlight index="3" start="2406" length="389" />
+				<highlight index="4" start="2717" length="485" />
+				<highlight index="5" start="3086" length="271" />
+				<highlight index="6" start="3280" length="194" />
+				<highlight index="7" start="3416" length="524" />
+				<highlight index="8" start="3901" length="194" />
+				<highlight index="9" start="4037" length="524" />
+				<highlight index="10" start="5221" length="854" />
+				<highlight index="11" start="6677" length="970" />
+				<highlight index="12" start="8171" length="1306" />
+				<highlight index="13" start="9763" length="427" />
+				<highlight index="14" start="10112" length="971" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack slides down the beanstalk …down… down… down. And then?" />
+				<subtitle lang="en" line="Jack slides down the beanstalk …down… down… down. And then?" />
+			</subtitles>
+		</line>
+		<line words="Jack trepa el tallo de frijol. Él trepa… trepa… y trepa… justo hasta el cielo. Jack entra al castillo… y ve... el arpa mágica." start="267868" length="16508" useLNutResource="true" image="6#3#9" >
+			<highlights>
+				<highlight index="0" start="1100" length="598" />
+				<highlight index="1" start="1602" length="407" />
+				<highlight index="2" start="1985" length="215" />
+				<highlight index="3" start="2129" length="502" />
+				<highlight index="4" start="2511" length="287" />
+				<highlight index="5" start="2727" length="478" />
+				<highlight index="6" start="3803" length="407" />
+				<highlight index="7" start="4114" length="933" />
+				<highlight index="8" start="5286" length="886" />
+				<highlight index="9" start="6267" length="287" />
+				<highlight index="10" start="6507" length="861" />
+				<highlight index="11" start="7679" length="646" />
+				<highlight index="12" start="8181" length="455" />
+				<highlight index="13" start="8564" length="191" />
+				<highlight index="14" start="8636" length="670" />
+				<highlight index="15" start="9832" length="550" />
+				<highlight index="16" start="10286" length="1085" />
+				<highlight index="17" start="11124" length="215" />
+				<highlight index="18" start="11243" length="1181" />
+				<highlight index="19" start="12200" length="287" />
+				<highlight index="20" start="12392" length="582" />
+				<highlight index="21" start="13205" length="383" />
+				<highlight index="22" start="13564" length="526" />
+				<highlight index="23" start="14066" length="1029" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle … and he sees … the magic harp." />
+				<subtitle lang="en" line="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle … and he sees … the magic harp." />
+			</subtitles>
+		</line>
+		<line words="El gigante se aparece. El gran, gran gigante Jack se esconde. §¡Huele a niño!§ Pero no encuentra a Jack." start="283753" length="17131" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="1837" length="595" />
+				<highlight index="1" start="2308" length="720" />
+				<highlight index="2" start="3003" length="249" />
+				<highlight index="3" start="3202" length="695" />
+				<highlight index="4" start="4170" length="348" />
+				<highlight index="5" start="4443" length="621" />
+				<highlight index="6" start="5114" length="819" />
+				<highlight index="7" start="6007" length="1266" />
+				<highlight index="8" start="8341" length="695" />
+				<highlight index="9" start="8912" length="496" />
+				<highlight index="10" start="9309" length="819" />
+				<highlight index="11" start="11171" length="1094" />
+				<highlight index="12" start="12065" length="223" />
+				<highlight index="13" start="12214" length="769" />
+				<highlight index="14" start="13629" length="397" />
+				<highlight index="15" start="13927" length="298" />
+				<highlight index="16" start="14125" length="844" />
+				<highlight index="17" start="14895" length="149" />
+				<highlight index="18" start="14969" length="696" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant arrives. The big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." />
+				<subtitle lang="en" line="The giant arrives. The big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." />
+			</subtitles>
+		</line>
+		<line words="El gigante se queda dormido. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decide entrar. Él toma el arpa mágica." start="300262" length="22426" useLNutResource="true" image="6#3#9" >
+			<highlights>
+				<highlight index="0" start="1624" length="585" />
+				<highlight index="1" start="2144" length="585" />
+				<highlight index="2" start="2664" length="358" />
+				<highlight index="3" start="2859" length="455" />
+				<highlight index="4" start="3217" length="845" />
+				<highlight index="5" start="5004" length="11505" />
+				<highlight index="6" start="16802" length="650" />
+				<highlight index="7" start="17419" length="942" />
+				<highlight index="8" start="18166" length="780" />
+				<highlight index="9" start="19206" length="390" />
+				<highlight index="10" start="19499" length="455" />
+				<highlight index="11" start="19889" length="292" />
+				<highlight index="12" start="20051" length="455" />
+				<highlight index="13" start="20376" length="1403" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the magic harp." />
+				<subtitle lang="en" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the magic harp." />
+			</subtitles>
+		</line>
+		<line words="Y este es el final de la historia. Pero el gigante se despierta. El gigante persigue a Jack. Jack se desliza hacia abajo por el tallo de frijol… abajo... abajo... abajo. Pero el gigante viene tras de él." start="321753" length="22115" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="2435" length="577" />
+				<highlight index="1" start="2884" length="481" />
+				<highlight index="2" start="3268" length="321" />
+				<highlight index="3" start="3429" length="320" />
+				<highlight index="4" start="3621" length="449" />
+				<highlight index="5" start="3974" length="352" />
+				<highlight index="6" start="4102" length="320" />
+				<highlight index="7" start="4294" length="801" />
+				<highlight index="8" start="5416" length="384" />
+				<highlight index="9" start="5672" length="256" />
+				<highlight index="10" start="5832" length="545" />
+				<highlight index="11" start="6217" length="352" />
+				<highlight index="12" start="6409" length="994" />
+				<highlight index="13" start="7691" length="353" />
+				<highlight index="14" start="7883" length="770" />
+				<highlight index="15" start="8556" length="673" />
+				<highlight index="16" start="9133" length="257" />
+				<highlight index="17" start="9358" length="577" />
+				<highlight index="18" start="10351" length="769" />
+				<highlight index="19" start="11024" length="417" />
+				<highlight index="20" start="11281" length="865" />
+				<highlight index="21" start="12018" length="416" />
+				<highlight index="22" start="12242" length="545" />
+				<highlight index="23" start="12659" length="288" />
+				<highlight index="24" start="12819" length="288" />
+				<highlight index="25" start="12979" length="609" />
+				<highlight index="26" start="13428" length="288" />
+				<highlight index="27" start="13620" length="833" />
+				<highlight index="28" start="14582" length="897" />
+				<highlight index="29" start="15671" length="833" />
+				<highlight index="30" start="16729" length="769" />
+				<highlight index="31" start="17754" length="289" />
+				<highlight index="32" start="17979" length="352" />
+				<highlight index="33" start="18171" length="641" />
+				<highlight index="34" start="18684" length="384" />
+				<highlight index="35" start="18940" length="577" />
+				<highlight index="36" start="19453" length="352" />
+				<highlight index="37" start="19645" length="1098" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="And this is the end of the story. But the giant wakes up. The giant chases Jack.Jack slides down the beanstalk …down… down… and down. But the giant is coming after him." />
+				<subtitle lang="en" line="And this is the end of the story. But the giant wakes up. The giant chases Jack.Jack slides down the beanstalk …down… down… and down. But the giant is coming after him." />
+			</subtitles>
+		</line>
+		<line words="Jack busca un hacha. ¡Rápido!, ¡Rápido! Jack tala el tallo de frijol. ¡Rápido!, ¡Rápido! ¡Paz!... El gigante cae… ¡Paz!" start="343548" length="14950" useLNutResource="true" image="6#4#5" >
+			<highlights>
+				<highlight index="0" start="1278" length="455" />
+				<highlight index="1" start="1646" length="802" />
+				<highlight index="2" start="2383" length="195" />
+				<highlight index="3" start="2534" length="585" />
+				<highlight index="4" start="3163" length="866" />
+				<highlight index="5" start="4008" length="823" />
+				<highlight index="6" start="4939" length="693" />
+				<highlight index="7" start="5589" length="672" />
+				<highlight index="8" start="6109" length="238" />
+				<highlight index="9" start="6304" length="455" />
+				<highlight index="10" start="6716" length="195" />
+				<highlight index="11" start="6846" length="780" />
+				<highlight index="12" start="7691" length="975" />
+				<highlight index="13" start="8579" length="780" />
+				<highlight index="14" start="9662" length="893" />
+				<highlight index="15" start="10897" length="390" />
+				<highlight index="16" start="11179" length="780" />
+				<highlight index="17" start="11872" length="520" />
+				<highlight index="18" start="12977" length="1045" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Jack looks for an axe. Quick! Quick! Jack chops down the beanstalk. Quick! Quick! Crash!... The giant falls… Crash!" />
+				<subtitle lang="en" line="Jack looks for an axe. Quick! Quick! Jack chops down the beanstalk. Quick! Quick! Crash!... The giant falls… Crash!" />
+			</subtitles>
+		</line>
+		<line words="Y éste es el final del gigante." start="358196" length="5383" useLNutResource="true" image="6#3#2" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="And that’s the end of the giant." />
+				<subtitle lang="en" line="And that’s the end of the giant." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>
