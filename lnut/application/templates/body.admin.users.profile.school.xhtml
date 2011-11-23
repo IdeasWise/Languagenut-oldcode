@@ -19,6 +19,7 @@
 		<div id="tab-0">
 			<div align="right"> <a href="{{ admin_uri }}users/edit/{{ user_uid }}/" target="_blank" class="add-icon">Edit User</a> </div>
 			<div class="message_error"> {{ message_error }} </div>
+            {{ success_message }}
 			<div class="in forms">
 				<form action="" method="post" name="edit-profile">
 					<p>
@@ -147,7 +148,7 @@
 			<div align="right"><a href="{{ admin_uri }}users/add/" class="add-icon">Add Teacher</a></div>
 			{{ tab.schoolteacher }}
 		</div>
-		<div id="tab-4"> Coming soon </div>
+		<div id="tab-4"> {{ tab.classes }} </div>
 		<div id="tab-5">
 			<div align="right"><a href="{{ admin_uri }}invoice/school/add/{{ user_uid }}/" class="add-icon">Add Subscription</a></div>
 			{{ tab.subscriptions }}

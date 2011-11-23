@@ -47,6 +47,17 @@ function growlAlert (title, message, icon, timeout) {
 }
 
 $(document).ready(function(){
+	var $search_from= $("#search_from");
+	var $search_to 	= $("#search_to");
+	$('#date_search').bind('click',function() {
+			if($search_from.val() == '' || $search_to.val()=='') {
+				alert('Please enter both from and to date to perform serch!');
+				return false;
+			}
+		}
+	);
+	$('.input-date-piker').datepicker();
+	
 	if($('.admin-select-all').length > 0) {
 		$('.admin-select-all').trigger('click');
 	}

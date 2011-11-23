@@ -10,6 +10,7 @@
 <div class="in forms">
 
 	<div class="message_error"> {{ message_error }} </div>
+    {{ success_message }}
 
 	<form action="" method="post" id="user-form" name="user-form">
 		<div><input type="hidden" name="user_uid" id="user_uid" value="{{ uid }}" /></div>
@@ -60,23 +61,23 @@
 				</label>
 			</p>
 			<p style="float:left;width:300px;clear:right;margin-left:15px;">
-				<span class="label">Is this user allowed to log in?</span>
+				<span class="label">Deactivate login?</span>
 				<label for="yes_allow" style="float:left;">
 					<input type="radio" name="allow_access" id="yes_allow"  value="1" checked="checked" />
-					Yes&nbsp;&nbsp;
+					No&nbsp;&nbsp;
 				</label>
 				<label for="no_allow">
 					<input type="radio" name="allow_access" id="no_allow"  value="0" {{ is_allow_access }} />
-					No
+					Yes
 				</label>
-				{{ has_active_subscription }}
+				<!--{{ has_active_subscription }}--> 
 			</p>
 		</div>
 		<div style="overflow:hidden;">
 			<p style="float:left;width:300px;">
 				<span class="label">Referral:</span>
 				<label for="referral" class="textbox">
-					<input name="referral" id="referral" class="box" class="box" value="{{ referral }}" style="width:280px;" />
+					<input name="referral" id="referral" class="box" value="{{ referral }}" style="width:280px;" />
 				</label>
 			</p>
 			<p style="float:left;width:300px;clear:right;margin-left:15px;">

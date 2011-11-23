@@ -218,7 +218,7 @@ class users_schools extends generic_object {
 				$res = database::query($query);
 				if (mysql_error() == '' && mysql_num_rows($res)) {
 					$row = mysql_fetch_array($res);
-					$this->addEmailList($_POST['contact'], $row['email']);
+					//$this->addEmailList($_POST['contact'], $row['email']);
 				}
 			}
 			return true;
@@ -604,7 +604,7 @@ class users_schools extends generic_object {
 			$this->set_address_id($addressObject->insert());
 
 			$school_uid = $this->insert();
-			$this->addEmailList($_POST['name'], $_POST['email']);
+			//$this->addEmailList($_POST['name'], $_POST['email']);
 			/**
 			 * Fetch the page data from the database for this given locale
 			 */
@@ -762,7 +762,14 @@ class users_schools extends generic_object {
 			);
 			$message = $_email->get_content();
 			$this->mail_html(
-					$_POST['email'], $data['subject'], $message, $data['from'], '', '', '', ''
+				$_POST['email'],
+				$data['subject'],
+				$message,
+				$data['from'],
+				'',
+				'',
+				'cshepherd@languagenut.com,support@languagenut.com',
+				''
 			);
 		}
 	}
@@ -804,6 +811,81 @@ class users_schools extends generic_object {
 		//$cm->debug_level = 1;
 		//This is the actual call to the method, passing email address, name.
 		$result = $cm->subscriberAdd($email, $name);
+	}
+
+	public function getClassesBySchooluId($school_uid=null) {
+		$arrClasses = array();
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid > 0) {
+			$query ="SELECT ";
+			$query.="`uid`, ";
+			$query.="`name`, ";
+			$query.="`school_id`, ";
+			$query.="`class_user_uid` ";
+			$query.="FROM ";
+			$query.="`classes` ";
+			$query.="WHERE ";
+			$query.="`school_id`='".$school_uid."'";
+			$arrClasses = database::arrQuery($query);
+		}
+		return $arrClasses;
+	}
+
+	public function getSchooldetail($school_uid=null,$class_teacher_uid=null) {
+		$arrResult = array();
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid>0) {
+			$query = "SELECT ";
+			$query.="`uid` , ";
+			$query.="`school`, ";
+			$query.="`user_uid` ";
+			$query.="FROM ";
+			$query.="`users_schools` ";
+			$query.="WHERE ";
+			$query.="`school` != '' ";
+			$query.="AND ";
+			$query.="`uid` = '".$school_uid."' ";
+			$query.="LIMIT 0,1 ";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$arr = mysql_fetch_array($result);
+				$html = '<span>' . $arr['school'] . '</span>';
+				$html.='<input type="hidden" name="school_id" id="school_id" value="' . $arr['uid'] . '" />';
+				$arrResult['school_html']		= $html;
+				$arrResult['school_user_uid']	= $arr['user_uid'];
+				$arrResult['school_uid']		= $arr['uid'];
+			}
+		}
+		return $arrResult;
+	}
+
+	public function getSchoolTeachers($school_uid=null,$class_teacher_uid=null) {
+		$arrTeacher		=array();
+		$arrTeacher[0]	='Select Teacher';
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid>0) {
+			$query ="SELECT ";
+			$query.="`iuser_uid`, ";
+			$query.="`vfirstname`, ";
+			$query.="`vlastname` ";
+			$query.="FROM ";
+			$query.="`profile_schoolteacher` ";
+			$query.="WHERE ";
+			$query.="`school_id`='".$school_uid."' ";
+			$query.="ORDER BY `vfirstname` ";
+			$resultTeacher = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($resultTeacher)) {
+				while($arrRow=mysql_fetch_array($resultTeacher)) {
+					$arrTeacher[$arrRow['iuser_uid']] = $arrRow['vfirstname'].' '.$arrRow['vfirstname'];
+				}
+			}
+		}
+		return format::to_select(
+				array(
+					"name"			=> 'class_teacher_uid',
+					"id"			=> 'class_teacher_uid', 
+					"options_only"	=> false
+				),
+				$arrTeacher,
+				$class_teacher_uid
+			);
 	}
 
 }

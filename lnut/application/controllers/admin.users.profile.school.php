@@ -27,7 +27,11 @@ class profile_school extends Controller {
 
 		if (count($_POST) > 0 && isset($_POST['submit-edit-profile'])) {
 			if ($objSchool->doSave()) {
-				$objSchool->redirectToDynamic('/users/school/');
+				//$objSchool->redirectToDynamic('/users/school/');
+				if(!isset($_SESSION['school_success_message'])) {
+					$_SESSION['school_success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objSchool->redirectToDynamic('/users/profile/school/'.$objUser->get_uid().'/');
 			} else {
 				$body->assign($objSchool->arrForm);
 			}
@@ -73,6 +77,12 @@ class profile_school extends Controller {
 					$arrBody['notes_renewal_call2']		= $arrRow['notes_renewal_call2'];
 					$arrBody['call_status'.$arrRow['call_status']]	= 'selected="selected"';
 				}
+				if(!isset($arrBody['success_message'])) {
+					$arrBody['success_message'] = (isset($_SESSION['school_success_message']))?$_SESSION['school_success_message']:'';
+				}
+				if(isset($_SESSION['school_success_message'])) {
+					unset($_SESSION['school_success_message']);
+				}
 				$body->assign($arrBody);
 			}
 		}
@@ -90,7 +100,8 @@ class profile_school extends Controller {
 				'tab.address'		=> $contentAddress->get_content(),
 				'tab.schooladmin'	=> $objUser->getUserListForSchoolByType('schooladmin', $uid, 'profile_schooladmin'),
 				'tab.schoolteacher'	=> $objUser->getUserListForSchoolByType('schoolteacher', $uid, 'profile_schoolteacher'),
-				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid'])
+				'tab.subscriptions'	=> $objSchool->getInvoiceList($arrBody['user_uid']),
+				'tab.classes'		=> $this->getClasses($uid)
 			)
 		);
 		$skeleton->assign(
@@ -99,6 +110,26 @@ class profile_school extends Controller {
 			)
 		);
 		output::as_html($skeleton, true);
+	}
+
+	public function getClasses($school_uid=null) {
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid>0) {
+			$arrClasses = users_schools::getClassesBySchooluId($school_uid);
+			if(is_array($arrClasses) && count($arrClasses)) {
+				$arrRows = array();
+				$body = make::tpl('body.admin.school.class.list');
+				foreach($arrClasses as $arrClass) {
+					$arrRows[] = make::tpl('body.admin.school.class.list.row')->assign($arrClass)->get_content();
+				}
+				$body->assign('list.rows', implode('', $arrRows));
+				$body->assign('school_uid', $school_uid);
+				return $body->get_content();
+			} else {
+				return make::tpl('body.admin.school.class.notfound')->assign('school_uid',$school_uid)->get_content();
+			}
+		} else {
+			return '<span style="color:#30A4B1;font-weight:bold;padding-left:15px;">Classes are not found!</span>';
+		}
 	}
 }
 ?>

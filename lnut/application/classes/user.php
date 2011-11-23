@@ -139,9 +139,8 @@ class user extends generic_object {
 				$sql = "SELECT ";
 				$sql.= "* ";
 				$sql.= "FROM ";
-				$sql.= "`user` ".$where." ";
-				$sql.= "ORDER BY ";
-				$sql.= "`registered_dts` DESC ";
+				$sql.= "`user` AS `U` ".$where." ";
+				$sql.= $this->getOrderBy();
 				$sql.= "LIMIT ".$this->get_limit();
 				$result	= database::query($sql);
 			} else {
@@ -210,10 +209,18 @@ class user extends generic_object {
 		$Fields[]	= '`SC`.`school`';
 		$Fields[]	= '`SC`.`contact`';
 		$Fields[]	= '`SC`.`phone_number`';
+		$Fields[]	= '`SC`.`affiliate`';
 
 		$where = $this->QueryWhere($parts, $Fields);
 		$where .= " AND FIND_IN_SET('school',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `SC`.`user_uid`";
+
+		if(isset($_REQUEST['from']) && isset($_REQUEST['to']) && !empty($_REQUEST['from']) && !empty($_REQUEST['to'])) {
+			if(strpos($_REQUEST['to'],"/p-") !== false) {
+				$_REQUEST['to'] = substr($_REQUEST['to'],0,strpos($_REQUEST['to'],"/p-"));
+			}
+			$where .= " AND `U`.`registered_dts` BETWEEN '".date('Y-m-d 00:00:00',strtotime($_REQUEST['from']))."' AND '".date('Y-m-d 23:59:59',strtotime($_REQUEST['to']))."'";
+		}
 
 		if(!$all) {
 			$query = 'SELECT ';
@@ -340,6 +347,10 @@ class user extends generic_object {
 
 		$query = "SELECT ";
 		$query.= "`U`.* ";
+		if(count($Fields)) {
+			$query.= ", ";
+			$query.= implode(", ",$Fields);
+		}
 		$query.= "FROM ";
 		$query.= "`user` AS `U` ";
 		$query.= ', `profile_student` AS `ST` ';
@@ -749,7 +760,7 @@ class user extends generic_object {
 #			$error = true;
 #			$message['email_error'] = "Email Already Exist";
 #
-		} else if($this->username_exist($email)) {
+		} else if($this->email_exist($email)) {
 
 			$error = true;
 			$message['email_error'] = "Email Already Exist As Username!";
@@ -1278,6 +1289,17 @@ class user extends generic_object {
 
 	public function	has_active_subscription() {
 
+		$arrUserType = explode(',',$this->get_user_type());
+		$arrPaidUserTypes = array (
+			'reseller',
+			'affiliate',
+			'translator'
+		);
+		if(count(array_intersect($arrPaidUserTypes, $arrUserType))) {
+			return true;
+		}
+		
+		
 		$return		= false;
 		$user_uid	= $this->getSchoolId();
 
@@ -1473,12 +1495,13 @@ class user extends generic_object {
 
 		$objShibboleth = new shibboleth();
 		$objShibboleth->updateUserWithShibbolethId();
-
+		
 		logger::run(1);
 		if($returnUrl == true) {
 			return $this->userRedirectUrl();
 		} else {
 			$this->redirectTo($this->userRedirectUrl());
+			echo 'yes'; exit;
 		}
 	}
 

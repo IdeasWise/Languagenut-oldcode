@@ -142,6 +142,83 @@ class classes extends generic_object {
         }
     }
 
+	public function doSaveSchoolClass() {
+		if ($this->isValidate() == true) {
+			if (isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+				$this->save();
+			} else {
+				$insert = $this->insert();
+				$this->arrForm['uid'] = $insert;
+			}
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	private function isValidate() {
+		if (isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+			parent::__construct($_POST['uid'], __CLASS__);
+			$this->load();
+		}
+		$arrFields = array(
+			'name' => array(
+				'value' => (isset($_POST['name'])) ? trim($_POST['name']) : '',
+				'checkEmpty' => false,
+				'errEmpty' => '',
+				'minChar' => 2,
+				'maxChar' => 255,
+				'errMinMax' => 'Class name must be 2 to 255 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid Class name.',
+				'errIndex' => 'error_name'
+			),
+			'school_id' => array(
+				'value' => (isset($_POST['school_id']) && $_POST['school_id'] != '0') ? trim($_POST['school_id']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please choose a school.',
+				'minChar' => 0,
+				'maxChar' => 0,
+				'errMinMax' => '',
+				'dataType' => 'int',
+				'errdataType' => 'Please choose valid school.',
+				'errIndex' => 'error_school_id'
+			),
+			'class_teacher_uid' => array(
+				'value' => (isset($_POST['class_teacher_uid']) && $_POST['class_teacher_uid'] != '0') ? trim($_POST['class_teacher_uid']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please choose a teacher.',
+				'minChar' => 0,
+				'maxChar' => 0,
+				'errMinMax' => '',
+				'dataType' => 'int',
+				'errdataType' => 'Please choose valid teacher.',
+				'errIndex' => 'error_class_teacher_uid'
+			),
+			'description' => array(
+				'value' => (isset($_POST['description'])) ? trim($_POST['description']) : '',
+				'checkEmpty' => false,
+				'errEmpty' => '',
+				'minChar' => 0,
+				'maxChar' => 0,
+				'errMinMax' => '',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid description.',
+				'errIndex' => 'error_description'
+			)
+		);
+		// $arrFields contains array for fields which needs to be validate and then we are passing class object($this)
+		if ($this->isValidarrFields($arrFields, $this) === true) {
+			$this->set_name($arrFields['name']['value']);
+			$this->set_school_id($arrFields['school_id']['value']);
+			$this->set_description($arrFields['description']['value']);
+			$this->set_class_user_uid($arrFields['class_teacher_uid']['value']);
+			return true;
+		} else {
+			return false;
+		}
+	}
+
     public static function generateLogins($class_uid=null) {
         $response = array();
         $arrStudentsInstances = profile_student::getByClassUidAsObjects($class_uid);
