@@ -494,7 +494,7 @@ class subscriptions extends generic_object {
 				'errIndex' => 'error_verified'
 			),
 			'payverified_dts' => array(
-				'value' => (isset($_POST['payverified_dts'])) ? trim($_POST['payverified_dts']) : '0000-00-00',
+				'value' => (isset($_POST['payverified_dts'])) ? trim($_POST['payverified_dts']) : '0000-00-00 00:00:00',
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 0,
@@ -505,7 +505,7 @@ class subscriptions extends generic_object {
 				'errIndex' => 'error_date_paid'
 			),
 			'sent_dts' => array(
-				'value' => (isset($_POST['sent_dts'])) ? trim($_POST['sent_dts']) : '0000-00-00',
+				'value' => (isset($_POST['sent_dts'])) ? trim($_POST['sent_dts']) : '0000-00-00 00:00:00',
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 0,
@@ -516,7 +516,7 @@ class subscriptions extends generic_object {
 				'errIndex' => 'error_sent_dts'
 			),
 			'verified_dts' => array(
-				'value' => (isset($_POST['verified_dts'])) ? trim($_POST['verified_dts']) : '0000-00-00',
+				'value' => (isset($_POST['verified_dts'])) ? trim($_POST['verified_dts']) : '0000-00-00 00:00:00',
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 0,
@@ -527,7 +527,7 @@ class subscriptions extends generic_object {
 				'errIndex' => 'error_verified_dts'
 			),
 			'due_date' => array(
-				'value' => (isset($_POST['due_date'])) ? trim($_POST['due_date']) : '0000-00-00',
+				'value' => (isset($_POST['due_date'])) ? trim($_POST['due_date']) : '0000-00-00 00:00:00',
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 0,
@@ -542,7 +542,7 @@ class subscriptions extends generic_object {
 		if ($this->isValidarrFields($arrFields, $this) === true) {
 
 			$was_verified = $this->get_verified();
-
+			$verified_dts = $this->get_verified_dts();
 			$this->set_user_uid($arrFields['user_uid']['value']);
 			$this->set_invoice_number($arrFields['invoice_number']['value']);
 			$this->set_amount($arrFields['amount']['value']);
@@ -559,7 +559,13 @@ class subscriptions extends generic_object {
 			//$this->set_call_status(isset($arrFields['call_status']) ? $arrFields['call_status']['value'] : '');
 			//$this->set_name($arrFields['name']['value']);
 
-			if(0==$was_verified && $arrFields['verified']['value']==1) {
+			if(0==$was_verified && $arrFields['verified']['value']==1 && $verified_dts == '0000-00-00 00:00:00') {
+				if(strlen(trim($arrFields['verified_dts']['value']))=='') {
+					$this->set_verified_dts(date('Y-m-d H:i:s'));
+				}
+				$start_dts = $this->get_set_start_dts();
+				$expires_dts = date('Y-m-d H:i:s',strtotime($start_dts.' +52 week'));
+				$this->set_expires_dts($expires_dts);
 				$this->financeNotification($arrFields['user_uid']['value']);
 			} else {
 			}
@@ -765,8 +771,11 @@ class subscriptions extends generic_object {
 		list($y, $m, $d) = explode('-', $date);
 		list($h, $i, $s) = explode(':', $time);
 		$start = $now;
-		$expires		= date('Y-m-d H:i:s', mktime($h, $i, $s, $m, ($d + 14), ($y + 1)));
+
 		$due_date		= date('Y-m-d H:i:s', mktime($h, $i, $s, $m, ($d + 14), ($y)));
+		//$expires		= date('Y-m-d H:i:s', mktime($h, $i, $s, $m, ($d + 14), ($y + 1)));
+		$expires		= $due_date;
+
 		$date_paid		= '0000-00-00 00:00:00';
 		$verified_dts	= '0000-00-00 00:00:00';
 		$verified		= 0;
@@ -778,7 +787,11 @@ class subscriptions extends generic_object {
 			$verified_dts	= date('Y-m-d H:i:s');
 			$verified		= 1;
 		}
-
+		/*
+		 * uncomment following code when you want to start use of promo_code start and end date with
+		 * user subscription period
+		*/
+		/*
 		if (isset($form1['promo_code']['value']) && trim($form1['promo_code']['value']) != '') {
 			$getPromoCodedetails = promocode::getPromoCodeDetails($form1['promo_code']['value']);
 			if (is_array($getPromoCodedetails) && count($getPromoCodedetails) > 0) {
@@ -798,8 +811,7 @@ class subscriptions extends generic_object {
 				}
 			}
 		}
-
-
+		*/
 
 		$priceArray = array();
 		$Pricingobject = new currencies();
