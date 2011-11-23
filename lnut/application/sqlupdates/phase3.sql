@@ -1,0 +1,2 @@
+ALTER TABLE `profile_reseller` ADD `tracking_code` VARCHAR( 255 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;
+ALTER TABLE `users_schools` ADD `tracking_code` VARCHAR( 255 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;

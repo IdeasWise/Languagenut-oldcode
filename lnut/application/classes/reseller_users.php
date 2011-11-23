@@ -19,6 +19,7 @@ class reseller_users extends generic_object {
 
 	public static function getDistinctLocales() {
 		$response = false;
+		/*
 		$arrUserTypes = array(
 			'school',
 			'schooladmin',
@@ -30,19 +31,18 @@ class reseller_users extends generic_object {
 		$parts = config::get('paths');
 		if (isset($parts[2]) && in_array(strtolower($parts[2]), $arrUserTypes)) {
 			$where = " AND FIND_IN_SET('" . strtolower($parts[2]) . "',`user_type`)";
-		}
-		$sql = "SELECT DISTINCT ";
-		$sql.= "`locale` ";
-		$sql.= "FROM ";
-		$sql.= "`user` ";
-		$sql.= "WHERE ";
-		$sql.= "`locale` in (" . $_SESSION['user']['localeRights'] . ") ";
-		$sql.= $where;
-		$result = database::query($sql);
+		}*/
+		$query = "SELECT DISTINCT ";
+		$query.= "`prefix` ";
+		$query.= "FROM ";
+		$query.= "`language` ";
+		$query.= "WHERE ";
+		$query.= "`prefix` in (" . $_SESSION['user']['localeRights'] . ") ";
+		$result = database::query($query);
 		if ($result && mysql_error() == '' && mysql_num_rows($result) > 0) {
 			$response = array();
 			while ($row = mysql_fetch_assoc($result)) {
-				$response[] = $row['locale'];
+				$response[] = $row['prefix'];
 			}
 		}
 		return $response;
@@ -52,7 +52,8 @@ class reseller_users extends generic_object {
 	public function get_users($all = false) {
 		$parts = config::get('paths');
 		if (isset($parts[2]) && $parts[2] == 'list') {
-			return $this->getAllUsersList($all, $parts);
+			//return $this->getAllUsersList($all, $parts);
+			return $this->getSchoolList($all, $parts);
 		} else if (isset($parts[2]) && $parts[2] == 'school') {
 			return $this->getSchoolList($all, $parts);
 		} else if (isset($parts[2]) && $parts[2] == 'schooladmin') {
@@ -129,6 +130,7 @@ class reseller_users extends generic_object {
 		$where = $this->QueryWhere($parts, $Fields);
 		$where .= " AND FIND_IN_SET('school',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `SC`.`user_uid`";
+		$where .= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
 		if ($all == false) {
 			$query = 'SELECT ';
 			$query.= 'COUNT(`U`.`uid`) ';
@@ -174,6 +176,7 @@ class reseller_users extends generic_object {
 		$where .= " AND FIND_IN_SET('schooladmin',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `SA`.`iuser_uid`";
 		$where .= " AND `SC`.`uid` = `SA`.`school_id` ";
+		$where .= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
 		if ($all == false) {
 			$query = 'SELECT ';
 			$query.= 'COUNT(`U`.`uid`) ';
@@ -216,6 +219,7 @@ class reseller_users extends generic_object {
 		$where .= " AND FIND_IN_SET('schoolteacher',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `ST`.`iuser_uid`";
 		$where .= " AND `SC`.`uid` = `ST`.`school_id` ";
+		$where .= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
 		if ($all == false) {
 			$query = 'SELECT ';
 			$query.= 'COUNT(`U`.`uid`) ';
@@ -256,6 +260,7 @@ class reseller_users extends generic_object {
 		$where .= " AND FIND_IN_SET('student',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `ST`.`iuser_uid`";
 		$where .= " AND `SC`.`uid` = `ST`.`school_id` ";
+		$where .= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
 		if ($all == false) {
 			$query = 'SELECT ';
 			$query.= 'COUNT(`U`.`uid`) ';
