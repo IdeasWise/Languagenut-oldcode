@@ -9,7 +9,7 @@ class vocabPdf extends FPDF {
 	function printVocab($data = array()) {
 		setlocale(LC_ALL, 'en_US.UTF8');
 		$this->AddPage();
-		$this->Image('header.png', 15, 14, 180);
+		$this->Image(config::get('pdf_images').'header.png', 15, 14, 180);
 		$this->SetFont('Arial', 'B', 12);
 		$this->Ln(16);
 		$this->Cell(160, 6, iconv("UTF-8", "ISO-8859-1", $data['unit']), 0, 1);
@@ -28,8 +28,8 @@ class vocabPdf extends FPDF {
 			$this->Cell(95, 8.5, iconv("UTF-8", "ISO-8859-1//TRANSLIT", $val[$data['language']]), 1, 0, 'C');
 			$this->Cell(95, 8.5, iconv("UTF-8", "cp1252", $val['support']), 1, 1, 'C');
 		}
-		$this->Image('cut.png', 15, 147, 180);
-		$this->Image('header.png', 15, 159, 180);
+		$this->Image(config::get('pdf_images').'cut.png', 15, 147, 180);
+		$this->Image(config::get('pdf_images').'header.png', 15, 159, 180);
 		$this->SetFont('Arial', 'B', 12);
 		$this->Ln(36.9);
 		$this->Cell(160, 6, iconv("UTF-8", "ISO-8859-1", $data['unit']), 0, 1);
@@ -56,17 +56,17 @@ class vocabPdf extends FPDF {
 			if ($state == 0) {
 				$this->AddPage();
 				$this->SetAutoPageBreak(false, 1);
-				$this->Image('cards_header.jpg', 13, 13, 111);
-				$this->Image('cards_box2.jpg', 14, 40, 111);
-				$this->Image('cards_header.jpg', 172, 13, 111);
-				$this->Image('cards_foldsymbol.jpg', 147, 63, 5);
-				$this->Image('cards_box2.jpg', 173, 40, 111);
-				$this->Image('cards_cutline.jpg', 13, 103, 270);
-				$this->Image('cards_header.jpg', 13, 115, 111);
-				$this->Image('cards_box2.jpg', 14, 143, 111);
-				$this->Image('cards_header.jpg', 172, 115, 111);
-				$this->Image('cards_foldsymbol.jpg', 147, 165, 5);
-				$this->Image('cards_box2.jpg', 173, 143, 111);
+				$this->Image(config::get('pdf_images').'cards_header.jpg', 13, 13, 111);
+				$this->Image(config::get('pdf_images').'cards_box2.jpg', 14, 40, 111);
+				$this->Image(config::get('pdf_images').'cards_header.jpg', 172, 13, 111);
+				$this->Image(config::get('pdf_images').'cards_foldsymbol.jpg', 147, 63, 5);
+				$this->Image(config::get('pdf_images').'cards_box2.jpg', 173, 40, 111);
+				$this->Image(config::get('pdf_images').'cards_cutline.jpg', 13, 103, 270);
+				$this->Image(config::get('pdf_images').'cards_header.jpg', 13, 115, 111);
+				$this->Image(config::get('pdf_images').'cards_box2.jpg', 14, 143, 111);
+				$this->Image(config::get('pdf_images').'cards_header.jpg', 172, 115, 111);
+				$this->Image(config::get('pdf_images').'cards_foldsymbol.jpg', 147, 165, 5);
+				$this->Image(config::get('pdf_images').'cards_box2.jpg', 173, 143, 111);
 				$state++;
 			}
 			if ($state == 1) {

@@ -28,13 +28,13 @@ class certificate extends FPDF {
 		$this->AddPage();
 		// http://www.languagenut.com/fpdf16/doc/image.htm
 		if (isset($_GET['demo'])) {
-			$this->Image(config::get('site') . '/images/certificate/certificateLayout.png', 0, 0);
+			$this->Image(config::get('pdf_images') . '/certificate/certificateLayout.png', 0, 0);
 			$this->Cell(1, 55, '', 0, 1, 'L');
 		} else {
 
 //			Image(string file [, float x [, float y [, float w [, float h [, string type [, mixed link]]]]]])
-			$this->Image(config::images_common('certificate/' . $data['background']), 15, 15);
-			$this->Image(config::images_common('certificate/' . $data['logo_url']), 326, 50.5, '', '', '', $data['url']);
+			$this->Image(config::get('pdf_images') . 'certificate/' . $data['background'], 15, 15);
+			$this->Image(config::get('pdf_images') . 'certificate/' . $data['logo_url'], 326, 50.5, '', '', '', $data['url']);
 			$this->SetY(115);
 			if (!is_numeric($data['font_size'])) {
 				$data['font_size'] = 190;

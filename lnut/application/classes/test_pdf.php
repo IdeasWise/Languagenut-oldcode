@@ -137,7 +137,7 @@ class test_pdf extends FPDF {
 		  if($_SERVER['HTTP_HOST'] == '127.0.0.1')
 		  $this->Image($_SERVER['DOCUMENT_ROOT'].'languagenut/img.png',0,0,210);
 		  else
-		  $this->Image('/home/language/admin_html/logo-small.png',20,12,60.6);
+		  $this->Image(config::get('pdf_images').'/home/language/admin_html/logo-small.png',20,12,60.6);
 		  $this->SetFont('Arial','B',12);
 		  $this->Cell(100,$this->lineheight,'STUDENTS',0,1,'C');
 		 */

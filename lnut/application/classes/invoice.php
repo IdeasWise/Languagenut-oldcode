@@ -28,7 +28,7 @@ class invoice extends FPDF {
 	//Basic Format
 	function generate($data) {
 		$this->AddPage();
-		$this->Image(config::get('site').'/images/logo-small.png', 20, 12, 60.6);
+		$this->Image(config::get('pdf_images') . '/logo-small.png', 20, 12, 60.6);
 		$this->SetFont('Arial', 'B', 12);
 		$this->SetY(50);
 		$this->Cell(180, $this->lineheight, 'INVOICE', 0, 1, 'C');
