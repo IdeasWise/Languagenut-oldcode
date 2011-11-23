@@ -264,6 +264,7 @@ function __autoload($class_name) {
 	$found = false;
 		
 	foreach ($classes as $class) {
+		echo $class;
 		if (file_exists($class)) {
 			$found = true;
 			include($class);
