@@ -303,6 +303,7 @@ class core {
 		config::set('mediamanager_base',$_SERVER['DOCUMENT_ROOT']);
 		config::set('cdn_url','http://images.languagenut.com/');
 		config::set('cache','/var/www/cache/');
+		config::set('pdf_images','images/pdf/');
 	
 	}
 
