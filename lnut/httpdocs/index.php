@@ -152,19 +152,19 @@ class config {
 	}
 
 	public static function cache_common_uri($path = '') {
-		return self::base('cache/' . $path.'/');
+		return self::get('cache'). $path.'/';
 	}
 
 	public static function cache_xml_uri($path = '') {
-		return self::base('cache/xml/');
+		return self::get('cache').'xml/';
 	}
 
 	public static function cache_common($path = '') {
-		return self::get('root').'/cache/' . $path.'/';
+		return self::get('cache').$path.'/';
 	}
 
 	public static function cache_xml() {
-		return self::get('root').'/cache/xml/';
+		return self::get('cache').$path.'xml/';
 	}
 
 	public static function translate($tag=null) {
@@ -302,6 +302,7 @@ class core {
 		config::set('cache_classes',array());
 		config::set('mediamanager_base',$_SERVER['DOCUMENT_ROOT']);
 		config::set('cdn_url','http://images.languagenut.com/');
+		config::set('cache','/var/www/cache/');
 	
 	}
 
