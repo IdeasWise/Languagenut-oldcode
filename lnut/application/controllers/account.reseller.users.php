@@ -327,18 +327,30 @@ class account_reseller_users extends Controller {
 
 					$data['verified'] = 'Yes';
 					$data['paid'] = ($arrSubscription['date_paid'] != '0000-00-00 00:00:00') ? 'Yes' : 'No';
-
+					$remaining_days = floor(($expiry - $now) / 86400);
 					if ($hasActiveSubscription) {
+						/*
 						if ($regd < $two_weeks_ago && !$verified) {
-						$data['extra_style'] = ' style="background:#FCBCAE;"';
-						} else if (floor(($expiry - $now) / 86400) <= 30 && $verified) {
-						$data['extra_style'] = ' style="background:#ED6688;"';
+							$data['extra_style'] = ' style="background:#FCBCAE;"';
 						} else if ($regd < $two_weeks_ago && $verified) {
-						$data['extra_style'] = ' style="background:#B8ED9C;"';
+							$data['extra_style'] = ' style="background:#B8ED9C;"';
 						} else if ($regd > $two_weeks_ago && !$verified) {
-						$data['extra_style'] = ' style="background:#FCC52F;"';
+							$data['extra_style'] = ' style="background:#FCC52F;"';
+						} else if ( $remaining_days > 0 && $remaining_days <= 30 && $verified) {
+							$data['extra_style'] = ' style="background:#ffdfdf;"';
 						} else if ($verified) {
-						$data['extra_style'] = ' style="background:#bbdfB1;"';
+							$data['extra_style'] = ' style="background:#bbdfB1;"';
+						}
+						*/
+						$data['extra_style'] ='';
+						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
+							$data['subscription_cancelled'] = 'expires-within-30-days-pink';
+						} else if ($verified) {
+							$data['subscription_cancelled'] = 'verified-green';
+						} else if ($two_weeks_ago < $regd && !$verified) {
+							$data['subscription_cancelled'] ='two-week-not-verified-orange';
+						} else if ($two_weeks_ago > $regd && !$verified) {
+							$data['subscription_cancelled'] = 'two-week-not-verified-pink';
 						}
 					}
 					$data['call_status'] = subscriptions::toCallStatusText($arrSubscription['call_status']);

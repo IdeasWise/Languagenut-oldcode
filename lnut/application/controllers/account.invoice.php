@@ -208,13 +208,20 @@ class acccount_invoice extends Controller {
 		if( isset($_POST['submit-button'])){
 			$objSubscription	= new subscriptions();
 			if( $objSubscription->doSave() ){
+				
+				if(!isset($_SESSION['invoice_success_message'])) {
+					$_SESSION['invoice_success_message'] = component_message::success('Record has been updated successfully.');
+				}
+
+				$objSubscription->redirectTo('account/invoice/'.$this->arrPaths[2].'/edit/'.$this->arrPaths[4].'/');
+				/*
 				if(isset($_POST['redirect']) && $_POST['redirect'] == 1 && isset($_POST['user_uid'])) {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('account/users/profile/school/'.$_POST['user_uid'].'/');
 				} else {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('account/invoice/'.$this->arrPaths[2].'/list');
-				}
+				}*/
 
 			} else{
 				$arrBody['user_uid_display']	= 'display:none;';
@@ -229,6 +236,10 @@ class acccount_invoice extends Controller {
 				$objSubscription->load();
 				foreach($objSubscription->TableData as $idx => $val ){
 					$arrBody[$idx] = $val['Value'];
+				}
+				$arrBody['success_message'] = (isset($_SESSION['invoice_success_message']))?$_SESSION['invoice_success_message']:'';
+				if(isset($_SESSION['invoice_success_message'])) {
+					unset($_SESSION['invoice_success_message']);
 				}
 				if($arrBody['verified'] == 0){
 					$arrBody['verified0'] = 'checked="checked"';
@@ -365,11 +376,16 @@ class acccount_invoice extends Controller {
 
 		$page_rows = array();
 		$objCurrency = new currencies();
-
+		$now			= time();
+		$two_weeks_ago	= mktime(date('H'),date('i'),date('s'),date('m'),date('d')-14,date('Y'));
 		if(!empty($arrRows)) {
 			foreach($arrRows as $uid=>$data) {
 				$data['paid_string']			= '';
 				$data['paid_button_display']	= '';
+				$expiry			= strtotime($data['expires_dts']);
+				$regd			= strtotime($data['registered_dts']);
+				$verified		= ($data['verified']==1 ? true : false);
+				$remaining_days = floor(($expiry - $now) / 86400);
 				$panel = make::tpl('body.reseller.account.invoice.'.$this->arrPaths[2].'.list.row');
 
 				if($data['active'] == 0 && $data['access_allowed'] == 0) {
@@ -432,25 +448,22 @@ class acccount_invoice extends Controller {
 
 				if(isset($data['registered_dts'])) {
 					$data['years_subscribing'] = ceil(date('Y')-date('Y',strtotime($data['registered_dts'])));
-
-					$expiry			= strtotime($data['expires_dts']);
-					$regd			= strtotime($data['registered_dts']);
-					$verified		= ($data['verified']==1 ? true : false);
-
-					$now			= time();
-					$two_weeks_ago	= mktime(date('H'),date('i'),date('s'),date('m'),date('d')-14,date('Y'));
-
 					$hasActiveSubscription = true;
 
 					if($hasActiveSubscription) {
 						if($data['cancel_dts'] != '0000-00-00 00:00:00') {
 							$data['extra_style'] = ' style="background:#FF5347;color:white;"';
-						} else if($regd < $two_weeks_ago && !$verified) {
-							$data['extra_style'] = ' style="background:#FCBCAE;"';
-						} else if($regd < $two_weeks_ago && $verified) {
-							$data['extra_style'] = ' style="background:#B8ED9C;"';
-						} else if($regd > $two_weeks_ago) {
-							$data['extra_style'] = ' style="background:#FCC52F;"';
+						} else {
+							$data['extra_style'] ='';
+						}
+						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
+							$data['class_name'] = 'expires-within-30-days-pink';
+						} else if ($verified) {
+							$data['class_name'] = 'verified-green';
+						} else if ($two_weeks_ago < $regd && !$verified) {
+							$data['class_name'] ='two-week-not-verified-orange';
+						} else if ($two_weeks_ago > $regd && !$verified) {
+							$data['class_name'] = 'two-week-not-verified-pink';
 						}
 					}
 				}

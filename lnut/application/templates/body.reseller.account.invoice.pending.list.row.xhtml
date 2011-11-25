@@ -1,6 +1,6 @@
 <!-- move this to another template and repeat as per pagination limits -->
 
-<tr{{ extra_style }}>
+<tr class="{{ class_name }}" {{ extra_style }}>
 	<td><p class="show" id="show-{{ user_uid }}"><a href="{{ admin_uri }}users/profile/school/{{ user_uid }}/" title="{{ email }}">{{ school }}</a></p></td>
 	<td><p>{{ expires }}</p></td>
 	<td><p>{{ time_remains }}</p></td>
