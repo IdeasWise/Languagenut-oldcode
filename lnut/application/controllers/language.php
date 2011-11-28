@@ -159,11 +159,15 @@ class languages extends Controller {
 				}
 				output::redirectTo("admin/language/");
 			} else {
+				if(isset($objLanguage->arrForm['flash_version']) && $objLanguage->arrForm['flash_version']=='swf10') {
+					$objLanguage->arrForm['flash_version_swf10'] = 'checked="checked"';
+				}
 				$body->assign($objLanguage->arrForm);
 				$currency_select = $objLanguage->arrForm["currency_uid"];
 			}
 		}
 		$arrBody['li.display'] = ' style="display:none;" ';
+		$arrBody['flash_version_swf10'] = '';
 
 		// currency dropdown
 		$objCurrencies = new currencies();
@@ -196,7 +200,9 @@ class languages extends Controller {
 // redirect to invoice list if all does well;
 				$objLanguage->redirectTo('admin/language/list');
 			} else {
-
+				if(isset($objLanguage->arrForm['flash_version']) && $objLanguage->arrForm['flash_version']=='swf10') {
+					$objLanguage->arrForm['flash_version_swf10'] = 'checked="checked"';
+				}
 				$body->assign($objLanguage->arrForm);
 				$objCurrencies = new currencies();
 				$currencyDD = $objCurrencies->CurrencySelectBox("currency_uid", $objLanguage->arrForm['currency_uid'], "currency_uid");
@@ -233,6 +239,12 @@ class languages extends Controller {
 				if ($arrBody['show_reseller_codes'] == 0) {
 					$arrBody['show_reseller_codes'] = 'checked="checked"';
 				}
+				if ($arrBody['flash_version'] == 'swf10') {
+					$arrBody['flash_version_swf10'] = 'checked="checked"';
+				} else {
+					$arrBody['flash_version_swf10'] = '';
+				}
+
 			}
 		}
 

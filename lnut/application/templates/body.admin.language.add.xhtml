@@ -27,6 +27,17 @@
 							<input type="text" name="prefix" id="prefix" value="{{ prefix }}" class="box" />
 						</label>
 					</p>
+                    <p>
+                        <span class="label">Flash Version:</span>
+                        <label for="flash_version_swf" style="float:left;">
+                            <input type="radio" name="flash_version" id="flash_version_swf"  value="swf" checked="checked" />
+                            swf&nbsp;&nbsp;
+                        </label>
+                        <label for="flash_version_swf10">
+                            <input type="radio" name="flash_version" id="flash_version_swf10"  value="swf10" {{ flash_version_swf10 }} />
+                            swf10
+                        </label>
+						</p>
 					<p> <span class="label">Is this Language active?</span>
 						<label for="yes_admin" style="float:left;">
 							<input type="radio" name="active" id="yes_admin"  value="1" checked="checked" />
