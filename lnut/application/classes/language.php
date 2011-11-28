@@ -237,6 +237,7 @@ class language extends generic_object {
 		$vat = (isset($_POST['vat'])) ? $_POST['vat'] : 0;
 		$ip_redirect = (isset($_POST['ip_redirect']) && ($_POST['ip_redirect'] == '0' || $_POST['ip_redirect'] == '1')) ? $_POST['ip_redirect'] : 1;
 		$lookup_country = (isset($_POST['lookup_country'])) ? trim($_POST['lookup_country']) : '';
+		$flash_version = (isset($_POST['flash_version']) && strlen(trim($_POST['flash_version'])) > 0) ? trim($_POST['flash_version']) : 'swf';
 
 		$arrMessages = array();
 		if (strlen($name) < 3 || strlen($name) > 255) {
@@ -294,6 +295,7 @@ class language extends generic_object {
 			//$this->set_audiodirectory($prefix);
 			$this->set_ip_redirect($ip_redirect);
 			$this->set_lookup_country($lookup_country);
+			$this->set_flash_version($flash_version);
 		} else {
 			$strMessage = '';
 			foreach ($arrMessages as $index => $value) {
