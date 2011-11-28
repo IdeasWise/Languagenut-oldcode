@@ -110,6 +110,7 @@ class gamescore extends generic_object {
 			$this->set_user_uid($user_uid);
 			$this->set_game_uid($game_uid);
 			$this->set_language_uid($language_uid);
+			$this->set_support_language_uid($support_uid);
 			$this->set_unit_uid($unit_uid);
 			$this->set_section_uid($section_uid);
 			$this->set_is_unit_test($is_unit_test);

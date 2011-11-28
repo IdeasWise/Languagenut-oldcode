@@ -24,14 +24,14 @@
 								<input type="text" name="name" id="name" value="{{ name }}" class="box" style="width:180px;" />
 							</label>
 						</p>
-						<p style="width:200px;float:left;margin-left:15px;">
+						<p style="width:100px;float:left;margin-left:15px;">
 							<label for="prefix"  class="textbox">
 								<span class="label {{ error_prefix }}">Prefix:</span>
-								<input type="text" name="prefix" id="prefix" value="{{ prefix }}" class="box" style="width:180px;" />
+								<input type="text" name="prefix" id="prefix" value="{{ prefix }}" class="box" style="width:80px;" />
 							</label>
 						</p>
 						<p style="float:left;width:170px;margin-left:15px;">
-							<span class="label"">Show Reseller Codes?</span>
+							<span class="label">Show Reseller Codes?</span>
 							<label for="yes_show_reseller_codes" style="float:left;">
 								<input type="radio" name="show_reseller_codes" id="yes_show_reseller_codes"  value="1" checked="checked" />
 								Yes&nbsp;&nbsp;
@@ -39,6 +39,18 @@
 							<label for="no_show_reseller_codes">
 								<input type="radio" name="show_reseller_codes" id="no_show_reseller_codes"  value="0" {{ show_reseller_codes }} />
 								No
+							</label>
+						</p>
+                        
+                       <p style="float:left;width:170px;margin-left:15px;">
+							<span class="label">Flash Version:</span>
+							<label for="flash_version_swf" style="float:left;">
+								<input type="radio" name="flash_version" id="flash_version_swf"  value="swf" checked="checked" />
+								swf&nbsp;&nbsp;
+							</label>
+							<label for="flash_version_swf10">
+								<input type="radio" name="flash_version" id="flash_version_swf10"  value="swf10" {{ flash_version_swf10 }} />
+								swf10
 							</label>
 						</p>
 					</div>
