@@ -24,8 +24,9 @@ class TryNow extends Controller {
 			$_SESSION['trynow'] = 1;
 		}
 
-		$locale = config::get('locale');
-		$support_language_uid = 14;
+		$locale					= config::get('locale');
+		$support_language_uid	= 14;
+		$swf					= 'swf';
 
 		$arrEnLocales = array(
 				'bz',
@@ -106,23 +107,27 @@ class TryNow extends Controller {
 			}
 
 		$query ="SELECT ";
-		$query.="`uid` ";
+		$query.="`uid`, ";
+		$query.="`flash_version` ";
 		$query.="from ";
 		$query.="`language` ";
 		$query.="WHERE ";
 		$query.="`prefix` = '".$locale."' ";
 		$query.="LIMIT 1";
-
 		$result = database::query($query);
-
-		if( $result && mysql_num_rows($result)> 0 ) {
+		if($result && mysql_num_rows($result) ){
 			$row = mysql_fetch_array($result);
-			$support_language_uid = $row['uid'];
+			$support_language_id = $row['uid'];
+			if(!empty($row['flash_version'])) {
+				$swf = $row['flash_version'];
+			}
 		}
+		/*
 		$swf = 'swf';
-		if(in_array($support_language_uid,array(106,107))) {
+		if(in_array($support_language_uid,array(106,107,110))) {
 			$swf = 'swf10';
 		}
+		*/
 		$skeleton->assign(
 			array(
 				'translate:need_flash'	=> $config_data,
