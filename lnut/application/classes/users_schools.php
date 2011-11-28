@@ -30,6 +30,9 @@ class users_schools extends generic_object {
 			$query.="`U`.`uid` = `SC`.`user_uid` ";
 			$query.="AND ";
 			$query.="`locale` IN (" . $_SESSION['user']['localeRights'] . ") ";
+			if(isset($_SESSION['user']['tracking_code'])) {
+				$query.=" AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."' ";
+			}
 			$query.="ORDER BY `school`";
 		}
 		if (isset($_SESSION['user']['admin']) && isset($_SESSION['user']['school_uid']) && $_SESSION['user']['admin'] != 1 && $_SESSION['user']['school_uid'] > 0) {
@@ -409,6 +412,17 @@ class users_schools extends generic_object {
 				'errdataType' => 'Please enter valid promocode.',
 				'errIndex' => 'error_affiliate'
 			),
+			'tracking_code' => array(
+				'value' => (isset($_POST['tracking_code'])) ? trim($_POST['tracking_code']) : '',
+				'checkEmpty' => false,
+				'errEmpty' => '',
+				'minChar' => 3,
+				'maxChar' => 255,
+				'errMinMax' => 'Tracking code must be 3 to 255 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid tracking code.',
+				'errIndex' => 'error_tracking_code'
+			),
 			'call_status' => array(
 				'value' => (isset($_POST['call_status'])) ? trim($_POST['call_status']) : '',
 				'checkEmpty' => false,
@@ -430,6 +444,7 @@ class users_schools extends generic_object {
 			$this->set_phone_number($arrFields['phone_number']['value']);
 			$this->set_user_limit($arrFields['user_limit']['value']);
 			$this->set_notes($arrFields['notes']['value']);
+			$this->set_tracking_code($arrFields['tracking_code']['value']);
 
 			$objUser = new user($arrFields['user_uid']['value']);
 			if($objUser->get_valid()) {
@@ -533,7 +548,44 @@ class users_schools extends generic_object {
 		$form2 = isset($_SESSION['form2']) ? $_SESSION['form2'] : array();
 		$form3 = isset($_SESSION['form3']) ? $_SESSION['form3'] : array();
 		/* Set values to users_schools table fields */
-		$this->arrFields['user_uid']['Value'] = $user_uid;
+		$this->set_user_uid($user_uid);
+		$this->set_name(mysql_real_escape_string($form1['name']['value']));
+		$this->set_school(mysql_real_escape_string($form2['school_name']['value']));
+		$this->set_address(mysql_real_escape_string($form2['school_address']['value']));
+		$this->set_postcode(mysql_real_escape_string($form2['school_postcode']['value']));
+		$this->set_contact(mysql_real_escape_string($form1['name']['value']));
+		$this->set_phone_number(mysql_real_escape_string($form1['phone_number']['value']));
+		$this->set_affiliate(mysql_real_escape_string($form1['promo_code']['value']));
+		$this->set_language_prefix(mysql_real_escape_string(config::get('locale')));
+		
+		/* when user come with ?rs=tracking_code we save that $_GET['rs'] in $_SESSION['aff'] on root
+		 * index.php in `controller` method and when user signup with that condition so here we'll 
+		 * we'll check that tracking code exist with reseller and also check user locale with 
+		 * reseller locale if both match then we save that tracking code with school user
+		*/
+		if(isset($_SESSION['aff']) && !empty($_SESSION['aff'])) {
+			if($this->isValidResellerTrackingCode($_SESSION['aff'])===true) {
+				$this->set_tracking_code(mysql_real_escape_string($_SESSION['aff']));
+			} else {
+				$subject= "An incorrect tracking code has been used";
+				$body = "<p>Following user used an incorrect tracking code.</p>";
+				$body.="<p>Code:".$_SESSION['aff']."</p>";
+				$body.="<p>locale:".config::get('locale')."</p>";
+				$body.="<p>School:".$form2['school_name']['value']."</p>";
+				$body.="<p>email: ".$form1['email']['value']."</p>";
+				
+				$header = "Content-Transfer-Encoding: 8bit";
+				$header .="\nContent-Type: text/html; charset=utf-8";
+				$header .="\nFrom: info@languagenut.com";
+
+				mail('tech@languagenut.com', $subject, $body, $header);
+				mail('jamie@languagenut.com', $subject, $body, $header);
+				mail('dev@mystream.co.uk', $subject, $body, $header);
+				mail('swyam.joshi@latitudetechnolabs.com', $subject, $body, $header);
+				unset($_SESSION['aff']);
+			}
+		}
+		/*
 		$this->arrFields['name']['Value'] = mysql_real_escape_string($form1['name']['value']);
 		$this->arrFields['school']['Value'] = mysql_real_escape_string($form2['school_name']['value']);
 		$this->arrFields['address']['Value'] = mysql_real_escape_string($form2['school_address']['value']);
@@ -542,6 +594,7 @@ class users_schools extends generic_object {
 		$this->arrFields['phone_number']['Value'] = mysql_real_escape_string($form1['phone_number']['value']);
 		$this->arrFields['affiliate']['Value'] = mysql_real_escape_string($form1['promo_code']['value']);
 		$this->arrFields['language_prefix']['Value'] = mysql_real_escape_string(config::get('locale'));
+		*/
 		$addressObject = new lib_property_address_uk(); // initializing address class object
 		$addressObject->arrFields['name']['Value'] = mysql_real_escape_string($form1['name']['value']);
 		$addressObject->arrFields['street_name_1']['Value'] = mysql_real_escape_string($form2['school_address']['value']);
@@ -551,6 +604,26 @@ class users_schools extends generic_object {
 
 		/* Set values to users_schools table fields END */
 		return $this->insert();
+	}
+
+	public function isValidResellerTrackingCode($tracking_code='') {
+		$status = false;
+		if(!empty($tracking_code)) {
+			$query ="SELECT ";
+			$query.="`uid` ";
+			$query.="FROM ";
+			$query.="`profile_reseller` ";
+			$query.="WHERE ";
+			$query.="`tracking_code`='".mysql_real_escape_string($tracking_code)."' ";
+			$query.="AND ";
+			$query.="`locale_rights`='".config::get('locale')."' ";
+			$query.="LIMIT 0,1";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$status = true;
+			}
+		}
+		return $status;
 	}
 
 	public function SaveAdminSchoolRegistration() {
@@ -595,6 +668,22 @@ class users_schools extends generic_object {
 			$this->set_phone_number(mysql_real_escape_string($_POST['phone_number']));
 			$this->set_affiliate(mysql_real_escape_string($_POST['promo_code']));
 			$this->set_language_prefix(mysql_real_escape_string($_POST['locale']));
+
+			// if reseller is logged in and registring school then we're assing his tracking code to this school.
+			if(isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']=='reseller' && isset( $_SESSION['user']['uid'])) {
+				$query ="SELECT ";
+				$query.="`tracking_code` ";
+				$query.="FROM ";
+				$query.="`profile_reseller` ";
+				$query.="WHERE ";
+				$query.="`iuser_uid`='".$_SESSION['user']['uid']."' ";
+				$query.="LIMIT 0,1";
+				$result = database::query($query);
+				if(mysql_error()=='' && mysql_num_rows($result)) {
+					$arrReseller = mysql_fetch_array($result);
+					$this->set_tracking_code(mysql_real_escape_string($arrReseller['tracking_code']));
+				}
+			}
 
 			$addressObject = new lib_property_address_uk(); // initializing address class object
 			$addressObject->set_name(mysql_real_escape_string($_POST['name']));

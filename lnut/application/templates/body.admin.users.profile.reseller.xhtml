@@ -21,6 +21,11 @@
 				<input type="text" name="vlastname" id="vlastname" value="{{ vlastname }}" class="box" />
 			</label>
 		</p>
+        <p>
+			<label for="tracking_code" class="textbox"> <span class="label {{ error_tracking_code }}">Tracking Code:</span>
+				<input type="text" name="tracking_code" id="tracking_code" value="{{ tracking_code }}" class="box" />
+			</label>
+		</p>
 		<p>
 			<label for="email" class="textbox"> <span class="label {{ error_vemail }}">Email:</span>
 				<input type="text" name="vemail" id="vemail" value="{{ vemail }}" class="box" />
@@ -41,9 +46,9 @@
 				<input type="text" name="vat" id="vphone" value="{{ vat }}" class="box" />
 			</label>
 		</p>
-		<p>
+		<!--<p>
 			<label class="listbox" for="locale_rights"><span class="label {{ error_locale_rights }}">Reseller Locale Right:-</span> {{ locale_rights }} </label>
-		</p>
+		</p>-->
 		<p><span class="label">Message to show when User Limit is reached:-</span></p>
 		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
 			<textarea class="class-editor-input" name="user_limit_reached" id="user_limit_reached">{{ user_limit_reached }}</textarea>

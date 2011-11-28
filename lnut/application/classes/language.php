@@ -804,12 +804,6 @@ class language extends generic_object {
 				'optionalFieldName'	=>''
 			),
 			array(
-				'tableName'			=>'difficulty_level_translation',
-				'fieldName'			=>'language_uid',
-				'fieldType'			=>'int',
-				'optionalFieldName'	=>'locale'
-			),
-			array(
 				'tableName'			=>'exercise_qae_topic_content_question_option_translation',
 				'fieldName'			=>'language_uid_support',
 				'fieldType'			=>'int',
@@ -847,7 +841,7 @@ class language extends generic_object {
 			),
 			array(
 				'tableName'			=>'game_translation',
-				'fieldName'			=>'language_id',
+				'fieldName'			=>'language_uid',
 				'fieldType'			=>'int',
 				'optionalFieldName'	=>''
 			),
@@ -1138,33 +1132,37 @@ class language extends generic_object {
 					$arrValueFields[]="`".$index."`";
 				}
 			}
+		} elseif(mysql_error()!='') {
+			mail('dev@mystream.co.uk','ERROR IN COPY LANGUGAE MODULE TABLE['.$txtTable.']','ERROR: '.mysql_error(),'From: info@languagenut.com');
 		}
 
-		/*
-		* FIRST DELETE ALL EXIST ENTRY FOR GIVEN TO ID OT LOCALE
-		*/
+		if(count($arrInsertFields) > 0) {
+			/*
+			* FIRST DELETE ALL EXIST ENTRY FOR GIVEN TO ID OT LOCALE
+			*/
 
-		$query ="DELETE ";
-		$query.="FROM ";
-		$query.="`".$txtTable."` ";
-		$query.="WHERE ";
-		$query.="`".$txtLocaleFieldName."`='".$copyTo."' ";
-		$result = database::query($query);
+			$query ="DELETE ";
+			$query.="FROM ";
+			$query.="`".$txtTable."` ";
+			$query.="WHERE ";
+			$query.="`".$txtLocaleFieldName."`='".$copyTo."' ";
+			$result = database::query($query);
 
-		/*
-		* NOW COPY TRANLATION FROM GIVEN $copyFrom TO $copyTo
-		*/
-		$query ="INSERT ";
-		$query.="INTO ";
-		$query.="`".$txtTable."` ";
-		$query.="(".implode(',',$arrInsertFields).") ";
-		$query.="SELECT ";
-		$query.="".implode(',',$arrValueFields)." ";
-		$query.="FROM ";
-		$query.="`".$txtTable."` ";
-		$query.="WHERE ";
-		$query.="`".$txtLocaleFieldName."`='".$copyFrom."' ";
-		$result = database::query($query);
+			/*
+			* NOW COPY TRANLATION FROM GIVEN $copyFrom TO $copyTo
+			*/
+			$query ="INSERT ";
+			$query.="INTO ";
+			$query.="`".$txtTable."` ";
+			$query.="(".implode(',',$arrInsertFields).") ";
+			$query.="SELECT ";
+			$query.="".implode(',',$arrValueFields)." ";
+			$query.="FROM ";
+			$query.="`".$txtTable."` ";
+			$query.="WHERE ";
+			$query.="`".$txtLocaleFieldName."`='".$copyFrom."' ";
+			$result = database::query($query);
+		}
 	}
 
 	private function RecursiveCopy($source, $dest, $diffDir = ''){

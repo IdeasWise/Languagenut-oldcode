@@ -134,10 +134,11 @@ class admin_reseller_controller extends Controller {
 			if ($objReseller->doSave()) {
 				$objReseller->redirectTo('admin/users/reseller/'); // redirect to user list if all does well;
 			} else {
+				/*
 				$objReseller->arrForm['locale_rights'] = $objLanguage->LocaleSelectBox(
 					'locale_rights',
 					$objReseller->arrForm['locale_rights']
-				);
+				);*/
 				$body->assign($objReseller->arrForm);
 			}
 		} else {
@@ -156,12 +157,13 @@ class admin_reseller_controller extends Controller {
 					foreach ($objReseller->TableData as $idx => $val) {
 						$arrBody[$idx] = $val['Value'];
 					}
+					/*
 					$arrBody['locale_rights'] = $objLanguage->LocaleSelectBox(
 						'locale_rights',
 						$arrBody['locale_rights']
-					);
+					);*/
 				} else {
-					$arrBody['locale_rights'] = $objLanguage->LocaleSelectBox('locale_rights');
+					//$arrBody['locale_rights'] = $objLanguage->LocaleSelectBox('locale_rights');
 				}
 
 				$body->assign($arrBody);

@@ -1484,6 +1484,7 @@ class user extends generic_object {
 				$_SESSION['user']['defaultMenu'] 	= 'menu.reseller.account';
 				$_SESSION['user']['userRights']		= 'reseller';
 				$_SESSION['user']['localeRights']	= profile_reseller::GetLocaleRights($this->get_uid());
+				$_SESSION['user']['tracking_code']	= profile_reseller::getTrackingCode($this->get_uid());
 			}
 		}
 
