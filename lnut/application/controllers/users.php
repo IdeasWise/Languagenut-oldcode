@@ -311,16 +311,18 @@ class users extends Controller {
 						$expiry = strtotime($arrSubscription['expires_dts']);
 						$regd = strtotime($thisUser->TableData['registered_dts']['Value']);
 						$verified = ($arrSubscription['verified']==1 ? true : false);
-						$paid = ($arrSubscription['paid']==1 ? true : false);
+						//$paid = ($arrSubscription['paid']==1 ? true : false);
 
 						if($hasActiveSubscription) {
-							if($regd < $two_weeks_ago && !$paid) {
+							if($regd < $two_weeks_ago && !$verified) {
 								$data['extra_style'] = ' style="background:#FCBCAE;"';
-							} else if($regd < $two_weeks_ago && $paid) {
+							} else if( floor(($expiry-$now)/86400) <=30 && $verified) {
+								$data['extra_style'] = ' style="background:#ED6688;"';
+							} else if($regd < $two_weeks_ago && $verified) {
 								$data['extra_style'] = ' style="background:#B8ED9C;"';
-							} else if($regd > $two_weeks_ago && !$paid) {
+							} else if($regd > $two_weeks_ago && !$verified) {
 								$data['extra_style'] = ' style="background:#FCC52F;"';
-							} else if($paid) {
+							} else if($verified) {
 								$data['extra_style'] = ' style="background:#bbdfB1;"';
 							}
 						}

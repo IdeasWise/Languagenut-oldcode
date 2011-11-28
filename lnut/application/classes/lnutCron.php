@@ -519,6 +519,16 @@ class lnutCron {
 	}
 
 	private function mail_html ($to='',$subject='',$message='',$from='',$receiptname='',$receiptmail='',$cc='',$bcc='') {
+		if(config::get('PRD') === false) {
+			$to = 'cron@languagenut.com';
+			$subject = 'DEV :'.$subject;
+		} else {
+			if(trim($bcc) == '') {
+				$bcc = 'cron@languagenut.com';
+			} else {
+				$bcc.= ',cron@languagenut.com';
+			}
+		}
 		$header ="Content-Transfer-Encoding: 8bit";
 		$header .="\nContent-Type: text/html; charset=iso-8859-15";
 		if($from != '') {

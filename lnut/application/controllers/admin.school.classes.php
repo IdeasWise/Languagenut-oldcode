@@ -99,11 +99,19 @@ class admin_school_classes extends Controller {
 				}
 			}
 			$body = make::tpl('body.classes.submission.list')->assign(
+<<<<<<< HEAD
 			array(
 			'list.rows' => implode('', $arrRows),
 			'ClassName' => $objClasses->get_name(),
 			'breadcrumb' => $this->breadCrumb($objClasses->get_uid(), $objClasses->get_name())
 			)
+=======
+				array(
+					'list.rows' => implode('', $arrRows),
+					'ClassName' => $objClasses->get_name(),
+					'breadcrumb' => $this->breadCrumb($objClasses->get_uid(), $objClasses->get_name())
+				)
+>>>>>>> refs/heads/phase2
 			);
 			$skeleton->assign(
 			array(
@@ -494,6 +502,7 @@ class admin_school_classes extends Controller {
 			$_POST['add_students']="Add Students";
 			$_POST['last'] = array();
 			$_POST['first'] = array();
+<<<<<<< HEAD
 			$row = 1;
 			if (!$_FILES["student_csv"]["error"]) {
 				$tmp_name = $_FILES["student_csv"]["tmp_name"];
@@ -513,6 +522,27 @@ class admin_school_classes extends Controller {
 
 					fclose($handle);
 				}
+=======
+
+			$row = 0;
+			if (!$_FILES["student_csv"]["error"]) {
+				$tmp_name = $_FILES["student_csv"]["tmp_name"];
+				 // we should move following logic to a central location rather than inline that next time
+				ini_set('auto_detect_line_endings', true);
+				// end
+				if (($handle = fopen($tmp_name, "r")) !== FALSE) {
+					while (($data = fgetcsv($handle)) !== FALSE) {
+						$row++;
+						if($row==1) {
+							continue;
+						}
+						$_POST['last'][] = $data[0];
+						$_POST['first'][] = $data[1];
+					}
+					fclose($handle);
+				}
+				ini_set('auto_detect_line_endings', false);
+>>>>>>> refs/heads/phase2
 			}
 			if ($row <= 1) {
 				$objErrorMsgXhtml = new xhtml('error_message');
