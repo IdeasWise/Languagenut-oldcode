@@ -64,6 +64,9 @@ class account_reseller extends Controller {
 					case "package-management":
 						$this->load_controller('account.reseller.manage.school.package');
 					break;
+					case "schoolClass":
+						$this->load_controller('admin.school.classes');
+					break;
 					default:
 						output::redirectTo('account/users/school/');
 					break;

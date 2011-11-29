@@ -67,15 +67,13 @@ class profile_reseller extends generic_object {
 		} else if(!validation::isValid('email',$vemail) ) {
 			$arrMessages['error_email'] = "Please enter valid email.";
 		}
-		if( trim(strlen($vfax)) < 8 || trim(strlen($vfax)) > 21 ) {
-			$arrMessages['error_vfax'] = "Fax number must be 8 to 21 characters in length.";
-		} else if(!validation::isValid('fax',$vfax) ) {
-			$arrMessages['error_vfax'] = "Please enter valid fax number.";
-		}
 		if( trim(strlen($vphone)) < 8 || trim(strlen($vphone)) > 21 ) {
 			$arrMessages['error_vphone'] = "Phone number must be 8 to 21 characters in length.";
 		} else if(!validation::isValid('phone',$vphone) ) {
 			$arrMessages['error_vphone'] = "Please enter valid phone number.";
+		}
+		if(trim(strlen($vfax)) > 0 && !validation::isValid('fax',$vfax) ) {
+			$arrMessages['error_vfax'] = "Please enter valid fax number.";
 		}
 		if(!validation::isValid('int',$vat) ) {
 			$arrMessages['error_vat'] = "Please enter valid VAT%.";

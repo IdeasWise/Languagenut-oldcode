@@ -132,7 +132,10 @@ class admin_reseller_controller extends Controller {
 		if (count($_POST) > 0) {
 			$objReseller = new profile_reseller();
 			if ($objReseller->doSave()) {
-				$objReseller->redirectTo('admin/users/reseller/'); // redirect to user list if all does well;
+				if(!isset($_SESSION['reseller_profile_success_message'])) {
+					$_SESSION['reseller_profile_success_message'] = component_message::success('Profile has been updated successfully.');
+				}
+				$objReseller->redirectTo('/admin/users/profile/reseller/'.$this->parts[4].'/'); // redirect to user list if all does well;
 			} else {
 				/*
 				$objReseller->arrForm['locale_rights'] = $objLanguage->LocaleSelectBox(
@@ -165,7 +168,10 @@ class admin_reseller_controller extends Controller {
 				} else {
 					//$arrBody['locale_rights'] = $objLanguage->LocaleSelectBox('locale_rights');
 				}
-
+				$arrBody['success_message'] = (isset($_SESSION['reseller_profile_success_message']))?$_SESSION['reseller_profile_success_message']:'';
+				if(isset($_SESSION['reseller_profile_success_message'])) {
+					unset($_SESSION['reseller_profile_success_message']);
+				}
 				$body->assign($arrBody);
 			}
 		}

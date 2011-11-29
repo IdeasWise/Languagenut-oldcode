@@ -152,7 +152,7 @@ class users extends Controller {
 		} else {
 			$body = make::tpl('body.admin.users.add');
 		}
-		$action = "Add";
+		$action = "continue";
 
 		$body->assign("action", $action);
 
@@ -160,6 +160,12 @@ class users extends Controller {
 			$objUser = new user();
 			$arrResponse = $objUser->isCreateSuccessful();
 			if ($arrResponse[0] == 'success') {
+				if(isset($_POST['user_type']) && $_POST['user_type']=='reseller') {
+					if(!isset($_SESSION['reseller_profile_success_message'])) {
+						$_SESSION['reseller_profile_success_message'] = component_message::success('User has been added. Now input reseller details below.');
+					}
+					
+				}
 				$objUser->redirectToDynamic('/users/profile/' . $_POST['user_type'] . '/' . $arrResponse[2]);
 			} else {
 				$deleted = ($_POST['deleted'] == 0) ? 'checked="checked"' : '';

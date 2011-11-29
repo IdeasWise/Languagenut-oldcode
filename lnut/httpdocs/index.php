@@ -336,8 +336,8 @@ class core {
 
 		$path = '';
 
-		if(isset($_GET['aff'])) {
-			$_SESSION['aff'] = $_GET['aff'];
+		if(isset($_GET['rs'])) {
+			$_SESSION['aff'] = $_GET['rs'];
 		}
 
 		if (file_exists($controller)) {

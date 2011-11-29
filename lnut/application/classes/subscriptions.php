@@ -27,6 +27,9 @@ class subscriptions extends generic_object {
 			$WHERE.='`U`.`deleted` != "1" ';
 			$WHERE.='AND ';
 			$WHERE.='U.uid = S.user_uid ';
+			if(isset($_SESSION['user']['tracking_code'])) {
+				$WHERE .= " AND `S`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
+			}
 			if (isset($parts[4]) && !is_numeric($parts[4])) {
 				$WHERE .= " and `language_prefix` = '" . $parts[4] . "'";
 			}
@@ -230,7 +233,7 @@ class subscriptions extends generic_object {
 
 		$thirty_days_from_now = date('Y-m-d H:i:s',mktime(date('H'),date('i'),date('s'),date('m')+1,date('d'),date('Y')));
 		$today = date('Y-m-d H:i:s');
-
+/*
 		$query = "SELECT ";
 		$query.= "COUNT(`user`.`uid`) AS `max` ";
 		$query.= "FROM ";
@@ -241,7 +244,22 @@ class subscriptions extends generic_object {
 		$query.= "AND `subscriptions`.`invoice_for`='school' ";
 		$query.= "AND `user`.`uid`=`subscriptions`.`user_uid` ";
 		$query.= "AND `user`.`locale` IN (".$_SESSION['user']['localeRights'].") ";
-		$result = database::query($query);
+*/
+		$query = "SELECT ";
+		$query.= "COUNT(`users_schools`.`uid`) AS `max` ";
+		$query.= "FROM ";
+		$query.= "`subscriptions`, `users_schools` ";
+		$query.= "WHERE ";
+		$query.= "`subscriptions`.`expires_dts` <= '$thirty_days_from_now' ";
+		$query.= "AND `subscriptions`.`expires_dts` >= '$today' ";
+		$query.= "AND `subscriptions`.`invoice_for`='school' ";
+		$query.= "AND `users_schools`.`user_uid`=`subscriptions`.`user_uid` ";
+		$query.= "AND `users_schools`.`language_prefix` IN (".$_SESSION['user']['localeRights'].") ";
+		if(isset($_SESSION['user']['tracking_code'])) {
+			$query .= " AND `tracking_code`='".$_SESSION['user']['tracking_code']."'";
+		}
+		
+		$result = database::query($query);		
 		if($result && mysql_num_rows($result) > 0) {
 			$row = mysql_fetch_assoc($result);
 			$max = $row['max'];
@@ -267,24 +285,31 @@ class subscriptions extends generic_object {
 			$query.= "`subscriptions`.`invoice_for`, ";
 			$query.= "`subscriptions`.`verified`, ";
 			$query.= "`subscriptions`.`call_status`, ";
-			$query.= "`subscriptions`.`subscription_cancellation_date` ";
+			$query.= "`subscriptions`.`subscription_cancellation_date`, ";
+			$query.= "`users_schools`.`name`, ";
+			$query.= "`users_schools`.`school` ";
 			$query.= "FROM ";
-			$query.= "`subscriptions`, `user` ";
+			$query.= "`subscriptions`, `user`, `users_schools` ";
 			$query.= "WHERE ";
 			$query.= "`subscriptions`.`expires_dts` <= '$thirty_days_from_now' ";
 			$query.= "AND `subscriptions`.`expires_dts` >= '$today' ";
 			$query.= "AND `subscriptions`.`invoice_for`='school' ";
 			$query.= "AND `user`.`uid`=`subscriptions`.`user_uid` ";
 			$query.= "AND `user`.`locale` IN (".$_SESSION['user']['localeRights'].") ";
+			$query.= "AND `users_schools`.`user_uid`=`subscriptions`.`user_uid` ";
+			if(isset($_SESSION['user']['tracking_code'])) {
+				$query .= " AND `tracking_code`='".$_SESSION['user']['tracking_code']."'";
+			}
 			$query.= "ORDER BY `expires_dts` ASC ";
 			$query.= "LIMIT ".(($pageId-1)*10).",10";
 
 			$result = database::query($query);
-
+		
 			$arrUsers = array();
 
 			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 				while($row = mysql_fetch_assoc($result)) {
+					/*
 					$arrData = ($row['invoice_for']=='school') ? users_schools::getByUserUid($row['user_uid']) : '';
 					$arrRealData['name'] = '';
 					$arrRealData['school'] = '';
@@ -294,6 +319,12 @@ class subscriptions extends generic_object {
 						}
 					} else {
 						$arrRealData['name'] = '<i>Not Give</i>';
+					}*/
+					if(empty($row['name'])) {
+						$row['name'] = '<i>Not Give</i>';
+					}
+					if(empty($row['school'])) {
+						$row['school'] = '<i>Not Give</i>';
 					}
 					#echo '<pre>'.print_r($arrData,true).'</pre>';
 					$arrUsers[$row['user_uid']] = array(
@@ -304,12 +335,12 @@ class subscriptions extends generic_object {
 						'amount'		=> $row['amount'],
 						'start_dts'		=> $row['start_dts'],
 						'expires_dts'	=> $row['expires_dts'],
-						'name'			=> isset($arrRealData['name']) ? $arrRealData['name'] : '',
+						'name'			=> isset($row['name']) ? stripslashes($row['name']) : '',
 						'active'		=> $row['active'],
 						'access_allowed'=> $row['access_allowed'],
 						'verified'		=> $row['verified'],
 						'call_status'	=> $row['call_status'],
-						'school'		=> isset($arrRealData['school']) ? $arrRealData['school'] : '',
+						'school'		=> isset($row['school']) ? stripslashes($row['school']) : '',
 						'registered_dts'=> $row['registered_dts'],
 						'cancel_dts'	=> $row['subscription_cancellation_date']
 					);
@@ -562,11 +593,12 @@ class subscriptions extends generic_object {
 			if(0==$was_verified && $arrFields['verified']['value']==1 && $verified_dts == '0000-00-00 00:00:00') {
 				if(strlen(trim($arrFields['verified_dts']['value']))=='') {
 					$this->set_verified_dts(date('Y-m-d H:i:s'));
+					$arrFields['verified_dts']['value'] = date('Y-m-d H:i:s');
 				}
 				$start_dts = $this->get_set_start_dts();
 				$expires_dts = date('Y-m-d H:i:s',strtotime($start_dts.' +52 week'));
 				$this->set_expires_dts($expires_dts);
-				$this->financeNotification($arrFields['user_uid']['value']);
+				$this->financeNotification($arrFields['user_uid']['value'],$arrFields['verified_dts']['value']);
 			} else {
 			}
 			return true;
@@ -586,7 +618,7 @@ class subscriptions extends generic_object {
 		}
 		return false;
 	}
-	public function financeNotification($user_uid=null) {
+	public function financeNotification($user_uid=null,$verified_dts=date('Y-m-d H:i:s')) {
 		if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
 			$locale = $this->getUserlocale($user_uid);
 			if($locale!=false) {
@@ -622,7 +654,7 @@ class subscriptions extends generic_object {
 							}
 						}
 
-						$hasActiveSubscription = (false == $this->getUserSubscriptionDetails($arrFields['user_uid']['value'])) ? false : true;
+						$hasActiveSubscription = (false == $this->getUserSubscriptionDetails($user_uid)) ? false : true;
 
 						$extraMessage = '';
 						if($hasActiveSubscription) {
@@ -638,7 +670,7 @@ class subscriptions extends generic_object {
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($arrFields['verified_dts']['value']))."\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
 							$extraMessage,
 							"From: info@languagenut.com"
 						);
@@ -652,7 +684,7 @@ class subscriptions extends generic_object {
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($arrFields['verified_dts']['value']))."\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
 							$extraMessage,
 							"From: info@languagenut.com"
 						);
@@ -666,7 +698,7 @@ class subscriptions extends generic_object {
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($arrFields['verified_dts']['value']))."\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
 							$extraMessage,
 							"From: info@languagenut.com"
 						);
@@ -680,7 +712,7 @@ class subscriptions extends generic_object {
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($arrFields['verified_dts']['value']))."\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
 							$extraMessage,
 							"From: info@languagenut.com"
 						);

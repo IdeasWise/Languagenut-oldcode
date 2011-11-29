@@ -8,6 +8,7 @@
 <div class="line"></div>
 <div class="in forms">
 	<div class="message_error"> {{ message_error }} </div>
+    {{ success_message }}
 	<form action="" method="post" name="edit-profile">
 		<input type="hidden" name="iuser_uid" id="iuser_uid" value="{{ iuser_uid }}" />
 		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
@@ -46,14 +47,19 @@
 				<input type="text" name="vat" id="vphone" value="{{ vat }}" class="box" />
 			</label>
 		</p>
+        <p>
+			<label for="user_limit_reached" class="textbox"> <span class="label {{ error_tracking_code }}">Message to show when User Limit is reached:</span>
+				<input type="text" name="user_limit_reached" id="user_limit_reached" value="{{ user_limit_reached }}" class="box" />
+			</label>
+		</p>
 		<!--<p>
 			<label class="listbox" for="locale_rights"><span class="label {{ error_locale_rights }}">Reseller Locale Right:-</span> {{ locale_rights }} </label>
 		</p>-->
-		<p><span class="label">Message to show when User Limit is reached:-</span></p>
+		<!--<p><span class="label">Message to show when User Limit is reached:-</span></p>
 		<div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
 			<textarea class="class-editor-input" name="user_limit_reached" id="user_limit_reached">{{ user_limit_reached }}</textarea>
 		</div>
-		<p>
+		<p>-->
 		<p>
 			<input type="submit" name="submit-edit-profile" value="Save" class="com_btn" />
 		</p>

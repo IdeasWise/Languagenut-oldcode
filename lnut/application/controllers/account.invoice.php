@@ -208,6 +208,7 @@ class acccount_invoice extends Controller {
 		if( isset($_POST['submit-button'])){
 			$objSubscription	= new subscriptions();
 			if( $objSubscription->doSave() ){
+				/*
 				if(isset($_POST['redirect']) && $_POST['redirect'] == 1 && isset($_POST['user_uid'])) {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('account/users/profile/school/'.$_POST['user_uid'].'/');
@@ -215,6 +216,11 @@ class acccount_invoice extends Controller {
 					// redirect to invoice list if all does well;
 					$objSubscription->redirectTo('account/invoice/'.$this->arrPaths[2].'/list');
 				}
+				*/
+				if(!isset($_SESSION['invoice_success_message'])) {
+					$_SESSION['invoice_success_message'] = component_message::success('Record has been updated successfully.');
+				}
+				$objSubscription->redirectTo('account/invoice/'.$this->arrPaths[2].'/edit/'.$this->arrPaths[4].'/');
 
 			} else{
 				$arrBody['user_uid_display']	= 'display:none;';
@@ -230,6 +236,10 @@ class acccount_invoice extends Controller {
 				foreach($objSubscription->TableData as $idx => $val ){
 					$arrBody[$idx] = $val['Value'];
 				}
+				$arrBody['success_message'] = (isset($_SESSION['invoice_success_message']))?$_SESSION['invoice_success_message']:'';
+				if(isset($_SESSION['invoice_success_message'])) {
+					unset($_SESSION['invoice_success_message']);
+				}
 				if($arrBody['verified'] == 0){
 					$arrBody['verified0'] = 'checked="checked"';
 				} else {
@@ -239,6 +249,13 @@ class acccount_invoice extends Controller {
 					$arrBody['payverified0'] = 'checked="checked"';
 				} else {
 					$arrBody['payverified1'] = 'checked="checked"';
+				}
+				if($arrBody['sent'] == '1' ) {
+					$arrBody['sent1'] = 'checked="checked"';
+					$arrBody['sent0'] = '';
+				} else {
+					$arrBody['sent0'] = 'checked="checked"';
+					$arrBody['sent1'] = '';
 				}
 				if($arrBody['start_dts'] != '0000-00-00 00:00:00' ) {
 					list(
@@ -455,6 +472,9 @@ class acccount_invoice extends Controller {
 					}
 				}
 
+				if(isset($data['name'])) {
+					$data['name'] = stripslashes($data['name']);
+				}
 				$panel->assign($data);
 				$page_rows[] = $panel->get_content();
 			}
