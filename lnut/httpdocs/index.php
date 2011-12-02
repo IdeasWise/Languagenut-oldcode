@@ -304,6 +304,8 @@ class core {
 		config::set('mediamanager_base',$_SERVER['DOCUMENT_ROOT']);
 		config::set('cdn_url','http://images.languagenut.com/');
 		config::set('PRD',($_SERVER['DOCUMENT_ROOT'] == '/var/www/vhosts/languagenut.com/' ? true : false));
+		config::set('cache','/var/www/cache/');
+
 
 	}
 

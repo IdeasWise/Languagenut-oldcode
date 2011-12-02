@@ -312,7 +312,7 @@ class account_reseller_users extends Controller {
 
 					$subUserUid = $thisUser->getSchoolId();
 
-					$data['verified'] = 'No';
+					//$data['invoice_sent'] = 'No';
 					$data['paid'] = 'No';
 
 					if ($subUserUid !== 0) {
@@ -324,21 +324,20 @@ class account_reseller_users extends Controller {
 					$regd = strtotime($thisUser->TableData['registered_dts']['Value']);
 					$verified = ($arrSubscription['verified'] == 1 ? true : false);
 					//$paid = ($arrSubscription['paid']==1 ? true : false);
-
-					$data['verified'] = 'Yes';
+					
+					$data['invoice_sent'] = (isset($arrSubscription['sent']) && $arrSubscription['sent']==1)?'Yes':'No';
 					$data['paid'] = ($arrSubscription['date_paid'] != '0000-00-00 00:00:00') ? 'Yes' : 'No';
-
+					$remaining_days = floor(($expiry - $now) / 86400);
 					if ($hasActiveSubscription) {
-						if ($regd < $two_weeks_ago && !$verified) {
-						$data['extra_style'] = ' style="background:#FCBCAE;"';
-						} else if (floor(($expiry - $now) / 86400) <= 30 && $verified) {
-						$data['extra_style'] = ' style="background:#ED6688;"';
-						} else if ($regd < $two_weeks_ago && $verified) {
-						$data['extra_style'] = ' style="background:#B8ED9C;"';
-						} else if ($regd > $two_weeks_ago && !$verified) {
-						$data['extra_style'] = ' style="background:#FCC52F;"';
+						$data['extra_style'] ='';
+						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
+							$data['subscription_cancelled'] = 'expires-within-30-days-pink';
 						} else if ($verified) {
-						$data['extra_style'] = ' style="background:#bbdfB1;"';
+							$data['subscription_cancelled'] = 'verified-green';
+						} else if ($two_weeks_ago < $regd && !$verified) {
+							$data['subscription_cancelled'] ='two-week-not-verified-orange';
+						} else if ($two_weeks_ago > $regd && !$verified) {
+							$data['subscription_cancelled'] = 'two-week-not-verified-pink';
 						}
 					}
 					$data['call_status'] = subscriptions::toCallStatusText($arrSubscription['call_status']);
@@ -348,6 +347,13 @@ class account_reseller_users extends Controller {
 					$data['number_of_requests'] = $objSchoolPackages->getPendingRequests($data['school_uid']);
 				}
 				$data['registered_dts'] = date('d/m/Y', strtotime($data['registered_dts']));
+				if(isset($data['school'])) {
+					$data['school'] = stripslashes($data['school']);
+				}
+				if(isset($data['username_open'])) {
+					$data['username_open'] = stripslashes($data['username_open']);
+				}
+
 				$rowTemplate = make::tpl('body.reseller.account.users.' . $this->arrPaths[2] . '.row')->assign($data);
 				$arrRows[] = $rowTemplate->get_content();
 			}

@@ -316,7 +316,7 @@ class page_subscribe_school_stages_translations extends generic_object {
 				$message.= '<ul>';
 				$message.= '<li>' . implode('</li><li>', $errors) . '</li>';
 				$message.= '</ul>';
-				$message.= '<p><a href="#" class="errorClose"><img src="' . config::images('back_to_form.png') . '" alt="' . config::translate('form.back') . '" /></a></p>';
+				$message.= '<p><a href="#" class="errorClose"><img src="' . config::cdn_locale_images('back_to_form.png') . '" alt="' . config::translate('form.back') . '" /></a></p>';
 				$message.= '</div>';
 				$_SESSION['stage'] = 1;
 				$_SESSION['message'] = $message;

@@ -13,7 +13,8 @@ class game_translation extends generic_object {
 			$sql.= "`uid`, ";
 			$sql.= "`game_uid`, ";
 			$sql.= "`language_uid`, ";
-			$sql.= "`name` ";
+			$sql.= "`name`, ";
+			$sql.= "`instruction`";
 			$sql.= "FROM ";
 			$sql.= "`game_translation` ";
 			$sql.= "WHERE ";
@@ -22,9 +23,10 @@ class game_translation extends generic_object {
 			$sql.= "`game_uid` ASC";
 //			$res = database::query($sql);
 			$keyMap = array(
-						'game_uid' => 'game_uid',
-						'language_uid' => 'language_uid',
-						'name' => 'name'
+						'game_uid'		=> 'game_uid',
+						'language_uid'	=> 'language_uid',
+						'name'			=> 'name',
+						'instruction'	=> 'instruction'
 					);
 			$arrResponse = database::arrQueryByUid($sql, $keyMap,1);
 //			
@@ -43,11 +45,17 @@ class game_translation extends generic_object {
 
 	public function updateGameTranslation() {
 		if (count($_POST) > 0) {
+
 			foreach ($_POST as $key => $val) {
 				$name = explode('_', $key);
 				if (count($name) == 3 && $name[0] == 'game') {
 					$game_uid = (int) $name[1];
 					$language_uid = (int) $name[2];
+					$instruction = '';
+					if(isset($_POST['instruction'][$game_uid.'_'.$language_uid])) {
+						$instruction = mysql_real_escape_string($_POST['instruction'][$game_uid.'_'.$language_uid]);
+					}
+
 					$query = "SELECT ";
 					$query.="COUNT(`uid`) ";
 					$query.="FROM ";
@@ -61,10 +69,12 @@ class game_translation extends generic_object {
 					if ($result && mysql_error() == '') {
 						$row = mysql_fetch_array($result);
 						if ($row[0] > 0) {
+							
 							$query = "UPDATE ";
 							$query.="`game_translation` ";
 							$query.="SET ";
-							$query.="`name`='" . mysql_real_escape_string($val) . "' ";
+							$query.="`name`='" . mysql_real_escape_string($val) . "', ";
+							$query.="`instruction`='".$instruction."' ";
 							$query.="WHERE ";
 							$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
 							$query.="AND ";
@@ -77,11 +87,13 @@ class game_translation extends generic_object {
 							$query.="`game_translation` (";
 							$query.="`game_uid`,";
 							$query.="`language_uid`,";
-							$query.="`name`";
+							$query.="`name`,";
+							$query.="`instruction`";
 							$query.=") VALUES (";
 							$query.="'" . mysql_real_escape_string($game_uid) . "',";
 							$query.="'" . mysql_real_escape_string($language_uid) . "',";
-							$query.="'" . mysql_real_escape_string($val) . "'";
+							$query.="'" . mysql_real_escape_string($val) . "',";
+							$query.="'" . $instruction . "'";
 							$query.=")";
 							$result = database::query($query,1);
 							echo mysql_error();
@@ -92,6 +104,27 @@ class game_translation extends generic_object {
 		}
 	}
 
+	public function getInstruction($game_uid=null,$language_uid=null) {
+		if($game_uid==null || $language_uid == null) {
+			return '';
+		} else {
+			$query ="SELECT ";
+			$query.="`instruction`";
+			$query.="FROM ";
+			$query.="`game_translation` ";
+			$query.="WHERE ";
+			$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
+			$query.="AND ";
+			$query.="`game_uid`='".$game_uid."' ";
+			$query.="LIMIT 0,1";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$arrRow = mysql_fetch_array($result);
+				return $arrRow['instruction'];
+			}
+			return ' ';
+		}
+	}
 	public function duplicateToLanguage($locale, $languageUid) {
 		$arrValues = array();
 

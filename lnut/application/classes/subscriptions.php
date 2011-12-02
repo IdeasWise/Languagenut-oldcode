@@ -596,7 +596,7 @@ class subscriptions extends generic_object {
 					$arrFields['verified_dts']['value'] = date('Y-m-d H:i:s');
 				}
 				$start_dts = $this->get_set_start_dts();
-				$expires_dts = date('Y-m-d H:i:s',strtotime($start_dts.' +52 week'));
+				$expires_dts = date('Y-m-d H:i:s',strtotime($start_dts.' +54 week'));
 				$this->set_expires_dts($expires_dts);
 				$this->financeNotification($arrFields['user_uid']['value'],$arrFields['verified_dts']['value']);
 			} else {
@@ -618,8 +618,11 @@ class subscriptions extends generic_object {
 		}
 		return false;
 	}
-	public function financeNotification($user_uid=null,$verified_dts=date('Y-m-d H:i:s')) {
+	public function financeNotification($user_uid=null,$verified_dts='0000-00-00 00:00:00') {
 		if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
+			if($verified_dts=='0000-00-00 00:00:00') {
+				$verified_dts = date('Y-m-d H:i:s');
+			}
 			$locale = $this->getUserlocale($user_uid);
 			if($locale!=false) {
 				//$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `iuser_uid`=".$_SESSION['user']['uid']." LIMIT 1";

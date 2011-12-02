@@ -167,3 +167,19 @@ html ul.topnav li ul.subnav li a { float: left; width: 160px; font-size:12px; pa
 	color:#090;!important;
 	font-weight: bold;
 }
+
+.two-week-not-verified-pink {
+  	background:#FCBCAE;
+}
+
+.two-week-not-verified-orange {
+  	background:#FCC52F;
+}
+
+.expires-within-30-days-pink {
+ 	background:#ffdfdf;
+}
+
+.verified-green {
+	background:#bbdfB1;
+}

@@ -19,7 +19,8 @@ class users extends Controller {
 		'homeuser',
 		'affiliate',
 		'reseller',
-		'translator'
+		'translator',
+		'unallocated-schools'
 	);
 	private $parts = array();
 
@@ -253,8 +254,11 @@ class users extends Controller {
 		if (!isset($this->parts[2])) {
 			$this->parts[2] = 'list';
 		}
-
-		$body = make::tpl('body.admin.users.' . $this->parts[2]);
+		$userType = $this->parts[2];
+		if(isset($this->parts[2]) && $this->parts[2]=='unallocated-schools') {
+			$userType = 'school';
+		}
+		$body = make::tpl('body.admin.users.' . $userType);
 		if($this->parts[2]=='reseller') {
 			if(!isset($_GET['column'])) {
 				$_GET['column']	= 'email';
@@ -276,7 +280,7 @@ class users extends Controller {
 			}
 			$body->assign('list.locale', implode(' | ', $locales));
 		}
-
+		
 		$objUser = new user();
 		$arrUsers = $objUser->get_users();
 		$arrRows = array();
@@ -284,14 +288,19 @@ class users extends Controller {
 		$page_navigation="";
 		if (!empty($arrUsers)) {
 			$now = time();
-			$two_weeks_ago = mktime(date('H'),date('i'),date('s'),date('m'),date('d')-14,date('Y'));
+			//$two_weeks_ago = mktime(date('H'),date('i'),date('s'),date('m'),date('d')-14,date('Y'));
+			$two_weeks_ago = strtotime('-14 day');
 			foreach ($arrUsers as $uid => $data) {
 				$data['edit'] = 'edit/';
 				if (in_array(strtolower($this->parts[2]), $this->arrProfiles)) {
-					$data['edit'] = 'profile/' . $this->parts[2] . '/';
+					if($this->parts[2]=='unallocated-schools') {
+						$data['edit'] = 'profile/school/';
+					} else {
+						$data['edit'] = 'profile/' . $this->parts[2] . '/';
+					}
 				}
 
-				$panel = make::tpl('body.admin.users.' . $this->parts[2] . '.row');
+				$panel = make::tpl('body.admin.users.' . $userType . '.row');
 				if (!in_array($this->parts[2],array('affiliate','translator','reseller'))) {
 					if ($data['active'] == 0 && $data['access_allowed'] == 0) {
 						$data['subscription_cancelled'] = 'subscription_cancelled';
@@ -318,24 +327,26 @@ class users extends Controller {
 						$regd = strtotime($thisUser->TableData['registered_dts']['Value']);
 						$verified = ($arrSubscription['verified']==1 ? true : false);
 						//$paid = ($arrSubscription['paid']==1 ? true : false);
-
+						$remaining_days = floor(($expiry - $now) / 86400);
 						if($hasActiveSubscription) {
-							if($regd < $two_weeks_ago && !$verified) {
-								$data['extra_style'] = ' style="background:#FCBCAE;"';
-							} else if( floor(($expiry-$now)/86400) <=30 && $verified) {
-								$data['extra_style'] = ' style="background:#ED6688;"';
-							} else if($regd < $two_weeks_ago && $verified) {
-								$data['extra_style'] = ' style="background:#B8ED9C;"';
-							} else if($regd > $two_weeks_ago && !$verified) {
-								$data['extra_style'] = ' style="background:#FCC52F;"';
-							} else if($verified) {
-								$data['extra_style'] = ' style="background:#bbdfB1;"';
+							$data['extra_style'] ='';
+							if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
+								$data['subscription_cancelled'] = 'expires-within-30-days-pink';
+							} else if ($verified) {
+								$data['subscription_cancelled'] = 'verified-green';
+							} else if ($two_weeks_ago < $regd && !$verified) {
+								$data['subscription_cancelled'] ='two-week-not-verified-orange';
+							} else if ($two_weeks_ago > $regd && !$verified) {
+								$data['subscription_cancelled'] = 'two-week-not-verified-pink';
 							}
 						}
 					}
 				}
 				if(isset($data['school'])) {
 					$data['school'] = stripslashes($data['school']);
+				}
+				if(isset($data['username_open'])) {
+					$data['username_open'] = stripslashes($data['username_open']);
 				}
 				$data['registered_dts'] = date('d/m/Y',strtotime($data['registered_dts']));
 				$panel->assign($data);

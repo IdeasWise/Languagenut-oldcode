@@ -33,36 +33,12 @@ class user extends generic_object {
 
 	public static function getDistinctLocales() {
 		$response	=	false;
-		$userTypes	= array (
-			'school',
-			'schooladmin',
-			'schoolteacher',
-			'student',
-			'homeuser',
-			'affiliate',
-			'reseller',
-			'translator'
-		);
-
-		$where		= '';
-		$parts		= config::get('paths');
-		if(in_array( strtolower( @$parts[2] ), $userTypes ) ) {
-			$where = " AND FIND_IN_SET('".strtolower( $parts[2] )."',`user_type`)";
-		}
-
-		$sql = "SELECT DISTINCT ";
-		$sql.= "`locale` ";
-		$sql.= "FROM ";
-		$sql.= "`user` ";
-		$sql.= "WHERE ";
-		$sql.= "`locale` != '' ";
-		$sql.= $where;
-
-		$result = database::query($sql);
+		$query = "SELECT `prefix` FROM `language` ORDER BY `prefix`";
+		$result = database::query($query);
 		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 			$response = array ();
 			while($row=mysql_fetch_assoc($result)) {
-				$response[] = $row['locale'];
+				$response[] = $row['prefix'];
 			}
 		}
 		return $response;
@@ -80,6 +56,10 @@ class user extends generic_object {
 		} else if (isset($parts[2]) && $parts[2] == 'school') {
 
 			return $this->getSchoolList( $all, $parts );
+
+		}  else if (isset($parts[2]) && $parts[2] == 'unallocated-schools') {
+
+			return $this->getSchoolList( $all, $parts, true );
 
 		} else if (isset($parts[2]) && $parts[2] == 'schooladmin') {
 
@@ -202,7 +182,7 @@ class user extends generic_object {
 		return database::arrQuery($query);
 	}
 
-	private function getSchoolList( $all = false, $parts = array() ) {
+	private function getSchoolList( $all = false, $parts = array(), $unAllocatedSchools=false ) {
 		/* if admin user performs search then query will look following fields form profile. */
 		$Fields		= array();
 		$Fields[]	= '`SC`.`name`';
@@ -214,6 +194,9 @@ class user extends generic_object {
 		$where = $this->QueryWhere($parts, $Fields);
 		$where .= " AND FIND_IN_SET('school',`U`.`user_type`)";
 		$where .= " AND `U`.`uid` = `SC`.`user_uid`";
+		if($unAllocatedSchools) {
+			$where .= " AND `SC`.`tracking_code`='' ";
+		}
 
 		if(isset($_REQUEST['from']) && isset($_REQUEST['to']) && !empty($_REQUEST['from']) && !empty($_REQUEST['to'])) {
 			if(strpos($_REQUEST['to'],"/p-") !== false) {
@@ -1977,6 +1960,78 @@ class user extends generic_object {
 			return $body->get_content();
 		}
 		return 'Users not found.';
+	}
+
+	public function getUserPackage() {
+		$arrSupportLanguages = array();
+		if(isset($_SESSION['user']['uid']) && isset($_SESSION['user']['school_uid'])) {
+			if(isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']=='student') {
+				$query ="SELECT ";
+				$query.="`support_language_uid` ";
+				$query.="FROM ";
+				$query.="`student_packages` ";
+				$query.="WHERE ";
+				$query.="`student_user_uid`='".$_SESSION['user']['uid']."' ";
+				$query.="AND ";
+				$query.="`school_uid`='".$_SESSION['user']['school_uid']."' AND ";
+				$query.="`removed_by_uid`='0' ";
+				$query.="AND ";
+				$query.="`assigned_by_uid`!='0' ";
+				$query.="GROUP BY ";
+				$query.="`support_language_uid` ";
+				$result = database::query($query);
+				if(mysql_error()=='' && mysql_num_rows($result)) {
+					while($arrRow = mysql_fetch_array($result)) {
+						$arrSupportLanguages[] = $arrRow['support_language_uid'];
+					}
+				}
+
+				if(isset($_SESSION['user']['class_uid'])) {
+					$query ="SELECT ";
+					$query.="`support_language_uid` ";
+					$query.="FROM ";
+					$query.="`class_packages` ";
+					$query.="WHERE ";
+					$query.="`class_uid`='".$_SESSION['user']['class_uid']."' ";
+					$query.="AND ";
+					$query.="`school_uid`='".$_SESSION['user']['school_uid']."' AND ";
+					$query.="`removed_by_uid`='0' ";
+					$query.="AND ";
+					$query.="`assigned_by_uid`!='0' ";
+					$query.="GROUP BY ";
+					$query.="`support_language_uid` ";
+					$result = database::query($query);
+					if(mysql_error()=='' && mysql_num_rows($result)) {
+						while($arrRow = mysql_fetch_array($result)) {
+							$arrSupportLanguages[] = $arrRow['support_language_uid'];
+						}
+					}
+				}
+			} else {
+					$query ="SELECT ";
+					$query.="`support_language_uid` ";
+					$query.="FROM ";
+					$query.="`school_packages` ";
+					$query.="WHERE ";
+					$query.="`school_uid`='".$_SESSION['user']['school_uid']."' ";
+					$query.="AND ";
+					$query.="`canclled_by_uid`='0' ";
+					$query.="AND ";
+					$query.="`approved_by_uid`!='0' ";
+					$query.="GROUP BY ";
+					$query.="`support_language_uid` ";
+					$result = database::query($query);
+					if(mysql_error()=='' && mysql_num_rows($result)) {
+						while($arrRow = mysql_fetch_array($result)) {
+							$arrSupportLanguages[] = $arrRow['support_language_uid'];
+						}
+					}
+			}
+		}
+		if(count($arrSupportLanguages)) {
+			return array_unique($arrSupportLanguages);
+		}
+		return array(14);
 	}
 }
 

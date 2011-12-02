@@ -578,7 +578,7 @@ class users_schools extends generic_object {
 				$header .="\nContent-Type: text/html; charset=utf-8";
 				$header .="\nFrom: info@languagenut.com";
 
-				mail('tech@languagenut.com', $subject, $body, $header);
+				mail('support@languagenut.com', $subject, $body, $header);
 				mail('jamie@languagenut.com', $subject, $body, $header);
 				mail('dev@mystream.co.uk', $subject, $body, $header);
 				mail('swyam.joshi@latitudetechnolabs.com', $subject, $body, $header);
@@ -962,7 +962,7 @@ class users_schools extends generic_object {
 			$resultTeacher = database::query($query);
 			if(mysql_error()=='' && mysql_num_rows($resultTeacher)) {
 				while($arrRow=mysql_fetch_array($resultTeacher)) {
-					$arrTeacher[$arrRow['iuser_uid']] = $arrRow['vfirstname'].' '.$arrRow['vfirstname'];
+					$arrTeacher[$arrRow['iuser_uid']] = $arrRow['vfirstname'].' '.$arrRow['vlastname'];
 				}
 			}
 		}

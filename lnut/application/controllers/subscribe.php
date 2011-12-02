@@ -271,8 +271,205 @@ class Subscribe extends Controller {
 		$method = 'show_school_stage_' . $stage;
 		$this->$method();
 	}
-
+	
 	protected function show_school_stage_1() {
+		//mail('andrew.whitfield@yahoo.co.uk','test','test','From: dev@mystream.co.uk');
+		
+		/**
+		 * Bring in ReCaptcha
+		 */
+		$recaptcha = new component_recaptchalib();
+		/**
+		 * Fetch the page data from the database for this given locale
+		 */
+		$objSchoolStage = new page_subscribe_school_stages_translations();
+		list($arrErrors, $arrMessage, $form) = $objSchoolStage->subscribeValidation();
+
+		$objSchoolStage1 = new page_subscribe_school_stage_1_translations();
+		$objSchoolStage1->load(array(), array('locale' => $this->locale));
+		$objSchoolStage2 = new page_subscribe_school_stage_2_translations();
+		$objSchoolStage2->load(array(), array('locale' => $this->locale));
+		$objSchoolStage3 = new page_subscribe_school_stage_3_translations();
+		$objSchoolStage3->load(array(), array('locale' => $this->locale));
+
+		$arrStageInfo = array();
+		if (isset($objSchoolStage2->TableData['locale']['Value']) && $objSchoolStage2->TableData['locale']['Value'] != '') {
+			foreach ($objSchoolStage2->TableData as $IDX => $VAL) {
+				$arrStageInfo[$IDX] = $VAL['Value'];
+			}
+		}
+		if (isset($objSchoolStage3->TableData['locale']['Value']) && $objSchoolStage3->TableData['locale']['Value'] != '') {
+			foreach ($objSchoolStage3->TableData as $IDX => $VAL) {
+				$arrStageInfo[$IDX] = $VAL['Value'];
+			}
+		}
+		// keep Stage1 assignment last because some variable is common like introtext, explaination etc..
+		// and there is no explaination in stage 2 and 3 so if we wan to take explaination from stage 1 need to keep it last
+
+		if (isset($objSchoolStage1->TableData['locale']['Value']) && $objSchoolStage1->TableData['locale']['Value'] != '') {
+			foreach ($objSchoolStage1->TableData as $IDX => $VAL) {
+				$arrStageInfo[$IDX] = $VAL['Value'];
+			}
+		}
+
+		$background_url = '';
+		$title_url = '';
+		$title_alt = '';
+		$intro_text = '';
+		$recaptcha_text = '';
+		$promo_text = '';
+		$accept_terms = '';
+
+		if (count($arrStageInfo) > 0) {
+			$background_url = $arrStageInfo['background_url'];
+			$title_url = $arrStageInfo['title_url'];
+			$title_alt = stripslashes($arrStageInfo['title_alt']);
+			$intro_text = stripslashes($arrStageInfo['intro_text']);
+			$recaptcha_text = stripslashes($arrStageInfo['recaptcha_text']);
+			$promo_text = stripslashes($arrStageInfo['promo_text']);
+			$accept_terms = str_replace(
+							array(
+								'{link:terms}',
+								'{link:privacy}'
+							),
+							array(
+								config::url('terms/'),
+								config::url('privacy/')
+							),
+							stripslashes($arrStageInfo['accept_terms']
+					));
+
+			$send_updates = stripslashes($arrStageInfo['send_updates']);
+			$emails_not_to_3rd_party = stripslashes($arrStageInfo['emails_not_to_3rd_party']);
+
+			$label_name = stripslashes($arrStageInfo['label_your_name']);
+			$label_phone_number = stripslashes($arrStageInfo['label_phone_number']);
+			$label_email = stripslashes($arrStageInfo['label_email']);
+			$label_password = stripslashes($arrStageInfo['label_password']);
+			$label_repeat_password = stripslashes($arrStageInfo['label_repeat_password']);
+			$label_which_reseller = stripslashes($arrStageInfo['which_reseller']);
+			$label_please_retype_captcha = stripslashes($arrStageInfo['label_please_retype_captcha']);
+			$title_problems_with_form = stripslashes($arrStageInfo['title_problems_with_form']);
+
+			$label_school_name = stripslashes($arrStageInfo['label_school_name']);
+			$label_school_address = stripslashes($arrStageInfo['label_school_address']);
+			$label_school_postcode = stripslashes($arrStageInfo['label_school_postcode']);
+
+			$label_whole_school_username = stripslashes($arrStageInfo['label_whole_school_username']);
+			$label_whole_school_password = stripslashes($arrStageInfo['label_whole_school_password']);
+
+			$reseller_code_uids = '';
+
+/*
+			$query = "SELECT `uid`,`show_reseller_codes` FROM `language` WHERE `prefix`='".$this->locale."' LIMIT 1";
+			$result = database::query($query);
+
+			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+				$row = mysql_fetch_assoc($result);
+				if($row['show_reseller_codes']==1) {
+					$reseller_code_uids.='<option>Please Select</option>';
+					$query = "SELECT `uid`, `name` FROM `language_reseller_codes` WHERE `language_uid`='".$row['uid']."' ORDER BY `name` ASC";
+					$result = database::query($query);
+
+					if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+						while($row = mysql_fetch_assoc($result)) {
+							$reseller_code_uids.='<option value="'.$row['uid'].'">'.stripslashes($row['name']).'</option>';
+						}
+					}
+				} else {
+					$label_which_reseller = '';
+				}
+			}
+*/
+			/**
+			 * Fetch the page details
+			 */
+			$page = new page('subscribe');
+
+			/**
+			 * Fetch the body content
+			 */
+			$signType = ($this->type == "schoolsubscribe") ? "1" : "0";
+
+			$body = new xhtml('body.subscribe.school.stages');
+			$body->load();
+			$body->assign(
+				array(
+					'errors'								=> $arrMessage,
+					'type'									=> $this->type,
+					'translate.back_to_homepage'			=> '',
+					'title_url'								=> $title_url,
+					'title_alt'								=> $title_alt,
+					'intro_text'							=> $intro_text,
+					'locale'								=> $this->locale . '/',
+					'name'									=> $form['name']['value'],
+					'highlight:name'						=> ($form['name']['error'] ? ' class="highlighted"' : ''),
+					'phone_number'							=> $form['phone_number']['value'],
+					'highlight:phone_number'				=> ($form['phone_number']['error'] ? ' class="highlighted"' : ''),
+					'email'									=> $form['email']['value'],
+					'highlight:email'						=> ($form['email']['error'] ? ' class="highlighted"' : ''),
+					'highlight:password1'					=> ($form['password1']['error'] ? ' class="highlighted"' : ''),
+					'highlight:password2'					=> ($form['password2']['error'] ? ' class="highlighted"' : ''),
+					'captcha'								=> $recaptcha->recaptcha_get_html(null),
+					'translate.captchatext'					=> $recaptcha_text,
+					'translate.use_promo_code'				=> $promo_text,
+					'promo_code'							=> $form['promo_code']['value'],
+					'highlight:promo_code'					=> '',
+					'translate.accept_terms'				=> $accept_terms,
+					'translate.send_updates'				=> $send_updates,
+					'translate.emails_not_to_3rd_party'		=> $emails_not_to_3rd_party,
+					'school_name'							=> ($form['school_name']['value']) ? $form['school_name']['value'] : "",
+					'highlight:school_name'					=> ($form['school_name']['error'] ? ' class="highlighted"' : ''),
+					'school_address'						=> ($form['school_address']['value']) ? $form['school_address']['value'] : "",
+					'highlight:school_address'				=> ($form['school_address']['error'] ? ' class="highlighted"' : ''),
+					'school_postcode'						=> ($form['school_postcode']['value']) ? $form['school_postcode']['value'] : "",
+					'highlight:school_postcode'				=> ($form['school_postcode']['error'] ? ' class="highlighted"' : ''),
+					'username_open'							=> ($form['username_open']['value']) ? $form['username_open']['value'] : "",
+					'highlight:username_open'				=> ($form['username_open']['error'] ? ' class="highlighted"' : ''),
+					'password_open'							=> ($form['password_open']['value']) ? $form['password_open']['value'] : "",
+					'highlight:password_open'				=> ($form['password_open']['error'] ? ' class="highlighted"' : ''),
+					'translate.label_name'					=> $label_name,
+					'translate.label_phone_number'			=> $label_phone_number,
+					'translate.label_email'					=> $label_email,
+					'translate.label_password'				=> $label_password,
+					'translate.label_repeat_password'		=> $label_repeat_password,
+					'translate.label_please_retype_captcha'	=> $label_please_retype_captcha,
+					'translate.title_problems_with_form'	=> $title_problems_with_form,
+					'translate.label_school_name'			=> $label_school_name,
+					'translate.label_school_address'		=> $label_school_address,
+					'translate.label_school_postcode'		=> $label_school_postcode,
+					'translate.label_whole_school_username' => $label_whole_school_username,
+					'translate.label_whole_school_password' => $label_whole_school_password,
+					'translate.which_reseller'				=> $label_which_reseller,
+					'reseller_code_uids'					=> $reseller_code_uids,
+					'signtype'								=> $signType
+				)
+			);
+
+
+			/**
+			 * Fetch the standard public xhtml page template
+			 */
+			$skeleton = new xhtml('skeleton.subscribe');
+			$skeleton->load();
+			$skeleton->assign(
+					array(
+						'title' => $page->title(),
+						'keywords' => $page->keywords(),
+						'description' => $page->description(),
+						'body' => $body,
+//						'body' => $bodyContent . $body2Content . $body3Content,
+						'background_url' => 'registration_bg.en.jpg'
+					)
+			);
+			output::as_html($skeleton, true);
+		} else {
+			output::redirect(config::url());
+		}
+	}
+
+
+	protected function show_school_stage_1_old() {
 		//mail('andrew.whitfield@yahoo.co.uk','test','test','From: dev@mystream.co.uk');
 		/**
 		 * Bring in ReCaptcha

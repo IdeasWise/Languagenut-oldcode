@@ -7,7 +7,7 @@ class component_search {
 		$paths = config::get('paths');
 
 		if(isset($_POST['search_button']) || isset($_POST['ResetSearch'])) {
-			if(isset($_POST['find']) && trim($_POST['find']) != '' && isset($data['section'])) {
+			if(((isset($_POST['find']) && trim($_POST['find']) != '') || (isset($_POST['search_from']) && isset($_POST['search_to']) && trim($_POST['search_from'])!='' && trim($_POST['search_to'])!='') ) && isset($data['section'])) {
 				$locale = '';
 				if(	isset($paths[3]) && language::CheckLocale($paths[3], false) != false) {
 					$locale = $paths[3].'/';
@@ -17,7 +17,32 @@ class component_search {
 						component_search::Redirect('/users/list/'.$locale.'?find='.trim($_POST['find']));
 					break;
 					case 'school':
-						component_search::Redirect('/users/school/'.$locale.'?find='.trim($_POST['find']));
+						$search ='';
+						if(trim($_POST['find'])!='') {
+							$search.='find='.trim($_POST['find']);
+						}
+						if(isset($_POST['search_from']) && isset($_POST['search_to']) && trim($_POST['search_from'])!='' && trim($_POST['search_to'])!='') {
+							$from	= date('Y-m-d');
+							$to		= $from;
+							$explode = explode('/',$_POST['search_from']);
+							if(count($explode)==3) {
+								$from = $explode[2].'-'.$explode[0].'-'.$explode[1];
+							}
+							$explode = explode('/',$_POST['search_to']);
+							if(count($explode)==3) {
+								$to = $explode[2].'-'.$explode[0].'-'.$explode[1];
+							}
+							if($search!='') {
+								$search.='&from='.$from;
+							} else {
+								$search.='from='.$from;
+							}
+							$search.='&to='.$to;
+						}
+						component_search::Redirect('/users/school/'.$locale.'?'.$search);
+					break;
+					case 'unallocated-schools':
+						component_search::Redirect('/users/unallocated-schools/'.$locale.'?find='.trim($_POST['find']));
 					break;
 					case 'schooladmin':
 						component_search::Redirect('/users/schooladmin/'.$locale.'?find='.trim($_POST['find']));
@@ -42,6 +67,7 @@ class component_search {
 				}
 			}		
 		}
+		/*
 		if(isset($_POST['date_search']) && isset($_POST['search_from'])  && isset($_POST['search_to']) && $data['section']=='school') {
 			$from	= date('Y-m-d');
 			$to		= $from;
@@ -55,6 +81,7 @@ class component_search {
 			}
 			component_search::Redirect('/users/school/'.$locale.'?from='.$from.'&to='.$to);
 		}
+		*/
 
 		if(isset($_POST['ResetSearch'])) {
 			$locale = '';
@@ -67,6 +94,9 @@ class component_search {
 				break;
 				case 'school':
 					component_search::Redirect('/users/school/'.$locale);
+				break;
+				case 'unallocated-schools':
+					component_search::Redirect('/users/unallocated-schools/'.$locale);
 				break;
 				case 'schooladmin':
 					component_search::Redirect('/users/schooladmin/'.$locale);
@@ -91,11 +121,18 @@ class component_search {
 			}
 		}
 		if(isset($data['section']) && $data['section'] == 'school') {
-			$panel = new xhtml('body.component.search.school.form');
+			$arrSearch =array(
+				'find'			=>(isset($_GET['find']))?$_GET['find']:'',
+				'search_from'	=>(isset($_GET['from']) && trim($_GET['from'])!='')?date('m/d/Y',strtotime($_GET['from'])):'',
+				'search_to'		=>(isset($_GET['to']) && trim($_GET['to'])!='')?date('m/d/Y',strtotime($_GET['to'])):''
+			);
+			$panel = make::tpl('body.component.search.school.form')->assign($arrSearch);
 		} else {
-			$panel = new xhtml('body.component.search.form');
+			$arrSearch =array(
+				'find'			=>(isset($_GET['find']))?$_GET['find']:''
+			);
+			$panel = make::tpl('body.component.search.form')->assign($arrSearch);
 		}
-		$panel->load();
 		return $panel->get_content();
 	}
 
