@@ -6,7 +6,7 @@
 		<script type="text/javascript" src="http://js.languagenut.com/swfaddress.js"></script>
 		<script type="text/javascript" src="http://www.languagenut.com/scripts/jquery-1.4.2.min.js"></script>
 		<script type="text/javascript">
-			var flashvars = {
+			/*var flashvars = {
 				// original
 				swf_url: "{{ base }}{{ swf }}/LanguageNutNew.swf",
 				runtime_url : "{{ base }}{{ swf }}/runtime/",
@@ -49,7 +49,31 @@
 			swfobject.embedSWF("{{ base }}{{ swf }}/PreLoader.swf", "myContent", "100%", "100%", "9.0.9", "{{ base }}swf/expressInstall.swf", flashvars, params, attributes);
 
 			// new
-			//swfobject.embedSWF("http://swf.languagenut.com/site/PreLoader.swf", "myContent", "100%", "100%", "9.0.9", "{{ base }}swf/expressInstall.swf", flashvars, params, attributes);
+			//swfobject.embedSWF("http://swf.languagenut.com/site/PreLoader.swf", "myContent", "100%", "100%", "9.0.9", "{{ base }}swf/expressInstall.swf", flashvars, params, attributes);*/
+			
+			var flashvars = {
+				swf_url: "{{ base }}swf/LanguageNutNew.swf",
+				config_script: "{{ uri }}loader_support/",
+				unit_section_script: "{{ uri }}unitsection/",
+				game_script: "{{ uri }}games/",
+				printables_script: "{{ uri }}printables/",
+				subscribe_url: "{{ uri }}subscribe/",
+				support_language_id: {{ support_language_id }},
+				image_url:"{{ base }}swf/pictures/",
+				audio_url:"{{ base }}swf/mp3/",
+				home_url : "{{ uri }}",
+				site_map : "{{ sitemap }}"
+		   };
+			var params = {
+				allowfullscreen: "true",
+				allowScriptAccess: "always"
+			};
+
+			var attributes = {
+				id:"website" 
+			};
+
+			swfobject.embedSWF("{{ base }}swf/LanguageNutNew.swf", "myContent", "100%", "100%", "9.0.0", "{{ base }}swf/expressInstall.swf", flashvars, params, attributes);
 		</script>
 
 		<style type="text/css">
