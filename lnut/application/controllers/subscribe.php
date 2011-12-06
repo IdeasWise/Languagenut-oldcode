@@ -384,14 +384,23 @@ class Subscribe extends Controller {
 			/**
 			 * Fetch the page details
 			 */
-			$page = new page('subscribe');
+			$page = new page('subscribe.'.$this->locale);
 
 			/**
 			 * Fetch the body content
 			 */
 			$signType = ($this->type == "schoolsubscribe") ? "1" : "0";
 
-			$body = new xhtml('body.subscribe.school.stages');
+			//$body = new xhtml('body.subscribe.school.stages');
+			// new template
+			$tpl = 'body.subscribe.school.stages';
+			$skeleton_tpl = 'skeleton.subscribe';
+			if(in_array($this->locale,array('en','us','ca','nz','au'))) {
+				$tpl = 'body.subscribe.school.'.$this->locale;
+				$skeleton_tpl = 'skeleton.landing';
+			}
+
+			$body = new xhtml($tpl);
 			$body->load();
 			$body->assign(
 				array(
@@ -450,7 +459,9 @@ class Subscribe extends Controller {
 			/**
 			 * Fetch the standard public xhtml page template
 			 */
-			$skeleton = new xhtml('skeleton.subscribe');
+			//$skeleton = new xhtml('skeleton.subscribe');
+			// new skelton
+			$skeleton = new xhtml($skeleton_tpl);
 			$skeleton->load();
 			$skeleton->assign(
 					array(
@@ -459,7 +470,8 @@ class Subscribe extends Controller {
 						'description' => $page->description(),
 						'body' => $body,
 //						'body' => $bodyContent . $body2Content . $body3Content,
-						'background_url' => 'registration_bg.en.jpg'
+						'background_url' => 'registration_bg.en.jpg',
+						'pageID' => 'register'
 					)
 			);
 			output::as_html($skeleton, true);

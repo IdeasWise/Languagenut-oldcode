@@ -311,7 +311,7 @@ class page_subscribe_school_stages_translations extends generic_object {
 
 			if (count($errors) > 0) {
 				$message = '<div class="errors">';
-				$message.= '<p><img src="' . config::images('problem.png') . '" alt="' . config::translate('form.invalid') . '" /></p>';
+				$message.= '<p><img src="' . config::cdn_locale_images('problem.png') . '" alt="' . config::translate('form.invalid') . '" /></p>';
 				$message.= '<p>' . config::translate('form.correct-errors') . '</p>';
 				$message.= '<ul>';
 				$message.= '<li>' . implode('</li><li>', $errors) . '</li>';

@@ -117,7 +117,8 @@ class config {
 	}
 
 	public static function styles($path = '') {
-		return self::base('styles/' . self::$data['locale'] . '/' . $path);
+		//return self::base('styles/' . self::$data['locale'] . '/' . $path);
+		return 'http://css.languagenut.com/'.self::$data['locale'].'/' . $path;
 	}
 
 	public static function styles_common($path = '') {
@@ -125,7 +126,9 @@ class config {
 	}
 
 	public static function images($path = '') {
-		return self::base('images/' . self::$data['locale'] . '/' . $path);
+		//return self::base('images/' . self::$data['locale'] . '/' . $path);
+		return self::cdn_locale_images($path);
+
 	}
 
 	public static function images_common($path = '') {
@@ -161,11 +164,11 @@ class config {
 	}
 
 	public static function cache_common($path = '') {
-		return self::get('root').'/cache/' . $path.'/';
+		return self::get('cache'). $path.'/';
 	}
 
 	public static function cache_xml() {
-		return self::get('root').'/cache/xml/';
+		return self::get('cache').'xml/';
 	}
 
 	public static function translate($tag=null) {
@@ -305,6 +308,8 @@ class core {
 		config::set('cdn_url','http://images.languagenut.com/');
 		config::set('PRD',($_SERVER['DOCUMENT_ROOT'] == '/var/www/vhosts/languagenut.com/' ? true : false));
 		config::set('cache','/var/www/cache/');
+		config::set('pdf_images',$_SERVER['DOCUMENT_ROOT'].'/images/pdf/');
+
 
 
 	}
