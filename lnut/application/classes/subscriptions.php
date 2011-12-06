@@ -649,7 +649,7 @@ class subscriptions extends generic_object {
 							$school_address = $row['address'].", ".$row['postcode'];
 							$phone = $row['phone_number'];
 
-							$query = "SELECT `email` FROM `user` WHERE `uid`=".$arrFields['user_uid']['value']." LIMIT 1";
+							$query = "SELECT `email` FROM `user` WHERE `uid`=".$user_uid." LIMIT 1";
 							$result = database::query($query);
 							if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 								$row = mysql_fetch_assoc($result);
