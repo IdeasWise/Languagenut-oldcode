@@ -81,7 +81,11 @@ class API_Medals extends Controller {
 		$query.="`gamescore` AS `GS`, ";
 		$query.="`game` AS `G` ";
 		$query.="WHERE ";
+		$query.="`G`.`uid`=`GS`.`game_uid` ";
+		$query.="AND ";
 		$query.="`user_uid` = '".mysql_real_escape_string($user_uid)."' ";
+		$query.="AND ";
+		$query.="`user_uid` != '0' ";
 		$query.="AND ";
 		$query.="`language_uid` = '".mysql_real_escape_string($language_uid)."' ";
 		$query.="AND ";
@@ -91,19 +95,20 @@ class API_Medals extends Controller {
 		$query.="GROUP BY ";
 		$query.="`GS`.`section_uid`, ";
 		$query.="`G`.`uid`";
-		echo $query.="ORDER BY `GS`.`section_uid` ";
+		$query.="ORDER BY `GS`.`section_uid` ";
 
 		$result = database::query($query);
 
 		$arrSections= array();
 		$arrJson	= array();
+		$arrGames	= array();
 		$array_index=0;
 		if(mysql_error() == '' && mysql_num_rows($result)) {
 			while($arrRow=mysql_fetch_array($result)) {
 				if(!in_array($arrRow['section_uid'],$arrSections)) {
 					$arrSections[] = $arrRow['section_uid'];
-					$array_index = count($arrJson);
-					$arrJson[] = array(
+					$array_index = count($arrGames);
+					$arrGames[] = array(
 						'section_uid'	=>$arrRow['section_uid'],
 						'medals'		=>array()
 					);
@@ -117,22 +122,91 @@ class API_Medals extends Controller {
 					$medalToken='bronze.medal';
 				}
 
-				$arrJson[$array_index]['medals'][] = array(
+				$arrGames[$array_index]['medals'][] = array(
 					'game_uid'		=>$arrRow['g_uid'],
 					//'game_name'		=>$arrRow['name'],
 					'game_score'	=>$arrRow['score'],
 					'medal'			=>$medalToken
 				);
-				
-				
 			}
 		}
 
-		if(count($arrJson)) {
+		$query ="SELECT ";
+		$query.="( ";
+			$query.="SELECT ";
+			$query.="CONCAT(`QS`.`task_difficulty_uid`,'-',`QS`.`score`) ";
+			$query.="FROM ";
+			$query.="`qae_score` AS `QS` ";
+			$query.="WHERE ";
+			$query.="`QS`.`difficulty_level_uid`=`MainQS`.`difficulty_level_uid` ";
+			$query.="AND ";
+			$query.="`QS`.`support_language_uid`='".mysql_real_escape_string($language_uid).")' ";
+			$query.="AND ";
+			$query.="`QS`.`unit_uid` = '".mysql_real_escape_string($unit_uid)."' ";
+				if($user_uid!=null) {
+				$query.="AND ";
+				$query.="`QS`.`user_uid` = '".mysql_real_escape_string($user_uid)."' ";
+			}
+			$query.="ORDER BY  ";
+			$query.="`QS`.`score` DESC  ";
+			$query.="LIMIT 0,1";
+		$query.=") AS `Res`";
+		$query.="FROM  ";
+		$query.="`qae_score` AS `MainQS` ";
+		$query.="WHERE ";
+		$query.="`MainQS`.`support_language_uid`='".mysql_real_escape_string($language_uid)."' ";
+		$query.="AND ";
+		$query.="`MainQS`.`unit_uid` = '".mysql_real_escape_string($unit_uid)."' ";
+
+		if($user_uid!=null) {
+			$query.="AND ";
+			$query.="`MainQS`.`user_uid` = '".mysql_real_escape_string($user_uid)."' ";
+		}
+		$query.="GROUP BY ";
+		$query.="`difficulty_level_uid` ";
+
+		$result = database::query($query);
+		$arrQae = array();
+		if(mysql_error() == '' && mysql_num_rows($result)) {
+			while($arrRow = mysql_fetch_array($result)) {
+				$task_difficulty_uid = 0;
+				$score = 0;
+				list(
+					$task_difficulty_uid,
+					$score
+				) = explode('-',$arrRow['Res']);
+				
+				$medalToken='';
+				if($score >= 85) {
+					$medalToken='gold.medal';
+				} else if($score >= 70) {
+					$medalToken='silver.medal';
+				} else if($score >= 50) {
+					$medalToken='bronze.medal';
+				}
+				$arrQae[] = array(
+					'task_difficulty_uid'	=>$task_difficulty_uid,
+					'score'					=>$score,
+					'medal'					=>$medalToken
+				);
+			}
+		}
+
+
+
+		if(count($arrGames)) {
 			echo json_encode(
 				array(
-					'unit_uid'=>$unit_uid,
-					'sections'=>$arrJson
+					'unit_uid'		=>$unit_uid,
+					'language_uid'	=>$language_uid,
+					'medals'=>array(
+						'games'=>array(
+							'sections'		=>$arrGames
+						),
+						'tasks'=>array(
+							'qae'=>$arrQae
+						)
+					)
 				)
 			);
 		} else {

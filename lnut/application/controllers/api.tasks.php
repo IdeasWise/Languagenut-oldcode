@@ -107,12 +107,33 @@ class API_Tasks extends Controller {
 				}
 			}
 
+			$query ="SELECT ";
+			$query.="`uid`, ";
+			$query.="`name`, ";
+			$query.="`task_category_uid` ";
+			$query.="FROM ";
+			$query.="`task_category_translation` ";
+			$query.="WHERE ";
+			$query.="`language_uid`='".$_REQUEST['language_uid']."'";
+			$result = database::query($query);
+			$arrCategory = array();
+			if(mysql_error() == '' && mysql_num_rows($result)) {
+				while($arrRow = mysql_fetch_array($result)) {
+					$arrCategory[] = array(
+						'uid'	=>	$arrRow['uid'],
+						'name'	=>	$arrRow['name'],
+						'task_category_uid'	=>	$arrRow['task_category_uid']
+					);
+				}
+			}
+
 			echo json_encode(
 				array(
 					'difficulties'	=> $arrDifficulty,
 					'skills'		=> $arrSkill,
-					'exerciseTypes'	=> $arrExerciseType,
-					'referenceTypes'=> $arrReferenceTypes
+					'activityTypes'	=> $arrExerciseType,
+					'referenceTypes'=> $arrReferenceTypes,
+					'taskCategories'=> $arrCategory
 				)
 			);
 		} else {
@@ -201,14 +222,189 @@ class API_Tasks extends Controller {
 			}
 		}
 
+		$query ="SELECT ";
+		$query.="`uid`, ";
+		$query.="`name`, ";
+		$query.="`token` ";
+		$query.="FROM ";
+		$query.="`task_category` ";
+		$result = database::query($query);
+		$arrCategory = array();
+		if(mysql_error() == '' && mysql_num_rows($result)) {
+			while($arrRow = mysql_fetch_array($result)) {
+				$arrCategory[] = array(
+					'uid'	=>	$arrRow['uid'],
+					'name'	=>	$arrRow['name'],
+					'token'	=>	$arrRow['token']
+				);
+			}
+		}
+
+
+		/*
+		echo '<pre>';
+		print_r(array(
+				'difficulties'	=> $arrDifficulty,
+				'skills'		=> $arrSkill,
+				'activityTypes'	=> $arrExerciseType,
+				'referenceTypes'=> $arrReferenceTypes
+		));
+		echo '</pre>';
+		*/
+
 		echo json_encode(
 			array(
 				'difficulties'	=> $arrDifficulty,
 				'skills'		=> $arrSkill,
-				'exerciseTypes'	=> $arrExerciseType,
-				'referenceTypes'=> $arrReferenceTypes
+				'activityTypes'	=> $arrExerciseType,
+				'referenceTypes'=> $arrReferenceTypes,
+				'taskCategories'=> $arrCategory
 			)
 		);
+
+	}
+	//-> /api/tasks/get/tasksForUnitSkill/?skill_uid=XX&unit_uid=XX
+	private function gettasksForUnitSkill() {
+		if(isset($_REQUEST['unit_uid']) && isset($_REQUEST['skill_uid'])) {
+			$query ="SELECT ";
+			$query.="`uid` ";
+			$query.="FROM ";
+			$query.="`task` ";
+			$query.="WHERE ";
+			$query.="`unit_uid`='".mysql_real_escape_string($_REQUEST['unit_uid'])."' ";
+			$query.="AND ";
+			$query.="`skill_uid`='".mysql_real_escape_string($_REQUEST['skill_uid'])."' ";
+			$query.="AND ";
+			$query.="`active`='1' ";
+			$result = database::query($query);
+			$arrTasks = array();
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				while($arrRow = mysql_fetch_array($result)) {
+					$arrTasks[] = $arrRow['uid'];
+				}
+			}
+			$arrJson = array(
+				'skill_uid'	=> $_REQUEST['skill_uid'],
+				'unit_uid'	=> $_REQUEST['unit_uid'],
+				'tasks'		=> $arrTasks
+			);
+			echo json_encode($arrJson);
+		} else {
+			echo json_encode(
+				array('success'=>'false')
+			);
+		}
+
+	}
+	// -> /api/tasks/get/task/?task_uid=XX
+	private function getTask() {
+		$arrJson = array('success'=>'false');
+		if(isset($_REQUEST['task_uid']) && is_numeric($_REQUEST['task_uid'])) {
+			$query ="SELECT ";
+			$query.="* ";
+			$query.="FROM ";
+			$query.="`task` ";
+			$query.="WHERE ";
+			$query.="`uid`='".mysql_real_escape_string($_REQUEST['task_uid'])."' ";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$arrTask = mysql_fetch_array($result);
+				$arrJson = array();
+				$arrJson['task_uid']			= $arrTask['uid'];
+				$arrJson['title']				= $arrTask['name'];
+				$arrJson['task_category_uid']	= $arrTask['task_category_uid'];
+				$arrJson['unit_uid']			= $arrTask['unit_uid'];
+				$arrJson['skill_uid']			= $arrTask['skill_uid'];
+				$arrJson['activity_type_uid']	= $arrTask['activity_type_uid'];
+				$arrJson['reference_type_uid']	= $arrTask['reference_type_uid'];
+
+				$query ="SELECT ";
+				$query.="`token` ";
+				$query.="FROM ";
+				$query.="`reference_material_type` ";
+				$query.="WHERE ";
+				$query.="`uid`='".$arrTask['reference_type_uid']."' ";
+				$result2 = database::query($query);
+				$arrReference = array();
+				if(mysql_error()=='' && mysql_num_rows($result2)) {
+					$arrReference = mysql_fetch_array($result2);
+				}
+
+				if(isset($arrReference['token']) && ($arrReference['token']=='song' || $arrReference['token']=='story')) {
+					$arrJson['reference_data']	= array(
+						'unit_uid'	=>$arrTask['unit_uid'],
+						'key'		=>$arrTask['reference_key']
+					);
+				} else if($arrTask['reference_data_uid']>0) {
+					$arrJson['reference_data']	= $arrTask['reference_data_uid'];
+				}
+				$arrJson['exercises']			= array();
+
+				/*
+				$query ="SELECT ";
+				$query.="`TD`.*, ";
+				$query.="`QAE`.`qae_uid` ";
+				$query.="FROM ";
+				$query.="`task_difficulty` AS `TD`, ";
+				$query.="`task_exercise_qae_topic` AS `QAE` ";
+				$query.="WHERE ";
+				$query.="`TD`.`task_uid` = '".$arrTask['uid']."' ";
+				$query.="AND ";
+				$query.="`TD`.`uid` = `task_difficulty_uid` ";
+				$query.="ORDER BY ";
+				$query.="`difficulty_uid` ";
+				*/
+				$query ="SELECT ";
+				$query.="* ";
+				$query.="FROM ";
+				$query.="`task_difficulty` ";
+				$query.="WHERE ";
+				$query.="`task_uid` = '".$arrTask['uid']."' ";
+				$query.="ORDER BY ";
+				$query.="`difficulty_uid` ";
+
+				$resultTaskDifficulty = database::query($query);
+				if(mysql_error()=='' && mysql_num_rows($resultTaskDifficulty)) {
+					while($arrRow=mysql_fetch_array($resultTaskDifficulty)) {
+						$arrJson['exercises'][] = array(
+							'difficulty_uid'		=>$arrRow['difficulty_uid'],
+							'task_difficulty_uid'	=>$arrRow['uid'],
+							'activity_data'			=>$arrRow['activity_data']
+						);
+					}
+				}
+			}
+		}
+		echo json_encode($arrJson);
+	}
+	private function getTask_old() {
+		$arrJson = array(
+			'task_uid'		=> 1,
+			'title'			=> 'Reading 1',
+			'refereneType'	=> 'article',
+			'referenceData'	=> 2,
+			'skill_uid'		=> 1,
+			'unit_uid'		=> 2,
+			'exercises'		=> array(
+				array(
+					'difficulty_uid'	=> 1,
+					'activity_type'		=> 'qae',
+					'activity_data'		=> 1
+				),
+				array(
+					'difficulty_uid'	=> 2,
+					'activity_type'		=> 'qae',
+					'activity_data'		=> 2
+				),
+				array(
+					'difficulty_uid'	=> 3,
+					'activity_type'		=> 'qae',
+					'activity_data'		=> 3
+				)
+			)
+		);
+		echo json_encode($arrJson);
 	}
 }
+
 ?>

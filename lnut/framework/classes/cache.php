@@ -92,7 +92,9 @@ class cache {
 		if (!empty($stuff)) {
 			$stuff = md5($stuff);
 			if (!file_exists(config::cache_common($type) . $this->cache_api_folder)) {
-				mkdir(config::cache_common($type) . $this->cache_api_folder);
+				if(mkdir(config::cache_common($type) . $this->cache_api_folder)) {
+					chmod(config::cache_common($type) . $this->cache_api_folder,0777);
+				}
 			}
 			$filename = config::cache_common($type) . $this->cache_api_folder . $stuff . ".cache";
 			file_put_contents($filename, $content);
@@ -136,7 +138,7 @@ class cache {
 		if (!empty($stuff)) {
 			$stuff = md5($stuff);
 			$filename = config::cache_common($type) . $this->cache_api_folder . $stuff . ".cache";
-			if (file_exists($filename)) {				
+			if (file_exists($filename)) {
 				return file_get_contents($filename);
 			}
 		}

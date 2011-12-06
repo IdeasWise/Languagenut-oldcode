@@ -1,5 +1,13 @@
 
 <div id="header">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<div id="topButtons">
 		<a href="{{ uri }}login/" class="login">Login</a>
 
@@ -19,7 +27,10 @@
 			<img src="{{ cdn_locale_images }}slide/slideshow_img4.jpg" />
 		</div>
 	</div>
-</div>
+ <div style="clear: both;position:absolute;top:260px;left:177px;width:650px;text-align:right">
+					<a href="http://www.languagenut.com/me/"><img src="http://www.languagenut.com/images/flag/mp3store_button.png" alt="Gaelic" /></a><a href="http://www.languagenut.com/me/"><img src="http://www.languagenut.com/images/flag/mp3store_button.png" alt="Gaelic" /></a>
+			    </div>
+			</div>
 
 <div id="slider">
 	<ul class="navigation">
@@ -50,10 +61,13 @@
 		<p class="first"> &nbsp; <!--{{ translate:play_and_learn }}--> &nbsp; </p>
 		<p><strong>languagenut.com - primary languages in a nutshell</strong></p>
 	</div>
-
+<a href="http://itunes.apple.com/gb/album/japanese-songs-for-kids-vol.-1/id463575617?uo=4" target="itunes_store"><img src="http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_itunes-sm.gif" alt="Japanese Songs for Kids, Vol. 1 - Languagenut" style="border: 0;"/></a>
 	<div id="footer" style="padding:20px 0px 0px 50px;font-size:12px;font-weight:normal;position:relative;top:-100px;">
 		<a href="{{ uri }}terms/" style="font-color:#000;">{{ translate:terms }}</a> |
 		<a href="{{ uri }}privacy/" style="font-color:#000;">{{ translate:privacy_policy }}</a> |
+		<a href="https://twitter.com/languagenut" class="twitter-follow-button" data-show-count="false" data-lang="es">Segui @languagenut</a>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script> 
+		<a class="fb-like" data-href="www.languagenut.com" data-send="false" data-width="450" data-show-faces="false" data-font="arial"></a>
 		&copy; languagenut - {{ translate:all_rights_reserved }}
 	</div>
 </div>
