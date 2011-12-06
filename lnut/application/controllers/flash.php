@@ -98,7 +98,8 @@ class Flash extends Controller {
 				$locale = 'sp';
 			}
 			$query ="SELECT ";
-			$query.="`uid` ";
+			$query.="`uid`, ";
+			$query.="`flash_version` ";
 			$query.="from ";
 			$query.="`language` ";
 			$query.="WHERE ";
@@ -122,11 +123,11 @@ class Flash extends Controller {
 					/**
 					 * Fetch the flash public xhtml page template
 					 */
-					
-					$swf = 'swf';
+
+					/*$swf = 'swf';
 					if(in_array($support_language_id,array(106,107))) {
 						$swf = 'swf10';
-					}
+					}*/
 
 					$skeleton = make::tpl ('skeleton.flash');
 					$skeleton->assign(
