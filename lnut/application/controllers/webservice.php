@@ -8,7 +8,6 @@ class WebService extends Controller {
 	private $token = 'config';
 	private $arrTokens = array(
 		'config',
-		'messages',
 		'languageTranslations',
 		'unitList',
 		'unitSectionTitles',
@@ -24,7 +23,8 @@ class WebService extends Controller {
 		'articleCategories',
 		'createArticle',
 		'createTemplate',
-		'loginStatus'
+		'loginStatus',
+		'messages'
 	);
 
 	public function __construct () {
@@ -129,9 +129,9 @@ class WebService extends Controller {
 		$arrJson = array(
 			'languages'	=> $arrLang,
 			'user'		=> array(
-				'username'		=> $_SESSION['user']['email'],
+				'username'		=> (isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : 'mystream01'),
 				'loginAccess'	=> (isset($_SESSION['user']) && isset($_SESSION['user']['user_type'][0])) ? $_SESSION['user']['user_type'][0] : 'guest',
-				'show_buy_packages_button'	=> $this->getPackagesAvailable(),
+				'show_by_packages_button'	=> $this->getPackagesAvailable(),
 				'buy_packages_url'			=> $this->getPackagesBuyUrl()
 			)
 		);
@@ -154,9 +154,9 @@ class WebService extends Controller {
 			}
 		}
 		$arrJson = array(
-			'username'		=> $userName,
-			'loginAccess'	=> (isset($_SESSION['user']) && isset($_SESSION['user']['user_type'][0])) ? $_SESSION['user']['user_type'][0] : 'guest',
-			'show_buy_packages_button'	=> $this->getPackagesAvailable(),
+			'username'					=> $userName,
+			'loginAccess'				=> (isset($_SESSION['user']) && isset($_SESSION['user']['user_type'][0])) ? $_SESSION['user']['user_type'][0] : 'guest',
+			'show_by_packages_button'	=> $this->getPackagesAvailable(),
 			'buy_packages_url'			=> $this->getPackagesBuyUrl()
 		);
 
@@ -178,10 +178,9 @@ class WebService extends Controller {
 		$user_uid = (isset($_SESSION['user']) && isset($_SESSION['user']['uid'])) ? $_SESSION['user']['uid'] : 0;
 
 		if($user_uid != 0) {
-
-			if($_SESSION['user']['user_type'][0]=='school') {
+			if($_SESSION['user']['user_type']=='school') {
 				return $this->getPackagesAvailableToSchoolForUser($user_uid);
-			} else if($_SESSION['user']['user_type'][0]=='homeuser') {
+			} else if($_SESSION['user']['user_type']=='homeuser') {
 				return $this->getPackagesAvailableToHomeuserForUser($user_uid);
 			}
 		} else {
@@ -190,23 +189,19 @@ class WebService extends Controller {
 	}
 
 	protected function getPackagesAvailableToSchoolForUser($user_uid='') {
-
-		$today = date('Y-m-d H:i:s');
-
 		$query = "SELECT `uid` FROM `subscriptions` WHERE `user_uid`='$user_uid' AND `date_paid` <= '$today' AND `expires_dts` >= '$today'";
 		$result = database::query($query);
 
 		$response = 0;
 
-		$arrSubs = array();
-		if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
+		if($result && mysql_error()=='' && mysql_fetch_assoc($result) > 0) {
+			$arrSubs = array();
+
 			while($row = mysql_fetch_assoc($result)) {
 				$arrSubs[] = $row['uid'];
 			}
-		}
 
-		if(count($arrSubs) > 0) {
-			$query = "SELECT `product_uid` FROM `subscriptions_products` WHERE `subscriptions_uid` IN (".implode(',',$arrSubs).")";
+			$query = "SELECT `product_uid` FROM `subscriptions_products` WHERE `subscription_uid` IN (".implode(',',$arrSubs).")";
 			$result = database::query($query);
 
 			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
@@ -222,11 +217,7 @@ class WebService extends Controller {
 						$response = 1;
 					}
 				}
-			} else if(mysql_error()=='') {
-				$response = 1;
 			}
-		} else {
-			$response = 1;
 		}
 
 		return $response;
@@ -255,9 +246,8 @@ class WebService extends Controller {
 	}
 
 	protected function getPackagesBuyUrl() {
-		return 'http://www.languagenut.com/'.((isset($_SESSION['user']) && isset($_SESSION['user']['prefix'])) ? $_SESSION['user']['prefix'] : 'en').'/subscribe/purchase/';
+		return 'http://ell.languagenut.com/'.((isset($_SESSION['user']) && isset($_SESSION['user']['prefix'])) ? $_SESSION['user']['prefix'] : 'en').'/subscribe/purchase/';
 	}
-
 
 	protected function getLanguageTranslations() {
 
@@ -332,11 +322,12 @@ class WebService extends Controller {
 							$arrayOuter['name']= $name;
 						}
 					}
+
 					if($unit_uid == '' || $unit_uid == 0) {
 						$arrUnit[] = array (
 										'id'						=> $unit_id,
 										'title'						=> $arrayOuter['name'],
-										'colour'					=> '0xFF0000',
+										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
 										'canAccessVocab'			=> false,
 										'canAccessReadingWriting'	=> false,
 										'canAccessSpeakingListening'=> false
@@ -345,7 +336,7 @@ class WebService extends Controller {
 						$arrUnit[] = array (
 										'id'						=> $unit_id,
 										'title'						=> $arrayOuter['name'],
-										'colour'					=> '0xFF0000',
+										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
 										'canAccessVocab'			=> false,
 										'canAccessReadingWriting'	=> false,
 										'canAccessSpeakingListening'=> false
@@ -876,16 +867,18 @@ class WebService extends Controller {
 		$query ="SELECT ";
 		$query.="`uid`, ";
 		$query.="`name`, ";
-		$query.="`tagname` ";
+		$query.="`tagname`, ";
+		$query.="`game_number` ";
 		$query.="FROM ";
 		$query.="`game`";
 		$result = database::query($query);
 		if(mysql_error()=='' && mysql_num_rows($result)) {
 			while($row=mysql_fetch_array($result)) {
 				$arrGames[] = array(
-					'uid'	=>$row['uid'],
-					'key'	=>$row['tagname'],
-					'name'	=>$row['name']
+					'uid'			=>$row['uid'],
+					'game_number'	=>$row['game_number'],
+					'key'			=>$row['tagname'],
+					'name'			=>$row['name']
 				);
 			}
 		}

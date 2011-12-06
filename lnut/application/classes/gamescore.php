@@ -110,6 +110,7 @@ class gamescore extends generic_object {
 			$this->set_user_uid($user_uid);
 			$this->set_game_uid($game_uid);
 			$this->set_language_uid($language_uid);
+			$this->set_support_language_uid($support_uid);
 			$this->set_unit_uid($unit_uid);
 			$this->set_section_uid($section_uid);
 			$this->set_is_unit_test($is_unit_test);
@@ -549,7 +550,7 @@ class gamescore extends generic_object {
 		return $html;
 	}
 
-	public function getScoresBySectionAndUser($section_id=null, $user_uid=null, $language_uid=null) {
+	public function getScoresBySectionAndUser($section_id=null, $user_uid=null, $language_uid=null, $language_support_id=null) {
 		$scores = array();
 		if($user_uid && $section_id && $language_uid) {
 			$query = "SELECT ";
@@ -564,6 +565,23 @@ class gamescore extends generic_object {
 			$query.= "`user_uid`='".mysql_real_escape_string($user_uid)."' ";
 			$query.= "AND `section_uid`='".mysql_real_escape_string($section_id)."' ";
 			$query.= "AND `language_uid`='".mysql_real_escape_string($language_uid)."' ";
+			if(is_numeric($language_support_id) && $language_support_id>0) {
+				$query.= "AND `support_language_uid` ='".mysql_real_escape_string($language_support_id)."' ";
+			} else {
+				$query_l ="SELECT ";
+				$query_l.="`uid` ";
+				$query_l.="from ";
+				$query_l.="`language` ";
+				$query_l.="WHERE ";
+				$query_l.="`prefix` = '".config::get('locale')."' ";
+				$query_l.="LIMIT 1";
+				$result = database::query($query_l);
+				if($result && mysql_num_rows($result) ){
+					$row = mysql_fetch_array($result);
+					$language_support_id = $row['uid'];
+					$query.= "AND `support_language_uid` ='".mysql_real_escape_string($language_support_id)."' ";
+				}
+			}
 			$query.= "AND `is_unit_test`=0 ";
 			$query.= "ORDER BY `game_uid` ASC";
 

@@ -77,6 +77,14 @@ class acccount_invoice extends Controller {
 	protected function doAdd() {
 
 		$user_uid	= (isset($this->arrPaths[4]) ? $this->arrPaths[4] : false);
+		$start_day='';
+		$start_month='';
+		$start_year='';
+
+		$expires_day='';
+		$expires_month='';
+		$expires_year='';
+
 		$user_type	= (isset($this->arrPaths[2]) && in_array($this->arrPaths[2],array('school','homeuser')) ? $this->arrPaths[2] : 'school');
 
 		$skeleton	= config::getUserSkeleton();
@@ -143,9 +151,8 @@ class acccount_invoice extends Controller {
 			$objSubscription = new subscriptions();
 
 			if($objSubscription->doSave()) {
-
-				list($start_day,$start_month,$start_year) = explode('/',$_POST['start_dts']);
-				list($expires_day,$expires_month,$expires_year) = explode('/',$_POST['expires_dts']);
+				list($start_year,$start_month,$start_day) = explode('-',$_POST['start_dts']);
+				list($expires_year,$expires_month,$expires_day) = explode('-',$_POST['expires_dts']);
 
 				$body->assign(array(
 					'message_error'		=> '<p class="success" style="background:#30A4B1;color:white;">Subscription Add</p>',

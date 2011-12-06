@@ -1,0 +1,129 @@
+	<div id="regFormContainer"><div id="regFormHeader"><div id="regFormContent" class="clearfix">
+		<form id="regForm" action="{{ uri }}subscribe/{{ type }}/" method="post">
+			<div id="regInfo">
+				<div class="ir" id="thanksHi">
+					Thank you for choosing languagenut!<br>
+					Hi!
+				</div>
+				<h2 id="trialHead">Two Week Free Trial</h2>
+				<hr>
+				<p>Your registration will give you access to:</p>
+				<ul>
+					<li>French, Spanish, German, Italian, Japanese and Chinese areas</li>
+					<li>Interactive games</li>
+					<li>1000s of printable resources</li>
+				</ul>
+				<hr>
+				<p>We want all schools to try before they buy. We do invoice automatically in the UK after 2 weeks, but will never, ever charge a school who chooses not to subscribe - even if you forget to let us know. To cancel, simply get in touch or click the link in your welcome email.</p>
+				<hr>
+				<p>A 1 year subscription to the side is &pound;150</p>
+			</div>
+			<div id="details">
+				<h3>Enter your details</h3>
+
+				{{ errors }}
+
+				<input type="hidden" name="signtype" value="{{ signtype }}" />
+				<p>
+					<!-- <label for="name"><img src="{{ images }}name.png" alt="Name" /></label> -->
+					<label {{ highlight:name }} for="name">{{ translate.label_name }}</label>
+					<input type="text" class="textField" name="name" id="name" value="{{ name }}"/>
+				</p>
+
+				<p>
+					<!-- <label for="phone_number"><img src="{{ images }}number.png" alt="Phone number" /></label> -->
+					<label {{ highlight:phone_number }} for="phone_number">{{ translate.label_phone_number }}</label>
+					<input type="text" class="textField" name="phone_number" id="phone_number" value="{{ phone_number }}" />
+				</p>
+
+				<p>
+					<!-- <label for="email"><img src="{{ images }}email.png" alt="Email" /></label> -->
+					<label {{ highlight:email }} for="email">{{ translate.label_email }}</label>
+					<input type="text" class="textField" name="email" id="email" value="{{ email }}" />
+				</p>
+
+				<p>
+					<!-- <label for="password1"><img src="{{ images }}password.png" alt="Password" /></label> -->
+					<label {{ highlight:password1 }} for="password1">{{ translate.label_password }}</label>
+					<input type="password" class="textField" name="password1" id="password1" value="" />
+				</p>
+
+				<p>
+					<!-- <label for="password2"><img src="{{ images }}repeat-password.png" alt="Repeat Password" /></label> -->
+					<label for="password2">{{ translate.label_repeat_password }}</label>
+					<input {{ highlight:password2 }} type="password" class="textField" name="password2" id="password2" value="" />
+				</p>
+
+				<!--
+<p>
+					<label for="reseller_code_uid">{{ translate.which_reseller }}</label>
+					<select name="reseller_code_uid" id="reseller_code_uid"{{ highlight:reseller_code_uid }}>
+						{{ reseller_code_uids }}
+					</select>
+				</p>
+-->
+
+				
+				<h3>Enter your school details</h3>
+				
+
+				<p>
+					<!--<label for="school_name"><img src="{{ images }}school_name.png" alt="School Name" /></label>-->
+					<label {{ highlight:school_name }} for="school_name">{{ translate.label_school_name }}</label>
+					<input type="text" class="textField" name="school_name" id="school_name" value="{{ school_name }}" />
+				</p>
+
+				<p>
+					<!--<label for="school_address"><img src="{{ images }}school_address.png" alt="School Address" /></label>-->
+					<label {{ highlight:school_address }} for="school_address">{{ translate.label_school_address }}</label>
+					<input type="text" class="textField" name="school_address" id="school_address" value="{{ school_address }}" />
+				</p>
+
+				<p>
+					<!--<label for="school_postcode"><img src="{{ images }}school_postcode.png" alt="School Postcode" /></label>-->
+					<label {{ highlight:school_postcode }} for="school_postcode">{{ translate.label_school_postcode }}</label>
+					<input type="text" class="textField" name="school_postcode" id="school_postcode" value="{{ school_postcode }}" />
+				</p>
+				<p>
+					<!--<label for="username_open"><img src="{{ images }}username_open.png" alt="Username" /></label>-->
+					<label {{ highlight:username_open }} for="username_open">{{ translate.label_whole_school_username }}</label>
+					<input type="text" class="textField" name="username_open" id="username_open" value="{{ username_open }}" />
+				</p>
+
+				<p>
+					<!--<label for="password_open"><img src="{{ images }}password_open.png" alt="School Name" /></label>-->
+					<label {{ highlight:password_open }} for="password_open">{{ translate.label_whole_school_password }}</label>
+					<input type="text" class="textField" name="password_open" id="password_open" value="{{ password_open }}" />
+				</p>
+			</div><!-- eo details -->
+			<div id="extra" class="clearfix">
+				<div class="col1">
+					<label for="captcha">{{ translate.label_please_retype_captcha }}</label>
+					<div class="captcha">
+						{{ captcha }}
+					</div>
+
+					<p class="captchaText">
+						{{ translate.captchatext }}
+					</p>
+					<p>
+						<label {{ highlight:promo_code }} for="promo_code">{{ translate.use_promo_code }}</label>
+						<input type="text" class="textField promo" name="promo_code" id="promo_code" value="{{ promo_code }}" />
+					</p>
+				</div>
+				<div class="col2">
+					<div id="checkboxes">
+						<p>
+							<input type="checkbox" class="checkbox" name="accept_terms" checked="checked" value="yes"  /> {{ translate.accept_terms }}
+						</p>
+						<p id="optin" >
+							<input type="checkbox" class="checkbox" name="optin" checked="checked" value="yes"  /> {{ translate.send_updates }} {{ translate.emails_not_to_3rd_party }}
+						</p>
+					</div>
+					<div id="submitBox">
+						<input type="submit" class="confirm-button hasHover" name="submit" value="Start my free trial" id="submit" />
+					</div>
+				</div>		
+			</div>		
+		</form>	
+	</div></div></div>

@@ -86,7 +86,7 @@ class Unitsection extends Controller {
 
 					$objGameScore = new gamescore();
 					foreach ($sections as $section_id => $section_data) {
-						$games[$section_id] = $objGameScore->getScoresBySectionAndUser($section_id, (isset($_SESSION['user']['uid']) ? $_SESSION['user']['uid'] : 24), $language_id);
+						$games[$section_id] = $objGameScore->getScoresBySectionAndUser($section_id, (isset($_SESSION['user']['uid']) ? $_SESSION['user']['uid'] : 24), $language_id,$language_support_id);
 					}
 				}
 
@@ -179,7 +179,7 @@ class Unitsection extends Controller {
 			}
 			$cacheData.='</units>';
 
-			$objCache->createOrReplace($cacheFileName,$cacheData);
+			#$objCache->createOrReplace($cacheFileName,$cacheData);
 			echo $cacheData;
 		}
 	}

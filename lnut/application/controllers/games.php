@@ -106,7 +106,7 @@ class Games extends Controller {
 							}
 						}
 						$cacheData.= '</gamedata>';
-						
+
 					} else {
 						$cacheData = mysql_error();
 					}
@@ -117,7 +117,7 @@ class Games extends Controller {
 				$cacheData = '<?xml version="1.0" encoding="utf-8" ?><gamedata><item>Bad Request [2]'.print_r($_POST,true).'</item></gamedata>';
 			}
 
-			$objCache->createOrReplace($cacheFileName, $cacheData);
+			#$objCache->createOrReplace($cacheFileName, $cacheData);
 			echo $cacheData;
 		}
 	}

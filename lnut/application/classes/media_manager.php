@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 class media_manager  {
 	public $ft = array();
