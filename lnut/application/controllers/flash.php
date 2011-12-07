@@ -19,6 +19,7 @@ class Flash extends Controller {
 			$locale					= $_SESSION['user']['prefix'];
 			$locale					= config::get('locale');
 			$support_language_id	= 14;
+			$swf					= 'swf';
 
 			$arrEnLocales = array(
 				'bz',
@@ -109,6 +110,9 @@ class Flash extends Controller {
 			if($result && mysql_num_rows($result) ){
 				$row = mysql_fetch_array($result);
 				$support_language_id = $row['uid'];
+				if(!empty($row['flash_version'])) {
+					$swf = $row['flash_version'];
+				}
 			}
 
 			$validate	= array();
@@ -123,9 +127,9 @@ class Flash extends Controller {
 					/**
 					 * Fetch the flash public xhtml page template
 					 */
-
-					/*$swf = 'swf';
-					if(in_array($support_language_id,array(106,107))) {
+					
+					/*
+					if(in_array($support_language_id,array(106,107,110))) {
 						$swf = 'swf10';
 					}*/
 
