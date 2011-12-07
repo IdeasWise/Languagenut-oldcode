@@ -29,6 +29,7 @@ class game_translation extends generic_object {
 						'instruction'	=> 'instruction'
 					);
 			$arrResponse = database::arrQueryByUid($sql, $keyMap,1);
+
 //			
 //			if ($res && mysql_error() == '' && mysql_num_rows($res) > 0) {
 //				while ($row = mysql_fetch_assoc($res)) {
@@ -125,6 +126,7 @@ class game_translation extends generic_object {
 			return ' ';
 		}
 	}
+
 	public function duplicateToLanguage($locale, $languageUid) {
 		$arrValues = array();
 
