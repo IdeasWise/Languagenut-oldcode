@@ -66,7 +66,7 @@ class Landing extends Controller {
 				'keywords'		=> $page->keywords(),
 				'description'	=> $page->description(),
 				'body'			=> $body,
-				'intro'			=> 'coming soon.',//$intro->get_content(),
+				'intro'			=> $intro->get_content(),
 				'locale'		=> config::get('locale')
 			)
 		);
