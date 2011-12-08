@@ -4,9 +4,13 @@ php_value error_log  /var/www/vhosts/languagenut.com/PHP_errors.log
 php_value allow_url_fopen 1
 
 # Enable URL Rewriting
+Options +FollowSymlinks
 RewriteEngine on
 
 RewriteBase /
+
+RewriteRule ^emails/(.*)$ http://images.languagenut.com/emails/$1 [R=301,L]
+#RewriteRule ^images/(.*)$ http://images.languagenut.com/$1 [R=301,L]
 
 RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
 RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
