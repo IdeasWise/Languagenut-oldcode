@@ -1,39 +1,9 @@
-
 <?php
+
 
 /* * *************************************
  * MyStream Framework
  */
-//require_once "Mail.php";
- /*
-$from = "Language Nut <andrew@languagenut.com>";
-$to = "Workstation <workstation@mystream.co.uk>";
-$subject = "Test email using PHP SMTP with SSL\r\n\r\n";
-$body = "This is a test email message";
-
-$host = "mail.online-cloud.net";
-$port = "25";
-$username = "andrew@languagenut.com";
-$password = "Stealth1980";
-
-$headers = array ('From' => $from, 'To' => $to, 'Subject' => $subject);
-$smtp = Mail::factory('smtp',
-  array ('host' => $host,
-    'port' => $port,
-    'auth' => true,
-    'username' => $username,
-    'password' => $password));
-
-$mail = $smtp->send($to, $headers, $body);
-
-if (PEAR::isError($mail)) {
-  echo("<p>" . $mail->getMessage() . "</p>");
-} else {
-  echo("<p>Message successfully sent!</p>");
-}
-//mail('workstation@mystream.co.uk','test','test','From: test@languagenut.com');
-*/
-
 error_reporting(E_ALL);
 
 class config {
@@ -132,7 +102,8 @@ class config {
 	}
 
 	public static function images_common($path = '') {
-		return self::base('images/' . $path);
+		//return self::base('images/' . $path);
+		return self::cdn_images($path);
 	}
 
 	public static function cdn_images($path = '') {
@@ -238,10 +209,11 @@ class config {
 	}
 
 	public function doMikeError() {
-		if($_SERVER['REMOTE_ADDR']=='83.105.41.208') {
+		if($_SERVER['REMOTE_ADDR']=='83.105.41.208') { /*
 			echo '<pre>';
 			print_r(debug_backtrace());
 			echo '</pre>';
+			*/
 		}
 	}
 
