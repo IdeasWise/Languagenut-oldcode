@@ -26,7 +26,7 @@ class Landing extends Controller {
 		$tpl = '';
 		$locale = config::get('locale');
 		if($locale!='') {
-			if(in_array($locale,array('au','us','nz'))) {
+			if(in_array($locale,array('au','us','nz','ae','lb'))) {
 				$tpl.= 'body.landing.'.$locale;
 			} else {
 				$tpl.= 'body.landing.en';
