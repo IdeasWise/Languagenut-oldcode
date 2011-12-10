@@ -339,24 +339,24 @@ class Subscribe extends Controller {
 							stripslashes($arrStageInfo['accept_terms']
 					));
 
-			$send_updates = stripslashes($arrStageInfo['send_updates']);
-			$emails_not_to_3rd_party = stripslashes($arrStageInfo['emails_not_to_3rd_party']);
+			$send_updates = (isset($arrStageInfo['send_updates']))?stripslashes($arrStageInfo['send_updates']):'';
+			$emails_not_to_3rd_party = (isset($arrStageInfo['emails_not_to_3rd_party']))?stripslashes($arrStageInfo['emails_not_to_3rd_party']):'';
 
-			$label_name = stripslashes($arrStageInfo['label_your_name']);
-			$label_phone_number = stripslashes($arrStageInfo['label_phone_number']);
-			$label_email = stripslashes($arrStageInfo['label_email']);
-			$label_password = stripslashes($arrStageInfo['label_password']);
-			$label_repeat_password = stripslashes($arrStageInfo['label_repeat_password']);
-			$label_which_reseller = stripslashes($arrStageInfo['which_reseller']);
-			$label_please_retype_captcha = stripslashes($arrStageInfo['label_please_retype_captcha']);
-			$title_problems_with_form = stripslashes($arrStageInfo['title_problems_with_form']);
+			$label_name = (isset($arrStageInfo['label_your_name']))?stripslashes($arrStageInfo['label_your_name']):"";
+			$label_phone_number = (isset($arrStageInfo['label_phone_number']))?stripslashes($arrStageInfo['label_phone_number']):'';
+			$label_email = (isset($arrStageInfo['label_email']))?stripslashes($arrStageInfo['label_email']):'';
+			$label_password = (isset($arrStageInfo['label_password']))?stripslashes($arrStageInfo['label_password']):'';
+			$label_repeat_password = (isset($arrStageInfo['label_repeat_password']))?stripslashes($arrStageInfo['label_repeat_password']):'';
+			$label_which_reseller = (isset($arrStageInfo['which_reseller']))?stripslashes($arrStageInfo['which_reseller']):'';
+			$label_please_retype_captcha = (isset($arrStageInfo['label_please_retype_captcha']))?stripslashes($arrStageInfo['label_please_retype_captcha']):'';
+			$title_problems_with_form = (isset($arrStageInfo['title_problems_with_form']))?stripslashes($arrStageInfo['title_problems_with_form']):'';
 
-			$label_school_name = stripslashes($arrStageInfo['label_school_name']);
-			$label_school_address = stripslashes($arrStageInfo['label_school_address']);
-			$label_school_postcode = stripslashes($arrStageInfo['label_school_postcode']);
+			$label_school_name = (isset($arrStageInfo['label_school_name']))?stripslashes($arrStageInfo['label_school_name']):'';
+			$label_school_address = (isset($arrStageInfo['label_school_address']))?stripslashes($arrStageInfo['label_school_address']):'';
+			$label_school_postcode = (isset($arrStageInfo['label_school_postcode']))?stripslashes($arrStageInfo['label_school_postcode']):'';
 
-			$label_whole_school_username = stripslashes($arrStageInfo['label_whole_school_username']);
-			$label_whole_school_password = stripslashes($arrStageInfo['label_whole_school_password']);
+			$label_whole_school_username = (isset($arrStageInfo['label_whole_school_username']))?stripslashes($arrStageInfo['label_whole_school_username']):'';
+			$label_whole_school_password = (isset($arrStageInfo['label_whole_school_password']))?stripslashes($arrStageInfo['label_whole_school_password']):'';
 
 			$reseller_code_uids = '';
 
