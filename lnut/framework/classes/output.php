@@ -55,6 +55,7 @@ class output {
     }
 
     public static function as_html ($object = null, $cache = false, $finalise = true) {
+		header('P3P: CP="NOI ADM DEV COM NAV OUR STP"');
         if(is_object($object)) {
             $file_content = $object->get_content($finalise);
         } else {
