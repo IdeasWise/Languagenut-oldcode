@@ -252,8 +252,8 @@ class users_schools extends generic_object {
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 3,
-				'maxChar' => 64,
-				'errMinMax' => 'School name must be 3 to 64 characters in length.',
+				'maxChar' => 255,
+				'errMinMax' => 'School name must be 3 to 255 characters in length.',
 				'dataType' => 'text',
 				'errdataType' => 'Please enter valid school name.',
 				'errIndex' => 'error_school'
@@ -263,8 +263,8 @@ class users_schools extends generic_object {
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 2,
-				'maxChar' => 32,
-				'errMinMax' => 'Contact name must be 2 to 32 characters in length.',
+				'maxChar' => 255,
+				'errMinMax' => 'Contact name must be 2 to 255 characters in length.',
 				'dataType' => 'text',
 				'errdataType' => 'Please enter valid contact name.',
 				'errIndex' => 'error_contact'

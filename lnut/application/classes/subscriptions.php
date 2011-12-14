@@ -649,7 +649,7 @@ class subscriptions extends generic_object {
 							$school_address = $row['address'].", ".$row['postcode'];
 							$phone = $row['phone_number'];
 
-							$query = "SELECT `email` FROM `user` WHERE `uid`=".$arrFields['user_uid']['value']." LIMIT 1";
+							$query = "SELECT `email` FROM `user` WHERE `uid`=".$user_uid." LIMIT 1";
 							$result = database::query($query);
 							if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 								$row = mysql_fetch_assoc($result);
@@ -864,7 +864,11 @@ class subscriptions extends generic_object {
 		$this->set_verified($verified);
 		$this->set_verified_dts($verified_dts);
 		$this->set_upgrade($upgrade);
-
+		if(isset($_SESSION['sess_package'])) {
+			$this->set_package_token(mysql_real_escape_string($_SESSION['sess_package']));
+		} else {
+			$this->set_package_token('standard');
+		}
 		return $this->insert();
 	}
 	public function CreateHomeUserSubscription($user_uid, $price) {
@@ -890,6 +894,11 @@ class subscriptions extends generic_object {
 		$this->arrFields['verified_dts']['Value'] = '0000-00-00 00:00:00';
 		$this->arrFields['invoice_for']['Value'] = 'homeuser';
 		$this->arrFields['vat']['Value'] = $priceArray['vat'];
+		if(isset($_SESSION['sess_package'])) {
+			$this->set_package_token(mysql_real_escape_string($_SESSION['sess_package']));
+		} else {
+			$this->set_package_token('home');
+		}
 		return $this->insert();
 	}
 	public function getOptions($selected_value = NULL) {
