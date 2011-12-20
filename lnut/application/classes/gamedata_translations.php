@@ -81,10 +81,10 @@ class gamedata_translations extends generic_object {
 			if(mysql_error()=='' && mysql_num_rows($result)) {
 				while($arrRow = mysql_fetch_array($result)) {
 					$arrResponse[] = array(
-						'uid'		=>$arrRow['uid'],
-						'game_uid'	=>$arrRow['game_uid'],
-						'key'		=>$arrRow['key'],
-						'value'		=>$arrRow['value']
+						'uid'			=>$arrRow['uid'],
+						'game_uid'		=>$arrRow['game_uid'],
+						'key'			=>$arrRow['key'],
+						'value'			=>$arrRow['value']
 					);
 				}
 			}
@@ -155,8 +155,8 @@ class gamedata_translations extends generic_object {
 			if(mysql_error()=='' && mysql_num_rows($result)) {
 				while($arrRow = mysql_fetch_array($result)) {
 					$arrGamedata[] = array(
-						'key'		=>$arrRow['key'],
-						'value'		=>$arrRow['value']
+						'key'			=>$arrRow['key'],
+						'value'			=>$arrRow['value']
 					);
 				}
 			}
@@ -172,8 +172,8 @@ class gamedata_translations extends generic_object {
 				if(mysql_error()=='' && mysql_num_rows($result)) {
 					while($arrRow = mysql_fetch_array($result)) {
 						$arrGamedata[] = array(
-							'key'		=>$arrRow['key'],
-							'value'		=>$arrRow['value']
+							'key'			=>$arrRow['key'],
+							'value'			=>$arrRow['value']
 						);
 					}
 				}

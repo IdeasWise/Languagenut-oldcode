@@ -134,8 +134,9 @@ class admin_game_data extends Controller {
 			$arrRows = array();
 			foreach($arrGameData as $arr) {
 				if(isset($_POST['key'][$arr['uid']])) {
-					$arr['key']		= $_POST['key'][$arr['uid']];
-					$arr['value']	= $_POST['value'][$arr['uid']];
+					$arr['key']			=$_POST['key'][$arr['uid']];
+					$arr['value']		=$_POST['value'][$arr['uid']];
+					$arr['instructions']=$_POST['instructions'][$arr['uid']];
 				}
 				$arrRows[]=make::tpl('body.admin.game_data_translation.row')->assign($arr)->get_content();
 			}
@@ -171,7 +172,8 @@ class admin_game_data extends Controller {
 						array(
 							'default_key'	=>$objGamedata->get_key(),
 							'default_value'	=>$objGamedata->get_value(),
-							'uid'			=>$objGamedata->get_uid()
+							'uid'			=>$objGamedata->get_uid(),
+							'instructions'	=>$objGamedata->get_instructions()
 						)
 					);
 					if($this->arrPaths[3] == 'edit') {

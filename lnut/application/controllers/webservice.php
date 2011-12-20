@@ -423,7 +423,7 @@ class WebService extends Controller {
 		}
 	}
 	protected function getSections($arrSections=array(1,2), $arrLanguages=array(14,3)) {
-
+		header('Content-Type: text/html; charset=utf-8'); 
 		$arrResult = array();
 		$language_id = 3;
 		$counter = 0;
@@ -452,7 +452,9 @@ class WebService extends Controller {
 		}
 
 		//echo '<pre>';
-		echo json_encode($arrResult); exit;
+		//print_r($arrResult);
+		//echo '</pre>';
+		echo utf8_encode(json_encode($arrResult)); exit;
 		//$json = json_decode( json_encode($arrResult));
 		//print_r($json);
 		//exit;

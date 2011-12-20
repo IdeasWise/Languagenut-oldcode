@@ -1,11 +1,36 @@
 
-<div class="page-content">
-	<h1>What would you like to upgrade to?</h1>
+<div class="page-content" style="">
+<div class="options clearfix" style="margin:0 auto;padding-bottom:30px;">
+
+				<div class="option_left" style="float:left;width:280px;margin-left:100px;">
+
+					<h1>&ldquo;Standard&rdquo;</h1>
+                    <!--<div><img src="{{ cdn_images }}{{ current_package_image }}" alt="{{ current_package_image_alt }}" /></div>-->
+
+					<!--<p style="font-size:1.2em;font-weight:bold;padding:5px 0;">{{ select_school }}</p>-->
+                    <p style="font-size:1.2em;font-weight:bold;padding:5px 0;">
+                    	<span style="font-weight:normal;">{{ standard_text }}</span>
+                    </p>
+
+				</div>
+
+				<div class="option_right" style="float:left;width:185px;margin-left:60px;">
+                <h1>&ldquo;EAL&rdquo;</h1>
+                <!--<div><img src="{{ cdn_images }}{{ upgrade_package_image }}" alt="{{ upgrade_package_image_alt }}" /></div>-->
+				<p style="font-size:1.2em;font-weight:bold;padding:5px 0;">
+                    	<span style="font-weight:normal;">{{ eal_text }}</span>
+                </p>
+				</div>
+
+			</div>
+            
+	<!--<p>&nbsp;</p>
+    <h2>Would you like to upgrade your package from &ldquo;{{ current_package }}&rdquo; to &ldquo;{{ upgrade_package_to }}&rdquo;?</h2>
     <p>&nbsp;</p>
     {{ errors }}
-    <form action="upgrade" method="post" target="_self">
-    {{ form }}
-    <p>&nbsp;</p>
+    <form name="frmupgrade" action="upgrade" method="post" target="_self">
+    <input type="hidden" name="upgrade" id="upgrade" value="1" />
     <input class="confirm-button" type="submit" value="Continue" name="submit" style="background-position: left top;">
     </form>
+    <p>&nbsp;</p>-->
 </div>

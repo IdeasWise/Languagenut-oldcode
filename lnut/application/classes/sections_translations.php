@@ -77,18 +77,18 @@ class sections_translations extends generic_object {
 		$name = '';
 		if (is_numeric($language_support_id) && is_numeric($section_id) && $section_id > 0 && $language_support_id > 0) {
 			$query = "SELECT ";
-			$query.="`name` ";
+			$query.="IF(`st`.`name`!='',`st`.`name`, (SELECT `subst`.`name` FROM `sections_translations` AS `subst` WHERE `subst`.`language_id`=14 AND `subst`.`section_uid`=`st`.`section_uid`) ) AS `section_name` ";
 			$query.="FROM ";
-			$query.="`sections_translations` ";
+			$query.="`sections_translations` AS `st` ";
 			$query.="WHERE ";
-			$query.="`language_id` = '" . $language_support_id . "' ";
+			$query.="`st`.`language_id` = '" . $language_support_id . "' ";
 			$query.="AND ";
-			$query.="`section_uid` = '" . $section_id . "' ";
+			$query.="`st`.`section_uid` = '" . $section_id . "' ";
 			$query.="LIMIT 1 ";
 			$result = database::query($query);
 			if ($result && mysql_num_rows($result) > 0) {
 				$row = mysql_fetch_assoc($result);
-				$name = stripslashes($row['name']);
+				$name = stripslashes($row['section_name']);
 			}
 		}
 		return $name;

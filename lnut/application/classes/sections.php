@@ -189,6 +189,7 @@ class sections extends generic_object {
 
 	public function getSectionTranslations($language_id, $unit_ids) {
 		$sections = array();
+		/*
 		$query = "SELECT ";
 		$query.="`st`.`section_uid`, ";
 		$query.="`st`.`name`, ";
@@ -202,12 +203,27 @@ class sections extends generic_object {
 		$query.="AND `sections`.`unit_uid` IN (" . implode(',', $unit_ids) . ") ";
 		$query.="ORDER BY ";
 		$query.="`st`.`section_uid` ASC";
+		*/
+		$query ="SELECT ";
+		$query.="`st`.`section_uid`, ";
+		$query.="IF(`st`.`name`!='',`st`.`name`, (SELECT `subst`.`name` FROM `sections_translations` AS `subst` WHERE `subst`.`language_id`=14 AND `subst`.`section_uid`=`st`.`section_uid`) ) AS `section_name`, ";
+		$query.="`sections`.`unit_uid` ";
+		$query.="FROM ";
+		$query.="`sections`, ";
+		$query.="`sections_translations` AS `st` ";
+		$query.="WHERE ";
+		$query.="`st`.`language_id`=$language_id ";
+		$query.="AND `st`.`section_uid`=`sections`.`uid` ";
+		$query.="AND `sections`.`unit_uid` IN (" . implode(',', $unit_ids) . ") ";
+		$query.="ORDER BY ";
+		$query.="`st`.`section_uid` ASC";
+
 		$result = database::query($query);
 		if ($result && mysql_num_rows($result) > 0) {
 			while ($row = mysql_fetch_assoc($result)) {
 				$sections[$row['section_uid']] = array(
 					'unit_id' => $row['unit_uid'],
-					'name' => stripslashes($row['name'])
+					'name' => stripslashes($row['section_name'])
 				);
 			}
 		} else {

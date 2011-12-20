@@ -44,7 +44,19 @@ class Permission extends Controller {
 					$arrLanguage[] = $arrRow['uid'];
 				}
 			} else if($_REQUEST['package_token']=='eal') {
-				$query = "SELECT `uid` FROM `language` WHERE `available`='1'";
+				$arrELLlanguage = array(
+					"'so'",
+					"'ar'",
+					"'fr'",
+					"'pt'",
+					"'mx'",
+					"'cc'",
+					"'fr'",
+					"'ge'",
+					"'ht'",
+					"'it'"
+				);
+				$query = "SELECT `uid` FROM `language` WHERE `prefix` IN (".implode(',',$arrELLlanguage).") ";
 				$result = database::query($query);
 				while($arrRow = mysql_fetch_array($result)) {
 					$arrLanguage[] = $arrRow['uid'];

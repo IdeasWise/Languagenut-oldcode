@@ -6,14 +6,18 @@
 class Upgrade extends Controller {
 
 	private $locale		= 'en';
-	private $type		= 'homeuser';
-	private $typegiven	= false;
 
 	public function __construct() {
 		parent::__construct();
-		$paths = config::get('paths');
 		$this->locale = config::get('locale');
+		$arrPaths = config::get('paths');
+		if(isset($arrPaths[1]) && $arrPaths[1]=='success') {
+			$this->success();
+		} else {
+			$this->index();
+		}
 
+/*
 		if(isset($this->locale) && strlen($this->locale) > 0) {
 			if (isset($paths[1]) && in_array($paths[1], array('homeuser', 'school'))) {
 				$this->type = $paths[1];
@@ -23,6 +27,145 @@ class Upgrade extends Controller {
 		} else {
 			output::redirect(config::url('upgrade/'));
 		}
+*/		
+		
+	}
+
+	protected function index() {
+		if(isset($_SESSION['user']['uid']) && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']=='school') {
+			$arrSubscription =subscriptions::getUserSubscriptionDetails($_SESSION['user']['uid']);
+			if(is_array($arrSubscription) && count($arrSubscription)) {
+				if($_SESSION['user']['uid']==$arrSubscription['user_uid']) {
+					$page = new page('upgrade');
+					$title_url	= '';
+					$title_alt	= '';
+					$intro_text = '';
+					$standard_text = '';
+					$eal_text = '';
+					/**
+					 * Fetch the page details
+					 */
+					$arrPackages = subscriptions::getAllSubscribedPackages();
+					if(is_array($arrPackages) && count($arrPackages)) {
+						
+						
+						if($arrSubscription['package_token'] == 'gaelic' && $arrPackages[0]=='gaelic') {
+							if(isset($_GET['upgrade']) && $_GET['upgrade']=='gtos') {
+								$objSubsription = new subscriptions($arrSubscription['uid']);
+								if($objSubsription->get_valid()) {
+									$objSubsription->load();
+									$objSubsription->set_package_token('standard');
+									if(isset($_SESSION['user']['package_token'])) {
+										$_SESSION['user']['package_token'] = 'standard';
+									}
+									$objSubsription->save();
+									output::redirect(config::url('upgrade/success'));
+								}
+							}
+							$body = make::tpl('body.upgrade.gaelic');
+						} else {
+							if(isset($_GET['upgrade']) && in_array($_GET['upgrade'],array('standard','eal')) && count($arrPackages)==1) {
+								$objSubsription = new subscriptions();
+								if($objSubsription->upgradeuserPackage($_GET['upgrade'])) {
+									output::redirect(config::url('upgrade/success'));
+								}
+							}
+							if(in_array('standard',$arrPackages)) {
+								$standard_text = 'You have this package';
+							} else {
+								$standard_text = '<a href="'.config::url('upgrade/?upgrade=standard').'">Subscribe to this package</a>';
+							}
+							if(in_array('eal',$arrPackages)) {
+								$eal_text = 'You have this package';
+							} else {
+								$eal_text = '<a href="'.config::url('upgrade/?upgrade=eal').'">Subscribe to this package</a>';
+							}
+							$body = make::tpl('body.upgrade');
+						}
+						$page = new page('upgrade');
+						$body->assign(
+							array(
+								'type'						=> 'school',
+								'translate.back_to_homepage'=> '',
+								'title_url'					=> $title_url,
+								'title_alt'					=> $title_alt,
+								'intro_text'				=> $intro_text,
+								'locale'					=> $this->locale . '/',
+								'standard_text'				=> $standard_text,
+								'eal_text'					=> $eal_text
+							)
+						);
+
+						/**
+						 * Fetch the standard public xhtml page template
+						 */
+						$skeleton = make::tpl('skeleton.upgrade');
+						$skeleton->assign(
+							array(
+								'title'				=> $page->title(),
+								'keywords'			=> $page->keywords(),
+								'description'		=> $page->description(),
+								'body'				=> $body,
+								'background_url'	=> 'registration_bg.en.jpg',
+								'locale'			=> $this->locale
+							)
+						);
+
+						output::as_html($skeleton, true);
+					} else {
+						output::redirect(config::url());
+					}
+				} else {
+					output::redirect(config::url());
+				}
+			} else {
+				output::redirect(config::url());
+			}
+		} else {
+			output::redirect(config::url());
+		}
+	}
+
+	protected function success() {
+		$page = new page('upgrade');
+		$title_url	= '';
+		$title_alt	= '';
+		$intro_text = '';
+		
+		/**
+		 * Fetch the page details
+		 */
+		$page = new page('upgrade');
+
+		$body = make::tpl('body.upgrade.success');
+		$body->assign(
+			array(
+				'type'						=> 'school',
+				'translate.back_to_homepage'=> '',
+				'title_url'					=> $title_url,
+				'title_alt'					=> $title_alt,
+				'intro_text'				=> $intro_text,
+				'locale'					=> $this->locale . '/',
+			)
+		);
+
+		/**
+		 * Fetch the standard public xhtml page template
+		 */
+		$skeleton = make::tpl('skeleton.upgrade');
+		$skeleton->assign(
+			array(
+				'title'				=> $page->title(),
+				'keywords'			=> $page->keywords(),
+				'description'		=> $page->description(),
+				'body'				=> $body,
+				'background_url'	=> 'registration_bg.en.jpg',
+				'locale'			=> $this->locale
+			)
+		);
+
+		output::as_html($skeleton, true);
+
 	}
 
 	protected function set_locale() {

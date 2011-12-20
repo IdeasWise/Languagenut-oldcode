@@ -1,1 +1,2 @@
 ALTER TABLE `subscriptions` ADD `package_token` VARCHAR( 20 ) CHARACTER SET utf8 COLLATE utf8_general_ci NOT NULL;
+ALTER TABLE `subscriptions` CHANGE `invoice_number` `invoice_number` VARCHAR( 30 ) NOT NULL;

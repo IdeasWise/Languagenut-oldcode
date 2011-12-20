@@ -47,7 +47,8 @@ class controller_game_translations extends Controller {
 									'game_uid'			=>$game_uid,
 									'uid'				=>$uid,
 									'game_name'			=>$arrGame['name'],
-									'translation_name'	=>$arrTranslation['name']
+									'translation_name'	=>$arrTranslation['name'],
+									'instruction'		=>$arrTranslation['instruction']
 								)
 							);
 							$found = true;
@@ -60,7 +61,8 @@ class controller_game_translations extends Controller {
 								'game_uid'			=>$game_uid,
 								'uid'				=>$uid,
 								'game_name'			=>$arrGame['name'],
-								'translation_name'	=>''
+								'translation_name'	=>'',
+								'instruction'		=>''
 							)
 						);
 					}

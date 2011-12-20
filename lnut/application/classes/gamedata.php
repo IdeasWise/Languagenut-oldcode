@@ -127,7 +127,8 @@ class gamedata extends generic_object {
 				$arrRow = mysql_fetch_array($result);
 				$arrResponse = array(
 					'default_key'	=>$arrRow['key'],
-					'default_value'	=>$arrRow['value']
+					'default_value'	=>$arrRow['value'],
+					'instructions'	=>$arrRow['instructions']
 				);
 			}
 		}

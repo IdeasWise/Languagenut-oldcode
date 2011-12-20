@@ -1302,9 +1302,6 @@ class user extends generic_object {
 				$return	= true;
 			}
 		}
-
-
-
 		return $return;
 	}
 
@@ -1439,7 +1436,13 @@ class user extends generic_object {
 		$_SESSION['user']['school_uid']		= $this->getSchoolIdForAccount();
 		$_SESSION['user']['ByOpenUserName']	= 0;
 		$_SESSION['user']['defaultPage']	= 'admin/users/school/';
-
+		$_SESSION['user']['package_token']	= 'standard';
+		$user_uid	= $this->getSchoolId();
+		$arrSubscription = false;
+		$arrSubscription =subscriptions::getUserSubscriptionDetails($user_uid);
+		if($arrSubscription!=false) {
+			$_SESSION['user']['package_token']	= $arrSubscription['package_token'];
+		}
 		if(isset($_SESSION['user']['user_type']) && is_array($_SESSION['user']['user_type']) && $this->get_is_admin() != 1)	{
 			$_SESSION['user']['defaultPage']	= 'account/users/student/';
 			$_SESSION['user']['defaultMenu']	= 'menu.schoolteacher.user';
@@ -1449,6 +1452,7 @@ class user extends generic_object {
 				$_SESSION['user']['defaultPage']	= 'account/classes/list/';
 				$_SESSION['user']['defaultMenu']	= 'menu.school.user';
 				$_SESSION['user']['userRights']		= 'school';
+
 			} else if( in_array('schooladmin',$_SESSION['user']['user_type']) ) {
 				$_SESSION['user']['defaultPage']	= 'account/users/schoolteacher/';
 				$_SESSION['user']['defaultMenu']	= 'menu.schooladmin.user';

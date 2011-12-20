@@ -195,7 +195,8 @@ class units extends generic_object {
 		$units = array();
 		$query = "SELECT ";
 		$query.="`ut`.`unit_id`, ";
-		$query.="`ut`.`name` ";
+		$query.="`ut`.`name`, ";
+		$query.="`colour`";
 		$query.="FROM ";
 		$query.="`units`, ";
 		$query.="`units_translations` AS `ut` ";
@@ -207,13 +208,15 @@ class units extends generic_object {
 		}
 		$query.="ORDER BY ";
 		$query.="`ut`.`unit_id` ASC";
+		
 		$result = database::query($query);
 		if ($result && mysql_num_rows($result) > 0) {
 			while ($row = mysql_fetch_assoc($result)) {
 				$u = ((int) $row['unit_id'] < 10) ? '0' . $row['unit_id'] : $row['unit_id'];
 				$s = 1;
 				$units[$row['unit_id']] = array(
-					'name' => stripslashes($row['name']),
+					'colour'=> stripslashes($row['colour']),
+					'name'	=> stripslashes($row['name']),
 					'story' => (
 					file_exists(
 							str_replace(
@@ -233,7 +236,8 @@ class units extends generic_object {
 		} else {
 			$query = "SELECT ";
 			$query.="`ut`.`unit_id`, ";
-			$query.="`ut`.`name` ";
+			$query.="`ut`.`name`, ";
+			$query.="`colour`";
 			$query.="FROM ";
 			$query.="`units`, ";
 			$query.="`units_translations` AS `ut` ";
@@ -251,6 +255,7 @@ class units extends generic_object {
 					$u = ((int) $row['unit_id'] < 10) ? '0' . $row['unit_id'] : $row['unit_id'];
 					$s = 1;
 					$units[$row['unit_id']] = array(
+						'colour'=> stripslashes($row['colour']),
 						'name' => stripslashes($row['name']),
 						'story' => (
 						file_exists(

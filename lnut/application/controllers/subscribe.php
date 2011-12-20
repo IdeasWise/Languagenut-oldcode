@@ -401,7 +401,15 @@ class Subscribe extends Controller {
 				$tpl = 'body.subscribe.school.'.$this->locale;
 				$skeleton_tpl = 'skeleton.landing';
 			}
-
+			$package_image = 'mfl-button.png';
+			$package_image_alt = 'Modern Foreign Languages';
+			if(isset($_SESSION['sess_package']) && $_SESSION['sess_package']=='eal') {
+				$package_image = 'eal-button.png';
+				$package_image_alt = 'EAL';
+			} else if(isset($_SESSION['sess_package']) && $_SESSION['sess_package']=='gaelic') {
+				$package_image = 'nut_Scotland_small.png';
+				$package_image_alt = 'Gaelic';
+			}
 			$body = new xhtml($tpl);
 			$body->load();
 			$body->assign(
@@ -453,7 +461,9 @@ class Subscribe extends Controller {
 					'translate.label_whole_school_password' => $label_whole_school_password,
 					'translate.which_reseller'				=> $label_which_reseller,
 					'reseller_code_uids'					=> $reseller_code_uids,
-					'signtype'								=> $signType
+					'signtype'								=> $signType,
+					'package_image_alt'						=> $package_image_alt,
+					'package_image'							=> $package_image
 				)
 			);
 
