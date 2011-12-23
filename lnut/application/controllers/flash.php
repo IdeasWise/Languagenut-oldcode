@@ -142,11 +142,12 @@ class Flash extends Controller {
 						$site_map = '\'[{"pageId":"supportSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
 						$language_id_text = 'learning_language_id';
 					}
+					/*
 					if(in_array($locale,array('cl','mx','cn'))) {
 						$site_map = '\'[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
 						$flash_package_token	= 'eal';
 
-					}
+					}*/
 					$skeleton = make::tpl ('skeleton.flash');
 					$skeleton->assign(
 						array(

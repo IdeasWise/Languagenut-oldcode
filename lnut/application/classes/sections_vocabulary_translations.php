@@ -89,7 +89,7 @@ class sections_vocabulary_translations extends generic_object {
 			if ($result) {
 				if (mysql_num_rows($result) > 0) {
 					while ($row = mysql_fetch_assoc($result)) {
-						$arrTerms[$row['term_uid']]['term'] = stripslashes($row['name']);
+						$arrTerms[$row['term_uid']]['term'] = stripslashes(str_replace('\\','',$row['name']));
 					}
 				}
 			}
@@ -129,7 +129,7 @@ class sections_vocabulary_translations extends generic_object {
 			$result = database::query($query);
 			if ($result && mysql_num_rows($result) > 0 && mysql_error() == '') {
 				$row = mysql_fetch_assoc($result);
-				$newTranslation = stripslashes($row['name']);
+				$newTranslation = stripslashes(str_replace('\\','',$row['name']));
 			}
 		}
 		return $newTranslation;

@@ -435,6 +435,37 @@ class format {
 		return ((validate::valid_string($s, false)) ? str_replace($symbols, $entities, $s) : $s);
 	}
 
+	public function ascii_to_entities($str) {
+		$count	= 1;
+		$out	= '';
+		$temp	= array();
+		for ($i = 0, $s = strlen($str); $i < $s; $i++) {
+			$ordinal = ord($str[$i]);
+			if ($ordinal < 128) {
+				if (count($temp) == 1) {
+					$out  .= '&#'.array_shift($temp).';';
+					$count = 1;
+				}
+				$out .= $str[$i];
+			} else {
+				if (count($temp) == 0)	{
+					$count = ($ordinal < 224) ? 2 : 3;
+				}
+				$temp[] = $ordinal;
+				if (count($temp) == $count) {
+					$number = ($count == 3) ? (($temp['0'] % 16) * 4096) +
+					(($temp['1'] % 64) * 64) +
+					($temp['2'] % 64) : (($temp['0'] % 32) * 64) +
+					($temp['1'] % 64);
+					$out .= '&#'.$number.';';
+					$count = 1;
+					$temp = array();
+				}
+			}
+		}
+		return $out;
+	}
+
 	public static function output($string='') {
 		return str_replace(',', ', ', str_replace(', ', ', ', strip_tags(stripslashes($string))));
 	}

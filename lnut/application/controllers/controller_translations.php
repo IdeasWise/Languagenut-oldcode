@@ -167,7 +167,7 @@ class controller_translations extends Controller {
 			$data['lable'] = $row['name'];
 			$data['input_name'] = 'lang['.$row['uid'].']';
 			if($row['Lvalue'] != NULL) {
-				$data['input_value'] = $row['Lvalue'];
+				$data['input_value'] = stripslashes(str_replace('\\','',$row['Lvalue']));
 			} else {
 				$data['input_value'] = '';
 			}
@@ -256,7 +256,7 @@ class controller_translations extends Controller {
 					$reference['RefTableName'] = $PreTable;
 					$reference['lable'] = ucfirst($this->arrPaths[2])." Name";
 					$reference['input_name'] = 'name';
-					$reference['input_value'] = $row['name'];
+					$reference['input_value'] = stripslashes(str_replace('\\','',$row['name']));
 				}
 
 			}
@@ -398,7 +398,7 @@ class controller_translations extends Controller {
 			$data['lable'] = $row['name'];
 			$data['input_name'] = 'vocabs['.$row['uid'].']';
 			if($val != NULL) {
-				$data['input_value'] = $val;
+				$data['input_value'] = stripslashes(str_replace('\\','',$val));
 			} else {
 				$data['input_value'] = '';
 			}

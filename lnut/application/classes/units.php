@@ -216,7 +216,7 @@ class units extends generic_object {
 				$s = 1;
 				$units[$row['unit_id']] = array(
 					'colour'=> stripslashes($row['colour']),
-					'name'	=> stripslashes($row['name']),
+					'name'	=> stripslashes(str_replace('\\','',$row['name'])),
 					'story' => (
 					file_exists(
 							str_replace(
@@ -256,7 +256,7 @@ class units extends generic_object {
 					$s = 1;
 					$units[$row['unit_id']] = array(
 						'colour'=> stripslashes($row['colour']),
-						'name' => stripslashes($row['name']),
+						'name' => stripslashes(str_replace('\\','',$row['name'])),
 						'story' => (
 						file_exists(
 								str_replace(

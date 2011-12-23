@@ -1,0 +1,12 @@
+
+<div class="page-content" style="text-align:center;">
+	<p>&nbsp;</p>
+    <h2>Would you like to upgrade your package from &ldquo;{{ current_package }}&rdquo; to &ldquo;{{ upgrade_package_to }}&rdquo;?</h2>
+    <p>&nbsp;</p>
+    {{ errors }}
+    <form name="frmupgrade" action="upgrade" method="post" target="_self">
+    <input type="hidden" name="upgrade" id="upgrade" value="1" />
+    <input class="confirm-button" type="submit" value="Continue" name="submit" style="background-position: left top;">
+    </form>
+    <p>&nbsp;</p>
+</div>

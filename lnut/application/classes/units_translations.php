@@ -88,7 +88,7 @@ class units_translations extends generic_object {
 			$result = database::query($query);
 			if ($result && mysql_num_rows($result) > 0) {
 				$row = mysql_fetch_assoc($result);
-				$name = stripslashes($row['name']);
+				$name = stripslashes(str_replace('\\','',$row['name']));
 			}
 		}
 		return $name;

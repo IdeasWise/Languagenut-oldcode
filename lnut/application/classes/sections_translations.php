@@ -88,7 +88,7 @@ class sections_translations extends generic_object {
 			$result = database::query($query);
 			if ($result && mysql_num_rows($result) > 0) {
 				$row = mysql_fetch_assoc($result);
-				$name = stripslashes($row['section_name']);
+				$name = stripslashes(str_replace('\\','',$row['section_name']));
 			}
 		}
 		return $name;

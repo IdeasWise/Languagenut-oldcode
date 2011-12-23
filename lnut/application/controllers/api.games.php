@@ -38,16 +38,23 @@ class API_Games extends Controller {
 			$result = database::query($query);
 			if(mysql_error() == '' && mysql_num_rows($result)) {
 				$query ="SELECT ";
-				$query.="`uid`, ";
-				$query.="`name` ";
-				$query.="FROM `game` ";
+				$query.="`G`.`uid`, ";
+				$query.="`G`.`name`, ";
+				$query.="`GT`.`name` AS `name_translation` ";
+				$query.="FROM ";
+				$query.="`game` AS `G`, ";
+				$query.="`game_translation` AS `GT` ";
+				$query.="WHERE ";
+				$query.="`G`.`uid`=`game_uid` ";
+				$query.="AND ";
+				$query.="`language_uid`='".mysql_real_escape_string($_REQUEST['language_uid'])."' ";
 				$result = database::query($query);
 				$arrJson = array();
 				if(mysql_error()=='' && mysql_num_rows($result)) {
 					while($arrRow=mysql_fetch_array($result)) {
 						$arrJson[] = array(
 							'game_uid'		=>$arrRow['uid'],
-							'game_name'		=>$arrRow['name'],
+							'game_name'		=> (strlen(trim($arrRow['name_translation'])))?$arrRow['name_translation']:$arrRow['name'],
 							'instructions'	=>game_translation::getInstruction($arrRow['uid'],$_REQUEST['language_uid']),
 							'game_data'	=>gamedata_translations::getGameDataTranslationForAPI(
 								$arrRow['uid'],

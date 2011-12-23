@@ -12,6 +12,7 @@ class Permission extends Controller {
 		if(isset($arrPaths[1]) && $arrPaths[1]=='detail') {
 			$this->doJsonDetail();
 		} else {
+			//$this->create();
 			$this->doJson();
 		}
 	}
@@ -75,8 +76,22 @@ class Permission extends Controller {
 	protected function doJsonDetail() {
 		if(isset($_REQUEST['support_languauge_uid']) && is_numeric($_REQUEST['support_languauge_uid']) && isset($_REQUEST['package_token']) && !empty($_REQUEST['package_token'])) {
 			if($_REQUEST['package_token']=='standard' || $_REQUEST['package_token']=='home') {
-				$json_file = config::get('cache').'json/standard_home_package.json';
-				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				if(in_array($_REQUEST['support_languauge_uid'],array(28,27))) {
+					$json_file = config::get('cache').'json/eal_package.json';
+					echo file_get_contents($json_file);
+				} else if(in_array($_REQUEST['support_languauge_uid'],array(107,109,114))) {
+					$json_file = config::get('cache').'json/ae_standard_home_package.json';
+					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				} else if($_REQUEST['support_languauge_uid']==20) {
+					$json_file = config::get('cache').'json/dk_standard_home_package.json';
+					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				} else if($_REQUEST['support_languauge_uid']==21) {
+					$json_file = config::get('cache').'json/nl_standard_home_package.json';
+					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				} else {
+					$json_file = config::get('cache').'json/standard_home_package.json';
+					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				}
 			} else if($_REQUEST['package_token']=='gaelic') {
 				$json_file = config::get('cache').'json/gaelic_package.json';
 				echo file_get_contents($json_file);
@@ -90,8 +105,10 @@ class Permission extends Controller {
 			echo '{"success":"false"}';
 		}
 	}
-
-	protected function doTest() {
+	/*
+	* please do not remove folloing function we're using it to create new json files
+	*/
+	protected function create() {
 		/*
 		$json_file = config::get('cache').'json/package_permission.json';
 		$content = str_replace('sl_uid',14,file_get_contents($json_file));
@@ -843,12 +860,17 @@ $arrUnitSectionGames = array(
 		@ini_set('memory_limit', '256M');
 		$arrJson['data'] = array();
 		$arrJson['data']['sl'] = 'sl_uid';
-		$query = "SELECT `uid` FROM `language` WHERE `prefix` = 'en'";
+		//$arrDK = array(3,4,5,6,7,10,11,12,14);
+		
+
+		//$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,11,12,14,17,23,24,75)";
+		$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,14)";
 		$result = database::query($query);
 		while($arrRow = mysql_fetch_array($result)) {
 			$arrJson['data']['l'][$arrRow['uid']]=$arrUnitSectionGames;
 		}
-		$json_file = config::get('cache').'json/eal_package.json';
+
+		$json_file = config::get('cache').'json/nl_standard_home_package.json';
 		//echo json_encode($arrJson);
 		$fh = fopen($json_file, 'w');
 		if($fh) {
@@ -858,6 +880,9 @@ $arrUnitSectionGames = array(
 	}
 
 }
+
+
+
 
 
 /*

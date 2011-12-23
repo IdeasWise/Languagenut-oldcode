@@ -269,7 +269,7 @@ class WebService extends Controller {
 				$arrLang[$i] = array (
 					'id'				=> $uid,
 					'language'			=> $support_language_uid,
-					'title'				=> $array['name']
+					'title'				=> stripslashes(str_replace('\\','',$array['name']))
 				);
 
 				$i++;
@@ -326,7 +326,7 @@ class WebService extends Controller {
 					if($unit_uid == '' || $unit_uid == 0) {
 						$arrUnit[] = array (
 										'id'						=> $unit_id,
-										'title'						=> $arrayOuter['name'],
+										'title'						=> stripslashes(str_replace('\\','',$arrayOuter['name'])),
 										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
 										'canAccessVocab'			=> false,
 										'canAccessReadingWriting'	=> false,
@@ -335,7 +335,7 @@ class WebService extends Controller {
 					} else if($unit_id == $unit_uid) {
 						$arrUnit[] = array (
 										'id'						=> $unit_id,
-										'title'						=> $arrayOuter['name'],
+										'title'						=> stripslashes(str_replace('\\','',$arrayOuter['name'])),
 										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
 										'canAccessVocab'			=> false,
 										'canAccessReadingWriting'	=> false,
@@ -409,7 +409,7 @@ class WebService extends Controller {
 						}
 						$arrSection[] = array (
 										'sectionId'					=> $section_id,
-										'title'						=> $arrayInner['name']
+										'title'						=> stripslashes(str_replace('\\','',$arrayInner['name']))
 									);
 					}
 					$arrJson = array(
@@ -454,7 +454,7 @@ class WebService extends Controller {
 		//echo '<pre>';
 		//print_r($arrResult);
 		//echo '</pre>';
-		echo utf8_encode(json_encode($arrResult)); exit;
+		echo json_encode($arrResult); exit;
 		//$json = json_decode( json_encode($arrResult));
 		//print_r($json);
 		//exit;
@@ -501,12 +501,12 @@ class WebService extends Controller {
 					foreach($terms as $term_id=>$term_array) {
 						$arrVocabs[] = array(
 										'termId'		=> $term_id,
-										'title'			=> str_replace('\\','',$term_array['term'])
+										'title'			=> stripslashes(str_replace('\\','',$term_array['term']))
 												);
 						}
 						$arrSection = array(
 								'sectionId'	=> $section_id,
-								'title'		=> str_replace('\\','',$section),
+								'title'		=> stripslashes(str_replace('\\','',$section)),
 								'vocab'		=> $arrVocabs
 							);
 						//$arrResult = array($arrSection);
@@ -575,14 +575,14 @@ class WebService extends Controller {
 					if(mysql_num_rows($result) > 0) {
 						while($row = mysql_fetch_assoc($result)) {
 							if(strlen($row['name']) > 0) {
-								$translations[$row['uid']] = array('term_id'=>$row['term_uid'],'term'=>stripslashes($row['name']));
+								$translations[$row['uid']] = array('term_id'=>$row['term_uid'],'term'=>stripslashes(str_replace('\\','',$row['name'])));
 							}
 						}
 					}
 
 					if(count($translations) < 1) {
 						foreach($termsOriginal as $id=>$term) {
-							$translations[$id] = array('term_id'=>$id,'term'=>$term['term']);
+							$translations[$id] = array('term_id'=>$id,'term'=>stripslashes(str_replace('\\','',$term['term'])));
 						}
 					}
 
@@ -600,12 +600,12 @@ class WebService extends Controller {
 							foreach($translations as $translation_id=>$translation_array) {
 								if($translation_array['term_id']==$term_id && !$used) {
 									$used = true;
-									$translation =str_replace('\\','',$translation_array['term']);
+									$translation =stripslashes(str_replace('\\','',$translation_array['term']));
 								}
 							}
 							$arrVocabs[] = array(
 											'termId'		=> $term_id,
-											'title'			=> str_replace('\\','',$term_array['term']),
+											'title'			=> stripslashes(str_replace('\\','',$term_array['term'])),
 											'translation'	=> $translation
 												);
 
