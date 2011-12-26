@@ -825,7 +825,11 @@ class user extends generic_object {
 			if(	in_array('student',$_SESSION['user']['user_type']) || in_array('homeuser',$_SESSION['user']['user_type']) )	{
 				return "flash";
 			} else if($_SESSION['user']['ByOpenUserName'] == 1){
-				return 'flash';
+				if($this->get_package_count()==2) {
+					return 'selection';
+				} else {
+					return 'flash';
+				}
 			} else {
 				return "account";
 			}
@@ -2036,6 +2040,22 @@ class user extends generic_object {
 			return array_unique($arrSupportLanguages);
 		}
 		return array(14);
+	}
+
+	private function get_package_count() {
+		$user_uid = $this->getSchoolId();
+		$query = "SELECT ";
+		$query.= "DISTINCT `package_token` ";
+		$query.= "FROM ";
+		$query.= "`subscriptions` ";
+		$query.= "WHERE ";
+		$query.= "`user_uid` = '".$user_uid."' ";
+		$result = database::query($query);
+		if(mysql_error()==='') {
+			return mysql_num_rows($result);
+		} else {
+			return 0;
+		}
 	}
 }
 

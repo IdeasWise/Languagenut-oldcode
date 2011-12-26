@@ -14,6 +14,7 @@ class Flash extends Controller {
 	protected function page () {
 
 		if(count($_SESSION) > 0 && isset($_SESSION['user']) && isset($_SESSION['user']['logged_in']) && $_SESSION['user']['logged_in']==true) {
+			$arrPaths				= config::get('paths');
 			$user_uid				= $_SESSION['user']['uid'];
 			//$type					= $_SESSION['user']['type'];
 			$locale					= $_SESSION['user']['prefix'];
@@ -25,6 +26,9 @@ class Flash extends Controller {
 			$language_id_text = 'support_language_id';
 			if(isset($_SESSION['user']['package_token'])) {
 				$flash_package_token = $_SESSION['user']['package_token'];
+			}
+			if(isset($arrPaths[1]) && in_array($arrPaths[1],array('standard','eal'))){
+				$flash_package_token = $arrPaths[1];
 			}
 
 			$arrEnLocales = array(
@@ -142,6 +146,7 @@ class Flash extends Controller {
 						$site_map = '\'[{"pageId":"supportSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
 						$language_id_text = 'learning_language_id';
 					}
+
 					/*
 					if(in_array($locale,array('cl','mx','cn'))) {
 						$site_map = '\'[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';

@@ -89,7 +89,8 @@ class Permission extends Controller {
 					$json_file = config::get('cache').'json/nl_standard_home_package.json';
 					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 				} else {
-					$json_file = config::get('cache').'json/standard_home_package.json';
+					//$json_file = config::get('cache').'json/standard_home_package.json';
+					$json_file = config::get('cache').'json/ae_standard_home_package.json';
 					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 				}
 			} else if($_REQUEST['package_token']=='gaelic') {
