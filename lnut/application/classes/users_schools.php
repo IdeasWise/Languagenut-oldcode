@@ -976,7 +976,6 @@ class users_schools extends generic_object {
 				$class_teacher_uid
 			);
 	}
-
 }
 
 ?>

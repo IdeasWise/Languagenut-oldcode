@@ -257,6 +257,7 @@ class account_reseller_users extends Controller {
 	protected function doList() {
 		$skeleton = config::getUserSkeleton();
 		$objResellerUsers = new reseller_users();
+		$objUser = new user();
 
 		if (!isset($this->arrPaths[2])) {
 			$this->arrPaths[2] = 'list';
@@ -352,6 +353,9 @@ class account_reseller_users extends Controller {
 				}
 				if(isset($data['username_open'])) {
 					$data['username_open'] = stripslashes($data['username_open']);
+				}
+				if($this->arrPaths[2] == 'school') {
+					$data['package_names'] = $objUser->get_user_package_text($data['uid']);
 				}
 
 				$rowTemplate = make::tpl('body.reseller.account.users.' . $this->arrPaths[2] . '.row')->assign($data);

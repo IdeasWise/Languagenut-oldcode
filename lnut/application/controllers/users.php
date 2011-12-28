@@ -342,6 +342,9 @@ class users extends Controller {
 						}
 					}
 				}
+				if($this->parts[2] == 'school') {
+					$data['package_names'] = $objUser->get_user_package_text($data['uid']);
+				}
 				if(isset($data['school'])) {
 					$data['school'] = stripslashes($data['school']);
 				}

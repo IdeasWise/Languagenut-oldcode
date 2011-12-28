@@ -2050,12 +2050,53 @@ class user extends generic_object {
 		$query.= "`subscriptions` ";
 		$query.= "WHERE ";
 		$query.= "`user_uid` = '".$user_uid."' ";
+		$query.= "AND ";
+		$query.= "`expires_dts`>'".date('Y-m-d H:i:s')."' ";
 		$result = database::query($query);
 		if(mysql_error()==='') {
 			return mysql_num_rows($result);
 		} else {
 			return 0;
 		}
+	}
+
+	public function get_user_packages($user_uid=null) {
+		$arrPackages = array();
+		$query ="SELECT ";
+		$query.="`package_token` ";
+		$query.="FROM ";
+		$query.="`subscriptions` ";
+		$query.="WHERE ";
+		$query.="`user_uid`='".$user_uid."' ";
+		$query.="AND ";
+		$query.="`expires_dts`>'".date('Y-m-d H:i:s')."' ";
+		$result = database::query($query);
+		if(mysql_error()==='' && mysql_num_rows($result)) {
+			while($row=mysql_fetch_assoc($result)) {
+				$arrPackages[] = $row['package_token'];
+			}
+		}
+		return $arrPackages;
+	}
+
+	public function get_user_package_text($user_uid=null) {
+		$package_text = '-';
+		$arrPackages = $this->get_user_packages($user_uid);
+		if(is_array($arrPackages) && count($arrPackages)) {
+			if(count($arrPackages)==1) {
+				switch ($arrPackages[0]) {
+					case 'standard':
+						$package_text = 'mfl';
+					break;
+					default:
+						$package_text = $arrPackages[0];
+					break;
+				}
+			} else if (count($arrPackages)==2) {
+				$package_text = 'both';
+			}
+		}
+		return $package_text;
 	}
 }
 
