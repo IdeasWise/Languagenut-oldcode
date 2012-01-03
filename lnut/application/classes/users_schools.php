@@ -502,8 +502,8 @@ class users_schools extends generic_object {
 
 				$panel = make::tpl('body.admin.invoice.school.list.row.tab');
 
-				if ($data['due_date'] != '0000-00-00 00:00:00') {
-					$data['time_remains'] = ceil((strtotime($data['due_date']) - time()) / (1 * 24 * 60 * 60));
+				if ($data['expires_dts'] != '0000-00-00 00:00:00') {
+					$data['time_remains'] = ceil((strtotime($data['expires_dts']) - time()) / (1 * 24 * 60 * 60));
 					if ($data['time_remains'] > 7) {
 						$data['time_class'] = 'ClassGreen';
 					} elseif ($data['time_remains'] < 7 && $data['time_remains'] > 0) {
@@ -976,6 +976,7 @@ class users_schools extends generic_object {
 				$class_teacher_uid
 			);
 	}
+
 }
 
 ?>

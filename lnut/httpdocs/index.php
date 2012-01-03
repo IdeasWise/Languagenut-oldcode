@@ -201,8 +201,14 @@ class config {
 			$skeleton = new xhtml('skeleton.account');
 			$skeleton->load();
 
-			$Menu = new xhtml(@$_SESSION['user']['defaultMenu']);
-			$Menu->load();
+			$Menu = make::tpl($_SESSION['user']['defaultMenu']);
+			if(isset($_SESSION['user']['userRights']) && in_array($_SESSION['user']['userRights'],array('school','schooladmin','schoolteacher'))) {
+				if(isset($_SESSION['user']['package_count']) && $_SESSION['user']['package_count'] > 1) {
+					$Menu->assign('area','selection');
+				} else {
+					$Menu->assign('area','flash');
+				}
+			}
 			$skeleton->assign(array('account.menu.item' => $Menu->get_content()));
 		}
 		return $skeleton;

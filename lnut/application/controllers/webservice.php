@@ -483,12 +483,12 @@ class WebService extends Controller {
 
 			$svtObject = new sections_vocabulary_translations(); // initializing sections_vocabulary_translations Object
 			$result = $svtObject->getVocabTransArray($term_ids, $language_id);
+
 			if(count($result)){
 				$terms = $result;
 			} else {
 				//echo 'no rows<br />';
 			}
-
 
 			if(count($terms) > 0) {
 				//echo '<gamedata>';

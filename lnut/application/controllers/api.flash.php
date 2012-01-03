@@ -26,9 +26,9 @@ class API_Writing extends Controller {
 	private function getTips() {
 		if(isset($_REQUEST['language_uid']) && is_numeric($_REQUEST['language_uid'])) {
 			$objFlashTips = new flash_tips_translation();
-			echo json_encode(
+			echo str_replace('\r\n','\n',json_encode(
 				$objFlashTips->getAPIFlashTipsTranslations($_REQUEST['language_uid'])
-			);
+			));
 		} else {
 			echo '{"success":"false"}';
 		}

@@ -24,91 +24,89 @@ class TryNow extends Controller {
 			$_SESSION['trynow'] = 1;
 		}
 
+		$arrPaths				= config::get('paths');
 		$locale					= config::get('locale');
-		$support_language_uid	= 14;
-		$swf					= 'swf';
+		$support_language_id	= 14;
 
 		$arrEnLocales = array(
-				'bz',
-				'jm',
-				'tt',
-				'gy',
-				'ag',
-				'dm',
-				'vc',
-				'bs',
-				'bd',
-				'bw',
-				'fj',
-				'gm',
-				'gh',
-				'gy',
-				'ke',
-				'mt',
-				'mu',
-				'na',
-				'ng',
-				'pk',
-				'rw',
-				'ws',
-				'sl',
-				'sg',
-				'sb',
-				'za',
-				'tz',
-				'to',
-				'ug',
-				'vu',
-				'zm',
-				'zw'
-			);
+			'bz',
+			'jm',
+			'tt',
+			'gy',
+			'ag',
+			'dm',
+			'vc',
+			'bs',
+			'bd',
+			'bw',
+			'fj',
+			'gm',
+			'gh',
+			'gy',
+			'ke',
+			'mt',
+			'mu',
+			'na',
+			'ng',
+			'pk',
+			'rw',
+			'ws',
+			'sl',
+			'sg',
+			'sb',
+			'za',
+			'tz',
+			'to',
+			'ug',
+			'vu',
+			'zm',
+			'zw'
+		);
 
-			$arrFrLocales = array(
-				'cd',
-				'mg',
-				'cm',
-				'ci',
-				'bf',
-				'ne',
-				'sn',
-				'ml',
-				'bi',
-				'bj',
-				'tg',
-				'ga',
-				'dj'
-			);
+		$arrFrLocales = array(
+			'cd',
+			'mg',
+			'cm',
+			'ci',
+			'bf',
+			'ne',
+			'sn',
+			'ml',
+			'bi',
+			'bj',
+			'tg',
+			'ga',
+			'dj'
+		);
 
-			$arrSpLocales = array(
-				'es',
-				'co',
-				'gt',
-				'pe',
-				'ni',
-				'do',
-				'bo',
-				've',
-				'ar',
-				'cu',
-				'pr',
-				'py',
-				'ec',
-				'hn',
-				'sv',
-				'cr',
-				'pa'
-			);
-			if(in_array($locale,$arrEnLocales)) {
-				$locale = 'en';
-			} else if(in_array($locale,$arrFrLocales)) {
-				$locale = 'fr';
-			} else if(in_array($locale,$arrSpLocales)) {
-				$locale = 'sp';
-			}
-
+		$arrSpLocales = array(
+			'es',
+			'co',
+			'gt',
+			'pe',
+			'ni',
+			'do',
+			'bo',
+			've',
+			'ar',
+			'cu',
+			'pr',
+			'py',
+			'ec',
+			'hn',
+			'sv',
+			'cr',
+			'pa'
+		);
+		if(in_array($locale,$arrEnLocales)) {
+			$locale = 'en';
+		} else if(in_array($locale,$arrFrLocales)) {
+			$locale = 'fr';
+		} else if(in_array($locale,$arrSpLocales)) {
+			$locale = 'sp';
+		}
 		$query ="SELECT ";
-		$query.="`uid`, ";
-		$query.="`flash_version` ";
+		$query.="`uid` ";
 		$query.="from ";
 		$query.="`language` ";
 		$query.="WHERE ";
@@ -117,10 +115,7 @@ class TryNow extends Controller {
 		$result = database::query($query);
 		if($result && mysql_num_rows($result) ){
 			$row = mysql_fetch_array($result);
-			$support_language_uid = $row['uid'];
-			if(!empty($row['flash_version'])) {
-				$swf = $row['flash_version'];
-			}
+			$support_language_id = $row['uid'];
 		}
 		/*
 		$swf = 'swf';
@@ -131,8 +126,7 @@ class TryNow extends Controller {
 		$skeleton->assign(
 			array(
 				'translate:need_flash'	=> $config_data,
-				'support_language_uid'	=> $support_language_uid,
-				'swf'					=> $swf
+				'support_language_id'	=> $support_language_id,
 			)
 		);
 

@@ -1441,6 +1441,7 @@ class user extends generic_object {
 		$_SESSION['user']['ByOpenUserName']	= 0;
 		$_SESSION['user']['defaultPage']	= 'admin/users/school/';
 		$_SESSION['user']['package_token']	= 'standard';
+		$_SESSION['user']['package_count']	= $this->get_package_count();
 		$user_uid	= $this->getSchoolId();
 		$arrSubscription = false;
 		$arrSubscription =subscriptions::getUserSubscriptionDetails($user_uid);
