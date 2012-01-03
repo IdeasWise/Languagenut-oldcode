@@ -352,6 +352,7 @@ class Subscribe extends Controller {
 			$title_problems_with_form = (isset($arrStageInfo['title_problems_with_form']))?stripslashes($arrStageInfo['title_problems_with_form']):'';
 
 			$label_school_name = (isset($arrStageInfo['label_school_name']))?stripslashes($arrStageInfo['label_school_name']):'';
+			$label_school_detail = (isset($arrStageInfo['label_school_detail']))?stripslashes($arrStageInfo['label_school_detail']):'School Details';
 			$label_school_address = (isset($arrStageInfo['label_school_address']))?stripslashes($arrStageInfo['label_school_address']):'';
 			$label_school_postcode = (isset($arrStageInfo['label_school_postcode']))?stripslashes($arrStageInfo['label_school_postcode']):'';
 
@@ -450,6 +451,7 @@ class Subscribe extends Controller {
 					'translate.label_whole_school_username' => $label_whole_school_username,
 					'translate.label_whole_school_password' => $label_whole_school_password,
 					'translate.which_reseller'				=> $label_which_reseller,
+					'translate.label_school_detail'			=> $label_school_detail,
 					'reseller_code_uids'					=> $reseller_code_uids,
 					'signtype'								=> $signType
 				)
