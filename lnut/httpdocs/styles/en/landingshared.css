@@ -1,0 +1,524 @@
+/*
+ * HTML5 Boilerplate
+ *
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+
+@font-face {
+    /* This declaration targets Internet Explorer */
+    font-family: 'nusaliver';
+    src: url('http://www.languagenut.com/fonts/nusaliver-webfont.eot');
+}
+
+@font-face {
+    /* This declaration targets everything else */
+    font-family: 'nusaliver';
+    src: url(//:) format('no404'), url('http://www.languagenut.com/fonts/nusaliver-webfont.woff') format('woff'), url('http://www.languagenut.com/fonts/nusaliver-webfont.ttf') format('truetype'), url('http://www.languagenut.com/fonts/nusaliver-webfont.svg#nusaliverRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* =============================================================================
+   HTML5 element display
+   ========================================================================== */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+audio[controls], canvas, video { display: inline-block; *display: inline; *zoom: 1; }
+
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+/*
+ * 1. Correct text resizing oddly in IE6/7 when body font-size is set using em units
+ *    http://clagnut.com/blog/348/#c790
+ * 2. Force vertical scrollbar in non-IE
+ * 3. Remove Android and iOS tap highlight color to prevent entire container being highlighted
+ *    www.yuiblog.com/blog/2010/10/01/quick-tip-customizing-the-mobile-safari-tap-highlight-color/
+ * 4. Prevent iOS text size adjust on device orientation change, without disabling user zoom
+ *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+ */
+
+html { font-size: 100%; overflow-y: scroll; -webkit-overflow-scrolling: touch; -webkit-tap-highlight-color: rgba(0,0,0,0); -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+
+body { margin: 0; font-size: 16px; }
+
+body, button, input, select, textarea { font-family: arial, sans-serif; color: #222; }
+
+/* 
+ * These selection declarations have to be separate
+ * No text-shadow: twitter.com/miketaylr/status/12228805301
+ * Also: hot pink!
+ */
+
+::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+
+a { color: #00e; }
+a:visited { color: #551a8b; }
+a:focus { outline: thin dotted; }
+
+/* Improve readability when focused and hovered in all browsers: people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active { outline: 0; }
+
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: bold; }
+
+blockquote { margin: 1em 40px; }
+
+dfn { font-style: italic; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0; }
+
+ins { background: #ff9; color: #000; text-decoration: none; }
+
+mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
+
+/* Redeclare monospace font family: en.wikipedia.org/wiki/User:Davidgothberg/Test59 */
+pre, code, kbd, samp { font-family: monospace, monospace; _font-family: 'courier new', monospace; font-size: 1em; }
+
+/* Improve readability of pre-formatted text in all browsers */
+pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
+
+q { quotes: none; }
+q:before, q:after { content: ""; content: none; }
+
+small { font-size: 85%; }
+
+/* Position subscript and superscript content without affecting line-height: gist.github.com/413930 */
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+
+/* =============================================================================
+   Lists
+   ========================================================================== */
+
+ul, ol { margin: 1em 0; padding: 0 0 0 40px; }
+dd { margin: 0 0 0 40px; }
+nav ul, nav ol { list-style: none; margin: 0; padding: 0; }
+
+
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+
+/*
+ * Improve image quality when scaled in IE7
+ * code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+ */
+
+img { border: 0; -ms-interpolation-mode: bicubic; }
+
+/*
+ * Correct overflow displayed oddly in IE9 
+ */
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+
+/* =============================================================================
+   Figures
+   ========================================================================== */
+
+figure { margin: 0; }
+
+
+/* =============================================================================
+   Forms
+   ========================================================================== */
+
+form { margin: 0; }
+fieldset { border: 0; margin: 0; padding: 0; }
+
+/* 
+ * 1. Correct color not inheriting in IE6/7/8/9 
+ * 2. Correct alignment displayed oddly in IE6/7 
+ */
+
+legend { border: 0; *margin-left: -7px; padding: 0; }
+
+/* Indicate that 'label' will shift focus to the associated form element */
+label { cursor: pointer; }
+
+/*
+ * 1. Correct font-size not inheriting in all browsers
+ * 2. Remove margins in FF3/4 S5 Chrome
+ * 3. Define consistent vertical alignment display in all browsers
+ */
+
+button, input, select, textarea { font-size: 100%; margin: 0; vertical-align: baseline; *vertical-align: middle; }
+
+/*
+ * 1. Define line-height as normal to match FF3/4 (set using !important in the UA stylesheet)
+ * 2. Correct inner spacing displayed oddly in IE6/7
+ */
+
+button, input { line-height: normal; *overflow: visible; }
+
+/*
+ * 1. Display hand cursor for clickable form elements
+ * 2. Allow styling of clickable form elements in iOS
+ */
+
+button, input[type="button"], input[type="reset"], input[type="submit"] { cursor: pointer; -webkit-appearance: button; }
+
+/*
+ * Consistent box sizing and appearance
+ */
+
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; }
+input[type="search"] { -moz-box-sizing: content-box; -webkit-box-sizing: content-box; box-sizing: content-box; }
+
+/* 
+ * Remove inner padding and border in FF3/4
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/ 
+ */
+
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+
+/* Remove default vertical scrollbar in IE6/7/8/9 */
+textarea { overflow: auto; vertical-align: top; }
+
+/* Colors for form validity */
+input:valid, textarea:valid {  }
+input:invalid, textarea:invalid { background-color: #f0dddd; }
+
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+
+table { border-collapse: collapse; border-spacing: 0; }
+
+
+/* =============================================================================
+   Primary styles
+   Author: 
+   ========================================================================== */
+
+/** BASIC FORMATTING **/
+
+/* Fonts */
+
+body {
+	font-family: Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6, .headerStyle, em, .impact,
+#register #submit {
+	font-family: 'nusaliver', "arial Black";
+	font-weight: normal;
+	margin-top: 0;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+.impact {
+	font-size: 35px;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	line-height: 1.5em;
+}
+
+/** STRUCTURE **/
+
+body {
+	text-align: center;
+}
+
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#header, #main, #footer {
+	clear: both;
+}
+
+#main {
+	min-height: 345px;
+	margin: 0 10px;
+}
+#footer {
+
+}
+
+
+/** BASIC THEMING **/
+
+body {
+	background: url(http://images.languagenut.com/landing/footer.jpg) bottom center repeat-x #cee6d7;
+	overflow: auto;
+}
+
+
+#wrap {
+	margin: 0;
+	overflow: auto;
+	background: url(http://images.languagenut.com/landing/CloudWrap.jpg) top center repeat-x transparent;
+}
+
+
+
+/** Header **/
+
+#header {
+	height: 50px;
+}
+
+
+
+#topBar {
+	height: 50px;
+	padding: 0px 0px 10px 0px;
+	overflow: hidden;
+}
+
+#homeLink {
+    background: url(http://images.languagenut.com/en/landing/homeLink.jpg) top right;
+    height: 50px;
+    width: 100px;
+    margin-top: 0px;
+    float: left;
+}
+
+#homePageLink:hover {
+	background-position: top left;
+} 
+
+#header h1 {
+	margin: 0;
+	background: url(http://images.languagenut.com/en/landing/topBannerFullText.jpg) center center no-repeat;
+	height: 50px;
+	width: 763px;
+	float: left;
+	
+}
+
+#loginLink {
+	background: url(http://images.languagenut.com/en/landing/loginSprite.gif) top right no-repeat;
+	height: 50px;
+	width: 90px;
+	float: right;
+}
+
+#loginLink:hover {
+	background-position: top left;
+}
+
+
+/*** MAIN ***/
+
+#main {
+	background: url(http://images.languagenut.com/landing/gradBoxMid.gif) top center repeat-y;
+	color: #0b4173;
+}
+
+#main p, #landingMenu ul {
+	margin: 0 0 1em 0;
+}
+
+#mainHeaderWrap {
+	background: url(http://images.languagenut.com/landing/gradBoxTopClouds.jpg) top center no-repeat;
+}
+
+#mainFooterWrap{
+	background: url(http://images.languagenut.com/landing/gradBoxBottom.gif) bottom center no-repeat;
+	padding: 48px 41px 68px 45px;
+	text-align: left;
+}
+
+
+#main #banner {
+	height: 217px;
+	clear: both;
+	text-align: center;
+}
+
+#main h2 {
+	font-size: 45px;
+	text-align: center;
+}
+
+#menu {
+	float: left;
+	width: 150px;
+	margin-right: 30px;
+}
+
+#mainContent {
+	float: left;
+	width: 500px;
+}
+
+#sidebar {
+	width: 135px;
+	float: right;
+}
+
+#sidebar #trialLink {
+	background:  url(http://images.languagenut.com/en/landing/freeSprite.jpg) top left;
+	height: 144px;
+	width: 131px;
+}
+
+#sidebar #trialLink:hover {
+	background-position: top right;
+}
+
+#landingMenu {
+	list-style: none;
+	margin: 0;
+	padding-left: 30px;
+	line-height: 1.5em;
+}
+
+/*
+#landingMenu{
+	color: #346600;
+}
+*/
+
+#landingMenu .subMenu {
+	list-style: disc;
+	padding-left: 30px;
+}
+
+#landingMenu a, #landingMenu {
+	/* color: #0b4173; */
+	/* color: #346600; */
+	color: #168ace;
+}
+
+#landingMenu .heading {
+	font-weight: bold;
+	color: #0a5b8d;
+}
+#landingMenu a:hover {
+	color: #a159aa;
+}
+
+#landingMenu h4 {
+	font-size: 1.5em;
+	margin-bottom: 0;
+}
+
+/*** FOOTER ***/
+
+#footer {
+	font-size: 24px;
+	padding: 385px 0px 15px 0px;
+	line-height: 38px;
+}
+
+#footerTitle {
+	padding-left: 150px;
+	background: url(http://images.languagenut.com/landing/footerTitleBG.gif) no-repeat left center;
+	width: 790px;
+	text-align: left;
+} 
+
+#footer .title {
+	background: url(http://images.languagenut.com/landing/footerTitle.gif);
+	height: 38px;
+	width: 350px;
+	float: left;
+	margin-right: 20px;
+}
+
+
+/*** REGISTRATION PAGE ***/
+
+
+
+/* =============================================================================
+   Non-semantic helper classes
+   Please define your styles before this section.
+   ========================================================================== */
+
+/* For image replacement */
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+.ir br { display: none; }
+
+/* Hide for both screenreaders and browsers:
+   css-discuss.incutio.com/wiki/Screenreader_Visibility */
+.hidden { display: none; visibility: hidden; }
+
+/* Hide only visually, but have it available for screenreaders: by Jon Neal.
+  www.webaim.org/techniques/css/invisiblecontent/  &  j.mp/visuallyhidden */
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+
+/* Extends the .visuallyhidden class to allow the element to be focusable when navigated to via the keyboard: drupal.org/node/897638 */
+.visuallyhidden.focusable:active, .visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+
+/* Hide visually and from screenreaders, but maintain layout */
+.invisible { visibility: hidden; }
+
+/* Contain floats: nicolasgallagher.com/micro-clearfix-hack/ */ 
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+
+
+/* =============================================================================
+   PLACEHOLDER Media Queries for Responsive Design.
+   These override the primary ('mobile first') styles
+   Modify as content requires.
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+  /* Style adjustments for viewports 480px and over go here */
+
+}
+
+@media only screen and (min-width: 768px) {
+  /* Style adjustments for viewports 768px and over go here */
+
+}
+
+
+/* =============================================================================
+   Print styles.
+   Inlined to avoid required HTTP connection: www.phpied.com/delay-loading-your-print-css/
+   ========================================================================== */
+ 
+@media print {
+  * { background: transparent !important; color: black !important; text-shadow: none !important; filter:none !important; -ms-filter: none !important; } /* Black prints faster: sanbeiji.com/archives/953 */
+  a, a:visited { color: #444 !important; text-decoration: underline; }
+  a[href]:after { content: " (" attr(href) ")"; }
+  abbr[title]:after { content: " (" attr(title) ")"; }
+  .ir a:after, a[href^="javascript:"]:after, a[href^="#"]:after { content: ""; }  /* Don't show links for images, or javascript/internal links */
+  pre, blockquote { border: 1px solid #999; page-break-inside: avoid; }
+  thead { display: table-header-group; } /* css-discuss.incutio.com/wiki/Printing_Tables */
+  tr, img { page-break-inside: avoid; }
+  img { max-width: 100% !important; }
+  @page { margin: 0.5cm; }
+  p, h2, h3 { orphans: 3; widows: 3; }
+  h2, h3{ page-break-after: avoid; }
+}

@@ -1,0 +1,25 @@
+php_flag display_errors on
+php_flag  log_errors on
+php_value error_log  /var/www/vhosts/languagenut.com/PHP_errors.log
+php_value allow_url_fopen 1
+
+# Enable URL Rewriting
+RewriteEngine on
+
+RewriteBase /
+
+RewriteCond %{QUERY_STRING} base64_encode.*\(.*\) [OR]
+RewriteCond %{QUERY_STRING} (\<|%3C).*script.*(\>|%3E) [NC,OR]
+RewriteCond %{QUERY_STRING} GLOBALS(=|\[|\%[0-9A-Z]{0,2}) [OR]
+RewriteCond %{QUERY_STRING} _REQUEST(=|\[|\%[0-9A-Z]{0,2})
+RewriteRule ^(.*)$ index.php [F,L]
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !^/index.php
+RewriteCond %{REQUEST_URI} (/|\.php|\.html|\.htm|\.feed|\.pdf|\.raw|/[^.]*)$  [NC]
+RewriteRule (.*) index.php
+
+#### IP Manager [BOF] ####
+#### IP Manager [EOF] ####
