@@ -36,6 +36,9 @@ class LoaderSupport extends Controller {
 						$arrAvailableLanguages = explode(',',$objLanguage->get_live_available_language_uids());
 					}
 				}
+				if(count($arrAvailableLanguages) && in_array($support_language_uid,array(114,109))){
+					$arrAvailableLanguages[]=16;
+				}
 			}
 		}
 
@@ -89,6 +92,9 @@ class LoaderSupport extends Controller {
 					$name		= $array['name'];
 					$directory	= $array['directory'];
 					$use		= ($array['available']==1 ? 'yes' : 'no');
+					if(in_array($support_language_uid,array(114,109)) && $uid==16){
+						$use='yes';
+					}
 					echo '<language ';
 					echo 'id="'.$uid.'" ';
 					echo 'title="'.$name.'" ';

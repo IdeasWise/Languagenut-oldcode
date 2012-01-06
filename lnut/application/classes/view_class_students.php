@@ -245,11 +245,16 @@ class view_class_students extends FPDF {
 				$YI  = 8; // used to set Y position to Image
 			}
 		}
-
+		/*
+			if($_SERVER['REMOTE_ADDR']=='117.206.149.1') {
+				echo '<pre>';
+						print_r(debug_backtrace());
+						echo '</pre>';
+			}
+		*/
 
 		$this->Output();
 	}
 
 }
-
 ?>

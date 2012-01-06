@@ -693,7 +693,7 @@ class users_schools extends generic_object {
 			$this->set_address_id($addressObject->insert());
 
 			$school_uid = $this->insert();
-			//$this->addEmailList($_POST['name'], $_POST['email']);
+			$this->addEmailList($_POST['name'], $_POST['email']);
 			/**
 			 * Fetch the page data from the database for this given locale
 			 */

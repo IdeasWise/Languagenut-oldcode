@@ -24,8 +24,13 @@ class Landing extends Controller {
 		 * Fetch the body content template
 		 */
 		$tpl = '';
-		if(config::get('locale')!='') {
-			$tpl.= 'body.landing.'.config::get('locale');
+		$locale = config::get('locale');
+		if($locale!='') {
+			if(in_array($locale,array('au','us','nz','ae','lb'))) {
+				$tpl.= 'body.landing.'.$locale;
+			} else {
+				$tpl.= 'body.landing.en';
+			}
 		} else {
 			$tpl.= 'body.landing';
 		}
@@ -66,7 +71,7 @@ class Landing extends Controller {
 				'keywords'		=> $page->keywords(),
 				'description'	=> $page->description(),
 				'body'			=> $body,
-				'intro'			=> 'coming soon.',//$intro->get_content(),
+				'intro'			=> $intro->get_content(),
 				'locale'		=> config::get('locale')
 			)
 		);
