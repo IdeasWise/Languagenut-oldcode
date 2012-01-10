@@ -217,6 +217,8 @@ class units extends generic_object {
 		$query = "SELECT ";
 		$query.="`ut`.`unit_id`, ";
 		$query.="`ut`.`name`, ";
+		$query.="`ut`.`song`, ";
+		$query.="`ut`.`story`, ";
 		$query.="`colour`";
 		$query.="FROM ";
 		$query.="`units`, ";
@@ -233,25 +235,11 @@ class units extends generic_object {
 		$result = database::query($query);
 		if ($result && mysql_num_rows($result) > 0) {
 			while ($row = mysql_fetch_assoc($result)) {
-				$u = ((int) $row['unit_id'] < 10) ? '0' . $row['unit_id'] : $row['unit_id'];
-				$s = 1;
 				$units[$row['unit_id']] = array(
 					'colour'=> stripslashes($row['colour']),
 					'name'	=> stripslashes(str_replace('\\','',$row['name'])),
-					'story' => (
-					$this->does_file_exist(
-							str_replace(
-									array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $story
-							)
-					) ? true : false
-					),
-					'karaoke' => (
-					$this->does_file_exist(
-							str_replace(
-									array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $song
-							)
-					) ? true : false
-					)
+					'story' => (($row['song']==1)?true:false),
+					'karaoke' => (($row['story']==1)?true:false)
 				);
 			}
 		} else {
@@ -278,20 +266,8 @@ class units extends generic_object {
 					$units[$row['unit_id']] = array(
 						'colour'=> stripslashes($row['colour']),
 						'name' => stripslashes(str_replace('\\','',$row['name'])),
-						'story' => (
-						$this->does_file_exist(
-								str_replace(
-										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $story
-								)
-						) ? true : false
-						),
-						'karaoke' => (
-						$this->does_file_exist(
-								str_replace(
-										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $song
-								)
-						) ? true : false
-						)
+						'story' => (($row['song']==1)?true:false),
+						'karaoke' => (($row['story']==1)?true:false)
 					);
 				}
 			}
