@@ -21,14 +21,28 @@ class Flash extends Controller {
 			$locale					= config::get('locale');
 			$support_language_id	= 14;
 			$swf					= 'swf';
-			$site_map = '\'[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
+			$arrPackages			= user::get_user_packages($_SESSION['user']['uid']);
+			$site_map				= '\'[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
 			$flash_package_token	= 'standard';
 			$language_id_text = 'support_language_id';
+			$other_notification = '';
+			/*
 			if(isset($_SESSION['user']['package_token'])) {
 				$flash_package_token = $_SESSION['user']['package_token'];
 			}
+			*/
 			if(isset($arrPaths[1]) && in_array($arrPaths[1],array('standard','eal'))){
 				$flash_package_token = $arrPaths[1];
+			}
+			if($flash_package_token == 'standard' && !in_array($flash_package_token,$arrPackages)){
+				$flash_package_token = 'lgfl_standard';
+			}
+			if($flash_package_token == 'eal' && !in_array($flash_package_token,$arrPackages)){
+				if(in_array('lgfl_eal',$arrPackages)) {
+					$flash_package_token = 'lgfl_eal';
+				} else {
+					$flash_package_token = 'standard';
+				}
 			}
 
 			$arrEnLocales = array(
@@ -142,17 +156,19 @@ class Flash extends Controller {
 					if(in_array($support_language_id,array(106,107,110))) {
 						$swf = 'swf10';
 					}*/
-					if($flash_package_token=='eal') {
+					if(in_array($flash_package_token,array('eal','lgfl_eal'))) {
 						$site_map = '\'[{"pageId":"supportSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
 						$language_id_text = 'learning_language_id';
 					}
 
-					/*
-					if(in_array($locale,array('cl','mx','cn'))) {
-						$site_map = '\'[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]\'';
-						$flash_package_token	= 'eal';
+					if($flash_package_token == 'lgfl_standard' && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']!='student') {
+						$other_notification = '<a href="#" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut mfl with your LGFL discount!</a>';
+					}
 
-					}*/
+					if($flash_package_token == 'lgfl_eal' && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']!='student') {
+						$other_notification = '<a href="#" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut EAL with your LGFL discount!</a>';
+					}
+
 					$skeleton = make::tpl ('skeleton.flash');
 					$skeleton->assign(
 						array(
@@ -161,7 +177,8 @@ class Flash extends Controller {
 							'swf'					=> $swf,
 							'package_token'			=> $flash_package_token,
 							'site_map'				=> $site_map,
-							'language_id_text'		=> $language_id_text
+							'language_id_text'		=> $language_id_text,
+							'other_notification'	=> $other_notification
 						)
 					);
 

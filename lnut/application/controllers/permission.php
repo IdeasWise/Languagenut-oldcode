@@ -22,7 +22,7 @@ class Permission extends Controller {
 		$arrLanguage = array();
 		if(isset($_REQUEST['package_token'])) {
 
-			if(in_array($_REQUEST['package_token'],array('standard','home','lgfl'))) {
+			if(in_array($_REQUEST['package_token'],array('standard','home','lgfl_standard'))) {
 				$locale					= config::get('locale');
 				$support_language_id	= 14;
 				$query ="SELECT ";
@@ -44,7 +44,7 @@ class Permission extends Controller {
 				while($arrRow = mysql_fetch_array($result)) {
 					$arrLanguage[] = $arrRow['uid'];
 				}
-			} else if($_REQUEST['package_token']=='eal') {
+			} else if(in_array($_REQUEST['package_token'],array('eal','lgfl_eal'))) {
 				$arrELLlanguage = array(
 					"'so'",
 					"'ar'",
@@ -76,7 +76,7 @@ class Permission extends Controller {
 	protected function doJsonDetail() {
 		if(isset($_REQUEST['support_languauge_uid']) && is_numeric($_REQUEST['support_languauge_uid']) && isset($_REQUEST['package_token']) && !empty($_REQUEST['package_token'])) {
 			if($_REQUEST['package_token']=='standard' || $_REQUEST['package_token']=='home') {
-				if(in_array($_REQUEST['support_languauge_uid'],array(28,27))) {
+				if(in_array($_REQUEST['support_languauge_uid'],array(28,27,23))) {
 					$json_file = config::get('cache').'json/eal_package.json';
 					echo file_get_contents($json_file);
 				} else if(in_array($_REQUEST['support_languauge_uid'],array(107,109,114))) {
@@ -99,8 +99,11 @@ class Permission extends Controller {
 			} else if($_REQUEST['package_token']=='eal') {
 				$json_file = config::get('cache').'json/eal_package.json';
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
-			} else if($_REQUEST['package_token']=='lgfl') {
-				$json_file = config::get('cache').'json/lgfl.json';
+			} else if($_REQUEST['package_token']=='lgfl_standard') {
+				$json_file = config::get('cache').'json/lgfl_standard.json';
+				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+			} else if($_REQUEST['package_token']=='lgfl_eal') {
+				$json_file = config::get('cache').'json/lgfl_eal.json';
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 			} else {
 				echo '{"success":"false"}';
@@ -944,14 +947,15 @@ $arrUnitSectionGames = array(
 		//$arrDK = array(3,4,5,6,7,10,11,12,14);
 		
 
-		$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,11,12,14,16,17,23,24,75)";
+		//$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,11,12,14,16,17,23,24,75)";
 		//$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,14)";
+		$query = "SELECT `uid` FROM `language` WHERE `uid` IN (14)";
 		$result = database::query($query);
 		while($arrRow = mysql_fetch_array($result)) {
 			$arrJson['data']['l'][$arrRow['uid']]=$arrUnitSectionGames;
 		}
 
-		$json_file = config::get('cache').'json/lgfl.json';
+		$json_file = config::get('cache').'json/eal_lgfl.json';
 		//echo json_encode($arrJson);
 		$fh = fopen($json_file, 'w');
 		if($fh) {

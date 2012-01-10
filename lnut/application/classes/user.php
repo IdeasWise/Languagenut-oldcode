@@ -1486,8 +1486,8 @@ class user extends generic_object {
 			}
 		}
 
-		$objShibboleth = new shibboleth();
-		$objShibboleth->updateUserWithShibbolethId();
+		//$objShibboleth = new shibboleth();
+		//$objShibboleth->updateUserWithShibbolethId();
 		
 		logger::run(1);
 		if($returnUrl == true) {

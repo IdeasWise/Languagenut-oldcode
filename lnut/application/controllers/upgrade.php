@@ -71,14 +71,14 @@ class Upgrade extends Controller {
 								}
 							}
 							if(in_array('standard',$arrPackages)) {
-								$standard_text = 'You have this package';
+								$standard_text = 'you already subscribe to this resource';
 							} else {
-								$standard_text = '<a href="'.config::url('upgrade/?upgrade=standard').'">Subscribe to this package</a>';
+								$standard_text = '<a href="'.config::url('upgrade/?upgrade=standard').'">Free trial this resource</a>';
 							}
 							if(in_array('eal',$arrPackages)) {
-								$eal_text = 'You have this package';
+								$eal_text = 'you already subscribe to this resource';
 							} else {
-								$eal_text = '<a href="'.config::url('upgrade/?upgrade=eal').'">Subscribe to this package</a>';
+								$eal_text = '<a href="'.config::url('upgrade/?upgrade=eal').'">Free trial this resource</a>';
 							}
 							$body = make::tpl('body.upgrade');
 						}
@@ -99,15 +99,16 @@ class Upgrade extends Controller {
 						/**
 						 * Fetch the standard public xhtml page template
 						 */
-						$skeleton = make::tpl('skeleton.upgrade');
-						$skeleton->assign(
-							array(
-								'title'				=> $page->title(),
-								'keywords'			=> $page->keywords(),
-								'description'		=> $page->description(),
-								'body'				=> $body,
-								'background_url'	=> 'registration_bg.en.jpg',
-								'locale'			=> $this->locale
+						$skeleton = make::tpl('skeleton.landing');
+						$skeleton->assign('pageID','selection');
+						$skeleton->assign (
+							array (
+								'title'			=> $page->title(),
+								'keywords'		=> $page->keywords(),
+								'description'	=> $page->description(),
+								'body'			=> $body,
+								'selectionHeader' => ' | online langages in a nutshell',
+								'locale'		=> config::get('locale')
 							)
 						);
 

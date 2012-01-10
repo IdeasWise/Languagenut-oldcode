@@ -186,7 +186,120 @@ class units extends generic_object {
 		return format::to_select(array("name" => $inputName, "id" => $inputName, "options_only" => false), $data, $selctedValue);
 	}
 
+	public function does_file_exist($url='') {
+		if($url=='') {
+			return false;
+		} else {
+			$code = FALSE;
+			$options['http'] = array(
+				'method' => "HEAD",
+				'ignore_errors' => 1,
+				'max_redirects' => 0
+			);
+			$body = file_get_contents($url, NULL, stream_context_create($options));
+			sscanf($http_response_header[0], 'HTTP/%*d.%*d %d', $code);
+			if($code==200) {
+				return true;
+			} else {
+				return false;
+			}
+		}
+	}
 	public function getUnitTransArray($language_id, $year_id, $locale) {
+		
+		$path = config::get('root');
+		$song = 'http://content.languagenut.com/songs/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_karaoke.xml';
+		$story = 'http://content.languagenut.com/stories/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_story.xml';
+
+		//$story = '/swf/story/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_story.xml';
+		//$karaoke = '/swf/karaoke/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_karaoke.xml';
+		$units = array();
+		$query = "SELECT ";
+		$query.="`ut`.`unit_id`, ";
+		$query.="`ut`.`name`, ";
+		$query.="`colour`";
+		$query.="FROM ";
+		$query.="`units`, ";
+		$query.="`units_translations` AS `ut` ";
+		$query.="WHERE ";
+		$query.="`ut`.`language_id`=$language_id ";
+		$query.="AND `ut`.`unit_id`=`units`.`uid` ";
+		if ($year_id != null) {
+			$query.="AND `units`.`year_uid`=$year_id ";
+		}
+		$query.="ORDER BY ";
+		$query.="`ut`.`unit_id` ASC";
+		
+		$result = database::query($query);
+		if ($result && mysql_num_rows($result) > 0) {
+			while ($row = mysql_fetch_assoc($result)) {
+				$u = ((int) $row['unit_id'] < 10) ? '0' . $row['unit_id'] : $row['unit_id'];
+				$s = 1;
+				$units[$row['unit_id']] = array(
+					'colour'=> stripslashes($row['colour']),
+					'name'	=> stripslashes(str_replace('\\','',$row['name'])),
+					'story' => (
+					$this->does_file_exist(
+							str_replace(
+									array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $story
+							)
+					) ? true : false
+					),
+					'karaoke' => (
+					$this->does_file_exist(
+							str_replace(
+									array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $song
+							)
+					) ? true : false
+					)
+				);
+			}
+		} else {
+			$query = "SELECT ";
+			$query.="`ut`.`unit_id`, ";
+			$query.="`ut`.`name`, ";
+			$query.="`colour`";
+			$query.="FROM ";
+			$query.="`units`, ";
+			$query.="`units_translations` AS `ut` ";
+			$query.="WHERE ";
+			$query.="`ut`.`language_id`=14 ";
+			$query.="AND `ut`.`unit_id`=`units`.`uid` ";
+			if ($year_id != null) {
+				$query.="AND `units`.`year_uid`=$year_id ";
+			}
+			$query.="ORDER BY ";
+			$query.="`ut`.`unit_id` ASC";
+			$result = database::query($query);
+			if ($result && mysql_num_rows($result) > 0) {
+				while ($row = mysql_fetch_assoc($result)) {
+					$u = ((int) $row['unit_id'] < 10) ? '0' . $row['unit_id'] : $row['unit_id'];
+					$s = 1;
+					$units[$row['unit_id']] = array(
+						'colour'=> stripslashes($row['colour']),
+						'name' => stripslashes(str_replace('\\','',$row['name'])),
+						'story' => (
+						$this->does_file_exist(
+								str_replace(
+										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $story
+								)
+						) ? true : false
+						),
+						'karaoke' => (
+						$this->does_file_exist(
+								str_replace(
+										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $song
+								)
+						) ? true : false
+						)
+					);
+				}
+			}
+		}
+		return $units;
+	}
+
+	public function getUnitTransArray_old($language_id, $year_id, $locale) {
 		//$path = '/home/language/public_html';
 		$path = config::get('root');
 		//	$story	= '/swf/story/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_story0[section_id]/[locale]_u[unit_id]_s[section_id]_story.xml';
@@ -337,6 +450,54 @@ class units extends generic_object {
 		}
 		$query.="ORDER BY `unit_number` ";
 		return database::arrQuery($query);
+	}
+
+	public function unit_song_and_story_cron() {
+		//$story = '/swf/story/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_story.xml';
+		//$karaoke = '/swf/karaoke/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_karaoke.xml';
+
+		$song = 'http://content.languagenut.com/songs/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_karaoke.xml';
+		$story = 'http://content.languagenut.com/stories/[locale]/[locale]_u[unit_id]/[locale]_u[unit_id]_s[story_id]_story.xml';
+
+		$query ="SELECT ";
+		$query.="`U`.`uid`, ";
+		$query.="`U`.`unit_id`, ";
+		$query.="`L`.`prefix` ";
+		$query.="FROM ";
+		$query.="`units_translations` AS `U`, ";
+		$query.="`language` AS `L` ";
+		$query.="WHERE ";
+		$query.="`L`.`uid`=`U`.`language_id` ";
+		//$query.="AND ";
+		//$query.="`U`.`language_id` IN (14,3) ";
+		$query.="ORDER BY `U`.`language_id` ";
+
+		$result = database::query($query);
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			while($arrRow=mysql_fetch_array($result)) {
+				$u = ((int) $arrRow['unit_id'] < 10) ? '0' . $arrRow['unit_id'] : $arrRow['unit_id'];
+				$s = 1;
+				$locale = $arrRow['prefix'];
+				$does_story_exist = ($this->does_file_exist(
+								str_replace(
+										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $story
+								)
+						) ? 1 : 0);
+				$does_song_exist = ($this->does_file_exist(
+								str_replace(
+										array('[unit_id]', '[story_id]', '[locale]'), array($u, $s, ($locale == 'es' ? 'sp' : $locale)), $song
+								)
+						) ? 1 : 0);
+				$query ="UPDATE ";
+				$query.="`units_translations` ";
+				$query.="SET ";
+				$query.="`song`='".$does_song_exist."', ";
+				$query.="`story`='".$does_story_exist."'";
+				$query.="WHERE ";
+				$query.="`uid`='".$arrRow['uid']."'";
+				database::query($query);
+			}
+		}
 	}
 
 }

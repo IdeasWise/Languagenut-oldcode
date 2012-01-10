@@ -328,18 +328,18 @@ class WebService extends Controller {
 										'id'						=> $unit_id,
 										'title'						=> stripslashes(str_replace('\\','',$arrayOuter['name'])),
 										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
-										'canAccessVocab'			=> false,
-										'canAccessReadingWriting'	=> false,
-										'canAccessSpeakingListening'=> false
+										//'canAccessVocab'			=> false,
+										'song'	=> $arrayOuter['story'],
+										'story'=> $arrayOuter['karaoke']
 									);
 					} else if($unit_id == $unit_uid) {
 						$arrUnit[] = array (
 										'id'						=> $unit_id,
 										'title'						=> stripslashes(str_replace('\\','',$arrayOuter['name'])),
 										'colour'					=> ((isset($arrayOuter['colour']) && !empty($arrayOuter['colour']))?$arrayOuter['colour']:'0xFF0000'),
-										'canAccessVocab'			=> false,
-										'canAccessReadingWriting'	=> false,
-										'canAccessSpeakingListening'=> false
+										//'canAccessVocab'			=> false,
+										'song'	=> $arrayOuter['story'],
+										'story'=> $arrayOuter['karaoke']
 									);
 					}
 
