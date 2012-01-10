@@ -21,7 +21,7 @@ class TryNow extends Controller {
 		if(isset($_SESSION['trynow'])) {
 			$_SESSION['trynow'] = 1;
 		} else {
-			$_SESSION['trynow'] = 1;
+			$_SESSION['trynow'] = 1; 
 		}
 
 		$arrPaths				= config::get('paths');
