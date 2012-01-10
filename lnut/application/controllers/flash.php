@@ -162,11 +162,11 @@ class Flash extends Controller {
 					}
 
 					if($flash_package_token == 'lgfl_standard' && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']!='student') {
-						$other_notification = '<a href="#" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut mfl with your LGFL discount!</a>';
+						$other_notification = '<a href="'.config::url('lgfl-upgrade/mfl/').'" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut mfl with your LGFL discount!</a>';
 					}
 
 					if($flash_package_token == 'lgfl_eal' && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']!='student') {
-						$other_notification = '<a href="#" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut EAL with your LGFL discount!</a>';
+						$other_notification = '<a href="'.config::url('lgfl-upgrade/eal/').'" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut EAL with your LGFL discount!</a>';
 					}
 
 					$skeleton = make::tpl ('skeleton.flash');

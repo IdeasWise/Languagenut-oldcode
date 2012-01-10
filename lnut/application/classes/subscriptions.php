@@ -1442,7 +1442,64 @@ class subscriptions extends generic_object {
 				}
 			}
 		}
+	}
 
+	public function upgrade_lgfl_package($package_token=null,$user_uid=null) {
+		if($package_token==null || ($user_uid==null && !isset($_SESSION['user']['uid']))) {
+			return false;
+		} else {
+			if($user_uid==null) {
+				$user_uid=$_SESSION['user']['uid'];
+			}
+			if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
+				$objUser = new user($user_uid);
+				$objUser->load();
+				$user_uid = $objUser->getSchoolId();
+			}
+			// check is that valid package_token
+			if(in_array($package_token,array('standard','eal'))) {
+				$package_token = mysql_real_escape_string($package_token);
+				// check already subscribed ?
+				if($this->isUserAlreadySubscribed($package_token,$user_uid)===false) {
+					$now = date('Y-m-d H:i:s');
+					list($date, $time) = explode(' ', $now);
+					list($y, $m, $d) = explode('-', $date);
+					list($h, $i, $s) = explode(':', $time);
+					$start = $now;
+
+					$due_date		= date('Y-m-d H:i:s', mktime($h, $i, $s, $m, $d, ($y + 1)));
+					//$expires		= date('Y-m-d H:i:s', mktime($h, $i, $s, $m, ($d + 14), ($y + 1)));
+					$expires		= $due_date;
+
+					$date_paid		= date('Y-m-d H:i:s');
+					$verified_dts	= date('Y-m-d H:i:s');
+					$verified		= 1;
+					$token = '';
+					if($package_token=='standard') {
+						$token = 'mfl';
+					} else if($package_token=='eal') {
+						$token = 'eal';
+					} 
+					$priceArray = array();
+					$Pricingobject = new currencies();
+					$priceArray = $Pricingobject->getPriceAndCurrency('school');
+					$this->set_user_uid($user_uid);
+					$this->set_invoice_number($token.(1600+$user_uid));
+					$this->set_due_date($due_date);
+					//$this->set_amount($price);
+					$this->set_start_dts($start);
+					$this->set_expires_dts($expires);
+					$this->set_invoice_for('school');
+					$this->set_vat((isset($priceArray['vat'])?$priceArray['vat']:0));
+
+					$this->set_date_paid($date_paid);
+					$this->set_verified($verified);
+					$this->set_verified_dts($verified_dts);
+					$this->set_package_token($package_token);
+					return $this->insert();
+				}
+			}
+		}
 	}
 
 	private function isUserAlreadySubscribed($package_token=null,$user_uid=null) {

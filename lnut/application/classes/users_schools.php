@@ -945,7 +945,33 @@ class users_schools extends generic_object {
 		}
 		return $arrResult;
 	}
-
+	public function getSchoolFullDetails($school_uid=null) {
+		$arrSchoolDetails = array();
+		if($school_uid!=null && is_numeric($school_uid) && $school_uid > 0) {
+			$query ="SELECT ";
+			$query.="`S`.`user_uid`, ";
+			$query.="`S`.`school`, ";
+			$query.="`U`.`email`, ";
+			$query.="`U`.`uid` ";
+			$query.="FROM ";
+			$query.="`users_schools` AS `S`, ";
+			$query.="`user` AS `U` ";
+			$query.="WHERE ";
+			$query.="`U`.`uid` = `S`.`user_uid` ";
+			$query.="AND ";
+			$query.="`S`.`uid`= '".$school_uid."'";
+			$query.="LIMIT 0,1";
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				$arrSchoolDetails = mysql_fetch_array($result);
+				return $arrSchoolDetails;
+			} else {
+				return false;
+			}
+		} else {
+			return false;
+		}
+	}
 	public function getSchoolTeachers($school_uid=null,$class_teacher_uid=null) {
 		$arrTeacher		=array();
 		$arrTeacher[0]	='Select Teacher';
