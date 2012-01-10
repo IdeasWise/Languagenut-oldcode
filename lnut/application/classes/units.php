@@ -444,7 +444,7 @@ class units extends generic_object {
 		$query.="`language` AS `L` ";
 		$query.="WHERE ";
 		$query.="`L`.`uid`=`U`.`language_id` ";
-		//$query.="AND ";
+		//$query.="AND "; 
 		//$query.="`L`.`prefix` IN ('ca','cc','ch','en','fr','ga','ge','ht','it','ja','ma','mx','sp','us') ";
 		$query.="ORDER BY `U`.`language_id` ";
 
