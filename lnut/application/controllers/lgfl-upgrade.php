@@ -45,7 +45,7 @@ class lgfl_upgrade extends Controller {
 			$title_url	= '';
 			$title_alt	= '';
 			$intro_text = '';
-			$body = make::tpl('body.lgfl.upgrade.mlf');
+			$body = make::tpl('body.lgfl.upgrade.eal');
 			$body->assign(
 				array(
 					'type'						=> 'school',
