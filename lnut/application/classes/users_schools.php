@@ -416,9 +416,9 @@ class users_schools extends generic_object {
 				'value' => (isset($_POST['tracking_code'])) ? trim($_POST['tracking_code']) : '',
 				'checkEmpty' => false,
 				'errEmpty' => '',
-				'minChar' => 3,
+				'minChar' => 0,
 				'maxChar' => 255,
-				'errMinMax' => 'Tracking code must be 3 to 255 characters in length.',
+				'errMinMax' => 'Tracking code must be 0 to 255 characters in length.',
 				'dataType' => 'text',
 				'errdataType' => 'Please enter valid tracking code.',
 				'errIndex' => 'error_tracking_code'
