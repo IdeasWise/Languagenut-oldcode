@@ -822,7 +822,13 @@ class user extends generic_object {
 		if(isset($_SESSION['user'])	&& isset($_SESSION['user']['admin']) &&	$_SESSION['user']['admin'] == 1) {
 			return "admin";
 		} else if(isset($_SESSION['user']) && isset($_SESSION['user']['user_type'])	&& is_array($_SESSION['user']['user_type'])	) {
-			if(	in_array('student',$_SESSION['user']['user_type']) || in_array('homeuser',$_SESSION['user']['user_type']) )	{
+			if(in_array('student',$_SESSION['user']['user_type'])) {
+				if($this->get_package_count()>1) {
+					return 'selection';
+				} else {
+					return 'flash';
+				}
+			} else if(in_array('homeuser',$_SESSION['user']['user_type']) )	{
 				return "flash";
 			} else if($_SESSION['user']['ByOpenUserName'] == 1){
 				if($this->get_package_count()>1) {
