@@ -49,7 +49,7 @@ class Landing extends Controller {
 
 		$body = new xhtml ($tpl);
 		$body->load();
-		$body = utf8_encode($body->get_content());
+		$body = $body->get_content();
 
 
 		/**
@@ -84,9 +84,7 @@ class Landing extends Controller {
 				'locale'			=> config::get('locale')
 			)
 		);
-
 		output::as_html($skeleton,true);
-
 	}
 }
 
