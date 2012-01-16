@@ -33,6 +33,8 @@ class Flash extends Controller {
 			*/
 			if(isset($arrPaths[1]) && in_array($arrPaths[1],array('standard','eal'))){
 				$flash_package_token = $arrPaths[1];
+			} else if(is_array($arrPackages) && count($arrPackages)==1){
+				$flash_package_token = $arrPackages[0];
 			}
 			if($flash_package_token == 'standard' && !in_array($flash_package_token,$arrPackages)){
 				$flash_package_token = 'lgfl_standard';
