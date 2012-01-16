@@ -20,19 +20,7 @@ class Test extends Controller {
 	}
 
 	public function page_delete_2() {
-		$url = 'http://example.com/';
-		$url = 'http://content.languagenut.com/songs/en/en_u01/en_u01_s1_karaoke.xml';
 		
-		$url = 'http://content.languagenut.com/songs/en/en_u01/en_u01_s1_karaoke.xml';
-		$code = FALSE;
-		$options['http'] = array(
-			'method' => "HEAD",
-			'ignore_errors' => 1,
-			'max_redirects' => 0
-		);
-		$body = file_get_contents($url, NULL, stream_context_create($options));
-		sscanf($http_response_header[0], 'HTTP/%*d.%*d %d', $code);
-		echo "Status code: $code";
 	}
 	public function page_delete() {
 		ini_set('auto_detect_line_endings', true);
