@@ -1,0 +1,23 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}content/list/">Content List</a> &gt; <a href="{{ admin_uri }}content/edit/{{ uid }}/">{{ page_title }}</a> &gt; Menu Management</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">	
+    {{ success_message }}
+	<form action="{{ admin_uri }}content/{{ action }}/" method="post" name="frm-content-add-edit" id="frm-content-add-edit">     
+		<p><span class="label">Menu:</span></p>
+        <div id="cms_menu">
+        	{{ menu_content }}            
+        </div>
+        <div class="line" style="margin-top:10px;"></div>
+        <div style="margin-top:5px; text-align:center;">
+        	<input type="button" value="(+) Add another Header" class="com_btn add_another_header">
+        </div>
+		<div style="margin-top:20px; text-align:center;">
+			<input type="submit" name="form_submit_button" value="Save Manu Changes" class="com_btn" />
+		</div>
+	</form>
+</div>

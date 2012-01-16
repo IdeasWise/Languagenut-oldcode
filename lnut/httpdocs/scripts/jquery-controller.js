@@ -47,6 +47,51 @@ function growlAlert (title, message, icon, timeout) {
 }
 
 $(document).ready(function(){
+	
+	$add_another_header	= $('.add_another_header');
+	$lending_page_menu	= $('#cms_menu');
+	$menu_pair			= $('#cms_menu .landind_content');
+	$menu_pair_count	= $menu_pair.length;
+	$add_another_header.live('click',function() {
+		$add_header_html = '<div class="line" style="margin-top:10px;"></div>'
+						 + '<p><label class="textbox"><span class="label">Header:</span>'
+						 + '<input type="text" name="header_text['+$menu_pair_count+']" class="box" style="width:250px;" />'
+						 + '<input type="hidden" name="hidden_header_id['+$menu_pair_count+']" value="0" />'
+						 + '</label></p>'
+						 + '<p><span class="label">Links:</span></p>'
+						 + '<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main landind_content" id="cms_menut_table_'+$menu_pair_count+'">'
+						 + '<tr>'
+						 + '<th><b>Name</b></th>'
+						 + '<th><b>URL</b></th>'
+						 + '<th><input type="button" value="(+) Add another link" class="com_btn add_another_link" table_id="cms_menut_table_'+$menu_pair_count+'" table_index="'+$menu_pair_count+'"></th>'
+						 + '</tr>'
+						 + '<tr>'
+						 + '<td><input type="text" class="box" name="menu_name['+$menu_pair_count+'][]"></td>'
+						 + '<td><input type="text" class="box" name="menu_url['+$menu_pair_count+'][]"></td>'
+						 + '<td>&nbsp;</td>'
+						 + '</tr>'
+						 + '</table>';
+		$lending_page_menu.append($add_header_html);
+		$menu_pair_count++;		
+	});
+	
+	$add_another_link 	= $('.add_another_link');	
+	$add_another_link.live('click',function() { 
+		$button 	= $(this);
+		$table_id	= $button.attr('table_id');
+		$table_index	= $button.attr('table_index');
+		//console.log($button.attr('table_id'));
+		//console.log($button.attr('table_index'));
+		$menu_item_html = '<tr>'
+						+ '<td><input type="text" class="box" name="menu_name['+$table_index+'][]"></td>'
+						+ '<td><input type="text" class="box" name="menu_url['+$table_index+'][]"></td>'
+						+ '<td>&nbsp;</td>'
+						+ '</tr>';
+		$('#'+$table_id).append($menu_item_html);
+		
+	});
+	
+	
 	var $search_from= $("#search_from");
 	var $search_to 	= $("#search_to");
 	$('#date_search').bind('click',function() {

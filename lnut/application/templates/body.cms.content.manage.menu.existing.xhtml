@@ -1,0 +1,20 @@
+<div class="line" style="margin-top:10px;"></div>
+<p>
+    <label class="textbox"> <span class="label {{ error.header_text }}">Header:</span>
+        <input type="text" name="header_text[{{ index }}]" value="{{ header_text }}" class="box" style="width:250px;" />
+    </label>
+</p>
+<p><span class="label">Links:</span></p>
+<table width="100%" border="0" cellspacing="0" cellpadding="10" class="table_main landind_content" id="cms_menut_table_{{ index }}">
+    <tr>
+        <th><b>Name</b></th>
+        <th><b>URL</b></th>
+        <th><input type="button" value="(+) Add another link" class="com_btn add_another_link" table_id="cms_menut_table_{{ index }}" table_index="{{ index }}"></th>
+    </tr>
+    <!--<tr>
+        <td><input type="text" class="box" name="menu_name[0][]"></td>
+        <td><input type="text" class="box" name="menu_url[0][]"></td>
+        <td>&nbsp;</td>
+    </tr>-->
+    {{ menu_items }}
+</table>

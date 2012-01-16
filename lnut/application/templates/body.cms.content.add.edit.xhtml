@@ -1,0 +1,67 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}content/list/">Content</a> &gt; {{ title }}</h2>
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+    {{ success_message }}
+	<form action="{{ admin_uri }}content/{{ action }}/" method="post" name="frm-content-add-edit" id="frm-content-add-edit">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+        <p>
+			<label for="locale" class="listbox {{ error.locale }}"> <span class="label">Locale:</span> {{ locale }} </label>
+		</p>
+		<p>
+			<label for="page_title" class="textbox"> <span class="label {{ error.page_title }}">Title:</span>
+				<input type="text" name="page_title" id="page_title" value="{{ page_title }}" class="box" />
+			</label>
+		</p>
+        <p>
+			<label for="slug" class="textbox"> <span class="label {{ error.slug }}">Slug:</span>
+				<input type="text" name="slug" id="slug" value="{{ slug }}" class="box" />
+			</label>
+		</p>
+        <p>
+			<label for="sidebar_sprite_image" class="textbox"> <span class="label {{ error.sidebar_sprite_image }}">Side Bar Sprite Image:</span>
+				<input type="text" name="sidebar_sprite_image" id="sidebar_sprite_image" value="{{ sidebar_sprite_image }}" class="box" />
+			</label>
+		</p>
+        <p><span class="label">Introduction:</span></p>
+        <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+            <textarea class="class-editor-input" name="intro_content" id="intro_content">{{ intro_content }}</textarea>
+        </div>
+        <p><span class="label">Body Content:</span></p>
+        <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+            <textarea class="class-editor-input" name="body_content" id="body_content">{{ body_content }}</textarea>
+        </div>
+        <p><span class="label">Sidebar Content:</span></p>
+        <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+            <textarea class="class-editor-input" name="sidebar_content" id="sidebar_content">{{ sidebar_content }}</textarea>
+        </div>
+        <p><span class="label">You can use following tags in above editors:-</span></p>
+        <ul>
+            <li>&#123;&#123; base &#125;&#125; :- {{ base }}</li>
+            <li>&#123;&#123; cdn_images &#125;&#125; :- {{ cdn_images }}</li>
+        </ul>
+        
+        <p>
+			<label for="meta_title" class="textbox"> <span class="label {{ error.meta_title }}">Meta Title:</span>
+				<input type="text" name="meta_title" id="meta_title" value="{{ meta_title }}" class="box" />
+			</label>
+		</p>
+         <p><span class="label">Meta Keywords:</span></p>
+        <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+            <textarea class="class-editor-input" name="meta_keywords" id="meta_keywords">{{ meta_keywords }}</textarea>
+        </div>
+         <p><span class="label">Sidebar Description:</span></p>
+        <div style="-moz-border-radius:8px 8px 8px 8px;border:1px solid #474747;padding:2px;">
+            <textarea class="class-editor-input" name="meta_description" id="meta_description">{{ meta_description }}</textarea>
+        </div>       
+		<p>&nbsp;</p>
+		<p>
+			<input type="submit" name="form_submit_button" value="Save" class="com_btn" />
+		</p>
+	</form>
+</div>
