@@ -87,8 +87,8 @@ class Admin extends Controller {
 					case "flash_tips":
 						$this->load_controller('admin.flash_tips');
 					break;
-					case "schoolClass":
-						$this->load_controller('admin.school.classes');
+					case "content":
+						$this->load_controller('admin_content_management');
 					break;
 					default:
 						output::redirect(config::url('admin/users/school/'));
