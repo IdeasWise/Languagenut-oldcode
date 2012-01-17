@@ -14,7 +14,6 @@ class WebService extends Controller {
 		'sections',
 		'languageLocalisation',
 		'games',
-
 		'article',
 		'template',
 		'articleTranslation',
