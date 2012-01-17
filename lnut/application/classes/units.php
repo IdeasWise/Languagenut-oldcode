@@ -234,7 +234,7 @@ class units extends generic_object {
 		
 		$result = database::query($query);
 		if ($result && mysql_num_rows($result) > 0) {
-			while ($row = mysql_fetch_assoc($result)) {
+			while ($row = mysql_fetch_assoc($result)) { 
 				$units[$row['unit_id']] = array(
 					'colour'=> stripslashes($row['colour']),
 					'name'	=> stripslashes(str_replace('\\','',$row['name'])),
