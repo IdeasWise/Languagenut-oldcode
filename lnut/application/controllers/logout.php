@@ -9,8 +9,8 @@ class logout extends Controller {
 			$user = new user($_SESSION['user']['uid']);
 			$user->load();
 			$user->logout();
-			output::redirect(config::url("login"));
 		}
+		output::redirect(config::url("login"));
 	}
 }
 
