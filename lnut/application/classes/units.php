@@ -246,7 +246,9 @@ class units extends generic_object {
 			$query = "SELECT ";
 			$query.="`ut`.`unit_id`, ";
 			$query.="`ut`.`name`, ";
-			$query.="`colour`";
+			$query.="`colour`,";
+			$query.="`ut`.`song`, ";
+			$query.="`ut`.`story`, ";
 			$query.="FROM ";
 			$query.="`units`, ";
 			$query.="`units_translations` AS `ut` ";
