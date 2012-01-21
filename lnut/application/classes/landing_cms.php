@@ -100,12 +100,12 @@ class landing_cms extends generic_object {
 			'slug' => array(
 				'value' => (isset($_POST['slug'])) ? trim($_POST['slug']) : '',
 				'checkEmpty' => true,
-				'errEmpty' => 'Please enter slug.',
+				'errEmpty' => 'Please enter page name.',
 				'minChar' => 2,
 				'maxChar' => 260,
-				'errMinMax' => 'Slug must be 2 to 260 characters in length.',
+				'errMinMax' => 'Page name must be 2 to 260 characters in length.',
 				'dataType' => 'text',
-				'errdataType' => 'Please enter valid slug.',
+				'errdataType' => 'Please enter valid page name.',
 				'errIndex' => 'error.slug'
 			),
 			'sidebar_sprite_image' => array(
@@ -188,7 +188,11 @@ class landing_cms extends generic_object {
 			
 		);
 		// $arrFields contains array for fields which needs to be validate and then we are passing class object($this)
-		if ($this->isValidarrFields($arrFields, $this) === true) {
+		$arrExtraErrorMessage = array();
+		if($this->is_duplicate_slug($arrFields['slug']['value'],$arrFields['locale']['value'])) {
+			$arrExtraErrorMessage['error.duplicate_slug'] = 'Page name is already exist with this locale!';
+		}
+		if ($this->isValidarrFields($arrFields, $this,$arrExtraErrorMessage) === true) {
 			$this->set_locale($arrFields['locale']['value']);
 			$this->set_slug($arrFields['slug']['value']);
 			$this->set_page_title($arrFields['page_title']['value']);
@@ -205,7 +209,30 @@ class landing_cms extends generic_object {
 			return false;
 		}
 	}
-
+	private function is_duplicate_slug($slug='',$locale='') {
+		if(trim($slug)=='' || $locale=='') {
+			return false;
+		}
+		$query ="SELECT ";
+		$query.="`uid` ";
+		$query.="FROM ";
+		$query.="`landing_cms` ";
+		$query.="WHERE ";
+		$query.="`locale`='".mysql_real_escape_string($locale)."' ";
+		$query.="AND ";
+		$query.="`slug`='".mysql_real_escape_string($slug)."' ";
+		if (isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+			$query.="AND ";
+			$query.="`uid`!='".mysql_real_escape_string($_POST['uid'])."' ";
+		}
+		$query.="LIMIT 0,1 ";
+		$result = database::query($query);
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			return true;
+		} else {
+			return false;
+		}
+	}
 	public function generate_menu_content($cms_uid=null) {
 		if($cms_uid!=null && isset($_POST['header_text'])) {
 			parent::__construct($cms_uid, __CLASS__);

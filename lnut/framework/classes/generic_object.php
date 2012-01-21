@@ -381,8 +381,11 @@ class generic_object extends pager {
 	 * $arrFields is fields array which we need to validate before processing with database
 	 * $objTable is database table object which we'll use to assign value by $objTable->set_field($val) method
 	 */
-	public function isValidarrFields($arrFields=array(), $objTable=false) {
+	public function isValidarrFields($arrFields=array(), $objTable=false, $arrExtraErrorMessage=array()) {
 		$arrMessages = array();
+		if(is_array($arrExtraErrorMessage) && count($arrExtraErrorMessage)) {
+			$arrMessages = $arrExtraErrorMessage;
+		}
 		foreach ($arrFields as $index => $arrInfo) {
 
 			if ($arrInfo['checkEmpty'] && ($arrInfo['value'] == '' || $arrInfo['value'] == '0')) {
