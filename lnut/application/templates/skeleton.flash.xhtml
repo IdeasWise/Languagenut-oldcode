@@ -17,9 +17,33 @@
 			   legacy 					: 1,
 			   package_token			:'{{ package_token }}',
 			   site_map  				: {{ site_map }}, 
-			   tour_list 				: '["unit3/song","unit1/section5/listen","unit6/section5/memory","unit4/section2/hangman","unit4/section3/noughtscrosses","unit6/story","unit17/section1/pairs","unit5/section2/noughtscrosses"]'
+			   tour_list 				: {{ tour_list }},
+			   ie						: false
 			   
-};
+		};
+</script>
+<!--[If IE]> 
+<script type="text/javascript">		
+		   var flashvars = {
+			   ui_language_id 			: {{ support_language_id }},
+			   //learning_language_id : {{ support_language_id }},
+			   {{ language_id_text }} 	: {{ support_language_id }},
+			   runtime_directory 		: "{{ base }}swf/runtime/",
+			   webservice_url 			: "{{ uri }}webservice/",
+			   api_url 					: "{{ uri }}api/",
+			   printables_url 			: "{{ uri }}printables/",
+			   package_url 				: '{{ uri }}permission/',
+			   legacy 					: 1,
+			   package_token			:'{{ package_token }}',
+			   site_map  				: {{ ie_site_map }}, 
+			   tour_list 				: {{ ie_tour_list }},
+			   ie						: true
+			   
+		};
+</script>
+<![endif]-->
+<script type="text/javascript">	
+
 			var params = {
 				allowfullscreen: "true",
 				allowScriptAccess: "always"
