@@ -398,7 +398,7 @@ class Subscribe extends Controller {
 			// new template
 			$tpl = 'body.subscribe.school.stages';
 			$skeleton_tpl = 'skeleton.subscribe';
-			if(in_array($this->locale,array('en','us','ca','nz','au'))) {
+			if(in_array($this->locale,array('en','us','ca','nz','au','in'))) {
 				$tpl = 'body.subscribe.school.'.$this->locale;
 				$skeleton_tpl = 'skeleton.landing';
 			}
