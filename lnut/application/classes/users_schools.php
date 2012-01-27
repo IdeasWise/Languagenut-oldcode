@@ -117,9 +117,7 @@ class users_schools extends generic_object {
 	}
 
 	public function getByUserUid($user_uid='') {
-
 		$arrData = array();
-
 		if(0 < (int)$user_uid) {
 			$query = "SELECT ";
 			$query.= "`uid`, ";
@@ -136,9 +134,7 @@ class users_schools extends generic_object {
 			$query.= "`users_schools` ";
 			$query.= "WHERE ";
 			$query.= "`user_uid`='".$user_uid."' LIMIT 1";
-
 			$result = database::query($query);
-
 			if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 				while($row = mysql_fetch_assoc($result)) {
 					$arrData[$row['uid']] = array(
@@ -155,10 +151,8 @@ class users_schools extends generic_object {
 					);
 				}
 			}
-
 			echo mysql_error();
 		}
-
 		return $arrData;
 	}
 
@@ -221,7 +215,7 @@ class users_schools extends generic_object {
 				$res = database::query($query);
 				if (mysql_error() == '' && mysql_num_rows($res)) {
 					$row = mysql_fetch_array($res);
-					//$this->addEmailList($_POST['contact'], $row['email']);
+					$this->addEmailList($_POST['contact'], $row['email']);
 				}
 			}
 			return true;
@@ -993,16 +987,14 @@ class users_schools extends generic_object {
 			}
 		}
 		return format::to_select(
-				array(
-					"name"			=> 'class_teacher_uid',
-					"id"			=> 'class_teacher_uid', 
-					"options_only"	=> false
-				),
-				$arrTeacher,
-				$class_teacher_uid
-			);
+			array(
+				"name"			=> 'class_teacher_uid',
+				"id"			=> 'class_teacher_uid', 
+				"options_only"	=> false
+			),
+			$arrTeacher,
+			$class_teacher_uid
+		);
 	}
-
 }
-
 ?>

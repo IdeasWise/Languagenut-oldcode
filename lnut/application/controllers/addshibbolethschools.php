@@ -16,7 +16,7 @@ class createschools extends Controller {
 	public function page() {
 		set_time_limit(0);
 		ini_set('auto_detect_line_endings', true);
-		$file = config::get('root').'ShibScopes.csv';
+		$file = config::get('root').'ShibScopes_new.csv';
 		$row = 0;
 		$arrData = array();
 		if (($handle = fopen($file, "r")) !== FALSE) {
@@ -136,9 +136,46 @@ class createschools extends Controller {
 
 			// ADD Authority IN ADDRESS TABLE
 			$address_id = 0;
+			$street_name_1 = '';
+			if(isset($arrData[4])) {
+				$street_name_1 = $arrData[4];
+			}
+			$street_name_2 = '';
+			if(isset($arrData[5])) {
+				$street_name_2 = $arrData[5];
+			}
+			$district = '';
+			if(isset($arrData[6])) {
+				$district = $arrData[6];
+			}
+			$town = '';
+			if(isset($arrData[7])) {
+				$town = $arrData[7];
+			}
+			$city = $town;
+			
+			$county = '';
+			if(isset($arrData[8]) && !empty($arrData[8])) {
+				$county = $arrData[8];
+			} else {
+				$county = $arrData[1];
+			}
+
+			$postcode = '';
+			if(isset($arrData[9])) {
+				$postcode = $arrData[9];
+			}
+			
 			$query ="INSERT INTO `lib_property_address_uk` SET ";
-			$query.="`county` ='".$this->sql_quote($arrData[1])."' ";
-			database::query($query);
+			$query.="`county` ='".$this->sql_quote($county)."', ";
+			$query.="`country_uid` ='183', ";
+			$query.="`street_name_1` ='".$this->sql_quote($street_name_1)."', ";
+			$query.="`street_name_2` ='".$this->sql_quote($street_name_2)."', ";
+			$query.="`district` ='".$this->sql_quote($district)."', ";
+			$query.="`town` ='".$this->sql_quote($town)."', ";
+			$query.="`city` ='".$this->sql_quote($city)."', ";
+			$query.="`postcode` ='".$this->sql_quote($postcode)."' ";
+			database::query($query) or die($query.'<br>'.mysql_error());
 			$address_id = mysql_insert_id();
 
 			// INSERT SCHOOL IN USERS SCHOOLS TABLE...
@@ -146,6 +183,7 @@ class createschools extends Controller {
 			$query = "INSERT INTO `users_schools` SET ";
 			$query .= "`user_uid` = '".$uid."', ";
 			$query .= "`school` = '".$this->sql_quote($arrData[2])."', ";
+			$query .= "`phone_number` = '".$this->sql_quote($arrData[3])."', ";
 			$query .= "`address_id` = '".$this->sql_quote($address_id)."', ";
 			$query .= "`provider_uid` = '".$this->sql_quote('@atomwide')."', ";
 			$query .= "`institution_uid` = '".$this->sql_quote($arrData[0])."' ";

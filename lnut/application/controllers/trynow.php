@@ -27,6 +27,11 @@ class TryNow extends Controller {
 		$arrPaths				= config::get('paths');
 		$locale					= config::get('locale');
 		$support_language_id	= 14;
+		$tour_list = '["unit3/song","unit1/section5/listen","unit6/section5/memory","unit4/section2/hangman","unit4/section3/noughtscrosses","unit6/story","unit17/section1/pairs","unit5/section2/noughtscrosses"]';
+		$site_map				= '[{"pageId":"learningSelection","children":[{"pageId":"yearSelectionEAL","children":[{"pageId":"unitSectionSelectionEAL","children":[{"pageId":"ealGame","children":[{"pageId":"gamePage"},{"pageId":"ealTest","children":[{"pageId":"gamePage"}]}]},{"pageId":"karaokePage"},{"pageId":"storyPage"}]}]}]}]';
+
+		$ie_site_map= str_replace(array('|[',']|'),array('[',']'),str_replace('\\','',str_replace('"', '|', json_encode($site_map))));
+		$ie_tour_list= str_replace(array('|[',']|'),array('[',']'),str_replace('\\','',str_replace('"', '|', json_encode($tour_list))));
 
 		$arrEnLocales = array(
 			'bz',
@@ -127,6 +132,10 @@ class TryNow extends Controller {
 			array(
 				'translate:need_flash'	=> $config_data,
 				'support_language_id'	=> $support_language_id,
+				'site_map'				=> "'".$site_map."'",
+				'tour_list'				=> "'".$tour_list."'",
+				'ie_site_map'			=> "'".$ie_site_map."'",
+				'ie_tour_list'			=> "'".$ie_tour_list."'"
 			)
 		);
 
