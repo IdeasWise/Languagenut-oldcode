@@ -215,7 +215,7 @@ class users_schools extends generic_object {
 				$res = database::query($query);
 				if (mysql_error() == '' && mysql_num_rows($res)) {
 					$row = mysql_fetch_array($res);
-					//$this->addEmailList($_POST['contact'], $row['email']);
+					$this->addEmailList($_POST['contact'], $row['email']);
 				}
 			}
 			return true;
