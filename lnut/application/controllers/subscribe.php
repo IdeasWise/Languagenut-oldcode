@@ -396,12 +396,18 @@ class Subscribe extends Controller {
 
 			//$body = new xhtml('body.subscribe.school.stages');
 			// new template
+			/* old scipt check
 			$tpl = 'body.subscribe.school.stages';
 			$skeleton_tpl = 'skeleton.subscribe';
 			if(in_array($this->locale,array('en','us','ca','nz','au','in'))) {
 				$tpl = 'body.subscribe.school.'.$this->locale;
 				$skeleton_tpl = 'skeleton.landing';
 			}
+			*/
+			/* new script */
+			$tpl = 'body.subscribe.school.default';
+			$skeleton_tpl = 'skeleton.landing';
+
 			$package_image = 'mfl-button.png';
 			$package_image_alt = 'Modern Foreign Languages';
 			if(isset($_SESSION['sess_package']) && $_SESSION['sess_package']=='eal') {
