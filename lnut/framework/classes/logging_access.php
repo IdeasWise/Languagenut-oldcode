@@ -117,9 +117,8 @@ class logging_access extends generic_object {
 		$query .= "ORDER BY ";
 		$query .= "`S`.`school` ";
 		$query .= "LIMIT " . $this->get_limit();
-		echo '<br /><br />';
-		echo $query;
-		exit;
+		//echo '<br /><br />';
+		//echo $query; //exit;
 
 		return database::arrQuery($query);	
 	}
