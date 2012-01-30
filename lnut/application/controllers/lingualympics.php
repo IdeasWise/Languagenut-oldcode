@@ -236,12 +236,12 @@ class Lingualympics extends Controller {
 		$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='".$locale."' ";
 		$result = database::query($query);
 		if(mysql_error() == '' && mysql_num_rows($result)) {
-			$arrRow = mysql_fatch_assoc($result);
+			$arrRow = mysql_fetch_assoc($result);
 		} else {
 			$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='en' ";
 			$result = database::query($query);
 			if(mysql_error() == '' && mysql_num_rows($result)) {
-				$arrRow = mysql_fatch_assoc($result);
+				$arrRow = mysql_fetch_assoc($result);
 			}
 		}
 		//$content = '';
