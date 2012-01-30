@@ -288,7 +288,8 @@ class subscriptions extends generic_object {
 			$query.= "`subscriptions`.`call_status`, ";
 			$query.= "`subscriptions`.`subscription_cancellation_date`, ";
 			$query.= "`users_schools`.`name`, ";
-			$query.= "`users_schools`.`school` ";
+			$query.= "`users_schools`.`school`, ";
+			$query.= "( SELECT count(`logging_access`.`uid`) FROM `logging_access` WHERE `users_schools`.`uid` = `logging_access`.`school_uid` AND `is_login_entry` = '1' ) AS `AllTime` ";
 			$query.= "FROM ";
 			$query.= "`subscriptions`, `user`, `users_schools` ";
 			$query.= "WHERE ";
