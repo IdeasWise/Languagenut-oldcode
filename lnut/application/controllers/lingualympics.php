@@ -222,14 +222,13 @@ class Lingualympics extends Controller {
 		/**
 		 * Fetch the standard public xhtml page template
 		 */
-		$skeleton = new xhtml ('skeleton.basic');
-		$skeleton->load();
+		//$skeleton = make::tpl ('skeleton.basic');
+		$skeleton = make::tpl ('skeleton.lingualympics');
 
 		/**
 		 * Fetch the body content template
 		 */
-		$body = new xhtml ('body.lingualympics');
-		$body->load();
+		$body = make::tpl ('body.lingualympics');
 
 		$body->assign($this->getLanguageContents());
 
