@@ -222,34 +222,47 @@ class Lingualympics extends Controller {
 		/**
 		 * Fetch the standard public xhtml page template
 		 */
-		$skeleton = new xhtml ('skeleton.basic');
-		$skeleton->load();
+		//$skeleton = make::tpl ('skeleton.basic');
+		$skeleton = make::tpl ('skeleton.lingualympics');
 
 		/**
 		 * Fetch the body content template
 		 */
-		$body = new xhtml ('body.lingualympics');
-		$body->load();
+		$body = make::tpl ('body.lingualympics');
 
 		$body->assign($this->getLanguageContents());
-
-
-		$content = '';
-		$body->assign('content',$content);
+		$arrRow = array();
+		$locale = config::get('locale');
+		$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='".$locale."' ";
+		$result = database::query($query);
+		if(mysql_error() == '' && mysql_num_rows($result)) {
+			$arrRow = mysql_fatch_assoc($result);
+		} else {
+			$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='en' ";
+			$result = database::query($query);
+			if(mysql_error() == '' && mysql_num_rows($result)) {
+				$arrRow = mysql_fatch_assoc($result);
+			}
+		}
+		//$content = '';
+		//$body->assign('content',$content);
 
 		/**
 		 * Fetch the page details
 		 */
-		$page = new page('lingualympics');
+		//$page = new page('lingualympics');
 
 		/**
 		 * Build the output
 		 */
+		if(is_array($arrRow) && count($arrRow)) {
+			$body->assign ($arrRow);
+		}
 		$skeleton->assign (
 			array (
-				'title'			=> $page->title(),
-				'keywords'		=> $page->keywords(),
-				'description'	=> $page->description(),
+				'title'			=> (isset($arrRow['meta_title']))?$arrRow['meta_title']:'',
+				'keywords'		=> (isset($arrRow['meta_keyword']))?$arrRow['meta_keyword']:'',
+				'description'	=> (isset($arrRow['meta_description']))?$arrRow['meta_description']:'',
 				'body'			=> $body
 			)
 		);

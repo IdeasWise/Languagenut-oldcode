@@ -1,0 +1,54 @@
+
+<div class="page-content">
+
+	<h2>Lingualympics</h2>
+
+	<p>Welcome to Lingualympics.</p>
+	<p>Please be patient while we complete this page. We'll be showing off the top 10 scores for schools, students and home users across all our <a href="/">games</a>.</p>
+	<p>This will be updated daily, but, in the mean time, check out the top 10 scores already achieved by schools and students from different nations!</p>
+
+	<div class="live-scores">
+
+		<div class="selectors">
+			<div class="selector-usertype" style="padding-left:120px;">
+				<!-- set active one with addClass('active') -->
+				<a href="#" class="schools active"><span>Schools</span></a>
+				<a href="#" class="students"><span>School Users</span></a>
+				<a href="#" class="homeusers"><span>Home Users</span></a>
+			</div>
+
+			<div class="selector-languages">
+				<!-- set active one with addClass('active') -->
+				<!--<a href="#" class="en active"><span title="English">EN</span></a>-->
+                {{ language }}
+				<!-- repeat per language -->
+			</div>
+		</div>
+
+		<div class="stats-area">
+			<!--
+			populate the divs below based on 
+			-->
+			<div class="stats-view">
+
+<!--all-school-scores
+locale-school-scores
+all-student-scores
+locale-student-scores-->
+			{{ div.schools }}
+            {{ div.students }}
+            {{ div.homeusers }}
+            
+
+				
+			</div>
+		</div>
+
+	</div>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+	<p></p>
+</div>
