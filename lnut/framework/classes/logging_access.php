@@ -2,19 +2,18 @@
 
 class logging_access extends generic_object {
 
-    public function __construct($uid = 0) {
-        parent::__construct($uid, __CLASS__);
-    }
+	public function __construct($uid = 0) {
+		parent::__construct($uid, __CLASS__);
+	}
 
-    public function getList( $user_uid = 0 ) {
-    		
-    		$query	=	"SELECT COUNT(`uid`) FROM `logging_access` WHERE `user_uid` = '".$user_uid."'";
+	public function getList( $user_uid = 0 ) {
+		$query= "SELECT COUNT(`uid`) FROM `logging_access` WHERE `user_uid` = '".$user_uid."'";
 		$this->setPagination($query);
-		$query	=	"SELECT `uri` as `log_uri`,  DATE_FORMAT(`time`, '%D %b %Y  %l:%i %p') as `dateNtime` FROM `logging_access`  WHERE `user_uid` = '".$user_uid."' ORDER BY `time` DESC LIMIT " . $this->get_limit();		
-		return database::arrQuery($query);	
-    }
-	
-	
+		$query = "SELECT `uri` as `log_uri`,  DATE_FORMAT(`time`, '%D %b %Y  %l:%i %p') as `dateNtime` FROM `logging_access`  WHERE `user_uid` = '".$user_uid."' ORDER BY `time` DESC LIMIT " . $this->get_limit();
+		return database::arrQuery($query);
+	}
+
+
 	public function getLoginStates( ) {
 		$Fields		= array();
 		$Fields[]	= '`S`.`school`';
@@ -103,7 +102,7 @@ class logging_access extends generic_object {
 					$query .= "`logging_access` ";
 					$query .= "WHERE ";
 					$query .= "`S`.`uid` = `logging_access`.`school_uid` ";
-					$query .= "AND `is_login_entry` = '1' ";					
+					$query .= "AND `is_login_entry` = '1' ";
 		$query .= ") ";
 		$query .= "AS `AllTime` ";
 		
@@ -118,11 +117,12 @@ class logging_access extends generic_object {
 		$query .= "ORDER BY ";
 		$query .= "`S`.`school` ";
 		$query .= "LIMIT " . $this->get_limit();
-		//echo '<br /><br />';
-		//echo $query; //exit;
+		echo '<br /><br />';
+		echo $query;
+		exit;
 
 		return database::arrQuery($query);	
-    }
+	}
 	
 	public function getLoginStates_old( ) {
     	$Fields		= array();
