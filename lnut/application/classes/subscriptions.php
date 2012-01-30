@@ -288,7 +288,8 @@ class subscriptions extends generic_object {
 			$query.= "`subscriptions`.`call_status`, ";
 			$query.= "`subscriptions`.`subscription_cancellation_date`, ";
 			$query.= "`users_schools`.`name`, ";
-			$query.= "`users_schools`.`school` ";
+			$query.= "`users_schools`.`school`, ";
+			$query.= "( SELECT count(`logging_access`.`uid`) FROM `logging_access` WHERE `users_schools`.`uid` = `logging_access`.`school_uid` AND `is_login_entry` = '1' ) AS `AllTime` ";
 			$query.= "FROM ";
 			$query.= "`subscriptions`, `user`, `users_schools` ";
 			$query.= "WHERE ";
@@ -303,7 +304,7 @@ class subscriptions extends generic_object {
 			}
 			$query.= "ORDER BY `expires_dts` ASC ";
 			$query.= "LIMIT ".(($pageId-1)*10).",10";
-
+			echo $query; exit;
 			$result = database::query($query);
 		
 			$arrUsers = array();
