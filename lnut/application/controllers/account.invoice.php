@@ -385,10 +385,6 @@ class acccount_invoice extends Controller {
 		$now			= time();
 		$two_weeks_ago	= mktime(date('H'),date('i'),date('s'),date('m'),date('d')-14,date('Y'));
 		if(!empty($arrRows)) {
-			echo '<pre>';
-			print_r($arrRows);
-			echo '</pre>';
-			exit;
 			foreach($arrRows as $uid=>$data) {
 				$data['paid_string']			= '';
 				$data['paid_button_display']	= '';

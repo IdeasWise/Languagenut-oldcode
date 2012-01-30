@@ -344,7 +344,8 @@ class subscriptions extends generic_object {
 						'call_status'	=> $row['call_status'],
 						'school'		=> isset($row['school']) ? stripslashes($row['school']) : '',
 						'registered_dts'=> $row['registered_dts'],
-						'cancel_dts'	=> $row['subscription_cancellation_date']
+						'cancel_dts'	=> $row['subscription_cancellation_date'],
+						'AllTime'		=> $row['AllTime']
 					);
 				}
 			}
