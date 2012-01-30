@@ -151,7 +151,7 @@ class reseller_users extends generic_object {
 		$query.= "`U`.`access_allowed`, ";
 		$query.= "`SC`.`school`, ";
 		$query.= "`SC`.`uid` AS `school_uid`, ";
-		$query.= "( SELECT count(`logging_access`.`uid`) FROM `logging_access` WHERE `SC`.`uid` = `logging_access`.`school_uid` AND `is_login_entry` = '1' ) AS `AllTime`"
+		$query.= "( SELECT count(`logging_access`.`uid`) FROM `logging_access` WHERE `SC`.`uid` = `logging_access`.`school_uid` AND `is_login_entry` = '1' ) AS `AllTime`";
 		$query.= "FROM ";
 		$query.= "`user` AS `U` ";
 		$query.= ', `users_schools` AS `SC` ';
