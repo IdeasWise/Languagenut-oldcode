@@ -304,7 +304,7 @@ class subscriptions extends generic_object {
 			}
 			$query.= "ORDER BY `expires_dts` ASC ";
 			$query.= "LIMIT ".(($pageId-1)*10).",10";
-			echo $query; exit;
+			//echo $query; exit;
 			$result = database::query($query);
 		
 			$arrUsers = array();
