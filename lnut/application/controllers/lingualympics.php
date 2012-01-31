@@ -27,6 +27,193 @@ class Lingualympics extends Controller {
 		$query = "DELETE FROM `lingualympics`";
 		database::query($query);
 
+		// STARTS SCHOOL QUERY HERE
+		$query ="SELECT ";
+		$query.="`G`.`user_uid`,";
+		$query.="`G`.`time`, ";
+		$query.="`G`.`language_uid`, ";
+		$query.="MAX(`score_right`) AS `MxScore`, ";
+		$query.="`S`.`school`, ";
+		$query.="`U`.`locale` ";
+		$query.="FROM ";
+		$query.="`gamescore` AS `G`, ";
+		$query.="`users_schools` AS `S`, ";
+		$query.="`user` AS `U` ";
+		$query.="WHERE ";
+		$query.="`S`.`user_uid`=`G`.`user_uid` ";
+		$query.="AND ";
+		$query.="`S`.`user_uid`=`U`.`uid` ";
+		$query.="AND ";
+		$query.="`recorded_dts` > '".date('Y-m-d 00:00:00',strtotime('-7 day'))."' ";
+		//$query.="AND ";
+		//$query.="`G`.`language_uid` = '".$arrLang['uid']."'";
+		$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
+		//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
+		$query.="ORDER BY `MxScore` DESC ";
+		$query.="LIMIT 0,20 ";
+
+		$arrScore = array();
+		$arrNames = array();
+		$arrFlags = array();
+		$arrLangs = array();
+		$result = database::query($query);
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			while($row = mysql_fetch_array($result)) {
+				$arrNames[$row['user_uid']] = $row['school'];
+				$arrLangs[$row['user_uid']] = $row['language_uid'];
+				if(isset($arrScore[$row['user_uid']])) {
+					$arrScore[$row['user_uid']] += ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+				} else {
+					$arrScore[$row['user_uid']] = ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+				}
+				$arrFlags[$row['user_uid']] = $row['locale'];
+			}
+		}
+		arsort($arrScore);
+		$arrRes = array_slice($arrScore,0,20,true);
+		foreach($arrRes as $uid => $Score ) {
+			$arrdata = array(
+				'name'			=> addslashes($arrNames[$uid]),
+				'score'			=> $Score,
+				'locale'		=> $arrFlags[$uid],
+				'user_uid'		=> $uid,
+				'section'		=> 'schools',
+				'language_uid'	=> $arrLang[$uid]
+			);
+			$this->AddRow($arrdata);
+		}
+
+		// START STUDENTS QUERY HERE
+		//foreach($arrLanguage as $arrLang) {
+			$query ="SELECT ";
+			$query.="`G`.`user_uid`,";
+			$query.="`G`.`time`, ";
+			$query.="`G`.`language_uid`, ";
+			$query.="MAX(`score_right`) AS `MxScore` , ";
+			$query.="`vfirstname`, ";
+			$query.="`vlastname`, ";
+			$query.="`S`.`school`, ";
+			$query.="`U`.`locale` ";
+			$query.="FROM ";
+			$query.="`gamescore` AS `G`, ";
+			$query.="`profile_student` AS `PS`, ";
+			$query.="`user` AS `U`, ";
+			$query.="`users_schools` AS `S` ";
+			$query.="WHERE ";
+			$query.="`PS`.`iuser_uid`=`G`.`user_uid` ";
+			$query.="AND ";
+			$query.="`PS`.`iuser_uid`=`U`.`uid` ";
+			$query.="AND ";
+			$query.="`PS`.`school_id`=`S`.`uid` ";
+			$query.="AND ";
+			$query.="`recorded_dts` > '".date('Y-m-d 00:00:00',strtotime('-7 day'))."' ";
+			//$query.="AND ";
+			//$query.="`G`.`language_uid` = '".$arrLang['uid']."'";
+			$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
+			//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
+			$query.="ORDER BY `MxScore` DESC ";
+			$query.="LIMIT 0,10 ";
+
+			$arrScore = array();
+			$arrNames = array();
+			$arrFlags = array();
+			$arrLangs = array();
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				while($row = mysql_fetch_array($result)) {
+					$arrLangs[$row['user_uid']] = $row['language_uid'];
+					$arrNames[$row['user_uid']] = $row['vfirstname'].' '.substr(strtoupper($row['vlastname']),0,1).', '.preg_replace('/[0-9]/','',ucwords(strtolower(str_replace(array('[',']','_'),array('','',' '),$row['school']))));
+					if(isset($arrScore[$row['user_uid']])) {
+						$arrScore[$row['user_uid']] += ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+					} else {
+						$arrScore[$row['user_uid']] = ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+					}
+					$arrFlags[$row['user_uid']] = $row['locale'];
+				}
+			}
+			arsort($arrScore);
+			$arrRes = array_slice($arrScore,0,10,true);
+			foreach($arrRes as $uid => $Score ) {
+				$arrdata = array(
+					'name'			=> addslashes($arrNames[$uid]),
+					'score'			=> $Score,
+					'locale'		=> $arrFlags[$uid],
+					'user_uid'		=> $uid,
+					'section'		=> 'students',
+					'language_uid'	=> $arrLang[$uid]
+				);
+				$this->AddRow($arrdata);
+			}
+		//}
+
+		// START HOMEUSERS QUERY HERE
+	//	foreach($arrLanguage as $arrLang) {
+			$query ="SELECT ";
+			$query.="`G`.`user_uid`,";
+			$query.="`G`.`time`, ";
+			$query.="`G`.`language_uid`, ";
+			$query.="MAX(`score_right`) AS `MxScore` , ";
+			$query.="`vfirstname`, ";
+			$query.="`vlastname`, ";
+			$query.="`U`.`locale` ";
+			$query.="FROM ";
+			$query.="`gamescore` AS `G`, ";
+			$query.="`profile_homeuser` AS `HM`, ";
+			$query.="`user` AS `U` ";
+			$query.="WHERE ";
+			$query.="`HM`.`iuser_uid`=`G`.`user_uid` ";
+			$query.="AND ";
+			$query.="`HM`.`iuser_uid`=`U`.`uid` ";
+			$query.="AND ";
+			$query.="`recorded_dts` > '".date('Y-m-d 00:00:00',strtotime('-7 day'))."' ";
+			//$query.="AND ";
+			//$query.="`G`.`language_uid` = '".$arrLang['uid']."'";
+			$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
+			//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
+			$query.="ORDER BY `MxScore` DESC ";
+			$query.="LIMIT 0,10 ";
+
+			$arrScore = array();
+			$arrNames = array();
+			$arrFlags = array();
+			$arrLangs = array();
+			$result = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result)) {
+				while($row = mysql_fetch_array($result)) {
+					$arrLangs[$row['user_uid']] = $row['language_uid'];
+					$arrNames[$row['user_uid']] = $row['vlastname'].' '.$row['vfirstname'];
+					if(isset($arrScore[$row['user_uid']])) {
+						$arrScore[$row['user_uid']] += ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+					} else {
+						$arrScore[$row['user_uid']] = ($row['MxScore']*$this->multiplyScoreBy)/$row['time'];
+					}
+					$arrFlags[$row['user_uid']] = $row['locale'];
+				}
+			}
+			arsort($arrScore);
+			$arrRes = array_slice($arrScore,0,10,true);
+			foreach($arrRes as $uid => $Score ) {
+				$arrdata = array(
+					'name'			=> addslashes($arrNames[$uid]),
+					'score'			=> $Score,
+					'locale'		=> $arrFlags[$uid],
+					'user_uid'		=> $uid,
+					'section'		=> 'homeusers',
+					'language_uid'	=> $arrLang[$uid]
+				);
+				$this->AddRow($arrdata);
+			}
+		//}
+
+	}
+
+
+
+
+	protected function Cron_old() {
+		$query = "DELETE FROM `lingualympics`";
+		database::query($query);
+
 		$query = "SELECT `uid`, `prefix` FROM `language` WHERE `is_learnable` = '1' ";
 		$arrLanguage = database::arrQuery($query);
 
