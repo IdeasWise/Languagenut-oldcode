@@ -51,7 +51,7 @@ class Lingualympics extends Controller {
 		$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
 		//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
 		$query.="ORDER BY `MxScore` DESC ";
-		$query.="LIMIT 0,20 ";
+		$query.="LIMIT 0,30 ";
 
 
 		$arrScore = array();
