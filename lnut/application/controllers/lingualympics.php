@@ -422,17 +422,8 @@ class Lingualympics extends Controller {
 		$body->assign($this->getLanguageContents());
 		$arrRow = array();
 		$locale = config::get('locale');
-		$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='".$locale."' ";
-		$result = database::query($query);
-		if(mysql_error() == '' && mysql_num_rows($result)) {
-			$arrRow = mysql_fetch_assoc($result);
-		} else {
-			$query = "SELECT * FROM `lingualympics_cms` WHERE `locale`='en' ";
-			$result = database::query($query);
-			if(mysql_error() == '' && mysql_num_rows($result)) {
-				$arrRow = mysql_fetch_assoc($result);
-			}
-		}
+		$force_en_version = true;
+		$arrRow = lingualympics_cms::get_content_by_locale($locale,$force_en_version);
 		//$content = '';
 		//$body->assign('content',$content);
 
@@ -445,12 +436,13 @@ class Lingualympics extends Controller {
 		 * Build the output
 		 */
 		if(is_array($arrRow) && count($arrRow)) {
+			$arrRow['content'] = str_replace(array('&#123;&#123;', '&#125;&#125;'), array('{{', '}}'),$arrContent['content'])
 			$body->assign ($arrRow);
 		}
 		$skeleton->assign (
 			array (
 				'title'			=> (isset($arrRow['meta_title']))?$arrRow['meta_title']:'',
-				'keywords'		=> (isset($arrRow['meta_keyword']))?$arrRow['meta_keyword']:'',
+				'keywords'		=> (isset($arrRow['meta_keywords']))?$arrRow['meta_keywords']:'',
 				'description'	=> (isset($arrRow['meta_description']))?$arrRow['meta_description']:'',
 				'body'			=> $body
 			)
