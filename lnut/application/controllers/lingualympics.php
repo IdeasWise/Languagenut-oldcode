@@ -51,7 +51,7 @@ class Lingualympics extends Controller {
 		$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
 		//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
 		$query.="ORDER BY `MxScore` DESC ";
-		$query.="LIMIT 0,30 ";
+		$query.="LIMIT 0,20 ";
 
 
 		$arrScore = array();
@@ -72,7 +72,7 @@ class Lingualympics extends Controller {
 			}
 		}
 		arsort($arrScore);
-		$arrRes = array_slice($arrScore,0,20,true);
+		//$arrRes = array_slice($arrScore,0,20,true);
 		foreach($arrRes as $uid => $Score ) {
 			$arrdata = array(
 				'name'			=> addslashes($arrNames[$uid]),
@@ -114,7 +114,7 @@ class Lingualympics extends Controller {
 			$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
 			//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
 			$query.="ORDER BY `MxScore` DESC ";
-			$query.="LIMIT 0,10 ";
+			$query.="LIMIT 0,20 ";
 
 			$arrScore = array();
 			$arrNames = array();
@@ -134,7 +134,7 @@ class Lingualympics extends Controller {
 				}
 			}
 			arsort($arrScore);
-			$arrRes = array_slice($arrScore,0,10,true);
+			//$arrRes = array_slice($arrScore,0,10,true);
 			foreach($arrRes as $uid => $Score ) {
 				$arrdata = array(
 					'name'			=> addslashes($arrNames[$uid]),
@@ -173,7 +173,7 @@ class Lingualympics extends Controller {
 			$query.="GROUP BY `G`.`game_uid`, `G`.`user_uid` ";
 			//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
 			$query.="ORDER BY `MxScore` DESC ";
-			$query.="LIMIT 0,10 ";
+			$query.="LIMIT 0,20 ";
 
 			$arrScore = array();
 			$arrNames = array();
@@ -193,7 +193,7 @@ class Lingualympics extends Controller {
 				}
 			}
 			arsort($arrScore);
-			$arrRes = array_slice($arrScore,0,10,true);
+			//$arrRes = array_slice($arrScore,0,10,true);
 			foreach($arrRes as $uid => $Score ) {
 				$arrdata = array(
 					'name'			=> addslashes($arrNames[$uid]),
@@ -521,6 +521,7 @@ class Lingualympics extends Controller {
 		//$query.="AND ";
 		$query.="`section` != 'schools' ";
 		$query.="ORDER BY `score` DESC ";
+		$query.="LIMIT 0,20 ";
 		$result = database::query($query);
 
 		$i = 1;
