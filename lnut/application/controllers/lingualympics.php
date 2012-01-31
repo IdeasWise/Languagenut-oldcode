@@ -460,12 +460,9 @@ class Lingualympics extends Controller {
 
 	private function getLanguageContents() {
 
-		$arrSchool		= array();
-		$arrStudents	= array();
-		$arrHomeUser	= array();
-
 		$arrSchool		= $this->getAllSchoolContent();
-		$arrStudents		= $this->getAllStudentContent();
+		$arrStudents	= $this->getAllStudentContent();
+		
 		return array(
 			'language'		=>'',
 			'div.schools'	=>$arrSchool,
