@@ -460,12 +460,9 @@ class Lingualympics extends Controller {
 
 	private function getLanguageContents() {
 
-		$arrSchool		= array();
-		$arrStudents	= array();
-		$arrHomeUser	= array();
-
 		$arrSchool		= $this->getAllSchoolContent();
-		$arrStudents		= $this->getAllStudentContent();
+		$arrStudents	= $this->getAllStudentContent();
+		
 		return array(
 			'language'		=>'',
 			'div.schools'	=>$arrSchool,
@@ -505,7 +502,7 @@ class Lingualympics extends Controller {
 		}
 		$Html=make::tpl('body.lingualympics.table')->assign(
 			array(
-				'class'			=>'locale-school-scores school',
+				'class'			=>'locale-school-scores school-fr',
 				'style'			=>$style,
 				'table_content'	=>implode('',$arrRows)
 			)
@@ -545,7 +542,7 @@ class Lingualympics extends Controller {
 		}
 		$Html=make::tpl('body.lingualympics.table')->assign(
 			array(
-				'class'			=>'all-student-scores students',
+				'class'			=>'all-student-scores students-fr',
 				'style'			=>'style="display:none;"',
 				'table_content'	=>implode('',$arrRows)
 			)
