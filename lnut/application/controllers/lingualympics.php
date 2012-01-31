@@ -436,7 +436,7 @@ class Lingualympics extends Controller {
 		 * Build the output
 		 */
 		if(is_array($arrRow) && count($arrRow)) {
-			$arrRow['content'] = str_replace(array('&#123;&#123;', '&#125;&#125;'), array('{{', '}}'),$arrContent['content']);
+			$arrRow['content'] = str_replace(array('&#123;&#123;', '&#125;&#125;'), array('{{', '}}'),$arrRow['content']);
 			$body->assign ($arrRow);
 		}
 		$skeleton->assign (
