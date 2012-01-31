@@ -24,6 +24,7 @@ class Lingualympics extends Controller {
 	}
 
 	protected function Cron() {
+
 		$query = "DELETE FROM `lingualympics`";
 		database::query($query);
 
@@ -51,6 +52,7 @@ class Lingualympics extends Controller {
 		//$query.="ORDER BY `G`.`user_uid`,`G`.`game_uid`";
 		$query.="ORDER BY `MxScore` DESC ";
 		$query.="LIMIT 0,20 ";
+
 
 		$arrScore = array();
 		$arrNames = array();
