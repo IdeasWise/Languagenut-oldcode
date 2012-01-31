@@ -16,7 +16,7 @@ class lingualympics_cms extends generic_object {
 			$query.="FROM ";
 			$query.="`lingualympics_cms` ";
 			$query.="WHERE ";
-			$query.="`locale` ='".mysql_real_escape_string($locale)."'";
+			$query.="`locale` ='".mysql_real_escape_string($locale)."' ";
 			$query.="LIMIT 0,1";
 			$result = database::query($query);
 			if(mysql_error()== '' && mysql_num_rows($result)) {
@@ -27,8 +27,9 @@ class lingualympics_cms extends generic_object {
 				$query.="FROM ";
 				$query.="`lingualympics_cms` ";
 				$query.="WHERE ";
-				$query.="`locale` ='en'";
+				$query.="`locale` ='en' ";
 				$query.="LIMIT 0,1";
+				$result = database::query($query);
 				if(mysql_error()== '' && mysql_num_rows($result)) {
 					$arrResult = mysql_fetch_assoc($result);
 				}
