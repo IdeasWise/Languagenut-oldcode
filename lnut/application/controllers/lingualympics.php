@@ -459,6 +459,101 @@ class Lingualympics extends Controller {
 	}
 
 	private function getLanguageContents() {
+
+		$arrSchool		= array();
+		$arrStudents	= array();
+		$arrHomeUser	= array();
+
+		$arrSchool		= $this->getAllSchoolContent();
+		$arrStudents		= $this->getAllStudentContent();
+		return array(
+			'language'		=>'',
+			'div.schools'	=>$arrSchool,
+			'div.students'	=>$arrStudents,
+			'div.homeusers'	=>''
+		);
+	}
+
+	private function getAllSchoolContent() {
+
+		$style='';
+		$query ="SELECT ";
+		$query.="* ";
+		$query.="FROM ";
+		$query.="`lingualympics` ";
+		$query.="WHERE ";
+		$query.="`section` = 'schools' ";
+		$query.="ORDER BY `score` DESC ";
+		$result = database::query($query);
+
+		$i = 1;
+		$arrRows = array();
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			while($row = mysql_fetch_array($result)) {
+				if($row['locale'] == 'en') {
+					$row['locale'] = 'gb';
+				}
+				$arrRows[] = make::tpl('body.lingualympics.table.rows')->assign(
+					array(
+						'i'		=>($i++),
+						'locale'=>$row['locale'],
+						'vname'	=>trim(stripslashes(htmlentities($row['vname']))),
+						'score'	=>$row['score']
+					)
+				)->get_content();
+			}
+		}
+		$Html=make::tpl('body.lingualympics.table')->assign(
+			array(
+				'class'			=>'locale-school-scores school',
+				'style'			=>$style,
+				'table_content'	=>implode('',$arrRows)
+			)
+		)->get_content();
+		return $Html;
+	}
+
+	private function getAllStudentContent() {
+
+		$query ="SELECT ";
+		$query.="* ";
+		$query.="FROM ";
+		$query.="`lingualympics` ";
+		$query.="WHERE ";
+		//$query.="`language_uid`='".$arrLang['uid']."'";
+		//$query.="AND ";
+		$query.="`section` != 'schools' ";
+		$query.="ORDER BY `score` DESC ";
+		$result = database::query($query);
+
+		$i = 1;
+		$arrRows = array();
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			while($row = mysql_fetch_array($result)) {
+				if($row['locale'] == 'en') {
+					$row['locale'] = 'gb';
+				}
+				$arrRows[] = make::tpl('body.lingualympics.table.rows')->assign(
+					array(
+						'i'		=>($i++),
+						'locale'=>$row['locale'],
+						'vname'	=>trim(stripslashes(htmlentities($row['vname']))),
+						'score'	=>$row['score']
+					)
+				)->get_content();
+			}
+		}
+		$Html=make::tpl('body.lingualympics.table')->assign(
+			array(
+				'class'			=>'all-student-scores students',
+				'style'			=>'style="display:none;"',
+				'table_content'	=>implode('',$arrRows)
+			)
+		)->get_content();
+		return $Html;
+	}
+
+	private function getLanguageContents_old() {
 		$arrLangHtml	= array();
 		$arrSchool		= array();
 		$arrStudents	= array();
