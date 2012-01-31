@@ -73,7 +73,7 @@ class Lingualympics extends Controller {
 		}
 		arsort($arrScore);
 		//$arrRes = array_slice($arrScore,0,20,true);
-		foreach($arrRes as $uid => $Score ) {
+		foreach($arrScore as $uid => $Score ) {
 			$arrdata = array(
 				'name'			=> addslashes($arrNames[$uid]),
 				'score'			=> $Score,
@@ -135,7 +135,7 @@ class Lingualympics extends Controller {
 			}
 			arsort($arrScore);
 			//$arrRes = array_slice($arrScore,0,10,true);
-			foreach($arrRes as $uid => $Score ) {
+			foreach($arrScore as $uid => $Score ) {
 				$arrdata = array(
 					'name'			=> addslashes($arrNames[$uid]),
 					'score'			=> $Score,
@@ -194,7 +194,7 @@ class Lingualympics extends Controller {
 			}
 			arsort($arrScore);
 			//$arrRes = array_slice($arrScore,0,10,true);
-			foreach($arrRes as $uid => $Score ) {
+			foreach($arrScore as $uid => $Score ) {
 				$arrdata = array(
 					'name'			=> addslashes($arrNames[$uid]),
 					'score'			=> $Score,
