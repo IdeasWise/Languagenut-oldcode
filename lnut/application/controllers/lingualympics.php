@@ -419,7 +419,7 @@ class Lingualympics extends Controller {
 		 */
 		$body = make::tpl ('body.lingualympics');
 
-		$body->assign($this->getLanguageContents());
+		
 		$arrRow = array();
 		$locale = config::get('locale');
 		$force_en_version = true;
@@ -435,10 +435,23 @@ class Lingualympics extends Controller {
 		/**
 		 * Build the output
 		 */
+		 $arrTranslations = array(
+			'label_country'	=> 'Country',
+			'label_rank'	=> 'Rank',
+			'label_name'	=> 'Name',
+			'label_score'	=> 'Score'
+		);
 		if(is_array($arrRow) && count($arrRow)) {
 			$arrRow['content'] = str_replace(array('&#123;&#123;', '&#125;&#125;'), array('{{', '}}'),$arrRow['content']);
 			$body->assign ($arrRow);
+			$arrTranslations = array(
+				'label_country'	=> (isset($arrRow['label_country'])?$arrRow['label_country']:'Country'),
+				'label_rank'	=> (isset($arrRow['label_rank'])?$arrRow['label_rank']:'Rank'),
+				'label_name'	=> (isset($arrRow['label_name'])?$arrRow['label_name']:'Name'),
+				'label_score'	=> (isset($arrRow['label_score'])?$arrRow['label_score']:'Score')
+			);
 		}
+		$body->assign($this->getLanguageContents($arrTranslations));
 		$skeleton->assign (
 			array (
 				'title'			=> (isset($arrRow['meta_title']))?$arrRow['meta_title']:'',
@@ -450,10 +463,10 @@ class Lingualympics extends Controller {
 		output::as_html($skeleton,true);
 	}
 
-	private function getLanguageContents() {
+	private function getLanguageContents($arrTranslations=array()) {
 
-		$arrSchool		= $this->getAllSchoolContent();
-		$arrStudents	= $this->getAllStudentContent();
+		$arrSchool		= $this->getAllSchoolContent($arrTranslations);
+		$arrStudents	= $this->getAllStudentContent($arrTranslations);
 		
 		return array(
 			'language'		=>'',
@@ -463,7 +476,7 @@ class Lingualympics extends Controller {
 		);
 	}
 
-	private function getAllSchoolContent() {
+	private function getAllSchoolContent($arrTranslations=array()) {
 
 		$style='';
 		$query ="SELECT ";
@@ -492,17 +505,21 @@ class Lingualympics extends Controller {
 				)->get_content();
 			}
 		}
-		$Html=make::tpl('body.lingualympics.table')->assign(
+		$body=make::tpl('body.lingualympics.table')->assign(
 			array(
 				'class'			=>'locale-school-scores school-fr',
 				'style'			=>$style,
 				'table_content'	=>implode('',$arrRows)
 			)
-		)->get_content();
+		);
+		if(is_array($arrTranslations) && count($arrTranslations)) {
+			$body->assign($arrTranslations);
+		}
+		$Html = $body->get_content();
 		return $Html;
 	}
 
-	private function getAllStudentContent() {
+	private function getAllStudentContent($arrTranslations=array()) {
 
 		$query ="SELECT ";
 		$query.="* ";
@@ -533,13 +550,17 @@ class Lingualympics extends Controller {
 				)->get_content();
 			}
 		}
-		$Html=make::tpl('body.lingualympics.table')->assign(
+		$body=make::tpl('body.lingualympics.table')->assign(
 			array(
 				'class'			=>'all-student-scores students-fr',
 				'style'			=>'style="display:none;"',
 				'table_content'	=>implode('',$arrRows)
 			)
-		)->get_content();
+		);
+		if(is_array($arrTranslations) && count($arrTranslations)) {
+			$body->assign($arrTranslations);
+		}
+		$Html = $body->get_content();
 		return $Html;
 	}
 

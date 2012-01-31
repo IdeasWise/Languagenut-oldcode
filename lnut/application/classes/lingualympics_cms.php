@@ -101,6 +101,50 @@ class lingualympics_cms extends generic_object {
 				'errdataType' => 'Please enter valid student label.',
 				'errIndex' => 'error.label_student'
 			),
+			'label_country' => array(
+				'value' => (isset($_POST['label_country'])) ? trim($_POST['label_country']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter country label.',
+				'minChar' => 2,
+				'maxChar' => 100,
+				'errMinMax' => 'Country lable must be 2 to 100 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid country label.',
+				'errIndex' => 'error.label_country'
+			),
+			'label_rank' => array(
+				'value' => (isset($_POST['label_rank'])) ? trim($_POST['label_rank']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter rank label.',
+				'minChar' => 2,
+				'maxChar' => 100,
+				'errMinMax' => 'Rank lable must be 2 to 100 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid rank label.',
+				'errIndex' => 'error.label_rank'
+			),
+			'label_name' => array(
+				'value' => (isset($_POST['label_name'])) ? trim($_POST['label_name']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter name label.',
+				'minChar' => 2,
+				'maxChar' => 100,
+				'errMinMax' => 'Name lable must be 2 to 100 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid name label.',
+				'errIndex' => 'error.label_name'
+			),
+			'label_score' => array(
+				'value' => (isset($_POST['label_score'])) ? trim($_POST['label_score']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter score label.',
+				'minChar' => 2,
+				'maxChar' => 100,
+				'errMinMax' => 'Score lable must be 2 to 100 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid score label.',
+				'errIndex' => 'error.label_score'
+			),
 			'content' => array(
 				'value' => (isset($_POST['content'])) ? trim($_POST['content']) : '',
 				'checkEmpty' => false,
@@ -153,6 +197,10 @@ class lingualympics_cms extends generic_object {
 			$this->set_page_title($arrFields['page_title']['value']);
 			$this->set_label_school($arrFields['label_school']['value']);
 			$this->set_label_student($arrFields['label_student']['value']);
+			$this->set_label_country($arrFields['label_country']['value']);
+			$this->set_label_rank($arrFields['label_rank']['value']);
+			$this->set_label_name($arrFields['label_name']['value']);
+			$this->set_label_score($arrFields['label_score']['value']);
 			$this->set_content(str_replace(array('{{', '}}'),array('&#123;&#123;', '&#125;&#125;'),$arrFields['content']['value']));
 			$this->set_meta_title($arrFields['meta_title']['value']);
 			$this->set_meta_keywords($arrFields['meta_keywords']['value']);
