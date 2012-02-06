@@ -499,7 +499,7 @@ class Lingualympics extends Controller {
 					array(
 						'i'		=>($i++),
 						'locale'=>$row['locale'],
-						'vname'	=>trim(stripslashes(htmlentities($row['vname']))),
+						'vname'	=>trim(stripslashes($row['vname'])),
 						'score'	=>$row['score']
 					)
 				)->get_content();
@@ -544,7 +544,7 @@ class Lingualympics extends Controller {
 					array(
 						'i'		=>($i++),
 						'locale'=>$row['locale'],
-						'vname'	=>trim(stripslashes(htmlentities($row['vname']))),
+						'vname'	=>trim(stripslashes($row['vname'])),
 						'score'	=>$row['score']
 					)
 				)->get_content();
