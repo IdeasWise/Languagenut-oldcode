@@ -93,6 +93,9 @@ class Admin extends Controller {
 					case "lingualympics_cms":
 						$this->load_controller('admin_lingualympics_cms');
 					break;
+					case "school_report":
+						$this->load_controller('admin.school.report');
+					break;
 					default:
 						output::redirect(config::url('admin/users/school/'));
 					break;
