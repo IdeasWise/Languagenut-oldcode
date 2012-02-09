@@ -51,6 +51,16 @@ class school_report extends Controller {
 		$query .= ") AS `last_login`, ";
 		*/
 		$query.="`U`.`last_seen`, ";
+		$query.= "( ";
+			$query.="SELECT ";
+			$query.="count(`logging_access`.`uid`) ";
+			$query.="FROM ";
+			$query.="`logging_access` ";
+			$query.="WHERE ";
+			$query.="`S`.`uid` = `logging_access`.`school_uid` ";
+			$query.="AND ";
+			$query.="`is_login_entry` = '1' ";
+		$query.=") AS `AllTime`, ";
 		$query.="`U`.`active`, ";
 		$query.="`U`.`access_allowed`, ";
 		
@@ -100,6 +110,7 @@ class school_report extends Controller {
 				'email',
 				'payment_type',
 				'last_login',
+				'total_usage',
 				'active',
 				'access_allowed',
 				'date_paid',
