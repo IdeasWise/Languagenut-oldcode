@@ -66,6 +66,9 @@ class game_translation extends generic_object {
 					$query.="AND ";
 					$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
 					$query.="LIMIT 1";
+					if($language_uid == 26) {
+						echo $query;
+					}
 					$result = database::query($query);
 					if ($result && mysql_error() == '') {
 						$row = mysql_fetch_array($result);
@@ -82,6 +85,10 @@ class game_translation extends generic_object {
 							$query.="`game_uid`='" . mysql_real_escape_string($game_uid) . "' ";
 							$query.="LIMIT 1";
 							$result = database::query($query);
+							if($language_uid == 26) {
+								echo '<br><br>';
+								echo $query;
+							}
 							if(mysql_error()!='') {
 								die($query.'<br><br>'.mysql_error());
 							}
@@ -98,6 +105,10 @@ class game_translation extends generic_object {
 							$query.="'" . mysql_real_escape_string($val) . "',";
 							$query.="'" . $instruction . "'";
 							$query.=")";
+							if($language_uid == 26) {
+								echo '<br><br>';
+								echo $query;
+							}
 							$result = database::query($query);
 							if(mysql_error()!='') {
 								die($query.'<br><br>'.mysql_error());
@@ -106,6 +117,7 @@ class game_translation extends generic_object {
 					}
 				}
 			}
+			exit;
 		}
 	}
 
