@@ -104,6 +104,9 @@ class Permission extends Controller {
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 			} else if($_REQUEST['package_token']=='lgfl_standard') {
 				$json_file = config::get('cache').'json/lgfl_standard.json';
+				if(in_array($_REQUEST['support_languauge_uid'],array(28,27))) {
+					$json_file = config::get('cache').'json/cl_lgfl_standard.json';
+				}
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 			} else if($_REQUEST['package_token']=='lgfl_eal') {
 				$json_file = config::get('cache').'json/lgfl_eal.json';
@@ -868,7 +871,7 @@ $arrUnitSectionGames = array(
 
 );
 
-/*
+
 $arrUnitSectionGames = array(
 	'u' => array(
 		1 => array(
@@ -944,7 +947,7 @@ $arrUnitSectionGames = array(
 	)
 
 );
-*/
+
 		@ini_set('memory_limit', '256M');
 		$arrJson['data'] = array();
 		$arrJson['data']['sl'] = 'sl_uid';
@@ -953,13 +956,13 @@ $arrUnitSectionGames = array(
 
 		//$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,11,12,14,16,17,23,24,75)";
 		//$query = "SELECT `uid` FROM `language` WHERE `uid` IN (3,4,5,6,7,10,14)";
-		$query = "SELECT `uid` FROM `language` WHERE `uid` IN (14,6,3,7,11)";
+		$query = "SELECT `uid` FROM `language` WHERE `uid` IN (14)";
 		$result = database::query($query);
 		while($arrRow = mysql_fetch_array($result)) {
 			$arrJson['data']['l'][$arrRow['uid']]=$arrUnitSectionGames;
 		}
 
-		$json_file = config::get('cache').'json/mx_standard_home_package.json';
+		$json_file = config::get('cache').'json/cl_lgfl_standard.json';
 		//echo json_encode($arrJson);
 		$fh = fopen($json_file, 'w');
 		if($fh) {
