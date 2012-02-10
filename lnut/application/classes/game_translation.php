@@ -54,7 +54,7 @@ class game_translation extends generic_object {
 					if(isset($_POST['instruction'][$game_uid.'_'.$language_uid])) {
 						$instruction = mysql_real_escape_string($_POST['instruction'][$game_uid.'_'.$language_uid]);
 					}
-					query = "SELECT ";
+					$query = "SELECT ";
 					$query.="COUNT(`uid`) ";
 					$query.="FROM ";
 					$query.="`game_translation` ";
@@ -75,6 +75,7 @@ class game_translation extends generic_object {
 		echo '</pre>';
 		exit;
 	}
+	
 	public function updateGameTranslation_old() {
 		if (count($_POST) > 0) {
 			echo '<pre>';
