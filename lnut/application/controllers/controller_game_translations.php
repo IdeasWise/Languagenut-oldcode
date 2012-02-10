@@ -10,7 +10,7 @@ class controller_game_translations extends Controller {
 	protected function index() {
 		if(count($_POST) > 0) {
 			game_translation::updateGameTranslation();
-			output::redirect(config::admin_uri('game_translations/'));
+			//output::redirect(config::admin_uri('game_translations/'));
 		}
 		if(isset($_SESSION['user']['admin']) && $_SESSION['user']['admin'] == 1) {
 			$skeleton	= make::tpl ('skeleton.admin');

@@ -43,13 +43,18 @@ class game_translation extends generic_object {
 		}
 		return $arrResponse;
 	}
-
 	public function updateGameTranslation() {
+		echo '<pre>';
+		print_r($_POST);
+		echo '</pre>';
+		exit;
+	}
+	public function updateGameTranslation_old() {
 		if (count($_POST) > 0) {
 			echo '<pre>';
 			print_r($_POST);
 			echo '</pre>';
-
+			exit;
 			foreach ($_POST as $key => $val) {
 				$name = explode('_', $key);
 				if (count($name) == 3 && $name[0] == 'game') {
