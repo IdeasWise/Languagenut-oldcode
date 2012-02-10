@@ -75,6 +75,7 @@ class game_translation extends generic_object {
 		echo '</pre>';
 		exit;
 	}
+	
 	public function updateGameTranslation_old() {
 		if (count($_POST) > 0) {
 			echo '<pre>';
