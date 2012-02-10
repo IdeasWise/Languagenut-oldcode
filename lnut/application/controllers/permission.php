@@ -104,7 +104,7 @@ class Permission extends Controller {
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
 			} else if($_REQUEST['package_token']=='lgfl_standard') {
 				$json_file = config::get('cache').'json/lgfl_standard.json';
-				if(in_array($_REQUEST['support_languauge_uid'],array(28,27))) {
+				if(in_array($_REQUEST['support_languauge_uid'],array(27))) {
 					$json_file = config::get('cache').'json/cl_lgfl_standard.json';
 				}
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
