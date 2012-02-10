@@ -687,6 +687,21 @@ class language extends generic_object {
 		return $result;
 	}
 
+	public static function get_language_details_by_prefix($prefix="en") {
+		$response = array();
+		$query = "SELECT ";
+		$query.= "`uid`, ";
+		$query.= "`name`, ";
+		$query.= "`prefix` ";
+		$query.= "FROM ";
+		$query.= "`language` ";
+		$query.= "WHERE ";
+		$query.= "`prefix` = '".mysql_real_escape_string($prefix)."' ";
+		$query.= "LIMIT 0,1";
+		$result = database::arrQuery($query);
+		return $result;
+	}
+
 	public function GetUnsuedSectionVocabLanguagesListBox($inputName, $selctedValue = NULL) {
 		$sql = "SELECT ";
 		$sql.= "`LG`.`uid`, ";
