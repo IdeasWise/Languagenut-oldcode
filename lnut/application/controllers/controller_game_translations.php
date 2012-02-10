@@ -18,6 +18,9 @@ class controller_game_translations extends Controller {
 	protected function index() {
 		if(count($_POST) > 0) {
 			game_translation::updateGameTranslation();
+			if(!isset($_SESSION['cms_success_message'])) {
+				$_SESSION['cms_success_message'] = component_message::success('Record has been updated successfully.');
+			}
 			output::redirect(config::admin_uri('game_translations/'.$this->locale.'/'));
 		}
 		if(isset($_SESSION['user']['admin']) && $_SESSION['user']['admin'] == 1) {
@@ -75,7 +78,10 @@ class controller_game_translations extends Controller {
 			$body->assign('form_content',$GameTable->get_content());
 			$body->assign('select_locales',implode('',$arrLocales));
 			$body->assign('locale',$this->locale);
-
+			$body->assign('success_message',(isset($_SESSION['cms_success_message']))?$_SESSION['cms_success_message']:'');
+			if(isset($_SESSION['cms_success_message'])) {
+				unset($_SESSION['cms_success_message']);
+			}
 			$skeleton->assign (
 				array (
 					'body' => $body
