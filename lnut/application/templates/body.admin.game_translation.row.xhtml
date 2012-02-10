@@ -1,5 +1,6 @@
 <tr>
 	<td valign="top">{{ game_name }}</td>
-	<td valign="top"><input type="text" name="game_{{ game_uid }}_{{ uid }}" id="game_{{ game_uid }}_{{ uid }}" value="{{ translation_name }}" class="box" /></td>
+	<!--<td valign="top"><input type="text" name="game_{{ game_uid }}_{{ uid }}" id="game_{{ game_uid }}_{{ uid }}" value="{{ translation_name }}" class="box" /></td>-->
+    <td valign="top"><input type="text" name="game[{{ game_uid }}_{{ uid }}]" id="game_{{ game_uid }}_{{ uid }}" value="{{ translation_name }}" class="box" /></td>
     <td><textarea cols="50" rows="4" name="instruction[{{ game_uid }}_{{ uid }}]" id="instruction_{{ game_uid }}_{{ uid }}">{{ instruction }}</textarea></td>
 </tr>
