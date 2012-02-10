@@ -44,44 +44,65 @@ class game_translation extends generic_object {
 		return $arrResponse;
 	}
 	public function updateGameTranslation() {
-		if (count($_POST) > 0) {
-			foreach ($_POST as $key => $val) {
-				$name = explode('_', $key);
-				if (count($name) == 3 && $name[0] == 'game') {
-					$game_uid = (int) $name[1];
-					$language_uid = (int) $name[2];
-					$instruction = '';
-					if(isset($_POST['instruction'][$game_uid.'_'.$language_uid])) {
-						$instruction = mysql_real_escape_string($_POST['instruction'][$game_uid.'_'.$language_uid]);
-					}
-					$query = "SELECT ";
-					$query.="COUNT(`uid`) ";
-					$query.="FROM ";
-					$query.="`game_translation` ";
-					$query.="WHERE ";
-					$query.="`game_uid`='" . mysql_real_escape_string($game_uid) . "' ";
-					$query.="AND ";
-					$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
-					$query.="LIMIT 1";
-					if($language_uid == 26) {
-						echo $query;
-					}
-					$result = database::query($query);
-				}
-			}
-		}
 		echo '<pre>';
 		print_r($_POST);
 		echo '</pre>';
-		exit;
+		if(isset($_POST['game']) && isset($_POST['instruction']) && count($_POST['game']) && count($_POST['instruction'])) {
+			foreach($_POST['game'] as $key => $game_value) {
+				$data = explode('_', $key);
+				if (count($data) == 2 ) {
+					$game_uid = (int) $data[0];
+					$language_uid = (int) $data[1];
+				}
+				$instruction = '';
+				if(isset($_POST['instruction'][$game_uid.'_'.$language_uid])) {
+					$instruction = mysql_real_escape_string($_POST['instruction'][$game_uid.'_'.$language_uid]);
+				}
+				$query = "SELECT ";
+				$query.="`uid` ";
+				$query.="FROM ";
+				$query.="`game_translation` ";
+				$query.="WHERE ";
+				$query.="`game_uid`='" . mysql_real_escape_string($game_uid) . "' ";
+				$query.="AND ";
+				$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
+				$query.="LIMIT 1";
+				$result = database::query($query);
+
+				if(mysql_error()=='' && mysql_num_rows($result)) {
+					$query = "UPDATE ";
+					$query.="`game_translation` ";
+					$query.="SET ";
+					$query.="`name`='" . mysql_real_escape_string($game_value) . "', ";
+					$query.="`instruction`='".$instruction."' ";
+					$query.="WHERE ";
+					$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
+					$query.="AND ";
+					$query.="`game_uid`='" . mysql_real_escape_string($game_uid) . "' ";
+					$query.="LIMIT 1";
+					$update = database::query($query);
+				} else {
+					$query = "INSERT INTO ";
+					$query.="`game_translation` (";
+					$query.="`game_uid`,";
+					$query.="`language_uid`,";
+					$query.="`name`,";
+					$query.="`instruction`";
+					$query.=") VALUES (";
+					$query.="'" . mysql_real_escape_string($game_uid) . "',";
+					$query.="'" . mysql_real_escape_string($language_uid) . "',";
+					$query.="'" . mysql_real_escape_string($game_value) . "',";
+					$query.="'" . $instruction . "'";
+					$query.=")";
+					$insert = database::query($query);
+				}
+			}
+		}
 	}
+	
 	
 	public function updateGameTranslation_old() {
 		if (count($_POST) > 0) {
-			echo '<pre>';
-			print_r($_POST);
-			echo '</pre>';
-			exit;
 			foreach ($_POST as $key => $val) {
 				$name = explode('_', $key);
 				if (count($name) == 3 && $name[0] == 'game') {
