@@ -43,13 +43,44 @@ class game_translation extends generic_object {
 		}
 		return $arrResponse;
 	}
-
 	public function updateGameTranslation() {
+		if (count($_POST) > 0) {
+			foreach ($_POST as $key => $val) {
+				$name = explode('_', $key);
+				if (count($name) == 3 && $name[0] == 'game') {
+					$game_uid = (int) $name[1];
+					$language_uid = (int) $name[2];
+					$instruction = '';
+					if(isset($_POST['instruction'][$game_uid.'_'.$language_uid])) {
+						$instruction = mysql_real_escape_string($_POST['instruction'][$game_uid.'_'.$language_uid]);
+					}
+					query = "SELECT ";
+					$query.="COUNT(`uid`) ";
+					$query.="FROM ";
+					$query.="`game_translation` ";
+					$query.="WHERE ";
+					$query.="`game_uid`='" . mysql_real_escape_string($game_uid) . "' ";
+					$query.="AND ";
+					$query.="`language_uid`='" . mysql_real_escape_string($language_uid) . "' ";
+					$query.="LIMIT 1";
+					if($language_uid == 26) {
+						echo $query;
+					}
+					$result = database::query($query);
+				}
+			}
+		}
+		echo '<pre>';
+		print_r($_POST);
+		echo '</pre>';
+		exit;
+	}
+	public function updateGameTranslation_old() {
 		if (count($_POST) > 0) {
 			echo '<pre>';
 			print_r($_POST);
 			echo '</pre>';
-
+			exit;
 			foreach ($_POST as $key => $val) {
 				$name = explode('_', $key);
 				if (count($name) == 3 && $name[0] == 'game') {
