@@ -468,12 +468,16 @@ class acccount_invoice extends Controller {
 						}
 						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
 							$data['class_name'] = 'expires-within-30-days-pink';
+							$data['extra_style']= 'class="expires-within-30-days-pink"';
 						} else if ($verified) {
 							$data['class_name'] = 'verified-green';
+							$data['extra_style']= 'class="verified-green"';
 						} else if ($two_weeks_ago < $regd && !$verified) {
 							$data['class_name'] ='two-week-not-verified-orange';
+							$data['extra_style']= 'class="two-week-not-verified-orange"';
 						} else if ($two_weeks_ago > $regd && !$verified) {
 							$data['class_name'] = 'two-week-not-verified-pink';
+							$data['extra_style']= 'class="two-week-not-verified-pink"';
 						}
 					}
 				}
