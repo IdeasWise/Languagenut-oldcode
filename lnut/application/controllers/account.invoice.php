@@ -466,7 +466,7 @@ class acccount_invoice extends Controller {
 							$data['extra_style'] ='';
 						}
 						$data['class_name'] = '';
-						echo '<h1>remaining_days:$remaining_days</h1>';
+						echo "<h1>remaining_days:$remaining_days</h1>";
 						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
 							$data['class_name'] = 'expires-within-30-days-pink';
 							$data['extra_style']= 'class="expires-within-30-days-pink"';
