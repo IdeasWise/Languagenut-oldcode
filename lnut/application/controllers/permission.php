@@ -47,11 +47,13 @@ class Permission extends Controller {
 			} else if(in_array($_REQUEST['package_token'],array('eal','lgfl_eal'))) {
 				$arrELLlanguage = array(
 					"'so'",
-					"'ar'",
+					//"'ar'",
+					"'me'",
 					"'fr'",
 					"'pt'",
 					"'mx'",
-					"'cc'",
+					//"'cc'",
+					"'cn'",
 					"'fr'",
 					"'ge'",
 					"'ht'",
