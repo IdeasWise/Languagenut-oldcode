@@ -459,27 +459,30 @@ class acccount_invoice extends Controller {
 					
 
 					$hasActiveSubscription = true;
-					if($hasActiveSubscription) {
-						if($data['cancel_dts'] != '0000-00-00 00:00:00') {
-							$data['extra_style'] = ' style="background:#FF5347;color:white;"';
-						} else {
-							$data['extra_style'] ='';
-						}
-						$data['class_name'] = '';
-						echo "<h1>remaining_days:".$remaining_days."</h1>";
-					
-						if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
-							$data['class_name'] = 'expires-within-30-days-pink';
-							$data['extra_style']= 'class="expires-within-30-days-pink"';
-						} else if ($verified) {
-							$data['class_name'] = 'verified-green';
-							$data['extra_style']= 'class="verified-green"';
-						} else if ($two_weeks_ago < $regd && !$verified) {
-							$data['class_name'] ='two-week-not-verified-orange';
-							$data['extra_style']= 'class="two-week-not-verified-orange"';
-						} else if ($two_weeks_ago > $regd && !$verified) {
-							$data['class_name'] = 'two-week-not-verified-pink';
-							$data['extra_style']= 'class="two-week-not-verified-pink"';
+					if($this->arrPaths[2]=='pending') {
+						$data['class_name'] = 'expires-within-30-days-pink';
+						$data['extra_style']= 'class="expires-within-30-days-pink"';
+					} else {
+						if($hasActiveSubscription) {
+							if($data['cancel_dts'] != '0000-00-00 00:00:00') {
+								$data['extra_style'] = ' style="background:#FF5347;color:white;"';
+							} else {
+								$data['extra_style'] ='';
+							}
+							$data['class_name'] = '';
+							if($remaining_days > 0 && $remaining_days <= 30 && $verified) {
+								$data['class_name'] = 'expires-within-30-days-pink';
+								$data['extra_style']= 'class="expires-within-30-days-pink"';
+							} else if ($verified) {
+								$data['class_name'] = 'verified-green';
+								$data['extra_style']= 'class="verified-green"';
+							} else if ($two_weeks_ago < $regd && !$verified) {
+								$data['class_name'] ='two-week-not-verified-orange';
+								$data['extra_style']= 'class="two-week-not-verified-orange"';
+							} else if ($two_weeks_ago > $regd && !$verified) {
+								$data['class_name'] = 'two-week-not-verified-pink';
+								$data['extra_style']= 'class="two-week-not-verified-pink"';
+							}
 						}
 					}
 				}
