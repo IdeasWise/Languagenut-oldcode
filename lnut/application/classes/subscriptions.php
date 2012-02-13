@@ -295,6 +295,7 @@ class subscriptions extends generic_object {
 			$query.= "WHERE ";
 			$query.= "`subscriptions`.`expires_dts` <= '$thirty_days_from_now' ";
 			$query.= "AND `subscriptions`.`expires_dts` >= '$today' ";
+			$query.= "AND `subscriptions`.`verified` = '1' ";
 			$query.= "AND `subscriptions`.`invoice_for`='school' ";
 			$query.= "AND `user`.`uid`=`subscriptions`.`user_uid` ";
 			$query.= "AND `user`.`locale` IN (".$_SESSION['user']['localeRights'].") ";
