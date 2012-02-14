@@ -186,7 +186,7 @@ html ul.topnav li ul.subnav li a { float: left; width: 160px; font-size:12px; pa
 	background:#bbdfB1;
 }
 
-span.go-to-flash {
+div.go-to-flash {
     background: url("http://images.languagenut.com/gotoflashbuttonSPRITE.png") no-repeat scroll left top transparent;
     display: block;
     font-size: 0 !important;
@@ -195,4 +195,4 @@ span.go-to-flash {
     width: 50px;
 }
 
-span.go-to-flash:hover {background-position:-50px top;}
+div.go-to-flash:hover {background-position:-50px top;}
