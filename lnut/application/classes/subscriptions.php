@@ -1505,7 +1505,7 @@ class subscriptions extends generic_object {
 					$this->set_invoice_for('school');
 					$this->set_vat((isset($priceArray['vat'])?$priceArray['vat']:0));
 
-					$this->set_date_paid($date_paid);
+					//$this->set_date_paid($date_paid);
 					$this->set_verified($verified);
 					$this->set_verified_dts($verified_dts);
 					$this->set_package_token($package_token);

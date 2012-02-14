@@ -2094,6 +2094,13 @@ class user extends generic_object {
 	public function get_user_package_text($user_uid=null) {
 		$package_text = '-';
 		$arrPackages = $this->get_user_packages($user_uid);
+		$package_text = implode(', ',$arrPackages);
+		$package_text = str_replace(
+			array('lgfl_standard','lgfl_eal','standard'),
+			array('lgfl-mfl','lgfl-eal','mfl'),
+			$package_text
+		);
+		/*
 		if(is_array($arrPackages) && count($arrPackages)) {
 			if(count($arrPackages)==1) {
 				switch ($arrPackages[0]) {
@@ -2108,6 +2115,7 @@ class user extends generic_object {
 				$package_text = 'both';
 			}
 		}
+		*/
 		return $package_text;
 	}
 }
