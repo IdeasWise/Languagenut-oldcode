@@ -171,6 +171,7 @@ class acccount_invoice extends Controller {
 		$arrBody['payverified0']= 'checked="checked"';
 		$arrBody['amount']		= config::getSetting('subscription_amount');
 		$arrBody['user_uid']	= subscriptions::getOptions();
+		$arrBody['display'] = 'display:none;';
 
 		$body->assign( $arrBody );
 
@@ -307,6 +308,19 @@ class acccount_invoice extends Controller {
 			//$arrBody['user_uid'] = $this->getOptions($arrBody['user_uid']);
 			$arrBody['user_uid_display'] = 'display:none;';
 			$arrBody['user_uid_edit'] = subscriptions::getOptions($arrBody['user_uid']);
+			$arrBody['package_name'] = '';
+			$arrBody['display'] = 'display:block;';
+			if($arrBody['package_token'] == 'standard') {
+				$arrBody['package_name'] = 'mfl';
+			} else if($arrBody['package_token'] == 'eal') {
+				$arrBody['package_name'] = 'eal';
+			} else if($arrBody['package_token'] == 'lgfl_standard') {
+				$arrBody['package_name'] = 'lgfl-mfl';
+			} else if($arrBody['package_token'] == 'lgfl_eal') {
+				$arrBody['package_name'] = 'lgfl-eal';
+			} else if($arrBody['package_token'] == 'gaelic') {
+				$arrBody['package_name'] = 'gaelic';
+			}
 			$body->assign( $arrBody );
 		}
 

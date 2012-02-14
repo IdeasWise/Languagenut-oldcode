@@ -109,7 +109,7 @@ class admin_invoice extends Controller {
 		$arrBody['verified0']	= 'checked="checked"';
 		$arrBody['amount']		= config::getSetting('subscription_amount');
 		$arrBody['user_uid']	= subscriptions::getOptions();
-
+		$arrBody['display'] = 'display:none;';
 		$body->assign( $arrBody );
 
 		$skeleton->assign (
@@ -246,6 +246,19 @@ class admin_invoice extends Controller {
 						$arrBody['due_month'],
 						$arrBody['due_year']) = explode('-', date('d-m-Y', strtotime($arrBody['due_date']))
 					);
+				}
+				$arrBody['package_name'] = '';
+				$arrBody['display'] = 'display:block;';
+				if($arrBody['package_token'] == 'standard') {
+					$arrBody['package_name'] = 'mfl';
+				} else if($arrBody['package_token'] == 'eal') {
+					$arrBody['package_name'] = 'eal';
+				} else if($arrBody['package_token'] == 'lgfl_standard') {
+					$arrBody['package_name'] = 'lgfl-mfl';
+				} else if($arrBody['package_token'] == 'lgfl_eal') {
+					$arrBody['package_name'] = 'lgfl-eal';
+				} else if($arrBody['package_token'] == 'gaelic') {
+					$arrBody['package_name'] = 'gaelic';
 				}
 			}
 			//$arrBody['user_uid'] = subscriptions::getOptions($arrBody['user_uid']);

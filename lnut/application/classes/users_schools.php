@@ -528,6 +528,20 @@ class users_schools extends generic_object {
 					$data['due_date'] = '...';
 				}
 				$data['call_status'] = subscriptions::toCallStatusText($data['call_status']);
+				$data['package_name'] = '';
+				if($data['package_token'] == 'standard') {
+					$data['package_name'] = 'mfl';
+				} else if($data['package_token'] == 'eal') {
+					$data['package_name'] = 'eal';
+				} else if($data['package_token'] == 'lgfl_standard') {
+					$data['package_name'] = 'lgfl-mfl';
+				} else if($data['package_token'] == 'lgfl_eal') {
+					$data['package_name'] = 'lgfl-eal';
+				} else if($data['package_token'] == 'gaelic') {
+					$data['package_name'] = 'gaelic';
+				}
+
+
 				$panel->assign($data);
 				$page_rows[] = $panel->get_content();
 			}
