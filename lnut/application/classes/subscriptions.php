@@ -464,9 +464,9 @@ class subscriptions extends generic_object {
 				'checkEmpty' => false,
 				'errEmpty' => '',
 				'minChar' => 1,
-				'maxChar' => 11,
-				'errMinMax' => 'Invoice number must be 1 to 11 characters in length.',
-				'dataType' => 'int',
+				'maxChar' => 30,
+				'errMinMax' => 'Invoice number must be 1 to 30 characters in length.',
+				'dataType' => 'text',
 				'errdataType' => 'Please enter valid invoice number.',
 				'errIndex' => 'error_invoice_number'
 			),
@@ -856,7 +856,8 @@ class subscriptions extends generic_object {
 		$Pricingobject = new currencies();
 		$priceArray = $Pricingobject->getPriceAndCurrency('school');
 		$this->set_user_uid($user_uid);
-		$this->set_invoice_number((1600+$user_uid));
+		$invoice_number = (1600+$user_uid);
+		//$this->set_invoice_number((1600+$user_uid));
 		$this->set_due_date($due_date);
 		$this->set_amount($price);
 		$this->set_start_dts($start);
@@ -868,11 +869,19 @@ class subscriptions extends generic_object {
 		$this->set_verified($verified);
 		$this->set_verified_dts($verified_dts);
 		$this->set_upgrade($upgrade);
+		$token = 'mfl-';
 		if(isset($_SESSION['sess_package'])) {
 			$this->set_package_token(mysql_real_escape_string($_SESSION['sess_package']));
+			if($_SESSION['sess_package'] == 'eal') {
+				$token = 'eal-';
+			} else if($_SESSION['sess_package'] == 'gaelic') {
+				$token = 'gaelic-';
+			}
 		} else {
 			$this->set_package_token('standard');
 		}
+		$invoice_number = (1600+$user_uid);
+		$this->set_invoice_number($token.$invoice_number);
 		return $this->insert();
 	}
 	public function CreateHomeUserSubscription($user_uid, $price) {
@@ -1422,9 +1431,9 @@ class subscriptions extends generic_object {
 					$verified		= 0;
 					$token = '';
 					if($package_token=='standard') {
-						$token = 'mfl';
+						$token = 'mfl-';
 					} else if($package_token=='eal') {
-						$token = 'eal';
+						$token = 'eal-';
 					} 
 					$priceArray = array();
 					$Pricingobject = new currencies();
@@ -1480,9 +1489,9 @@ class subscriptions extends generic_object {
 					$verified		= 1;
 					$token = '';
 					if($package_token=='standard') {
-						$token = 'mfl';
+						$token = 'mfl-';
 					} else if($package_token=='eal') {
-						$token = 'eal';
+						$token = 'eal-';
 					} 
 					$priceArray = array();
 					$Pricingobject = new currencies();
