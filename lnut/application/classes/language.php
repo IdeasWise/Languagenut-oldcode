@@ -32,10 +32,10 @@ class language extends generic_object {
 		$query .= ", `prefix` ";
 		$query .= "FROM ";
 		$query .= "`language` ";
-		$query .= "WHERE ";
-		$query .= "`available` = '1' ";
-		$query .= "AND ";
-		$query .= "`active` = '1' ";
+		// $query .= "WHERE ";
+		// $query .= "`available` = '1' ";
+		// $query .= "AND ";
+		// $query .= "`active` = '1' ";
 		$query .= "ORDER BY `name` ";
 
 		$result = database::query($query);
