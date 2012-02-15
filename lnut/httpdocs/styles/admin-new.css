@@ -195,4 +195,9 @@ div.go-to-flash {
     width: 50px;
 }
 
-div.go-to-flash:hover {background-position:-50px top;}
+div.go-to-flash:hover {
+	background-position:-50px top;
+}
+a.direct:hover {
+    background-color: #222222 !important;
+}
