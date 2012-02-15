@@ -16,7 +16,7 @@ class Test extends Controller {
 		set_time_limit(0);
 		$objUnit = new units();
 		$objUnit->unit_song_and_story_cron();
-		echo 'sucess!';
+		echo 'sucess!('.date('d/m/y H:i:s').')';
 	}
 
 	public function page_delete_2() {
