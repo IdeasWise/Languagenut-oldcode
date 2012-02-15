@@ -193,6 +193,7 @@ div.go-to-flash {
     height: 19px;
     line-height: 0;
     width: 50px;
+	text-indent: -999em;
 }
 
 div.go-to-flash:hover {
