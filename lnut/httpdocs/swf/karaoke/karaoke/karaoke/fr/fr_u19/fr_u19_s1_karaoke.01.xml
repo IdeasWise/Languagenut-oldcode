@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="153652" >
+	<lines>
+		<line words="soit à l’école, soit au collège" start="13608" length="3435" >
+			<highlight index="0" start="730" length="200" />
+			<highlight index="1" start="913" length="200" />
+			<highlight index="2" start="1115" length="427" />
+			<highlight index="3" start="2278" length="200" />
+			<highlight index="4" start="2475" length="200" />
+			<highlight index="5" start="2672" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i de små og de store klasser" />
+				<subtitle lang="en" line="either at primary, or secondary" />
+			</subtitles>
+		</line>
+		<line words="il y a beaucoup à étudier" start="16778" length="3832" >
+			<highlight index="0" start="736" length="134" />
+			<highlight index="1" start="864" length="123" />
+			<highlight index="2" start="976" length="150" />
+			<highlight index="3" start="1160" length="518" />
+			<highlight index="4" start="1717" length="200" />
+			<highlight index="5" start="2091" length="993" />
+			<subtitles>
+				<subtitle lang="dk" line="Er der meget at lære" />
+				<subtitle lang="en" line="there is a lot to study" />
+			</subtitles>
+		</line>
+		<line words="soit en Angleterre, soit en France" start="20478" length="3435" >
+			<highlight index="0" start="44" length="200" />
+			<highlight index="1" start="219" length="200" />
+			<highlight index="2" start="394" length="785" />
+			<highlight index="3" start="1669" length="200" />
+			<highlight index="4" start="1904" length="200" />
+			<highlight index="5" start="2234" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i England og i Frankrig" />
+				<subtitle lang="en" line="either in England, or in France" />
+			</subtitles>
+		</line>
+		<line words="on étudie les maths et la danse" start="23648" length="3171" >
+			<highlight index="0" start="272" length="200" />
+			<highlight index="1" start="461" length="366" />
+			<highlight index="2" start="826" length="286" />
+			<highlight index="3" start="1140" length="396" />
+			<highlight index="4" start="1656" length="200" />
+			<highlight index="5" start="1910" length="319" />
+			<highlight index="6" start="2326" length="660" />
+			<subtitles>
+				<subtitle lang="dk" line="Har vi matematik og dans" />
+				<subtitle lang="en" line="we study maths  and dance" />
+			</subtitles>
+		</line>
+		<line words="bienvenue chez nous, on y va!" start="26687" length="3567" >
+			<highlight index="0" start="488" length="784" />
+			<highlight index="1" start="1256" length="200" />
+			<highlight index="2" start="1448" length="322" />
+			<highlight index="3" start="1941" length="200" />
+			<highlight index="4" start="2139" length="200" />
+			<highlight index="5" start="2377" length="561" />
+			<subtitles>
+				<subtitle lang="dk" line="Velkommen til vores skole" />
+				<subtitle lang="en" line="welcome to our place, let's go!" />
+			</subtitles>
+		</line>
+		<line words="on fait un tour du collège" start="29990" length="3567" >
+			<highlight index="0" start="410" length="200" />
+			<highlight index="1" start="763" length="200" />
+			<highlight index="2" start="1100" length="200" />
+			<highlight index="3" start="1406" length="200" />
+			<highlight index="4" start="1900" length="200" />
+			<highlight index="5" start="2154" length="794" />
+			<subtitles>
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole." />
+				<subtitle lang="en" line="we’re doing a tour of the school" />
+			</subtitles>
+		</line>
+		<line words="bienvenue chez nous, on y va!" start="33029" length="3567" >
+			<highlight index="0" start="488" length="784" />
+			<highlight index="1" start="1256" length="200" />
+			<highlight index="2" start="1448" length="322" />
+			<highlight index="3" start="1941" length="200" />
+			<highlight index="4" start="2139" length="200" />
+			<highlight index="5" start="2377" length="561" />
+			<subtitles>
+				<subtitle lang="dk" line="Velkommen til vores skole" />
+				<subtitle lang="en" line="welcome to our place, let's go!" />
+			</subtitles>
+		</line>
+		<line words="on fait un tour du collège" start="36332" length="3567" >
+			<highlight index="0" start="410" length="200" />
+			<highlight index="1" start="763" length="200" />
+			<highlight index="2" start="1100" length="200" />
+			<highlight index="3" start="1406" length="200" />
+			<highlight index="4" start="1900" length="200" />
+			<highlight index="5" start="2154" length="794" />
+			<subtitles>
+				<subtitle lang="dk" line="Lad os tage af sted! Vi skal en tur i skole	" />
+				<subtitle lang="en" line="we’re doing a tour of the school" />
+			</subtitles>
+		</line>
+		<line words="voici le parking, voici l’entrée" start="39370" length="3568" >
+			<highlight index="0" start="244" length="376" />
+			<highlight index="1" start="602" length="200" />
+			<highlight index="2" start="804" length="478" />
+			<highlight index="3" start="1895" length="358" />
+			<highlight index="4" start="2316" length="805" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er parkeringspladsen, her er fordøren" />
+				<subtitle lang="en" line="here is the car park, here is the reception" />
+			</subtitles>
+		</line>
+		<line words="voici une salle de classe, et la cuisine" start="42805" length="3039" >
+			<highlight index="0" start="84" length="358" />
+			<highlight index="1" start="433" length="200" />
+			<highlight index="2" start="605" length="200" />
+			<highlight index="3" start="791" length="200" />
+			<highlight index="4" start="1070" length="557" />
+			<highlight index="5" start="1742" length="200" />
+			<highlight index="6" start="1919" length="248" />
+			<highlight index="7" start="2185" length="654" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er klasseværelset og kantinen" />
+				<subtitle lang="en" line="here is a classroom and the kitchen" />
+			</subtitles>
+		</line>
+		<line words="voici la grande salle qui est immense" start="45580" length="3831" >
+			<highlight index="0" start="401" length="401" />
+			<highlight index="1" start="780" length="200" />
+			<highlight index="2" start="953" length="335" />
+			<highlight index="3" start="1271" length="468" />
+			<highlight index="4" start="1912" length="200" />
+			<highlight index="5" start="2235" length="251" />
+			<highlight index="6" start="2676" length="775" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er legepladsen og sportspladsen" />
+				<subtitle lang="en" line="here is the hall, which is immense" />
+			</subtitles>
+		</line>
+		<line words="la bibliothèque est petite je pense" start="49015" length="3567" >
+			<highlight index="0" start="550" length="246" />
+			<highlight index="1" start="778" length="1007" />
+			<highlight index="2" start="1760" length="200" />
+			<highlight index="3" start="1946" length="390" />
+			<highlight index="4" start="2320" length="327" />
+			<highlight index="5" start="2637" length="696" />
+			<subtitles>
+				<subtitle lang="dk" line="her er biblioteket hvor du kan låne bøger" />
+				<subtitle lang="en" line="the library is small I think" />
+			</subtitles>
+		</line>
+		<line words="soit à l’école, soit au collège" start="52054" length="3435" >
+			<highlight index="0" start="730" length="200" />
+			<highlight index="1" start="913" length="200" />
+			<highlight index="2" start="1115" length="427" />
+			<highlight index="3" start="2278" length="200" />
+			<highlight index="4" start="2475" length="200" />
+			<highlight index="5" start="2672" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i de små og de store klasser" />
+				<subtitle lang="en" line="either at primary, or secondary" />
+			</subtitles>
+		</line>
+		<line words="il y a beaucoup à étudier" start="55224" length="3832" >
+			<highlight index="0" start="736" length="134" />
+			<highlight index="1" start="864" length="123" />
+			<highlight index="2" start="976" length="150" />
+			<highlight index="3" start="1160" length="518" />
+			<highlight index="4" start="1717" length="200" />
+			<highlight index="5" start="2091" length="993" />
+			<subtitles>
+				<subtitle lang="dk" line="Er der meget at lære" />
+				<subtitle lang="en" line="there is a lot to study" />
+			</subtitles>
+		</line>
+		<line words="soit en Angleterre, soit en France" start="58924" length="3435" >
+			<highlight index="0" start="44" length="200" />
+			<highlight index="1" start="219" length="200" />
+			<highlight index="2" start="394" length="785" />
+			<highlight index="3" start="1669" length="200" />
+			<highlight index="4" start="1904" length="200" />
+			<highlight index="5" start="2234" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i England og i Frankrig" />
+				<subtitle lang="en" line="either in England, or in France" />
+			</subtitles>
+		</line>
+		<line words="on étudie les maths et la danse" start="61962" length="3171" >
+			<highlight index="0" start="272" length="200" />
+			<highlight index="1" start="461" length="366" />
+			<highlight index="2" start="826" length="286" />
+			<highlight index="3" start="1140" length="396" />
+			<highlight index="4" start="1656" length="200" />
+			<highlight index="5" start="1910" length="319" />
+			<highlight index="6" start="2326" length="660" />
+			<subtitles>
+				<subtitle lang="dk" line="Hat vi matematik og dans" />
+				<subtitle lang="en" line="we study maths  and dance" />
+			</subtitles>
+		</line>
+		<line words="j’aime le dessin, c’est créatif" start="65001" length="3303" >
+			<highlight index="0" start="557" length="200" />
+			<highlight index="1" start="735" length="200" />
+			<highlight index="2" start="889" length="452" />
+			<highlight index="3" start="1648" length="277" />
+			<highlight index="4" start="1903" length="1096" />
+			<subtitles>
+				<subtitle lang="en" line="I like art, it’s creative" />
+			</subtitles>
+		</line>
+		<line words="aussi le sport qui est très physique" start="68040" length="3699" >
+			<highlight index="0" start="699" length="297" />
+			<highlight index="1" start="990" length="151" />
+			<highlight index="2" start="1141" length="517" />
+			<highlight index="3" start="1658" length="200" />
+			<highlight index="4" start="1846" length="200" />
+			<highlight index="5" start="2202" length="200" />
+			<highlight index="6" start="2390" length="969" />
+			<subtitles>
+				<subtitle lang="en" line="also sport which is very physical" />
+			</subtitles>
+		</line>
+		<line words="J’adore les maths, j’aime bien compter" start="71475" length="3567" >
+			<highlight index="0" start="332" length="259" />
+			<highlight index="1" start="565" length="172" />
+			<highlight index="2" start="732" length="415" />
+			<highlight index="3" start="1526" length="301" />
+			<highlight index="4" start="1806" length="286" />
+			<highlight index="5" start="2081" length="986" />
+			<subtitles>
+				<subtitle lang="en" line="I love maths, I really like to count" />
+			</subtitles>
+		</line>
+		<line words="en technologie j’adore fabriquer" start="74778" length="3303" >
+			<highlight index="0" start="394" length="149" />
+			<highlight index="1" start="514" length="692" />
+			<highlight index="2" start="1187" length="437" />
+			<highlight index="3" start="1596" length="1168" />
+			<subtitles>
+				<subtitle lang="en" line="in technology I love to make " />
+			</subtitles>
+		</line>
+		<line words="pendant les sciences mes idées explosent" start="78081" length="3170" >
+			<highlight index="0" start="50" length="325" />
+			<highlight index="1" start="359" length="286" />
+			<highlight index="2" start="627" length="452" />
+			<highlight index="3" start="1259" length="300" />
+			<highlight index="4" start="1541" length="692" />
+			<highlight index="5" start="2210" length="752" />
+			<subtitles>
+				<subtitle lang="dk" line="I natur/teknik eksploderer mine ideer" />
+				<subtitle lang="en" line="during science my ideas explode" />
+			</subtitles>
+		</line>
+		<line words="et en histoire on apprend les rois" start="80987" length="3303" >
+			<highlight index="0" start="423" length="200" />
+			<highlight index="1" start="596" length="272" />
+			<highlight index="2" start="850" length="573" />
+			<highlight index="3" start="1543" length="305" />
+			<highlight index="4" start="1831" length="649" />
+			<highlight index="5" start="2456" length="361" />
+			<highlight index="6" start="2797" length="472" />
+			<subtitles>
+				<subtitle lang="dk" line="i historie lærer vi om fortiden" />
+				<subtitle lang="en" line="and in history we learn about kings" />
+			</subtitles>
+		</line>
+		<line words="en informatique on voit des choses pratiques" start="84158" length="3699" >
+			<highlight index="0" start="349" length="200" />
+			<highlight index="1" start="527" length="975" />
+			<highlight index="2" start="1529" length="328" />
+			<highlight index="3" start="1905" length="200" />
+			<highlight index="4" start="2083" length="200" />
+			<highlight index="5" start="2282" length="506" />
+			<highlight index="6" start="2783" length="818" />
+			<subtitles>
+				<subtitle lang="dk" line="I IT lærer vi nyttige ting" />
+				<subtitle lang="en" line="in ICT we see useful things" />
+			</subtitles>
+		</line>
+		<line words="finalement en géo on explore la terre" start="87593" length="3303" >
+			<highlight index="0" start="298" length="432" />
+			<highlight index="1" start="711" length="264" />
+			<highlight index="2" start="951" length="515" />
+			<highlight index="3" start="1596" length="274" />
+			<highlight index="4" start="1841" length="490" />
+			<highlight index="5" start="2302" length="245" />
+			<highlight index="6" start="2543" length="557" />
+			<subtitles>
+				<subtitle lang="dk" line="i geografi udforsker vi jorden" />
+				<subtitle lang="en" line="finally in geography we explore the earth" />
+			</subtitles>
+		</line>
+		<line words="soit à l’école, soit au collège" start="90500" length="3435" >
+			<highlight index="0" start="730" length="200" />
+			<highlight index="1" start="913" length="200" />
+			<highlight index="2" start="1115" length="427" />
+			<highlight index="3" start="2278" length="200" />
+			<highlight index="4" start="2475" length="200" />
+			<highlight index="5" start="2672" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i de små og de store klasser" />
+				<subtitle lang="en" line="either at primary, or secondary" />
+			</subtitles>
+		</line>
+		<line words="il y a beaucoup à étudier" start="93538" length="3832" >
+			<highlight index="0" start="736" length="134" />
+			<highlight index="1" start="864" length="123" />
+			<highlight index="2" start="976" length="150" />
+			<highlight index="3" start="1160" length="518" />
+			<highlight index="4" start="1717" length="200" />
+			<highlight index="5" start="2091" length="993" />
+			<subtitles>
+				<subtitle lang="dk" line="Er der meget at lære" />
+				<subtitle lang="en" line="there is a lot to study" />
+			</subtitles>
+		</line>
+		<line words="soit en Angleterre, soit en France" start="97370" length="3435" >
+			<highlight index="0" start="44" length="200" />
+			<highlight index="1" start="219" length="200" />
+			<highlight index="2" start="394" length="785" />
+			<highlight index="3" start="1669" length="200" />
+			<highlight index="4" start="1904" length="200" />
+			<highlight index="5" start="2234" length="499" />
+			<subtitles>
+				<subtitle lang="dk" line="Både i England og i Frankrig" />
+				<subtitle lang="en" line="either in England, or in France" />
+			</subtitles>
+		</line>
+		<line words="on étudie les maths et la danse" start="100408" length="3171" >
+			<highlight index="0" start="272" length="200" />
+			<highlight index="1" start="461" length="366" />
+			<highlight index="2" start="826" length="286" />
+			<highlight index="3" start="1140" length="396" />
+			<highlight index="4" start="1656" length="200" />
+			<highlight index="5" start="1910" length="319" />
+			<highlight index="6" start="2326" length="660" />
+			<subtitles>
+				<subtitle lang="dk" line="Hat vi matematik og dans" />
+				<subtitle lang="en" line="we study maths  and dance" />
+			</subtitles>
+		</line>
+		<line words="Hier, hier, hier, hier" start="106486" length="3567" >
+			<highlight index="0" start="586" length="436" />
+			<highlight index="1" start="1235" length="421" />
+			<highlight index="2" start="1936" length="498" />
+			<highlight index="3" start="2606" length="638" />
+			<subtitles>
+				<subtitle lang="dk" line="I går, i går…" />
+				<subtitle lang="en" line="Yesterday, yesterday, yesterday, yesterday" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="109657" length="2246" >
+			<highlight index="0" start="637" length="200" />
+			<highlight index="1" start="830" length="200" />
+			<highlight index="2" start="1010" length="200" />
+			<highlight index="3" start="1193" length="222" />
+			<highlight index="4" start="1402" length="200" />
+			<highlight index="5" start="1601" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="111770" length="1322" >
+			<highlight index="0" start="175" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="112827" length="2246" >
+			<highlight index="0" start="637" length="200" />
+			<highlight index="1" start="830" length="200" />
+			<highlight index="2" start="1010" length="200" />
+			<highlight index="3" start="1193" length="222" />
+			<highlight index="4" start="1402" length="200" />
+			<highlight index="5" start="1601" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="114809" length="1322" >
+			<highlight index="0" start="175" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Hier, j’ai joué, j’ai joué dans la cour" start="116130" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="260" />
+			<highlight index="3" start="1863" length="200" />
+			<highlight index="4" start="2040" length="270" />
+			<highlight index="5" start="2362" length="200" />
+			<highlight index="6" start="2575" length="200" />
+			<highlight index="7" start="2772" length="420" />
+			<subtitles>
+				<subtitle lang="dk" line="I går legede jeg på legepladsen, jeg legede på legepladsen" />
+				<subtitle lang="en" line="Yesterday I played, I played in the playground" />
+			</subtitles>
+		</line>
+		<line words="hier, j’ai chanté, j’ai chanté, dans la choeur" start="119433" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="260" />
+			<highlight index="3" start="1863" length="200" />
+			<highlight index="4" start="2040" length="270" />
+			<highlight index="5" start="2362" length="200" />
+			<highlight index="6" start="2575" length="200" />
+			<highlight index="7" start="2772" length="420" />
+			<subtitles>
+				<subtitle lang="dk" line="I går sang jeg, jeg sang i kor" />
+				<subtitle lang="en" line="Yesterday I sang, I sang in the choir" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="122736" length="1982" >
+			<highlight index="0" start="307" length="200" />
+			<highlight index="1" start="500" length="200" />
+			<highlight index="2" start="689" length="200" />
+			<highlight index="3" start="872" length="222" />
+			<highlight index="4" start="1072" length="200" />
+			<highlight index="5" start="1255" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="124454" length="1322" >
+			<highlight index="0" start="175" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="125643" length="2246" >
+			<highlight index="0" start="637" length="200" />
+			<highlight index="1" start="830" length="200" />
+			<highlight index="2" start="1010" length="200" />
+			<highlight index="3" start="1193" length="222" />
+			<highlight index="4" start="1402" length="200" />
+			<highlight index="5" start="1601" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="127757" length="1322" >
+			<highlight index="0" start="76" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Hier, j’ai travaillé, travaillé dans la salle." start="128946" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="514" />
+			<highlight index="3" start="1801" length="338" />
+			<highlight index="4" start="2128" length="192" />
+			<highlight index="5" start="2331" length="316" />
+			<highlight index="6" start="2704" length="473" />
+			<subtitles>
+				<subtitle lang="dk" line="I går arbejdede jeg, jeg arbejdede i klasseværelset" />
+				<subtitle lang="en" line="Yesterday I worked, worked in the classroom" />
+			</subtitles>
+		</line>
+		<line words="Hier, j'ai parlé, parlé à Madame Valle" start="132249" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="514" />
+			<highlight index="3" start="1801" length="338" />
+			<highlight index="4" start="2128" length="192" />
+			<highlight index="5" start="2331" length="316" />
+			<highlight index="6" start="2704" length="473" />
+			<subtitles>
+				<subtitle lang="dk" line="I går talte jeg, jeg talte med fru Broom" />
+				<subtitle lang="en" line="Yesterday I spoke, spoke with Mrs Valle" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="135551" length="1982" >
+			<highlight index="0" start="307" length="200" />
+			<highlight index="1" start="500" length="200" />
+			<highlight index="2" start="689" length="200" />
+			<highlight index="3" start="872" length="222" />
+			<highlight index="4" start="1072" length="200" />
+			<highlight index="5" start="1255" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="137401" length="1322" >
+			<highlight index="0" start="175" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait hier?" start="138458" length="2246" >
+			<highlight index="0" start="637" length="200" />
+			<highlight index="1" start="830" length="200" />
+			<highlight index="2" start="1010" length="200" />
+			<highlight index="3" start="1193" length="222" />
+			<highlight index="4" start="1402" length="200" />
+			<highlight index="5" start="1601" length="422" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du i går?" />
+				<subtitle lang="en" line="What did you do yesterday?" />
+			</subtitles>
+		</line>
+		<line words="Qu’est-ce que tu as fait?" start="140572" length="1322" >
+			<highlight index="0" start="175" length="187" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="532" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="912" length="295" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad lavede du?" />
+				<subtitle lang="en" line="What did you do?" />
+			</subtitles>
+		</line>
+		<line words="Hier, j’ai aidé, j’ai aidé Monsieur Chic" start="141719" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="581" />
+			<highlight index="3" start="1863" length="224" />
+			<highlight index="4" start="2076" length="436" />
+			<highlight index="5" start="2492" length="332" />
+			<highlight index="6" start="2798" length="311" />
+			<subtitles>
+				<subtitle lang="en" line="Yesterday I helped, I helped Mr Chic" />
+			</subtitles>
+		</line>
+		<line words="Hier, j’ai dansé, j’ai dansé en musique" start="145064" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="581" />
+			<highlight index="3" start="1827" length="260" />
+			<highlight index="4" start="2076" length="369" />
+			<highlight index="5" start="2434" length="224" />
+			<highlight index="6" start="2637" length="472" />
+			<subtitles>
+				<subtitle lang="en" line="Yesterday I danced, I danced in music" />
+			</subtitles>
+		</line>
+		<line words="Hier, j’ai dansé, j’ai dansé en musique." start="148103" length="3567" >
+			<highlight index="0" start="462" length="200" />
+			<highlight index="1" start="1053" length="200" />
+			<highlight index="2" start="1230" length="581" />
+			<highlight index="3" start="1827" length="260" />
+			<highlight index="4" start="2076" length="369" />
+			<highlight index="5" start="2434" length="224" />
+			<highlight index="6" start="2637" length="472" />
+			<subtitles>
+				<subtitle lang="en" line="Yesterday I danced, I danced in music" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

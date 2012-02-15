@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="457247" >
+	<lines>
+		<line words="El pelo verde y el niño invisible." start="0" length="7450" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2515" length="389" />
+				<highlight index="1" start="2871" length="357" />
+				<highlight index="2" start="3206" length="453" />
+				<highlight index="3" start="3746" length="216" />
+				<highlight index="4" start="3929" length="152" />
+				<highlight index="5" start="4070" length="410" />
+				<highlight index="6" start="4437" length="1015" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The Green Hair and The Invisible Boy." />
+				<subtitle lang="en" line="The Green Hair and The Invisible Boy." />
+			</subtitles>
+		</line>
+		<line words="§¡Hola! Mi nombre es Johann. Estoy triste. Estoy triste porque soy invisible. Hay un foto mía en esa página. Pero no me puedes ver.§" start="7450" length="16471" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="883" length="573" />
+				<highlight index="1" start="2148" length="262" />
+				<highlight index="2" start="2363" length="501" />
+				<highlight index="3" start="2816" length="191" />
+				<highlight index="4" start="2959" length="597" />
+				<highlight index="5" start="4439" length="597" />
+				<highlight index="6" start="4940" length="693" />
+				<highlight index="7" start="6325" length="525" />
+				<highlight index="8" start="6802" length="645" />
+				<highlight index="9" start="7423" length="382" />
+				<highlight index="10" start="7709" length="263" />
+				<highlight index="11" start="7948" length="1074" />
+				<highlight index="12" start="9738" length="239" />
+				<highlight index="13" start="9881" length="239" />
+				<highlight index="14" start="10072" length="645" />
+				<highlight index="15" start="10621" length="502" />
+				<highlight index="16" start="11003" length="239" />
+				<highlight index="17" start="11170" length="430" />
+				<highlight index="18" start="11528" length="716" />
+				<highlight index="19" start="12698" length="382" />
+				<highlight index="20" start="13032" length="310" />
+				<highlight index="21" start="13271" length="215" />
+				<highlight index="22" start="13414" length="525" />
+				<highlight index="23" start="13891" length="726" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hello! My name’s Johann. I’m sad. I’m sad because I am invisible. There is a picture of me on that page. But you can’t see me.§" />
+				<subtitle lang="en" line="§Hello! My name’s Johann. I’m sad. I’m sad because I am invisible. There is a picture of me on that page. But you can’t see me.§" />
+			</subtitles>
+		</line>
+		<line words="§Quiero que todo mundo me pueda ver. ¿Todos te pueden ver a ti? Debe ser padrísimo.§" start="23921" length="10588" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="613" length="629" />
+				<highlight index="1" start="1181" length="153" />
+				<highlight index="2" start="1304" length="383" />
+				<highlight index="3" start="1626" length="430" />
+				<highlight index="4" start="2010" length="230" />
+				<highlight index="5" start="2163" length="445" />
+				<highlight index="6" start="2531" length="200" />
+				<highlight index="7" start="3774" length="568" />
+				<highlight index="8" start="4296" length="199" />
+				<highlight index="9" start="4434" length="429" />
+				<highlight index="10" start="4817" length="231" />
+				<highlight index="11" start="4986" length="184" />
+				<highlight index="12" start="5109" length="322" />
+				<highlight index="13" start="6367" length="399" />
+				<highlight index="14" start="6705" length="429" />
+				<highlight index="15" start="7042" length="1213" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§I want everybody to be able to see me. Can everyone see you? It must be great.§" />
+				<subtitle lang="en" line="§I want everybody to be able to see me. Can everyone see you? It must be great.§" />
+			</subtitles>
+		</line>
+		<line words="Quiero que todos vean mi pie cuando juego football… mi mano cuando escribo… mi cabeza cuando hablo… mi pierna cuando camino y mis hombros cuando los encojo. Pero no pueden." start="33724" length="18902" useLNutResource="true" image="4#1#3" >
+			<highlights>
+				<highlight index="0" start="1123" length="684" />
+				<highlight index="1" start="1698" length="301" />
+				<highlight index="2" start="1917" length="520" />
+				<highlight index="3" start="2300" length="384" />
+				<highlight index="4" start="2657" length="246" />
+				<highlight index="5" start="2821" length="493" />
+				<highlight index="6" start="3259" length="822" />
+				<highlight index="7" start="4054" length="410" />
+				<highlight index="8" start="4355" length="767" />
+				<highlight index="9" start="5396" length="301" />
+				<highlight index="10" start="5615" length="575" />
+				<highlight index="11" start="6026" length="685" />
+				<highlight index="12" start="6574" length="712" />
+				<highlight index="13" start="7423" length="465" />
+				<highlight index="14" start="7724" length="877" />
+				<highlight index="15" start="8464" length="794" />
+				<highlight index="16" start="9203" length="493" />
+				<highlight index="17" start="9998" length="301" />
+				<highlight index="18" start="10162" length="877" />
+				<highlight index="19" start="10956" length="713" />
+				<highlight index="20" start="11532" length="712" />
+				<highlight index="21" start="12408" length="301" />
+				<highlight index="22" start="12600" length="301" />
+				<highlight index="23" start="12846" length="713" />
+				<highlight index="24" start="13476" length="685" />
+				<highlight index="25" start="14106" length="357" />
+				<highlight index="26" start="14380" length="850" />
+				<highlight index="27" start="15832" length="274" />
+				<highlight index="28" start="16079" length="356" />
+				<highlight index="29" start="16325" length="1269" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="I want everybody to see my foot when I play football… my hand when I write… my head when I talk… my leg when I walk and my shoulders when I shrug. But they can’t." />
+				<subtitle lang="en" line="I want everybody to see my foot when I play football… my hand when I write… my head when I talk… my leg when I walk and my shoulders when I shrug. But they can’t." />
+			</subtitles>
+		</line>
+		<line words="§¿Por qué no vas en busca de la visibilidad, Johann? §dice la mamá de Johann.   §¿Qué es una búsqueda de la visibilidad?§" start="52155" length="12157" useLNutResource="true" image="1#4#3" >
+			<highlights>
+				<highlight index="0" start="1356" length="264" />
+				<highlight index="1" start="1585" length="300" />
+				<highlight index="2" start="1814" length="264" />
+				<highlight index="3" start="1990" length="335" />
+				<highlight index="4" start="2272" length="247" />
+				<highlight index="5" start="2448" length="511" />
+				<highlight index="6" start="2924" length="211" />
+				<highlight index="7" start="3065" length="317" />
+				<highlight index="8" start="3312" length="1074" />
+				<highlight index="9" start="4316" length="705" />
+				<highlight index="10" start="5655" length="370" />
+				<highlight index="11" start="5954" length="265" />
+				<highlight index="12" start="6148" length="352" />
+				<highlight index="13" start="6448" length="193" />
+				<highlight index="14" start="6588" length="758" />
+				<highlight index="17" start="8474" length="299" />
+				<highlight index="18" start="8685" length="176" />
+				<highlight index="19" start="8773" length="388" />
+				<highlight index="20" start="9073" length="669" />
+				<highlight index="21" start="9654" length="264" />
+				<highlight index="22" start="9848" length="194" />
+				<highlight index="23" start="9989" length="1451" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Why don’t you go on a quest for visibility, Johann?§ Says Johann’s mum. §What is a quest for visibility?§" />
+				<subtitle lang="en" line="§Why don’t you go on a quest for visibility, Johann?§ Says Johann’s mum. §What is a quest for visibility?§" />
+			</subtitles>
+		</line>
+		<line words="§Es cuando haces un viaje para buscar algo- una forma para que todos te puedan ver,§ dice la mamá de Johann. §¡Sí! Eso es lo que haré.§" start="63920" length="14510" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="252" length="526" />
+				<highlight index="1" start="756" length="358" />
+				<highlight index="2" start="1051" length="420" />
+				<highlight index="3" start="1408" length="232" />
+				<highlight index="4" start="1577" length="651" />
+				<highlight index="5" start="2418" length="357" />
+				<highlight index="6" start="2691" length="568" />
+				<highlight index="7" start="3196" length="841" />
+				<highlight index="8" start="4415" length="505" />
+				<highlight index="9" start="4815" length="610" />
+				<highlight index="10" start="5404" length="504" />
+				<highlight index="11" start="5824" length="231" />
+				<highlight index="12" start="5992" length="526" />
+				<highlight index="13" start="6455" length="147" />
+				<highlight index="14" start="6539" length="463" />
+				<highlight index="15" start="6960" length="315" />
+				<highlight index="16" start="7927" length="462" />
+				<highlight index="17" start="8305" length="211" />
+				<highlight index="18" start="8474" length="336" />
+				<highlight index="19" start="8768" length="231" />
+				<highlight index="20" start="8852" length="610" />
+				<highlight index="21" start="10639" length="484" />
+				<highlight index="22" start="11691" length="483" />
+				<highlight index="23" start="12111" length="253" />
+				<highlight index="24" start="12343" length="294" />
+				<highlight index="25" start="12553" length="210" />
+				<highlight index="26" start="12721" length="978" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§It’s when you go on a journey to look for something - a way so that everybody can see you,§ says Johann’s mum. §Yes! I will.§" />
+				<subtitle lang="en" line="§It’s when you go on a journey to look for something - a way so that everybody can see you,§ says Johann’s mum. §Yes! I will.§" />
+			</subtitles>
+		</line>
+		<line words="§Empezaré mi búsqueda en la escuela.§ Camino hacia la escuela, Johann canta una canción. §Rojo y amarillo y rosa y verde, morado y naranja y azul, puedo ver un arcoíris, pero no me veo a mí.§" start="78430" length="29803" useLNutResource="true" image="4#2#1" >
+			<highlights>
+				<highlight index="0" start="1338" length="951" />
+				<highlight index="1" start="2116" length="432" />
+				<highlight index="2" start="2418" length="907" />
+				<highlight index="3" start="3282" length="432" />
+				<highlight index="4" start="3584" length="259" />
+				<highlight index="5" start="3800" length="907" />
+				<highlight index="6" start="5787" length="648" />
+				<highlight index="7" start="6305" length="648" />
+				<highlight index="8" start="6867" length="259" />
+				<highlight index="9" start="6953" length="907" />
+				<highlight index="10" start="7730" length="907" />
+				<highlight index="11" start="8508" length="518" />
+				<highlight index="12" start="8940" length="345" />
+				<highlight index="13" start="9199" length="1209" />
+				<highlight index="14" start="12697" length="605" />
+				<highlight index="15" start="13172" length="303" />
+				<highlight index="16" start="13431" length="864" />
+				<highlight index="17" start="14252" length="432" />
+				<highlight index="18" start="14554" length="1037" />
+				<highlight index="19" start="15548" length="388" />
+				<highlight index="20" start="15807" length="734" />
+				<highlight index="21" start="16412" length="1036" />
+				<highlight index="22" start="17275" length="346" />
+				<highlight index="23" start="17534" length="1080" />
+				<highlight index="24" start="18528" length="259" />
+				<highlight index="25" start="18701" length="1123" />
+				<highlight index="26" start="20644" length="778" />
+				<highlight index="27" start="21249" length="432" />
+				<highlight index="28" start="21551" length="432" />
+				<highlight index="29" start="21810" length="2851" />
+				<highlight index="30" start="24618" length="691" />
+				<highlight index="31" start="25179" length="346" />
+				<highlight index="32" start="25481" length="389" />
+				<highlight index="33" start="25827" length="605" />
+				<highlight index="34" start="26302" length="475" />
+				<highlight index="35" start="26561" length="1123" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§I’ll start my quest at school.§ On the way to school, Johann sings a song. §Red and yellow and pink and green, purple and orange and blue, I can see a rainbow, but I can’t see me.§" />
+				<subtitle lang="en" line="§I’ll start my quest at school.§ On the way to school, Johann sings a song. §Red and yellow and pink and green, purple and orange and blue, I can see a rainbow, but I can’t see me.§" />
+			</subtitles>
+		</line>
+		<line words="Le gusta cantar mientras camina. Le ayuda para sentirse un poco más visible y menos triste." start="107449" length="11372" useLNutResource="true" image="2#3#5" >
+			<highlights>
+				<highlight index="0" start="1499" length="379" />
+				<highlight index="1" start="1812" length="528" />
+				<highlight index="2" start="2257" length="478" />
+				<highlight index="3" start="2851" length="609" />
+				<highlight index="4" start="3411" length="708" />
+				<highlight index="5" start="4828" length="165" />
+				<highlight index="6" start="4960" length="428" />
+				<highlight index="7" start="5339" length="412" />
+				<highlight index="8" start="5702" length="576" />
+				<highlight index="9" start="6212" length="231" />
+				<highlight index="10" start="6410" length="528" />
+				<highlight index="11" start="6905" length="428" />
+				<highlight index="12" start="7267" length="758" />
+				<highlight index="13" start="8190" length="247" />
+				<highlight index="14" start="8388" length="395" />
+				<highlight index="15" start="8750" length="1008" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He likes to sing as he walks. It helps to make him feel more visible and less sad." />
+				<subtitle lang="en" line="He likes to sing as he walks. It helps to make him feel more visible and less sad." />
+			</subtitles>
+		</line>
+		<line words="Johann se encuentra a sus compañeros de clase. Decide que antes de empezar su búsqueda, observará lo diferente que la gente es." start="118429" length="13725" useLNutResource="true" image="2#3#8" >
+			<highlights>
+				<highlight index="0" start="1153" length="835" />
+				<highlight index="1" start="2386" length="378" />
+				<highlight index="2" start="2705" length="855" />
+				<highlight index="3" start="3480" length="179" />
+				<highlight index="4" start="3540" length="160" />
+				<highlight index="5" start="3560" length="954" />
+				<highlight index="6" start="4415" length="119" />
+				<highlight index="7" start="4475" length="716" />
+				<highlight index="8" start="5628" length="577" />
+				<highlight index="9" start="6126" length="517" />
+				<highlight index="10" start="6563" length="398" />
+				<highlight index="11" start="6881" length="239" />
+				<highlight index="12" start="7060" length="537" />
+				<highlight index="13" start="7538" length="159" />
+				<highlight index="14" start="7657" length="875" />
+				<highlight index="15" start="8771" length="1114" />
+				<highlight index="16" start="9865" length="338" />
+				<highlight index="17" start="10163" length="816" />
+				<highlight index="18" start="10939" length="318" />
+				<highlight index="19" start="11118" length="239" />
+				<highlight index="20" start="11317" length="557" />
+				<highlight index="21" start="11814" length="598" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Johann meets his classmates at school. He decides that before he goes on his quest, he will find out about the different ways people look. " />
+				<subtitle lang="en" line="Johann meets his classmates at school. He decides that before he goes on his quest, he will find out about the different ways people look. " />
+			</subtitles>
+		</line>
+		<line words="§Hola Jennifer. ¿Cómo eres?§ §Hola Johann. Tengo ojos cafés y pelo castaño.§" start="132350" length="12549" useLNutResource="true" image="4#5#5" >
+			<highlights>
+				<highlight index="0" start="1836" length="528" />
+				<highlight index="1" start="2309" length="582" />
+				<highlight index="2" start="3709" length="382" />
+				<highlight index="3" start="4055" length="473" />
+				<highlight index="4" start="5746" length="400" />
+				<highlight index="5" start="6074" length="945" />
+				<highlight index="6" start="7328" length="528" />
+				<highlight index="7" start="7838" length="363" />
+				<highlight index="8" start="8128" length="728" />
+				<highlight index="9" start="9001" length="400" />
+				<highlight index="10" start="9383" length="509" />
+				<highlight index="11" start="9838" length="1019" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hi Jennifer. What do you look like?§ §Hi Johann. I have brown eyes and brown hair.§" />
+				<subtitle lang="en" line="§Hi Jennifer. What do you look like?§ §Hi Johann. I have brown eyes and brown hair.§" />
+			</subtitles>
+		</line>
+		<line words="§Hola Marvel. ¿Cómo eres?§ §Hola Johann. Tengo ojos verdes y pelo negro.§" start="144311" length="10588" useLNutResource="true" image="4#5#3" >
+			<highlights>
+				<highlight index="0" start="1089" length="430" />
+				<highlight index="1" start="1488" length="644" />
+				<highlight index="2" start="2685" length="337" />
+				<highlight index="3" start="2976" length="522" />
+				<highlight index="4" start="4449" length="430" />
+				<highlight index="5" start="4848" length="476" />
+				<highlight index="6" start="5984" length="598" />
+				<highlight index="7" start="6536" length="384" />
+				<highlight index="8" start="6889" length="675" />
+				<highlight index="9" start="7487" length="369" />
+				<highlight index="10" start="7794" length="414" />
+				<highlight index="11" start="8132" length="798" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hi Marvel. What do you look like?§ §Hi Johann. I have green eyes and black hair.§" />
+				<subtitle lang="en" line="§Hi Marvel. What do you look like?§ §Hi Johann. I have green eyes and black hair.§" />
+			</subtitles>
+		</line>
+		<line words="§Hola Tomás. ¿Cómo eres?§ §Hola Johann. Tengo ojos azules y soy pelirrojo.§" start="154507" length="10196" useLNutResource="true" image="4#5#1" >
+			<highlights>
+				<highlight index="0" start="1344" length="369" />
+				<highlight index="1" start="1684" length="783" />
+				<highlight index="2" start="2822" length="325" />
+				<highlight index="3" start="3117" length="717" />
+				<highlight index="4" start="4580" length="369" />
+				<highlight index="5" start="4861" length="694" />
+				<highlight index="6" start="5998" length="591" />
+				<highlight index="7" start="6545" length="488" />
+				<highlight index="8" start="7003" length="576" />
+				<highlight index="9" start="7698" length="207" />
+				<highlight index="10" start="7875" length="295" />
+				<highlight index="11" start="8126" length="998" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hi Tom. What do you look like?§ §Hi Johann. I have blue eyes and ginger hair.§" />
+				<subtitle lang="en" line="§Hi Tom. What do you look like?§ §Hi Johann. I have blue eyes and ginger hair.§" />
+			</subtitles>
+		</line>
+		<line words="Finalmente, le pregunta a Mo. §Hola Mo. ¿Cómo eres?§ §Hola Johann. Tengo ojos cafés y pelo güero.§ Todos mis amigos son diferentes,§ piensa Johann. §Yo también quiero ser diferente”" start="163134" length="24313" useLNutResource="true" image="4#5#4" >
+			<highlights>
+				<highlight index="0" start="3347" length="1409" />
+				<highlight index="1" start="4862" length="387" />
+				<highlight index="2" start="5073" length="740" />
+				<highlight index="3" start="5707" length="247" />
+				<highlight index="4" start="5848" length="458" />
+				<highlight index="5" start="7187" length="599" />
+				<highlight index="6" start="7751" length="458" />
+				<highlight index="7" start="8808" length="458" />
+				<highlight index="8" start="9160" length="670" />
+				<highlight index="9" start="10253" length="493" />
+				<highlight index="10" start="10640" length="846" />
+				<highlight index="11" start="11803" length="669" />
+				<highlight index="12" start="12367" length="598" />
+				<highlight index="13" start="12754" length="846" />
+				<highlight index="14" start="13494" length="529" />
+				<highlight index="15" start="13952" length="458" />
+				<highlight index="16" start="14375" length="599" />
+				<highlight index="17" start="15502" length="670" />
+				<highlight index="18" start="16031" length="317" />
+				<highlight index="19" start="16277" length="740" />
+				<highlight index="20" start="16876" length="388" />
+				<highlight index="21" start="17158" length="1198" />
+				<highlight index="22" start="18286" length="528" />
+				<highlight index="23" start="18744" length="810" />
+				<highlight index="24" start="20188" length="282" />
+				<highlight index="25" start="20400" length="669" />
+				<highlight index="26" start="20928" length="494" />
+				<highlight index="27" start="21386" length="388" />
+				<highlight index="28" start="21633" length="951" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Finally he asks Mo. §Hi Mo. What do you look like?§ §Hi Johann. I have brown eyes and blond hair.’ §My friends all look different,§ thinks Johann. §I want to look different too.§" />
+				<subtitle lang="en" line="Finally he asks Mo. §Hi Mo. What do you look like?§ §Hi Johann. I have brown eyes and blond hair.’ §My friends all look different,§ thinks Johann. §I want to look different too.§" />
+			</subtitles>
+		</line>
+		<line words="§¿Dónde podré empezar mi búsqueda?§ Johann le pregunta a su maestra. " start="186271" length="10588" useLNutResource="true" image="7#4#7" >
+			<highlights>
+				<highlight index="0" start="2408" length="630" />
+				<highlight index="1" start="2946" length="537" />
+				<highlight index="2" start="3437" length="598" />
+				<highlight index="3" start="3989" length="245" />
+				<highlight index="4" start="4204" length="936" />
+				<highlight index="5" start="5508" length="798" />
+				<highlight index="6" start="6429" length="276" />
+				<highlight index="7" start="6643" length="660" />
+				<highlight index="8" start="7226" length="139" />
+				<highlight index="9" start="7334" length="153" />
+				<highlight index="10" start="7411" length="721" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Where shall I start my quest?§ Johann asks his teacher." />
+				<subtitle lang="en" line="§Where shall I start my quest?§ Johann asks his teacher." />
+			</subtitles>
+		</line>
+		<line words="§Ve y busca una bestia antigua de las montañas,§ le dice la maestra. §La bestia antigua sabe mucho porque es muy vieja.§" start="195735" length="13333" useLNutResource="true" image="11#5#2" >
+			<highlights>
+				<highlight index="0" start="212" length="580" />
+				<highlight index="1" start="1101" length="193" />
+				<highlight index="2" start="1275" length="599" />
+				<highlight index="3" start="1835" length="348" />
+				<highlight index="4" start="2125" length="638" />
+				<highlight index="5" start="2685" length="676" />
+				<highlight index="6" start="3284" length="174" />
+				<highlight index="7" start="3400" length="271" />
+				<highlight index="8" start="3593" length="1121" />
+				<highlight index="9" start="4907" length="290" />
+				<highlight index="10" start="5100" length="503" />
+				<highlight index="11" start="5526" length="251" />
+				<highlight index="12" start="5680" length="638" />
+				<highlight index="13" start="6917" length="386" />
+				<highlight index="14" start="7207" length="618" />
+				<highlight index="15" start="7767" length="657" />
+				<highlight index="16" start="8404" length="638" />
+				<highlight index="17" start="8965" length="599" />
+				<highlight index="18" start="9506" length="676" />
+				<highlight index="19" start="10105" length="154" />
+				<highlight index="20" start="10259" length="625" />
+				<highlight index="21" start="10762" length="676" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Go and find the ancient beast of the mountains,§ his teacher says. §The ancient beast knows a lot because he is so old.§" />
+				<subtitle lang="en" line="§Go and find the ancient beast of the mountains,§ his teacher says. §The ancient beast knows a lot because he is so old.§" />
+			</subtitles>
+		</line>
+		<line words="Y así Johann comienza su búsqueda. Camina y camina, hacia las montañas. Mientras camina, canta su canción. §Rojo y amarillo y rosa y verde, morado y naranja y azul, puedo ver un arcoíris, pero no me veo a mí. Todavía”. Rojo y amarillo y rosa y verde, morado y naranja y azul, puedo ver un arcoíris, pero no me veo a mí. Todavía.§" start="208231" length="46274" useLNutResource="true" image="11#5#9" >
+			<highlights>
+				<highlight index="0" start="1542" length="536" />
+				<highlight index="1" start="1810" length="470" />
+				<highlight index="2" start="2078" length="1073" />
+				<highlight index="3" start="2883" length="939" />
+				<highlight index="4" start="3621" length="469" />
+				<highlight index="5" start="3956" length="1140" />
+				<highlight index="6" start="4962" length="1140" />
+				<highlight index="7" start="5834" length="335" />
+				<highlight index="8" start="6035" length="939" />
+				<highlight index="9" start="6705" length="805" />
+				<highlight index="10" start="7242" length="536" />
+				<highlight index="11" start="7577" length="939" />
+				<highlight index="12" start="8516" length="1274" />
+				<highlight index="13" start="9656" length="671" />
+				<highlight index="14" start="10260" length="1072" />
+				<highlight index="15" start="11198" length="336" />
+				<highlight index="16" start="11467" length="804" />
+				<highlight index="17" start="13009" length="1140" />
+				<highlight index="18" start="13948" length="335" />
+				<highlight index="19" start="13948" length="1140" />
+				<highlight index="20" start="14820" length="536" />
+				<highlight index="21" start="15222" length="670" />
+				<highlight index="22" start="15758" length="336" />
+				<highlight index="23" start="15892" length="1073" />
+				<highlight index="24" start="16831" length="872" />
+				<highlight index="25" start="17569" length="469" />
+				<highlight index="26" start="17770" length="1140" />
+				<highlight index="27" start="18709" length="335" />
+				<highlight index="28" start="18843" length="1207" />
+				<highlight index="29" start="20989" length="805" />
+				<highlight index="30" start="21592" length="470" />
+				<highlight index="31" start="21861" length="469" />
+				<highlight index="32" start="22062" length="2950" />
+				<highlight index="33" start="24878" length="939" />
+				<highlight index="34" start="25683" length="335" />
+				<highlight index="35" start="25817" length="470" />
+				<highlight index="36" start="26152" length="671" />
+				<highlight index="37" start="26622" length="402" />
+				<highlight index="38" start="26756" length="1608" />
+				<highlight index="39" start="28567" length="2816" />
+				<highlight index="40" start="33462" length="738" />
+				<highlight index="41" start="34065" length="470" />
+				<highlight index="42" start="34267" length="938" />
+				<highlight index="43" start="34870" length="537" />
+				<highlight index="44" start="35071" length="939" />
+				<highlight index="45" start="35742" length="469" />
+				<highlight index="46" start="36010" length="738" />
+				<highlight index="47" start="36412" length="1275" />
+				<highlight index="48" start="37485" length="336" />
+				<highlight index="49" start="37552" length="1006" />
+				<highlight index="50" start="38357" length="268" />
+				<highlight index="51" start="38424" length="738" />
+				<highlight index="52" start="38961" length="1273" />
+				<highlight index="53" start="39900" length="670" />
+				<highlight index="54" start="40369" length="402" />
+				<highlight index="55" start="40503" length="1140" />
+				<highlight index="56" start="41308" length="939" />
+				<highlight index="57" start="42112" length="470" />
+				<highlight index="58" start="42381" length="402" />
+				<highlight index="59" start="42649" length="402" />
+				<highlight index="60" start="42850" length="402" />
+				<highlight index="61" start="42984" length="671" />
+				<highlight index="62" start="43320" length="2414" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="And so Johann begins his quest. He walks and he walks, towards the mountains. As he walks he sings his song. §Red and yellow and pink and green, purple and orange and blue, I can see a rainbow, but I can’t see me. Yet.§" />
+				<subtitle lang="en" line="And so Johann begins his quest. He walks and he walks, towards the mountains. As he walks he sings his song. §Red and yellow and pink and green, purple and orange and blue, I can see a rainbow, but I can’t see me. Yet.§" />
+			</subtitles>
+		</line>
+		<line words="En el camino hacia las montañas. Johann llega a un río. En el río, él ve un gran pez azul. ¡El gran pez azul salta fuera del agua y comienza a hablar con Johann!" start="254505" length="16862" useLNutResource="true" image="11#1#4" >
+			<highlights>
+				<highlight index="0" start="0" length="444" />
+				<highlight index="1" start="415" length="318" />
+				<highlight index="2" start="659" length="636" />
+				<highlight index="3" start="1221" length="367" />
+				<highlight index="4" start="1441" length="318" />
+				<highlight index="5" start="1710" length="1124" />
+				<highlight index="6" start="2834" length="806" />
+				<highlight index="7" start="3518" length="709" />
+				<highlight index="8" start="4202" length="220" />
+				<highlight index="9" start="4374" length="200" />
+				<highlight index="10" start="4422" length="611" />
+				<highlight index="11" start="5253" length="391" />
+				<highlight index="12" start="5546" length="367" />
+				<highlight index="13" start="5864" length="489" />
+				<highlight index="14" start="6548" length="269" />
+				<highlight index="15" start="6744" length="220" />
+				<highlight index="16" start="6939" length="196" />
+				<highlight index="17" start="7086" length="440" />
+				<highlight index="18" start="7452" length="367" />
+				<highlight index="19" start="7721" length="587" />
+				<highlight index="20" start="8821" length="342" />
+				<highlight index="21" start="9090" length="391" />
+				<highlight index="22" start="9383" length="464" />
+				<highlight index="23" start="9798" length="587" />
+				<highlight index="24" start="10556" length="806" />
+				<highlight index="25" start="11240" length="440" />
+				<highlight index="26" start="11607" length="219" />
+				<highlight index="27" start="11729" length="586" />
+				<highlight index="28" start="12437" length="318" />
+				<highlight index="29" start="12682" length="928" />
+				<highlight index="30" start="13513" length="219" />
+				<highlight index="31" start="13635" length="195" />
+				<highlight index="32" start="13830" length="269" />
+				<highlight index="33" start="14075" length="782" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="On the way to the mountains, Johann comes to a river. In the river he sees a big blue fish. The big blue fish jumps out of the water and speaks to Johann!" />
+				<subtitle lang="en" line="On the way to the mountains, Johann comes to a river. In the river he sees a big blue fish. The big blue fish jumps out of the water and speaks to Johann!" />
+			</subtitles>
+		</line>
+		<line words="§Si quieres que la bestia antigua de las montañas te ayude, le tienes que llevar un regalo,” dice el pez, y después de esto desaparece." start="270975" length="14118" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1043" length="348" />
+				<highlight index="1" start="1391" length="675" />
+				<highlight index="2" start="1984" length="143" />
+				<highlight index="3" start="2066" length="184" />
+				<highlight index="4" start="2209" length="593" />
+				<highlight index="5" start="2741" length="552" />
+				<highlight index="6" start="3253" length="225" />
+				<highlight index="7" start="3396" length="204" />
+				<highlight index="8" start="3539" length="839" />
+				<highlight index="9" start="4337" length="225" />
+				<highlight index="10" start="4460" length="552" />
+				<highlight index="11" start="5360" length="348" />
+				<highlight index="12" start="5667" length="511" />
+				<highlight index="13" start="6117" length="307" />
+				<highlight index="14" start="6383" length="266" />
+				<highlight index="15" start="6608" length="143" />
+				<highlight index="16" start="6710" length="655" />
+				<highlight index="17" start="7938" length="388" />
+				<highlight index="18" start="8286" length="225" />
+				<highlight index="19" start="8449" length="450" />
+				<highlight index="20" start="9186" length="286" />
+				<highlight index="21" start="9390" length="614" />
+				<highlight index="22" start="9922" length="287" />
+				<highlight index="23" start="10106" length="594" />
+				<highlight index="24" start="10577" length="1448" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§If you want the ancient beast of the mountains to help you, you must take a present to him,§ says the fish, and disappears." />
+				<subtitle lang="en" line="§If you want the ancient beast of the mountains to help you, you must take a present to him,§ says the fish, and disappears." />
+			</subtitles>
+		</line>
+		<line words="§¿Qué le puedo dar a la bestia antigua de las montañas?§ piensa Johann. Se sienta y se come una almendra. Después, un pájaro naranja aparece y le canta, §Ofrécele un poco de tus almendras.§" start="284700" length="20784" useLNutResource="true" image="11#2#10" >
+			<highlights>
+				<highlight index="0" start="572" length="783" />
+				<highlight index="1" start="1204" length="241" />
+				<highlight index="2" start="1385" length="422" />
+				<highlight index="3" start="1686" length="392" />
+				<highlight index="4" start="1987" length="271" />
+				<highlight index="5" start="2168" length="211" />
+				<highlight index="6" start="2379" length="512" />
+				<highlight index="7" start="2770" length="603" />
+				<highlight index="8" start="3283" length="240" />
+				<highlight index="9" start="3403" length="301" />
+				<highlight index="10" start="3584" length="1144" />
+				<highlight index="11" start="4999" length="542" />
+				<highlight index="12" start="5451" length="693" />
+				<highlight index="13" start="7047" length="302" />
+				<highlight index="14" start="7349" length="692" />
+				<highlight index="15" start="7951" length="271" />
+				<highlight index="16" start="8041" length="271" />
+				<highlight index="17" start="8252" length="422" />
+				<highlight index="18" start="8644" length="361" />
+				<highlight index="19" start="8945" length="693" />
+				<highlight index="20" start="9909" length="903" />
+				<highlight index="21" start="10843" length="512" />
+				<highlight index="22" start="11264" length="603" />
+				<highlight index="23" start="11776" length="663" />
+				<highlight index="24" start="12318" length="904" />
+				<highlight index="25" start="13102" length="210" />
+				<highlight index="26" start="13282" length="181" />
+				<highlight index="27" start="13373" length="813" />
+				<highlight index="28" start="15481" length="1175" />
+				<highlight index="29" start="16595" length="241" />
+				<highlight index="30" start="16746" length="392" />
+				<highlight index="31" start="17047" length="211" />
+				<highlight index="32" start="17198" length="361" />
+				<highlight index="33" start="17439" length="1314" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§What can I give the ancient beast of the mountains?§ thinks Johann. He sits down and eats an almond. Then an orange bird appears and sings to him, §Offer him some of your almonds.§" />
+				<subtitle lang="en" line="§What can I give the ancient beast of the mountains?§ thinks Johann. He sits down and eats an almond. Then an orange bird appears and sings to him, §Offer him some of your almonds.§" />
+			</subtitles>
+		</line>
+		<line words="Johann ve sus almendras. §¡Es una súper idea! ¡Gracias pájaro!§ Johann continúa su viaje hacia las montañas." start="305484" length="14118" useLNutResource="true" image="6#5#5" >
+			<highlights>
+				<highlight index="0" start="675" length="818" />
+				<highlight index="1" start="1841" length="286" />
+				<highlight index="2" start="2066" length="307" />
+				<highlight index="3" start="2311" length="901" />
+				<highlight index="4" start="3825" length="410" />
+				<highlight index="5" start="4132" length="328" />
+				<highlight index="6" start="4419" length="675" />
+				<highlight index="7" start="5012" length="978" />
+				<highlight index="8" start="6240" length="920" />
+				<highlight index="9" start="7058" length="737" />
+				<highlight index="10" start="7999" length="778" />
+				<highlight index="11" start="8817" length="798" />
+				<highlight index="12" start="9574" length="246" />
+				<highlight index="13" start="9759" length="511" />
+				<highlight index="14" start="10577" length="430" />
+				<highlight index="15" start="10966" length="184" />
+				<highlight index="16" start="11088" length="1714" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Johann looks at his almonds. §A great idea! Thank you bird!§ Johann continues his journey into the mountains." />
+				<subtitle lang="en" line="Johann looks at his almonds. §A great idea! Thank you bird!§ Johann continues his journey into the mountains." />
+			</subtitles>
+		</line>
+		<line words="Johann camina por siete horas, en las montañas (hasta llegar a las cumbres) donde la bestia antigua de las montañas vive." start="319602" length="12549" useLNutResource="true" image="11#5#2" >
+			<highlights>
+				<highlight index="0" start="1036" length="746" />
+				<highlight index="1" start="1709" length="491" />
+				<highlight index="2" start="2145" length="237" />
+				<highlight index="3" start="2327" length="455" />
+				<highlight index="4" start="2727" length="582" />
+				<highlight index="5" start="3255" length="218" />
+				<highlight index="6" start="3400" length="382" />
+				<highlight index="7" start="3673" length="964" />
+				<highlight index="8" start="4655" length="473" />
+				<highlight index="9" start="5128" length="309" />
+				<highlight index="10" start="5401" length="145" />
+				<highlight index="11" start="5528" length="273" />
+				<highlight index="12" start="5746" length="746" />
+				<highlight index="13" start="6855" length="401" />
+				<highlight index="14" start="7201" length="236" />
+				<highlight index="15" start="7383" length="545" />
+				<highlight index="16" start="7892" length="491" />
+				<highlight index="17" start="8310" length="146" />
+				<highlight index="18" start="8419" length="200" />
+				<highlight index="19" start="8565" length="909" />
+				<highlight index="20" start="9401" length="655" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Johann walks for seven hours, into the mountains (and to the peaks) where the ancient beast of the mountains lives." />
+				<subtitle lang="en" line="Johann walks for seven hours, into the mountains (and to the peaks) where the ancient beast of the mountains lives." />
+			</subtitles>
+		</line>
+		<line words="Él puede ver a la bestia antigua de las montañas. ¡Tiene una cola verde…" start="330974" length="9412" useLNutResource="true" image="4#4#10" >
+			<highlights>
+				<highlight index="0" start="1595" length="355" />
+				<highlight index="1" start="1909" length="368" />
+				<highlight index="2" start="2236" length="205" />
+				<highlight index="3" start="2414" length="136" />
+				<highlight index="4" start="2523" length="232" />
+				<highlight index="5" start="2700" length="546" />
+				<highlight index="6" start="3205" length="464" />
+				<highlight index="7" start="3628" length="163" />
+				<highlight index="8" start="3737" length="245" />
+				<highlight index="9" start="3941" length="805" />
+				<highlight index="10" start="5483" length="395" />
+				<highlight index="11" start="5851" length="355" />
+				<highlight index="12" start="6124" length="450" />
+				<highlight index="13" start="6547" length="963" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He sees the ancient beast of the mountains! He has a green tail…" />
+				<subtitle lang="en" line="He sees the ancient beast of the mountains! He has a green tail…" />
+			</subtitles>
+		</line>
+		<line words="tiene unos dientes muy feroces…" start="339601" length="5883" useLNutResource="true" image="4#4#5" >
+			<highlights>
+				<highlight index="0" start="1423" length="606" />
+				<highlight index="1" start="2020" length="367" />
+				<highlight index="2" start="2353" length="503" />
+				<highlight index="3" start="2813" length="503" />
+				<highlight index="4" start="3256" length="1143" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="he has ferocious teeth…" />
+				<subtitle lang="en" line="he has ferocious teeth…" />
+			</subtitles>
+		</line>
+		<line words="tiene cuernos amarillos y naranjas..." start="345484" length="6666" useLNutResource="true" image="4#4#2" >
+			<highlights>
+				<highlight index="0" start="1516" length="493" />
+				<highlight index="1" start="1989" length="541" />
+				<highlight index="2" start="2482" length="1179" />
+				<highlight index="3" start="3622" length="290" />
+				<highlight index="4" start="3864" length="1117" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="he has orange and yellow horns…" />
+				<subtitle lang="en" line="he has orange and yellow horns…" />
+			</subtitles>
+		</line>
+		<line words="tiene unas garras terribles…" start="351366" length="6667" useLNutResource="true" image="4#4#6" >
+			<highlights>
+				<highlight index="0" start="1999" length="387" />
+				<highlight index="1" start="2357" length="473" />
+				<highlight index="2" start="2782" length="628" />
+				<highlight index="3" start="3381" length="1273" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="he has terrible claws…" />
+				<subtitle lang="en" line="he has terrible claws…" />
+			</subtitles>
+		</line>
+		<line words="y tiene el pelo largo y café, el cual cubre su cara!" start="357248" length="8235" useLNutResource="true" image="4#4#7" >
+			<highlights>
+				<highlight index="0" start="1515" length="200" />
+				<highlight index="1" start="1706" length="573" />
+				<highlight index="2" start="2255" length="501" />
+				<highlight index="3" start="2685" length="489" />
+				<highlight index="4" start="3126" length="537" />
+				<highlight index="5" start="3604" length="179" />
+				<highlight index="6" start="3735" length="441" />
+				<highlight index="7" start="4797" length="167" />
+				<highlight index="8" start="5143" length="382" />
+				<highlight index="9" start="5489" length="692" />
+				<highlight index="10" start="6122" length="262" />
+				<highlight index="11" start="6372" length="442" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="and he has long brown hair that covers his face!" />
+				<subtitle lang="en" line="and he has long brown hair that covers his face!" />
+			</subtitles>
+		</line>
+		<line words="§¡Hola!§ dice Johann. §Tengo un poco de almendras para ti.§ Él ofrece las almendras a la bestia antigua de las montañas. §Quiero ser visible. ¿Me podrías ayudar?§" start="365091" length="17255" useLNutResource="true" image="6#5#5" >
+			<highlights>
+				<highlight index="0" start="1850" length="800" />
+				<highlight index="1" start="2850" length="500" />
+				<highlight index="2" start="3250" length="750" />
+				<highlight index="3" start="4651" length="625" />
+				<highlight index="4" start="5151" length="300" />
+				<highlight index="5" start="5376" length="400" />
+				<highlight index="6" start="5676" length="175" />
+				<highlight index="7" start="5751" length="600" />
+				<highlight index="8" start="6276" length="325" />
+				<highlight index="9" start="6501" length="525" />
+				<highlight index="10" start="7601" length="575" />
+				<highlight index="11" start="8151" length="475" />
+				<highlight index="12" start="8576" length="250" />
+				<highlight index="13" start="8751" length="751" />
+				<highlight index="14" start="9377" length="175" />
+				<highlight index="15" start="9477" length="250" />
+				<highlight index="16" start="9602" length="500" />
+				<highlight index="17" start="10027" length="575" />
+				<highlight index="18" start="10527" length="250" />
+				<highlight index="19" start="10677" length="250" />
+				<highlight index="20" start="10827" length="1125" />
+				<highlight index="21" start="12677" length="450" />
+				<highlight index="22" start="13027" length="275" />
+				<highlight index="23" start="13177" length="876" />
+				<highlight index="24" start="14303" length="250" />
+				<highlight index="25" start="14428" length="625" />
+				<highlight index="26" start="14978" length="675" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Hello!§ says Johann. §I have some almonds for you.§ He offers the almonds to the ancient beast of the mountains. §I want to be visible. Can you help me?§" />
+				<subtitle lang="en" line="§Hello!§ says Johann. §I have some almonds for you.§ He offers the almonds to the ancient beast of the mountains. §I want to be visible. Can you help me?§" />
+			</subtitles>
+		</line>
+		<line words="§¡No me gustan las almendras!§ ruge la bestia antigua. §¡Pero es la intención la que cuenta! Te puedo ayudar. ¿Quieres ser visible? Te daré visibilidad. A ninguno te le escaparás de la vista.§" start="382346" length="21568" useLNutResource="true" image="6#5#5" >
+			<highlights>
+				<highlight index="0" start="1281" length="1063" />
+				<highlight index="1" start="2219" length="312" />
+				<highlight index="2" start="2344" length="625" />
+				<highlight index="3" start="2875" length="313" />
+				<highlight index="4" start="3031" length="1063" />
+				<highlight index="5" start="4407" length="562" />
+				<highlight index="6" start="4907" length="312" />
+				<highlight index="7" start="5125" length="563" />
+				<highlight index="8" start="5563" length="594" />
+				<highlight index="9" start="7032" length="469" />
+				<highlight index="10" start="7438" length="188" />
+				<highlight index="11" start="7563" length="219" />
+				<highlight index="12" start="7720" length="781" />
+				<highlight index="13" start="8407" length="313" />
+				<highlight index="14" start="8595" length="187" />
+				<highlight index="15" start="8689" length="593" />
+				<highlight index="16" start="9720" length="500" />
+				<highlight index="17" start="10095" length="594" />
+				<highlight index="18" start="10564" length="563" />
+				<highlight index="19" start="12033" length="750" />
+				<highlight index="20" start="12658" length="281" />
+				<highlight index="21" start="12939" length="688" />
+				<highlight index="22" start="14190" length="250" />
+				<highlight index="23" start="14377" length="469" />
+				<highlight index="24" start="14721" length="1219" />
+				<highlight index="25" start="16471" length="607" />
+				<highlight index="26" start="16940" length="813" />
+				<highlight index="27" start="17596" length="344" />
+				<highlight index="28" start="17847" length="250" />
+				<highlight index="29" start="18003" length="937" />
+				<highlight index="30" start="18815" length="219" />
+				<highlight index="31" start="18972" length="187" />
+				<highlight index="32" start="19065" length="688" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§I hate almonds!§ roars the ancient beast. §But it is the thought that counts! I can help you. You want to be visible? I will give you visibility. No-one will be able to miss you!§" />
+				<subtitle lang="en" line="§I hate almonds!§ roars the ancient beast. §But it is the thought that counts! I can help you. You want to be visible? I will give you visibility. No-one will be able to miss you!§" />
+			</subtitles>
+		</line>
+		<line words="§Ve a casa. Cuando llegues ahí, mírate en el espejo.§" start="403130" length="8627" useLNutResource="true" image="11#5#2" >
+			<highlights>
+				<highlight index="0" start="1962" length="350" />
+				<highlight index="1" start="2237" length="200" />
+				<highlight index="2" start="2350" length="550" />
+				<highlight index="3" start="2837" length="1026" />
+				<highlight index="4" start="3838" length="450" />
+				<highlight index="5" start="4225" length="438" />
+				<highlight index="6" start="5225" length="625" />
+				<highlight index="7" start="5800" length="200" />
+				<highlight index="8" start="5963" length="150" />
+				<highlight index="9" start="6050" length="913" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Go home. When you get there, look in the mirror.§" />
+				<subtitle lang="en" line="§Go home. When you get there, look in the mirror.§" />
+			</subtitles>
+		</line>
+		<line words="Johann se despide de la bestia antigua de las montañas. §¡Gracias!§ le dice." start="410973" length="10588" useLNutResource="true" image="11#5#2" >
+			<highlights>
+				<highlight index="0" start="1933" length="706" />
+				<highlight index="1" start="2930" length="246" />
+				<highlight index="2" start="3130" length="690" />
+				<highlight index="3" start="3743" length="200" />
+				<highlight index="4" start="3912" length="200" />
+				<highlight index="5" start="4035" length="506" />
+				<highlight index="6" start="4480" length="752" />
+				<highlight index="7" start="5140" length="122" />
+				<highlight index="8" start="5186" length="230" />
+				<highlight index="9" start="5370" length="890" />
+				<highlight index="10" start="6613" length="798" />
+				<highlight index="11" start="7625" length="185" />
+				<highlight index="12" start="7810" length="1043" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Johann leaves the ancient beast of the mountains. §Thank you!§ he says." />
+				<subtitle lang="en" line="Johann leaves the ancient beast of the mountains. §Thank you!§ he says." />
+			</subtitles>
+		</line>
+		<line words="Baja las montañas." start="420777" length="5097" useLNutResource="true" image="11#5#2" >
+			<highlights>
+				<highlight index="0" start="1521" length="569" />
+				<highlight index="1" start="2060" length="178" />
+				<highlight index="2" start="2238" length="931" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He walks back down the mountains." />
+				<subtitle lang="en" line="He walks back down the mountains." />
+			</subtitles>
+		</line>
+		<line words="Camina y pasa el río. §¡Gracias!§ le dice al pájaro naranja. §¡Gracias!§ le dice al gran pez azul." start="425090" length="11765" useLNutResource="true" image="11#5#9" >
+			<highlights>
+				<highlight index="0" start="1721" length="700" />
+				<highlight index="1" start="2369" length="222" />
+				<highlight index="2" start="2489" length="511" />
+				<highlight index="3" start="2932" length="171" />
+				<highlight index="4" start="3017" length="678" />
+				<highlight index="5" start="4074" length="836" />
+				<highlight index="6" start="4978" length="256" />
+				<highlight index="7" start="5183" length="375" />
+				<highlight index="8" start="5489" length="188" />
+				<highlight index="9" start="5660" length="477" />
+				<highlight index="10" start="6035" length="750" />
+				<highlight index="11" start="7194" length="785" />
+				<highlight index="12" start="8030" length="204" />
+				<highlight index="13" start="8200" length="392" />
+				<highlight index="14" start="8507" length="256" />
+				<highlight index="15" start="8712" length="443" />
+				<highlight index="16" start="9053" length="307" />
+				<highlight index="17" start="9257" length="716" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="He walks past the river. §Thank you!§ he says to the orange bird. §Thank you!§ he says to the big blue fish." />
+				<subtitle lang="en" line="He walks past the river. §Thank you!§ he says to the orange bird. §Thank you!§ he says to the big blue fish." />
+			</subtitles>
+		</line>
+		<line words="Finalmente, llega a su casa. Se dirige hacia el espejo. Se ve en el espejo." start="436463" length="9803" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1349" length="1165" />
+				<highlight index="1" start="2471" length="939" />
+				<highlight index="2" start="3295" length="199" />
+				<highlight index="3" start="3395" length="241" />
+				<highlight index="4" start="3594" length="568" />
+				<highlight index="5" start="4517" length="199" />
+				<highlight index="6" start="4688" length="639" />
+				<highlight index="7" start="5284" length="370" />
+				<highlight index="8" start="5611" length="185" />
+				<highlight index="9" start="5725" length="625" />
+				<highlight index="10" start="6705" length="341" />
+				<highlight index="11" start="7003" length="441" />
+				<highlight index="12" start="7373" length="184" />
+				<highlight index="13" start="7500" length="199" />
+				<highlight index="14" start="7657" length="924" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Finally he arrives home. He goes to the mirror. He looks in the mirror." />
+				<subtitle lang="en" line="Finally he arrives home. He goes to the mirror. He looks in the mirror." />
+			</subtitles>
+		</line>
+		<line words="§¡Tengo el pelo verde! ¡Y tengo cuernos! ¡Y tengo lentes!§  Y era cierto. FIN" start="445874" length="11765" useLNutResource="true" image="4#5#7" >
+			<highlights>
+				<highlight index="0" start="2705" length="556" />
+				<highlight index="1" start="3215" length="123" />
+				<highlight index="2" start="3261" length="402" />
+				<highlight index="3" start="3632" length="680" />
+				<highlight index="4" start="4683" length="279" />
+				<highlight index="5" start="4915" length="665" />
+				<highlight index="6" start="5564" length="727" />
+				<highlight index="7" start="6600" length="294" />
+				<highlight index="8" start="6878" length="603" />
+				<highlight index="9" start="7419" length="897" />
+				<highlight index="11" start="8888" length="278" />
+				<highlight index="12" start="9120" length="402" />
+				<highlight index="13" start="9475" length="556" />
+				<highlight index="14" start="10468" length="1227" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§I have green hair! And I have horns! And I have glasses!§ And so he did. The end." />
+				<subtitle lang="en" line="§I have green hair! And I have horns! And I have glasses!§ And so he did. The end." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

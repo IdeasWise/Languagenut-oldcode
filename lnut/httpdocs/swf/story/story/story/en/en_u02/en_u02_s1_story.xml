@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="154697" >
+	<lines>
+		<line words="Amy" start="0" length="2810" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Anne" />
+			</subtitles>
+		</line>
+		<line words="Here is a girl. Her name is Amy." start="2810" length="4951" useLNutResource="true" image="2#3#9" >
+			<highlights>
+				<highlight index="0" start="554" length="131" />
+				<highlight index="1" start="670" length="116" />
+				<highlight index="2" start="833" length="100" />
+				<highlight index="3" start="948" length="441" />
+				<highlight index="4" start="1736" length="200" />
+				<highlight index="5" start="1991" length="394" />
+				<highlight index="6" start="2517" length="100" />
+				<highlight index="7" start="2710" length="510" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Hier is een meisje. Ze heet Anne." />
+				<subtitle lang="dk" line="Her er en pige. Hun hedder Amy." />
+				<subtitle lang="so" line="Tani waa gabar.Magaceeda waa Amy." />
+				<subtitle lang="fr" line="Voici une fille. Elle s’appelle Aimée." />
+				<subtitle lang="cn" line="这是一个女孩. 她的名字是艾米" />
+				<subtitle lang="cl" line="Aqui hay una chicaSe llama Amy ¡" />
+				<subtitle lang="ja" line="ある女の子がいます。彼女の名前は、エイミーです。" />
+				<subtitle lang="sp" line="Aqui hay una chica Se llama Amy ¡" />
+				<subtitle lang="mx" line="Aqui hay una chicaSe llama Amy ¡" />
+				<subtitle lang="pt" line="Aqui está uma menina.O nome dela é Amy." />
+				<subtitle lang="cc" line="这是一个女孩.她的名字是艾米" />
+			</subtitles>
+		</line>
+		<line words="She loves to play. Normally she plays with her friends." start="7493" length="7762" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="1960" length="167" />
+				<highlight index="1" start="2149" length="200" />
+				<highlight index="2" start="2445" length="124" />
+				<highlight index="3" start="2585" length="328" />
+				<highlight index="4" start="3630" length="538" />
+				<highlight index="5" start="4228" length="140" />
+				<highlight index="6" start="4400" length="275" />
+				<highlight index="7" start="4680" length="100" />
+				<highlight index="8" start="4804" length="100" />
+				<highlight index="9" start="4933" length="652" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze houdt van spelen. Normaal speelt ze met haar vrienden." />
+				<subtitle lang="dk" line="Hun elsker at lege. Som regel leger hun med sine venner." />
+				<subtitle lang="so" line="Waxay jeceshahay cayaaraha.Badanaa waxay la cayaartaa asxaabteeda." />
+				<subtitle lang="fr" line="Elle aime jouer. D’habitude, elle joue avec ses amis." />
+				<subtitle lang="cn" line="她喜欢玩. 她通常与她的朋友玩." />
+				<subtitle lang="cl" line="Le encanta jugar Normalmente juega con sus amigos" />
+				<subtitle lang="ja" line="彼女は、遊ぶのが大好きです。普段、エイミーは友だちと遊びます。" />
+				<subtitle lang="sp" line="Le encanta jugar Normalmente juega con sus amigos" />
+				<subtitle lang="mx" line="Le encanta jugar Normalmente juega con sus amigos" />
+				<subtitle lang="pt" line="Ela adora brincar.Normalmente, ela brinca com seus amigos." />
+				<subtitle lang="cc" line="她喜欢玩.她通常与她的朋友玩." />
+			</subtitles>
+		</line>
+		<line words="She plays tag." start="15323" length="3881" useLNutResource="true" image="2#6#1" >
+			<highlights>
+				<highlight index="0" start="1658" length="171" />
+				<highlight index="1" start="1840" length="266" />
+				<highlight index="2" start="2195" length="413" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze speelt tikkertje." />
+				<subtitle lang="dk" line="Hun leger fangeleg." />
+				<subtitle lang="so" line="Waxay cayaartaa dhuumashow." />
+				<subtitle lang="fr" line="Elle joue au chat perché." />
+				<subtitle lang="cn" line="她玩标签游戏" />
+				<subtitle lang="cl" line=" juega al “corre que te pillo”" />
+				<subtitle lang="ja" line="彼女は、鬼ごっこをします。" />
+				<subtitle lang="sp" line=" juega al “corre que te pillo”" />
+				<subtitle lang="mx" line=" juega al “corre que te pillo”" />
+				<subtitle lang="pt" line="Ela brinca de pega." />
+				<subtitle lang="cc" line="她玩标签游戏" />
+			</subtitles>
+		</line>
+		<line words="She plays hopscotch." start="19002" length="6691" useLNutResource="true" image="2#6#4" >
+			<highlights>
+				<highlight index="0" start="2490" length="200" />
+				<highlight index="1" start="2699" length="200" />
+				<highlight index="2" start="2939" length="762" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze hinkelt." />
+				<subtitle lang="dk" line="Hun hopper i mand." />
+				<subtitle lang="so" line="Waxay cayaartaa lag bodayo xariiqin (hayo)" />
+				<subtitle lang="fr" line="Elle joue à la marelle." />
+				<subtitle lang="cn" line="她玩跳房子." />
+				<subtitle lang="cl" line="juega al tejo" />
+				<subtitle lang="ja" line="彼女は、石けり遊びをします。" />
+				<subtitle lang="sp" line="juega al tejo" />
+				<subtitle lang="mx" line="juega al tejo" />
+				<subtitle lang="pt" line="Ela brinca de amarelinha." />
+				<subtitle lang="cc" line="她玩跳房子." />
+			</subtitles>
+		</line>
+		<line words="She plays on the climbing frame." start="25292" length="4683" useLNutResource="true" image="2#6#10" >
+			<highlights>
+				<highlight index="0" start="1138" length="118" />
+				<highlight index="1" start="1276" length="270" />
+				<highlight index="2" start="1562" length="100" />
+				<highlight index="3" start="1689" length="105" />
+				<highlight index="4" start="1821" length="466" />
+				<highlight index="5" start="2323" length="400" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze klimt op het klimrek." />
+				<subtitle lang="dk" line="Hun leger i klatrestativet." />
+				<subtitle lang="so" line="Waxay cayaartaa fuulid alwaaxa" />
+				<subtitle lang="fr" line="Elle joue sur la cage d’écureuil." />
+				<subtitle lang="cn" line="她爬攀爬架." />
+				<subtitle lang="cl" line="Juega con la red de trepar y escalar" />
+				<subtitle lang="ja" line="彼女は、ジャングルジムで遊びます。" />
+				<subtitle lang="sp" line="Juega con la red de trepar y escalar" />
+				<subtitle lang="mx" line="Juega con la red de trepar y escalar" />
+				<subtitle lang="pt" line="Ela brinca no quadrinho de escalada." />
+				<subtitle lang="cc" line="她爬攀爬架." />
+			</subtitles>
+		</line>
+		<line words="She plays tennis." start="29708" length="4817" useLNutResource="true" image="2#6#9" >
+			<highlights>
+				<highlight index="0" start="1958" length="162" />
+				<highlight index="1" start="2131" length="293" />
+				<highlight index="2" start="2482" length="394" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze tennist." />
+				<subtitle lang="dk" line="Hun spiller tennis." />
+				<subtitle lang="so" line="Waxay cayaareysaa Teniska" />
+				<subtitle lang="fr" line="Elle joue au tennis." />
+				<subtitle lang="cn" line="她打网球." />
+				<subtitle lang="cl" line="Juega al tenis" />
+				<subtitle lang="ja" line="彼女は、テニスをします。" />
+				<subtitle lang="sp" line="Juega al tenis" />
+				<subtitle lang="mx" line="Juega al tenis" />
+				<subtitle lang="pt" line="Ela joga tênis." />
+				<subtitle lang="cc" line="她打网球." />
+			</subtitles>
+		</line>
+		<line words="And she loves to skip." start="34525" length="5085" useLNutResource="true" image="2#6#8" >
+			<highlights>
+				<highlight index="0" start="1936" length="100" />
+				<highlight index="1" start="2038" length="143" />
+				<highlight index="2" start="2185" length="368" />
+				<highlight index="3" start="2579" length="100" />
+				<highlight index="4" start="2711" length="639" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="En ze huppelt graag." />
+				<subtitle lang="dk" line="Og hun elsker at sjippe." />
+				<subtitle lang="so" line="Waxay jeceshahay xerag ku boodka" />
+				<subtitle lang="fr" line="Et elle adore faire de la corde à sauter." />
+				<subtitle lang="cn" line="而且她喜欢跳." />
+				<subtitle lang="cl" line="Le encanta saltar a la comba" />
+				<subtitle lang="ja" line="そして、彼女は縄跳びが大好きです。" />
+				<subtitle lang="sp" line="Le encanta saltar a la comba" />
+				<subtitle lang="mx" line="Le encanta saltar a la comba" />
+				<subtitle lang="pt" line="E ela adora fazer cabriolas." />
+				<subtitle lang="cc" line="而且她喜欢跳." />
+			</subtitles>
+		</line>
+		<line words="It is Autumn, and Aimee finds a Horse Chestnut tree." start="39277" length="7092" useLNutResource="true" image="2#4#5" >
+			<highlights>
+				<highlight index="0" start="2106" length="124" />
+				<highlight index="1" start="2242" length="165" />
+				<highlight index="2" start="2418" length="595" />
+				<highlight index="3" start="3284" length="200" />
+				<highlight index="4" start="3484" length="348" />
+				<highlight index="5" start="3855" length="312" />
+				<highlight index="6" start="4191" length="106" />
+				<highlight index="7" start="4362" length="447" />
+				<highlight index="8" start="4856" length="548" />
+				<highlight index="9" start="5427" length="407" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Het is herfst, en Anne vindt een kastanjeboom." />
+				<subtitle lang="dk" line="Det er efterår, og Amy finder et hestekastanietræ." />
+				<subtitle lang="so" line="Waa xil deyr ah, Aimee waxay heshay faras  geed ah oo lagu cayaaro." />
+				<subtitle lang="fr" line="C’est l’automne et Aimée trouve un marronnier." />
+				<subtitle lang="cn" line="现在是秋天, 艾米发现一棵七叶树." />
+				<subtitle lang="cl" line="Es otono, y Amy se encuentra a un castano de indias ñ" />
+				<subtitle lang="ja" line="秋です。エイミーはトチノキを見つけます。" />
+				<subtitle lang="sp" line="Es otono, y Amy se encuentra a un castano de indias ñ" />
+				<subtitle lang="mx" line="Es otono, y Amy se encuentra a un castano de indias ñ" />
+				<subtitle lang="pt" line="É outono, e Amy encontra um castanheiro." />
+				<subtitle lang="cc" line="现在是秋天, 艾米发现一棵七叶树." />
+			</subtitles>
+		</line>
+		<line words="There are lots and lots of conkers. She picks one up. Then she hears a strange voice!" start="46302" length="9367" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="1949" length="200" />
+				<highlight index="1" start="2166" length="100" />
+				<highlight index="2" start="2278" length="385" />
+				<highlight index="3" start="2703" length="128" />
+				<highlight index="4" start="2839" length="329" />
+				<highlight index="5" start="3192" length="100" />
+				<highlight index="6" start="3304" length="465" />
+				<highlight index="7" start="4250" length="153" />
+				<highlight index="8" start="4427" length="200" />
+				<highlight index="9" start="4635" length="136" />
+				<highlight index="10" start="4787" length="361" />
+				<highlight index="11" start="5822" length="200" />
+				<highlight index="12" start="6062" length="136" />
+				<highlight index="13" start="6230" length="200" />
+				<highlight index="14" start="6439" length="120" />
+				<highlight index="15" start="6639" length="521" />
+				<highlight index="16" start="7193" length="481" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Er zijn een heleboel kastanjes. Ze raapt er eentje op. Dan hoort ze een rare stem!" />
+				<subtitle lang="dk" line="Der er masser af kastanier. Hun samler en op. Så hører hun en mærkelig stemme!" />
+				<subtitle lang="so" line="Waxaa ku jiray mira tira badan. Waxay soo qadatay mid. Waxay maqashay dhawaaq yaab leh!" />
+				<subtitle lang="fr" line="Il y a des tas de marrons. Elle en ramasse un.Ensuite, elle entend une voix étrange!" />
+				<subtitle lang="cn" line="还有很多，很多的七叶树果实. 她拿起一个来. 然后她听到一种奇怪的声音！" />
+				<subtitle lang="cl" line="Hay muchas castanas Ella coje una Y entonces, escucha una extraña voz" />
+				<subtitle lang="ja" line="そこには、トチの実がいっぱいあります。彼女は、一つ拾います。そのとき、エイミーは不思議な声を聞きます。" />
+				<subtitle lang="sp" line="Hay muchas castanas Ella coje una Y entonces, escucha una extraña voz" />
+				<subtitle lang="mx" line="Hay muchas castanas Ella coje una Y entonces, escucha una extraña voz" />
+				<subtitle lang="pt" line="Há muitas e muitas castanhas.Ela apanha uma.Depois ela ouve uma voz estranha!" />
+				<subtitle lang="cc" line="还有很多，很多的七叶树果实.她拿起一个来.然后她听到一种奇怪的声音！" />
+			</subtitles>
+		</line>
+		<line words="§Collect 20 conkers and make a wish!§" start="55535" length="6691" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="2472" length="355" />
+				<highlight index="1" start="2949" length="461" />
+				<highlight index="2" start="3496" length="517" />
+				<highlight index="3" start="4079" length="100" />
+				<highlight index="4" start="4237" length="263" />
+				<highlight index="5" start="4520" length="107" />
+				<highlight index="6" start="4678" length="547" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="‘Verzamel 20 kastanjes en doe een wens!’" />
+				<subtitle lang="dk" line="§Saml 20 kastanier og du får et ønske!§" />
+				<subtitle lang="so" line="“Aruurso 20 miraha ah kadib ilaahay baray!”" />
+				<subtitle lang="fr" line="‘Ramasse 20 marrons et fais un vœu!’" />
+				<subtitle lang="cn" line="“收集二十个七叶树果实然后许愿!”" />
+				<subtitle lang="cl" line="Recoje veinte castañas y pide un deseo" />
+				<subtitle lang="ja" line="「トチの実を20コ集めて、願い事をしなさい!」" />
+				<subtitle lang="sp" line="Recoje veinte castañas y pide un deseo" />
+				<subtitle lang="mx" line="Recoje veinte castañas y pide un deseo" />
+				<subtitle lang="pt" line="§Colete 20 castanhas e faça um desejo!§" />
+				<subtitle lang="cc" line="“收集二十个七叶树果实然后许愿!”" />
+			</subtitles>
+		</line>
+		<line words="Amy starts to collect the conkers. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" start="61959" length="15924" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="2321" length="200" />
+				<highlight index="1" start="2571" length="433" />
+				<highlight index="2" start="3021" length="133" />
+				<highlight index="3" start="3171" length="300" />
+				<highlight index="4" start="3471" length="150" />
+				<highlight index="5" start="3638" length="733" />
+				<highlight index="6" start="4871" length="200" />
+				<highlight index="7" start="5087" length="216" />
+				<highlight index="8" start="5337" length="600" />
+				<highlight index="9" start="6220" length="200" />
+				<highlight index="10" start="6453" length="200" />
+				<highlight index="11" start="6753" length="567" />
+				<highlight index="12" start="7586" length="200" />
+				<highlight index="13" start="7820" length="300" />
+				<highlight index="14" start="8170" length="666" />
+				<highlight index="15" start="8919" length="200" />
+				<highlight index="16" start="9219" length="200" />
+				<highlight index="17" start="9602" length="434" />
+				<highlight index="18" start="10352" length="200" />
+				<highlight index="19" start="10586" length="299" />
+				<highlight index="20" start="11035" length="467" />
+				<highlight index="21" start="11752" length="250" />
+				<highlight index="22" start="12052" length="433" />
+				<highlight index="23" start="12518" length="200" />
+				<highlight index="24" start="13318" length="1066" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Anne begint de kastanjes te verzamelen.1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="dk" line="Amy begynder at samle kastanier. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="so" line="Amy waxay bilaawday in ay arrusato mirahii1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="fr" line="Aimée commence à ramasser les marrons. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 …" />
+				<subtitle lang="cn" line="艾米开始收集七叶树果实. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+				<subtitle lang="cl" line="Amy empieza a recojer las castañas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="ja" line="エイミーはトチの実を集め始めます。1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="sp" line="Amy empieza a recojer las castañas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="mx" line="Amy empieza a recojer las castañas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="pt" line="Amy começa a recolher as castanhas.1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 ..." />
+				<subtitle lang="cc" line="艾米开始收集七叶树果实.一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+			</subtitles>
+		</line>
+		<line words="She can only find 19 conkers. She counts them again. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" start="77616" length="18601" useLNutResource="true" image="2#5#9" >
+			<highlights>
+				<highlight index="0" start="1928" length="200" />
+				<highlight index="1" start="2137" length="100" />
+				<highlight index="2" start="2271" length="304" />
+				<highlight index="3" start="2575" length="267" />
+				<highlight index="4" start="2937" length="552" />
+				<highlight index="5" start="3527" length="667" />
+				<highlight index="6" start="4651" length="200" />
+				<highlight index="7" start="4879" length="229" />
+				<highlight index="8" start="5127" length="266" />
+				<highlight index="9" start="5412" length="496" />
+				<highlight index="10" start="6403" length="200" />
+				<highlight index="11" start="6783" length="200" />
+				<highlight index="12" start="7145" length="552" />
+				<highlight index="13" start="7926" length="248" />
+				<highlight index="14" start="8250" length="200" />
+				<highlight index="15" start="8478" length="781" />
+				<highlight index="16" start="9411" length="200" />
+				<highlight index="17" start="9697" length="200" />
+				<highlight index="18" start="10002" length="418" />
+				<highlight index="19" start="10858" length="200" />
+				<highlight index="20" start="11087" length="200" />
+				<highlight index="21" start="11506" length="647" />
+				<highlight index="22" start="12287" length="200" />
+				<highlight index="23" start="12515" length="286" />
+				<highlight index="24" start="12820" length="419" />
+				<highlight index="25" start="13677" length="305" />
+				<highlight index="26" start="14096" length="200" />
+				<highlight index="27" start="14400" length="457" />
+				<highlight index="28" start="15409" length="724" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze kan maar 19 kastanjes vinden.Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="dk" line="Hun kan kun finde 19 kastanier. Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="so" line="Waxay heshay 19 mirah.Ayada mar labaad ayaey tiro ku celisay.1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="fr" line="Elle ne trouve que 19 marrons. Elle les compte de nouveau. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="cn" line="她只能找到十九个七叶树果实.她再数一遍. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+				<subtitle lang="cl" line="Ella solo puede encontrar 19 castañas Empieza a contar otra vez 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="ja" line="エイミーは、19コしか見つけられません。トチの実をもう一度数えます。1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="sp" line="Ella solo puede encontrar 19 castañas Empieza a contar otra vez 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="mx" line="Ella solo puede encontrar 19 castañas Empieza a contar otra vez 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 " />
+				<subtitle lang="pt" line="Ela só pode encontrar 19 castanhas.Ela conta novamente.1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 ..." />
+				<subtitle lang="cc" line="她只能找到十九个七叶树果实.她再数一遍.一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+			</subtitles>
+		</line>
+		<line words="Then one falls on her head! Ow! 20! " start="95949" length="7762" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="1671" length="200" />
+				<highlight index="1" start="1881" length="148" />
+				<highlight index="2" start="2050" length="168" />
+				<highlight index="3" start="2239" length="161" />
+				<highlight index="4" start="2414" length="155" />
+				<highlight index="5" start="2604" length="393" />
+				<highlight index="6" start="3432" length="371" />
+				<highlight index="7" start="4835" length="470" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Dan valt er eentje op haar hoofd! Au! 20! " />
+				<subtitle lang="dk" line="Så falder der en på hendes hoved! Av! 20!" />
+				<subtitle lang="so" line="Mid ayaa ku dhacay madaxeeda! Ow!20!" />
+				<subtitle lang="fr" line="Puis, un marron lui tombe sur la tête ! Aïe! 20!" />
+				<subtitle lang="cn" line="然后一个落在她的头上! 噢！二十" />
+				<subtitle lang="cl" line="Y entonces una le cae en su cabeza…ahhh! Veinte" />
+				<subtitle lang="ja" line="そのとき、エイミーの頭上に、トチの実が一つ落ちてきます! 痛いっ!20!" />
+				<subtitle lang="sp" line="Y entonces una le cae en su cabeza…ahhh! Veinte" />
+				<subtitle lang="mx" line="Y entonces una le cae en su cabeza…ahhh! Veinte" />
+				<subtitle lang="pt" line="Então, um cai na sua cabeça! Ai!20!" />
+				<subtitle lang="cc" line="然后一个落在她的头上!噢！二十!" />
+			</subtitles>
+		</line>
+		<line words="She counts them one more time. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20." start="103711" length="14720" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="1129" length="200" />
+				<highlight index="1" start="1362" length="248" />
+				<highlight index="2" start="1657" length="200" />
+				<highlight index="3" start="1843" length="200" />
+				<highlight index="4" start="2061" length="200" />
+				<highlight index="5" start="2278" length="200" />
+				<highlight index="6" start="3350" length="200" />
+				<highlight index="7" start="3630" length="264" />
+				<highlight index="8" start="3972" length="652" />
+				<highlight index="9" start="4717" length="218" />
+				<highlight index="10" start="4950" length="342" />
+				<highlight index="11" start="5385" length="575" />
+				<highlight index="12" start="6162" length="218" />
+				<highlight index="13" start="6395" length="264" />
+				<highlight index="14" start="6768" length="404" />
+				<highlight index="15" start="7514" length="248" />
+				<highlight index="16" start="7778" length="200" />
+				<highlight index="17" start="8290" length="653" />
+				<highlight index="18" start="9067" length="233" />
+				<highlight index="19" start="9362" length="202" />
+				<highlight index="20" start="9626" length="575" />
+				<highlight index="21" start="10465" length="200" />
+				<highlight index="22" start="10761" length="326" />
+				<highlight index="23" start="11180" length="497" />
+				<highlight index="24" start="12019" length="388" />
+				<highlight index="25" start="12485" length="497" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="dk" line="Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="so" line="Mar labaad ayaey tiro ku celisay1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="fr" line="Elle les compte encore une fois. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="cn" line="她再数一遍. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九, 二十." />
+				<subtitle lang="cl" line="Ella las cuenta una vez mas 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20" />
+				<subtitle lang="ja" line="エイミーは、トチの実を再び数えます。1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20。" />
+				<subtitle lang="sp" line="Ella las cuenta una vez mas 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20" />
+				<subtitle lang="mx" line="Ella las cuenta una vez mas 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20" />
+				<subtitle lang="pt" line="Ela conta mais uma vez.1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="cc" line="她再数一遍.一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九, 二十." />
+			</subtitles>
+		</line>
+		<line words="She hears the strange voice again. §Very good! Now make your wish!§" start="118297" length="8966" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="2281" length="200" />
+				<highlight index="1" start="2528" length="160" />
+				<highlight index="2" start="2717" length="145" />
+				<highlight index="3" start="2884" length="200" />
+				<highlight index="4" start="3109" length="262" />
+				<highlight index="5" start="3393" length="479" />
+				<highlight index="6" start="4192" length="443" />
+				<highlight index="7" start="4679" length="480" />
+				<highlight index="8" start="5362" length="320" />
+				<highlight index="9" start="5718" length="334" />
+				<highlight index="10" start="6096" length="200" />
+				<highlight index="11" start="6365" length="443" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze hoort de rare stem weer. ‘Heel goed! Doe nu een wens!’" />
+				<subtitle lang="dk" line="Hun hører den mærkelige stemme igen. §Godt! Nu må du ønske noget!§" />
+				<subtitle lang="so" line="Waxay maqashay dhawaaq yaab leh.Aad u wanaagsan! Hadda ilaahay bari!" />
+				<subtitle lang="fr" line="Elle entend de nouveau la voix étrange. ‘Très bien ! Maintenant, fais un vœu!’" />
+				<subtitle lang="cn" line="她再次听到了奇怪的声音. “很好！现在你可以许愿了!”" />
+				<subtitle lang="cl" line="Ella escucha la extraña voz otra vez Muy bien! Ahora pide tu deseo" />
+				<subtitle lang="ja" line="彼女は再び、不思議な声を聞きます。「よくやった! さぁ、願い事をしなさい!」" />
+				<subtitle lang="sp" line="Ella escucha la extraña voz otra vez Muy bien! Ahora pide tu deseo" />
+				<subtitle lang="mx" line="Ella escucha la extraña voz otra vez Muy bien! Ahora pide tu deseo" />
+				<subtitle lang="pt" line="Ela ouve a voz estranha novamente.§Muito bom! Agora, faça um desejo! §" />
+				<subtitle lang="cc" line="她再次听到了奇怪的声音. “很好！现在你可以许愿了!”" />
+			</subtitles>
+		</line>
+		<line words="She thinks… and she thinks." start="126728" length="5888" useLNutResource="true" image="2#3#9" >
+			<highlights>
+				<highlight index="0" start="2379" length="200" />
+				<highlight index="1" start="2588" length="443" />
+				<highlight index="2" start="3781" length="123" />
+				<highlight index="3" start="3934" length="115" />
+				<highlight index="4" start="4070" length="533" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze denkt na…en denkt na." />
+				<subtitle lang="dk" line="Hun tænker… Og hun tænker." />
+				<subtitle lang="so" line="Way fikirtay...Hadane way fikirta." />
+				<subtitle lang="fr" line="Elle réfléchit… et elle réfléchit." />
+				<subtitle lang="cn" line="她想了又想." />
+				<subtitle lang="cl" line="Ella piensa…Y piensa" />
+				<subtitle lang="ja" line="エイミーは、考えます…じっくりと考えます。" />
+				<subtitle lang="sp" line="Ella piensa…Y piensa" />
+				<subtitle lang="mx" line="Ella piensa…Y piensa" />
+				<subtitle lang="pt" line="Ela acha que ...e ela pensa." />
+				<subtitle lang="cc" line="她想了又想." />
+			</subtitles>
+		</line>
+		<line words="§I know!§ She says. §I wish I had wings!§ And sure enough, Amy grew two beautiful wings. She flew higher… and higher… and higher… and disappeared! Goodbye Amy!" start="132482" length="18334" useLNutResource="true" image="4#4#1" >
+			<highlights>
+				<highlight index="0" start="2031" length="200" />
+				<highlight index="1" start="2208" length="324" />
+				<highlight index="2" start="2561" length="200" />
+				<highlight index="3" start="2738" length="706" />
+				<highlight index="4" start="3650" length="200" />
+				<highlight index="5" start="3856" length="200" />
+				<highlight index="6" start="4062" length="200" />
+				<highlight index="7" start="4298" length="112" />
+				<highlight index="8" start="4445" length="1001" />
+				<highlight index="9" start="5623" length="100" />
+				<highlight index="10" start="5799" length="200" />
+				<highlight index="11" start="6064" length="589" />
+				<highlight index="12" start="6859" length="295" />
+				<highlight index="13" start="7154" length="294" />
+				<highlight index="14" start="7419" length="353" />
+				<highlight index="15" start="7860" length="677" />
+				<highlight index="16" start="8596" length="736" />
+				<highlight index="17" start="9597" length="200" />
+				<highlight index="18" start="9803" length="200" />
+				<highlight index="19" start="10098" length="706" />
+				<highlight index="20" start="11069" length="100" />
+				<highlight index="21" start="11275" length="707" />
+				<highlight index="22" start="12011" length="200" />
+				<highlight index="23" start="12276" length="884" />
+				<highlight index="24" start="13631" length="200" />
+				<highlight index="25" start="13954" length="943" />
+				<highlight index="26" start="15338" length="353" />
+				<highlight index="27" start="15721" length="1148" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="‘Ik weet het!’ zegt ze. ‘Ik wens dat ik vleugels krijg!’ En ja hoor, Anne kreeg twee prachtige vleugels. Ze vloog hoger… en hoger… en nog hoger… tot ze verdween! Dag Anne!" />
+				<subtitle lang="dk" line="§Nu ved jeg det§, siger hun. §Jeg ville ønske, at jeg havde vinger!§ Og ganske rigtigt voksede der to smukke vinger ud på Amy. Hun fløj højere… og højere… og højere… Og forsvandt! Farvel Amy!" />
+				<subtitle lang="so" line="“Waan ogahay!” ayeey tiri. waxaan jeclaani lahaa in aan balal leyahay!Waan hubaa, Amy waxaa u dhashay labo baal oo qurux badan.Meel fog ayey u duushay.......oo aad u koreyso.... aad iyo aad u koreyso .......Waane la waayay! Nabadeey Amy!" />
+				<subtitle lang="fr" line="‘Je sais!’, dit-elle. ‘Je souhaite avoir des ailes!’ Et deux magnifiques ailes poussent sur Aimée. Elle s’envole très haut… et plus haut… et encore plus haut… puis disparait ! Au revoir Aimée!" />
+				<subtitle lang="cn" line="她说: “我知道了！我希望我有翅膀!” 果然艾美长了两个美丽的翅膀. 她飞得越来越高… 然后消失了！艾米再见!" />
+				<subtitle lang="cl" line="Ya se! dice Deseo tener alas! Y entonces, a Amy le crecieron dos maravillosas alas Ella volo alto… y mas alto…. Y mas alto…Y desaparecio! Adios, Amy" />
+				<subtitle lang="ja" line="「わかった!」と彼女は言います。「私に、翼があればいいのになぁ!」すると、エイミーに2枚の美しい翼が生えました。エイミーは、高く…高く…高く舞い上がり…見えなくなってしまいました! さようなら、エイミー!" />
+				<subtitle lang="sp" line="Ya se! dice Deseo tener alas! Y entonces, a Amy le crecieron dos maravillosas alas Ella volo alto… y mas alto…. Y mas alto…Y desaparecio! Adios, Amy" />
+				<subtitle lang="mx" line="Ya se! dice Deseo tener alas! Y entonces, a Amy le crecieron dos maravillosas alas Ella volo alto… y mas alto…. Y mas alto…Y desaparecio! Adios, Amy" />
+				<subtitle lang="pt" line="§Eu sei!§, Diz ela.§Eu gostaria de ter asas!§E com certeza, Amy cresceu duas belasasas.Ela voou mais alto ... e mais ... e mais ...e desapareceu! Adeus Amy!" />
+				<subtitle lang="cc" line="她说: “我知道了！我希望我有翅膀!” 果然艾美长了两个美丽的翅膀. 她飞得越来越高…然后消失了！艾米再见!" />
+			</subtitles>
+		</line>
+		<line words="The End" start="150816" length="4000" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="EInde" />
+				<subtitle lang="dk" line="Slut" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

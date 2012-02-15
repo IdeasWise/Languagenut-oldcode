@@ -1,0 +1,1575 @@
+<?xml version="1.0"?>
+<karaoke length="96052">
+  <lines>
+    <line words="Quel- temps fait- il? Quel- temps fait- il?" start="8100" length="4540">
+      <highlight index="0" start="1022" length="283"/>
+      <highlight index="1" start="1283" length="268"/>
+      <highlight index="2" start="1515" length="200"/>
+      <highlight index="3" start="1696" length="595"/>
+      <highlight index="4" start="2777" length="283"/>
+      <highlight index="5" start="3031" length="200"/>
+      <highlight index="6" start="3212" length="200"/>
+      <highlight index="7" start="3401" length="928"/>
+      <subtitles>
+        <subtitle lang="en" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ng" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="fj" line="How's the weather? How's the weather?"/>
+        <subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?"/>
+        <subtitle lang="ag" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="au" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="mt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ae" line="How's the weather? How's the weather?"/>
+        <subtitle lang="to" line="How's the weather? How's the weather?"/>
+        <subtitle lang="lb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="rw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ws" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gy" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ke" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sg" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sa" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bs" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ug" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="tz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="jm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pk" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ca" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="na" line="How's the weather? How's the weather?"/>
+        <subtitle lang="me" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gh" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="vu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?"/>
+        <subtitle lang="us" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bd" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="vc" line="How's the weather? How's the weather?"/>
+        <subtitle lang="za" line="How's the weather? How's the weather?"/>
+        <subtitle lang="tt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sl" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sco" line="How's the weather? How's the weather?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="dm" line="How's the weather? How's the weather?"/>
+      <subtitle lang="saa" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/><subtitle lang="lba" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+				<subtitle lang="ine" line="How's the weather? How's the weather?"/>
+			</subtitles>
+    </line>
+    <line words="Il fait beau, il fait beau!" start="12462" length="4000">
+      <highlight index="0" start="383" length="200"/>
+      <highlight index="1" start="562" length="453"/>
+      <highlight index="2" start="996" length="735"/>
+      <highlight index="3" start="2274" length="268"/>
+      <highlight index="4" start="2510" length="441"/>
+      <highlight index="5" start="2919" length="665"/>
+      <subtitles>
+        <subtitle lang="en" line="It is fine, it is fine!"/>
+        <subtitle lang="zw" line="It is fine, it is fine!"/>
+        <subtitle lang="ng" line="It is fine, it is fine!"/>
+        <subtitle lang="ni" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="bz" line="It is fine, it is fine!"/>
+        <subtitle lang="fj" line="It is fine, it is fine!"/>
+        <subtitle lang="dk" line="Det er fint, det er fint!"/>
+        <subtitle lang="ag" line="It is fine, it is fine!"/>
+        <subtitle lang="bw" line="It is fine, it is fine!"/>
+        <subtitle lang="au" line="It is fine, it is fine!"/>
+        <subtitle lang="ec" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="pr" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="mt" line="It is fine, it is fine!"/>
+        <subtitle lang="ae" line="It is fine, it is fine!"/>
+        <subtitle lang="to" line="It is fine, it is fine!"/>
+        <subtitle lang="lb" line="It is fine, it is fine!"/>
+        <subtitle lang="es" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="rw" line="It is fine, it is fine!"/>
+        <subtitle lang="ws" line="It is fine, it is fine!"/>
+        <subtitle lang="pe" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gy" line="It is fine, it is fine!"/>
+        <subtitle lang="zm" line="It is fine, it is fine!"/>
+        <subtitle lang="ke" line="It is fine, it is fine!"/>
+        <subtitle lang="sg" line="It is fine, it is fine!"/>
+        <subtitle lang="sa" line="It is fine, it is fine!"/>
+        <subtitle lang="mx" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="do" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="bs" line="It is fine, it is fine!"/>
+        <subtitle lang="ug" line="It is fine, it is fine!"/>
+        <subtitle lang="ve" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="tz" line="It is fine, it is fine!"/>
+        <subtitle lang="co" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="nz" line="It is fine, it is fine!"/>
+        <subtitle lang="jm" line="It is fine, it is fine!"/>
+        <subtitle lang="pk" line="It is fine, it is fine!"/>
+        <subtitle lang="ca" line="It is fine, it is fine!"/>
+        <subtitle lang="ar" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="py" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="na" line="It is fine, it is fine!"/>
+        <subtitle lang="me" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/>
+        <subtitle lang="cu" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gh" line="It is fine, it is fine!"/>
+        <subtitle lang="sv" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sp" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="vu" line="It is fine, it is fine!"/>
+        <subtitle lang="cl" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="nl" line="Lekker weer, lekker weer!"/>
+        <subtitle lang="us" line="It is fine, it is fine!"/>
+        <subtitle lang="bd" line="It is fine, it is fine!"/>
+        <subtitle lang="sb" line="It is fine, it is fine!"/>
+        <subtitle lang="cr" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gm" line="It is fine, it is fine!"/>
+        <subtitle lang="vc" line="It is fine, it is fine!"/>
+        <subtitle lang="za" line="It is fine, it is fine!"/>
+        <subtitle lang="tt" line="It is fine, it is fine!"/>
+        <subtitle lang="mu" line="It is fine, it is fine!"/>
+        <subtitle lang="bo" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sl" line="It is fine, it is fine!"/>
+        <subtitle lang="pa" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sco" line="It is fine, it is fine!"/>
+        <subtitle lang="hn" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gt" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="dm" line="It is fine, it is fine!"/>
+      <subtitle lang="saa" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/><subtitle lang="lba" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/>
+				<subtitle lang="ine" line="It is fine, it is fine!"/>
+			</subtitles>
+    </line>
+    <line words="Quel- temps fait- il? Quel- temps fait- il?" start="16112" length="4006">
+      <highlight index="0" start="340" length="283"/>
+      <highlight index="1" start="594" length="268"/>
+      <highlight index="2" start="833" length="200"/>
+      <highlight index="3" start="1015" length="718"/>
+      <highlight index="4" start="2139" length="283"/>
+      <highlight index="5" start="2407" length="200"/>
+      <highlight index="6" start="2588" length="200"/>
+      <highlight index="7" start="2770" length="928"/>
+      <subtitles>
+        <subtitle lang="en" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ng" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="fj" line="How's the weather? How's the weather?"/>
+        <subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?"/>
+        <subtitle lang="ag" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="au" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="mt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ae" line="How's the weather? How's the weather?"/>
+        <subtitle lang="to" line="How's the weather? How's the weather?"/>
+        <subtitle lang="lb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="rw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ws" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gy" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ke" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sg" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sa" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bs" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ug" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="tz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="jm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pk" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ca" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="na" line="How's the weather? How's the weather?"/>
+        <subtitle lang="me" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gh" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="vu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?"/>
+        <subtitle lang="us" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bd" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="vc" line="How's the weather? How's the weather?"/>
+        <subtitle lang="za" line="How's the weather? How's the weather?"/>
+        <subtitle lang="tt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sl" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sco" line="How's the weather? How's the weather?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="dm" line="How's the weather? How's the weather?"/>
+      <subtitle lang="saa" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/><subtitle lang="lba" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+				<subtitle lang="ine" line="How's the weather? How's the weather?"/>
+			</subtitles>
+    </line>
+    <line words="Il fait beau, il fait beau!" start="19940" length="4000">
+      <highlight index="0" start="383" length="200"/>
+      <highlight index="1" start="562" length="453"/>
+      <highlight index="2" start="996" length="735"/>
+      <highlight index="3" start="2274" length="268"/>
+      <highlight index="4" start="2510" length="441"/>
+      <highlight index="5" start="2919" length="665"/>
+      <subtitles>
+        <subtitle lang="en" line="It is fine, it is fine!"/>
+        <subtitle lang="zw" line="It is fine, it is fine!"/>
+        <subtitle lang="ng" line="It is fine, it is fine!"/>
+        <subtitle lang="ni" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="bz" line="It is fine, it is fine!"/>
+        <subtitle lang="fj" line="It is fine, it is fine!"/>
+        <subtitle lang="dk" line="Det er fint, det er fint!"/>
+        <subtitle lang="ag" line="It is fine, it is fine!"/>
+        <subtitle lang="bw" line="It is fine, it is fine!"/>
+        <subtitle lang="au" line="It is fine, it is fine!"/>
+        <subtitle lang="ec" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="pr" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="mt" line="It is fine, it is fine!"/>
+        <subtitle lang="ae" line="It is fine, it is fine!"/>
+        <subtitle lang="to" line="It is fine, it is fine!"/>
+        <subtitle lang="lb" line="It is fine, it is fine!"/>
+        <subtitle lang="es" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="rw" line="It is fine, it is fine!"/>
+        <subtitle lang="ws" line="It is fine, it is fine!"/>
+        <subtitle lang="pe" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gy" line="It is fine, it is fine!"/>
+        <subtitle lang="zm" line="It is fine, it is fine!"/>
+        <subtitle lang="ke" line="It is fine, it is fine!"/>
+        <subtitle lang="sg" line="It is fine, it is fine!"/>
+        <subtitle lang="sa" line="It is fine, it is fine!"/>
+        <subtitle lang="mx" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="do" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="bs" line="It is fine, it is fine!"/>
+        <subtitle lang="ug" line="It is fine, it is fine!"/>
+        <subtitle lang="ve" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="tz" line="It is fine, it is fine!"/>
+        <subtitle lang="co" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="nz" line="It is fine, it is fine!"/>
+        <subtitle lang="jm" line="It is fine, it is fine!"/>
+        <subtitle lang="pk" line="It is fine, it is fine!"/>
+        <subtitle lang="ca" line="It is fine, it is fine!"/>
+        <subtitle lang="ar" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="py" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="na" line="It is fine, it is fine!"/>
+        <subtitle lang="me" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/>
+        <subtitle lang="cu" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gh" line="It is fine, it is fine!"/>
+        <subtitle lang="sv" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sp" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="vu" line="It is fine, it is fine!"/>
+        <subtitle lang="cl" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="nl" line="Lekker weer, lekker weer!"/>
+        <subtitle lang="us" line="It is fine, it is fine!"/>
+        <subtitle lang="bd" line="It is fine, it is fine!"/>
+        <subtitle lang="sb" line="It is fine, it is fine!"/>
+        <subtitle lang="cr" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gm" line="It is fine, it is fine!"/>
+        <subtitle lang="vc" line="It is fine, it is fine!"/>
+        <subtitle lang="za" line="It is fine, it is fine!"/>
+        <subtitle lang="tt" line="It is fine, it is fine!"/>
+        <subtitle lang="mu" line="It is fine, it is fine!"/>
+        <subtitle lang="bo" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sl" line="It is fine, it is fine!"/>
+        <subtitle lang="pa" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="sco" line="It is fine, it is fine!"/>
+        <subtitle lang="hn" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="gt" line="Est&#xE1; bien, est&#xE1; bien"/>
+        <subtitle lang="dm" line="It is fine, it is fine!"/>
+      <subtitle lang="saa" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/><subtitle lang="lba" line="&#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;, &#xFE8D;&#x646;&#x647; &#x62C;&#x64A;&#x62F;"/>
+				<subtitle lang="ine" line="It is fine, it is fine!"/>
+			</subtitles>
+    </line>
+    <line words="Trente degr&#xE9;s, trente degr&#xE9;s." start="23857" length="3471">
+      <highlight index="0" start="127" length="327"/>
+      <highlight index="1" start="426" length="827"/>
+      <highlight index="2" start="1796" length="654"/>
+      <highlight index="3" start="2411" length="804"/>
+      <subtitles>
+        <subtitle lang="en" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="zw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ng" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ni" line="Treinta grados, treinta grados."/>
+        <subtitle lang="bz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="fj" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="dk" line="Tredive grader, tredive grader."/>
+        <subtitle lang="ag" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="au" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ec" line="Treinta grados, treinta grados."/>
+        <subtitle lang="pr" line="Treinta grados, treinta grados."/>
+        <subtitle lang="mt" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ae" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="to" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="lb" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="es" line="Treinta grados, treinta grados."/>
+        <subtitle lang="rw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ws" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pe" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gy" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="zm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ke" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sg" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sa" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="mx" line="Treinta grados, treinta grados."/>
+        <subtitle lang="do" line="Treinta grados, treinta grados."/>
+        <subtitle lang="bs" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ug" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ve" line="Treinta grados, treinta grados."/>
+        <subtitle lang="tz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="co" line="Treinta grados, treinta grados."/>
+        <subtitle lang="nz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="jm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pk" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ca" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ar" line="Treinta grados, treinta grados."/>
+        <subtitle lang="py" line="Treinta grados, treinta grados."/>
+        <subtitle lang="na" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="me" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+        <subtitle lang="cu" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gh" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sv" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sp" line="Treinta grados, treinta grados."/>
+        <subtitle lang="vu" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="cl" line="Treinta grados, treinta grados."/>
+        <subtitle lang="nl" line="Dertig graden, dertig graden."/>
+        <subtitle lang="us" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bd" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sb" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="cr" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="vc" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="za" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="tt" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="mu" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bo" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sl" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pa" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sco" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="hn" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gt" line="Treinta grados, treinta grados."/>
+        <subtitle lang="dm" line="Thirty degrees, thirty degrees."/>
+      <subtitle lang="saa" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/><subtitle lang="lba" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+				<subtitle lang="ine" line="Thirty degrees, thirty degrees."/>
+			</subtitles>
+    </line>
+    <line words="Tr&#xE8;s tr&#xE8;s beau, tr&#xE8;s tr&#xE8;s beau." start="27061" length="4000">
+      <highlight index="0" start="421" length="281"/>
+      <highlight index="1" start="670" length="345"/>
+      <highlight index="2" start="996" length="722"/>
+      <highlight index="3" start="2300" length="357"/>
+      <highlight index="4" start="2638" length="288"/>
+      <highlight index="5" start="2907" length="811"/>
+      <subtitles>
+        <subtitle lang="en" line="Very very fine, very very fine."/>
+        <subtitle lang="zw" line="Very very fine, very very fine."/>
+        <subtitle lang="ng" line="Very very fine, very very fine."/>
+        <subtitle lang="ni" line="Muy bien, muy bien."/>
+        <subtitle lang="bz" line="Very very fine, very very fine."/>
+        <subtitle lang="fj" line="Very very fine, very very fine."/>
+        <subtitle lang="dk" line="Meget fint, meget fint."/>
+        <subtitle lang="ag" line="Very very fine, very very fine."/>
+        <subtitle lang="bw" line="Very very fine, very very fine."/>
+        <subtitle lang="au" line="Very very fine, very very fine."/>
+        <subtitle lang="ec" line="Muy bien, muy bien."/>
+        <subtitle lang="pr" line="Muy bien, muy bien."/>
+        <subtitle lang="mt" line="Very very fine, very very fine."/>
+        <subtitle lang="ae" line="Very very fine, very very fine."/>
+        <subtitle lang="to" line="Very very fine, very very fine."/>
+        <subtitle lang="lb" line="Very very fine, very very fine."/>
+        <subtitle lang="es" line="Muy bien, muy bien."/>
+        <subtitle lang="rw" line="Very very fine, very very fine."/>
+        <subtitle lang="ws" line="Very very fine, very very fine."/>
+        <subtitle lang="pe" line="Muy bien, muy bien."/>
+        <subtitle lang="gy" line="Very very fine, very very fine."/>
+        <subtitle lang="zm" line="Very very fine, very very fine."/>
+        <subtitle lang="ke" line="Very very fine, very very fine."/>
+        <subtitle lang="sg" line="Very very fine, very very fine."/>
+        <subtitle lang="sa" line="Very very fine, very very fine."/>
+        <subtitle lang="mx" line="Muy bien, muy bien."/>
+        <subtitle lang="do" line="Muy bien, muy bien."/>
+        <subtitle lang="bs" line="Very very fine, very very fine."/>
+        <subtitle lang="ug" line="Very very fine, very very fine."/>
+        <subtitle lang="ve" line="Muy bien, muy bien."/>
+        <subtitle lang="tz" line="Very very fine, very very fine."/>
+        <subtitle lang="co" line="Muy bien, muy bien."/>
+        <subtitle lang="nz" line="Very very fine, very very fine."/>
+        <subtitle lang="jm" line="Very very fine, very very fine."/>
+        <subtitle lang="pk" line="Very very fine, very very fine."/>
+        <subtitle lang="ca" line="Very very fine, very very fine."/>
+        <subtitle lang="ar" line="Muy bien, muy bien."/>
+        <subtitle lang="py" line="Muy bien, muy bien."/>
+        <subtitle lang="na" line="Very very fine, very very fine."/>
+        <subtitle lang="me" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Muy bien, muy bien."/>
+        <subtitle lang="gh" line="Very very fine, very very fine."/>
+        <subtitle lang="sv" line="Muy bien, muy bien."/>
+        <subtitle lang="sp" line="Muy bien, muy bien."/>
+        <subtitle lang="vu" line="Very very fine, very very fine."/>
+        <subtitle lang="cl" line="Muy bien, muy bien."/>
+        <subtitle lang="nl" line="Heel lekker, heel lekker."/>
+        <subtitle lang="us" line="Very very fine, very very fine."/>
+        <subtitle lang="bd" line="Very very fine, very very fine."/>
+        <subtitle lang="sb" line="Very very fine, very very fine."/>
+        <subtitle lang="cr" line="Muy bien, muy bien."/>
+        <subtitle lang="gm" line="Very very fine, very very fine."/>
+        <subtitle lang="vc" line="Very very fine, very very fine."/>
+        <subtitle lang="za" line="Very very fine, very very fine."/>
+        <subtitle lang="tt" line="Very very fine, very very fine."/>
+        <subtitle lang="mu" line="Very very fine, very very fine."/>
+        <subtitle lang="bo" line="Muy bien, muy bien."/>
+        <subtitle lang="sl" line="Very very fine, very very fine."/>
+        <subtitle lang="pa" line="Muy bien, muy bien."/>
+        <subtitle lang="sco" line="Very very fine, very very fine."/>
+        <subtitle lang="hn" line="Muy bien, muy bien."/>
+        <subtitle lang="gt" line="Muy bien, muy bien."/>
+        <subtitle lang="dm" line="Very very fine, very very fine."/>
+      <subtitle lang="saa" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Very very fine, very very fine."/>
+			</subtitles>
+    </line>
+    <line words="Trente degr&#xE9;s, trente degr&#xE9;s." start="30711" length="4184">
+      <highlight index="0" start="588" length="441"/>
+      <highlight index="1" start="989" length="855"/>
+      <highlight index="2" start="2245" length="654"/>
+      <highlight index="3" start="2873" length="909"/>
+      <subtitles>
+        <subtitle lang="en" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="zw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ng" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ni" line="Treinta grados, treinta grados."/>
+        <subtitle lang="bz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="fj" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="dk" line="Tredive grader, tredive grader."/>
+        <subtitle lang="ag" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="au" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ec" line="Treinta grados, treinta grados."/>
+        <subtitle lang="pr" line="Treinta grados, treinta grados."/>
+        <subtitle lang="mt" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ae" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="to" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="lb" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="es" line="Treinta grados, treinta grados."/>
+        <subtitle lang="rw" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ws" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pe" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gy" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="zm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ke" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sg" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sa" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="mx" line="Treinta grados, treinta grados."/>
+        <subtitle lang="do" line="Treinta grados, treinta grados."/>
+        <subtitle lang="bs" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ug" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ve" line="Treinta grados, treinta grados."/>
+        <subtitle lang="tz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="co" line="Treinta grados, treinta grados."/>
+        <subtitle lang="nz" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="jm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pk" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ca" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="ar" line="Treinta grados, treinta grados."/>
+        <subtitle lang="py" line="Treinta grados, treinta grados."/>
+        <subtitle lang="na" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="me" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+        <subtitle lang="cu" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gh" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sv" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sp" line="Treinta grados, treinta grados."/>
+        <subtitle lang="vu" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="cl" line="Treinta grados, treinta grados."/>
+        <subtitle lang="nl" line="Dertig graden, dertig graden."/>
+        <subtitle lang="us" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bd" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="sb" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="cr" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gm" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="vc" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="za" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="tt" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="mu" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="bo" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sl" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="pa" line="Treinta grados, treinta grados."/>
+        <subtitle lang="sco" line="Thirty degrees, thirty degrees."/>
+        <subtitle lang="hn" line="Treinta grados, treinta grados."/>
+        <subtitle lang="gt" line="Treinta grados, treinta grados."/>
+        <subtitle lang="dm" line="Thirty degrees, thirty degrees."/>
+      <subtitle lang="saa" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/><subtitle lang="lba" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+				<subtitle lang="ine" line="Thirty degrees, thirty degrees."/>
+			</subtitles>
+    </line>
+    <line words="Tr&#xE8;s tr&#xE8;s beau, tr&#xE8;s tr&#xE8;s beau." start="34450" length="4000">
+      <highlight index="0" start="421" length="281"/>
+      <highlight index="1" start="670" length="345"/>
+      <highlight index="2" start="996" length="722"/>
+      <highlight index="3" start="2300" length="357"/>
+      <highlight index="4" start="2638" length="288"/>
+      <highlight index="5" start="2907" length="811"/>
+      <subtitles>
+        <subtitle lang="en" line="Very very fine, very very fine."/>
+        <subtitle lang="zw" line="Very very fine, very very fine."/>
+        <subtitle lang="ng" line="Very very fine, very very fine."/>
+        <subtitle lang="ni" line="Muy bien, muy bien."/>
+        <subtitle lang="bz" line="Very very fine, very very fine."/>
+        <subtitle lang="fj" line="Very very fine, very very fine."/>
+        <subtitle lang="dk" line="Meget fint, meget fint."/>
+        <subtitle lang="ag" line="Very very fine, very very fine."/>
+        <subtitle lang="bw" line="Very very fine, very very fine."/>
+        <subtitle lang="au" line="Very very fine, very very fine."/>
+        <subtitle lang="ec" line="Muy bien, muy bien."/>
+        <subtitle lang="pr" line="Muy bien, muy bien."/>
+        <subtitle lang="mt" line="Very very fine, very very fine."/>
+        <subtitle lang="ae" line="Very very fine, very very fine."/>
+        <subtitle lang="to" line="Very very fine, very very fine."/>
+        <subtitle lang="lb" line="Very very fine, very very fine."/>
+        <subtitle lang="es" line="Muy bien, muy bien."/>
+        <subtitle lang="rw" line="Very very fine, very very fine."/>
+        <subtitle lang="ws" line="Very very fine, very very fine."/>
+        <subtitle lang="pe" line="Muy bien, muy bien."/>
+        <subtitle lang="gy" line="Very very fine, very very fine."/>
+        <subtitle lang="zm" line="Very very fine, very very fine."/>
+        <subtitle lang="ke" line="Very very fine, very very fine."/>
+        <subtitle lang="sg" line="Very very fine, very very fine."/>
+        <subtitle lang="sa" line="Very very fine, very very fine."/>
+        <subtitle lang="mx" line="Muy bien, muy bien."/>
+        <subtitle lang="do" line="Muy bien, muy bien."/>
+        <subtitle lang="bs" line="Very very fine, very very fine."/>
+        <subtitle lang="ug" line="Very very fine, very very fine."/>
+        <subtitle lang="ve" line="Muy bien, muy bien."/>
+        <subtitle lang="tz" line="Very very fine, very very fine."/>
+        <subtitle lang="co" line="Muy bien, muy bien."/>
+        <subtitle lang="nz" line="Very very fine, very very fine."/>
+        <subtitle lang="jm" line="Very very fine, very very fine."/>
+        <subtitle lang="pk" line="Very very fine, very very fine."/>
+        <subtitle lang="ca" line="Very very fine, very very fine."/>
+        <subtitle lang="ar" line="Muy bien, muy bien."/>
+        <subtitle lang="py" line="Muy bien, muy bien."/>
+        <subtitle lang="na" line="Very very fine, very very fine."/>
+        <subtitle lang="me" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Muy bien, muy bien."/>
+        <subtitle lang="gh" line="Very very fine, very very fine."/>
+        <subtitle lang="sv" line="Muy bien, muy bien."/>
+        <subtitle lang="sp" line="Muy bien, muy bien."/>
+        <subtitle lang="vu" line="Very very fine, very very fine."/>
+        <subtitle lang="cl" line="Muy bien, muy bien."/>
+        <subtitle lang="nl" line="Heel lekker, heel lekker."/>
+        <subtitle lang="us" line="Very very fine, very very fine."/>
+        <subtitle lang="bd" line="Very very fine, very very fine."/>
+        <subtitle lang="sb" line="Very very fine, very very fine."/>
+        <subtitle lang="cr" line="Muy bien, muy bien."/>
+        <subtitle lang="gm" line="Very very fine, very very fine."/>
+        <subtitle lang="vc" line="Very very fine, very very fine."/>
+        <subtitle lang="za" line="Very very fine, very very fine."/>
+        <subtitle lang="tt" line="Very very fine, very very fine."/>
+        <subtitle lang="mu" line="Very very fine, very very fine."/>
+        <subtitle lang="bo" line="Muy bien, muy bien."/>
+        <subtitle lang="sl" line="Very very fine, very very fine."/>
+        <subtitle lang="pa" line="Muy bien, muy bien."/>
+        <subtitle lang="sco" line="Very very fine, very very fine."/>
+        <subtitle lang="hn" line="Muy bien, muy bien."/>
+        <subtitle lang="gt" line="Muy bien, muy bien."/>
+        <subtitle lang="dm" line="Very very fine, very very fine."/>
+      <subtitle lang="saa" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Very very fine, very very fine."/>
+			</subtitles>
+    </line>
+    <line words="Quel- temps fait- il? Quel- temps fait- il?" start="42106" length="3828">
+      <highlight index="0" start="340" length="283"/>
+      <highlight index="1" start="594" length="268"/>
+      <highlight index="2" start="833" length="200"/>
+      <highlight index="3" start="1015" length="718"/>
+      <highlight index="4" start="2139" length="283"/>
+      <highlight index="5" start="2407" length="200"/>
+      <highlight index="6" start="2588" length="200"/>
+      <highlight index="7" start="2770" length="928"/>
+      <subtitles>
+        <subtitle lang="en" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ng" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="fj" line="How's the weather? How's the weather?"/>
+        <subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?"/>
+        <subtitle lang="ag" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="au" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="mt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ae" line="How's the weather? How's the weather?"/>
+        <subtitle lang="to" line="How's the weather? How's the weather?"/>
+        <subtitle lang="lb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="rw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ws" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gy" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ke" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sg" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sa" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bs" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ug" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="tz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="jm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pk" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ca" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="na" line="How's the weather? How's the weather?"/>
+        <subtitle lang="me" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gh" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="vu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?"/>
+        <subtitle lang="us" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bd" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="vc" line="How's the weather? How's the weather?"/>
+        <subtitle lang="za" line="How's the weather? How's the weather?"/>
+        <subtitle lang="tt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sl" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sco" line="How's the weather? How's the weather?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="dm" line="How's the weather? How's the weather?"/>
+      <subtitle lang="saa" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/><subtitle lang="lba" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+				<subtitle lang="ine" line="How's the weather? How's the weather?"/>
+			</subtitles>
+    </line>
+    <line words="Il fait chaud, il fait chaud!" start="45756" length="4000">
+      <highlight index="0" start="383" length="200"/>
+      <highlight index="1" start="562" length="453"/>
+      <highlight index="2" start="996" length="735"/>
+      <highlight index="3" start="2274" length="268"/>
+      <highlight index="4" start="2510" length="441"/>
+      <highlight index="5" start="2919" length="665"/>
+      <subtitles>
+        <subtitle lang="en" line="It is hot, it is hot!"/>
+        <subtitle lang="zw" line="It is hot, it is hot!"/>
+        <subtitle lang="ng" line="It is hot, it is hot!"/>
+        <subtitle lang="ni" line="Hace calor, hace calor"/>
+        <subtitle lang="bz" line="It is hot, it is hot!"/>
+        <subtitle lang="fj" line="It is hot, it is hot!"/>
+        <subtitle lang="dk" line="Det er varmt, det er varmt!"/>
+        <subtitle lang="ag" line="It is hot, it is hot!"/>
+        <subtitle lang="bw" line="It is hot, it is hot!"/>
+        <subtitle lang="au" line="It is hot, it is hot!"/>
+        <subtitle lang="ec" line="Hace calor, hace calor"/>
+        <subtitle lang="pr" line="Hace calor, hace calor"/>
+        <subtitle lang="mt" line="It is hot, it is hot!"/>
+        <subtitle lang="ae" line="It is hot, it is hot!"/>
+        <subtitle lang="to" line="It is hot, it is hot!"/>
+        <subtitle lang="lb" line="It is hot, it is hot!"/>
+        <subtitle lang="es" line="Hace calor, hace calor"/>
+        <subtitle lang="rw" line="It is hot, it is hot!"/>
+        <subtitle lang="ws" line="It is hot, it is hot!"/>
+        <subtitle lang="pe" line="Hace calor, hace calor"/>
+        <subtitle lang="gy" line="It is hot, it is hot!"/>
+        <subtitle lang="zm" line="It is hot, it is hot!"/>
+        <subtitle lang="ke" line="It is hot, it is hot!"/>
+        <subtitle lang="sg" line="It is hot, it is hot!"/>
+        <subtitle lang="sa" line="It is hot, it is hot!"/>
+        <subtitle lang="mx" line="Hace calor, hace calor"/>
+        <subtitle lang="do" line="Hace calor, hace calor"/>
+        <subtitle lang="bs" line="It is hot, it is hot!"/>
+        <subtitle lang="ug" line="It is hot, it is hot!"/>
+        <subtitle lang="ve" line="Hace calor, hace calor"/>
+        <subtitle lang="tz" line="It is hot, it is hot!"/>
+        <subtitle lang="co" line="Hace calor, hace calor"/>
+        <subtitle lang="nz" line="It is hot, it is hot!"/>
+        <subtitle lang="jm" line="It is hot, it is hot!"/>
+        <subtitle lang="pk" line="It is hot, it is hot!"/>
+        <subtitle lang="ca" line="It is hot, it is hot!"/>
+        <subtitle lang="ar" line="Hace calor, hace calor"/>
+        <subtitle lang="py" line="Hace calor, hace calor"/>
+        <subtitle lang="na" line="It is hot, it is hot!"/>
+        <subtitle lang="me" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/>
+        <subtitle lang="cu" line="Hace calor, hace calor"/>
+        <subtitle lang="gh" line="It is hot, it is hot!"/>
+        <subtitle lang="sv" line="Hace calor, hace calor"/>
+        <subtitle lang="sp" line="Hace calor, hace calor"/>
+        <subtitle lang="vu" line="It is hot, it is hot!"/>
+        <subtitle lang="cl" line="Hace calor, hace calor"/>
+        <subtitle lang="nl" line="Het is warm, het is warm!"/>
+        <subtitle lang="us" line="It is hot, it is hot!"/>
+        <subtitle lang="bd" line="It is hot, it is hot!"/>
+        <subtitle lang="sb" line="It is hot, it is hot!"/>
+        <subtitle lang="cr" line="Hace calor, hace calor"/>
+        <subtitle lang="gm" line="It is hot, it is hot!"/>
+        <subtitle lang="vc" line="It is hot, it is hot!"/>
+        <subtitle lang="za" line="It is hot, it is hot!"/>
+        <subtitle lang="tt" line="It is hot, it is hot!"/>
+        <subtitle lang="mu" line="It is hot, it is hot!"/>
+        <subtitle lang="bo" line="Hace calor, hace calor"/>
+        <subtitle lang="sl" line="It is hot, it is hot!"/>
+        <subtitle lang="pa" line="Hace calor, hace calor"/>
+        <subtitle lang="sco" line="It is hot, it is hot!"/>
+        <subtitle lang="hn" line="Hace calor, hace calor"/>
+        <subtitle lang="gt" line="Hace calor, hace calor"/>
+        <subtitle lang="dm" line="It is hot, it is hot!"/>
+      <subtitle lang="saa" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/><subtitle lang="lba" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/>
+				<subtitle lang="ine" line="It is hot, it is hot!"/>
+			</subtitles>
+    </line>
+    <line words="Quel- temps fait- il? Quel- temps fait- il?" start="49405" length="3828">
+      <highlight index="0" start="340" length="283"/>
+      <highlight index="1" start="594" length="268"/>
+      <highlight index="2" start="833" length="200"/>
+      <highlight index="3" start="1015" length="718"/>
+      <highlight index="4" start="2139" length="283"/>
+      <highlight index="5" start="2407" length="200"/>
+      <highlight index="6" start="2588" length="200"/>
+      <highlight index="7" start="2770" length="928"/>
+      <subtitles>
+        <subtitle lang="en" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ng" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="fj" line="How's the weather? How's the weather?"/>
+        <subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?"/>
+        <subtitle lang="ag" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="au" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="mt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ae" line="How's the weather? How's the weather?"/>
+        <subtitle lang="to" line="How's the weather? How's the weather?"/>
+        <subtitle lang="lb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="rw" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ws" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gy" line="How's the weather? How's the weather?"/>
+        <subtitle lang="zm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ke" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sg" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sa" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="bs" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ug" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="tz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nz" line="How's the weather? How's the weather?"/>
+        <subtitle lang="jm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pk" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ca" line="How's the weather? How's the weather?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="na" line="How's the weather? How's the weather?"/>
+        <subtitle lang="me" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gh" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="vu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?"/>
+        <subtitle lang="us" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bd" line="How's the weather? How's the weather?"/>
+        <subtitle lang="sb" line="How's the weather? How's the weather?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gm" line="How's the weather? How's the weather?"/>
+        <subtitle lang="vc" line="How's the weather? How's the weather?"/>
+        <subtitle lang="za" line="How's the weather? How's the weather?"/>
+        <subtitle lang="tt" line="How's the weather? How's the weather?"/>
+        <subtitle lang="mu" line="How's the weather? How's the weather?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sl" line="How's the weather? How's the weather?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="sco" line="How's the weather? How's the weather?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo est&#xE1; el clima? &#xBF;C&#xF3;mo est&#xE1; el clima?"/>
+        <subtitle lang="dm" line="How's the weather? How's the weather?"/>
+      <subtitle lang="saa" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/><subtitle lang="lba" line="&#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; &#xFEDB;&#xFEF4;&#xFED2; &#xFEA4;&#xFE8E;&#xFEDF;&#xFE94; &#xFE8D;&#xFEE0;&#xFE9F;&#xFEEE;&#x61F; "/>
+				<subtitle lang="ine" line="How's the weather? How's the weather?"/>
+			</subtitles>
+    </line>
+    <line words="Il fait chaud, il fait chaud!" start="53055" length="4000">
+      <highlight index="0" start="383" length="200"/>
+      <highlight index="1" start="562" length="453"/>
+      <highlight index="2" start="996" length="735"/>
+      <highlight index="3" start="2274" length="268"/>
+      <highlight index="4" start="2510" length="441"/>
+      <highlight index="5" start="2919" length="665"/>
+      <subtitles>
+        <subtitle lang="en" line="It is hot, it is hot!"/>
+        <subtitle lang="zw" line="It is hot, it is hot!"/>
+        <subtitle lang="ng" line="It is hot, it is hot!"/>
+        <subtitle lang="ni" line="Hace calor, hace calor"/>
+        <subtitle lang="bz" line="It is hot, it is hot!"/>
+        <subtitle lang="fj" line="It is hot, it is hot!"/>
+        <subtitle lang="dk" line="Det er varmt, det er varmt!"/>
+        <subtitle lang="ag" line="It is hot, it is hot!"/>
+        <subtitle lang="bw" line="It is hot, it is hot!"/>
+        <subtitle lang="au" line="It is hot, it is hot!"/>
+        <subtitle lang="ec" line="Hace calor, hace calor"/>
+        <subtitle lang="pr" line="Hace calor, hace calor"/>
+        <subtitle lang="mt" line="It is hot, it is hot!"/>
+        <subtitle lang="ae" line="It is hot, it is hot!"/>
+        <subtitle lang="to" line="It is hot, it is hot!"/>
+        <subtitle lang="lb" line="It is hot, it is hot!"/>
+        <subtitle lang="es" line="Hace calor, hace calor"/>
+        <subtitle lang="rw" line="It is hot, it is hot!"/>
+        <subtitle lang="ws" line="It is hot, it is hot!"/>
+        <subtitle lang="pe" line="Hace calor, hace calor"/>
+        <subtitle lang="gy" line="It is hot, it is hot!"/>
+        <subtitle lang="zm" line="It is hot, it is hot!"/>
+        <subtitle lang="ke" line="It is hot, it is hot!"/>
+        <subtitle lang="sg" line="It is hot, it is hot!"/>
+        <subtitle lang="sa" line="It is hot, it is hot!"/>
+        <subtitle lang="mx" line="Hace calor, hace calor"/>
+        <subtitle lang="do" line="Hace calor, hace calor"/>
+        <subtitle lang="bs" line="It is hot, it is hot!"/>
+        <subtitle lang="ug" line="It is hot, it is hot!"/>
+        <subtitle lang="ve" line="Hace calor, hace calor"/>
+        <subtitle lang="tz" line="It is hot, it is hot!"/>
+        <subtitle lang="co" line="Hace calor, hace calor"/>
+        <subtitle lang="nz" line="It is hot, it is hot!"/>
+        <subtitle lang="jm" line="It is hot, it is hot!"/>
+        <subtitle lang="pk" line="It is hot, it is hot!"/>
+        <subtitle lang="ca" line="It is hot, it is hot!"/>
+        <subtitle lang="ar" line="Hace calor, hace calor"/>
+        <subtitle lang="py" line="Hace calor, hace calor"/>
+        <subtitle lang="na" line="It is hot, it is hot!"/>
+        <subtitle lang="me" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/>
+        <subtitle lang="cu" line="Hace calor, hace calor"/>
+        <subtitle lang="gh" line="It is hot, it is hot!"/>
+        <subtitle lang="sv" line="Hace calor, hace calor"/>
+        <subtitle lang="sp" line="Hace calor, hace calor"/>
+        <subtitle lang="vu" line="It is hot, it is hot!"/>
+        <subtitle lang="cl" line="Hace calor, hace calor"/>
+        <subtitle lang="nl" line="Het is warm, het is warm!"/>
+        <subtitle lang="us" line="It is hot, it is hot!"/>
+        <subtitle lang="bd" line="It is hot, it is hot!"/>
+        <subtitle lang="sb" line="It is hot, it is hot!"/>
+        <subtitle lang="cr" line="Hace calor, hace calor"/>
+        <subtitle lang="gm" line="It is hot, it is hot!"/>
+        <subtitle lang="vc" line="It is hot, it is hot!"/>
+        <subtitle lang="za" line="It is hot, it is hot!"/>
+        <subtitle lang="tt" line="It is hot, it is hot!"/>
+        <subtitle lang="mu" line="It is hot, it is hot!"/>
+        <subtitle lang="bo" line="Hace calor, hace calor"/>
+        <subtitle lang="sl" line="It is hot, it is hot!"/>
+        <subtitle lang="pa" line="Hace calor, hace calor"/>
+        <subtitle lang="sco" line="It is hot, it is hot!"/>
+        <subtitle lang="hn" line="Hace calor, hace calor"/>
+        <subtitle lang="gt" line="Hace calor, hace calor"/>
+        <subtitle lang="dm" line="It is hot, it is hot!"/>
+      <subtitle lang="saa" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/><subtitle lang="lba" line="&#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;, &#xFE8D;&#x646;&#x647; &#x62D;&#x627;&#x631;"/>
+				<subtitle lang="ine" line="It is hot, it is hot!"/>
+			</subtitles>
+    </line>
+    <line words="Quarante degr&#xE9;s, quarante degr&#xE9;s." start="56883" length="3471">
+      <highlight index="0" start="127" length="493"/>
+      <highlight index="1" start="587" length="909"/>
+      <highlight index="2" start="1796" length="654"/>
+      <highlight index="3" start="2411" length="804"/>
+      <subtitles>
+        <subtitle lang="en" line="Forty degrees, forty degrees."/>
+        <subtitle lang="zw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ng" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ni" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="bz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="fj" line="Forty degrees, forty degrees."/>
+        <subtitle lang="dk" line="Fyrre grader, fyrre grader."/>
+        <subtitle lang="ag" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="au" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ec" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="pr" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="mt" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ae" line="Forty degrees, forty degrees."/>
+        <subtitle lang="to" line="Forty degrees, forty degrees."/>
+        <subtitle lang="lb" line="Forty degrees, forty degrees."/>
+        <subtitle lang="es" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="rw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ws" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pe" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gy" line="Forty degrees, forty degrees."/>
+        <subtitle lang="zm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ke" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sg" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sa" line="Forty degrees, forty degrees."/>
+        <subtitle lang="mx" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="do" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="bs" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ug" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ve" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="tz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="co" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="nz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="jm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pk" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ca" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ar" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="py" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="na" line="Forty degrees, forty degrees."/>
+        <subtitle lang="me" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+        <subtitle lang="cu" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gh" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sv" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sp" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="vu" line="Forty degrees, forty degrees."/>
+        <subtitle lang="cl" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="nl" line="Veertig graden, veertig graden."/>
+        <subtitle lang="us" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bd" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sb" line="Forty degrees, forty degrees."/>
+        <subtitle lang="cr" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="vc" line="Forty degrees, forty degrees."/>
+        <subtitle lang="za" line="Forty degrees, forty degrees."/>
+        <subtitle lang="tt" line="Forty degrees, forty degrees."/>
+        <subtitle lang="mu" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bo" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sl" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pa" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sco" line="Forty degrees, forty degrees."/>
+        <subtitle lang="hn" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gt" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="dm" line="Forty degrees, forty degrees."/>
+      <subtitle lang="saa" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/><subtitle lang="lba" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+				<subtitle lang="ine" line="Forty degrees, forty degrees."/>
+			</subtitles>
+    </line>
+    <line words="Tr&#xE8;s tr&#xE8;s chaud, tr&#xE8;s tr&#xE8;s chaud." start="60355" length="4000">
+      <highlight index="0" start="421" length="281"/>
+      <highlight index="1" start="670" length="345"/>
+      <highlight index="2" start="996" length="722"/>
+      <highlight index="3" start="2300" length="357"/>
+      <highlight index="4" start="2638" length="288"/>
+      <highlight index="5" start="2907" length="811"/>
+      <subtitles>
+        <subtitle lang="en" line="Very very hot, very very hot."/>
+        <subtitle lang="zw" line="Very very hot, very very hot."/>
+        <subtitle lang="ng" line="Very very hot, very very hot."/>
+        <subtitle lang="ni" line="Mucho calor, mucho calor."/>
+        <subtitle lang="bz" line="Very very hot, very very hot."/>
+        <subtitle lang="fj" line="Very very hot, very very hot."/>
+        <subtitle lang="dk" line="Meget varmt, meget varmt."/>
+        <subtitle lang="ag" line="Very very hot, very very hot."/>
+        <subtitle lang="bw" line="Very very hot, very very hot."/>
+        <subtitle lang="au" line="Very very hot, very very hot."/>
+        <subtitle lang="ec" line="Mucho calor, mucho calor."/>
+        <subtitle lang="pr" line="Mucho calor, mucho calor."/>
+        <subtitle lang="mt" line="Very very hot, very very hot."/>
+        <subtitle lang="ae" line="Very very hot, very very hot."/>
+        <subtitle lang="to" line="Very very hot, very very hot."/>
+        <subtitle lang="lb" line="Very very hot, very very hot."/>
+        <subtitle lang="es" line="Mucho calor, mucho calor."/>
+        <subtitle lang="rw" line="Very very hot, very very hot."/>
+        <subtitle lang="ws" line="Very very hot, very very hot."/>
+        <subtitle lang="pe" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gy" line="Very very hot, very very hot."/>
+        <subtitle lang="zm" line="Very very hot, very very hot."/>
+        <subtitle lang="ke" line="Very very hot, very very hot."/>
+        <subtitle lang="sg" line="Very very hot, very very hot."/>
+        <subtitle lang="sa" line="Very very hot, very very hot."/>
+        <subtitle lang="mx" line="Mucho calor, mucho calor."/>
+        <subtitle lang="do" line="Mucho calor, mucho calor."/>
+        <subtitle lang="bs" line="Very very hot, very very hot."/>
+        <subtitle lang="ug" line="Very very hot, very very hot."/>
+        <subtitle lang="ve" line="Mucho calor, mucho calor."/>
+        <subtitle lang="tz" line="Very very hot, very very hot."/>
+        <subtitle lang="co" line="Mucho calor, mucho calor."/>
+        <subtitle lang="nz" line="Very very hot, very very hot."/>
+        <subtitle lang="jm" line="Very very hot, very very hot."/>
+        <subtitle lang="pk" line="Very very hot, very very hot."/>
+        <subtitle lang="ca" line="Very very hot, very very hot."/>
+        <subtitle lang="ar" line="Mucho calor, mucho calor."/>
+        <subtitle lang="py" line="Mucho calor, mucho calor."/>
+        <subtitle lang="na" line="Very very hot, very very hot."/>
+        <subtitle lang="me" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gh" line="Very very hot, very very hot."/>
+        <subtitle lang="sv" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sp" line="Mucho calor, mucho calor."/>
+        <subtitle lang="vu" line="Very very hot, very very hot."/>
+        <subtitle lang="cl" line="Mucho calor, mucho calor."/>
+        <subtitle lang="nl" line="Veel te warm, veel te warm."/>
+        <subtitle lang="us" line="Very very hot, very very hot."/>
+        <subtitle lang="bd" line="Very very hot, very very hot."/>
+        <subtitle lang="sb" line="Very very hot, very very hot."/>
+        <subtitle lang="cr" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gm" line="Very very hot, very very hot."/>
+        <subtitle lang="vc" line="Very very hot, very very hot."/>
+        <subtitle lang="za" line="Very very hot, very very hot."/>
+        <subtitle lang="tt" line="Very very hot, very very hot."/>
+        <subtitle lang="mu" line="Very very hot, very very hot."/>
+        <subtitle lang="bo" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sl" line="Very very hot, very very hot."/>
+        <subtitle lang="pa" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sco" line="Very very hot, very very hot."/>
+        <subtitle lang="hn" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gt" line="Mucho calor, mucho calor."/>
+        <subtitle lang="dm" line="Very very hot, very very hot."/>
+      <subtitle lang="saa" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Very very hot, very very hot."/>
+			</subtitles>
+    </line>
+    <line words="Quarante degr&#xE9;s, quarante degr&#xE9;s." start="64272" length="3471">
+      <highlight index="0" start="127" length="493"/>
+      <highlight index="1" start="587" length="909"/>
+      <highlight index="2" start="1796" length="654"/>
+      <highlight index="3" start="2411" length="804"/>
+      <subtitles>
+        <subtitle lang="en" line="Forty degrees, forty degrees."/>
+        <subtitle lang="zw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ng" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ni" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="bz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="fj" line="Forty degrees, forty degrees."/>
+        <subtitle lang="dk" line="Fyrre grader, fyrre grader."/>
+        <subtitle lang="ag" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="au" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ec" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="pr" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="mt" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ae" line="Forty degrees, forty degrees."/>
+        <subtitle lang="to" line="Forty degrees, forty degrees."/>
+        <subtitle lang="lb" line="Forty degrees, forty degrees."/>
+        <subtitle lang="es" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="rw" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ws" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pe" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gy" line="Forty degrees, forty degrees."/>
+        <subtitle lang="zm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ke" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sg" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sa" line="Forty degrees, forty degrees."/>
+        <subtitle lang="mx" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="do" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="bs" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ug" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ve" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="tz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="co" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="nz" line="Forty degrees, forty degrees."/>
+        <subtitle lang="jm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pk" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ca" line="Forty degrees, forty degrees."/>
+        <subtitle lang="ar" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="py" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="na" line="Forty degrees, forty degrees."/>
+        <subtitle lang="me" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+        <subtitle lang="cu" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gh" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sv" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sp" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="vu" line="Forty degrees, forty degrees."/>
+        <subtitle lang="cl" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="nl" line="Veertig graden, veertig graden."/>
+        <subtitle lang="us" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bd" line="Forty degrees, forty degrees."/>
+        <subtitle lang="sb" line="Forty degrees, forty degrees."/>
+        <subtitle lang="cr" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gm" line="Forty degrees, forty degrees."/>
+        <subtitle lang="vc" line="Forty degrees, forty degrees."/>
+        <subtitle lang="za" line="Forty degrees, forty degrees."/>
+        <subtitle lang="tt" line="Forty degrees, forty degrees."/>
+        <subtitle lang="mu" line="Forty degrees, forty degrees."/>
+        <subtitle lang="bo" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sl" line="Forty degrees, forty degrees."/>
+        <subtitle lang="pa" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="sco" line="Forty degrees, forty degrees."/>
+        <subtitle lang="hn" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="gt" line="Cuarenta grados, cuarenta grados."/>
+        <subtitle lang="dm" line="Forty degrees, forty degrees."/>
+      <subtitle lang="saa" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/><subtitle lang="lba" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;"/>
+				<subtitle lang="ine" line="Forty degrees, forty degrees."/>
+			</subtitles>
+    </line>
+    <line words="Tr&#xE8;s tr&#xE8;s chaud, tr&#xE8;s tr&#xE8;s chaud." start="67832" length="4000">
+      <highlight index="0" start="421" length="281"/>
+      <highlight index="1" start="670" length="345"/>
+      <highlight index="2" start="996" length="722"/>
+      <highlight index="3" start="2300" length="262"/>
+      <highlight index="4" start="2542" length="377"/>
+      <highlight index="5" start="2907" length="811"/>
+      <subtitles>
+        <subtitle lang="en" line="Very very hot, very very hot."/>
+        <subtitle lang="zw" line="Very very hot, very very hot."/>
+        <subtitle lang="ng" line="Very very hot, very very hot."/>
+        <subtitle lang="ni" line="Mucho calor, mucho calor."/>
+        <subtitle lang="bz" line="Very very hot, very very hot."/>
+        <subtitle lang="fj" line="Very very hot, very very hot."/>
+        <subtitle lang="dk" line="Meget varmt, meget varmt."/>
+        <subtitle lang="ag" line="Very very hot, very very hot."/>
+        <subtitle lang="bw" line="Very very hot, very very hot."/>
+        <subtitle lang="au" line="Very very hot, very very hot."/>
+        <subtitle lang="ec" line="Mucho calor, mucho calor."/>
+        <subtitle lang="pr" line="Mucho calor, mucho calor."/>
+        <subtitle lang="mt" line="Very very hot, very very hot."/>
+        <subtitle lang="ae" line="Very very hot, very very hot."/>
+        <subtitle lang="to" line="Very very hot, very very hot."/>
+        <subtitle lang="lb" line="Very very hot, very very hot."/>
+        <subtitle lang="es" line="Mucho calor, mucho calor."/>
+        <subtitle lang="rw" line="Very very hot, very very hot."/>
+        <subtitle lang="ws" line="Very very hot, very very hot."/>
+        <subtitle lang="pe" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gy" line="Very very hot, very very hot."/>
+        <subtitle lang="zm" line="Very very hot, very very hot."/>
+        <subtitle lang="ke" line="Very very hot, very very hot."/>
+        <subtitle lang="sg" line="Very very hot, very very hot."/>
+        <subtitle lang="sa" line="Very very hot, very very hot."/>
+        <subtitle lang="mx" line="Mucho calor, mucho calor."/>
+        <subtitle lang="do" line="Mucho calor, mucho calor."/>
+        <subtitle lang="bs" line="Very very hot, very very hot."/>
+        <subtitle lang="ug" line="Very very hot, very very hot."/>
+        <subtitle lang="ve" line="Mucho calor, mucho calor."/>
+        <subtitle lang="tz" line="Very very hot, very very hot."/>
+        <subtitle lang="co" line="Mucho calor, mucho calor."/>
+        <subtitle lang="nz" line="Very very hot, very very hot."/>
+        <subtitle lang="jm" line="Very very hot, very very hot."/>
+        <subtitle lang="pk" line="Very very hot, very very hot."/>
+        <subtitle lang="ca" line="Very very hot, very very hot."/>
+        <subtitle lang="ar" line="Mucho calor, mucho calor."/>
+        <subtitle lang="py" line="Mucho calor, mucho calor."/>
+        <subtitle lang="na" line="Very very hot, very very hot."/>
+        <subtitle lang="me" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gh" line="Very very hot, very very hot."/>
+        <subtitle lang="sv" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sp" line="Mucho calor, mucho calor."/>
+        <subtitle lang="vu" line="Very very hot, very very hot."/>
+        <subtitle lang="cl" line="Mucho calor, mucho calor."/>
+        <subtitle lang="nl" line="Veel te warm, veel te warm."/>
+        <subtitle lang="us" line="Very very hot, very very hot."/>
+        <subtitle lang="bd" line="Very very hot, very very hot."/>
+        <subtitle lang="sb" line="Very very hot, very very hot."/>
+        <subtitle lang="cr" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gm" line="Very very hot, very very hot."/>
+        <subtitle lang="vc" line="Very very hot, very very hot."/>
+        <subtitle lang="za" line="Very very hot, very very hot."/>
+        <subtitle lang="tt" line="Very very hot, very very hot."/>
+        <subtitle lang="mu" line="Very very hot, very very hot."/>
+        <subtitle lang="bo" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sl" line="Very very hot, very very hot."/>
+        <subtitle lang="pa" line="Mucho calor, mucho calor."/>
+        <subtitle lang="sco" line="Very very hot, very very hot."/>
+        <subtitle lang="hn" line="Mucho calor, mucho calor."/>
+        <subtitle lang="gt" line="Mucho calor, mucho calor."/>
+        <subtitle lang="dm" line="Very very hot, very very hot."/>
+      <subtitle lang="saa" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;, &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Very very hot, very very hot."/>
+			</subtitles>
+    </line>
+    <line words="Quarante degr&#xE9;s, il fait chaud." start="74331" length="4451">
+      <highlight index="0" start="1372" length="526"/>
+      <highlight index="1" start="1891" length="604"/>
+      <highlight index="2" start="2964" length="349"/>
+      <highlight index="3" start="3305" length="491"/>
+      <highlight index="4" start="3782" length="647"/>
+      <subtitles>
+        <subtitle lang="en" line="Forty degrees, it is hot."/>
+        <subtitle lang="zw" line="Forty degrees, it is hot."/>
+        <subtitle lang="ng" line="Forty degrees, it is hot."/>
+        <subtitle lang="ni" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="bz" line="Forty degrees, it is hot."/>
+        <subtitle lang="fj" line="Forty degrees, it is hot."/>
+        <subtitle lang="dk" line="Fyrre grader, det er varmt."/>
+        <subtitle lang="ag" line="Forty degrees, it is hot."/>
+        <subtitle lang="bw" line="Forty degrees, it is hot."/>
+        <subtitle lang="au" line="Forty degrees, it is hot."/>
+        <subtitle lang="ec" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="pr" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="mt" line="Forty degrees, it is hot."/>
+        <subtitle lang="ae" line="Forty degrees, it is hot."/>
+        <subtitle lang="to" line="Forty degrees, it is hot."/>
+        <subtitle lang="lb" line="Forty degrees, it is hot."/>
+        <subtitle lang="es" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="rw" line="Forty degrees, it is hot."/>
+        <subtitle lang="ws" line="Forty degrees, it is hot."/>
+        <subtitle lang="pe" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="gy" line="Forty degrees, it is hot."/>
+        <subtitle lang="zm" line="Forty degrees, it is hot."/>
+        <subtitle lang="ke" line="Forty degrees, it is hot."/>
+        <subtitle lang="sg" line="Forty degrees, it is hot."/>
+        <subtitle lang="sa" line="Forty degrees, it is hot."/>
+        <subtitle lang="mx" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="do" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="bs" line="Forty degrees, it is hot."/>
+        <subtitle lang="ug" line="Forty degrees, it is hot."/>
+        <subtitle lang="ve" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="tz" line="Forty degrees, it is hot."/>
+        <subtitle lang="co" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="nz" line="Forty degrees, it is hot."/>
+        <subtitle lang="jm" line="Forty degrees, it is hot."/>
+        <subtitle lang="pk" line="Forty degrees, it is hot."/>
+        <subtitle lang="ca" line="Forty degrees, it is hot."/>
+        <subtitle lang="ar" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="py" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="na" line="Forty degrees, it is hot."/>
+        <subtitle lang="me" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="gh" line="Forty degrees, it is hot."/>
+        <subtitle lang="sv" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="sp" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="vu" line="Forty degrees, it is hot."/>
+        <subtitle lang="cl" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="nl" line="Veertig graden, veel te warm."/>
+        <subtitle lang="us" line="Forty degrees, it is hot."/>
+        <subtitle lang="bd" line="Forty degrees, it is hot."/>
+        <subtitle lang="sb" line="Forty degrees, it is hot."/>
+        <subtitle lang="cr" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="gm" line="Forty degrees, it is hot."/>
+        <subtitle lang="vc" line="Forty degrees, it is hot."/>
+        <subtitle lang="za" line="Forty degrees, it is hot."/>
+        <subtitle lang="tt" line="Forty degrees, it is hot."/>
+        <subtitle lang="mu" line="Forty degrees, it is hot."/>
+        <subtitle lang="bo" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="sl" line="Forty degrees, it is hot."/>
+        <subtitle lang="pa" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="sco" line="Forty degrees, it is hot."/>
+        <subtitle lang="hn" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="gt" line="Cuarenta grados, mucho calor."/>
+        <subtitle lang="dm" line="Forty degrees, it is hot."/>
+      <subtitle lang="saa" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x623;&#x631;&#x628;&#x639;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x62D;&#x627;&#x631; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Forty degrees, it is hot."/>
+			</subtitles>
+    </line>
+    <line words="Trente degr&#xE8;s, il fait beau." start="78604" length="4095">
+      <highlight index="0" start="712" length="354"/>
+      <highlight index="1" start="1053" length="909"/>
+      <highlight index="2" start="2511" length="200"/>
+      <highlight index="3" start="2714" length="281"/>
+      <highlight index="4" start="3008" length="1008"/>
+      <subtitles>
+        <subtitle lang="en" line="Thirty degrees, it is fine."/>
+        <subtitle lang="zw" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ng" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ni" line="Treinta grados, muy bien."/>
+        <subtitle lang="bz" line="Thirty degrees, it is fine."/>
+        <subtitle lang="fj" line="Thirty degrees, it is fine."/>
+        <subtitle lang="dk" line="Tredive grader, det er fint."/>
+        <subtitle lang="ag" line="Thirty degrees, it is fine."/>
+        <subtitle lang="bw" line="Thirty degrees, it is fine."/>
+        <subtitle lang="au" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ec" line="Treinta grados, muy bien."/>
+        <subtitle lang="pr" line="Treinta grados, muy bien."/>
+        <subtitle lang="mt" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ae" line="Thirty degrees, it is fine."/>
+        <subtitle lang="to" line="Thirty degrees, it is fine."/>
+        <subtitle lang="lb" line="Thirty degrees, it is fine."/>
+        <subtitle lang="es" line="Treinta grados, muy bien."/>
+        <subtitle lang="rw" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ws" line="Thirty degrees, it is fine."/>
+        <subtitle lang="pe" line="Treinta grados, muy bien."/>
+        <subtitle lang="gy" line="Thirty degrees, it is fine."/>
+        <subtitle lang="zm" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ke" line="Thirty degrees, it is fine."/>
+        <subtitle lang="sg" line="Thirty degrees, it is fine."/>
+        <subtitle lang="sa" line="Thirty degrees, it is fine."/>
+        <subtitle lang="mx" line="Treinta grados, muy bien."/>
+        <subtitle lang="do" line="Treinta grados, muy bien."/>
+        <subtitle lang="bs" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ug" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ve" line="Treinta grados, muy bien."/>
+        <subtitle lang="tz" line="Thirty degrees, it is fine."/>
+        <subtitle lang="co" line="Treinta grados, muy bien."/>
+        <subtitle lang="nz" line="Thirty degrees, it is fine."/>
+        <subtitle lang="jm" line="Thirty degrees, it is fine."/>
+        <subtitle lang="pk" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ca" line="Thirty degrees, it is fine."/>
+        <subtitle lang="ar" line="Treinta grados, muy bien."/>
+        <subtitle lang="py" line="Treinta grados, muy bien."/>
+        <subtitle lang="na" line="Thirty degrees, it is fine."/>
+        <subtitle lang="me" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Treinta grados, muy bien."/>
+        <subtitle lang="gh" line="Thirty degrees, it is fine."/>
+        <subtitle lang="sv" line="Treinta grados, muy bien."/>
+        <subtitle lang="sp" line="Treinta grados, muy bien."/>
+        <subtitle lang="vu" line="Thirty degrees, it is fine."/>
+        <subtitle lang="cl" line="Treinta grados, muy bien."/>
+        <subtitle lang="nl" line="Dertig graden, het is mooi."/>
+        <subtitle lang="us" line="Thirty degrees, it is fine."/>
+        <subtitle lang="bd" line="Thirty degrees, it is fine."/>
+        <subtitle lang="sb" line="Thirty degrees, it is fine."/>
+        <subtitle lang="cr" line="Treinta grados, muy bien."/>
+        <subtitle lang="gm" line="Thirty degrees, it is fine."/>
+        <subtitle lang="vc" line="Thirty degrees, it is fine."/>
+        <subtitle lang="za" line="Thirty degrees, it is fine."/>
+        <subtitle lang="tt" line="Thirty degrees, it is fine."/>
+        <subtitle lang="mu" line="Thirty degrees, it is fine."/>
+        <subtitle lang="bo" line="Treinta grados, muy bien."/>
+        <subtitle lang="sl" line="Thirty degrees, it is fine."/>
+        <subtitle lang="pa" line="Treinta grados, muy bien."/>
+        <subtitle lang="sco" line="Thirty degrees, it is fine."/>
+        <subtitle lang="hn" line="Treinta grados, muy bien."/>
+        <subtitle lang="gt" line="Treinta grados, muy bien."/>
+        <subtitle lang="dm" line="Thirty degrees, it is fine."/>
+      <subtitle lang="saa" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x62B;&#x644;&#x627;&#x62B;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;, &#x62C;&#x64A;&#x62F; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Thirty degrees, it is fine."/>
+			</subtitles>
+    </line>
+    <line words="Vingt degr&#xE9;s, il fait soleil." start="82521" length="4000">
+      <highlight index="0" start="562" length="319"/>
+      <highlight index="1" start="868" length="997"/>
+      <highlight index="2" start="2389" length="200"/>
+      <highlight index="3" start="2568" length="200"/>
+      <highlight index="4" start="2779" length="1144"/>
+      <subtitles>
+        <subtitle lang="en" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="zw" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ng" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ni" line="Veinte grados, muy soleado."/>
+        <subtitle lang="bz" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="fj" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="dk" line="Tyve grader, det er solskin."/>
+        <subtitle lang="ag" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="bw" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="au" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ec" line="Veinte grados, muy soleado."/>
+        <subtitle lang="pr" line="Veinte grados, muy soleado."/>
+        <subtitle lang="mt" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ae" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="to" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="lb" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="es" line="Veinte grados, muy soleado."/>
+        <subtitle lang="rw" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ws" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="pe" line="Veinte grados, muy soleado."/>
+        <subtitle lang="gy" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="zm" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ke" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="sg" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="sa" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="mx" line="Veinte grados, muy soleado."/>
+        <subtitle lang="do" line="Veinte grados, muy soleado."/>
+        <subtitle lang="bs" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ug" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ve" line="Veinte grados, muy soleado."/>
+        <subtitle lang="tz" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="co" line="Veinte grados, muy soleado."/>
+        <subtitle lang="nz" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="jm" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="pk" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ca" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="ar" line="Veinte grados, muy soleado."/>
+        <subtitle lang="py" line="Veinte grados, muy soleado."/>
+        <subtitle lang="na" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="me" line="&#x639;&#x634;&#x631;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x645;&#x634;&#x645;&#x633; &#x62C;&#x62F;&#x627;"/>
+        <subtitle lang="cu" line="Veinte grados, muy soleado."/>
+        <subtitle lang="gh" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="sv" line="Veinte grados, muy soleado."/>
+        <subtitle lang="sp" line="Veinte grados, muy soleado."/>
+        <subtitle lang="vu" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="cl" line="Veinte grados, muy soleado."/>
+        <subtitle lang="nl" line="Twintig graden, echt best fijn."/>
+        <subtitle lang="us" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="bd" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="sb" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="cr" line="Veinte grados, muy soleado."/>
+        <subtitle lang="gm" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="vc" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="za" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="tt" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="mu" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="bo" line="Veinte grados, muy soleado."/>
+        <subtitle lang="sl" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="pa" line="Veinte grados, muy soleado."/>
+        <subtitle lang="sco" line="Twenty degrees, it is sunny."/>
+        <subtitle lang="hn" line="Veinte grados, muy soleado."/>
+        <subtitle lang="gt" line="Veinte grados, muy soleado."/>
+        <subtitle lang="dm" line="Twenty degrees, it is sunny."/>
+      <subtitle lang="saa" line="&#x639;&#x634;&#x631;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x645;&#x634;&#x645;&#x633; &#x62C;&#x62F;&#x627;"/><subtitle lang="lba" line="&#x639;&#x634;&#x631;&#x648;&#x646; &#x62F;&#x631;&#x62C;&#x629;&#x60C; &#x645;&#x634;&#x645;&#x633; &#x62C;&#x62F;&#x627;"/>
+				<subtitle lang="ine" line="Twenty degrees, it is sunny."/>
+			</subtitles>
+    </line>
+    <line words="Dix degr&#xE9;s, il fait mauvais." start="86170" length="4000">
+      <highlight index="0" start="562" length="319"/>
+      <highlight index="1" start="868" length="997"/>
+      <highlight index="2" start="2389" length="200"/>
+      <highlight index="3" start="2568" length="200"/>
+      <highlight index="4" start="2779" length="1144"/>
+      <subtitles>
+        <subtitle lang="en" line="Ten degrees, it is bad."/>
+        <subtitle lang="zw" line="Ten degrees, it is bad."/>
+        <subtitle lang="ng" line="Ten degrees, it is bad."/>
+        <subtitle lang="ni" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="bz" line="Ten degrees, it is bad."/>
+        <subtitle lang="fj" line="Ten degrees, it is bad."/>
+        <subtitle lang="dk" line="Ti grader, det er d&#xE5;rligt."/>
+        <subtitle lang="ag" line="Ten degrees, it is bad."/>
+        <subtitle lang="bw" line="Ten degrees, it is bad."/>
+        <subtitle lang="au" line="Ten degrees, it is bad."/>
+        <subtitle lang="ec" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="pr" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="mt" line="Ten degrees, it is bad."/>
+        <subtitle lang="ae" line="Ten degrees, it is bad."/>
+        <subtitle lang="to" line="Ten degrees, it is bad."/>
+        <subtitle lang="lb" line="Ten degrees, it is bad."/>
+        <subtitle lang="es" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="rw" line="Ten degrees, it is bad."/>
+        <subtitle lang="ws" line="Ten degrees, it is bad."/>
+        <subtitle lang="pe" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="gy" line="Ten degrees, it is bad."/>
+        <subtitle lang="zm" line="Ten degrees, it is bad."/>
+        <subtitle lang="ke" line="Ten degrees, it is bad."/>
+        <subtitle lang="sg" line="Ten degrees, it is bad."/>
+        <subtitle lang="sa" line="Ten degrees, it is bad."/>
+        <subtitle lang="mx" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="do" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="bs" line="Ten degrees, it is bad."/>
+        <subtitle lang="ug" line="Ten degrees, it is bad."/>
+        <subtitle lang="ve" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="tz" line="Ten degrees, it is bad."/>
+        <subtitle lang="co" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="nz" line="Ten degrees, it is bad."/>
+        <subtitle lang="jm" line="Ten degrees, it is bad."/>
+        <subtitle lang="pk" line="Ten degrees, it is bad."/>
+        <subtitle lang="ca" line="Ten degrees, it is bad."/>
+        <subtitle lang="ar" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="py" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="na" line="Ten degrees, it is bad."/>
+        <subtitle lang="me" line="&#x639;&#x634;&#x631; &#x62F;&#x631;&#x62C;&#x627;&#x62A;, &#x623;&#x646;&#x647; &#x633;&#x626;"/>
+        <subtitle lang="cu" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="gh" line="Ten degrees, it is bad."/>
+        <subtitle lang="sv" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="sp" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="vu" line="Ten degrees, it is bad."/>
+        <subtitle lang="cl" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="nl" line="Tien graden, dat is fris."/>
+        <subtitle lang="us" line="Ten degrees, it is bad."/>
+        <subtitle lang="bd" line="Ten degrees, it is bad."/>
+        <subtitle lang="sb" line="Ten degrees, it is bad."/>
+        <subtitle lang="cr" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="gm" line="Ten degrees, it is bad."/>
+        <subtitle lang="vc" line="Ten degrees, it is bad."/>
+        <subtitle lang="za" line="Ten degrees, it is bad."/>
+        <subtitle lang="tt" line="Ten degrees, it is bad."/>
+        <subtitle lang="mu" line="Ten degrees, it is bad."/>
+        <subtitle lang="bo" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="sl" line="Ten degrees, it is bad."/>
+        <subtitle lang="pa" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="sco" line="Ten degrees, it is bad."/>
+        <subtitle lang="hn" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="gt" line="Diez grados, est&#xE1; mal."/>
+        <subtitle lang="dm" line="Ten degrees, it is bad."/>
+      <subtitle lang="saa" line="&#x639;&#x634;&#x631; &#x62F;&#x631;&#x62C;&#x627;&#x62A;, &#x623;&#x646;&#x647; &#x633;&#x626;"/><subtitle lang="lba" line="&#x639;&#x634;&#x631; &#x62F;&#x631;&#x62C;&#x627;&#x62A;, &#x623;&#x646;&#x647; &#x633;&#x626;"/>
+				<subtitle lang="ine" line="Ten degrees, it is bad."/>
+			</subtitles>
+    </line>
+    <line words="Z&#xE9;ro degr&#xE9;s il neige, BRRRRRRRRRRRR!" start="89820" length="4000">
+      <highlight index="0" start="562" length="319"/>
+      <highlight index="1" start="868" length="448"/>
+      <highlight index="2" start="1303" length="160"/>
+      <highlight index="3" start="1456" length="633"/>
+      <highlight index="4" start="2082" length="1860"/>
+      <subtitles>
+        <subtitle lang="en" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="zw" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ng" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ni" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="bz" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="fj" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="dk" line="Nul grader det sner! BRRRRRRR"/>
+        <subtitle lang="ag" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="bw" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="au" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ec" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="pr" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="mt" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ae" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="to" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="lb" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="es" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="rw" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ws" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="pe" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="gy" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="zm" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ke" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="sg" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="sa" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="mx" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="do" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="bs" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ug" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ve" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="tz" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="co" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="nz" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="jm" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="pk" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ca" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="ar" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="py" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="na" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="me" line="&#x62F;&#x631;&#x62C;&#x629; &#x627;&#x644;&#x635;&#x641;&#x631;, &#xFE8D;&#x646;&#x647; &#xFEE4;&#xFE9C;&#xFEDF;&#xFE9E;  &#x628;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;"/>
+        <subtitle lang="cu" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="gh" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="sv" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="sp" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="vu" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="cl" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="nl" line="Nul graden, wat koud! BRRRRRRRR"/>
+        <subtitle lang="us" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="bd" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="sb" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="cr" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="gm" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="vc" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="za" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="tt" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="mu" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="bo" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="sl" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="pa" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="sco" line="Zero degrees it's snowing! BRRRRRRRR"/>
+        <subtitle lang="hn" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="gt" line="Cero grados, si cae nieve BRRRRRRRRRRR...."/>
+        <subtitle lang="dm" line="Zero degrees it's snowing! BRRRRRRRR"/>
+      <subtitle lang="saa" line="&#x62F;&#x631;&#x62C;&#x629; &#x627;&#x644;&#x635;&#x641;&#x631;, &#xFE8D;&#x646;&#x647; &#xFEE4;&#xFE9C;&#xFEDF;&#xFE9E;  &#x628;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;"/><subtitle lang="lba" line="&#x62F;&#x631;&#x62C;&#x629; &#x627;&#x644;&#x635;&#x641;&#x631;, &#xFE8D;&#x646;&#x647; &#xFEE4;&#xFE9C;&#xFEDF;&#xFE9E;  &#x628;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;&#x631;"/>
+				<subtitle lang="ine" line="Zero degrees it's snowing! BRRRRRRRR"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

@@ -1,0 +1,701 @@
+<karaoke length="109897">
+  <lines>
+    <line words="I’m a Wizard                                      " start="100" length="4913" useLNutResource="true" useStoryResource="false" image="2#3#1">
+      <subtitles>
+        <subtitle lang="mx" line="Soy Un Mago"/>
+        <subtitle lang="nl" line="Ik ben een tovenaar"/>
+        <subtitle lang="dk" line="§ Jeg er en troldmand§"/>
+        <subtitle lang="cl" line="Soy Un Mago"/>
+        <subtitle lang="in" line=""/>
+      </subtitles>
+      <highlights>
+        <highlight index="3" start="41" length="200"/>
+      </highlights>
+    </line>
+    <line words="§Hello.                                                      My name’s John.                                                  I’m a wizard.§" start="4913" length="4903" useLNutResource="true" useStoryResource="false" image="2#3#1">
+      <subtitles>
+        <subtitle lang="cd" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="cn" line="你好.我的名字是约翰.我是一个巫师."/>
+        <subtitle lang="null" line=""/>
+        <subtitle lang="ml" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="ne" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="pyi" line="你好.我的名字是约翰.我是一个巫师."/>
+        <subtitle lang="mx" line="§Hola. Me llamo Juan. Soy un mago.§"/>
+        <subtitle lang="dk" line="§Hej.                                                                                          Jeg hedder John.                                                                                       Jeg er en troldmand.§"/>
+        <subtitle lang="me" line="مرحبا.اسمي جون.أنا ساحر "/>
+        <subtitle lang="sn" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="ht" line="Bonjou. Mwen rele Jan. Mwen se yon ougan."/>
+        <subtitle lang="saa" line="مرحبا.اسمي جون.أنا ساحر "/>
+        <subtitle lang="bi" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="ci" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="lbr" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="ja" line="こんにちは。(こんにちは。)僕の名前は、ジョン。(ぼくのなまえは、じょん。)魔法使いなんだ。(まほうつかいなんだ。)"/>
+        <subtitle lang="bj" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="lba" line="مرحبا.اسمي جون.أنا ساحر "/>
+        <subtitle lang="cl" line="§Hola. Me llamo Juan. Soy un mago.§"/>
+        <subtitle lang="tg" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="bf" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="dj" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="nl" line="Hallo. Mijn naam is Bart-Jan. Ik ben een tovenaar."/>
+        <subtitle lang="mg" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="pt" line="Olá.Meu nome é João.Eu sou um mago."/>
+        <subtitle lang="fr" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="cm" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="ga" line="§Salut. Je m’appelle Jean. Je suis magicien.§"/>
+        <subtitle lang="in" line="नमस्कार।मेरा नाम जॉन है।मैं एक जादूगर हूँ।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="716" length="373"/>
+        <highlight index="54" start="1705" length="200"/>
+        <highlight index="55" start="1920" length="380"/>
+        <highlight index="56" start="2336" length="279"/>
+        <highlight index="106" start="3139" length="307"/>
+        <highlight index="107" start="3418" length="200"/>
+        <highlight index="108" start="3612" length="573"/>
+      </highlights>
+    </line>
+    <line words="§You can help me with my spells. It’s easy! I count to ten.§" start="9727" length="4813" useLNutResource="true" useStoryResource="false" image="2#2#10">
+      <subtitles>
+        <subtitle lang="cd" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="cn" line="你可以帮助我与我的法术.很容易! 我数到十."/>
+        <subtitle lang="ml" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="ne" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="pyi" line="你可以帮助我与我的法术.很容易! 我数到十."/>
+        <subtitle lang="mx" line="§Puedes ayudarme con mis hechizos. ¡Es fácil! Sólo cuento hasta diez.§"/>
+        <subtitle lang="dk" line="§Du kan hjælpe mig med at trylle. Det er let. Jeg tæller til ti.§"/>
+        <subtitle lang="me" line=" أنها تحب أن تلعب. في العادة هي تلعب مع صديقاتها."/>
+        <subtitle lang="sn" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="ht" line="Ou ka ede mwen avèk wonga m yo  Li fasil! Map konte jiska dis."/>
+        <subtitle lang="saa" line=" أنها تحب أن تلعب. في العادة هي تلعب مع صديقاتها."/>
+        <subtitle lang="bi" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="ci" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="lbr" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="ja" line="君も、僕の魔法を手伝えるんだよ。(きみも、ぼくのまほうをてつだえるんだよ。)簡単さ！10まで数えるんだ。(かんたんさ！10までかぞえるんだ。)"/>
+        <subtitle lang="bj" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="lba" line=" أنها تحب أن تلعب. في العادة هي تلعب مع صديقاتها."/>
+        <subtitle lang="cl" line="Puedes ayudarme con mis hechizos.¡Es fácil! cuento hasta diez."/>
+        <subtitle lang="tg" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="bf" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="dj" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="nl" line="Jij kan me helpen met mijn toverspreuken. Het is heel makkelijk! Ik tel tot tien."/>
+        <subtitle lang="mg" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="pt" line="Você pode me ajudar com meus feitiços.É fácil! Eu conto até dez."/>
+        <subtitle lang="fr" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="cm" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="ga" line="§Tu peux m’aider avec mes formules magiques. C’est facile! Je compte jusqu’à dix.§"/>
+        <subtitle lang="in" line="आप मुझे मेरे मंत्रों में मदद कर सकते हैं।यह आसान है! मैं दस तक गिनूँगा।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="323" length="200"/>
+        <highlight index="1" start="471" length="200"/>
+        <highlight index="2" start="640" length="200"/>
+        <highlight index="3" start="731" length="200"/>
+        <highlight index="4" start="809" length="200"/>
+        <highlight index="5" start="985" length="232"/>
+        <highlight index="6" start="1252" length="380"/>
+        <highlight index="7" start="2061" length="200"/>
+        <highlight index="8" start="2244" length="507"/>
+        <highlight index="9" start="3201" length="200"/>
+        <highlight index="10" start="3398" length="260"/>
+        <highlight index="11" start="3630" length="200"/>
+        <highlight index="12" start="3820" length="289"/>
+      </highlights>
+    </line>
+    <line words="§Let’s practise. Ready?                                                         1 2 3 4 5 6 7 8 9 10!                                 Excellent!§" start="14440" length="10027" useLNutResource="true" useStoryResource="false" image="2#6#4">
+      <subtitles>
+        <subtitle lang="cd" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="cn" line="让我们练习. 准备好了吗？一，二，三，四，五，六，七，八，九，十好！"/>
+        <subtitle lang="ml" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="ne" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="pyi" line="让我们练习. 准备好了吗？一，二，三，四，五，六，七，八，九，十好！"/>
+        <subtitle lang="mx" line="§Vamos a practicar. ¿Listo? ¡1 2 3 4 5 6 7 8 9 10! Excelente.§"/>
+        <subtitle lang="dk" line="§Lad os prøve. Klar?                                                                     1 2 3 4 5 6 7 8 9 10!                                                           Flot!§"/>
+        <subtitle lang="me" line="تستطيع مساعدتي في التعويذات السحريه انه سهل! سوف أعد للعشره"/>
+        <subtitle lang="sn" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="ht" line="An nou pratike. Pare?  1 2 3 4 5 6 7 8 9 10!  Ekselan!"/>
+        <subtitle lang="saa" line="تستطيع مساعدتي في التعويذات السحريه انه سهل! سوف أعد للعشره"/>
+        <subtitle lang="bi" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="ci" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="lbr" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="ja" line="練習しよう。準備はいい?1 2 3 4 5 6 7 8 9 10! いいねぇ!"/>
+        <subtitle lang="bj" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="lba" line="تستطيع مساعدتي في التعويذات السحريه انه سهل! سوف أعد للعشره"/>
+        <subtitle lang="cl" line="§Vamos a practicar. ¿Listo? ¡1 2 3 4 5 6 7 8 9 10! Excelente.§"/>
+        <subtitle lang="tg" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="bf" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="dj" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="nl" line="§Even oefenen. Ben je er klaar voor?                                                             1 2 3 4 5 6 7 8 9 10! Heel goed!§"/>
+        <subtitle lang="mg" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="pt" line="Vamos praticar. Pronto?1 2 3 4 5 6 7 8 9 10!Excelente!"/>
+        <subtitle lang="fr" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="cm" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="ga" line="§Pratiquons un peu. Prêt ? 1 2 3 4 5 6 7 8 9 10 !&#x9;Excellent !§"/>
+        <subtitle lang="in" line="चलिए अभ्यास करें। क्या आप तैयार हैं?1 2 3 4 5 6 7 8 9 10!बढ़िया!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="630" length="200"/>
+        <highlight index="1" start="835" length="323"/>
+        <highlight index="2" start="1597" length="513"/>
+        <highlight index="59" start="3268" length="249"/>
+        <highlight index="60" start="3737" length="294"/>
+        <highlight index="61" start="4426" length="264"/>
+        <highlight index="62" start="4675" length="293"/>
+        <highlight index="63" start="4939" length="323"/>
+        <highlight index="64" start="5790" length="249"/>
+        <highlight index="65" start="6009" length="308"/>
+        <highlight index="66" start="6317" length="278"/>
+        <highlight index="67" start="6698" length="440"/>
+        <highlight index="68" start="7153" length="439"/>
+        <highlight index="101" start="8575" length="747"/>
+      </highlights>
+    </line>
+    <line words="§Here is my sister.                             Her name is Marie.                                                               1 2 3 4 5 6 7 8 9 10!§" start="24167" length="9526" useLNutResource="true" useStoryResource="false" image="1#4#1">
+      <subtitles>
+        <subtitle lang="cd" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cn" line="这是我的妹妹.她的名字是玛丽.一，二，三，四，五，六，七，八，九，十"/>
+        <subtitle lang="ml" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ne" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pyi" line="这是我的妹妹.她的名字是玛丽.一，二，三，四，五，六，七，八，九，十"/>
+        <subtitle lang="mx" line="§Ella es mi hermana. Se llama María. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Her er min søster.                                                                Hun hedder Marie.                                                       1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="لنتدرب الأن. مستعد؟١٠٩٨٧٦٥٤٣٢١ممتاز!&#x9;"/>
+        <subtitle lang="sn" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ht" line="Men sè m nan. Non li se Mari. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="لنتدرب الأن. مستعد؟١٠٩٨٧٦٥٤٣٢١ممتاز!&#x9;"/>
+        <subtitle lang="bi" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ci" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lbr" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ja" line="こちらは、僕の妹。彼女の名前はマリーです。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lba" line="لنتدرب الأن. مستعد؟١٠٩٨٧٦٥٤٣٢١ممتاز!&#x9;"/>
+        <subtitle lang="cl" line="§Ella es mi hermana. Se llama María. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="bf" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="dj" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="nl" line="§Hier is mijn zus. Haar naam is Margriet.                                                                    1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="mg" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pt" line="Aqui está a minha irmã.O nome dela é Maria.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cm" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ga" line="§Voici ma sœur. Elle s’appelle Marie. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="in" line="यह मेरी बहन है।इसका नाम मैरी है।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="557" length="200"/>
+        <highlight index="1" start="724" length="200"/>
+        <highlight index="2" start="877" length="200"/>
+        <highlight index="3" start="1086" length="376"/>
+        <highlight index="32" start="2283" length="297"/>
+        <highlight index="33" start="2590" length="256"/>
+        <highlight index="34" start="2882" length="284"/>
+        <highlight index="35" start="3161" length="501"/>
+        <highlight index="98" start="4191" length="264"/>
+        <highlight index="99" start="4887" length="200"/>
+        <highlight index="100" start="5584" length="404"/>
+        <highlight index="101" start="5918" length="348"/>
+        <highlight index="102" start="6308" length="515"/>
+        <highlight index="103" start="6962" length="348"/>
+        <highlight index="104" start="7311" length="417"/>
+        <highlight index="105" start="7756" length="418"/>
+        <highlight index="106" start="8202" length="348"/>
+        <highlight index="107" start="8508" length="557"/>
+      </highlights>
+    </line>
+    <line words="§She’s a sheep!                                 My sister is a sheep!                                      My sister is a white sheep!§" start="33593" length="6618" useLNutResource="true" useStoryResource="false" image="5#1#2">
+      <subtitles>
+        <subtitle lang="cd" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="cn" line="她是一只绵羊!我妹妹是一只绵羊!我妹妹是一只白绵羊!"/>
+        <subtitle lang="ml" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="ne" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="pyi" line="她是一只绵羊!我妹妹是一只绵羊!我妹妹是一只白绵羊!"/>
+        <subtitle lang="mx" line="§¡Ella es un borrego! ¡Mi hermana es un borrego! ¡Mi hermana es un borrego blanco!§"/>
+        <subtitle lang="dk" line="§Hun er et får!                                                               Min søster er et får!                                                   Min søster er et hvidt får!§"/>
+        <subtitle lang="me" line="هذه أختي.واسمها ماري١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="sn" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="ht" line="Li se yon mouton! Sè m nan se yon mouton! Sè m an se yon mouton blan!"/>
+        <subtitle lang="saa" line="هذه أختي.واسمها ماري١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="bi" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="ci" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="lbr" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="ja" line="彼女は、ヒツジ!僕の妹は、ヒツジだよ!僕の妹は、白いヒツジだよ!"/>
+        <subtitle lang="bj" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="lba" line="هذه أختي.واسمها ماري١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="cl" line="¡Ella es una oveja!¡Mi hermana es una oveja!¡Mi hermana es una oveja blanca!"/>
+        <subtitle lang="tg" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="bf" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="dj" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="nl" line="§Ze is een schaap! Mijn zus is een schaap! Mijn zus is een wit schaap!§"/>
+        <subtitle lang="mg" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="pt" line="Ela é uma ovelha!Minha irmã é uma ovelha!Minha irmã é uma ovelha branca!"/>
+        <subtitle lang="fr" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="cm" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="ga" line="§C’est un mouton! Ma sœur est un mouton! Ma sœur est un mouton blanc!§"/>
+        <subtitle lang="in" line="वह एक भेड़ है!मेरी बहन एक भेड़ है!मेरी बहन एक सफेद भेड़ है!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="464" length="200"/>
+        <highlight index="1" start="648" length="200"/>
+        <highlight index="2" start="803" length="522"/>
+        <highlight index="35" start="1702" length="200"/>
+        <highlight index="36" start="1896" length="377"/>
+        <highlight index="37" start="2331" length="200"/>
+        <highlight index="38" start="2505" length="200"/>
+        <highlight index="39" start="2689" length="542"/>
+        <highlight index="77" start="3463" length="300"/>
+        <highlight index="78" start="3744" length="658"/>
+        <highlight index="79" start="4402" length="200"/>
+        <highlight index="80" start="4585" length="200"/>
+        <highlight index="81" start="4759" length="310"/>
+        <highlight index="82" start="5156" length="648"/>
+      </highlights>
+    </line>
+    <line words="§Here is my mum.                                                Her name is Jane.                                                       1 2 3 4 5 6 7 8 9 10!§" start="40011" length="9626" useLNutResource="true" useStoryResource="false" image="1#4#3">
+      <subtitles>
+        <subtitle lang="cd" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cn" line="这是我的妈妈.她的名字是简.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="ml" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ne" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pyi" line="这是我的妈妈. 她的名字是简. 一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="mx" line="§Ella es mi mamá. Se llama Juana. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Her er min mor.                                                                          Hun hedder Jane.                                                                 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="انها خروف!اختي خروف !أختي خروف أبيض!"/>
+        <subtitle lang="sn" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ht" line="Men manman m. Li rele Jann. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="انها خروف!اختي خروف !أختي خروف أبيض!"/>
+        <subtitle lang="bi" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ci" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lbr" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ja" line="こちらは、僕のお母さん。彼女の名前はジェーンです。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lba" line="انها خروف!اختي خروف !أختي خروف أبيض!"/>
+        <subtitle lang="cl" line="§Ella es mi mamá. Se llama Juana. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="bf" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="dj" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="nl" line="§Hier is mijn moeder. Haar naam is Marjanne.                                                               1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="mg" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pt" line="Aqui está a minha mãe.O nome dela é Jane.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cm" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ga" line="§Voici ma mère. Elle s’appelle Jeanne. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="in" line="यह मेरी माँ है।इनका नाम जेन है।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="647" length="369"/>
+        <highlight index="1" start="970" length="200"/>
+        <highlight index="2" start="1139" length="200"/>
+        <highlight index="3" start="1322" length="200"/>
+        <highlight index="51" start="2335" length="352"/>
+        <highlight index="52" start="2659" length="338"/>
+        <highlight index="53" start="2969" length="200"/>
+        <highlight index="54" start="3152" length="464"/>
+        <highlight index="109" start="4714" length="281"/>
+        <highlight index="110" start="5164" length="281"/>
+        <highlight index="111" start="5769" length="296"/>
+        <highlight index="112" start="6065" length="324"/>
+        <highlight index="113" start="6360" length="366"/>
+        <highlight index="114" start="7007" length="408"/>
+        <highlight index="115" start="7373" length="422"/>
+        <highlight index="116" start="7753" length="408"/>
+        <highlight index="117" start="8105" length="422"/>
+        <highlight index="118" start="8499" length="464"/>
+      </highlights>
+    </line>
+    <line words="§Here is my brother.                                                               His name is Oliver.                                                                    1 2 3 4 5 6 7 8 9 10!§" start="49992" length="9226" useLNutResource="true" useStoryResource="false" image="1#4#2">
+      <subtitles>
+        <subtitle lang="cd" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cn" line="这是我的哥哥.他的名字是奥利弗.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="ml" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ne" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pyi" line="这是我的哥哥.他的名字是奥利弗.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="mx" line="§Él es mi hermano. Se llama Oliver. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Her er min bror.                                                Han hedder Oliver.                                                 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="هذا أخي.واسمه أوليفر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="sn" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ht" line="Men frè m nan.  Li rele Olivye. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="هذا أخي.واسمه أوليفر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="bi" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ci" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lbr" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ja" line="こちらは、僕の兄さん。彼の名前は、オリバーです。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lba" line="هذا أخي.واسمه أوليفر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="cl" line="§Él es mi hermano. Se llama Oliver. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="bf" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="dj" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="nl" line="§Hier is mijn broer. Zijn naam is Michiel.                                                     1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="mg" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pt" line="Aqui está o meu irmão.O nome dele é Oliver.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cm" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ga" line="§Voici mon frère. Il s’appelle Olivier. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="in" line="यह मेरा भाई है।इसका नाम ओलिवर है।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="377" length="200"/>
+        <highlight index="1" start="552" length="200"/>
+        <highlight index="2" start="755" length="200"/>
+        <highlight index="3" start="957" length="647"/>
+        <highlight index="66" start="2130" length="200"/>
+        <highlight index="67" start="2292" length="348"/>
+        <highlight index="68" start="2670" length="200"/>
+        <highlight index="69" start="2913" length="607"/>
+        <highlight index="137" start="4423" length="268"/>
+        <highlight index="138" start="4936" length="310"/>
+        <highlight index="139" start="5705" length="256"/>
+        <highlight index="140" start="5988" length="310"/>
+        <highlight index="141" start="6312" length="297"/>
+        <highlight index="142" start="7296" length="270"/>
+        <highlight index="143" start="7552" length="297"/>
+        <highlight index="144" start="7809" length="283"/>
+        <highlight index="145" start="8038" length="283"/>
+        <highlight index="146" start="8281" length="512"/>
+      </highlights>
+    </line>
+    <line words="§He’s a mouse!                                      My brother is a mouse!                                         My brother is a brown mouse!§" start="59250" length="7220" useLNutResource="true" useStoryResource="false" image="5#1#4">
+      <subtitles>
+        <subtitle lang="cd" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="cn" line="他是一只老鼠!我的哥哥是一只老鼠!我的哥哥是一只棕色的老鼠!"/>
+        <subtitle lang="ml" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="ne" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="pyi" line="他是一只老鼠!我的哥哥是一只老鼠!我的哥哥是一只棕色的老鼠!"/>
+        <subtitle lang="mx" line="§¡Él es un ratón! ¡Mi hermano es un ratón! ¡Mi hermano es un ratón café!§"/>
+        <subtitle lang="dk" line="§Han er en mus!                                                             Min bror er en mus!                                                            Min bror er en brun mus!§"/>
+        <subtitle lang="me" line="انه فأر!أخي فأر!أخي فأرة بني!"/>
+        <subtitle lang="sn" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="ht" line="Li se yon sourit!  Frè m nan se yon sourit!  Frè m nan se yon sourit mawon!"/>
+        <subtitle lang="saa" line="انه فأر!أخي فأر!أخي فأرة بني!"/>
+        <subtitle lang="bi" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="ci" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="lbr" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="ja" line="彼は、ネズミ!僕の兄さんは、ネズミだよ!僕の兄さんは、茶色いネズミだ!"/>
+        <subtitle lang="bj" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="lba" line="انه فأر!أخي فأر!أخي فأرة بني!"/>
+        <subtitle lang="cl" line="§¡Él es un ratón! ¡Mi hermano es un ratón! ¡Mi hermano es un ratón café!§"/>
+        <subtitle lang="tg" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="bf" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="dj" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="nl" line="§Hij is een muis! Mijn broer is een muis! Mijn broer is een bruine muis!§"/>
+        <subtitle lang="mg" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="pt" line="Ele é um ratinho!Meu irmão é um ratinho!Meu irmão é um ratinho marrom!"/>
+        <subtitle lang="fr" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="cm" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="ga" line="§ C’est une souris! Mon frère est une souris! Mon frère est une souris brune!§"/>
+        <subtitle lang="in" line="वह एक चूहा है!मेरा भाई एक चूहा है!मेरा भाई एक भूरे रंग का चूहा है!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="770" length="306"/>
+        <highlight index="1" start="1044" length="200"/>
+        <highlight index="2" start="1224" length="443"/>
+        <highlight index="40" start="1973" length="200"/>
+        <highlight index="41" start="2227" length="369"/>
+        <highlight index="42" start="2680" length="253"/>
+        <highlight index="43" start="2892" length="191"/>
+        <highlight index="44" start="3029" length="496"/>
+        <highlight index="85" start="4126" length="200"/>
+        <highlight index="86" start="4285" length="475"/>
+        <highlight index="87" start="4918" length="200"/>
+        <highlight index="88" start="5108" length="200"/>
+        <highlight index="89" start="5287" length="444"/>
+        <highlight index="90" start="5720" length="792"/>
+      </highlights>
+    </line>
+    <line words="§Here is my dad.                                         His name is Peter.                                      1 2 3 4 5 6 7 8 9 10!§" start="66330" length="9526" useLNutResource="true" useStoryResource="false" image="1#4#4">
+      <subtitles>
+        <subtitle lang="cd" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="cn" line="这是我的爸爸.他的名字是彼得.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="ml" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ne" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="pyi" line="这是我的爸爸.他的名字是彼得.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="mx" line="§Él es mi papá. Se llama Pedro. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Her er min far.                                                                        Han hedder Peter.                                                                        1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="هذا أبي .واسمه بيتر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="sn" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ht" line="Men papa m.  Li rele Pyè. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="هذا أبي .واسمه بيتر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="bi" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ci" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="lbr" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ja" line="こちらは、僕のお父さん。彼の名前は、ピーターです。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="lba" line="هذا أبي .واسمه بيتر١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="cl" line="§Él es mi papá. Se llama Pedro. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="bf" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dj" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="nl" line="§Hier is mijn vader. Zijn naam is Peter.                                                               1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="mg" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="pt" line="Aqui está o meu pai.O nome dele é Pedro.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="cm" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ga" line="§Voici mon père. Il s’appelle Pierre. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="in" line="यह मेरे पिता हैं।इनका नाम पीटर है।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="710" length="269"/>
+        <highlight index="1" start="933" length="227"/>
+        <highlight index="2" start="1127" length="200"/>
+        <highlight index="3" start="1281" length="390"/>
+        <highlight index="44" start="2534" length="200"/>
+        <highlight index="45" start="2729" length="223"/>
+        <highlight index="46" start="3007" length="298"/>
+        <highlight index="47" start="3272" length="571"/>
+        <highlight index="85" start="4623" length="278"/>
+        <highlight index="86" start="5194" length="278"/>
+        <highlight index="87" start="5876" length="223"/>
+        <highlight index="88" start="6210" length="298"/>
+        <highlight index="89" start="6531" length="367"/>
+        <highlight index="90" start="7450" length="265"/>
+        <highlight index="91" start="7673" length="307"/>
+        <highlight index="92" start="7951" length="320"/>
+        <highlight index="93" start="8202" length="362"/>
+        <highlight index="94" start="8578" length="418"/>
+      </highlights>
+    </line>
+    <line words="§He’s a duck!                                  My dad is a duck!                            My dad is a grey duck!§" start="75806" length="7019" useLNutResource="true" useStoryResource="false" image="5#2#9">
+      <subtitles>
+        <subtitle lang="cd" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="cn" line="他是一只鸭子!我的爸爸是一只鸭子!我的爸爸是一只灰鸭!"/>
+        <subtitle lang="ml" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="ne" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="pyi" line="他是一只鸭子!我的爸爸是一只鸭子!我的爸爸是一只灰鸭!"/>
+        <subtitle lang="mx" line="§¡El es un pato! ¡Mi papá es un pato! ¡Mi papá es un pato gris!§"/>
+        <subtitle lang="dk" line="§Han er en and!                                                        Min far er en and!                                                        Min far er en grå and!§"/>
+        <subtitle lang="me" line="انه بطة!أبي بطة!أبي بطة رمادية!&#x9;"/>
+        <subtitle lang="sn" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="ht" line="Li se yon kanna! Papa mwen se yon kanna! Papa mwen se yon kanna gri!"/>
+        <subtitle lang="saa" line="انه بطة!أبي بطة!أبي بطة رمادية!&#x9;"/>
+        <subtitle lang="bi" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="ci" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="lbr" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="ja" line="彼は、カモ!僕のお父さんは、カモだよ!僕のお父さんは、灰色のカモだ!"/>
+        <subtitle lang="bj" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="lba" line="انه بطة!أبي بطة!أبي بطة رمادية!&#x9;"/>
+        <subtitle lang="cl" line="§¡El es un pato! ¡Mi papá es un pato! ¡Mi papá es un pato gris!§"/>
+        <subtitle lang="tg" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="bf" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="dj" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="nl" line="§Hij is een eend! Mijn vader is een eend! Mijn vader is een grijze eend!§"/>
+        <subtitle lang="mg" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="pt" line="Ele é um pato!Meu pai é um pato!Meu pai é um pato cinza!"/>
+        <subtitle lang="fr" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="cm" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="ga" line="§C’est un canard! Mon père est un canard! Mon père est un canard gris!§"/>
+        <subtitle lang="in" line="वह एक बतख है!मेरे पिताजी एक बतख हैं!मेरे पिताजी एक स्लेटी रंग की बतख हैं!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="708" length="200"/>
+        <highlight index="1" start="882" length="200"/>
+        <highlight index="2" start="1056" length="339"/>
+        <highlight index="36" start="2226" length="200"/>
+        <highlight index="37" start="2442" length="246"/>
+        <highlight index="38" start="2760" length="200"/>
+        <highlight index="39" start="2924" length="200"/>
+        <highlight index="40" start="3119" length="339"/>
+        <highlight index="68" start="4360" length="200"/>
+        <highlight index="69" start="4525" length="369"/>
+        <highlight index="70" start="4925" length="200"/>
+        <highlight index="71" start="5130" length="200"/>
+        <highlight index="72" start="5325" length="278"/>
+        <highlight index="73" start="5684" length="349"/>
+      </highlights>
+    </line>
+    <line words="§Now for me.                                                                    1 2 3 4 5 6 7 8 9 10!§" start="82341" length="6920" useLNutResource="true" useStoryResource="false" image="2#3#1">
+      <subtitles>
+        <subtitle lang="cd" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cn" line="现在是轮到我一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="ml" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ne" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pyi" line="现在是轮到我一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="mx" line="§Ahora yo. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Nu mig selv.                                                            1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="الآن دوري.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="sn" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ht" line="Kou pa m kounye a 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="الآن دوري.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="bi" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ci" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lbr" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ja" line="さぁ、僕の番だ。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="lba" line="الآن دوري.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="cl" line="§Ahora yo. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="bf" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="dj" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="nl" line="En nu ik.                                                                                               1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mg" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="pt" line="Agora para mim.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="cm" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="ga" line="§Maintenant, à mon tour. 1 2 3 4 5 6 7 8 9 10 !§"/>
+        <subtitle lang="in" line="अब मेरे लिए।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="627" length="200"/>
+        <highlight index="1" start="819" length="200"/>
+        <highlight index="2" start="1011" length="415"/>
+        <highlight index="70" start="2195" length="304"/>
+        <highlight index="71" start="2802" length="291"/>
+        <highlight index="72" start="3338" length="200"/>
+        <highlight index="73" start="3813" length="200"/>
+        <highlight index="74" start="4137" length="344"/>
+        <highlight index="75" start="4835" length="200"/>
+        <highlight index="76" start="5219" length="200"/>
+        <highlight index="77" start="5553" length="200"/>
+        <highlight index="78" start="5897" length="200"/>
+        <highlight index="79" start="6211" length="415"/>
+      </highlights>
+    </line>
+    <line words="§I’m a rabbit!                                                 I’m a red rabbit!§" start="89311" length="4412" useLNutResource="true" useStoryResource="false" image="5#3#7">
+      <subtitles>
+        <subtitle lang="cd" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="cn" line="我是一只兔子!我是一只红兔子!"/>
+        <subtitle lang="ml" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="ne" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="pyi" line="我是一只兔子!我是一只红兔子!"/>
+        <subtitle lang="mx" line="§¡Soy un conejo! ¡Soy un conejo rojo!§"/>
+        <subtitle lang="dk" line="§Jeg er en kanin!                                                                                    Jeg er en rød kanin!§"/>
+        <subtitle lang="me" line="أنا أرنب!أنا أرنب أحمر!"/>
+        <subtitle lang="sn" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="ht" line="Mwen se yon lapen! Mwen se yon lapen wouj!"/>
+        <subtitle lang="saa" line="أنا أرنب!أنا أرنب أحمر!"/>
+        <subtitle lang="bi" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="ci" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="lbr" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="ja" line="僕は、ウサギ!僕は、赤いウサギだ!"/>
+        <subtitle lang="bj" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="lba" line="أنا أرنب!أنا أرنب أحمر!"/>
+        <subtitle lang="cl" line="§¡Soy un conejo! ¡Soy un conejo rojo!§"/>
+        <subtitle lang="tg" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="bf" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="dj" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="nl" line="§Ik ben een konijn! Ik ben een rood konijn!§"/>
+        <subtitle lang="mg" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="pt" line="Eu sou um coelho!Eu sou um coelho vermelho!"/>
+        <subtitle lang="fr" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="cm" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="ga" line="§Je suis un lapin! Je suis un lapin rouge!§"/>
+        <subtitle lang="in" line="मैं एक खरगोश हूँ!मैं एक लाल रंग का खरगोश हूँ!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="644" length="200"/>
+        <highlight index="1" start="851" length="200"/>
+        <highlight index="2" start="1096" length="548"/>
+        <highlight index="51" start="1960" length="297"/>
+        <highlight index="52" start="2238" length="200"/>
+        <highlight index="53" start="2476" length="278"/>
+        <highlight index="54" start="2986" length="580"/>
+      </highlights>
+    </line>
+    <line words="§Now for you.                                              1 2 3 4 5 6 7 8 9 10!§" start="93777" length="7320" useLNutResource="true" useStoryResource="false" image="2#6#4">
+      <subtitles>
+        <subtitle lang="cd" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="cn" line="现在轮到你了.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="ml" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ne" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="pyi" line="现在轮到你了.一，二，三，四，五，六，七，八，九，十!"/>
+        <subtitle lang="mx" line="§Ahora tú. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dk" line="§Nu dig.                                                                                            1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="me" line="الآن دورك.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="sn" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ht" line="Kou pa ou kounye a 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="saa" line="الآن دورك.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="bi" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ci" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="lbr" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ja" line="さぁ、君の番だよ。1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bj" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="lba" line="الآن دورك.١٠٩٨٧٦٥٤٣٢١"/>
+        <subtitle lang="cl" line="§Ahora tú. ¡1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="tg" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="bf" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="dj" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="nl" line="§En nu jij.                                                                                                                 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="mg" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="pt" line="Agora para você.1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="cm" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="ga" line="§A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!§"/>
+        <subtitle lang="in" line="अब आपके लिए।1 2 3 4 5 6 7 8 9 10!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="342" length="200"/>
+        <highlight index="1" start="631" length="200"/>
+        <highlight index="2" start="909" length="200"/>
+        <highlight index="48" start="2097" length="285"/>
+        <highlight index="49" start="2664" length="200"/>
+        <highlight index="50" start="3306" length="200"/>
+        <highlight index="51" start="3691" length="200"/>
+        <highlight index="52" start="4012" length="332"/>
+        <highlight index="53" start="4729" length="321"/>
+        <highlight index="54" start="5147" length="200"/>
+        <highlight index="55" start="5403" length="200"/>
+        <highlight index="56" start="5703" length="200"/>
+        <highlight index="57" start="6099" length="535"/>
+      </highlights>
+    </line>
+    <line words="§What are you?§" start="100856" length="5014" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="cd" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="cn" line="你是什么?"/>
+        <subtitle lang="ml" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="ne" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="pyi" line="你是什么?"/>
+        <subtitle lang="mx" line="§¿Qué eres tú?§"/>
+        <subtitle lang="dk" line="§Hvad er du?§"/>
+        <subtitle lang="me" line="وأنت ماذا ؟&#x9;"/>
+        <subtitle lang="sn" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="ht" line="Kisa ou ye?"/>
+        <subtitle lang="saa" line="وأنت ماذا ؟&#x9;"/>
+        <subtitle lang="bi" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="ci" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="lbr" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="ja" line="君は、なに？"/>
+        <subtitle lang="bj" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="lba" line="وأنت ماذا ؟&#x9;"/>
+        <subtitle lang="cl" line="§¿Qué eres tú?§"/>
+        <subtitle lang="tg" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="bf" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="dj" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="nl" line="§Wat ben jij?§"/>
+        <subtitle lang="mg" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="pt" line="O que você é?"/>
+        <subtitle lang="fr" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="cm" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="ga" line="§Qu’est-ce que tu es?§"/>
+        <subtitle lang="in" line="आप क्या हो?"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="542" length="200"/>
+        <highlight index="1" start="732" length="200"/>
+        <highlight index="2" start="923" length="455"/>
+      </highlights>
+    </line>
+    <line words="The End" start="112211" length="4212" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="ci" line="Fin"/>
+        <subtitle lang="lbr" line="Fin"/>
+        <subtitle lang="mx" line="Fin"/>
+        <subtitle lang="cd" line="Fin"/>
+        <subtitle lang="bj" line="Fin"/>
+        <subtitle lang="nl" line="Einde"/>
+        <subtitle lang="dk" line="Slut."/>
+        <subtitle lang="cl" line="Fin"/>
+        <subtitle lang="tg" line="Fin"/>
+        <subtitle lang="bf" line="Fin"/>
+        <subtitle lang="fr" line="Fin"/>
+        <subtitle lang="cm" line="Fin"/>
+        <subtitle lang="ne" line="Fin"/>
+        <subtitle lang="mg" line="Fin"/>
+        <subtitle lang="sn" line="Fin"/>
+        <subtitle lang="dj" line="Fin"/>
+        <subtitle lang="ga" line="Fin"/>
+        <subtitle lang="ml" line="Fin"/>
+        <subtitle lang="bi" line="Fin"/>
+      </subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

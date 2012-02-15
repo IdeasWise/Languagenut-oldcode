@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="106109" >
+	<lines>
+		<line words="I went to the park, the theme park" start="4513" length="4255" >
+			<highlight index="0" start="176" length="337" />
+			<highlight index="1" start="491" length="315" />
+			<highlight index="2" start="790" length="200" />
+			<highlight index="3" start="983" length="282" />
+			<highlight index="4" start="1326" length="502" />
+			<highlight index="5" start="2226" length="332" />
+			<highlight index="6" start="2536" length="525" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="8345" length="4258" >
+			<highlight index="0" start="0" length="433" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="449" />
+			<highlight index="5" start="2421" length="221" />
+			<highlight index="6" start="2632" length="176" />
+			<highlight index="7" start="2792" length="426" />
+			<highlight index="8" start="3201" length="720" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+			</subtitles>
+		</line>
+		<line words="I went to the park, the theme park" start="12603" length="4255" >
+			<highlight index="0" start="110" length="287" />
+			<highlight index="1" start="370" length="419" />
+			<highlight index="2" start="762" length="200" />
+			<highlight index="3" start="950" length="282" />
+			<highlight index="4" start="1210" length="502" />
+			<highlight index="5" start="2226" length="332" />
+			<highlight index="6" start="2536" length="525" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="16350" length="4258" >
+			<highlight index="0" start="0" length="433" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="449" />
+			<highlight index="5" start="2361" length="237" />
+			<highlight index="6" start="2593" length="215" />
+			<highlight index="7" start="2797" length="426" />
+			<highlight index="8" start="3235" length="720" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+			</subtitles>
+		</line>
+		<line words="I went to the park, " start="21119" length="3236" >
+			<highlight index="0" start="651" length="206" />
+			<highlight index="1" start="848" length="384" />
+			<highlight index="2" start="1216" length="200" />
+			<highlight index="3" start="1409" length="282" />
+			<highlight index="4" start="1752" length="502" />
+			<highlight index="5" start="2862" length="205" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging toen naar het park" />
+			</subtitles>
+		</line>
+		<line words="to the theme park" start="23759" length="1788" >
+			<highlight index="0" start="183" length="270" />
+			<highlight index="1" start="450" length="144" />
+			<highlight index="2" start="585" length="387" />
+			<highlight index="3" start="1033" length="490" />
+			<subtitles>
+				<subtitle lang="dk" line="i Tivoli" />
+				<subtitle lang="nl" line="naar het attractiepark" />
+			</subtitles>
+		</line>
+		<line words="I saw the big wheel" start="25547" length="2044" >
+			<highlight index="0" start="228" length="200" />
+			<highlight index="1" start="422" length="252" />
+			<highlight index="2" start="668" length="200" />
+			<highlight index="3" start="865" length="440" />
+			<highlight index="4" start="1297" length="539" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg så pariserhjulet" />
+				<subtitle lang="nl" line="Daar zag ik een reuzenrad" />
+			</subtitles>
+		</line>
+		<line words="And the merry-go-round" start="27676" length="1959" >
+			<highlight index="0" start="198" length="247" />
+			<highlight index="1" start="447" length="163" />
+			<highlight index="2" start="600" length="946" />
+			<subtitles>
+				<subtitle lang="dk" line="Og karrusellen" />
+				<subtitle lang="nl" line="En een draaimolen" />
+			</subtitles>
+		</line>
+		<line words="I saw the rollercoaster" start="29465" length="2384" >
+			<highlight index="0" start="213" length="200" />
+			<highlight index="1" start="414" length="298" />
+			<highlight index="2" start="702" length="254" />
+			<highlight index="3" start="956" length="1006" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg så rutchebanen" />
+				<subtitle lang="nl" line="Er was daar ook een achtbaan " />
+			</subtitles>
+		</line>
+		<line words="and ghost train" start="31594" length="2384" >
+			<highlight index="0" start="365" length="200" />
+			<highlight index="1" start="674" length="480" />
+			<highlight index="2" start="1266" length="656" />
+			<subtitles>
+				<subtitle lang="dk" line="Og spøgelsestoget" />
+				<subtitle lang="nl" line="En een eng spookhuis" />
+			</subtitles>
+		</line>
+		<line words="I felt a little scared" start="33723" length="1618" >
+			<highlight index="0" start="0" length="206" />
+			<highlight index="1" start="195" length="244" />
+			<highlight index="2" start="429" length="211" />
+			<highlight index="3" start="669" length="308" />
+			<highlight index="4" start="976" length="628" />
+			<subtitles>
+				<subtitle lang="dk" line="Som gjorde mig bange" />
+				<subtitle lang="nl" line="Dat ik heel erg eng vond" />
+			</subtitles>
+		</line>
+		<line words="when I saw the skeleton" start="35170" length="2555" >
+			<highlight index="0" start="245" length="229" />
+			<highlight index="1" start="471" length="200" />
+			<highlight index="2" start="656" length="339" />
+			<highlight index="3" start="982" length="253" />
+			<highlight index="4" start="1214" length="736" />
+			<subtitles>
+				<subtitle lang="dk" line="Fordi der var et skelet" />
+				<subtitle lang="nl" line="Want ik zag een skelet " />
+			</subtitles>
+		</line>
+		<line words="I went to the park, the theme park" start="40450" length="4255" >
+			<highlight index="0" start="176" length="299" />
+			<highlight index="1" start="464" length="342" />
+			<highlight index="2" start="790" length="200" />
+			<highlight index="3" start="983" length="282" />
+			<highlight index="4" start="1326" length="502" />
+			<highlight index="5" start="2226" length="332" />
+			<highlight index="6" start="2536" length="525" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="44197" length="4258" >
+			<highlight index="0" start="0" length="433" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="449" />
+			<highlight index="5" start="2554" length="177" />
+			<highlight index="6" start="2703" length="199" />
+			<highlight index="7" start="2880" length="410" />
+			<highlight index="8" start="3273" length="682" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+			</subtitles>
+		</line>
+		<line words="I went to the park, the theme park" start="48541" length="4255" >
+			<highlight index="0" start="110" length="287" />
+			<highlight index="1" start="370" length="419" />
+			<highlight index="2" start="762" length="200" />
+			<highlight index="3" start="950" length="282" />
+			<highlight index="4" start="1210" length="502" />
+			<highlight index="5" start="2226" length="332" />
+			<highlight index="6" start="2536" length="525" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="52288" length="4258" >
+			<highlight index="0" start="49" length="384" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="449" />
+			<highlight index="5" start="2361" length="237" />
+			<highlight index="6" start="2593" length="215" />
+			<highlight index="7" start="2797" length="426" />
+			<highlight index="8" start="3235" length="720" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+			</subtitles>
+		</line>
+		<line words="In the ghost train" start="57567" length="1959" >
+			<highlight index="0" start="256" length="200" />
+			<highlight index="1" start="452" length="232" />
+			<highlight index="2" start="669" length="485" />
+			<highlight index="3" start="1162" length="532" />
+			<subtitles>
+				<subtitle lang="dk" line="I spøgelsestoget" />
+				<subtitle lang="nl" line="In het enge spookhuis" />
+			</subtitles>
+		</line>
+		<line words="it was very dark" start="59782" length="1873" >
+			<highlight index="0" start="0" length="248" />
+			<highlight index="1" start="240" length="346" />
+			<highlight index="2" start="583" length="620" />
+			<highlight index="3" start="1213" length="572" />
+			<subtitles>
+				<subtitle lang="dk" line="var det meget mørkt" />
+				<subtitle lang="nl" line="Vond ik het heel erg eng" />
+			</subtitles>
+		</line>
+		<line words="I saw a white eyed owl" start="61485" length="2299" >
+			<highlight index="0" start="203" length="200" />
+			<highlight index="1" start="379" length="340" />
+			<highlight index="2" start="698" length="200" />
+			<highlight index="3" start="889" length="200" />
+			<highlight index="4" start="1083" length="296" />
+			<highlight index="5" start="1373" length="693" />
+			<subtitles>
+				<subtitle lang="dk" line="jeg så en ugle med hvide øjne" />
+				<subtitle lang="nl" line="Ik zag een grote uil" />
+			</subtitles>
+		</line>
+		<line words="and a big bad wolf" start="63614" length="2044" >
+			<highlight index="0" start="229" length="260" />
+			<highlight index="1" start="476" length="198" />
+			<highlight index="2" start="659" length="365" />
+			<highlight index="3" start="1040" length="309" />
+			<highlight index="4" start="1337" length="508" />
+			<subtitles>
+				<subtitle lang="dk" line="og en stor farlig ulv" />
+				<subtitle lang="nl" line="En een grote wolf" />
+			</subtitles>
+		</line>
+		<line words="A monster did appear" start="65487" length="2214" >
+			<highlight index="0" start="186" length="200" />
+			<highlight index="1" start="373" length="360" />
+			<highlight index="2" start="914" length="322" />
+			<highlight index="3" start="1233" length="624" />
+			<subtitles>
+				<subtitle lang="dk" line="Der var et uhyre" />
+				<subtitle lang="nl" line="Er was een heel eng monster" />
+			</subtitles>
+		</line>
+		<line words="and some nasty rats" start="67531" length="2299" >
+			<highlight index="0" start="200" length="317" />
+			<highlight index="1" start="498" length="328" />
+			<highlight index="2" start="821" length="400" />
+			<highlight index="3" start="1331" length="585" />
+			<subtitles>
+				<subtitle lang="dk" line="og nogle væmmelige rotter" />
+				<subtitle lang="nl" line="Maar ratten waren er niet" />
+			</subtitles>
+		</line>
+		<line words="I heard the clanking chains" start="69405" length="2299" >
+			<highlight index="0" start="214" length="248" />
+			<highlight index="1" start="456" length="209" />
+			<highlight index="2" start="656" length="185" />
+			<highlight index="3" start="835" length="595" />
+			<highlight index="4" start="1427" length="615" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg hørte nogle kæder" />
+				<subtitle lang="nl" line="Ik hoorde kettingen slaan" />
+			</subtitles>
+		</line>
+		<line words="I was very scared" start="71704" length="2044" >
+			<highlight index="0" start="74" length="349" />
+			<highlight index="1" start="414" length="285" />
+			<highlight index="2" start="684" length="387" />
+			<highlight index="3" start="1071" length="749" />
+			<subtitles>
+				<subtitle lang="dk" line="jeg var meget bange" />
+				<subtitle lang="nl" line="Het was echt angstaanjagend" />
+			</subtitles>
+		</line>
+		<line words="I went to the park, the theme park" start="76558" length="4255" >
+			<highlight index="0" start="176" length="337" />
+			<highlight index="1" start="491" length="315" />
+			<highlight index="2" start="790" length="200" />
+			<highlight index="3" start="983" length="282" />
+			<highlight index="4" start="1326" length="502" />
+			<highlight index="5" start="2226" length="288" />
+			<highlight index="6" start="2492" length="569" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="80220" length="4258" >
+			<highlight index="0" start="0" length="433" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="631" />
+			<highlight index="5" start="2416" length="235" />
+			<highlight index="6" start="2620" length="264" />
+			<highlight index="7" start="2853" length="413" />
+			<highlight index="8" start="3235" length="862" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+			</subtitles>
+		</line>
+		<line words="I went to the park, the theme park" start="84478" length="4255" >
+			<highlight index="0" start="176" length="337" />
+			<highlight index="1" start="491" length="315" />
+			<highlight index="2" start="790" length="200" />
+			<highlight index="3" start="983" length="282" />
+			<highlight index="4" start="1326" length="502" />
+			<highlight index="5" start="2226" length="288" />
+			<highlight index="6" start="2492" length="569" />
+			<highlight index="7" start="3044" length="674" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+			</subtitles>
+		</line>
+		<line words="Have you been there too? Did you go too?" start="88310" length="4258" >
+			<highlight index="0" start="0" length="433" />
+			<highlight index="1" start="418" length="302" />
+			<highlight index="2" start="688" length="395" />
+			<highlight index="3" start="1083" length="534" />
+			<highlight index="4" start="1586" length="449" />
+			<highlight index="5" start="2361" length="237" />
+			<highlight index="6" start="2593" length="215" />
+			<highlight index="7" start="2797" length="426" />
+			<highlight index="8" start="3235" length="720" />
+			<subtitles>
+				<subtitle lang="dk" line="Har du også været der? Var du der også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

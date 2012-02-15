@@ -1,0 +1,629 @@
+<?xml version="1.0"?>
+<karaoke length="277655">
+  <lines>
+    <line words="Das ist die Geschichte von einem Jungen." start="0" length="4000" useLNutResource="true" useStoryResource="false" image="6#3#10">
+      <subtitles>
+        <subtitle lang="dk" line="Her er historien om en dreng."/>
+        <subtitle lang="en" line="This is the story of a boy"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="501" length="200"/>
+        <highlight index="1" start="694" length="200"/>
+        <highlight index="2" start="900" length="142"/>
+        <highlight index="3" start="1060" length="408"/>
+        <highlight index="4" start="1471" length="200"/>
+        <highlight index="5" start="1667" length="200"/>
+        <highlight index="6" start="1885" length="870"/>
+      </highlights>
+    </line>
+    <line words="Hallo! Wie hei&#xDF;t du? Mein Name ist Jack." start="4010" length="4936" useLNutResource="true" useStoryResource="false" image="6#3#10">
+      <subtitles>
+        <subtitle lang="dk" line="Hej! Hvad hedder du? Jeg hedder Hans."/>
+        <subtitle lang="mx" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/>
+        <subtitle lang="en" line="Hello! What&#x2019;s your name?My name&#x2019;s Jack."/>
+      <subtitle lang="cl" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="es" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="co" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="gt" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="pe" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="ni" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="do" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="bo" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="ve" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="ar" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="cu" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="pr" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="py" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="ec" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="hn" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="sv" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="cr" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/><subtitle lang="pa" line="&#xA7;&#xA1;Hola! &#xBF;C&#xF3;mo te llamas?&#xA7;&#xA7;Me llamo Juan.&#xA7;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="586" length="462"/>
+        <highlight index="1" start="1359" length="200"/>
+        <highlight index="2" start="1570" length="145"/>
+        <highlight index="3" start="1718" length="517"/>
+        <highlight index="4" start="3389" length="236"/>
+        <highlight index="5" start="3634" length="232"/>
+        <highlight index="6" start="3860" length="140"/>
+        <highlight index="7" start="4007" length="541"/>
+      </highlights>
+    </line>
+    <line words="Jack ist arm... Seine Mutter ist arm... Jack und seine Mutter sind arm, sehr arm." start="8638" length="11106" useLNutResource="true" useStoryResource="false" image="6#4#2">
+      <subtitles>
+        <subtitle lang="mx" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/>
+        <subtitle lang="en" line="Jack is poor &#x2026; Mother is poor &#x2026;.Jack and his mother are poor, very poor."/>
+        <subtitle lang="dk" line="Hans er fattig&#x2026; Mor er fattig&#x2026; Hans og hans mor er fattige, meget fattige."/>
+      <subtitle lang="cl" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="es" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="co" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="gt" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="pe" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="ni" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="do" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="bo" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="ve" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="ar" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="cu" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="pr" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="py" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="ec" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="hn" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="sv" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="cr" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/><subtitle lang="pa" line="Juan es pobre... su mam&#xE1; es pobre...Juan y su mam&#xE1; son pobres, muy pobres."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1320" length="200"/>
+        <highlight index="1" start="1519" length="200"/>
+        <highlight index="2" start="1712" length="642"/>
+        <highlight index="3" start="4205" length="239"/>
+        <highlight index="4" start="4444" length="363"/>
+        <highlight index="5" start="4824" length="200"/>
+        <highlight index="6" start="5019" length="545"/>
+        <highlight index="7" start="7059" length="200"/>
+        <highlight index="8" start="7248" length="200"/>
+        <highlight index="9" start="7430" length="370"/>
+        <highlight index="10" start="7786" length="217"/>
+        <highlight index="11" start="7996" length="200"/>
+        <highlight index="12" start="8199" length="699"/>
+        <highlight index="13" start="9956" length="214"/>
+        <highlight index="14" start="10188" length="918"/>
+      </highlights>
+    </line>
+    <line words="Nichts zum Fr&#xFC;hst&#xFC;cken... Nichts zum Mittagessen... Nichts zum Abendessen... Rein gar nichts!" start="19590" length="10335" useLNutResource="true" useStoryResource="false" image="6#4#1">
+      <subtitles>
+        <subtitle lang="dk" line="Ingenting til morgenmad&#x2026; Ingenting til frokost&#x2026; Ingenting til aftensmad&#x2026; Overhovedet ingenting."/>
+        <subtitle lang="mx" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/>
+        <subtitle lang="en" line="Nothing for breakfast ...Nothing for lunch &#x2026;Nothing for supper &#x2026;Nothing at all!"/>
+      <subtitle lang="cl" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="es" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="co" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="gt" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="pe" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="ni" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="do" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="bo" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="ve" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="ar" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="cu" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="pr" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="py" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="ec" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="hn" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="sv" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="cr" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/><subtitle lang="pa" line="Nada para desayunar...Nada para almorzar...Nada para cenar...&#xA1;Nada en absoluto!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1758" length="200"/>
+        <highlight index="1" start="1957" length="200"/>
+        <highlight index="2" start="2157" length="676"/>
+        <highlight index="3" start="4174" length="200"/>
+        <highlight index="4" start="4364" length="200"/>
+        <highlight index="5" start="4568" length="832"/>
+        <highlight index="6" start="6514" length="200"/>
+        <highlight index="7" start="6706" length="200"/>
+        <highlight index="8" start="6892" length="943"/>
+        <highlight index="9" start="8633" length="200"/>
+        <highlight index="10" start="8790" length="207"/>
+        <highlight index="11" start="8976" length="813"/>
+      </highlights>
+    </line>
+    <line words="Seine Mutter sagt: &#xA7;Jack, lass uns die Kuh verkaufen.&#xA7; Muh, muh, muh, muh, muh. &#xA7;Geh zum Markt. Schnell! Schnell!&#xA7;" start="29925" length="16659" useLNutResource="true" useStoryResource="false" image="6#3#4">
+      <subtitles>
+        <subtitle lang="dk" line="Mor siger: &#x201C;Hans, lad os s&#xE6;lge koen.&#x201D; Muh, muh, muh, muh, muh. Tag p&#xE5; marked. Hurtigt! Hurtigt!"/>
+        <subtitle lang="mx" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/>
+        <subtitle lang="en" line="Mother says: &#xA7;Jack, let&#x2019;s sell the cow.&#xA7; Moo, moo, moo, moo, moo. &#xA7;Go to the market. Quick! Quick!&#xA7;"/>
+      <subtitle lang="cl" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="es" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="co" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="gt" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="pe" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="ni" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="do" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="bo" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="ve" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="ar" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="cu" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="pr" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="py" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="ec" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="hn" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="sv" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="cr" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/><subtitle lang="pa" line="Su mam&#xE1; le dice,&#xA7;Juan vamos a vender la vaca.&#xA7;Muuu, muuu, muu, muu, muu.&#xA7;Ve al mercado.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA7;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1736" length="315"/>
+        <highlight index="1" start="2050" length="228"/>
+        <highlight index="2" start="2277" length="615"/>
+        <highlight index="3" start="3761" length="818"/>
+        <highlight index="4" start="4542" length="237"/>
+        <highlight index="5" start="4768" length="245"/>
+        <highlight index="6" start="4994" length="200"/>
+        <highlight index="7" start="5158" length="200"/>
+        <highlight index="8" start="5347" length="773"/>
+        <highlight index="9" start="7403" length="824"/>
+        <highlight index="10" start="8227" length="462"/>
+        <highlight index="11" start="8675" length="1274"/>
+        <highlight index="12" start="10002" length="819"/>
+        <highlight index="13" start="10795" length="921"/>
+        <highlight index="14" start="12984" length="303"/>
+        <highlight index="15" start="13286" length="245"/>
+        <highlight index="16" start="13487" length="1483"/>
+        <highlight index="17" start="15198" length="325"/>
+        <highlight index="18" start="15463" length="758"/>
+      </highlights>
+    </line>
+    <line words="Jack und die Kuh gehen zum Markt. Sie treffen einen alten Mann. &#xA7;Ich m&#xF6;chte eine Kuh kaufen. Hier hast du f&#xFC;nf Zauberbohnen. Eins... Zwei... Drei... Vier... F&#xFC;nf...&#xA7;" start="46121" length="23292" useLNutResource="true" useStoryResource="false" image="6#3#5">
+      <subtitles>
+        <subtitle lang="dk" line="Hans og koen tager p&#xE5; marked. De m&#xF8;der en gammel mand.&#x201D; Jeg vil gerne k&#xF8;be en ko. Her er fem magiske b&#xF8;nner. En&#x2026; to&#x2026; tre&#x2026; fire&#x2026; fem&#x2026;"/>
+        <subtitle lang="mx" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/>
+        <subtitle lang="en" line="Jack and the cow go to the market.They meet an old man. &#x2018;I&#x2019;d like to buy a cow. Here are five magic beans. One &#x2026; two &#x2026; three &#x2026; four &#x2026; five &#x2026;&#x2019;"/>
+      <subtitle lang="cl" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="es" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="co" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="gt" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="pe" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="ni" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="do" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="bo" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="ve" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="ar" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="cu" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="pr" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="py" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="ec" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="hn" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="sv" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="cr" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/><subtitle lang="pa" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.&#xA7;Me gustar&#xED;a comprar una vaca. Tengo cinco porotos m&#xE1;gicos.Uno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;&#xA7;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1389" length="200"/>
+        <highlight index="1" start="1595" length="166"/>
+        <highlight index="2" start="1752" length="124"/>
+        <highlight index="3" start="1879" length="568"/>
+        <highlight index="4" start="2709" length="263"/>
+        <highlight index="5" start="2969" length="200"/>
+        <highlight index="6" start="3175" length="776"/>
+        <highlight index="7" start="5163" length="200"/>
+        <highlight index="8" start="5340" length="363"/>
+        <highlight index="9" start="5694" length="200"/>
+        <highlight index="10" start="5894" length="187"/>
+        <highlight index="11" start="6081" length="998"/>
+        <highlight index="12" start="8228" length="285"/>
+        <highlight index="13" start="8522" length="427"/>
+        <highlight index="14" start="8933" length="200"/>
+        <highlight index="15" start="9142" length="200"/>
+        <highlight index="16" start="9318" length="1309"/>
+        <highlight index="17" start="10797" length="274"/>
+        <highlight index="18" start="11071" length="197"/>
+        <highlight index="19" start="11279" length="200"/>
+        <highlight index="20" start="11444" length="481"/>
+        <highlight index="21" start="11925" length="1523"/>
+        <highlight index="22" start="14389" length="1656"/>
+        <highlight index="23" start="16012" length="1480"/>
+        <highlight index="24" start="17508" length="1555"/>
+        <highlight index="25" start="19067" length="1077"/>
+        <highlight index="26" start="20192" length="1410"/>
+      </highlights>
+    </line>
+    <line words="Aber seine Mutter sagt, &#xA7;Du bist wirklich dumm.&#xA7; Sie nimmt die Bohnen... Die Zauberbohnen. Eins... Zwei... Drei... Vier... F&#xFC;nf... Und sie wirft sie weg." start="69259" length="18665" useLNutResource="true" useStoryResource="false" image="6#3#5">
+      <subtitles>
+        <subtitle lang="dk" line="Men mor siger: &#x201C;Du er virkelig dum!&#x201D; Hun tager b&#xF8;nnerne&#x2026; de magiske b&#xF8;nner&#x2026; En&#x2026; to&#x2026; tre&#x2026; fire&#x2026; fem&#x2026; Og smider dem v&#xE6;k."/>
+        <subtitle lang="mx" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/>
+        <subtitle lang="en" line="But mother says, &#x2018;You are really stupid!&#x2019; She takes the beans &#x2026;. the magic beans &#x2026;One &#x2026; two &#x2026; three &#x2026; four &#x2026; five &#x2026;And she throws them away."/>
+      <subtitle lang="cl" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="es" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="co" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="gt" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="pe" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="ni" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="do" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="bo" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="ve" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="ar" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="cu" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="pr" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="py" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="ec" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="hn" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="sv" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="cr" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/><subtitle lang="pa" line="Pero la madre le dice,&#xA7;En verdad eres tonto.&#xA7;Toma los porotos... los porotos m&#xE1;gicosUno&#x2026; dos&#x2026; tres&#x2026; cuatro&#x2026; cinco&#x2026;Y los tira lejos."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="148" length="200"/>
+        <highlight index="1" start="347" length="142"/>
+        <highlight index="2" start="486" length="339"/>
+        <highlight index="3" start="821" length="389"/>
+        <highlight index="4" start="1718" length="200"/>
+        <highlight index="5" start="1915" length="200"/>
+        <highlight index="6" start="2111" length="396"/>
+        <highlight index="7" start="2513" length="541"/>
+        <highlight index="8" start="3784" length="200"/>
+        <highlight index="9" start="3982" length="200"/>
+        <highlight index="10" start="4176" length="200"/>
+        <highlight index="11" start="4383" length="491"/>
+        <highlight index="12" start="5396" length="200"/>
+        <highlight index="13" start="5585" length="1024"/>
+        <highlight index="14" start="7706" length="1248"/>
+        <highlight index="15" start="8922" length="1447"/>
+        <highlight index="16" start="10348" length="1510"/>
+        <highlight index="17" start="11837" length="1436"/>
+        <highlight index="18" start="13284" length="1565"/>
+        <highlight index="19" start="15737" length="272"/>
+        <highlight index="20" start="15976" length="192"/>
+        <highlight index="21" start="16184" length="191"/>
+        <highlight index="22" start="16375" length="200"/>
+        <highlight index="23" start="16551" length="1692"/>
+      </highlights>
+    </line>
+    <line words="Aber in der Nacht w&#xE4;chst eine Zauber Bohnenstaude. Und sie w&#xE4;chst... Und w&#xE4;chst... Und w&#xE4;chst... Oh!" start="87924" length="9872" useLNutResource="true" useStoryResource="false" image="6#3#1">
+      <subtitles>
+        <subtitle lang="dk" line="Men midt om natten vokser der en magisk b&#xF8;nnestage op. Den vokser&#x2026; og vikser&#x2026; og vokser&#x2026; Oh!"/>
+        <subtitle lang="mx" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/>
+        <subtitle lang="en" line="But during the night, a magic beanstalk grows. And grows &#x2026; and grows &#x2026; and grows &#x2026;Oh!"/>
+      <subtitle lang="cl" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="es" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="co" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="gt" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="pe" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="ni" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="do" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="bo" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="ve" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="ar" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="cu" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="pr" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="py" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="ec" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="hn" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="sv" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="cr" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/><subtitle lang="pa" line="Pero durante la noche, un tallo del poroto m&#xE1;gico crece y crece&#x2026; y crece&#x2026; y crece&#x2026;&#xA1;Ooooh!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="235" length="200"/>
+        <highlight index="1" start="428" length="142"/>
+        <highlight index="2" start="583" length="200"/>
+        <highlight index="3" start="782" length="523"/>
+        <highlight index="4" start="1682" length="200"/>
+        <highlight index="5" start="1876" length="296"/>
+        <highlight index="6" start="2175" length="338"/>
+        <highlight index="7" start="2501" length="897"/>
+        <highlight index="8" start="3984" length="163"/>
+        <highlight index="9" start="4142" length="200"/>
+        <highlight index="10" start="4329" length="377"/>
+        <highlight index="11" start="5074" length="200"/>
+        <highlight index="12" start="5261" length="396"/>
+        <highlight index="13" start="6203" length="200"/>
+        <highlight index="14" start="6383" length="658"/>
+        <highlight index="15" start="7841" length="1381"/>
+      </highlights>
+    </line>
+    <line words="Jack klettert die Zauber Bohnenstaude hinauf. Er klettert... Und klettert... Und klettert... hoch hinauf zum Himmel. Jack sieht ein Schloss. Klopf, Klopf, Klopf, Klopf, Klopf ...&#xA7;Ist da Jemand?&#xA7;" start="97642" length="21286" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske b&#xF8;nnestage. Han klatrer&#x2026; han klatrer&#x2026; og han klatrer&#x2026; Lige op i himlen. Hans ser et k&#xE6;mpestort slot. Banke, banke, banke, banke, banke p&#xE5;&#x2026;&#x201D;Er her nogen?&#x201D;"/>
+        <subtitle lang="mx" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/>
+        <subtitle lang="en" line="Jack climbs the magic beanstalk.He climbs &#x2026; he climbs &#x2026; and he climbs &#x2026;right up to the sky. Jack sees a huge castle.Knock, knock, knock, knock, knock &#x2026;&#x2018;Is anybody there?&#x2019;"/>
+      <subtitle lang="cl" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="es" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="co" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="gt" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="pe" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="ni" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="do" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="bo" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="ve" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="ar" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="cu" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="pr" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="py" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="ec" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="hn" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="sv" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="cr" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/><subtitle lang="pa" line="Juan trepa el tallo de poroto.&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.&#xA7;&#xBF;Hay alguien ah&#xED;?&#xA7;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1030" length="546"/>
+        <highlight index="1" start="1583" length="549"/>
+        <highlight index="2" start="2141" length="200"/>
+        <highlight index="3" start="2356" length="962"/>
+        <highlight index="4" start="3540" length="1089"/>
+        <highlight index="5" start="6523" length="200"/>
+        <highlight index="6" start="6730" length="472"/>
+        <highlight index="7" start="7605" length="200"/>
+        <highlight index="8" start="7787" length="509"/>
+        <highlight index="9" start="8667" length="200"/>
+        <highlight index="10" start="8845" length="522"/>
+        <highlight index="11" start="9951" length="310"/>
+        <highlight index="12" start="10243" length="222"/>
+        <highlight index="13" start="10456" length="248"/>
+        <highlight index="14" start="10722" length="1044"/>
+        <highlight index="15" start="12231" length="328"/>
+        <highlight index="16" start="12538" length="200"/>
+        <highlight index="17" start="12746" length="200"/>
+        <highlight index="18" start="12932" length="1285"/>
+        <highlight index="19" start="15038" length="1098"/>
+        <highlight index="20" start="16121" length="491"/>
+        <highlight index="21" start="16583" length="694"/>
+        <highlight index="22" start="17650" length="548"/>
+        <highlight index="23" start="18188" length="808"/>
+        <highlight index="24" start="20001" length="247"/>
+        <highlight index="25" start="20206" length="257"/>
+        <highlight index="26" start="20385" length="901"/>
+      </highlights>
+    </line>
+    <line words="Jack geht in das Schloss. Er sieht ein paar Goldm&#xFC;nzen, ein Huhn und eine Zauberharfe." start="118774" length="9564" useLNutResource="true" useStoryResource="false" image="6#3#6">
+      <subtitles>
+        <subtitle lang="dk" line="Hans g&#xE5;r ind p&#xE5; slottet. Han ser nogle guldm&#xF8;nter, En h&#xF8;ne og en magisk harpe."/>
+        <subtitle lang="mx" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/>
+        <subtitle lang="en" line="Jack enters the castle. He sees some gold coins, a hen and a magic harp."/>
+      <subtitle lang="cl" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="es" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="co" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="gt" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="pe" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="ni" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="do" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="bo" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="ve" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="ar" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="cu" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="pr" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="py" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="ec" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="hn" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="sv" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="cr" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/><subtitle lang="pa" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa m&#xE1;gica"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1465" length="386"/>
+        <highlight index="1" start="1839" length="200"/>
+        <highlight index="2" start="2039" length="127"/>
+        <highlight index="3" start="2166" length="112"/>
+        <highlight index="4" start="2277" length="611"/>
+        <highlight index="5" start="4469" length="163"/>
+        <highlight index="6" start="4636" length="200"/>
+        <highlight index="7" start="4827" length="200"/>
+        <highlight index="8" start="5003" length="200"/>
+        <highlight index="9" start="5197" length="912"/>
+        <highlight index="10" start="6669" length="200"/>
+        <highlight index="11" start="6869" length="467"/>
+        <highlight index="12" start="7730" length="108"/>
+        <highlight index="13" start="7838" length="243"/>
+        <highlight index="14" start="8081" length="1244"/>
+      </highlights>
+    </line>
+    <line words="Da erscheint der Riese. Der gro&#xDF;e, gro&#xDF;e, gro&#xDF;e Riese. Jack versteckt sich. &#xA7;Ich rieche einen Jungen!&#xA7; Aber er findet Jack nicht." start="128029" length="13883" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="dk" line="K&#xE6;mpen kommer frem. Den store, store, store k&#xE6;mpe. Hans gemmer sig. &#x201D;Jeg kan lugte en dreng!&#x201D; Men han finder ikke Hans."/>
+        <subtitle lang="mx" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+        <subtitle lang="en" line="The giant appears. The big, big big giant. Jack, hides. &#xA7;I smell a boy!&#xA7; But he doesn&#x2019;t find Jack."/>
+      <subtitle lang="cl" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="es" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="co" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="gt" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pe" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ni" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="do" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="bo" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ve" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ar" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cu" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pr" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="py" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ec" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="hn" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="sv" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cr" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pa" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="990" length="200"/>
+        <highlight index="1" start="1187" length="384"/>
+        <highlight index="2" start="1561" length="200"/>
+        <highlight index="3" start="1755" length="655"/>
+        <highlight index="4" start="3280" length="200"/>
+        <highlight index="5" start="3474" length="497"/>
+        <highlight index="6" start="3951" length="509"/>
+        <highlight index="7" start="4452" length="481"/>
+        <highlight index="8" start="4920" length="1065"/>
+        <highlight index="9" start="7380" length="188"/>
+        <highlight index="10" start="7551" length="449"/>
+        <highlight index="11" start="8000" length="554"/>
+        <highlight index="12" start="9061" length="200"/>
+        <highlight index="13" start="9259" length="297"/>
+        <highlight index="14" start="9536" length="368"/>
+        <highlight index="15" start="9902" length="803"/>
+        <highlight index="16" start="11487" length="326"/>
+        <highlight index="17" start="11790" length="186"/>
+        <highlight index="18" start="11976" length="268"/>
+        <highlight index="19" start="12256" length="327"/>
+        <highlight index="20" start="12592" length="954"/>
+      </highlights>
+    </line>
+    <line words="Der Riese schl&#xE4;ft ein. ZZZZ ZZZZ ZZZZ ZZZZJack beschlie&#xDF;t, hinein zu kriechen. Er nimmt die Goldm&#xFC;nzen." start="141912" length="12186" useLNutResource="true" useStoryResource="false" image="6#3#3">
+      <subtitles>
+        <subtitle lang="mx" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/>
+        <subtitle lang="en" line="The giant falls asleep. ZZZZ ZZZZ ZZZZ ZZZZ Jack decides to creep in. He takes the gold coins."/>
+        <subtitle lang="dk" line="K&#xE6;mpen falder I s&#xF8;vn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind. Han tager guldm&#xF8;nterne."/>
+      <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="es" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="co" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="gt" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="pe" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="ni" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="do" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="bo" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="ve" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="ar" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="cu" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="pr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="py" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="ec" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="hn" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="sv" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="cr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/><subtitle lang="pa" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="619" length="200"/>
+        <highlight index="1" start="812" length="281"/>
+        <highlight index="2" start="1093" length="359"/>
+        <highlight index="3" start="1450" length="674"/>
+        <highlight index="4" start="2485" length="3665"/>
+        <highlight index="5" start="6907" length="200"/>
+        <highlight index="6" start="7119" length="1036"/>
+        <highlight index="7" start="8130" length="457"/>
+        <highlight index="8" start="8579" length="200"/>
+        <highlight index="9" start="8750" length="1068"/>
+        <highlight index="10" start="10169" length="200"/>
+        <highlight index="11" start="10344" length="200"/>
+        <highlight index="12" start="10528" length="200"/>
+        <highlight index="13" start="10731" length="1335"/>
+      </highlights>
+    </line>
+    <line words="Jack rutscht die Bohnenstaude hinunter&#x2026; runter&#x2026; runter&#x2026; runter. Und dann?" start="153944" length="8021" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="dk" line="Hans glider ned af b&#xF8;nnestagen&#x2026; Ned&#x2026; ned&#x2026; ned. Og s&#xE5;?"/>
+        <subtitle lang="mx" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/>
+        <subtitle lang="en" line="Jack slides down the beanstalk &#x2026;down&#x2026; down&#x2026; down. And then?"/>
+      <subtitle lang="cl" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="es" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="co" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="gt" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="pe" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="ni" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="do" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="bo" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="ve" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="ar" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="cu" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="pr" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="py" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="ec" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="hn" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="sv" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="cr" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/><subtitle lang="pa" line="Baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y luego?"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="643" length="556"/>
+        <highlight index="1" start="1214" length="200"/>
+        <highlight index="2" start="1407" length="200"/>
+        <highlight index="3" start="1613" length="549"/>
+        <highlight index="4" start="2144" length="1096"/>
+        <highlight index="5" start="3635" length="750"/>
+        <highlight index="6" start="4408" length="992"/>
+        <highlight index="7" start="5411" length="1141"/>
+        <highlight index="8" start="6981" length="205"/>
+        <highlight index="9" start="7163" length="789"/>
+      </highlights>
+    </line>
+    <line words="Jack klettert auf die ZauberBohnenstaude. Er klettert&#x2026; er klettert&#x2026; hoch hinauf zum Himmel. Und geht in das Schloss. Und er sieht&#x2026; das Huhn&#x2026; und die Zauberharfe." start="161811" length="12957" useLNutResource="true" useStoryResource="false" image="6#3#7">
+      <subtitles>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske b&#xF8;nnestage. Han klatrer&#x2026; han klatrer&#x2026; og han klatrer&#x2026; Lige op i himlen. Hans g&#xE5;r ind p&#xE5; slottet&#x2026; Og han ser&#x2026; h&#xF8;nen&#x2026; og den magiske harpe."/>
+        <subtitle lang="mx" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/>
+        <subtitle lang="en" line="Jack climbs the magic beanstalk. He climbs&#x2026; he climbs&#x2026; right up to the sky. And Jack enters the castle &#x2026;And he sees &#x2026;the hen &#x2026;and the magic harp."/>
+      <subtitle lang="cl" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="es" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="co" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="gt" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="pe" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="ni" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="do" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="bo" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="ve" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="ar" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="cu" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="pr" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="py" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="ec" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="hn" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="sv" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="cr" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/><subtitle lang="pa" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo. Juan entra al castillo&#x2026; y ve... una gallina... y un arpa m&#xE1;gica"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="794" length="200"/>
+        <highlight index="1" start="1009" length="241"/>
+        <highlight index="2" start="1235" length="200"/>
+        <highlight index="3" start="1422" length="200"/>
+        <highlight index="4" start="1616" length="1048"/>
+        <highlight index="5" start="3151" length="370"/>
+        <highlight index="6" start="3483" length="432"/>
+        <highlight index="7" start="4236" length="200"/>
+        <highlight index="8" start="4418" length="448"/>
+        <highlight index="9" start="5392" length="200"/>
+        <highlight index="10" start="5579" length="400"/>
+        <highlight index="11" start="5968" length="200"/>
+        <highlight index="12" start="6154" length="580"/>
+        <highlight index="13" start="7001" length="200"/>
+        <highlight index="14" start="7192" length="140"/>
+        <highlight index="15" start="7332" length="200"/>
+        <highlight index="16" start="7515" length="132"/>
+        <highlight index="17" start="7633" length="792"/>
+        <highlight index="18" start="9084" length="186"/>
+        <highlight index="19" start="9270" length="200"/>
+        <highlight index="20" start="9473" length="602"/>
+        <highlight index="21" start="10828" length="200"/>
+        <highlight index="22" start="11023" length="346"/>
+        <highlight index="23" start="11368" length="200"/>
+        <highlight index="24" start="11523" length="200"/>
+        <highlight index="25" start="11728" length="1127"/>
+      </highlights>
+    </line>
+    <line words="Der Riese erscheint. Der grosse grosse Riese. Jack versteckt sich. &#xA7;Ich rieche einen Jungen.&#xA7; Aber er kann Jack nicht finden." start="174459" length="10798" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="dk" line="K&#xE6;mpen kommer frem.Den store, store, store k&#xE6;mpe.Hans gemmer sig. &#x201D;Jeg kan lugte en dreng!&#x201D; Men han finder ikke Hans."/>
+        <subtitle lang="mx" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+        <subtitle lang="en" line="The giant appears. The big, big giant. Jack hides. &#x2018;I smell a boy.&#x2019; But he doesn&#x2019;t find Jack."/>
+      <subtitle lang="cl" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="es" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="co" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="gt" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pe" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ni" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="do" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="bo" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ve" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ar" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cu" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pr" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="py" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ec" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="hn" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="sv" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cr" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pa" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="876" length="200"/>
+        <highlight index="1" start="1069" length="315"/>
+        <highlight index="2" start="1386" length="701"/>
+        <highlight index="3" start="2422" length="200"/>
+        <highlight index="4" start="2607" length="362"/>
+        <highlight index="5" start="2957" length="369"/>
+        <highlight index="6" start="3317" length="634"/>
+        <highlight index="7" start="4698" length="200"/>
+        <highlight index="8" start="4898" length="479"/>
+        <highlight index="9" start="5349" length="428"/>
+        <highlight index="10" start="6856" length="200"/>
+        <highlight index="11" start="7056" length="291"/>
+        <highlight index="12" start="7336" length="248"/>
+        <highlight index="13" start="7559" length="873"/>
+        <highlight index="14" start="9468" length="200"/>
+        <highlight index="15" start="9664" length="122"/>
+        <highlight index="16" start="9786" length="200"/>
+        <highlight index="17" start="9949" length="200"/>
+        <highlight index="18" start="10145" length="200"/>
+        <highlight index="19" start="10324" length="449"/>
+      </highlights>
+    </line>
+    <line words="Der Riese schl&#xE4;ft ein. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack beschlie&#xDF;t, hinein zu kriechen. Er nimmt das Huhn." start="185257" length="11569" useLNutResource="true" useStoryResource="false" image="6#3#7">
+      <subtitles>
+        <subtitle lang="dk" line="K&#xE6;mpen falder I s&#xF8;vn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind. Han tager h&#xF8;nen."/>
+        <subtitle lang="mx" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/>
+        <subtitle lang="en" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in. He takes the hen."/>
+      <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="es" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="co" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="gt" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="pe" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="ni" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="do" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="bo" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="ve" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="ar" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="cu" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="pr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="py" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="ec" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="hn" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="sv" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="cr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/><subtitle lang="pa" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1752" length="200"/>
+        <highlight index="1" start="1963" length="296"/>
+        <highlight index="2" start="2250" length="200"/>
+        <highlight index="3" start="2447" length="1149"/>
+        <highlight index="4" start="3647" length="3296"/>
+        <highlight index="5" start="7552" length="352"/>
+        <highlight index="6" start="7904" length="338"/>
+        <highlight index="7" start="8227" length="200"/>
+        <highlight index="8" start="8433" length="200"/>
+        <highlight index="9" start="8631" length="1356"/>
+        <highlight index="10" start="10065" length="200"/>
+        <highlight index="11" start="10275" length="200"/>
+        <highlight index="12" start="10485" length="200"/>
+        <highlight index="13" start="10744" length="862"/>
+      </highlights>
+    </line>
+    <line words="Jack rutscht die Bohnenstaude runter &#x2026;runter ...runter &#x2026;runter. Und dann?" start="196672" length="9255" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="dk" line="Hans glider ned af b&#xF8;nnestagen&#x2026; Ned&#x2026; ned&#x2026; ned. Og s&#xE5;?"/>
+        <subtitle lang="mx" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/>
+        <subtitle lang="en" line="Jack slides down the beanstalk&#x2026; down&#x2026; down&#x2026; down. And then?"/>
+      <subtitle lang="cl" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="es" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="co" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="gt" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="pe" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="ni" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="do" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="bo" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="ve" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="ar" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="cu" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="pr" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="py" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="ec" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="hn" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="sv" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="cr" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/><subtitle lang="pa" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.&#xBF;Y despu&#xE9;s?"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1398" length="200"/>
+        <highlight index="1" start="1595" length="200"/>
+        <highlight index="2" start="1800" length="200"/>
+        <highlight index="3" start="1996" length="535"/>
+        <highlight index="4" start="2522" length="595"/>
+        <highlight index="5" start="4395" length="1037"/>
+        <highlight index="6" start="5433" length="908"/>
+        <highlight index="7" start="6394" length="661"/>
+        <highlight index="8" start="7575" length="200"/>
+        <highlight index="9" start="7779" length="640"/>
+      </highlights>
+    </line>
+    <line words="Jack klettert auf die Zauberbohnenstaude. Er klettert &#x2026;er klettert &#x2026;hoch hinauf zum Himmel. Und geht in das Schloss. Und er sieht &#x2026;die Zauberharfe." start="205618" length="15117" useLNutResource="true" useStoryResource="false" image="6#3#9">
+      <subtitles>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske b&#xF8;nnestage. Han klatrer&#x2026; han klatrer&#x2026; og han klatrer&#x2026; Lige op i himlen. Hans g&#xE5;r ind p&#xE5; slottet&#x2026; Og han ser&#x2026; den magiske harpe."/>
+        <subtitle lang="mx" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/>
+        <subtitle lang="en" line="Jack climbs the magic beanstalk. He climbs &#x2026;he climbs &#x2026;right up to the sky. And Jack enters the castle &#x2026;And he sees &#x2026;the magic harp."/>
+      <subtitle lang="cl" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="es" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="co" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="gt" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="pe" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="ni" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="do" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="bo" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="ve" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="ar" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="cu" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="pr" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="py" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="ec" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="hn" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="sv" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="cr" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/><subtitle lang="pa" line="Juan trepa el tallo de porotos&#xC9;l trepa&#x2026; trepa&#x2026; y trepa&#x2026;justo hasta el cielo.Juan entra al castillo&#x2026;y ve... el arpa m&#xE1;gica."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2005" length="200"/>
+        <highlight index="1" start="2208" length="200"/>
+        <highlight index="2" start="2416" length="200"/>
+        <highlight index="3" start="2622" length="200"/>
+        <highlight index="4" start="2815" length="1048"/>
+        <highlight index="5" start="5094" length="192"/>
+        <highlight index="6" start="5279" length="616"/>
+        <highlight index="7" start="6285" length="200"/>
+        <highlight index="8" start="6471" length="577"/>
+        <highlight index="9" start="7458" length="200"/>
+        <highlight index="10" start="7650" length="200"/>
+        <highlight index="11" start="7842" length="200"/>
+        <highlight index="12" start="8016" length="958"/>
+        <highlight index="13" start="9228" length="196"/>
+        <highlight index="14" start="9385" length="200"/>
+        <highlight index="15" start="9581" length="200"/>
+        <highlight index="16" start="9767" length="200"/>
+        <highlight index="17" start="9943" length="1066"/>
+        <highlight index="18" start="11098" length="200"/>
+        <highlight index="19" start="11293" length="200"/>
+        <highlight index="20" start="11450" length="1370"/>
+        <highlight index="21" start="13527" length="253"/>
+        <highlight index="22" start="13753" length="1434"/>
+      </highlights>
+    </line>
+    <line words="Der Riese erscheint. Der grosse, grosse Riese. Jack versteckt sich. &#xA7;Ich rieche einen Jungen.&#xA7; Aber er kann Jack nicht finden." start="220581" length="11877" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="dk" line="K&#xE6;mpen kommer frem. Den store, store, store k&#xE6;mpe. Hans gemmer sig. &#x201D;Jeg kan lugte en dreng!&#x201D; Men han finder ikke Hans."/>
+        <subtitle lang="mx" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+        <subtitle lang="en" line="The giant arrives. The big, big giant. Jack hides. &#xA7;I smell a boy.&#xA7; But he doesn&#x2019;t find Jack."/>
+      <subtitle lang="cl" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="es" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="co" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="gt" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pe" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ni" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="do" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="bo" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ve" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ar" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cu" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pr" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="py" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="ec" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="hn" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="sv" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="cr" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/><subtitle lang="pa" line="El gigante se aparece.El gran, gran giganteJuan se esconde.&#xA7;&#xA1;Huele a ni&#xF1;o!&#xA7;Pero no encuentra a Juan"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1444" length="200"/>
+        <highlight index="1" start="1634" length="265"/>
+        <highlight index="2" start="1891" length="635"/>
+        <highlight index="3" start="3277" length="200"/>
+        <highlight index="4" start="3465" length="434"/>
+        <highlight index="5" start="3888" length="425"/>
+        <highlight index="6" start="4309" length="529"/>
+        <highlight index="7" start="5786" length="200"/>
+        <highlight index="8" start="5952" length="429"/>
+        <highlight index="9" start="6349" length="487"/>
+        <highlight index="10" start="7714" length="200"/>
+        <highlight index="11" start="7926" length="288"/>
+        <highlight index="12" start="8220" length="200"/>
+        <highlight index="13" start="8413" length="889"/>
+        <highlight index="14" start="9587" length="200"/>
+        <highlight index="15" start="9763" length="200"/>
+        <highlight index="16" start="9939" length="200"/>
+        <highlight index="17" start="10115" length="200"/>
+        <highlight index="18" start="10308" length="200"/>
+        <highlight index="19" start="10501" length="1375"/>
+      </highlights>
+    </line>
+    <line words="Der Riese schl&#xE4;ft ein. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack beschlie&#xDF;t, hinein zu kriechen. Er nimmt die Zauberharfe." start="232304" length="14037" useLNutResource="true" useStoryResource="false" image="6#3#9">
+      <subtitles>
+        <subtitle lang="dk" line="K&#xE6;mpen falder I s&#xF8;vn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind. Han tager den magiske harpe."/>
+        <subtitle lang="mx" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/>
+        <subtitle lang="en" line="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in.He takes the magic harp."/>
+      <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="es" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="co" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="gt" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="pe" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="ni" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="do" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="bo" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="ve" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="ar" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="cu" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="pr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="py" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="ec" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="hn" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="sv" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="cr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/><subtitle lang="pa" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa m&#xE1;gica."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1906" length="200"/>
+        <highlight index="1" start="2108" length="353"/>
+        <highlight index="2" start="2456" length="200"/>
+        <highlight index="3" start="2649" length="805"/>
+        <highlight index="4" start="3793" length="3719"/>
+        <highlight index="5" start="7943" length="200"/>
+        <highlight index="6" start="8135" length="353"/>
+        <highlight index="7" start="8473" length="369"/>
+        <highlight index="8" start="8811" length="200"/>
+        <highlight index="9" start="9011" length="1406"/>
+        <highlight index="10" start="11834" length="200"/>
+        <highlight index="11" start="12051" length="200"/>
+        <highlight index="12" start="12240" length="200"/>
+        <highlight index="13" start="12448" length="1524"/>
+      </highlights>
+    </line>
+    <line words="Und das ist das Ende der Geschichte. Aber der Riese wacht auf. Der Riese jagd Jack. Jack rutscht die Bohnenstaude runter&#x2026; runter&#x2026; runter&#x2026; runter... Aber der Riese folgt ihm." start="246187" length="16968" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="dk" line="Og det er slutningen p&#xE5; historien. Men k&#xE6;mpen v&#xE5;gner op. K&#xE6;mpen jagter Hans. Hans glider ned af b&#xF8;nnestagen&#x2026; Ned&#x2026; ned&#x2026;og ned. Men k&#xE6;mpen kommer efter ham."/>
+        <subtitle lang="mx" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/>
+        <subtitle lang="en" line="And this is the end of the story. But the giant wakes up. The giant chases Jack. Jack slides down the beanstalk &#x2026;down&#x2026; down&#x2026; down.... down. But the giant is coming after him."/>
+      <subtitle lang="cl" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="es" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="co" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="gt" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="pe" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="ni" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="do" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="bo" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="ve" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="ar" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="cu" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="pr" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="py" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="ec" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="hn" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="sv" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="cr" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/><subtitle lang="pa" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos&#x2026;abajo... abajo... abajo.Pero el gigante viene tras de &#xE9;l."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1247" length="200"/>
+        <highlight index="1" start="1447" length="200"/>
+        <highlight index="2" start="1658" length="112"/>
+        <highlight index="3" start="1776" length="200"/>
+        <highlight index="4" start="1978" length="142"/>
+        <highlight index="5" start="2120" length="218"/>
+        <highlight index="6" start="2338" length="765"/>
+        <highlight index="7" start="4282" length="189"/>
+        <highlight index="8" start="4461" length="200"/>
+        <highlight index="9" start="4649" length="200"/>
+        <highlight index="10" start="4843" length="200"/>
+        <highlight index="11" start="5043" length="440"/>
+        <highlight index="12" start="6589" length="200"/>
+        <highlight index="13" start="6787" length="200"/>
+        <highlight index="14" start="6989" length="200"/>
+        <highlight index="15" start="7178" length="706"/>
+        <highlight index="16" start="8996" length="200"/>
+        <highlight index="17" start="9210" length="200"/>
+        <highlight index="18" start="9410" length="200"/>
+        <highlight index="19" start="9578" length="452"/>
+        <highlight index="20" start="10014" length="1777"/>
+        <highlight index="21" start="11743" length="1207"/>
+        <highlight index="22" start="12901" length="946"/>
+        <highlight index="23" start="13765" length="750"/>
+        <highlight index="24" start="14483" length="277"/>
+        <highlight index="25" start="14744" length="261"/>
+        <highlight index="26" start="15005" length="342"/>
+        <highlight index="27" start="15249" length="277"/>
+        <highlight index="28" start="15429" length="1468"/>
+      </highlights>
+    </line>
+    <line words="Jack sucht nach einer Axt. Schnell! Schnell! Jack f&#xE5;llt die Bohnenstaude. Schnell! Schnell! Krach!... Der Riese f&#xE5;llt... Krach!" start="263155" length="11569" useLNutResource="true" useStoryResource="false" image="6#4#5">
+      <subtitles>
+        <subtitle lang="dk" line="Hans kigger efter en &#xF8;kseHurtigt! Hurtigt! Hans f&#xE6;lder b&#xF8;nnestagen. Hurtigt! Hurtigt! Bang&#x2026; K&#xE6;mpen falder&#x2026; bang!"/>
+        <subtitle lang="mx" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/>
+        <subtitle lang="en" line="Jack looks for an axe. Quick! Quick! Jack chops down the beanstalk. Quick! Quick! Crash!... The giant falls&#x2026; Crash!"/>
+      <subtitle lang="cl" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="es" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="co" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="gt" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="pe" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="ni" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="do" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="bo" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="ve" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="ar" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="cu" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="pr" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="py" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="ec" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="hn" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="sv" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="cr" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/><subtitle lang="pa" line="Juan busca un hacha.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!Tala el tallo de porotos.&#xA1;R&#xE1;pido!, &#xA1;R&#xE1;pido!&#xA1;Crash!...el gigante cae&#x2026; &#xA1;Crash!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="0" length="468"/>
+        <highlight index="1" start="453" length="401"/>
+        <highlight index="2" start="854" length="200"/>
+        <highlight index="3" start="1045" length="200"/>
+        <highlight index="4" start="1244" length="487"/>
+        <highlight index="5" start="2664" length="347"/>
+        <highlight index="6" start="3005" length="470"/>
+        <highlight index="7" start="4380" length="200"/>
+        <highlight index="8" start="4566" length="336"/>
+        <highlight index="9" start="4884" length="200"/>
+        <highlight index="10" start="5075" length="931"/>
+        <highlight index="11" start="6907" length="571"/>
+        <highlight index="12" start="7457" length="619"/>
+        <highlight index="13" start="8900" length="670"/>
+        <highlight index="14" start="9570" length="200"/>
+        <highlight index="15" start="9760" length="265"/>
+        <highlight index="16" start="10028" length="610"/>
+        <highlight index="17" start="10609" length="784"/>
+      </highlights>
+    </line>
+    <line words="Und das ist das Ende vom Riesen." start="274724" length="3649" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="mx" line="Y &#xE9;ste es el final del gigante."/>
+        <subtitle lang="en" line="And that&#x2019;s the end of the giant."/>
+        <subtitle lang="dk" line="Og s&#xE5; er det slut med den k&#xE6;mpe."/>
+      <subtitle lang="cl" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="es" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="co" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="gt" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="pe" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="ni" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="do" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="bo" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="ve" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="ar" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="cu" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="pr" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="py" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="ec" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="hn" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="sv" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="cr" line="Y &#xE9;ste es el final del gigante."/><subtitle lang="pa" line="Y &#xE9;ste es el final del gigante."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1191" length="124"/>
+        <highlight index="1" start="1312" length="100"/>
+        <highlight index="2" start="1422" length="100"/>
+        <highlight index="3" start="1523" length="100"/>
+        <highlight index="4" start="1623" length="250"/>
+        <highlight index="5" start="1873" length="224"/>
+        <highlight index="6" start="2091" length="503"/>
+      </highlights>
+    </line>
+  </lines>
+</karaoke>

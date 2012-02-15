@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<karaoke length="106501">
+	<lines>
+		<line words="Ich war im Freizeitpark" start="4273" length="4530">
+			<highlight index="0" start="337" length="422"/>
+			<highlight index="1" start="751" length="455"/>
+			<highlight index="2" start="1191" length="541"/>
+			<highlight index="3" start="1735" length="2474"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="8285" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="534"/>
+			<highlight index="3" start="1810" length="479"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también?  ¿fuiste también? "/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="es" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="co" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="gt" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="pe" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="ni" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="do" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="bo" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="ve" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="ar" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="cu" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="pr" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="py" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="ec" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="hn" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="sv" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="cr" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="pa" line="¿fuiste también?  ¿fuiste también? "/><subtitle lang="mx" line="¿fuiste también?  ¿fuiste también? "/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="12024" length="4530">
+			<highlight index="0" start="337" length="422"/>
+			<highlight index="1" start="751" length="455"/>
+			<highlight index="2" start="1191" length="541"/>
+			<highlight index="3" start="1735" length="2474"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="16268" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="534"/>
+			<highlight index="3" start="1810" length="479"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="es" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="co" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="gt" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pe" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ni" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="do" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="bo" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ve" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ar" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cu" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="py" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ec" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="hn" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="sv" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pa" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="mx" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Park" start="21283" length="2376">
+			<highlight index="0" start="365" length="200"/>
+			<highlight index="1" start="551" length="464"/>
+			<highlight index="2" start="1006" length="599"/>
+			<highlight index="3" start="1599" length="543"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc,"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nl" line="Ik ging toen naar het park"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nz" line="I went to the park"/>
+				<subtitle lang="en" line="I went to the park"/>
+				<subtitle lang="us" line="I went to the park"/><subtitle lang="au" line="I went to the park"/><subtitle lang="bz" line="I went to the park"/><subtitle lang="jm" line="I went to the park"/><subtitle lang="tt" line="I went to the park"/><subtitle lang="gy" line="I went to the park"/><subtitle lang="ag" line="I went to the park"/><subtitle lang="dm" line="I went to the park"/><subtitle lang="vc" line="I went to the park"/><subtitle lang="bs" line="I went to the park"/><subtitle lang="ca" line="I went to the park"/><subtitle lang="bd" line="I went to the park"/><subtitle lang="bw" line="I went to the park"/><subtitle lang="fj" line="I went to the park"/><subtitle lang="gm" line="I went to the park"/><subtitle lang="gh" line="I went to the park"/><subtitle lang="gy" line="I went to the park"/><subtitle lang="ke" line="I went to the park"/><subtitle lang="mt" line="I went to the park"/><subtitle lang="mu" line="I went to the park"/><subtitle lang="na" line="I went to the park"/><subtitle lang="ng" line="I went to the park"/><subtitle lang="pk" line="I went to the park"/><subtitle lang="rw" line="I went to the park"/><subtitle lang="ws" line="I went to the park"/><subtitle lang="sl" line="I went to the park"/><subtitle lang="sg" line="I went to the park"/><subtitle lang="sb" line="I went to the park"/><subtitle lang="za" line="I went to the park"/><subtitle lang="tz" line="I went to the park"/><subtitle lang="to" line="I went to the park"/><subtitle lang="ug" line="I went to the park"/><subtitle lang="vu" line="I went to the park"/><subtitle lang="zm" line="I went to the park"/><subtitle lang="zw" line="I went to the park"/><subtitle lang="sco" line="I went to the park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the park"/>
+				<subtitle lang="ine" line="I went to the park"/>
+			</subtitles>
+		</line>
+		<line words="Im Freizeitpark" start="23505" length="1966">
+			<highlight index="0" start="399" length="314"/>
+			<highlight index="1" start="704" length="1038"/>
+			<subtitles>
+				<subtitle lang="fr" line="Au parc d’atrractions"/>
+				<subtitle lang="sp" line="Al parque de atracciones"/>
+				<subtitle lang="nz" line="To the theme park"/>
+				<subtitle lang="dk" line="I Tivoli"/>
+				<subtitle lang="nl" line="Naar het attractiepark"/>
+				<subtitle lang="en" line="To the theme park"/>
+				<subtitle lang="us" line="To the theme park"/><subtitle lang="au" line="To the theme park"/><subtitle lang="bz" line="To the theme park"/><subtitle lang="jm" line="To the theme park"/><subtitle lang="tt" line="To the theme park"/><subtitle lang="gy" line="To the theme park"/><subtitle lang="ag" line="To the theme park"/><subtitle lang="dm" line="To the theme park"/><subtitle lang="vc" line="To the theme park"/><subtitle lang="bs" line="To the theme park"/><subtitle lang="ca" line="To the theme park"/><subtitle lang="bd" line="To the theme park"/><subtitle lang="bw" line="To the theme park"/><subtitle lang="fj" line="To the theme park"/><subtitle lang="gm" line="To the theme park"/><subtitle lang="gh" line="To the theme park"/><subtitle lang="gy" line="To the theme park"/><subtitle lang="ke" line="To the theme park"/><subtitle lang="mt" line="To the theme park"/><subtitle lang="mu" line="To the theme park"/><subtitle lang="na" line="To the theme park"/><subtitle lang="ng" line="To the theme park"/><subtitle lang="pk" line="To the theme park"/><subtitle lang="rw" line="To the theme park"/><subtitle lang="ws" line="To the theme park"/><subtitle lang="sl" line="To the theme park"/><subtitle lang="sg" line="To the theme park"/><subtitle lang="sb" line="To the theme park"/><subtitle lang="za" line="To the theme park"/><subtitle lang="tz" line="To the theme park"/><subtitle lang="to" line="To the theme park"/><subtitle lang="ug" line="To the theme park"/><subtitle lang="vu" line="To the theme park"/><subtitle lang="zm" line="To the theme park"/><subtitle lang="zw" line="To the theme park"/><subtitle lang="sco" line="To the theme park"/>
+				<subtitle lang="cl" line="Al parque de atracciones"/><subtitle lang="es" line="Al parque de atracciones"/><subtitle lang="co" line="Al parque de atracciones"/><subtitle lang="gt" line="Al parque de atracciones"/><subtitle lang="pe" line="Al parque de atracciones"/><subtitle lang="ni" line="Al parque de atracciones"/><subtitle lang="do" line="Al parque de atracciones"/><subtitle lang="bo" line="Al parque de atracciones"/><subtitle lang="ve" line="Al parque de atracciones"/><subtitle lang="ar" line="Al parque de atracciones"/><subtitle lang="cu" line="Al parque de atracciones"/><subtitle lang="pr" line="Al parque de atracciones"/><subtitle lang="py" line="Al parque de atracciones"/><subtitle lang="ec" line="Al parque de atracciones"/><subtitle lang="hn" line="Al parque de atracciones"/><subtitle lang="sv" line="Al parque de atracciones"/><subtitle lang="cr" line="Al parque de atracciones"/><subtitle lang="pa" line="Al parque de atracciones"/><subtitle lang="mx" line="Al parque de atracciones"/>
+				<subtitle lang="ae" line="To the theme park"/>
+				<subtitle lang="ine" line="To the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Ich habe das Riesenrad gesehen" start="25300" length="2479">
+			<highlight index="0" start="373" length="200"/>
+			<highlight index="1" start="564" length="200"/>
+			<highlight index="2" start="756" length="300"/>
+			<highlight index="3" start="1044" length="453"/>
+			<highlight index="4" start="1478" length="866"/>
+			<subtitles>
+				<subtitle lang="fr" line="Où j’ai vu la grande roue"/>
+				<subtitle lang="sp" line="Donde vi una noria grande"/>
+				<subtitle lang="nz" line="Where I saw the big wheel"/>
+				<subtitle lang="dk" line="Hvor jeg så pariserhjulet"/>
+				<subtitle lang="nl" line="Daar zag ik een reuzenrad"/>
+				<subtitle lang="en" line="Where I saw the big wheel"/>
+				<subtitle lang="us" line="Where I saw the big wheel"/><subtitle lang="au" line="Where I saw the big wheel"/><subtitle lang="bz" line="Where I saw the big wheel"/><subtitle lang="jm" line="Where I saw the big wheel"/><subtitle lang="tt" line="Where I saw the big wheel"/><subtitle lang="gy" line="Where I saw the big wheel"/><subtitle lang="ag" line="Where I saw the big wheel"/><subtitle lang="dm" line="Where I saw the big wheel"/><subtitle lang="vc" line="Where I saw the big wheel"/><subtitle lang="bs" line="Where I saw the big wheel"/><subtitle lang="ca" line="Where I saw the big wheel"/><subtitle lang="bd" line="Where I saw the big wheel"/><subtitle lang="bw" line="Where I saw the big wheel"/><subtitle lang="fj" line="Where I saw the big wheel"/><subtitle lang="gm" line="Where I saw the big wheel"/><subtitle lang="gh" line="Where I saw the big wheel"/><subtitle lang="gy" line="Where I saw the big wheel"/><subtitle lang="ke" line="Where I saw the big wheel"/><subtitle lang="mt" line="Where I saw the big wheel"/><subtitle lang="mu" line="Where I saw the big wheel"/><subtitle lang="na" line="Where I saw the big wheel"/><subtitle lang="ng" line="Where I saw the big wheel"/><subtitle lang="pk" line="Where I saw the big wheel"/><subtitle lang="rw" line="Where I saw the big wheel"/><subtitle lang="ws" line="Where I saw the big wheel"/><subtitle lang="sl" line="Where I saw the big wheel"/><subtitle lang="sg" line="Where I saw the big wheel"/><subtitle lang="sb" line="Where I saw the big wheel"/><subtitle lang="za" line="Where I saw the big wheel"/><subtitle lang="tz" line="Where I saw the big wheel"/><subtitle lang="to" line="Where I saw the big wheel"/><subtitle lang="ug" line="Where I saw the big wheel"/><subtitle lang="vu" line="Where I saw the big wheel"/><subtitle lang="zm" line="Where I saw the big wheel"/><subtitle lang="zw" line="Where I saw the big wheel"/><subtitle lang="sco" line="Where I saw the big wheel"/>
+				<subtitle lang="cl" line="Donde vi una noria grande"/><subtitle lang="es" line="Donde vi una noria grande"/><subtitle lang="co" line="Donde vi una noria grande"/><subtitle lang="gt" line="Donde vi una noria grande"/><subtitle lang="pe" line="Donde vi una noria grande"/><subtitle lang="ni" line="Donde vi una noria grande"/><subtitle lang="do" line="Donde vi una noria grande"/><subtitle lang="bo" line="Donde vi una noria grande"/><subtitle lang="ve" line="Donde vi una noria grande"/><subtitle lang="ar" line="Donde vi una noria grande"/><subtitle lang="cu" line="Donde vi una noria grande"/><subtitle lang="pr" line="Donde vi una noria grande"/><subtitle lang="py" line="Donde vi una noria grande"/><subtitle lang="ec" line="Donde vi una noria grande"/><subtitle lang="hn" line="Donde vi una noria grande"/><subtitle lang="sv" line="Donde vi una noria grande"/><subtitle lang="cr" line="Donde vi una noria grande"/><subtitle lang="pa" line="Donde vi una noria grande"/><subtitle lang="mx" line="Donde vi una noria grande"/>
+				<subtitle lang="ae" line="Where I saw the big wheel"/>
+				<subtitle lang="ine" line="Where I saw the big wheel"/>
+			</subtitles>
+		</line>
+		<line words="Und das Karussell" start="27693" length="1881">
+			<highlight index="0" start="230" length="200"/>
+			<highlight index="1" start="424" length="225"/>
+			<highlight index="2" start="638" length="915"/>
+			<subtitles>
+				<subtitle lang="fr" line="Et le carousel"/>
+				<subtitle lang="sp" line="Y los caballitos"/>
+				<subtitle lang="nz" line="And the merry-go-round"/>
+				<subtitle lang="dk" line="Og karrusellen"/>
+				<subtitle lang="nl" line="En een draaimolen"/>
+				<subtitle lang="en" line="And the merry-go-round"/>
+				<subtitle lang="us" line="And the merry-go-round"/><subtitle lang="au" line="And the merry-go-round"/><subtitle lang="bz" line="And the merry-go-round"/><subtitle lang="jm" line="And the merry-go-round"/><subtitle lang="tt" line="And the merry-go-round"/><subtitle lang="gy" line="And the merry-go-round"/><subtitle lang="ag" line="And the merry-go-round"/><subtitle lang="dm" line="And the merry-go-round"/><subtitle lang="vc" line="And the merry-go-round"/><subtitle lang="bs" line="And the merry-go-round"/><subtitle lang="ca" line="And the merry-go-round"/><subtitle lang="bd" line="And the merry-go-round"/><subtitle lang="bw" line="And the merry-go-round"/><subtitle lang="fj" line="And the merry-go-round"/><subtitle lang="gm" line="And the merry-go-round"/><subtitle lang="gh" line="And the merry-go-round"/><subtitle lang="gy" line="And the merry-go-round"/><subtitle lang="ke" line="And the merry-go-round"/><subtitle lang="mt" line="And the merry-go-round"/><subtitle lang="mu" line="And the merry-go-round"/><subtitle lang="na" line="And the merry-go-round"/><subtitle lang="ng" line="And the merry-go-round"/><subtitle lang="pk" line="And the merry-go-round"/><subtitle lang="rw" line="And the merry-go-round"/><subtitle lang="ws" line="And the merry-go-round"/><subtitle lang="sl" line="And the merry-go-round"/><subtitle lang="sg" line="And the merry-go-round"/><subtitle lang="sb" line="And the merry-go-round"/><subtitle lang="za" line="And the merry-go-round"/><subtitle lang="tz" line="And the merry-go-round"/><subtitle lang="to" line="And the merry-go-round"/><subtitle lang="ug" line="And the merry-go-round"/><subtitle lang="vu" line="And the merry-go-round"/><subtitle lang="zm" line="And the merry-go-round"/><subtitle lang="zw" line="And the merry-go-round"/><subtitle lang="sco" line="And the merry-go-round"/>
+				<subtitle lang="cl" line="Y los caballitos"/><subtitle lang="es" line="Y los caballitos"/><subtitle lang="co" line="Y los caballitos"/><subtitle lang="gt" line="Y los caballitos"/><subtitle lang="pe" line="Y los caballitos"/><subtitle lang="ni" line="Y los caballitos"/><subtitle lang="do" line="Y los caballitos"/><subtitle lang="bo" line="Y los caballitos"/><subtitle lang="ve" line="Y los caballitos"/><subtitle lang="ar" line="Y los caballitos"/><subtitle lang="cu" line="Y los caballitos"/><subtitle lang="pr" line="Y los caballitos"/><subtitle lang="py" line="Y los caballitos"/><subtitle lang="ec" line="Y los caballitos"/><subtitle lang="hn" line="Y los caballitos"/><subtitle lang="sv" line="Y los caballitos"/><subtitle lang="cr" line="Y los caballitos"/><subtitle lang="pa" line="Y los caballitos"/><subtitle lang="mx" line="Y los caballitos"/>
+				<subtitle lang="ae" line="And the merry-go-round"/>
+				<subtitle lang="ine" line="And the merry-go-round"/>
+			</subtitles>
+		</line>
+		<line words="Ich habe die Achterbahn gesehen" start="29403" length="2478">
+			<highlight index="0" start="340" length="147"/>
+			<highlight index="1" start="478" length="159"/>
+			<highlight index="2" start="624" length="200"/>
+			<highlight index="3" start="812" length="753"/>
+			<highlight index="4" start="1552" length="800"/>
+			<subtitles>
+				<subtitle lang="fr" line="Aussi j’ai vu le grand huit"/>
+				<subtitle lang="sp" line="Y vi la montaña rusa"/>
+				<subtitle lang="nz" line="Also I saw the rollercoaster"/>
+				<subtitle lang="dk" line="Jeg så også rutchebanen"/>
+				<subtitle lang="nl" line="Er was daar ook een achtbaan "/>
+				<subtitle lang="en" line="Also I saw the rollercoaster"/>
+				<subtitle lang="us" line="Also I saw the rollercoaster"/><subtitle lang="au" line="Also I saw the rollercoaster"/><subtitle lang="bz" line="Also I saw the rollercoaster"/><subtitle lang="jm" line="Also I saw the rollercoaster"/><subtitle lang="tt" line="Also I saw the rollercoaster"/><subtitle lang="gy" line="Also I saw the rollercoaster"/><subtitle lang="ag" line="Also I saw the rollercoaster"/><subtitle lang="dm" line="Also I saw the rollercoaster"/><subtitle lang="vc" line="Also I saw the rollercoaster"/><subtitle lang="bs" line="Also I saw the rollercoaster"/><subtitle lang="ca" line="Also I saw the rollercoaster"/><subtitle lang="bd" line="Also I saw the rollercoaster"/><subtitle lang="bw" line="Also I saw the rollercoaster"/><subtitle lang="fj" line="Also I saw the rollercoaster"/><subtitle lang="gm" line="Also I saw the rollercoaster"/><subtitle lang="gh" line="Also I saw the rollercoaster"/><subtitle lang="gy" line="Also I saw the rollercoaster"/><subtitle lang="ke" line="Also I saw the rollercoaster"/><subtitle lang="mt" line="Also I saw the rollercoaster"/><subtitle lang="mu" line="Also I saw the rollercoaster"/><subtitle lang="na" line="Also I saw the rollercoaster"/><subtitle lang="ng" line="Also I saw the rollercoaster"/><subtitle lang="pk" line="Also I saw the rollercoaster"/><subtitle lang="rw" line="Also I saw the rollercoaster"/><subtitle lang="ws" line="Also I saw the rollercoaster"/><subtitle lang="sl" line="Also I saw the rollercoaster"/><subtitle lang="sg" line="Also I saw the rollercoaster"/><subtitle lang="sb" line="Also I saw the rollercoaster"/><subtitle lang="za" line="Also I saw the rollercoaster"/><subtitle lang="tz" line="Also I saw the rollercoaster"/><subtitle lang="to" line="Also I saw the rollercoaster"/><subtitle lang="ug" line="Also I saw the rollercoaster"/><subtitle lang="vu" line="Also I saw the rollercoaster"/><subtitle lang="zm" line="Also I saw the rollercoaster"/><subtitle lang="zw" line="Also I saw the rollercoaster"/><subtitle lang="sco" line="Also I saw the rollercoaster"/>
+				<subtitle lang="cl" line="Y vi la montaña rusa"/><subtitle lang="es" line="Y vi la montaña rusa"/><subtitle lang="co" line="Y vi la montaña rusa"/><subtitle lang="gt" line="Y vi la montaña rusa"/><subtitle lang="pe" line="Y vi la montaña rusa"/><subtitle lang="ni" line="Y vi la montaña rusa"/><subtitle lang="do" line="Y vi la montaña rusa"/><subtitle lang="bo" line="Y vi la montaña rusa"/><subtitle lang="ve" line="Y vi la montaña rusa"/><subtitle lang="ar" line="Y vi la montaña rusa"/><subtitle lang="cu" line="Y vi la montaña rusa"/><subtitle lang="pr" line="Y vi la montaña rusa"/><subtitle lang="py" line="Y vi la montaña rusa"/><subtitle lang="ec" line="Y vi la montaña rusa"/><subtitle lang="hn" line="Y vi la montaña rusa"/><subtitle lang="sv" line="Y vi la montaña rusa"/><subtitle lang="cr" line="Y vi la montaña rusa"/><subtitle lang="pa" line="Y vi la montaña rusa"/><subtitle lang="mx" line="Y vi la montaña rusa"/>
+				<subtitle lang="ae" line="Also I saw the rollercoaster"/>
+				<subtitle lang="ine" line="Also I saw the rollercoaster"/>
+			</subtitles>
+		</line>
+		<line words="Und die Gespensterbahn" start="31710" length="1881">
+			<highlight index="0" start="230" length="200"/>
+			<highlight index="1" start="424" length="225"/>
+			<highlight index="2" start="638" length="915"/>
+			<subtitles>
+				<subtitle lang="fr" line="Et le train fantôme"/>
+				<subtitle lang="sp" line="Y el tren fantasma"/>
+				<subtitle lang="nl" line="En een eng spookhuis"/>
+				<subtitle lang="dk" line="Og spøgelsestoget"/>
+				<subtitle lang="nz" line="And the ghost train"/>
+				<subtitle lang="en" line="And the ghost train"/>
+				<subtitle lang="us" line="And the ghost train"/><subtitle lang="au" line="And the ghost train"/><subtitle lang="bz" line="And the ghost train"/><subtitle lang="jm" line="And the ghost train"/><subtitle lang="tt" line="And the ghost train"/><subtitle lang="gy" line="And the ghost train"/><subtitle lang="ag" line="And the ghost train"/><subtitle lang="dm" line="And the ghost train"/><subtitle lang="vc" line="And the ghost train"/><subtitle lang="bs" line="And the ghost train"/><subtitle lang="ca" line="And the ghost train"/><subtitle lang="bd" line="And the ghost train"/><subtitle lang="bw" line="And the ghost train"/><subtitle lang="fj" line="And the ghost train"/><subtitle lang="gm" line="And the ghost train"/><subtitle lang="gh" line="And the ghost train"/><subtitle lang="gy" line="And the ghost train"/><subtitle lang="ke" line="And the ghost train"/><subtitle lang="mt" line="And the ghost train"/><subtitle lang="mu" line="And the ghost train"/><subtitle lang="na" line="And the ghost train"/><subtitle lang="ng" line="And the ghost train"/><subtitle lang="pk" line="And the ghost train"/><subtitle lang="rw" line="And the ghost train"/><subtitle lang="ws" line="And the ghost train"/><subtitle lang="sl" line="And the ghost train"/><subtitle lang="sg" line="And the ghost train"/><subtitle lang="sb" line="And the ghost train"/><subtitle lang="za" line="And the ghost train"/><subtitle lang="tz" line="And the ghost train"/><subtitle lang="to" line="And the ghost train"/><subtitle lang="ug" line="And the ghost train"/><subtitle lang="vu" line="And the ghost train"/><subtitle lang="zm" line="And the ghost train"/><subtitle lang="zw" line="And the ghost train"/><subtitle lang="sco" line="And the ghost train"/>
+				<subtitle lang="cl" line="Y el tren fantasma"/><subtitle lang="es" line="Y el tren fantasma"/><subtitle lang="co" line="Y el tren fantasma"/><subtitle lang="gt" line="Y el tren fantasma"/><subtitle lang="pe" line="Y el tren fantasma"/><subtitle lang="ni" line="Y el tren fantasma"/><subtitle lang="do" line="Y el tren fantasma"/><subtitle lang="bo" line="Y el tren fantasma"/><subtitle lang="ve" line="Y el tren fantasma"/><subtitle lang="ar" line="Y el tren fantasma"/><subtitle lang="cu" line="Y el tren fantasma"/><subtitle lang="pr" line="Y el tren fantasma"/><subtitle lang="py" line="Y el tren fantasma"/><subtitle lang="ec" line="Y el tren fantasma"/><subtitle lang="hn" line="Y el tren fantasma"/><subtitle lang="sv" line="Y el tren fantasma"/><subtitle lang="cr" line="Y el tren fantasma"/><subtitle lang="pa" line="Y el tren fantasma"/><subtitle lang="mx" line="Y el tren fantasma"/>
+				<subtitle lang="ae" line="And the ghost train"/>
+				<subtitle lang="ine" line="And the ghost train"/>
+			</subtitles>
+		</line>
+		<line words="Die hat mir Angst gemacht" start="33546" length="2222">
+			<highlight index="0" start="375" length="200"/>
+			<highlight index="1" start="571" length="200"/>
+			<highlight index="2" start="759" length="200"/>
+			<highlight index="3" start="958" length="200"/>
+			<highlight index="4" start="1154" length="860"/>
+			<subtitles>
+				<subtitle lang="fr" line="Qui m’a fait du peur"/>
+				<subtitle lang="sp" line="Donde me asusté"/>
+				<subtitle lang="nl" line="Dat ik heel erg eng vond"/>
+				<subtitle lang="dk" line="Som gjorde mig bange"/>
+				<subtitle lang="nz" line="Which made me feel scared"/>
+				<subtitle lang="en" line="Which made me feel scared"/>
+				<subtitle lang="us" line="Which made me feel scared"/><subtitle lang="au" line="Which made me feel scared"/><subtitle lang="bz" line="Which made me feel scared"/><subtitle lang="jm" line="Which made me feel scared"/><subtitle lang="tt" line="Which made me feel scared"/><subtitle lang="gy" line="Which made me feel scared"/><subtitle lang="ag" line="Which made me feel scared"/><subtitle lang="dm" line="Which made me feel scared"/><subtitle lang="vc" line="Which made me feel scared"/><subtitle lang="bs" line="Which made me feel scared"/><subtitle lang="ca" line="Which made me feel scared"/><subtitle lang="bd" line="Which made me feel scared"/><subtitle lang="bw" line="Which made me feel scared"/><subtitle lang="fj" line="Which made me feel scared"/><subtitle lang="gm" line="Which made me feel scared"/><subtitle lang="gh" line="Which made me feel scared"/><subtitle lang="gy" line="Which made me feel scared"/><subtitle lang="ke" line="Which made me feel scared"/><subtitle lang="mt" line="Which made me feel scared"/><subtitle lang="mu" line="Which made me feel scared"/><subtitle lang="na" line="Which made me feel scared"/><subtitle lang="ng" line="Which made me feel scared"/><subtitle lang="pk" line="Which made me feel scared"/><subtitle lang="rw" line="Which made me feel scared"/><subtitle lang="ws" line="Which made me feel scared"/><subtitle lang="sl" line="Which made me feel scared"/><subtitle lang="sg" line="Which made me feel scared"/><subtitle lang="sb" line="Which made me feel scared"/><subtitle lang="za" line="Which made me feel scared"/><subtitle lang="tz" line="Which made me feel scared"/><subtitle lang="to" line="Which made me feel scared"/><subtitle lang="ug" line="Which made me feel scared"/><subtitle lang="vu" line="Which made me feel scared"/><subtitle lang="zm" line="Which made me feel scared"/><subtitle lang="zw" line="Which made me feel scared"/><subtitle lang="sco" line="Which made me feel scared"/>
+				<subtitle lang="cl" line="Donde me asusté"/><subtitle lang="es" line="Donde me asusté"/><subtitle lang="co" line="Donde me asusté"/><subtitle lang="gt" line="Donde me asusté"/><subtitle lang="pe" line="Donde me asusté"/><subtitle lang="ni" line="Donde me asusté"/><subtitle lang="do" line="Donde me asusté"/><subtitle lang="bo" line="Donde me asusté"/><subtitle lang="ve" line="Donde me asusté"/><subtitle lang="ar" line="Donde me asusté"/><subtitle lang="cu" line="Donde me asusté"/><subtitle lang="pr" line="Donde me asusté"/><subtitle lang="py" line="Donde me asusté"/><subtitle lang="ec" line="Donde me asusté"/><subtitle lang="hn" line="Donde me asusté"/><subtitle lang="sv" line="Donde me asusté"/><subtitle lang="cr" line="Donde me asusté"/><subtitle lang="pa" line="Donde me asusté"/><subtitle lang="mx" line="Donde me asusté"/>
+				<subtitle lang="ae" line="Which made me feel scared"/>
+				<subtitle lang="ine" line="Which made me feel scared"/>
+			</subtitles>
+		</line>
+		<line words="Weil dort ein Gerippe war" start="35471" length="2478">
+			<highlight index="0" start="243" length="200"/>
+			<highlight index="1" start="431" length="200"/>
+			<highlight index="2" start="631" length="200"/>
+			<highlight index="3" start="821" length="510"/>
+			<highlight index="4" start="1321" length="700"/>
+			<subtitles>
+				<subtitle lang="fr" line="Car il y avait un squelette"/>
+				<subtitle lang="sp" line="Porque había un esqueleto"/>
+				<subtitle lang="nz" line="Because there was a skeleton"/>
+				<subtitle lang="dk" line="Fordi der var et skelet"/>
+				<subtitle lang="nl" line="Want ik zag een skelet "/>
+				<subtitle lang="en" line="Because there was a skeleton"/>
+				<subtitle lang="us" line="Because there was a skeleton"/><subtitle lang="au" line="Because there was a skeleton"/><subtitle lang="bz" line="Because there was a skeleton"/><subtitle lang="jm" line="Because there was a skeleton"/><subtitle lang="tt" line="Because there was a skeleton"/><subtitle lang="gy" line="Because there was a skeleton"/><subtitle lang="ag" line="Because there was a skeleton"/><subtitle lang="dm" line="Because there was a skeleton"/><subtitle lang="vc" line="Because there was a skeleton"/><subtitle lang="bs" line="Because there was a skeleton"/><subtitle lang="ca" line="Because there was a skeleton"/><subtitle lang="bd" line="Because there was a skeleton"/><subtitle lang="bw" line="Because there was a skeleton"/><subtitle lang="fj" line="Because there was a skeleton"/><subtitle lang="gm" line="Because there was a skeleton"/><subtitle lang="gh" line="Because there was a skeleton"/><subtitle lang="gy" line="Because there was a skeleton"/><subtitle lang="ke" line="Because there was a skeleton"/><subtitle lang="mt" line="Because there was a skeleton"/><subtitle lang="mu" line="Because there was a skeleton"/><subtitle lang="na" line="Because there was a skeleton"/><subtitle lang="ng" line="Because there was a skeleton"/><subtitle lang="pk" line="Because there was a skeleton"/><subtitle lang="rw" line="Because there was a skeleton"/><subtitle lang="ws" line="Because there was a skeleton"/><subtitle lang="sl" line="Because there was a skeleton"/><subtitle lang="sg" line="Because there was a skeleton"/><subtitle lang="sb" line="Because there was a skeleton"/><subtitle lang="za" line="Because there was a skeleton"/><subtitle lang="tz" line="Because there was a skeleton"/><subtitle lang="to" line="Because there was a skeleton"/><subtitle lang="ug" line="Because there was a skeleton"/><subtitle lang="vu" line="Because there was a skeleton"/><subtitle lang="zm" line="Because there was a skeleton"/><subtitle lang="zw" line="Because there was a skeleton"/><subtitle lang="sco" line="Because there was a skeleton"/>
+				<subtitle lang="cl" line="Porque había un esqueleto"/><subtitle lang="es" line="Porque había un esqueleto"/><subtitle lang="co" line="Porque había un esqueleto"/><subtitle lang="gt" line="Porque había un esqueleto"/><subtitle lang="pe" line="Porque había un esqueleto"/><subtitle lang="ni" line="Porque había un esqueleto"/><subtitle lang="do" line="Porque había un esqueleto"/><subtitle lang="bo" line="Porque había un esqueleto"/><subtitle lang="ve" line="Porque había un esqueleto"/><subtitle lang="ar" line="Porque había un esqueleto"/><subtitle lang="cu" line="Porque había un esqueleto"/><subtitle lang="pr" line="Porque había un esqueleto"/><subtitle lang="py" line="Porque había un esqueleto"/><subtitle lang="ec" line="Porque había un esqueleto"/><subtitle lang="hn" line="Porque había un esqueleto"/><subtitle lang="sv" line="Porque había un esqueleto"/><subtitle lang="cr" line="Porque había un esqueleto"/><subtitle lang="pa" line="Porque había un esqueleto"/><subtitle lang="mx" line="Porque había un esqueleto"/>
+				<subtitle lang="ae" line="Because there was a skeleton"/>
+				<subtitle lang="ine" line="Because there was a skeleton"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="40316" length="4530">
+			<highlight index="0" start="337" length="422"/>
+			<highlight index="1" start="751" length="455"/>
+			<highlight index="2" start="1191" length="541"/>
+			<highlight index="3" start="1735" length="2474"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="44446" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="534"/>
+			<highlight index="3" start="1810" length="479"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también? ¿también? ¿también?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="es" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="co" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="gt" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="pe" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="ni" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="do" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="bo" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="ve" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="ar" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="cu" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="pr" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="py" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="ec" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="hn" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="sv" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="cr" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="pa" line="¿fuiste también? ¿también? ¿también?"/><subtitle lang="mx" line="¿fuiste también? ¿también? ¿también?"/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="48292" length="4530">
+			<highlight index="0" start="337" length="422"/>
+			<highlight index="1" start="751" length="455"/>
+			<highlight index="2" start="1191" length="516"/>
+			<highlight index="3" start="1696" length="2513"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="52395" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="489"/>
+			<highlight index="3" start="1755" length="534"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="es" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="co" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="gt" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pe" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ni" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="do" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="bo" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ve" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ar" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cu" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="py" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ec" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="hn" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="sv" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pa" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="mx" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+		<line words="In der Gespensterbahn" start="57609" length="2052">
+			<highlight index="0" start="289" length="200"/>
+			<highlight index="1" start="473" length="200"/>
+			<highlight index="2" start="657" length="818"/>
+			<subtitles>
+				<subtitle lang="fr" line="Dans le train fantôme "/>
+				<subtitle lang="sp" line="En el tren fantasma"/>
+				<subtitle lang="nz" line="In the ghost train"/>
+				<subtitle lang="dk" line="I spøgelsestoget"/>
+				<subtitle lang="nl" line="In het enge spookhuis"/>
+				<subtitle lang="en" line="In the ghost train"/>
+				<subtitle lang="us" line="In the ghost train"/><subtitle lang="au" line="In the ghost train"/><subtitle lang="bz" line="In the ghost train"/><subtitle lang="jm" line="In the ghost train"/><subtitle lang="tt" line="In the ghost train"/><subtitle lang="gy" line="In the ghost train"/><subtitle lang="ag" line="In the ghost train"/><subtitle lang="dm" line="In the ghost train"/><subtitle lang="vc" line="In the ghost train"/><subtitle lang="bs" line="In the ghost train"/><subtitle lang="ca" line="In the ghost train"/><subtitle lang="bd" line="In the ghost train"/><subtitle lang="bw" line="In the ghost train"/><subtitle lang="fj" line="In the ghost train"/><subtitle lang="gm" line="In the ghost train"/><subtitle lang="gh" line="In the ghost train"/><subtitle lang="gy" line="In the ghost train"/><subtitle lang="ke" line="In the ghost train"/><subtitle lang="mt" line="In the ghost train"/><subtitle lang="mu" line="In the ghost train"/><subtitle lang="na" line="In the ghost train"/><subtitle lang="ng" line="In the ghost train"/><subtitle lang="pk" line="In the ghost train"/><subtitle lang="rw" line="In the ghost train"/><subtitle lang="ws" line="In the ghost train"/><subtitle lang="sl" line="In the ghost train"/><subtitle lang="sg" line="In the ghost train"/><subtitle lang="sb" line="In the ghost train"/><subtitle lang="za" line="In the ghost train"/><subtitle lang="tz" line="In the ghost train"/><subtitle lang="to" line="In the ghost train"/><subtitle lang="ug" line="In the ghost train"/><subtitle lang="vu" line="In the ghost train"/><subtitle lang="zm" line="In the ghost train"/><subtitle lang="zw" line="In the ghost train"/><subtitle lang="sco" line="In the ghost train"/>
+				<subtitle lang="cl" line="En el tren fantasma"/><subtitle lang="es" line="En el tren fantasma"/><subtitle lang="co" line="En el tren fantasma"/><subtitle lang="gt" line="En el tren fantasma"/><subtitle lang="pe" line="En el tren fantasma"/><subtitle lang="ni" line="En el tren fantasma"/><subtitle lang="do" line="En el tren fantasma"/><subtitle lang="bo" line="En el tren fantasma"/><subtitle lang="ve" line="En el tren fantasma"/><subtitle lang="ar" line="En el tren fantasma"/><subtitle lang="cu" line="En el tren fantasma"/><subtitle lang="pr" line="En el tren fantasma"/><subtitle lang="py" line="En el tren fantasma"/><subtitle lang="ec" line="En el tren fantasma"/><subtitle lang="hn" line="En el tren fantasma"/><subtitle lang="sv" line="En el tren fantasma"/><subtitle lang="cr" line="En el tren fantasma"/><subtitle lang="pa" line="En el tren fantasma"/><subtitle lang="mx" line="En el tren fantasma"/>
+				<subtitle lang="ae" line="In the ghost train"/>
+				<subtitle lang="ine" line="In the ghost train"/>
+			</subtitles>
+		</line>
+		<line words="Die mir Angst gemacht hat" start="59490" length="1965">
+			<highlight index="0" start="178" length="200"/>
+			<highlight index="1" start="366" length="126"/>
+			<highlight index="2" start="480" length="302"/>
+			<highlight index="3" start="782" length="543"/>
+			<highlight index="4" start="1313" length="510"/>
+			<subtitles>
+				<subtitle lang="fr" line="Qui m’a fait du peur"/>
+				<subtitle lang="sp" line="Donde me asusté"/>
+				<subtitle lang="nz" line="Which made me feel scared"/>
+				<subtitle lang="dk" line="Som gjorde mig bange"/>
+				<subtitle lang="nl" line="Vond ik het heel erg eng"/>
+				<subtitle lang="en" line="Which made me feel scared"/>
+				<subtitle lang="us" line="Which made me feel scared"/><subtitle lang="au" line="Which made me feel scared"/><subtitle lang="bz" line="Which made me feel scared"/><subtitle lang="jm" line="Which made me feel scared"/><subtitle lang="tt" line="Which made me feel scared"/><subtitle lang="gy" line="Which made me feel scared"/><subtitle lang="ag" line="Which made me feel scared"/><subtitle lang="dm" line="Which made me feel scared"/><subtitle lang="vc" line="Which made me feel scared"/><subtitle lang="bs" line="Which made me feel scared"/><subtitle lang="ca" line="Which made me feel scared"/><subtitle lang="bd" line="Which made me feel scared"/><subtitle lang="bw" line="Which made me feel scared"/><subtitle lang="fj" line="Which made me feel scared"/><subtitle lang="gm" line="Which made me feel scared"/><subtitle lang="gh" line="Which made me feel scared"/><subtitle lang="gy" line="Which made me feel scared"/><subtitle lang="ke" line="Which made me feel scared"/><subtitle lang="mt" line="Which made me feel scared"/><subtitle lang="mu" line="Which made me feel scared"/><subtitle lang="na" line="Which made me feel scared"/><subtitle lang="ng" line="Which made me feel scared"/><subtitle lang="pk" line="Which made me feel scared"/><subtitle lang="rw" line="Which made me feel scared"/><subtitle lang="ws" line="Which made me feel scared"/><subtitle lang="sl" line="Which made me feel scared"/><subtitle lang="sg" line="Which made me feel scared"/><subtitle lang="sb" line="Which made me feel scared"/><subtitle lang="za" line="Which made me feel scared"/><subtitle lang="tz" line="Which made me feel scared"/><subtitle lang="to" line="Which made me feel scared"/><subtitle lang="ug" line="Which made me feel scared"/><subtitle lang="vu" line="Which made me feel scared"/><subtitle lang="zm" line="Which made me feel scared"/><subtitle lang="zw" line="Which made me feel scared"/><subtitle lang="sco" line="Which made me feel scared"/>
+				<subtitle lang="cl" line="Donde me asusté"/><subtitle lang="es" line="Donde me asusté"/><subtitle lang="co" line="Donde me asusté"/><subtitle lang="gt" line="Donde me asusté"/><subtitle lang="pe" line="Donde me asusté"/><subtitle lang="ni" line="Donde me asusté"/><subtitle lang="do" line="Donde me asusté"/><subtitle lang="bo" line="Donde me asusté"/><subtitle lang="ve" line="Donde me asusté"/><subtitle lang="ar" line="Donde me asusté"/><subtitle lang="cu" line="Donde me asusté"/><subtitle lang="pr" line="Donde me asusté"/><subtitle lang="py" line="Donde me asusté"/><subtitle lang="ec" line="Donde me asusté"/><subtitle lang="hn" line="Donde me asusté"/><subtitle lang="sv" line="Donde me asusté"/><subtitle lang="cr" line="Donde me asusté"/><subtitle lang="pa" line="Donde me asusté"/><subtitle lang="mx" line="Donde me asusté"/>
+				<subtitle lang="ae" line="Which made me feel scared"/>
+				<subtitle lang="ine" line="Which made me feel scared"/>
+			</subtitles>
+		</line>
+		<line words="Sah ich eine große Eule" start="61199" length="2479">
+			<highlight index="0" start="409" length="200"/>
+			<highlight index="1" start="593" length="200"/>
+			<highlight index="2" start="790" length="357"/>
+			<highlight index="3" start="1137" length="666"/>
+			<highlight index="4" start="1794" length="650"/>
+			<subtitles>
+				<subtitle lang="fr" line="Ja’I vu un grand hibou"/>
+				<subtitle lang="sp" line="Vi un buho grande"/>
+				<subtitle lang="nz" line="I saw a big owl"/>
+				<subtitle lang="dk" line="Så jeg en stor ugle"/>
+				<subtitle lang="nl" line="Ik zag een grote uil"/>
+				<subtitle lang="en" line="I saw a big owl"/>
+				<subtitle lang="us" line="I saw a big owl"/><subtitle lang="au" line="I saw a big owl"/><subtitle lang="bz" line="I saw a big owl"/><subtitle lang="jm" line="I saw a big owl"/><subtitle lang="tt" line="I saw a big owl"/><subtitle lang="gy" line="I saw a big owl"/><subtitle lang="ag" line="I saw a big owl"/><subtitle lang="dm" line="I saw a big owl"/><subtitle lang="vc" line="I saw a big owl"/><subtitle lang="bs" line="I saw a big owl"/><subtitle lang="ca" line="I saw a big owl"/><subtitle lang="bd" line="I saw a big owl"/><subtitle lang="bw" line="I saw a big owl"/><subtitle lang="fj" line="I saw a big owl"/><subtitle lang="gm" line="I saw a big owl"/><subtitle lang="gh" line="I saw a big owl"/><subtitle lang="gy" line="I saw a big owl"/><subtitle lang="ke" line="I saw a big owl"/><subtitle lang="mt" line="I saw a big owl"/><subtitle lang="mu" line="I saw a big owl"/><subtitle lang="na" line="I saw a big owl"/><subtitle lang="ng" line="I saw a big owl"/><subtitle lang="pk" line="I saw a big owl"/><subtitle lang="rw" line="I saw a big owl"/><subtitle lang="ws" line="I saw a big owl"/><subtitle lang="sl" line="I saw a big owl"/><subtitle lang="sg" line="I saw a big owl"/><subtitle lang="sb" line="I saw a big owl"/><subtitle lang="za" line="I saw a big owl"/><subtitle lang="tz" line="I saw a big owl"/><subtitle lang="to" line="I saw a big owl"/><subtitle lang="ug" line="I saw a big owl"/><subtitle lang="vu" line="I saw a big owl"/><subtitle lang="zm" line="I saw a big owl"/><subtitle lang="zw" line="I saw a big owl"/><subtitle lang="sco" line="I saw a big owl"/>
+				<subtitle lang="cl" line="Vi un buho grande"/><subtitle lang="es" line="Vi un buho grande"/><subtitle lang="co" line="Vi un buho grande"/><subtitle lang="gt" line="Vi un buho grande"/><subtitle lang="pe" line="Vi un buho grande"/><subtitle lang="ni" line="Vi un buho grande"/><subtitle lang="do" line="Vi un buho grande"/><subtitle lang="bo" line="Vi un buho grande"/><subtitle lang="ve" line="Vi un buho grande"/><subtitle lang="ar" line="Vi un buho grande"/><subtitle lang="cu" line="Vi un buho grande"/><subtitle lang="pr" line="Vi un buho grande"/><subtitle lang="py" line="Vi un buho grande"/><subtitle lang="ec" line="Vi un buho grande"/><subtitle lang="hn" line="Vi un buho grande"/><subtitle lang="sv" line="Vi un buho grande"/><subtitle lang="cr" line="Vi un buho grande"/><subtitle lang="pa" line="Vi un buho grande"/><subtitle lang="mx" line="Vi un buho grande"/>
+				<subtitle lang="ae" line="I saw a big owl"/>
+				<subtitle lang="ine" line="I saw a big owl"/>
+			</subtitles>
+		</line>
+		<line words="Und einen großen Wolf" start="63507" length="2137">
+			<highlight index="0" start="414" length="200"/>
+			<highlight index="1" start="594" length="421"/>
+			<highlight index="2" start="1002" length="404"/>
+			<highlight index="3" start="1396" length="655"/>
+			<subtitles>
+				<subtitle lang="fr" line="Aussi un grand loup"/>
+				<subtitle lang="sp" line="Y también un lobo grande"/>
+				<subtitle lang="nl" line="En een grote wolf"/>
+				<subtitle lang="dk" line="Også en stor ulv"/>
+				<subtitle lang="nz" line="Also a big wolf"/>
+				<subtitle lang="en" line="Also a big wolf"/>
+				<subtitle lang="us" line="Also a big wolf"/><subtitle lang="au" line="Also a big wolf"/><subtitle lang="bz" line="Also a big wolf"/><subtitle lang="jm" line="Also a big wolf"/><subtitle lang="tt" line="Also a big wolf"/><subtitle lang="gy" line="Also a big wolf"/><subtitle lang="ag" line="Also a big wolf"/><subtitle lang="dm" line="Also a big wolf"/><subtitle lang="vc" line="Also a big wolf"/><subtitle lang="bs" line="Also a big wolf"/><subtitle lang="ca" line="Also a big wolf"/><subtitle lang="bd" line="Also a big wolf"/><subtitle lang="bw" line="Also a big wolf"/><subtitle lang="fj" line="Also a big wolf"/><subtitle lang="gm" line="Also a big wolf"/><subtitle lang="gh" line="Also a big wolf"/><subtitle lang="gy" line="Also a big wolf"/><subtitle lang="ke" line="Also a big wolf"/><subtitle lang="mt" line="Also a big wolf"/><subtitle lang="mu" line="Also a big wolf"/><subtitle lang="na" line="Also a big wolf"/><subtitle lang="ng" line="Also a big wolf"/><subtitle lang="pk" line="Also a big wolf"/><subtitle lang="rw" line="Also a big wolf"/><subtitle lang="ws" line="Also a big wolf"/><subtitle lang="sl" line="Also a big wolf"/><subtitle lang="sg" line="Also a big wolf"/><subtitle lang="sb" line="Also a big wolf"/><subtitle lang="za" line="Also a big wolf"/><subtitle lang="tz" line="Also a big wolf"/><subtitle lang="to" line="Also a big wolf"/><subtitle lang="ug" line="Also a big wolf"/><subtitle lang="vu" line="Also a big wolf"/><subtitle lang="zm" line="Also a big wolf"/><subtitle lang="zw" line="Also a big wolf"/><subtitle lang="sco" line="Also a big wolf"/>
+				<subtitle lang="cl" line="Y también un lobo grande"/><subtitle lang="es" line="Y también un lobo grande"/><subtitle lang="co" line="Y también un lobo grande"/><subtitle lang="gt" line="Y también un lobo grande"/><subtitle lang="pe" line="Y también un lobo grande"/><subtitle lang="ni" line="Y también un lobo grande"/><subtitle lang="do" line="Y también un lobo grande"/><subtitle lang="bo" line="Y también un lobo grande"/><subtitle lang="ve" line="Y también un lobo grande"/><subtitle lang="ar" line="Y también un lobo grande"/><subtitle lang="cu" line="Y también un lobo grande"/><subtitle lang="pr" line="Y también un lobo grande"/><subtitle lang="py" line="Y también un lobo grande"/><subtitle lang="ec" line="Y también un lobo grande"/><subtitle lang="hn" line="Y también un lobo grande"/><subtitle lang="sv" line="Y también un lobo grande"/><subtitle lang="cr" line="Y también un lobo grande"/><subtitle lang="pa" line="Y también un lobo grande"/><subtitle lang="mx" line="Y también un lobo grande"/>
+				<subtitle lang="ae" line="Also a big wolf"/>
+				<subtitle lang="ine" line="Also a big wolf"/>
+			</subtitles>
+		</line>
+		<line words="Da war ein Monster" start="65387" length="2394">
+			<highlight index="0" start="365" length="200"/>
+			<highlight index="1" start="549" length="395"/>
+			<highlight index="2" start="932" length="462"/>
+			<highlight index="3" start="1388" length="658"/>
+			<subtitles>
+				<subtitle lang="fr" line="Il y avait un monstre"/>
+				<subtitle lang="sp" line="Había un monstruo"/>
+				<subtitle lang="nl" line="Er was een heel eng monster"/>
+				<subtitle lang="dk" line="Der var et uhyre"/>
+				<subtitle lang="nz" line="There was a monster"/>
+				<subtitle lang="en" line="There was a monster"/>
+				<subtitle lang="us" line="There was a monster"/><subtitle lang="au" line="There was a monster"/><subtitle lang="bz" line="There was a monster"/><subtitle lang="jm" line="There was a monster"/><subtitle lang="tt" line="There was a monster"/><subtitle lang="gy" line="There was a monster"/><subtitle lang="ag" line="There was a monster"/><subtitle lang="dm" line="There was a monster"/><subtitle lang="vc" line="There was a monster"/><subtitle lang="bs" line="There was a monster"/><subtitle lang="ca" line="There was a monster"/><subtitle lang="bd" line="There was a monster"/><subtitle lang="bw" line="There was a monster"/><subtitle lang="fj" line="There was a monster"/><subtitle lang="gm" line="There was a monster"/><subtitle lang="gh" line="There was a monster"/><subtitle lang="gy" line="There was a monster"/><subtitle lang="ke" line="There was a monster"/><subtitle lang="mt" line="There was a monster"/><subtitle lang="mu" line="There was a monster"/><subtitle lang="na" line="There was a monster"/><subtitle lang="ng" line="There was a monster"/><subtitle lang="pk" line="There was a monster"/><subtitle lang="rw" line="There was a monster"/><subtitle lang="ws" line="There was a monster"/><subtitle lang="sl" line="There was a monster"/><subtitle lang="sg" line="There was a monster"/><subtitle lang="sb" line="There was a monster"/><subtitle lang="za" line="There was a monster"/><subtitle lang="tz" line="There was a monster"/><subtitle lang="to" line="There was a monster"/><subtitle lang="ug" line="There was a monster"/><subtitle lang="vu" line="There was a monster"/><subtitle lang="zm" line="There was a monster"/><subtitle lang="zw" line="There was a monster"/><subtitle lang="sco" line="There was a monster"/>
+				<subtitle lang="cl" line="Había un monstruo"/><subtitle lang="es" line="Había un monstruo"/><subtitle lang="co" line="Había un monstruo"/><subtitle lang="gt" line="Había un monstruo"/><subtitle lang="pe" line="Había un monstruo"/><subtitle lang="ni" line="Había un monstruo"/><subtitle lang="do" line="Había un monstruo"/><subtitle lang="bo" line="Había un monstruo"/><subtitle lang="ve" line="Había un monstruo"/><subtitle lang="ar" line="Había un monstruo"/><subtitle lang="cu" line="Había un monstruo"/><subtitle lang="pr" line="Había un monstruo"/><subtitle lang="py" line="Había un monstruo"/><subtitle lang="ec" line="Había un monstruo"/><subtitle lang="hn" line="Había un monstruo"/><subtitle lang="sv" line="Había un monstruo"/><subtitle lang="cr" line="Había un monstruo"/><subtitle lang="pa" line="Había un monstruo"/><subtitle lang="mx" line="Había un monstruo"/>
+				<subtitle lang="ae" line="There was a monster"/>
+				<subtitle lang="ine" line="There was a monster"/>
+			</subtitles>
+		</line>
+		<line words="Aber da waren keine Ratten" start="67524" length="2222">
+			<highlight index="0" start="235" length="199"/>
+			<highlight index="1" start="425" length="200"/>
+			<highlight index="2" start="610" length="339"/>
+			<highlight index="3" start="935" length="337"/>
+			<highlight index="4" start="1260" length="468"/>
+			<subtitles>
+				<subtitle lang="fr" line="Mais il n’y avait pas de rats"/>
+				<subtitle lang="sp" line="Pero no había ratas"/>
+				<subtitle lang="nl" line="Maar ratten waren er niet"/>
+				<subtitle lang="dk" line="Men der var ingen rotter"/>
+				<subtitle lang="nz" line="But there were no rats"/>
+				<subtitle lang="en" line="But there were no rats"/>
+				<subtitle lang="us" line="But there were no rats"/><subtitle lang="au" line="But there were no rats"/><subtitle lang="bz" line="But there were no rats"/><subtitle lang="jm" line="But there were no rats"/><subtitle lang="tt" line="But there were no rats"/><subtitle lang="gy" line="But there were no rats"/><subtitle lang="ag" line="But there were no rats"/><subtitle lang="dm" line="But there were no rats"/><subtitle lang="vc" line="But there were no rats"/><subtitle lang="bs" line="But there were no rats"/><subtitle lang="ca" line="But there were no rats"/><subtitle lang="bd" line="But there were no rats"/><subtitle lang="bw" line="But there were no rats"/><subtitle lang="fj" line="But there were no rats"/><subtitle lang="gm" line="But there were no rats"/><subtitle lang="gh" line="But there were no rats"/><subtitle lang="gy" line="But there were no rats"/><subtitle lang="ke" line="But there were no rats"/><subtitle lang="mt" line="But there were no rats"/><subtitle lang="mu" line="But there were no rats"/><subtitle lang="na" line="But there were no rats"/><subtitle lang="ng" line="But there were no rats"/><subtitle lang="pk" line="But there were no rats"/><subtitle lang="rw" line="But there were no rats"/><subtitle lang="ws" line="But there were no rats"/><subtitle lang="sl" line="But there were no rats"/><subtitle lang="sg" line="But there were no rats"/><subtitle lang="sb" line="But there were no rats"/><subtitle lang="za" line="But there were no rats"/><subtitle lang="tz" line="But there were no rats"/><subtitle lang="to" line="But there were no rats"/><subtitle lang="ug" line="But there were no rats"/><subtitle lang="vu" line="But there were no rats"/><subtitle lang="zm" line="But there were no rats"/><subtitle lang="zw" line="But there were no rats"/><subtitle lang="sco" line="But there were no rats"/>
+				<subtitle lang="cl" line="Pero no había ratas"/><subtitle lang="es" line="Pero no había ratas"/><subtitle lang="co" line="Pero no había ratas"/><subtitle lang="gt" line="Pero no había ratas"/><subtitle lang="pe" line="Pero no había ratas"/><subtitle lang="ni" line="Pero no había ratas"/><subtitle lang="do" line="Pero no había ratas"/><subtitle lang="bo" line="Pero no había ratas"/><subtitle lang="ve" line="Pero no había ratas"/><subtitle lang="ar" line="Pero no había ratas"/><subtitle lang="cu" line="Pero no había ratas"/><subtitle lang="pr" line="Pero no había ratas"/><subtitle lang="py" line="Pero no había ratas"/><subtitle lang="ec" line="Pero no había ratas"/><subtitle lang="hn" line="Pero no había ratas"/><subtitle lang="sv" line="Pero no había ratas"/><subtitle lang="cr" line="Pero no había ratas"/><subtitle lang="pa" line="Pero no había ratas"/><subtitle lang="mx" line="Pero no había ratas"/>
+				<subtitle lang="ae" line="But there were no rats"/>
+				<subtitle lang="ine" line="But there were no rats"/>
+			</subtitles>
+		</line>
+		<line words="Ich hörte Ketten  " start="69661" length="1966">
+			<highlight index="0" start="298" length="200"/>
+			<highlight index="1" start="482" length="607"/>
+			<highlight index="2" start="1077" length="615"/>
+			<subtitles>
+				<subtitle lang="fr" line="J’ai entendu des chaines"/>
+				<subtitle lang="sp" line="Oí cadenzas"/>
+				<subtitle lang="nl" line="Ik hoorde kettingen slaan"/>
+				<subtitle lang="dk" line="Jeg hørte nogle kæder"/>
+				<subtitle lang="nz" line="I heard some chains"/>
+				<subtitle lang="en" line="I heard some chains"/>
+				<subtitle lang="us" line="I heard some chains"/><subtitle lang="au" line="I heard some chains"/><subtitle lang="bz" line="I heard some chains"/><subtitle lang="jm" line="I heard some chains"/><subtitle lang="tt" line="I heard some chains"/><subtitle lang="gy" line="I heard some chains"/><subtitle lang="ag" line="I heard some chains"/><subtitle lang="dm" line="I heard some chains"/><subtitle lang="vc" line="I heard some chains"/><subtitle lang="bs" line="I heard some chains"/><subtitle lang="ca" line="I heard some chains"/><subtitle lang="bd" line="I heard some chains"/><subtitle lang="bw" line="I heard some chains"/><subtitle lang="fj" line="I heard some chains"/><subtitle lang="gm" line="I heard some chains"/><subtitle lang="gh" line="I heard some chains"/><subtitle lang="gy" line="I heard some chains"/><subtitle lang="ke" line="I heard some chains"/><subtitle lang="mt" line="I heard some chains"/><subtitle lang="mu" line="I heard some chains"/><subtitle lang="na" line="I heard some chains"/><subtitle lang="ng" line="I heard some chains"/><subtitle lang="pk" line="I heard some chains"/><subtitle lang="rw" line="I heard some chains"/><subtitle lang="ws" line="I heard some chains"/><subtitle lang="sl" line="I heard some chains"/><subtitle lang="sg" line="I heard some chains"/><subtitle lang="sb" line="I heard some chains"/><subtitle lang="za" line="I heard some chains"/><subtitle lang="tz" line="I heard some chains"/><subtitle lang="to" line="I heard some chains"/><subtitle lang="ug" line="I heard some chains"/><subtitle lang="vu" line="I heard some chains"/><subtitle lang="zm" line="I heard some chains"/><subtitle lang="zw" line="I heard some chains"/><subtitle lang="sco" line="I heard some chains"/>
+				<subtitle lang="cl" line="Oí cadenzas"/><subtitle lang="es" line="Oí cadenzas"/><subtitle lang="co" line="Oí cadenzas"/><subtitle lang="gt" line="Oí cadenzas"/><subtitle lang="pe" line="Oí cadenzas"/><subtitle lang="ni" line="Oí cadenzas"/><subtitle lang="do" line="Oí cadenzas"/><subtitle lang="bo" line="Oí cadenzas"/><subtitle lang="ve" line="Oí cadenzas"/><subtitle lang="ar" line="Oí cadenzas"/><subtitle lang="cu" line="Oí cadenzas"/><subtitle lang="pr" line="Oí cadenzas"/><subtitle lang="py" line="Oí cadenzas"/><subtitle lang="ec" line="Oí cadenzas"/><subtitle lang="hn" line="Oí cadenzas"/><subtitle lang="sv" line="Oí cadenzas"/><subtitle lang="cr" line="Oí cadenzas"/><subtitle lang="pa" line="Oí cadenzas"/><subtitle lang="mx" line="Oí cadenzas"/>
+				<subtitle lang="ae" line="I heard some chains"/>
+				<subtitle lang="ine" line="I heard some chains"/>
+			</subtitles>
+		</line>
+		<line words="Es war wirklich furchtbar" start="71627" length="2222">
+			<highlight index="0" start="151" length="200"/>
+			<highlight index="1" start="344" length="241"/>
+			<highlight index="2" start="565" length="435"/>
+			<highlight index="3" start="997" length="748"/>
+			<subtitles>
+				<subtitle lang="fr" line="C’était vraiment affreux"/>
+				<subtitle lang="sp" line="Fue terrible"/>
+				<subtitle lang="nl" line="Het was echt angstaanjagend"/>
+				<subtitle lang="dk" line="Det var virkelig forfærdeligt"/>
+				<subtitle lang="nz" line="It was really terrible"/>
+				<subtitle lang="en" line="It was really terrible"/>
+				<subtitle lang="us" line="It was really terrible"/><subtitle lang="au" line="It was really terrible"/><subtitle lang="bz" line="It was really terrible"/><subtitle lang="jm" line="It was really terrible"/><subtitle lang="tt" line="It was really terrible"/><subtitle lang="gy" line="It was really terrible"/><subtitle lang="ag" line="It was really terrible"/><subtitle lang="dm" line="It was really terrible"/><subtitle lang="vc" line="It was really terrible"/><subtitle lang="bs" line="It was really terrible"/><subtitle lang="ca" line="It was really terrible"/><subtitle lang="bd" line="It was really terrible"/><subtitle lang="bw" line="It was really terrible"/><subtitle lang="fj" line="It was really terrible"/><subtitle lang="gm" line="It was really terrible"/><subtitle lang="gh" line="It was really terrible"/><subtitle lang="gy" line="It was really terrible"/><subtitle lang="ke" line="It was really terrible"/><subtitle lang="mt" line="It was really terrible"/><subtitle lang="mu" line="It was really terrible"/><subtitle lang="na" line="It was really terrible"/><subtitle lang="ng" line="It was really terrible"/><subtitle lang="pk" line="It was really terrible"/><subtitle lang="rw" line="It was really terrible"/><subtitle lang="ws" line="It was really terrible"/><subtitle lang="sl" line="It was really terrible"/><subtitle lang="sg" line="It was really terrible"/><subtitle lang="sb" line="It was really terrible"/><subtitle lang="za" line="It was really terrible"/><subtitle lang="tz" line="It was really terrible"/><subtitle lang="to" line="It was really terrible"/><subtitle lang="ug" line="It was really terrible"/><subtitle lang="vu" line="It was really terrible"/><subtitle lang="zm" line="It was really terrible"/><subtitle lang="zw" line="It was really terrible"/><subtitle lang="sco" line="It was really terrible"/>
+				<subtitle lang="cl" line="Fue terrible"/><subtitle lang="es" line="Fue terrible"/><subtitle lang="co" line="Fue terrible"/><subtitle lang="gt" line="Fue terrible"/><subtitle lang="pe" line="Fue terrible"/><subtitle lang="ni" line="Fue terrible"/><subtitle lang="do" line="Fue terrible"/><subtitle lang="bo" line="Fue terrible"/><subtitle lang="ve" line="Fue terrible"/><subtitle lang="ar" line="Fue terrible"/><subtitle lang="cu" line="Fue terrible"/><subtitle lang="pr" line="Fue terrible"/><subtitle lang="py" line="Fue terrible"/><subtitle lang="ec" line="Fue terrible"/><subtitle lang="hn" line="Fue terrible"/><subtitle lang="sv" line="Fue terrible"/><subtitle lang="cr" line="Fue terrible"/><subtitle lang="pa" line="Fue terrible"/><subtitle lang="mx" line="Fue terrible"/>
+				<subtitle lang="ae" line="It was really terrible"/>
+				<subtitle lang="ine" line="It was really terrible"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="76382" length="4530">
+			<highlight index="0" start="291" length="354"/>
+			<highlight index="1" start="611" length="527"/>
+			<highlight index="2" start="1113" length="652"/>
+			<highlight index="3" start="1735" length="2474"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="80516" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="534"/>
+			<highlight index="3" start="1810" length="479"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="es" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="co" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="gt" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pe" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ni" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="do" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="bo" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ve" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ar" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cu" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="py" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ec" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="hn" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="sv" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pa" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="mx" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="84192" length="4530">
+			<highlight index="0" start="291" length="354"/>
+			<highlight index="1" start="611" length="527"/>
+			<highlight index="2" start="1113" length="652"/>
+			<highlight index="3" start="1735" length="2474"/>
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions"/>
+				<subtitle lang="sp" line="Fui al parque de atracciones"/>
+				<subtitle lang="nz" line="I went to the theme park"/>
+				<subtitle lang="dk" line="Jeg var i Tivoli"/>
+				<subtitle lang="nl" line="Ik ging naar een attractiepark"/>
+				<subtitle lang="en" line="I went to the theme park"/>
+				<subtitle lang="us" line="I went to the theme park"/><subtitle lang="au" line="I went to the theme park"/><subtitle lang="bz" line="I went to the theme park"/><subtitle lang="jm" line="I went to the theme park"/><subtitle lang="tt" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ag" line="I went to the theme park"/><subtitle lang="dm" line="I went to the theme park"/><subtitle lang="vc" line="I went to the theme park"/><subtitle lang="bs" line="I went to the theme park"/><subtitle lang="ca" line="I went to the theme park"/><subtitle lang="bd" line="I went to the theme park"/><subtitle lang="bw" line="I went to the theme park"/><subtitle lang="fj" line="I went to the theme park"/><subtitle lang="gm" line="I went to the theme park"/><subtitle lang="gh" line="I went to the theme park"/><subtitle lang="gy" line="I went to the theme park"/><subtitle lang="ke" line="I went to the theme park"/><subtitle lang="mt" line="I went to the theme park"/><subtitle lang="mu" line="I went to the theme park"/><subtitle lang="na" line="I went to the theme park"/><subtitle lang="ng" line="I went to the theme park"/><subtitle lang="pk" line="I went to the theme park"/><subtitle lang="rw" line="I went to the theme park"/><subtitle lang="ws" line="I went to the theme park"/><subtitle lang="sl" line="I went to the theme park"/><subtitle lang="sg" line="I went to the theme park"/><subtitle lang="sb" line="I went to the theme park"/><subtitle lang="za" line="I went to the theme park"/><subtitle lang="tz" line="I went to the theme park"/><subtitle lang="to" line="I went to the theme park"/><subtitle lang="ug" line="I went to the theme park"/><subtitle lang="vu" line="I went to the theme park"/><subtitle lang="zm" line="I went to the theme park"/><subtitle lang="zw" line="I went to the theme park"/><subtitle lang="sco" line="I went to the theme park"/>
+				<subtitle lang="cl" line="Fui al parque de atracciones"/><subtitle lang="es" line="Fui al parque de atracciones"/><subtitle lang="co" line="Fui al parque de atracciones"/><subtitle lang="gt" line="Fui al parque de atracciones"/><subtitle lang="pe" line="Fui al parque de atracciones"/><subtitle lang="ni" line="Fui al parque de atracciones"/><subtitle lang="do" line="Fui al parque de atracciones"/><subtitle lang="bo" line="Fui al parque de atracciones"/><subtitle lang="ve" line="Fui al parque de atracciones"/><subtitle lang="ar" line="Fui al parque de atracciones"/><subtitle lang="cu" line="Fui al parque de atracciones"/><subtitle lang="pr" line="Fui al parque de atracciones"/><subtitle lang="py" line="Fui al parque de atracciones"/><subtitle lang="ec" line="Fui al parque de atracciones"/><subtitle lang="hn" line="Fui al parque de atracciones"/><subtitle lang="sv" line="Fui al parque de atracciones"/><subtitle lang="cr" line="Fui al parque de atracciones"/><subtitle lang="pa" line="Fui al parque de atracciones"/><subtitle lang="mx" line="Fui al parque de atracciones"/>
+				<subtitle lang="ae" line="I went to the theme park"/>
+				<subtitle lang="ine" line="I went to the theme park"/>
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="88380" length="4000">
+			<highlight index="0" start="211" length="681"/>
+			<highlight index="1" start="867" length="439"/>
+			<highlight index="2" start="1286" length="534"/>
+			<highlight index="3" start="1810" length="479"/>
+			<highlight index="4" start="2279" length="308"/>
+			<highlight index="5" start="2572" length="348"/>
+			<highlight index="6" start="2900" length="328"/>
+			<highlight index="7" start="3207" length="449"/>
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?"/>
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?"/>
+				<subtitle lang="dk" line="Var du også? Også? Også?"/>
+				<subtitle lang="nz" line="Did you go too? Too? Too?"/>
+				<subtitle lang="en" line="Did you go too? Too? Too?"/>
+				<subtitle lang="us" line="Did you go too? Too? Too?"/><subtitle lang="au" line="Did you go too? Too? Too?"/><subtitle lang="bz" line="Did you go too? Too? Too?"/><subtitle lang="jm" line="Did you go too? Too? Too?"/><subtitle lang="tt" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ag" line="Did you go too? Too? Too?"/><subtitle lang="dm" line="Did you go too? Too? Too?"/><subtitle lang="vc" line="Did you go too? Too? Too?"/><subtitle lang="bs" line="Did you go too? Too? Too?"/><subtitle lang="ca" line="Did you go too? Too? Too?"/><subtitle lang="bd" line="Did you go too? Too? Too?"/><subtitle lang="bw" line="Did you go too? Too? Too?"/><subtitle lang="fj" line="Did you go too? Too? Too?"/><subtitle lang="gm" line="Did you go too? Too? Too?"/><subtitle lang="gh" line="Did you go too? Too? Too?"/><subtitle lang="gy" line="Did you go too? Too? Too?"/><subtitle lang="ke" line="Did you go too? Too? Too?"/><subtitle lang="mt" line="Did you go too? Too? Too?"/><subtitle lang="mu" line="Did you go too? Too? Too?"/><subtitle lang="na" line="Did you go too? Too? Too?"/><subtitle lang="ng" line="Did you go too? Too? Too?"/><subtitle lang="pk" line="Did you go too? Too? Too?"/><subtitle lang="rw" line="Did you go too? Too? Too?"/><subtitle lang="ws" line="Did you go too? Too? Too?"/><subtitle lang="sl" line="Did you go too? Too? Too?"/><subtitle lang="sg" line="Did you go too? Too? Too?"/><subtitle lang="sb" line="Did you go too? Too? Too?"/><subtitle lang="za" line="Did you go too? Too? Too?"/><subtitle lang="tz" line="Did you go too? Too? Too?"/><subtitle lang="to" line="Did you go too? Too? Too?"/><subtitle lang="ug" line="Did you go too? Too? Too?"/><subtitle lang="vu" line="Did you go too? Too? Too?"/><subtitle lang="zm" line="Did you go too? Too? Too?"/><subtitle lang="zw" line="Did you go too? Too? Too?"/><subtitle lang="sco" line="Did you go too? Too? Too?"/>
+				<subtitle lang="cl" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="es" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="co" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="gt" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pe" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ni" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="do" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="bo" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ve" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ar" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cu" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="py" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="ec" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="hn" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="sv" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="cr" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="pa" line="¿fuiste también?¿también? ¿también?"/><subtitle lang="mx" line="¿fuiste también?¿también? ¿también?"/>
+				<subtitle lang="ae" line="Did you go too? Too? Too?"/>
+				<subtitle lang="ine" line="Did you go too? Too? Too?"/>
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

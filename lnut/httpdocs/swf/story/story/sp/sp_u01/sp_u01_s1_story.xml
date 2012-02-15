@@ -1,0 +1,931 @@
+<?xml version="1.0"?>
+<karaoke length="185600">
+  <lines>
+    <line words="Me llamo Ju&#xE1;n. Soy un mago." start="0" length="7006" useLNutResource="true" image="2#3#1">
+      <subtitles>
+        <subtitle lang="ke" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="fj" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="sb" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="vu" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="dk" line="Hej. Jeg hedder John. Jeg er en troldmand."/>
+        <subtitle lang="zm" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="bs" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="ca" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="nz" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="vc" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="sco" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="to" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="bz" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="na" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="ag" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="pk" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="jm" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="za" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="ng" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="en" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="mt" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="tt" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="bw" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="sl" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="au" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="sg" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="ws" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="fr" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/>
+        <subtitle lang="dm" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="us" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="mu" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="ug" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="bd" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="rw" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="gh" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="gy" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="gm" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="zw" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="tz" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+        <subtitle lang="nl" line="Hallo. Mijn naam is Henk-Jan. Ik ben een tovenaar."/>
+      <subtitle lang="cd" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="mg" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="cm" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="ci" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="bf" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="ne" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="sn" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="ml" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="bi" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="bj" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="tg" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="ga" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/><subtitle lang="dj" line="Salut. Je m&#x2019;appelle Jean. Je suis magicien."/>
+				<subtitle lang="ae" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+				<subtitle lang="ine" line="My name&#x2019;s John. I&#x2019;m a wizard."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2541" length="241"/>
+        <highlight index="1" start="2753" length="349"/>
+        <highlight index="2" start="3146" length="685"/>
+        <highlight index="3" start="4972" length="415"/>
+        <highlight index="4" start="5546" length="379"/>
+        <highlight index="5" start="5902" length="527"/>
+      </highlights>
+    </line>
+    <line words="&#xBF;Me puedes ayudar con mis trucos? Es f&#xE1;cil. Cuento hasta diez." start="6836" length="9912" useLNutResource="true" image="2#2#10">
+      <subtitles>
+        <subtitle lang="ke" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="fj" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="sb" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="vu" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="dk" line="Du kan hj&#xE6;lpe mig med at trylle. Det er let. Jeg t&#xE6;ller til ti."/>
+        <subtitle lang="zm" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="bs" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="ca" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="nz" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="vc" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="sco" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="to" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="bz" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="na" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="ag" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="pk" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="jm" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="za" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="ng" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="en" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="mt" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="tt" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="bw" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="sl" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="au" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="sg" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="ws" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="fr" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/>
+        <subtitle lang="dm" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="us" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="mu" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="ug" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="bd" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="rw" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="gh" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="gy" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="gm" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="zw" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="tz" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+        <subtitle lang="nl" line="Jij kan me helpen met mijn toverspreuken. Het is heel makkelijk! Ik tel tot tien."/>
+      <subtitle lang="cd" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="mg" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="cm" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="ci" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="bf" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="ne" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="sn" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="ml" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="bi" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="bj" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="tg" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="ga" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/><subtitle lang="dj" line="Tu peux m&#x2019;aider avec mes formules magiques. C&#x2019;est facile! Je compte jusqu&#x2019;&#xE0; dix."/>
+				<subtitle lang="ae" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+				<subtitle lang="ine" line="Can you help me with my spells? It&#x2019;s easy! I count to ten."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1137" length="325"/>
+        <highlight index="1" start="1462" length="455"/>
+        <highlight index="2" start="1803" length="520"/>
+        <highlight index="3" start="2339" length="346"/>
+        <highlight index="4" start="2697" length="314"/>
+        <highlight index="5" start="2973" length="622"/>
+        <highlight index="6" start="4971" length="341"/>
+        <highlight index="7" start="5280" length="520"/>
+        <highlight index="8" start="7035" length="601"/>
+        <highlight index="9" start="7766" length="682"/>
+        <highlight index="10" start="8465" length="666"/>
+      </highlights>
+    </line>
+    <line words="Vamos a practicar. &#xBF;Preparados? 1 2 3 4 5 6 7 8 9 10 &#xA1;Excelente!" start="16406" length="15040" useLNutResource="true" image="2#6#4">
+      <subtitles>
+        <subtitle lang="ke" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="fj" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="sb" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="vu" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="dk" line="Lad os prove. Klar? 1 2 3 4 5 6 7 8 9 10! Flot!"/>
+        <subtitle lang="zm" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="bs" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="ca" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="nz" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="vc" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="sco" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="to" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="bz" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="na" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="ag" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="pk" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="jm" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="za" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="ng" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="en" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="mt" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="tt" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="bw" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="sl" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="au" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="sg" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="ws" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="fr" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/>
+        <subtitle lang="dm" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="us" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="mu" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="ug" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="bd" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="rw" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="gh" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="gy" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="gm" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="zw" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="tz" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+        <subtitle lang="nl" line="Even oefenen. Ben je er klaar voor? 1 2 3 4 5 6 7 8 9 10! Heel goed!"/>
+      <subtitle lang="cd" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="mg" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="cm" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="ci" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="bf" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="ne" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="sn" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="ml" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="bi" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="bj" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="tg" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="ga" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/><subtitle lang="dj" line="Pratiquons un peu. Pr&#xEA;t? 1 2 3 4 5 6 7 8 9 10! Excellent! "/>
+				<subtitle lang="ae" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+				<subtitle lang="ine" line="Let&#x2019;s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1365" length="484"/>
+        <highlight index="1" start="1827" length="378"/>
+        <highlight index="2" start="2122" length="819"/>
+        <highlight index="3" start="3382" length="1072"/>
+        <highlight index="4" start="6093" length="473"/>
+        <highlight index="5" start="6513" length="504"/>
+        <highlight index="6" start="7017" length="547"/>
+        <highlight index="7" start="7879" length="567"/>
+        <highlight index="8" start="8383" length="630"/>
+        <highlight index="9" start="9034" length="568"/>
+        <highlight index="10" start="9742" length="444"/>
+        <highlight index="11" start="10184" length="546"/>
+        <highlight index="12" start="10672" length="588"/>
+        <highlight index="13" start="11672" length="787"/>
+        <highlight index="14" start="13502" length="1266"/>
+      </highlights>
+    </line>
+    <line words="Aqu&#xED; est&#xE1; mi hermana. Se llama Mar&#xED;a. 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="31446" length="13843" useLNutResource="true" image="1#4#1">
+      <subtitles>
+        <subtitle lang="ke" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Her er min s&#xF8;ster. Hun hedder Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="Hier is mijn zus. Haar naam is Margriet. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="Voici ma s&#x153;ur. Elle s&#x2019;appelle Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="658" length="681"/>
+        <highlight index="1" start="1270" length="726"/>
+        <highlight index="2" start="1906" length="431"/>
+        <highlight index="3" start="2269" length="817"/>
+        <highlight index="4" start="3607" length="408"/>
+        <highlight index="5" start="3880" length="726"/>
+        <highlight index="6" start="4470" length="907"/>
+        <highlight index="7" start="6535" length="431"/>
+        <highlight index="8" start="6875" length="522"/>
+        <highlight index="9" start="7374" length="636"/>
+        <highlight index="10" start="8305" length="522"/>
+        <highlight index="11" start="8781" length="409"/>
+        <highlight index="12" start="9122" length="521"/>
+        <highlight index="13" start="9984" length="545"/>
+        <highlight index="14" start="10392" length="545"/>
+        <highlight index="15" start="10891" length="567"/>
+        <highlight index="16" start="11731" length="908"/>
+      </highlights>
+    </line>
+    <line words="Es una oveja. Mi hermana es una oveja. Mi hermana es una oveja blanca." start="44947" length="13672" useLNutResource="true" image="5#1#2">
+      <subtitles>
+        <subtitle lang="ke" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="fj" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="sb" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="vu" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="dk" line="Hun er et f&#xE5;r! Min s&#xF8;ster er et f&#xE5;r! Min s&#xF8;ster er et hvidt f&#xE5;r!"/>
+        <subtitle lang="zm" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="bs" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="ca" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="nz" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="vc" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="sco" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="to" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="bz" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="na" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="ag" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="pk" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="jm" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="za" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="ng" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="en" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="mt" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="tt" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="bw" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="sl" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="au" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="sg" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="ws" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="fr" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/>
+        <subtitle lang="dm" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="us" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="mu" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="ug" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="bd" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="rw" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="gh" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="gy" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="gm" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="zw" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="tz" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+        <subtitle lang="nl" line="Ze is een schaap! Mijn zus is een schaap! Mijn zus is een wit schaap!"/>
+      <subtitle lang="cd" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="mg" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="cm" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="ci" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="bf" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="ne" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="sn" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="ml" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="bi" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="bj" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="tg" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="ga" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/><subtitle lang="dj" line="C&#x2019;est un mouton! Ma s&#x153;ur est un mouton! Ma s&#x153;ur est un mouton blanc!"/>
+				<subtitle lang="ae" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+				<subtitle lang="ine" line="She&#x2019;s a sheep! My sister is a sheep! My sister is a white sheep!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="605" length="560"/>
+        <highlight index="1" start="1142" length="538"/>
+        <highlight index="2" start="1613" length="829"/>
+        <highlight index="3" start="3428" length="382"/>
+        <highlight index="4" start="3809" length="694"/>
+        <highlight index="5" start="4706" length="583"/>
+        <highlight index="6" start="5423" length="426"/>
+        <highlight index="7" start="5804" length="874"/>
+        <highlight index="8" start="7821" length="515"/>
+        <highlight index="9" start="8269" length="852"/>
+        <highlight index="10" start="9412" length="426"/>
+        <highlight index="11" start="9860" length="561"/>
+        <highlight index="12" start="10354" length="874"/>
+        <highlight index="13" start="11541" length="1255"/>
+      </highlights>
+    </line>
+    <line words="Aqu&#xED; est&#xE1; mi madre. Se llama Jane. 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="58277" length="15894" useLNutResource="true" image="1#4#3">
+      <subtitles>
+        <subtitle lang="ke" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Her er min mor. Hun hedder Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="Hier is mijn moeder. Haar naam is Marjanne. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="Voici ma m&#xE8;re. Elle s&#x2019;appelle Jeanne. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1693" length="756"/>
+        <highlight index="1" start="2631" length="600"/>
+        <highlight index="2" start="3100" length="365"/>
+        <highlight index="3" start="3439" length="833"/>
+        <highlight index="4" start="5497" length="521"/>
+        <highlight index="5" start="5940" length="521"/>
+        <highlight index="6" start="6357" length="756"/>
+        <highlight index="7" start="9118" length="599"/>
+        <highlight index="8" start="9587" length="677"/>
+        <highlight index="9" start="10186" length="574"/>
+        <highlight index="10" start="10994" length="573"/>
+        <highlight index="11" start="11515" length="469"/>
+        <highlight index="12" start="11932" length="626"/>
+        <highlight index="13" start="12635" length="496"/>
+        <highlight index="14" start="13078" length="573"/>
+        <highlight index="15" start="13599" length="756"/>
+        <highlight index="16" start="14537" length="965"/>
+      </highlights>
+    </line>
+    <line words="Es una cerdita. Mi madre es una cerdita. &#xA1;Mi madre es una cerdita rosa!" start="74171" length="14185" useLNutResource="true" image="5#2#10">
+      <subtitles>
+        <subtitle lang="ke" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="fj" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="sb" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="vu" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="dk" line="Hun er en gris! Min mor er en gris! Min mor er en lyser&#xF8;d gris!"/>
+        <subtitle lang="zm" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="bs" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="ca" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="nz" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="vc" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="sco" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="to" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="bz" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="na" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="ag" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="pk" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="jm" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="za" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="ng" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="en" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="mt" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="tt" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="bw" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="sl" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="au" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="sg" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="ws" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="fr" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/>
+        <subtitle lang="dm" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="us" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="mu" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="ug" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="bd" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="rw" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="gh" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="gy" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="gm" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="zw" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="tz" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+        <subtitle lang="nl" line="Ze is een varken! Mijn moeder is een varken! Mijn moeder is een roze varken!"/>
+      <subtitle lang="cd" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="mg" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="cm" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="ci" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="bf" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="ne" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="sn" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="ml" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="bi" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="bj" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="tg" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="ga" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/><subtitle lang="dj" line="C&#x2019;est un cheval! Ma m&#xE8;re est un cheval! Ma m&#xE8;re est un cheval noir!"/>
+				<subtitle lang="ae" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+				<subtitle lang="ine" line="She&#x2019;s a piggy! My mum is a piggy! My mum is a pink piggy!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="976" length="488"/>
+        <highlight index="1" start="1371" length="535"/>
+        <highlight index="2" start="1813" length="991"/>
+        <highlight index="3" start="4022" length="628"/>
+        <highlight index="4" start="4534" length="721"/>
+        <highlight index="5" start="5371" length="396"/>
+        <highlight index="6" start="5813" length="744"/>
+        <highlight index="7" start="6510" length="977"/>
+        <highlight index="8" start="8766" length="581"/>
+        <highlight index="9" start="9254" length="674"/>
+        <highlight index="10" start="10184" length="549"/>
+        <highlight index="11" start="10696" length="549"/>
+        <highlight index="12" start="11579" length="837"/>
+        <highlight index="13" start="12904" length="1139"/>
+      </highlights>
+    </line>
+    <line words="Aqu&#xED; est&#xE1; mi hermano. Se llama Oliver. 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="88075" length="16407" useLNutResource="true" image="1#4#2">
+      <subtitles>
+        <subtitle lang="ke" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Her er min bror. Han hedder Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="Hier is mijn broer. Zijn naam is Javier. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="Voici mon fr&#xE8;re. Il s&#x2019;appelle Olivier. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1721" length="968"/>
+        <highlight index="1" start="2608" length="807"/>
+        <highlight index="2" start="3442" length="484"/>
+        <highlight index="3" start="3819" length="995"/>
+        <highlight index="4" start="5540" length="618"/>
+        <highlight index="5" start="6078" length="645"/>
+        <highlight index="6" start="6965" length="1479"/>
+        <highlight index="7" start="9386" length="618"/>
+        <highlight index="8" start="9977" length="646"/>
+        <highlight index="9" start="10623" length="699"/>
+        <highlight index="10" start="11457" length="564"/>
+        <highlight index="11" start="11941" length="511"/>
+        <highlight index="12" start="12371" length="511"/>
+        <highlight index="13" start="13151" length="538"/>
+        <highlight index="14" start="13554" length="511"/>
+        <highlight index="15" start="14012" length="618"/>
+        <highlight index="16" start="14980" length="833"/>
+      </highlights>
+    </line>
+    <line words="Es un rat&#xF3;n. Mi hermano es un rat&#xF3;n. &#xA1;Mi hermano es un rat&#xF3;n marr&#xF3;n! " start="104640" length="13672" useLNutResource="true" image="5#3#4">
+      <subtitles>
+        <subtitle lang="ke" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="fj" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="sb" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="vu" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="dk" line="Han er en mus! Min bror er en mus! Min bror er en brun mus!"/>
+        <subtitle lang="zm" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="bs" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="ca" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="nz" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="vc" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="sco" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="to" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="bz" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="na" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="ag" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="pk" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="jm" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="za" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="ng" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="en" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="mt" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="tt" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="bw" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="sl" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="au" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="sg" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="ws" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="fr" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/>
+        <subtitle lang="dm" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="us" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="mu" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="ug" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="bd" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="rw" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="gh" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="gy" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="gm" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="zw" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="tz" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+        <subtitle lang="nl" line="Hij is een muis! Mijn broer is een muis! Mijn broer is een bruine muis!"/>
+      <subtitle lang="cd" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="mg" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="cm" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="ci" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="bf" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="ne" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="sn" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="ml" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="bi" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="bj" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="tg" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="ga" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/><subtitle lang="dj" line="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!"/>
+				<subtitle lang="ae" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+				<subtitle lang="ine" line="He&#x2019;s a mouse! My brother is a mouse. My brother is a brown mouse!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="739" length="583"/>
+        <highlight index="1" start="1277" length="448"/>
+        <highlight index="2" start="1613" length="807"/>
+        <highlight index="3" start="4011" length="359"/>
+        <highlight index="4" start="4347" length="942"/>
+        <highlight index="5" start="5423" length="583"/>
+        <highlight index="6" start="6028" length="381"/>
+        <highlight index="7" start="6364" length="1009"/>
+        <highlight index="8" start="8471" length="493"/>
+        <highlight index="9" start="8897" length="939"/>
+        <highlight index="10" start="10062" length="538"/>
+        <highlight index="11" start="10578" length="403"/>
+        <highlight index="12" start="10891" length="874"/>
+        <highlight index="13" start="11967" length="941"/>
+      </highlights>
+    </line>
+    <line words="Aqu&#xED; est&#xE1; mi padre. Se llama Pedro. 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="118240" length="16236" useLNutResource="true" image="1#4#4">
+      <subtitles>
+        <subtitle lang="ke" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Her er min far. Han hedder Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="Hier is mijn vader. Zijn naam is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2554" length="799"/>
+        <highlight index="1" start="3300" length="905"/>
+        <highlight index="2" start="4125" length="399"/>
+        <highlight index="3" start="4417" length="1092"/>
+        <highlight index="4" start="6414" length="532"/>
+        <highlight index="5" start="6813" length="772"/>
+        <highlight index="6" start="7558" length="1144"/>
+        <highlight index="7" start="9421" length="506"/>
+        <highlight index="8" start="9847" length="665"/>
+        <highlight index="9" start="10379" length="612"/>
+        <highlight index="10" start="11177" length="559"/>
+        <highlight index="11" start="11710" length="532"/>
+        <highlight index="12" start="12136" length="585"/>
+        <highlight index="13" start="12907" length="546"/>
+        <highlight index="14" start="13360" length="559"/>
+        <highlight index="15" start="13892" length="586"/>
+        <highlight index="16" start="14797" length="852"/>
+      </highlights>
+    </line>
+    <line words="Es un pato. Mi padre es un pato. &#xA1;Mi padre es un pato gris!" start="134500" length="12817" useLNutResource="true" image="5#2#9">
+      <subtitles>
+        <subtitle lang="ke" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="fj" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="sb" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="vu" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="dk" line="Han er en and! Min far er en and! Min far er en gr&#xE5; and!"/>
+        <subtitle lang="zm" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="bs" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="ca" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="nz" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="vc" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="sco" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="to" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="bz" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="na" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="ag" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="pk" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="jm" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="za" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="ng" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="en" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="mt" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="tt" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="bw" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="sl" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="au" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="sg" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="ws" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="fr" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/>
+        <subtitle lang="dm" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="us" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="mu" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="ug" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="bd" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="rw" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="gh" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="gy" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="gm" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="zw" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="tz" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+        <subtitle lang="nl" line="Hij is een eend! Mijn vader is een eend! Mijn vader is een grijze eend!"/>
+      <subtitle lang="cd" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="mg" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="cm" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="ci" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="bf" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="ne" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="sn" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="ml" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="bi" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="bj" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="tg" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="ga" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/><subtitle lang="dj" line="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!"/>
+				<subtitle lang="ae" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+				<subtitle lang="ine" line="He&#x2019;s a duck! My dad is a duck. My dad is a grey duck!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="609" length="609"/>
+        <highlight index="1" start="1155" length="546"/>
+        <highlight index="2" start="1554" length="652"/>
+        <highlight index="3" start="3130" length="315"/>
+        <highlight index="4" start="3382" length="651"/>
+        <highlight index="5" start="4475" length="609"/>
+        <highlight index="6" start="5147" length="462"/>
+        <highlight index="7" start="5546" length="693"/>
+        <highlight index="8" start="7122" length="294"/>
+        <highlight index="9" start="7374" length="756"/>
+        <highlight index="10" start="8340" length="379"/>
+        <highlight index="11" start="8719" length="483"/>
+        <highlight index="12" start="9181" length="546"/>
+        <highlight index="13" start="9958" length="904"/>
+      </highlights>
+    </line>
+    <line words="&#xA1;Ahora por m&#xED;! 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="147146" length="11178" useLNutResource="true" image="2#3#1">
+      <subtitles>
+        <subtitle lang="ke" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Nu mig selv. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="En nu ik.1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Now for me! 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="348" length="623"/>
+        <highlight index="1" start="1484" length="385"/>
+        <highlight index="2" start="1777" length="403"/>
+        <highlight index="3" start="3994" length="421"/>
+        <highlight index="4" start="4324" length="476"/>
+        <highlight index="5" start="4764" length="568"/>
+        <highlight index="6" start="5661" length="422"/>
+        <highlight index="7" start="6028" length="495"/>
+        <highlight index="8" start="6449" length="605"/>
+        <highlight index="9" start="7310" length="495"/>
+        <highlight index="10" start="7732" length="531"/>
+        <highlight index="11" start="8190" length="660"/>
+        <highlight index="12" start="9363" length="824"/>
+      </highlights>
+    </line>
+    <line words="Soy un conejo. &#xA1;Soy un conejo rojo!" start="158255" length="8374" useLNutResource="true" image="5#3#7">
+      <subtitles>
+        <subtitle lang="ke" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="fj" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sb" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="vu" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="dk" line="Jeg er en kanin! Jeg er en r&#xF8;d kanin!"/>
+        <subtitle lang="zm" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bs" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ca" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="nz" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="vc" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sco" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="to" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bz" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="na" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ag" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="pk" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="jm" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="za" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ng" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="en" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="mt" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="tt" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bw" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sl" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="au" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sg" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ws" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="fr" line="Je suis un lapin! Je suis un lapin rouge!"/>
+        <subtitle lang="dm" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="us" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="mu" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ug" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bd" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="rw" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gh" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gy" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gm" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="zw" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="tz" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+        <subtitle lang="nl" line="Ik ben een konijn! Ik ben een rood konijn!"/>
+      <subtitle lang="cd" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="mg" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="cm" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="ci" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="bf" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="ne" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="sn" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="ml" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="bi" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="bj" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="tg" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="ga" line="Je suis un lapin! Je suis un lapin rouge!"/><subtitle lang="dj" line="Je suis un lapin! Je suis un lapin rouge!"/>
+				<subtitle lang="ae" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+				<subtitle lang="ine" line="I&#x2019;m a rabbit. I&#x2019;m a red rabbit!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="452" length="426"/>
+        <highlight index="1" start="1153" length="275"/>
+        <highlight index="2" start="1400" length="659"/>
+        <highlight index="3" start="3733" length="590"/>
+        <highlight index="4" start="4571" length="370"/>
+        <highlight index="5" start="4941" length="1002"/>
+        <highlight index="6" start="5943" length="1057"/>
+      </highlights>
+    </line>
+    <line words="&#xA1;Ahora por t&#xED;! 1 2 3 4 5 6 7 8 9 &#xA1;10!" start="166288" length="10595" useLNutResource="true" image="2#2#10">
+      <subtitles>
+        <subtitle lang="ke" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Nu dig. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vc" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fr" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nl" line="En nu jij.1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="cd" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="mg" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="cm" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ci" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bf" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ne" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="sn" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ml" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bi" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="bj" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="tg" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="ga" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/><subtitle lang="dj" line="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ae" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+				<subtitle lang="ine" line="Now for you! 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="538" length="747"/>
+        <highlight index="1" start="1840" length="400"/>
+        <highlight index="2" start="2188" length="626"/>
+        <highlight index="3" start="4150" length="451"/>
+        <highlight index="4" start="4498" length="503"/>
+        <highlight index="5" start="4932" length="556"/>
+        <highlight index="6" start="5835" length="538"/>
+        <highlight index="7" start="6321" length="556"/>
+        <highlight index="8" start="6825" length="591"/>
+        <highlight index="9" start="7589" length="521"/>
+        <highlight index="10" start="8058" length="521"/>
+        <highlight index="11" start="8510" length="573"/>
+        <highlight index="12" start="9465" length="816"/>
+      </highlights>
+    </line>
+    <line words="Y tu, &#xBF;Que eres?" start="176542" length="9058" useLNutResource="true" image="2#6#4">
+      <subtitles>
+        <subtitle lang="ke" line="What are you?"/>
+        <subtitle lang="fj" line="What are you?"/>
+        <subtitle lang="sb" line="What are you?"/>
+        <subtitle lang="vu" line="What are you?"/>
+        <subtitle lang="dk" line="Hvad er du?"/>
+        <subtitle lang="zm" line="What are you?"/>
+        <subtitle lang="bs" line="What are you?"/>
+        <subtitle lang="ca" line="What are you?"/>
+        <subtitle lang="nz" line="What are you?"/>
+        <subtitle lang="vc" line="What are you?"/>
+        <subtitle lang="sco" line="What are you?"/>
+        <subtitle lang="to" line="What are you?"/>
+        <subtitle lang="bz" line="What are you?"/>
+        <subtitle lang="na" line="What are you?"/>
+        <subtitle lang="ag" line="What are you?"/>
+        <subtitle lang="pk" line="What are you?"/>
+        <subtitle lang="jm" line="What are you?"/>
+        <subtitle lang="za" line="What are you?"/>
+        <subtitle lang="ng" line="What are you?"/>
+        <subtitle lang="en" line="What are you?"/>
+        <subtitle lang="mt" line="What are you?"/>
+        <subtitle lang="tt" line="What are you?"/>
+        <subtitle lang="bw" line="What are you?"/>
+        <subtitle lang="sl" line="What are you?"/>
+        <subtitle lang="au" line="What are you?"/>
+        <subtitle lang="sg" line="What are you?"/>
+        <subtitle lang="ws" line="What are you?"/>
+        <subtitle lang="dm" line="What are you?"/>
+        <subtitle lang="us" line="What are you?"/>
+        <subtitle lang="mu" line="What are you?"/>
+        <subtitle lang="ug" line="What are you?"/>
+        <subtitle lang="bd" line="What are you?"/>
+        <subtitle lang="rw" line="What are you?"/>
+        <subtitle lang="gh" line="What are you?"/>
+        <subtitle lang="gy" line="What are you?"/>
+        <subtitle lang="gm" line="What are you?"/>
+        <subtitle lang="zw" line="What are you?"/>
+        <subtitle lang="tz" line="What are you?"/>
+        <subtitle lang="nl" line="Wat ben jij?"/>
+      <subtitle lang="ae" line="What are you?"/>
+				<subtitle lang="ine" line="What are you?"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1395" length="356"/>
+        <highlight index="1" start="1707" length="371"/>
+        <highlight index="2" start="2553" length="386"/>
+        <highlight index="3" start="2895" length="594"/>
+      </highlights>
+    </line>
+  </lines>
+</karaoke>

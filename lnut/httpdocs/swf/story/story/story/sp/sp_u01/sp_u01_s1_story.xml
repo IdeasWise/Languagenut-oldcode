@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="185600" >
+	<lines>
+		<line words="Me llamo Juán. Soy un mago." start="0" length="7006" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="2541" length="241" />
+				<highlight index="1" start="2753" length="349" />
+				<highlight index="2" start="3146" length="685" />
+				<highlight index="3" start="4972" length="415" />
+				<highlight index="4" start="5546" length="379" />
+				<highlight index="5" start="5902" length="527" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="My name’s John. I’m a wizard." />
+				<subtitle lang="nl" line="Hallo. Mijn naam is Henk-Jan. Ik ben een tovenaar." />
+				<subtitle lang="nz" line="My name’s John. I’m a wizard." />
+				<subtitle lang="dk" line="Hej. Jeg hedder John. Jeg er en troldmand." />
+			</subtitles>
+		</line>
+		<line words="¿Me puedes ayudar con mis trucos? Es fácil. Cuento hasta diez." start="6836" length="9912" useLNutResource="true" image="2#2#10" >
+			<highlights>
+				<highlight index="0" start="1137" length="325" />
+				<highlight index="1" start="1462" length="455" />
+				<highlight index="2" start="1803" length="520" />
+				<highlight index="3" start="2339" length="346" />
+				<highlight index="4" start="2697" length="314" />
+				<highlight index="5" start="2973" length="622" />
+				<highlight index="6" start="4971" length="341" />
+				<highlight index="7" start="5280" length="520" />
+				<highlight index="8" start="7035" length="601" />
+				<highlight index="9" start="7766" length="682" />
+				<highlight index="10" start="8465" length="666" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Can you help me with my spells? It’s easy! I count to ten." />
+				<subtitle lang="nl" line="Jij kan me helpen met mijn toverspreuken. Het is heel makkelijk! Ik tel tot tien." />
+				<subtitle lang="nz" line="Can you help me with my spells? It’s easy! I count to ten." />
+				<subtitle lang="dk" line="Du kan hjælpe mig med at trylle. Det er let. Jeg tæller til ti." />
+			</subtitles>
+		</line>
+		<line words="Vamos a practicar. ¿Preparados? 1 2 3 4 5 6 7 8 9 10 ¡Excelente!" start="16406" length="15040" useLNutResource="true" image="2#6#4" >
+			<highlights>
+				<highlight index="0" start="1365" length="484" />
+				<highlight index="1" start="1827" length="378" />
+				<highlight index="2" start="2122" length="819" />
+				<highlight index="3" start="3382" length="1072" />
+				<highlight index="4" start="6093" length="473" />
+				<highlight index="5" start="6513" length="504" />
+				<highlight index="6" start="7017" length="547" />
+				<highlight index="7" start="7879" length="567" />
+				<highlight index="8" start="8383" length="630" />
+				<highlight index="9" start="9034" length="568" />
+				<highlight index="10" start="9742" length="444" />
+				<highlight index="11" start="10184" length="546" />
+				<highlight index="12" start="10672" length="588" />
+				<highlight index="13" start="11672" length="787" />
+				<highlight index="14" start="13502" length="1266" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Let’s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!" />
+				<subtitle lang="nl" line="Even oefenen. Ben je er klaar voor? 1 2 3 4 5 6 7 8 9 10! Heel goed!" />
+				<subtitle lang="nz" line="Let’s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!" />
+				<subtitle lang="dk" line="Lad os prove. Klar? 1 2 3 4 5 6 7 8 9 10! Flot!" />
+			</subtitles>
+		</line>
+		<line words="Aquí está mi hermana. Se llama María. 1 2 3 4 5 6 7 8 9 ¡10!" start="31446" length="13843" useLNutResource="true" image="1#4#1" >
+			<highlights>
+				<highlight index="0" start="658" length="681" />
+				<highlight index="1" start="1270" length="726" />
+				<highlight index="2" start="1906" length="431" />
+				<highlight index="3" start="2269" length="817" />
+				<highlight index="4" start="3607" length="408" />
+				<highlight index="5" start="3880" length="726" />
+				<highlight index="6" start="4470" length="907" />
+				<highlight index="7" start="6535" length="431" />
+				<highlight index="8" start="6875" length="522" />
+				<highlight index="9" start="7374" length="636" />
+				<highlight index="10" start="8305" length="522" />
+				<highlight index="11" start="8781" length="409" />
+				<highlight index="12" start="9122" length="521" />
+				<highlight index="13" start="9984" length="545" />
+				<highlight index="14" start="10392" length="545" />
+				<highlight index="15" start="10891" length="567" />
+				<highlight index="16" start="11731" length="908" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="Hier is mijn zus. Haar naam is Margriet. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Here is my sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Her er min søster. Hun hedder Marie. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Es una oveja. Mi hermana es una oveja. Mi hermana es una oveja blanca." start="44947" length="13672" useLNutResource="true" image="5#1#2" >
+			<highlights>
+				<highlight index="0" start="605" length="560" />
+				<highlight index="1" start="1142" length="538" />
+				<highlight index="2" start="1613" length="829" />
+				<highlight index="3" start="3428" length="382" />
+				<highlight index="4" start="3809" length="694" />
+				<highlight index="5" start="4706" length="583" />
+				<highlight index="6" start="5423" length="426" />
+				<highlight index="7" start="5804" length="874" />
+				<highlight index="8" start="7821" length="515" />
+				<highlight index="9" start="8269" length="852" />
+				<highlight index="10" start="9412" length="426" />
+				<highlight index="11" start="9860" length="561" />
+				<highlight index="12" start="10354" length="874" />
+				<highlight index="13" start="11541" length="1255" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a sheep! My sister is a sheep! My sister is a white sheep!" />
+				<subtitle lang="nl" line="Ze is een schaap! Mijn zus is een schaap! Mijn zus is een wit schaap!" />
+				<subtitle lang="nz" line="She’s a sheep! My sister is a sheep! My sister is a white sheep!" />
+				<subtitle lang="dk" line="Hun er et får! Min søster er et får! Min søster er et hvidt får!" />
+			</subtitles>
+		</line>
+		<line words="Aquí está mi madre. Se llama Jane. 1 2 3 4 5 6 7 8 9 ¡10!" start="58277" length="15894" useLNutResource="true" image="1#4#3" >
+			<highlights>
+				<highlight index="0" start="1693" length="756" />
+				<highlight index="1" start="2631" length="600" />
+				<highlight index="2" start="3100" length="365" />
+				<highlight index="3" start="3439" length="833" />
+				<highlight index="4" start="5497" length="521" />
+				<highlight index="5" start="5940" length="521" />
+				<highlight index="6" start="6357" length="756" />
+				<highlight index="7" start="9118" length="599" />
+				<highlight index="8" start="9587" length="677" />
+				<highlight index="9" start="10186" length="574" />
+				<highlight index="10" start="10994" length="573" />
+				<highlight index="11" start="11515" length="469" />
+				<highlight index="12" start="11932" length="626" />
+				<highlight index="13" start="12635" length="496" />
+				<highlight index="14" start="13078" length="573" />
+				<highlight index="15" start="13599" length="756" />
+				<highlight index="16" start="14537" length="965" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="Hier is mijn moeder. Haar naam is Marjanne. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Her er min mor. Hun hedder Jane. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Es una cerdita. Mi madre es una cerdita. ¡Mi madre es una cerdita rosa!" start="74171" length="14185" useLNutResource="true" image="5#2#10" >
+			<highlights>
+				<highlight index="0" start="976" length="488" />
+				<highlight index="1" start="1371" length="535" />
+				<highlight index="2" start="1813" length="991" />
+				<highlight index="3" start="4022" length="628" />
+				<highlight index="4" start="4534" length="721" />
+				<highlight index="5" start="5371" length="396" />
+				<highlight index="6" start="5813" length="744" />
+				<highlight index="7" start="6510" length="977" />
+				<highlight index="8" start="8766" length="581" />
+				<highlight index="9" start="9254" length="674" />
+				<highlight index="10" start="10184" length="549" />
+				<highlight index="11" start="10696" length="549" />
+				<highlight index="12" start="11579" length="837" />
+				<highlight index="13" start="12904" length="1139" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a piggy! My mum is a piggy! My mum is a pink piggy!" />
+				<subtitle lang="nl" line="Ze is een varken! Mijn moeder is een varken! Mijn moeder is een roze varken!" />
+				<subtitle lang="nz" line="She’s a piggy! My mum is a piggy! My mum is a pink piggy!" />
+				<subtitle lang="dk" line="Hun er en gris! Min mor er en gris! Min mor er en lyserød gris!" />
+			</subtitles>
+		</line>
+		<line words="Aquí está mi hermano. Se llama Oliver. 1 2 3 4 5 6 7 8 9 ¡10!" start="88075" length="16407" useLNutResource="true" image="1#4#2" >
+			<highlights>
+				<highlight index="0" start="1721" length="968" />
+				<highlight index="1" start="2608" length="807" />
+				<highlight index="2" start="3442" length="484" />
+				<highlight index="3" start="3819" length="995" />
+				<highlight index="4" start="5540" length="618" />
+				<highlight index="5" start="6078" length="645" />
+				<highlight index="6" start="6965" length="1479" />
+				<highlight index="7" start="9386" length="618" />
+				<highlight index="8" start="9977" length="646" />
+				<highlight index="9" start="10623" length="699" />
+				<highlight index="10" start="11457" length="564" />
+				<highlight index="11" start="11941" length="511" />
+				<highlight index="12" start="12371" length="511" />
+				<highlight index="13" start="13151" length="538" />
+				<highlight index="14" start="13554" length="511" />
+				<highlight index="15" start="14012" length="618" />
+				<highlight index="16" start="14980" length="833" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="Hier is mijn broer. Zijn naam is Javier. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Here is my brother.His name is Oliver. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Her er min bror. Han hedder Oliver. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Es un ratón. Mi hermano es un ratón. ¡Mi hermano es un ratón marrón! " start="104640" length="13672" useLNutResource="true" image="5#3#4" >
+			<highlights>
+				<highlight index="0" start="739" length="583" />
+				<highlight index="1" start="1277" length="448" />
+				<highlight index="2" start="1613" length="807" />
+				<highlight index="3" start="4011" length="359" />
+				<highlight index="4" start="4347" length="942" />
+				<highlight index="5" start="5423" length="583" />
+				<highlight index="6" start="6028" length="381" />
+				<highlight index="7" start="6364" length="1009" />
+				<highlight index="8" start="8471" length="493" />
+				<highlight index="9" start="8897" length="939" />
+				<highlight index="10" start="10062" length="538" />
+				<highlight index="11" start="10578" length="403" />
+				<highlight index="12" start="10891" length="874" />
+				<highlight index="13" start="11967" length="941" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a mouse! My brother is a mouse. My brother is a brown mouse!" />
+				<subtitle lang="nl" line="Hij is een muis! Mijn broer is een muis! Mijn broer is een bruine muis!" />
+				<subtitle lang="nz" line="He’s a mouse! My brother is a mouse. My brother is a brown mouse!" />
+				<subtitle lang="dk" line="Han er en mus! Min bror er en mus! Min bror er en brun mus!" />
+			</subtitles>
+		</line>
+		<line words="Aquí está mi padre. Se llama Pedro. 1 2 3 4 5 6 7 8 9 ¡10!" start="118240" length="16236" useLNutResource="true" image="1#4#4" >
+			<highlights>
+				<highlight index="0" start="2554" length="799" />
+				<highlight index="1" start="3300" length="905" />
+				<highlight index="2" start="4125" length="399" />
+				<highlight index="3" start="4417" length="1092" />
+				<highlight index="4" start="6414" length="532" />
+				<highlight index="5" start="6813" length="772" />
+				<highlight index="6" start="7558" length="1144" />
+				<highlight index="7" start="9421" length="506" />
+				<highlight index="8" start="9847" length="665" />
+				<highlight index="9" start="10379" length="612" />
+				<highlight index="10" start="11177" length="559" />
+				<highlight index="11" start="11710" length="532" />
+				<highlight index="12" start="12136" length="585" />
+				<highlight index="13" start="12907" length="546" />
+				<highlight index="14" start="13360" length="559" />
+				<highlight index="15" start="13892" length="586" />
+				<highlight index="16" start="14797" length="852" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="Hier is mijn vader. Zijn naam is Peter. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Her er min far. Han hedder Peter. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Es un pato. Mi padre es un pato. ¡Mi padre es un pato gris!" start="134500" length="12817" useLNutResource="true" image="5#2#9" >
+			<highlights>
+				<highlight index="0" start="609" length="609" />
+				<highlight index="1" start="1155" length="546" />
+				<highlight index="2" start="1554" length="652" />
+				<highlight index="3" start="3130" length="315" />
+				<highlight index="4" start="3382" length="651" />
+				<highlight index="5" start="4475" length="609" />
+				<highlight index="6" start="5147" length="462" />
+				<highlight index="7" start="5546" length="693" />
+				<highlight index="8" start="7122" length="294" />
+				<highlight index="9" start="7374" length="756" />
+				<highlight index="10" start="8340" length="379" />
+				<highlight index="11" start="8719" length="483" />
+				<highlight index="12" start="9181" length="546" />
+				<highlight index="13" start="9958" length="904" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a duck! My dad is a duck. My dad is a grey duck!" />
+				<subtitle lang="nl" line="Hij is een eend! Mijn vader is een eend! Mijn vader is een grijze eend!" />
+				<subtitle lang="nz" line="He’s a duck! My dad is a duck. My dad is a grey duck!" />
+				<subtitle lang="dk" line="Han er en and! Min far er en and! Min far er en grå and!" />
+			</subtitles>
+		</line>
+		<line words="¡Ahora por mí! 1 2 3 4 5 6 7 8 9 ¡10!" start="147146" length="11178" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="348" length="623" />
+				<highlight index="1" start="1484" length="385" />
+				<highlight index="2" start="1777" length="403" />
+				<highlight index="3" start="3994" length="421" />
+				<highlight index="4" start="4324" length="476" />
+				<highlight index="5" start="4764" length="568" />
+				<highlight index="6" start="5661" length="422" />
+				<highlight index="7" start="6028" length="495" />
+				<highlight index="8" start="6449" length="605" />
+				<highlight index="9" start="7310" length="495" />
+				<highlight index="10" start="7732" length="531" />
+				<highlight index="11" start="8190" length="660" />
+				<highlight index="12" start="9363" length="824" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for me! 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="En nu ik.1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Now for me! 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Nu mig selv. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Soy un conejo. ¡Soy un conejo rojo!" start="158255" length="8374" useLNutResource="true" image="5#3#7" >
+			<highlights>
+				<highlight index="0" start="452" length="426" />
+				<highlight index="1" start="1153" length="275" />
+				<highlight index="2" start="1400" length="659" />
+				<highlight index="3" start="3733" length="590" />
+				<highlight index="4" start="4571" length="370" />
+				<highlight index="5" start="4941" length="1002" />
+				<highlight index="6" start="5943" length="1057" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="I’m a rabbit. I’m a red rabbit!" />
+				<subtitle lang="nl" line="Ik ben een konijn! Ik ben een rood konijn!" />
+				<subtitle lang="nz" line="I’m a rabbit. I’m a red rabbit!" />
+				<subtitle lang="dk" line="Jeg er en kanin! Jeg er en rød kanin!" />
+			</subtitles>
+		</line>
+		<line words="¡Ahora por tí! 1 2 3 4 5 6 7 8 9 ¡10!" start="166288" length="10595" useLNutResource="true" image="2#2#10" >
+			<highlights>
+				<highlight index="0" start="538" length="747" />
+				<highlight index="1" start="1840" length="400" />
+				<highlight index="2" start="2188" length="626" />
+				<highlight index="3" start="4150" length="451" />
+				<highlight index="4" start="4498" length="503" />
+				<highlight index="5" start="4932" length="556" />
+				<highlight index="6" start="5835" length="538" />
+				<highlight index="7" start="6321" length="556" />
+				<highlight index="8" start="6825" length="591" />
+				<highlight index="9" start="7589" length="521" />
+				<highlight index="10" start="8058" length="521" />
+				<highlight index="11" start="8510" length="573" />
+				<highlight index="12" start="9465" length="816" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for you! 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nl" line="En nu jij.1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="nz" line="Now for you! 1 2 3 4 5 6 7 8 9 10!" />
+				<subtitle lang="dk" line="Nu dig. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="Y tu, ¿Que eres?" start="176542" length="9058" useLNutResource="true" image="2#6#4" >
+			<highlights>
+				<highlight index="0" start="1395" length="356" />
+				<highlight index="1" start="1707" length="371" />
+				<highlight index="2" start="2553" length="386" />
+				<highlight index="3" start="2895" length="594" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="What are you?" />
+				<subtitle lang="nl" line="Wat ben jij?" />
+				<subtitle lang="nz" line="What are you?" />
+				<subtitle lang="dk" line="Hvad er du?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

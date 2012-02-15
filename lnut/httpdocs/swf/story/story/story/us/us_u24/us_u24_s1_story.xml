@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="231418" >
+	<lines>
+		<line words="Television" start="0" length="4658" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1684" length="1119" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Fjernsyn" />
+				<subtitle lang="nl" line="Televisie" />
+			</subtitles>
+		</line>
+		<line words="Alfredo and Alfredo’s Mum are sitting in the lounge. Alfredo is watching television. Alfredo’s Mum is reading the newspaper." start="4658" length="12111" useLNutResource="true" image="24#1#7" >
+			<highlights>
+				<highlight index="0" start="1754" length="664" />
+				<highlight index="1" start="2450" length="174" />
+				<highlight index="2" start="2671" length="538" />
+				<highlight index="3" start="3240" length="285" />
+				<highlight index="4" start="3588" length="200" />
+				<highlight index="5" start="3794" length="142" />
+				<highlight index="6" start="3936" length="100" />
+				<highlight index="7" start="4063" length="100" />
+				<highlight index="8" start="4221" length="569" />
+				<highlight index="9" start="5438" length="395" />
+				<highlight index="10" start="5849" length="142" />
+				<highlight index="11" start="6007" length="348" />
+				<highlight index="12" start="6402" length="759" />
+				<highlight index="13" start="7746" length="538" />
+				<highlight index="14" start="8363" length="427" />
+				<highlight index="15" start="8948" length="126" />
+				<highlight index="16" start="9106" length="237" />
+				<highlight index="17" start="9375" length="100" />
+				<highlight index="18" start="9533" length="585" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredo og Alfredos mor sidder i stuen. Alfredo ser fjernsyn. Alfredos mor læser avisen." />
+				<subtitle lang="nl" line="Alfred en zijn moeder zitten in de woonkamer. Alfred kijkt televisie. Alfreds moeder leest de krant." />
+			</subtitles>
+		</line>
+		<line words="Alfredo is watching an episode of The Simpsons. Homer Simpson is answering a newspaper questionnaire. He reads out some of the questions to his son, Bart: “Bart, what is your name? Bart, where do you live? §" start="16583" length="17514" useLNutResource="true" image="24#4#1" >
+			<highlights>
+				<highlight index="0" start="1989" length="480" />
+				<highlight index="1" start="2492" length="100" />
+				<highlight index="2" start="2652" length="365" />
+				<highlight index="3" start="3086" length="131" />
+				<highlight index="4" start="3246" length="549" />
+				<highlight index="5" start="3840" length="155" />
+				<highlight index="6" start="4023" length="100" />
+				<highlight index="7" start="4138" length="754" />
+				<highlight index="8" start="5349" length="275" />
+				<highlight index="9" start="5624" length="983" />
+				<highlight index="10" start="6835" length="138" />
+				<highlight index="11" start="7064" length="274" />
+				<highlight index="12" start="7338" length="100" />
+				<highlight index="13" start="7453" length="434" />
+				<highlight index="14" start="7910" length="846" />
+				<highlight index="15" start="9305" length="160" />
+				<highlight index="16" start="9533" length="275" />
+				<highlight index="17" start="9830" length="115" />
+				<highlight index="18" start="9991" length="100" />
+				<highlight index="19" start="10128" length="137" />
+				<highlight index="20" start="10311" length="160" />
+				<highlight index="21" start="10493" length="595" />
+				<highlight index="22" start="11134" length="100" />
+				<highlight index="23" start="11294" length="100" />
+				<highlight index="24" start="11454" length="100" />
+				<highlight index="25" start="11637" length="686" />
+				<highlight index="26" start="12734" length="960" />
+				<highlight index="27" start="13900" length="160" />
+				<highlight index="28" start="14060" length="100" />
+				<highlight index="29" start="14243" length="160" />
+				<highlight index="30" start="14472" length="708" />
+				<highlight index="31" start="15455" length="594" />
+				<highlight index="32" start="16095" length="200" />
+				<highlight index="33" start="16278" length="100" />
+				<highlight index="34" start="16506" length="109" />
+				<highlight index="35" start="16644" length="754" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredo ser en episode med Simpsons. Homer Simpson svarer på spørgsmål fra avisen. Han læser nogle af spørgsmålene højt for sin søn, Bart: ”Bart, hvad hedder du? Bart, hvor bor du? §" />
+				<subtitle lang="nl" line="Alfred kijkt een aflevering van The Simpsons. Homer Simpson beantwoordt een enquête in de krant. Hij leest een paar van de vragen voor aan zijn zoon, Bart: “Bart, wat is je naam? Bart, waar woon je?§ " />
+			</subtitles>
+		</line>
+		<line words="§Bart, do you like chips? Bart, how old are you? Bart, do you like tennis?” Bart does not answer. Bart goes off on his skateboard." start="32979" length="12297" useLNutResource="true" image="8#1#1" >
+			<highlights>
+				<highlight index="0" start="1107" length="642" />
+				<highlight index="1" start="1926" length="160" />
+				<highlight index="2" start="2086" length="129" />
+				<highlight index="3" start="2231" length="176" />
+				<highlight index="4" start="2407" length="386" />
+				<highlight index="5" start="2841" length="594" />
+				<highlight index="6" start="3515" length="128" />
+				<highlight index="7" start="3659" length="113" />
+				<highlight index="8" start="3788" length="128" />
+				<highlight index="9" start="3948" length="453" />
+				<highlight index="10" start="4494" length="915" />
+				<highlight index="11" start="5457" length="100" />
+				<highlight index="12" start="5634" length="100" />
+				<highlight index="13" start="5746" length="100" />
+				<highlight index="14" start="5891" length="850" />
+				<highlight index="15" start="7159" length="305" />
+				<highlight index="16" start="7496" length="100" />
+				<highlight index="17" start="7592" length="100" />
+				<highlight index="18" start="7721" length="690" />
+				<highlight index="19" start="8989" length="256" />
+				<highlight index="20" start="9326" length="257" />
+				<highlight index="21" start="9615" length="241" />
+				<highlight index="22" start="9872" length="160" />
+				<highlight index="23" start="10048" length="225" />
+				<highlight index="24" start="10289" length="931" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="§Bart, kan du lide pommes fritter? Bart, hvor gammel er du? Bart, kan du lide tennis?” Bart svarer ikke. Han kører af sted på sit skateboard." />
+				<subtitle lang="nl" line="§Bart, lust je graag chips? Bart, hoe oud ben je? Bart, hou je van tennis?” Bart geeft geen antwoord. Bart gaat weg met zijn skateboard." />
+			</subtitles>
+		</line>
+		<line words="Alfredo laughs loudly. “I love watching TV,” says Alfredo. “It’s brilliant.”" start="44904" length="12298" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3820" length="401" />
+				<highlight index="1" start="4286" length="311" />
+				<highlight index="2" start="4735" length="682" />
+				<highlight index="3" start="5779" length="163" />
+				<highlight index="4" start="6004" length="465" />
+				<highlight index="5" start="6549" length="402" />
+				<highlight index="6" start="7047" length="386" />
+				<highlight index="7" start="7465" length="200" />
+				<highlight index="8" start="7657" length="593" />
+				<highlight index="9" start="8572" length="460" />
+				<highlight index="10" start="9359" length="876" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredo griner højt. ”Jeg elsker at se TV”, siger Alfredo. ”Det er genialt.”" />
+				<subtitle lang="nl" line="Alfred lacht hardop.“Ik ben gek op televisie kijken,” zegt Alfred. “Het is geweldig.”" />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum looks up. “I love reading the newspaper. Could you turn the TV down, please? It’s annoying,” says Alfredo’s Mum." start="56829" length="13788" useLNutResource="true" image="24#4#1" >
+			<highlights>
+				<highlight index="0" start="1727" length="558" />
+				<highlight index="1" start="2339" length="378" />
+				<highlight index="2" start="2843" length="162" />
+				<highlight index="3" start="3023" length="200" />
+				<highlight index="4" start="3977" length="342" />
+				<highlight index="5" start="4373" length="324" />
+				<highlight index="6" start="4715" length="360" />
+				<highlight index="7" start="5129" length="162" />
+				<highlight index="8" start="5327" length="666" />
+				<highlight index="9" start="6335" length="162" />
+				<highlight index="10" start="6533" length="180" />
+				<highlight index="11" start="6767" length="200" />
+				<highlight index="12" start="6983" length="144" />
+				<highlight index="13" start="7217" length="200" />
+				<highlight index="14" start="7469" length="306" />
+				<highlight index="15" start="7847" length="612" />
+				<highlight index="16" start="8513" length="432" />
+				<highlight index="17" start="8999" length="702" />
+				<highlight index="18" start="10313" length="198" />
+				<highlight index="19" start="10547" length="522" />
+				<highlight index="20" start="11123" length="900" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor ser op. ”Jeg elsker at læse avis. Kan du lige skrue lidt ned for TVet? Det er irriterende”, siger Alfredos mor." />
+				<subtitle lang="nl" line="Alfreds moeder kijkt op. “Ik lees graag de krant. Kan je de tv iets zachter zetten, alsjeblieft? Het is vervelend,” zegt Alfreds moeder." />
+			</subtitles>
+		</line>
+		<line words="Alfredo turns the TV up. “I LOVE CHIPS! I LIVE IN LONDON!” says Homer Simpson. Alfredo laughs loudly." start="70431" length="13043" useLNutResource="true" image="21#3#6" >
+			<highlights>
+				<highlight index="0" start="1498" length="630" />
+				<highlight index="1" start="2230" length="200" />
+				<highlight index="2" start="2451" length="200" />
+				<highlight index="3" start="2656" length="527" />
+				<highlight index="4" start="3200" length="477" />
+				<highlight index="5" start="4171" length="200" />
+				<highlight index="6" start="4460" length="239" />
+				<highlight index="7" start="4767" length="477" />
+				<highlight index="8" start="5431" length="200" />
+				<highlight index="9" start="5686" length="200" />
+				<highlight index="10" start="5891" length="100" />
+				<highlight index="11" start="5993" length="800" />
+				<highlight index="12" start="7321" length="272" />
+				<highlight index="13" start="7610" length="200" />
+				<highlight index="14" start="7815" length="595" />
+				<highlight index="15" start="9262" length="528" />
+				<highlight index="16" start="9926" length="374" />
+				<highlight index="17" start="10351" length="613" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredo skruer op for TVet. ”Jeg ELSKER POMMES FRITTER! JEG BOR I LONDON!” siger Homer Simpson. Alfredo griner højt." />
+				<subtitle lang="nl" line="Alfred zet de tv nog wat harder. “IK LUST GRAAG CHIPS! IK WOON IN LONDEN!” zegt Homer Simpson. Alfred lacht hard." />
+			</subtitles>
+		</line>
+		<line words="“Alfredo!” says Alfredo’s Mum. “I am trying to read.§ “And I’m trying to watch,” says Alfredo. “Anyway,” says Alfredo, “why read when you can watch TV? Even my teacher doesn’t like the newspaper. She actually likes The Simpsons”" start="83288" length="21241" useLNutResource="true" image="24#3#10" >
+			<highlights>
+				<highlight index="0" start="1608" length="1109" />
+				<highlight index="1" start="2828" length="200" />
+				<highlight index="2" start="3050" length="554" />
+				<highlight index="3" start="3604" length="250" />
+				<highlight index="4" start="3909" length="200" />
+				<highlight index="5" start="4076" length="200" />
+				<highlight index="6" start="4297" length="860" />
+				<highlight index="7" start="5240" length="200" />
+				<highlight index="8" start="5517" length="860" />
+				<highlight index="9" start="6710" length="200" />
+				<highlight index="10" start="6931" length="555" />
+				<highlight index="11" start="7514" length="333" />
+				<highlight index="12" start="7847" length="200" />
+				<highlight index="13" start="8068" length="583" />
+				<highlight index="14" start="8762" length="200" />
+				<highlight index="15" start="8983" length="749" />
+				<highlight index="16" start="10425" length="638" />
+				<highlight index="17" start="11423" length="250" />
+				<highlight index="18" start="11673" length="638" />
+				<highlight index="19" start="12671" length="499" />
+				<highlight index="20" start="13170" length="361" />
+				<highlight index="21" start="13558" length="100" />
+				<highlight index="22" start="13697" length="100" />
+				<highlight index="23" start="13836" length="200" />
+				<highlight index="24" start="14058" length="200" />
+				<highlight index="25" start="14335" length="527" />
+				<highlight index="26" start="14973" length="200" />
+				<highlight index="27" start="15222" length="200" />
+				<highlight index="28" start="15416" length="499" />
+				<highlight index="29" start="15943" length="250" />
+				<highlight index="30" start="16193" length="100" />
+				<highlight index="31" start="16276" length="100" />
+				<highlight index="32" start="16470" length="776" />
+				<highlight index="33" start="17468" length="200" />
+				<highlight index="34" start="17718" length="443" />
+				<highlight index="35" start="18189" length="250" />
+				<highlight index="36" start="18494" length="100" />
+				<highlight index="37" start="18660" length="1165" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Alfredo!”, siger Alfredos mor. ”Jeg prøver på at læse.” ”Og jeg prøver på at se TV”, siger Alfredo. ”Hvorfor læse, når man kan se TV? Selv min lærer kan ikke lide aviser. Hun kan faktisk godt lide Simpsons”." />
+				<subtitle lang="nl" line="“Alfred!” zegt Alfreds moeder. “Ik probeer te lezen.”“En ik probeer te kijken,” zegt Alfred. “Bovendien,” zegt Alfred, “waarom zou je lezen als je tv kan kijken? Zelfs mijn juf leest niet graag de krant. Zij vindt The Simpsons leuk.”" />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum lets out a long sigh. She takes off her glasses. " start="104343" length="7453" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="2772" length="506" />
+				<highlight index="1" start="3317" length="282" />
+				<highlight index="2" start="3648" length="200" />
+				<highlight index="3" start="3891" length="200" />
+				<highlight index="4" start="4115" length="126" />
+				<highlight index="5" start="4271" length="253" />
+				<highlight index="6" start="4601" length="467" />
+				<highlight index="7" start="5545" length="136" />
+				<highlight index="8" start="5691" length="200" />
+				<highlight index="9" start="5934" length="175" />
+				<highlight index="10" start="6119" length="200" />
+				<highlight index="11" start="6343" length="574" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor sukker dybt. Hun tager brillerne af. " />
+				<subtitle lang="nl" line="Alfreds moeder slaakt een diepe zucht. Ze zet haar bril af. " />
+			</subtitles>
+		</line>
+		<line words="“Newspapers,” says Alfredo’s Mum, “are full of interesting and important things– like education, current affairs, sports, travel, cookery, gardening, culture, the weather, money and fashion.” " start="111423" length="17887" useLNutResource="true" image="24#1#2" >
+			<highlights>
+				<highlight index="0" start="770" length="1074" />
+				<highlight index="1" start="1844" length="200" />
+				<highlight index="2" start="2031" length="607" />
+				<highlight index="3" start="2638" length="584" />
+				<highlight index="4" start="3572" length="200" />
+				<highlight index="5" start="3805" length="514" />
+				<highlight index="6" start="4343" length="200" />
+				<highlight index="7" start="4646" length="584" />
+				<highlight index="8" start="5370" length="117" />
+				<highlight index="9" start="5557" length="607" />
+				<highlight index="10" start="6211" length="583" />
+				<highlight index="11" start="7121" length="200" />
+				<highlight index="12" start="7355" length="1027" />
+				<highlight index="13" start="8616" length="303" />
+				<highlight index="14" start="8942" length="701" />
+				<highlight index="15" start="9736" length="911" />
+				<highlight index="16" start="10834" length="677" />
+				<highlight index="17" start="11721" length="560" />
+				<highlight index="18" start="12328" length="654" />
+				<highlight index="19" start="13029" length="607" />
+				<highlight index="20" start="13682" length="117" />
+				<highlight index="21" start="13822" length="631" />
+				<highlight index="22" start="14663" length="467" />
+				<highlight index="23" start="15340" length="200" />
+				<highlight index="24" start="15574" length="724" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="”Aviser”, siger Alfredos mor, ”er fulde af interessante og vigtige ting – som uddannelse, nyheder, sport, rejser,mad, have, kultur, vejret, penge og mode.”" />
+				<subtitle lang="nl" line="“Kranten,” zegt Alfreds moeder, “staan vol met interessante en belangrijke dingen – zoals onderwijs, sport, reizen, kookkunst, tuinieren, cultuur, het weer, geld en mode.”  " />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum puts on an important sounding voice: “In my opinion, Alfredo, television is too simplistic. Newspapers are full of fantastic stories, beautiful pictures. Often, television makes complicated things sound dumb." start="129124" length="18819" useLNutResource="true" image="24#1#3" >
+			<highlights>
+				<highlight index="0" start="2260" length="565" />
+				<highlight index="1" start="2849" length="200" />
+				<highlight index="2" start="3095" length="200" />
+				<highlight index="3" start="3316" length="200" />
+				<highlight index="4" start="3512" length="200" />
+				<highlight index="5" start="3709" length="442" />
+				<highlight index="6" start="4176" length="368" />
+				<highlight index="7" start="4520" length="491" />
+				<highlight index="8" start="5527" length="200" />
+				<highlight index="9" start="5797" length="393" />
+				<highlight index="10" start="6239" length="492" />
+				<highlight index="11" start="6780" length="810" />
+				<highlight index="12" start="7713" length="541" />
+				<highlight index="13" start="8327" length="200" />
+				<highlight index="14" start="8598" length="393" />
+				<highlight index="15" start="9015" length="1081" />
+				<highlight index="16" start="10293" length="712" />
+				<highlight index="17" start="11005" length="172" />
+				<highlight index="18" start="11177" length="590" />
+				<highlight index="19" start="11791" length="200" />
+				<highlight index="20" start="11988" length="589" />
+				<highlight index="21" start="12602" length="712" />
+				<highlight index="22" start="13413" length="417" />
+				<highlight index="23" start="13806" length="688" />
+				<highlight index="24" start="14788" length="615" />
+				<highlight index="25" start="15427" length="541" />
+				<highlight index="26" start="16017" length="393" />
+				<highlight index="27" start="16434" length="590" />
+				<highlight index="28" start="17098" length="565" />
+				<highlight index="29" start="17736" length="516" />
+				<highlight index="30" start="18351" length="393" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor siger med betydningsfuld stemme: “Efter min mening, Alfredo, er fjernsyn for simpelt. Aviser er fulde af fantastiske historier, smukke billeder. Det er tit, at fjernsynet får komplicerede ting til at lyde dumme. " />
+				<subtitle lang="nl" line="Alfreds moeder zegt met een belangrijk klinkende stem: “Volgens mij, Alfred, is televisie te simpel. Kranten staan vol met fantastische verhalen, mooie foto’s. Vaak laat de televisie moeilijke dingen dom klinken. " />
+			</subtitles>
+		</line>
+		<line words="In addition, it is all about fun. However, people don’t know this. Therefore, they just watch television.”  " start="147757" length="11925" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="825" length="200" />
+				<highlight index="1" start="1011" length="514" />
+				<highlight index="2" start="1945" length="109" />
+				<highlight index="3" start="2117" length="137" />
+				<highlight index="4" start="2335" length="171" />
+				<highlight index="5" start="2568" length="358" />
+				<highlight index="6" start="2988" length="452" />
+				<highlight index="7" start="4452" length="778" />
+				<highlight index="8" start="5479" length="280" />
+				<highlight index="9" start="5775" length="200" />
+				<highlight index="10" start="6071" length="200" />
+				<highlight index="11" start="6320" length="482" />
+				<highlight index="12" start="7114" length="887" />
+				<highlight index="13" start="8328" length="200" />
+				<highlight index="14" start="8592" length="343" />
+				<highlight index="15" start="8982" length="358" />
+				<highlight index="16" start="9355" length="810" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Desuden er det sjovt. Men det ved folk ikke. Derfor ser de bare fjernsyn." />
+				<subtitle lang="nl" line="Bovendien gaat het alleen om vermaak. Maar de mensen weten dit niet. Daarom kijken ze gewoon tv.”  " />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum is very pleased with herself. She straightens the newspaper. Alfredo’s Mum puts her glasses on. Alfredo’s Mum starts to read again." start="159309" length="14161" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="1977" length="628" />
+				<highlight index="1" start="2680" length="240" />
+				<highlight index="2" start="2939" length="181" />
+				<highlight index="3" start="3198" length="406" />
+				<highlight index="4" start="3623" length="369" />
+				<highlight index="5" start="3992" length="130" />
+				<highlight index="6" start="4122" length="684" />
+				<highlight index="7" start="5065" length="200" />
+				<highlight index="8" start="5453" length="573" />
+				<highlight index="9" start="6026" length="200" />
+				<highlight index="10" start="6303" length="629" />
+				<highlight index="11" start="7597" length="499" />
+				<highlight index="12" start="8096" length="241" />
+				<highlight index="13" start="8411" length="258" />
+				<highlight index="14" start="8688" length="200" />
+				<highlight index="15" start="8984" length="295" />
+				<highlight index="16" start="9298" length="200" />
+				<highlight index="17" start="10407" length="813" />
+				<highlight index="18" start="11313" length="296" />
+				<highlight index="19" start="11646" length="332" />
+				<highlight index="20" start="12015" length="100" />
+				<highlight index="21" start="12200" length="314" />
+				<highlight index="22" start="12551" length="814" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor er meget tilfreds med sig selv. Hun folder avisen ud. Alfredos mor tager brillerne på igen. Alfredos mor begynder at læse igen." />
+				<subtitle lang="nl" line="Alfreds moeder is erg blij met zichzelf. Ze strijkt de krant glad. Alfreds moeder zet haar bril op. Ze gaat weer verder lezen." />
+			</subtitles>
+		</line>
+		<line words="“Nevertheless,” says Alfredo, in his Mum’s important sounding voice, “television is also very funny. Look, for example, at what Homer is doing right now.”  " start="173284" length="15465" useLNutResource="true" image="24#2#10" >
+			<highlights>
+				<highlight index="0" start="2361" length="1192" />
+				<highlight index="1" start="3855" length="200" />
+				<highlight index="2" start="4118" length="706" />
+				<highlight index="3" start="5046" length="200" />
+				<highlight index="4" start="5228" length="200" />
+				<highlight index="5" start="5470" length="200" />
+				<highlight index="6" start="5733" length="484" />
+				<highlight index="7" start="6278" length="404" />
+				<highlight index="8" start="6742" length="485" />
+				<highlight index="9" start="7610" length="626" />
+				<highlight index="10" start="8337" length="119" />
+				<highlight index="11" start="8559" length="384" />
+				<highlight index="12" start="8983" length="303" />
+				<highlight index="13" start="9347" length="444" />
+				<highlight index="14" start="10336" length="343" />
+				<highlight index="15" start="10740" length="200" />
+				<highlight index="16" start="10982" length="585" />
+				<highlight index="17" start="11789" length="200" />
+				<highlight index="18" start="11991" length="200" />
+				<highlight index="19" start="12213" length="323" />
+				<highlight index="20" start="12556" length="200" />
+				<highlight index="21" start="12778" length="525" />
+				<highlight index="22" start="13425" length="282" />
+				<highlight index="23" start="13748" length="423" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Ikke desto mindre”, siger Alfredo med sin mors betydningsfulde stemme, ”er fjernsynet også sjovt. Prøv for eksempel at se, hvad Homer laver lige nu.”" />
+				<subtitle lang="nl" line="“En toch,” zegt Alfred, met dezelfde stem als zijn moeder, “televisie is ook heel grappig. Kijk bijvoorbeeld naar wat Homer nu doet.”  " />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum lets out a long sigh. She takes off her glasses. She looks at the television. Homer Simpson is dressed in just his pajama bottoms. He is standing on a chair. He is eating the newspaper. “Duh!” says Homer.   " start="188562" length="22732" useLNutResource="true" image="4#3#7" >
+			<highlights>
+				<highlight index="0" start="2314" length="772" />
+				<highlight index="1" start="3115" length="386" />
+				<highlight index="2" start="3620" length="200" />
+				<highlight index="3" start="3827" length="594" />
+				<highlight index="4" start="4914" length="100" />
+				<highlight index="5" start="5044" length="564" />
+				<highlight index="6" start="5608" length="564" />
+				<highlight index="7" start="6409" length="416" />
+				<highlight index="8" start="6825" length="237" />
+				<highlight index="9" start="7032" length="100" />
+				<highlight index="10" start="7240" length="208" />
+				<highlight index="11" start="7507" length="1039" />
+				<highlight index="12" start="8724" length="100" />
+				<highlight index="13" start="8842" length="200" />
+				<highlight index="14" start="9020" length="200" />
+				<highlight index="15" start="9228" length="200" />
+				<highlight index="16" start="9377" length="860" />
+				<highlight index="17" start="10742" length="415" />
+				<highlight index="18" start="11157" length="653" />
+				<highlight index="19" start="11869" length="238" />
+				<highlight index="20" start="12136" length="356" />
+				<highlight index="21" start="12492" length="200" />
+				<highlight index="22" start="12700" length="356" />
+				<highlight index="23" start="13086" length="208" />
+				<highlight index="24" start="13294" length="415" />
+				<highlight index="25" start="13709" length="742" />
+				<highlight index="26" start="14807" length="200" />
+				<highlight index="27" start="15074" length="200" />
+				<highlight index="28" start="15222" length="208" />
+				<highlight index="29" start="15430" length="100" />
+				<highlight index="30" start="15579" length="100" />
+				<highlight index="31" start="15697" length="623" />
+				<highlight index="32" start="16825" length="100" />
+				<highlight index="33" start="17014" length="100" />
+				<highlight index="34" start="17151" length="623" />
+				<highlight index="35" start="17774" length="200" />
+				<highlight index="36" start="18012" length="860" />
+				<highlight index="37" start="19169" length="979" />
+				<highlight index="38" start="20593" length="200" />
+				<highlight index="39" start="20801" length="712" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor sukker dybt. Hun tager brillerne af. Hun kigger på fjernsynet. Homer Simpson har kun pyjamasbukser på. Han står på en stol. Han spiser avisen. ”Duh!” siger Homer." />
+				<subtitle lang="nl" line="Alfreds moeder slaakt een diepe zucht. Ze zet haar bril af. Ze kijkt naar de televisie. Homer Simpson draagt alleen een pyjamabroek. Hij staat op een stoel. Hij eet de krant op. “Duh!” zegt Homer.  " />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum smiles. " start="211294" length="5403" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2306" length="487" />
+				<highlight index="1" start="2856" length="240" />
+				<highlight index="2" start="3202" length="479" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor smiler." />
+				<subtitle lang="nl" line="Alfreds moeder lacht. " />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum grins." start="216325" length="5217" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2417" length="531" />
+				<highlight index="1" start="3016" length="293" />
+				<highlight index="2" start="3459" length="470" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor griner." />
+				<subtitle lang="nl" line="Alfreds moeder grijnst." />
+			</subtitles>
+		</line>
+		<line words="Alfredo’s Mum laughs very loudly." start="221356" length="6521" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2647" length="511" />
+				<highlight index="1" start="3277" length="225" />
+				<highlight index="2" start="3668" length="511" />
+				<highlight index="3" start="4596" length="426" />
+				<highlight index="4" start="5150" length="570" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Alfredos mor ler meget højt." />
+				<subtitle lang="nl" line="Alfreds moeder lacht heel hard." />
+			</subtitles>
+		</line>
+		<line words="The End" start="227505" length="4285" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Slut." />
+				<subtitle lang="nl" line="Einde" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,1412 @@
+<?xml version="1.0"?>
+<karaoke length="128052">
+  <lines>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="9405" length="4306">
+      <highlight index="0" start="515" length="515"/>
+      <highlight index="1" start="1011" length="566"/>
+      <highlight index="2" start="1806" length="200"/>
+      <highlight index="3" start="2105" length="585"/>
+      <highlight index="4" start="2728" length="305"/>
+      <highlight index="5" start="3090" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole &#xE0; pied, mon ami." start="13371" length="4420">
+      <highlight index="0" start="548" length="254"/>
+      <highlight index="1" start="789" length="275"/>
+      <highlight index="2" start="1044" length="200"/>
+      <highlight index="3" start="1214" length="489"/>
+      <highlight index="4" start="1801" length="275"/>
+      <highlight index="5" start="2069" length="372"/>
+      <highlight index="6" start="2976" length="307"/>
+      <highlight index="7" start="3296" length="385"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school on foot my friend."/>
+        <subtitle lang="ng" line="I go to school on foot my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x633;&#x64A;&#x631;&#x627; &#x639;&#x644;&#x649; &#x627;&#x644;&#x623;&#x642;&#x62F;&#x627;&#x645;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="en" line="I go to school on foot my friend."/>
+        <subtitle lang="dk" line="Jeg g&#xE5;r til skole, min ven"/>
+        <subtitle lang="na" line="I go to school on foot my friend."/>
+        <subtitle lang="sco" line="I go to school on foot my friend."/>
+        <subtitle lang="to" line="I go to school on foot my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x633;&#x64A;&#x631;&#x627; &#x639;&#x644;&#x649; &#x627;&#x644;&#x623;&#x642;&#x62F;&#x627;&#x645;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="ws" line="I go to school on foot my friend."/>
+        <subtitle lang="sl" line="I go to school on foot my friend."/>
+        <subtitle lang="ca" line="I go to school on foot my friend."/>
+        <subtitle lang="zm" line="I go to school on foot my friend."/>
+        <subtitle lang="ae" line="I go to school on foot my friend."/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="I go to school on foot my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x633;&#x64A;&#x631;&#x627; &#x639;&#x644;&#x649; &#x627;&#x644;&#x623;&#x642;&#x62F;&#x627;&#x645;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="tt" line="I go to school on foot my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="gh" line="I go to school on foot my friend."/>
+        <subtitle lang="ag" line="I go to school on foot my friend."/>
+        <subtitle lang="mu" line="I go to school on foot my friend."/>
+        <subtitle lang="sa" line="I go to school on foot my friend."/>
+        <subtitle lang="zw" line="I go to school on foot my friend."/>
+        <subtitle lang="ke" line="I go to school on foot my friend."/>
+        <subtitle lang="bw" line="I go to school on foot my friend."/>
+        <subtitle lang="ug" line="I go to school on foot my friend."/>
+        <subtitle lang="au" line="I go to school on foot my friend."/>
+        <subtitle lang="lb" line="I go to school on foot my friend."/>
+        <subtitle lang="nl" line="Ik ga altijd lopend naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school on foot my friend."/>
+        <subtitle lang="bd" line="I go to school on foot my friend."/>
+        <subtitle lang="pk" line="I go to school on foot my friend."/>
+        <subtitle lang="dm" line="I go to school on foot my friend."/>
+        <subtitle lang="vc" line="I go to school on foot my friend."/>
+        <subtitle lang="bs" line="I go to school on foot my friend."/>
+        <subtitle lang="us" line="I go to school on foot my friend."/>
+        <subtitle lang="jm" line="I go to school on foot my friend."/>
+        <subtitle lang="za" line="I go to school on foot my friend."/>
+        <subtitle lang="rw" line="I go to school on foot my friend."/>
+        <subtitle lang="tz" line="I go to school on foot my friend."/>
+        <subtitle lang="sg" line="I go to school on foot my friend."/>
+        <subtitle lang="vu" line="I go to school on foot my friend."/>
+        <subtitle lang="mt" line="I go to school on foot my friend."/>
+        <subtitle lang="fj" line="I go to school on foot my friend."/>
+        <subtitle lang="sb" line="I go to school on foot my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="es" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="co" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="do" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="py" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela a pie, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela a pie, mi amigo."/>
+				<subtitle lang="ine" line="I go to school on foot my friend."/>
+			</subtitles>
+    </line>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="17451" length="4306">
+      <highlight index="0" start="515" length="515"/>
+      <highlight index="1" start="1011" length="566"/>
+      <highlight index="2" start="1806" length="200"/>
+      <highlight index="3" start="2105" length="585"/>
+      <highlight index="4" start="2728" length="305"/>
+      <highlight index="5" start="3090" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole en bus, mon ami." start="21530" length="4420">
+      <highlight index="0" start="365" length="254"/>
+      <highlight index="1" start="594" length="275"/>
+      <highlight index="2" start="861" length="200"/>
+      <highlight index="3" start="1051" length="489"/>
+      <highlight index="4" start="1801" length="275"/>
+      <highlight index="5" start="2069" length="372"/>
+      <highlight index="6" start="2859" length="307"/>
+      <highlight index="7" start="3127" length="483"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school by bus my friend."/>
+        <subtitle lang="ng" line="I go to school by bus my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x628;&#x627;&#x635;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="en" line="I go to school by bus my friend."/>
+        <subtitle lang="dk" line="Jeg tager bussen til skole, min ven"/>
+        <subtitle lang="na" line="I go to school by bus my friend."/>
+        <subtitle lang="sco" line="I go to school by bus my friend."/>
+        <subtitle lang="to" line="I go to school by bus my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x628;&#x627;&#x635;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="ws" line="I go to school by bus my friend."/>
+        <subtitle lang="sl" line="I go to school by bus my friend."/>
+        <subtitle lang="ca" line="I go to school by bus my friend."/>
+        <subtitle lang="zm" line="I go to school by bus my friend."/>
+        <subtitle lang="ae" line="I go to school by bus my friend."/>
+        <subtitle lang="nz" line="I go to school by bus my friend."/>
+        <subtitle lang="bz" line="I go to school by bus my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x628;&#x627;&#x635;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="tt" line="I go to school by bus my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/>
+        <subtitle lang="gh" line="I go to school by bus my friend."/>
+        <subtitle lang="ag" line="I go to school by bus my friend."/>
+        <subtitle lang="mu" line="I go to school by bus my friend."/>
+        <subtitle lang="sa" line="I go to school by bus my friend."/>
+        <subtitle lang="zw" line="I go to school by bus my friend."/>
+        <subtitle lang="ke" line="I go to school by bus my friend."/>
+        <subtitle lang="bw" line="I go to school by bus my friend."/>
+        <subtitle lang="ug" line="I go to school by bus my friend."/>
+        <subtitle lang="au" line="I go to school by bus my friend."/>
+        <subtitle lang="lb" line="I go to school by bus my friend."/>
+        <subtitle lang="nl" line="Ik ga met de bus naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school by bus my friend."/>
+        <subtitle lang="bd" line="I go to school by bus my friend."/>
+        <subtitle lang="pk" line="I go to school by bus my friend."/>
+        <subtitle lang="dm" line="I go to school by bus my friend."/>
+        <subtitle lang="vc" line="I go to school by bus my friend."/>
+        <subtitle lang="bs" line="I go to school by bus my friend."/>
+        <subtitle lang="us" line="I go to school by bus my friend."/>
+        <subtitle lang="jm" line="I go to school by bus my friend."/>
+        <subtitle lang="za" line="I go to school by bus my friend."/>
+        <subtitle lang="rw" line="I go to school by bus my friend."/>
+        <subtitle lang="tz" line="I go to school by bus my friend."/>
+        <subtitle lang="sg" line="I go to school by bus my friend."/>
+        <subtitle lang="vu" line="I go to school by bus my friend."/>
+        <subtitle lang="mt" line="I go to school by bus my friend."/>
+        <subtitle lang="fj" line="I go to school by bus my friend."/>
+        <subtitle lang="sb" line="I go to school by bus my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="es" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="co" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="do" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="py" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela en cami&#xF3;n, mi amigo."/>
+				<subtitle lang="ine" line="I go to school by bus my friend."/>
+			</subtitles>
+    </line>
+    <line words="En France, je vais &#xE0; l'&#xE9;cole." start="25497" length="4192">
+      <highlight index="0" start="501" length="749"/>
+      <highlight index="1" start="1250" length="526"/>
+      <highlight index="2" start="2352" length="200"/>
+      <highlight index="3" start="2519" length="297"/>
+      <highlight index="4" start="2854" length="200"/>
+      <highlight index="5" start="3052" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In France, I go to school."/>
+        <subtitle lang="ng" line="In France, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In France, I go to school."/>
+        <subtitle lang="dk" line="I Frankrig g&#xE5;r jeg i skole."/>
+        <subtitle lang="na" line="In France, I go to school."/>
+        <subtitle lang="sco" line="In France, I go to school."/>
+        <subtitle lang="to" line="In France, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In France, I go to school."/>
+        <subtitle lang="sl" line="In France, I go to school."/>
+        <subtitle lang="ca" line="In France, I go to school."/>
+        <subtitle lang="zm" line="In France, I go to school."/>
+        <subtitle lang="ae" line="In France, I go to school."/>
+        <subtitle lang="nz" line="In France, I go to school."/>
+        <subtitle lang="bz" line="In France, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In France, I go to school."/>
+        <subtitle lang="mx" line="En France, voy a la escuela."/>
+        <subtitle lang="gh" line="In France, I go to school."/>
+        <subtitle lang="ag" line="In France, I go to school."/>
+        <subtitle lang="mu" line="In France, I go to school."/>
+        <subtitle lang="sa" line="In France, I go to school."/>
+        <subtitle lang="zw" line="In France, I go to school."/>
+        <subtitle lang="ke" line="In France, I go to school."/>
+        <subtitle lang="bw" line="In France, I go to school."/>
+        <subtitle lang="ug" line="In France, I go to school."/>
+        <subtitle lang="au" line="In France, I go to school."/>
+        <subtitle lang="lb" line="In France, I go to school."/>
+        <subtitle lang="nl" line="In Frankrijk ga ik naar school."/>
+        <subtitle lang="gm" line="In France, I go to school."/>
+        <subtitle lang="bd" line="In France, I go to school."/>
+        <subtitle lang="pk" line="In France, I go to school."/>
+        <subtitle lang="dm" line="In France, I go to school."/>
+        <subtitle lang="vc" line="In France, I go to school."/>
+        <subtitle lang="bs" line="In France, I go to school."/>
+        <subtitle lang="us" line="In France, I go to school."/>
+        <subtitle lang="jm" line="In France, I go to school."/>
+        <subtitle lang="za" line="In France, I go to school."/>
+        <subtitle lang="rw" line="In France, I go to school."/>
+        <subtitle lang="tz" line="In France, I go to school."/>
+        <subtitle lang="sg" line="In France, I go to school."/>
+        <subtitle lang="vu" line="In France, I go to school."/>
+        <subtitle lang="mt" line="In France, I go to school."/>
+        <subtitle lang="fj" line="In France, I go to school."/>
+        <subtitle lang="sb" line="In France, I go to school."/>
+      <subtitle lang="cl" line="En France, voy a la escuela."/><subtitle lang="es" line="En France, voy a la escuela."/><subtitle lang="co" line="En France, voy a la escuela."/><subtitle lang="gt" line="En France, voy a la escuela."/><subtitle lang="pe" line="En France, voy a la escuela."/><subtitle lang="ni" line="En France, voy a la escuela."/><subtitle lang="do" line="En France, voy a la escuela."/><subtitle lang="bo" line="En France, voy a la escuela."/><subtitle lang="ve" line="En France, voy a la escuela."/><subtitle lang="ar" line="En France, voy a la escuela."/><subtitle lang="cu" line="En France, voy a la escuela."/><subtitle lang="pr" line="En France, voy a la escuela."/><subtitle lang="py" line="En France, voy a la escuela."/><subtitle lang="ec" line="En France, voy a la escuela."/><subtitle lang="hn" line="En France, voy a la escuela."/><subtitle lang="sv" line="En France, voy a la escuela."/><subtitle lang="cr" line="En France, voy a la escuela."/><subtitle lang="pa" line="En France, voy a la escuela."/>
+				<subtitle lang="ine" line="In France, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Belgique tu vas &#xE0; l'&#xE9;cole." start="29236" length="4192">
+      <highlight index="0" start="699" length="848"/>
+      <highlight index="1" start="1523" length="526"/>
+      <highlight index="2" start="2588" length="200"/>
+      <highlight index="3" start="2810" length="297"/>
+      <highlight index="4" start="3095" length="200"/>
+      <highlight index="5" start="3275" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Belgium, I go to school."/>
+        <subtitle lang="ng" line="In Belgium, I go to school."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C;  &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In Belgium, I go to school."/>
+        <subtitle lang="dk" line="I Belgien g&#xE5;r du i skole."/>
+        <subtitle lang="na" line="In Belgium, I go to school."/>
+        <subtitle lang="sco" line="In Belgium, I go to school."/>
+        <subtitle lang="to" line="In Belgium, I go to school."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C;  &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In Belgium, I go to school."/>
+        <subtitle lang="sl" line="In Belgium, I go to school."/>
+        <subtitle lang="ca" line="In Belgium, I go to school."/>
+        <subtitle lang="zm" line="In Belgium, I go to school."/>
+        <subtitle lang="ae" line="In Belgium, I go to school."/>
+        <subtitle lang="nz" line="In Belgium, I go to school."/>
+        <subtitle lang="bz" line="In Belgium, I go to school."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C;  &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In Belgium, I go to school."/>
+        <subtitle lang="mx" line="En B&#xE9;lgica, voy a la escuela ."/>
+        <subtitle lang="gh" line="In Belgium, I go to school."/>
+        <subtitle lang="ag" line="In Belgium, I go to school."/>
+        <subtitle lang="mu" line="In Belgium, I go to school."/>
+        <subtitle lang="sa" line="In Belgium, I go to school."/>
+        <subtitle lang="zw" line="In Belgium, I go to school."/>
+        <subtitle lang="ke" line="In Belgium, I go to school."/>
+        <subtitle lang="bw" line="In Belgium, I go to school."/>
+        <subtitle lang="ug" line="In Belgium, I go to school."/>
+        <subtitle lang="au" line="In Belgium, I go to school."/>
+        <subtitle lang="lb" line="In Belgium, I go to school."/>
+        <subtitle lang="nl" line="In Belgi&#xEB; ga jij naar school."/>
+        <subtitle lang="gm" line="In Belgium, I go to school."/>
+        <subtitle lang="bd" line="In Belgium, I go to school."/>
+        <subtitle lang="pk" line="In Belgium, I go to school."/>
+        <subtitle lang="dm" line="In Belgium, I go to school."/>
+        <subtitle lang="vc" line="In Belgium, I go to school."/>
+        <subtitle lang="bs" line="In Belgium, I go to school."/>
+        <subtitle lang="us" line="In Belgium, I go to school."/>
+        <subtitle lang="jm" line="In Belgium, I go to school."/>
+        <subtitle lang="za" line="In Belgium, I go to school."/>
+        <subtitle lang="rw" line="In Belgium, I go to school."/>
+        <subtitle lang="tz" line="In Belgium, I go to school."/>
+        <subtitle lang="sg" line="In Belgium, I go to school."/>
+        <subtitle lang="vu" line="In Belgium, I go to school."/>
+        <subtitle lang="mt" line="In Belgium, I go to school."/>
+        <subtitle lang="fj" line="In Belgium, I go to school."/>
+        <subtitle lang="sb" line="In Belgium, I go to school."/>
+      <subtitle lang="cl" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="es" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="co" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="gt" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pe" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ni" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="do" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="bo" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ve" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ar" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cu" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="py" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ec" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="hn" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="sv" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pa" line="En B&#xE9;lgica, voy a la escuela ."/>
+				<subtitle lang="ine" line="In Belgium, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Guyane, il va &#xE0; l'&#xE9;cole." start="32976" length="4419">
+      <highlight index="0" start="900" length="749"/>
+      <highlight index="1" start="1768" length="526"/>
+      <highlight index="2" start="2780" length="235"/>
+      <highlight index="3" start="2982" length="297"/>
+      <highlight index="4" start="3250" length="200"/>
+      <highlight index="5" start="3517" length="758"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Guyana, I go to school."/>
+        <subtitle lang="ng" line="In Guyana, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In Guyana, I go to school."/>
+        <subtitle lang="dk" line="I Guyana g&#xE5;r han i skole."/>
+        <subtitle lang="na" line="In Guyana, I go to school."/>
+        <subtitle lang="sco" line="In Guyana, I go to school."/>
+        <subtitle lang="to" line="In Guyana, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In Guyana, I go to school."/>
+        <subtitle lang="sl" line="In Guyana, I go to school."/>
+        <subtitle lang="ca" line="In Guyana, I go to school."/>
+        <subtitle lang="zm" line="In Guyana, I go to school."/>
+        <subtitle lang="ae" line="In Guyana, I go to school."/>
+        <subtitle lang="nz" line="In Guyana, I go to school."/>
+        <subtitle lang="bz" line="In Guyana, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In Guyana, I go to school."/>
+        <subtitle lang="mx" line="En Guayana, voy a la escuela."/>
+        <subtitle lang="gh" line="In Guyana, I go to school."/>
+        <subtitle lang="ag" line="In Guyana, I go to school."/>
+        <subtitle lang="mu" line="In Guyana, I go to school."/>
+        <subtitle lang="sa" line="In Guyana, I go to school."/>
+        <subtitle lang="zw" line="In Guyana, I go to school."/>
+        <subtitle lang="ke" line="In Guyana, I go to school."/>
+        <subtitle lang="bw" line="In Guyana, I go to school."/>
+        <subtitle lang="ug" line="In Guyana, I go to school."/>
+        <subtitle lang="au" line="In Guyana, I go to school."/>
+        <subtitle lang="lb" line="In Guyana, I go to school."/>
+        <subtitle lang="nl" line="In Guyana gaat hij naar school."/>
+        <subtitle lang="gm" line="In Guyana, I go to school."/>
+        <subtitle lang="bd" line="In Guyana, I go to school."/>
+        <subtitle lang="pk" line="In Guyana, I go to school."/>
+        <subtitle lang="dm" line="In Guyana, I go to school."/>
+        <subtitle lang="vc" line="In Guyana, I go to school."/>
+        <subtitle lang="bs" line="In Guyana, I go to school."/>
+        <subtitle lang="us" line="In Guyana, I go to school."/>
+        <subtitle lang="jm" line="In Guyana, I go to school."/>
+        <subtitle lang="za" line="In Guyana, I go to school."/>
+        <subtitle lang="rw" line="In Guyana, I go to school."/>
+        <subtitle lang="tz" line="In Guyana, I go to school."/>
+        <subtitle lang="sg" line="In Guyana, I go to school."/>
+        <subtitle lang="vu" line="In Guyana, I go to school."/>
+        <subtitle lang="mt" line="In Guyana, I go to school."/>
+        <subtitle lang="fj" line="In Guyana, I go to school."/>
+        <subtitle lang="sb" line="In Guyana, I go to school."/>
+      <subtitle lang="cl" line="En Guayana, voy a la escuela."/><subtitle lang="es" line="En Guayana, voy a la escuela."/><subtitle lang="co" line="En Guayana, voy a la escuela."/><subtitle lang="gt" line="En Guayana, voy a la escuela."/><subtitle lang="pe" line="En Guayana, voy a la escuela."/><subtitle lang="ni" line="En Guayana, voy a la escuela."/><subtitle lang="do" line="En Guayana, voy a la escuela."/><subtitle lang="bo" line="En Guayana, voy a la escuela."/><subtitle lang="ve" line="En Guayana, voy a la escuela."/><subtitle lang="ar" line="En Guayana, voy a la escuela."/><subtitle lang="cu" line="En Guayana, voy a la escuela."/><subtitle lang="pr" line="En Guayana, voy a la escuela."/><subtitle lang="py" line="En Guayana, voy a la escuela."/><subtitle lang="ec" line="En Guayana, voy a la escuela."/><subtitle lang="hn" line="En Guayana, voy a la escuela."/><subtitle lang="sv" line="En Guayana, voy a la escuela."/><subtitle lang="cr" line="En Guayana, voy a la escuela."/><subtitle lang="pa" line="En Guayana, voy a la escuela."/>
+				<subtitle lang="ine" line="In Guyana, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En C&#xF4;te d'Ivoire elle va &#xE0; l'&#xE9;cole." start="36715" length="4986">
+      <highlight index="0" start="655" length="280"/>
+      <highlight index="1" start="1008" length="457"/>
+      <highlight index="2" start="1583" length="729"/>
+      <highlight index="3" start="3151" length="200"/>
+      <highlight index="4" start="3343" length="200"/>
+      <highlight index="5" start="3564" length="751"/>
+      <highlight index="6" start="3770" length="685"/>
+      <subtitles>
+        <subtitle lang="gy" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ng" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dk" line="P&#xE5; Elfenbenskysten g&#xE5;r hun i skole."/>
+        <subtitle lang="na" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sco" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="to" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sl" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ca" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ae" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mx" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+        <subtitle lang="gh" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ag" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sa" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ke" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ug" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="au" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lb" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nl" line="In Ivoorkust gaat zij naar school."/>
+        <subtitle lang="gm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bd" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="pk" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vc" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bs" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="us" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="jm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="za" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="rw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="tz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sg" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="fj" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sb" line="In the Ivory Coast, I go to school."/>
+      <subtitle lang="cl" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="es" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="co" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="gt" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pe" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ni" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="do" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="bo" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ve" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ar" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cu" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="py" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ec" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="hn" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="sv" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pa" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+				<subtitle lang="ine" line="In the Ivory Coast, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="41361" length="4306">
+      <highlight index="0" start="515" length="515"/>
+      <highlight index="1" start="1011" length="566"/>
+      <highlight index="2" start="1920" length="200"/>
+      <highlight index="3" start="2136" length="585"/>
+      <highlight index="4" start="2836" length="305"/>
+      <highlight index="5" start="3199" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole en train, mon ami." start="45328" length="4420">
+      <highlight index="0" start="548" length="254"/>
+      <highlight index="1" start="789" length="275"/>
+      <highlight index="2" start="1044" length="200"/>
+      <highlight index="3" start="1214" length="489"/>
+      <highlight index="4" start="1854" length="275"/>
+      <highlight index="5" start="2121" length="372"/>
+      <highlight index="6" start="2976" length="307"/>
+      <highlight index="7" start="3296" length="385"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school on the train, my friend."/>
+        <subtitle lang="ng" line="I go to school on the train, my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x642;&#x637;&#x627;&#x631;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="en" line="I go to school on the train, my friend."/>
+        <subtitle lang="dk" line="Jeg tager toget til skole, min ven"/>
+        <subtitle lang="na" line="I go to school on the train, my friend."/>
+        <subtitle lang="sco" line="I go to school on the train, my friend."/>
+        <subtitle lang="to" line="I go to school on the train, my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x642;&#x637;&#x627;&#x631;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="ws" line="I go to school on the train, my friend."/>
+        <subtitle lang="sl" line="I go to school on the train, my friend."/>
+        <subtitle lang="ca" line="I go to school on the train, my friend."/>
+        <subtitle lang="zm" line="I go to school on the train, my friend."/>
+        <subtitle lang="ae" line="I go to school on the train, my friend."/>
+        <subtitle lang="nz" line="I go to school on the train, my friend."/>
+        <subtitle lang="bz" line="I go to school on the train, my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x642;&#x637;&#x627;&#x631;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="tt" line="I go to school on the train, my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="gh" line="I go to school on the train, my friend."/>
+        <subtitle lang="ag" line="I go to school on the train, my friend."/>
+        <subtitle lang="mu" line="I go to school on the train, my friend."/>
+        <subtitle lang="sa" line="I go to school on the train, my friend."/>
+        <subtitle lang="zw" line="I go to school on the train, my friend."/>
+        <subtitle lang="ke" line="I go to school on the train, my friend."/>
+        <subtitle lang="bw" line="I go to school on the train, my friend."/>
+        <subtitle lang="ug" line="I go to school on the train, my friend."/>
+        <subtitle lang="au" line="I go to school on the train, my friend."/>
+        <subtitle lang="lb" line="I go to school on the train, my friend."/>
+        <subtitle lang="nl" line="Ik ga met de trein naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school on the train, my friend."/>
+        <subtitle lang="bd" line="I go to school on the train, my friend."/>
+        <subtitle lang="pk" line="I go to school on the train, my friend."/>
+        <subtitle lang="dm" line="I go to school on the train, my friend."/>
+        <subtitle lang="vc" line="I go to school on the train, my friend."/>
+        <subtitle lang="bs" line="I go to school on the train, my friend."/>
+        <subtitle lang="us" line="I go to school on the train, my friend."/>
+        <subtitle lang="jm" line="I go to school on the train, my friend."/>
+        <subtitle lang="za" line="I go to school on the train, my friend."/>
+        <subtitle lang="rw" line="I go to school on the train, my friend."/>
+        <subtitle lang="tz" line="I go to school on the train, my friend."/>
+        <subtitle lang="sg" line="I go to school on the train, my friend."/>
+        <subtitle lang="vu" line="I go to school on the train, my friend."/>
+        <subtitle lang="mt" line="I go to school on the train, my friend."/>
+        <subtitle lang="fj" line="I go to school on the train, my friend."/>
+        <subtitle lang="sb" line="I go to school on the train, my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="es" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="co" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="do" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="py" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela en tren, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela en tren, mi amigo."/>
+				<subtitle lang="ine" line="I go to school on the train, my friend."/>
+			</subtitles>
+    </line>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="49520" length="4306">
+      <highlight index="0" start="445" length="515"/>
+      <highlight index="1" start="934" length="566"/>
+      <highlight index="2" start="1806" length="200"/>
+      <highlight index="3" start="2105" length="585"/>
+      <highlight index="4" start="2728" length="305"/>
+      <highlight index="5" start="2995" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole en m&#xE9;tro mon ami." start="53260" length="4420">
+      <highlight index="0" start="548" length="254"/>
+      <highlight index="1" start="789" length="275"/>
+      <highlight index="2" start="1044" length="200"/>
+      <highlight index="3" start="1214" length="594"/>
+      <highlight index="4" start="1854" length="275"/>
+      <highlight index="5" start="2121" length="594"/>
+      <highlight index="6" start="2976" length="346"/>
+      <highlight index="7" start="3303" length="450"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ng" line="I go to school on the underground, my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x642;&#x637;&#x627;&#x631; &#x627;&#x644;&#x623;&#x646;&#x641;&#x627;&#x642;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;."/>
+        <subtitle lang="en" line="I go to school on the underground, my friend."/>
+        <subtitle lang="dk" line="Jeg tager undergrunden til skole, min ven"/>
+        <subtitle lang="na" line="I go to school on the underground, my friend."/>
+        <subtitle lang="sco" line="I go to school on the underground, my friend."/>
+        <subtitle lang="to" line="I go to school on the underground, my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x642;&#x637;&#x627;&#x631; &#x627;&#x644;&#x623;&#x646;&#x641;&#x627;&#x642;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;."/>
+        <subtitle lang="ws" line="I go to school on the underground, my friend."/>
+        <subtitle lang="sl" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ca" line="I go to school on the underground, my friend."/>
+        <subtitle lang="zm" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ae" line="I go to school on the underground, my friend."/>
+        <subtitle lang="nz" line="I go to school on the underground, my friend."/>
+        <subtitle lang="bz" line="I go to school on the underground, my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x642;&#x637;&#x627;&#x631; &#x627;&#x644;&#x623;&#x646;&#x641;&#x627;&#x642;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;."/>
+        <subtitle lang="tt" line="I go to school on the underground, my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="gh" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ag" line="I go to school on the underground, my friend."/>
+        <subtitle lang="mu" line="I go to school on the underground, my friend."/>
+        <subtitle lang="sa" line="I go to school on the underground, my friend."/>
+        <subtitle lang="zw" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ke" line="I go to school on the underground, my friend."/>
+        <subtitle lang="bw" line="I go to school on the underground, my friend."/>
+        <subtitle lang="ug" line="I go to school on the underground, my friend."/>
+        <subtitle lang="au" line="I go to school on the underground, my friend."/>
+        <subtitle lang="lb" line="I go to school on the underground, my friend."/>
+        <subtitle lang="nl" line="Ik ga met de metro naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school on the underground, my friend."/>
+        <subtitle lang="bd" line="I go to school on the underground, my friend."/>
+        <subtitle lang="pk" line="I go to school on the underground, my friend."/>
+        <subtitle lang="dm" line="I go to school on the underground, my friend."/>
+        <subtitle lang="vc" line="I go to school on the underground, my friend."/>
+        <subtitle lang="bs" line="I go to school on the underground, my friend."/>
+        <subtitle lang="us" line="I go to school on the underground, my friend."/>
+        <subtitle lang="jm" line="I go to school on the underground, my friend."/>
+        <subtitle lang="za" line="I go to school on the underground, my friend."/>
+        <subtitle lang="rw" line="I go to school on the underground, my friend."/>
+        <subtitle lang="tz" line="I go to school on the underground, my friend."/>
+        <subtitle lang="sg" line="I go to school on the underground, my friend."/>
+        <subtitle lang="vu" line="I go to school on the underground, my friend."/>
+        <subtitle lang="mt" line="I go to school on the underground, my friend."/>
+        <subtitle lang="fj" line="I go to school on the underground, my friend."/>
+        <subtitle lang="sb" line="I go to school on the underground, my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="es" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="co" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="do" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="py" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela en metro, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela en metro, mi amigo."/>
+				<subtitle lang="ine" line="I go to school on the underground, my friend."/>
+			</subtitles>
+    </line>
+    <line words="En France, je vais &#xE0; l'&#xE9;cole." start="57566" length="4192">
+      <highlight index="0" start="501" length="749"/>
+      <highlight index="1" start="1250" length="526"/>
+      <highlight index="2" start="2352" length="200"/>
+      <highlight index="3" start="2519" length="297"/>
+      <highlight index="4" start="2854" length="200"/>
+      <highlight index="5" start="3052" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In France, I go to school."/>
+        <subtitle lang="ng" line="In France, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In France, I go to school."/>
+        <subtitle lang="dk" line="I Frankrig g&#xE5;r jeg i skole."/>
+        <subtitle lang="na" line="In France, I go to school."/>
+        <subtitle lang="sco" line="In France, I go to school."/>
+        <subtitle lang="to" line="In France, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In France, I go to school."/>
+        <subtitle lang="sl" line="In France, I go to school."/>
+        <subtitle lang="ca" line="In France, I go to school."/>
+        <subtitle lang="zm" line="In France, I go to school."/>
+        <subtitle lang="ae" line="In France, I go to school."/>
+        <subtitle lang="nz" line="In France, I go to school."/>
+        <subtitle lang="bz" line="In France, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In France, I go to school."/>
+        <subtitle lang="mx" line="En France, voy a la escuela."/>
+        <subtitle lang="gh" line="In France, I go to school."/>
+        <subtitle lang="ag" line="In France, I go to school."/>
+        <subtitle lang="mu" line="In France, I go to school."/>
+        <subtitle lang="sa" line="In France, I go to school."/>
+        <subtitle lang="zw" line="In France, I go to school."/>
+        <subtitle lang="ke" line="In France, I go to school."/>
+        <subtitle lang="bw" line="In France, I go to school."/>
+        <subtitle lang="ug" line="In France, I go to school."/>
+        <subtitle lang="au" line="In France, I go to school."/>
+        <subtitle lang="lb" line="In France, I go to school."/>
+        <subtitle lang="nl" line="In Frankrijk ga ik naar school."/>
+        <subtitle lang="gm" line="In France, I go to school."/>
+        <subtitle lang="bd" line="In France, I go to school."/>
+        <subtitle lang="pk" line="In France, I go to school."/>
+        <subtitle lang="dm" line="In France, I go to school."/>
+        <subtitle lang="vc" line="In France, I go to school."/>
+        <subtitle lang="bs" line="In France, I go to school."/>
+        <subtitle lang="us" line="In France, I go to school."/>
+        <subtitle lang="jm" line="In France, I go to school."/>
+        <subtitle lang="za" line="In France, I go to school."/>
+        <subtitle lang="rw" line="In France, I go to school."/>
+        <subtitle lang="tz" line="In France, I go to school."/>
+        <subtitle lang="sg" line="In France, I go to school."/>
+        <subtitle lang="vu" line="In France, I go to school."/>
+        <subtitle lang="mt" line="In France, I go to school."/>
+        <subtitle lang="fj" line="In France, I go to school."/>
+        <subtitle lang="sb" line="In France, I go to school."/>
+      <subtitle lang="cl" line="En France, voy a la escuela."/><subtitle lang="es" line="En France, voy a la escuela."/><subtitle lang="co" line="En France, voy a la escuela."/><subtitle lang="gt" line="En France, voy a la escuela."/><subtitle lang="pe" line="En France, voy a la escuela."/><subtitle lang="ni" line="En France, voy a la escuela."/><subtitle lang="do" line="En France, voy a la escuela."/><subtitle lang="bo" line="En France, voy a la escuela."/><subtitle lang="ve" line="En France, voy a la escuela."/><subtitle lang="ar" line="En France, voy a la escuela."/><subtitle lang="cu" line="En France, voy a la escuela."/><subtitle lang="pr" line="En France, voy a la escuela."/><subtitle lang="py" line="En France, voy a la escuela."/><subtitle lang="ec" line="En France, voy a la escuela."/><subtitle lang="hn" line="En France, voy a la escuela."/><subtitle lang="sv" line="En France, voy a la escuela."/><subtitle lang="cr" line="En France, voy a la escuela."/><subtitle lang="pa" line="En France, voy a la escuela."/>
+				<subtitle lang="ine" line="In France, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Belgique tu vas &#xE0; l'&#xE9;cole." start="61306" length="4192">
+      <highlight index="0" start="699" length="848"/>
+      <highlight index="1" start="1523" length="526"/>
+      <highlight index="2" start="2588" length="200"/>
+      <highlight index="3" start="2810" length="297"/>
+      <highlight index="4" start="3095" length="200"/>
+      <highlight index="5" start="3275" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Belgium, I go to school."/>
+        <subtitle lang="ng" line="In Belgium, I go to school."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In Belgium, I go to school."/>
+        <subtitle lang="dk" line="I Belgien g&#xE5;r du i skole."/>
+        <subtitle lang="na" line="In Belgium, I go to school."/>
+        <subtitle lang="sco" line="In Belgium, I go to school."/>
+        <subtitle lang="to" line="In Belgium, I go to school."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In Belgium, I go to school."/>
+        <subtitle lang="sl" line="In Belgium, I go to school."/>
+        <subtitle lang="ca" line="In Belgium, I go to school."/>
+        <subtitle lang="zm" line="In Belgium, I go to school."/>
+        <subtitle lang="ae" line="In Belgium, I go to school."/>
+        <subtitle lang="nz" line="In Belgium, I go to school."/>
+        <subtitle lang="bz" line="In Belgium, I go to school."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In Belgium, I go to school."/>
+        <subtitle lang="mx" line="En B&#xE9;lgica, voy a la escuela ."/>
+        <subtitle lang="gh" line="In Belgium, I go to school."/>
+        <subtitle lang="ag" line="In Belgium, I go to school."/>
+        <subtitle lang="mu" line="In Belgium, I go to school."/>
+        <subtitle lang="sa" line="In Belgium, I go to school."/>
+        <subtitle lang="zw" line="In Belgium, I go to school."/>
+        <subtitle lang="ke" line="In Belgium, I go to school."/>
+        <subtitle lang="bw" line="In Belgium, I go to school."/>
+        <subtitle lang="ug" line="In Belgium, I go to school."/>
+        <subtitle lang="au" line="In Belgium, I go to school."/>
+        <subtitle lang="lb" line="In Belgium, I go to school."/>
+        <subtitle lang="nl" line="In Belgi&#xEB; ga jij naar school."/>
+        <subtitle lang="gm" line="In Belgium, I go to school."/>
+        <subtitle lang="bd" line="In Belgium, I go to school."/>
+        <subtitle lang="pk" line="In Belgium, I go to school."/>
+        <subtitle lang="dm" line="In Belgium, I go to school."/>
+        <subtitle lang="vc" line="In Belgium, I go to school."/>
+        <subtitle lang="bs" line="In Belgium, I go to school."/>
+        <subtitle lang="us" line="In Belgium, I go to school."/>
+        <subtitle lang="jm" line="In Belgium, I go to school."/>
+        <subtitle lang="za" line="In Belgium, I go to school."/>
+        <subtitle lang="rw" line="In Belgium, I go to school."/>
+        <subtitle lang="tz" line="In Belgium, I go to school."/>
+        <subtitle lang="sg" line="In Belgium, I go to school."/>
+        <subtitle lang="vu" line="In Belgium, I go to school."/>
+        <subtitle lang="mt" line="In Belgium, I go to school."/>
+        <subtitle lang="fj" line="In Belgium, I go to school."/>
+        <subtitle lang="sb" line="In Belgium, I go to school."/>
+      <subtitle lang="cl" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="es" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="co" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="gt" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pe" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ni" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="do" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="bo" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ve" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ar" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cu" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="py" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ec" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="hn" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="sv" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pa" line="En B&#xE9;lgica, voy a la escuela ."/>
+				<subtitle lang="ine" line="In Belgium, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Guyane, il va &#xE0; l'&#xE9;cole." start="65045" length="4419">
+      <highlight index="0" start="900" length="749"/>
+      <highlight index="1" start="1768" length="526"/>
+      <highlight index="2" start="2780" length="235"/>
+      <highlight index="3" start="2982" length="297"/>
+      <highlight index="4" start="3250" length="200"/>
+      <highlight index="5" start="3517" length="758"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Guyana, I go to school."/>
+        <subtitle lang="ng" line="In Guyana, I go to school."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627; &#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In Guyana, I go to school."/>
+        <subtitle lang="dk" line="I Guyana g&#xE5;r han i skole."/>
+        <subtitle lang="na" line="In Guyana, I go to school."/>
+        <subtitle lang="sco" line="In Guyana, I go to school."/>
+        <subtitle lang="to" line="In Guyana, I go to school."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627; &#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In Guyana, I go to school."/>
+        <subtitle lang="sl" line="In Guyana, I go to school."/>
+        <subtitle lang="ca" line="In Guyana, I go to school."/>
+        <subtitle lang="zm" line="In Guyana, I go to school."/>
+        <subtitle lang="ae" line="In Guyana, I go to school."/>
+        <subtitle lang="nz" line="In Guyana, I go to school."/>
+        <subtitle lang="bz" line="In Guyana, I go to school."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627; &#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In Guyana, I go to school."/>
+        <subtitle lang="mx" line="En Guayana, voy a la escuela."/>
+        <subtitle lang="gh" line="In Guyana, I go to school."/>
+        <subtitle lang="ag" line="In Guyana, I go to school."/>
+        <subtitle lang="mu" line="In Guyana, I go to school."/>
+        <subtitle lang="sa" line="In Guyana, I go to school."/>
+        <subtitle lang="zw" line="In Guyana, I go to school."/>
+        <subtitle lang="ke" line="In Guyana, I go to school."/>
+        <subtitle lang="bw" line="In Guyana, I go to school."/>
+        <subtitle lang="ug" line="In Guyana, I go to school."/>
+        <subtitle lang="au" line="In Guyana, I go to school."/>
+        <subtitle lang="lb" line="In Guyana, I go to school."/>
+        <subtitle lang="nl" line="In Guyana gaat hij naar school."/>
+        <subtitle lang="gm" line="In Guyana, I go to school."/>
+        <subtitle lang="bd" line="In Guyana, I go to school."/>
+        <subtitle lang="pk" line="In Guyana, I go to school."/>
+        <subtitle lang="dm" line="In Guyana, I go to school."/>
+        <subtitle lang="vc" line="In Guyana, I go to school."/>
+        <subtitle lang="bs" line="In Guyana, I go to school."/>
+        <subtitle lang="us" line="In Guyana, I go to school."/>
+        <subtitle lang="jm" line="In Guyana, I go to school."/>
+        <subtitle lang="za" line="In Guyana, I go to school."/>
+        <subtitle lang="rw" line="In Guyana, I go to school."/>
+        <subtitle lang="tz" line="In Guyana, I go to school."/>
+        <subtitle lang="sg" line="In Guyana, I go to school."/>
+        <subtitle lang="vu" line="In Guyana, I go to school."/>
+        <subtitle lang="mt" line="In Guyana, I go to school."/>
+        <subtitle lang="fj" line="In Guyana, I go to school."/>
+        <subtitle lang="sb" line="In Guyana, I go to school."/>
+      <subtitle lang="cl" line="En Guayana, voy a la escuela."/><subtitle lang="es" line="En Guayana, voy a la escuela."/><subtitle lang="co" line="En Guayana, voy a la escuela."/><subtitle lang="gt" line="En Guayana, voy a la escuela."/><subtitle lang="pe" line="En Guayana, voy a la escuela."/><subtitle lang="ni" line="En Guayana, voy a la escuela."/><subtitle lang="do" line="En Guayana, voy a la escuela."/><subtitle lang="bo" line="En Guayana, voy a la escuela."/><subtitle lang="ve" line="En Guayana, voy a la escuela."/><subtitle lang="ar" line="En Guayana, voy a la escuela."/><subtitle lang="cu" line="En Guayana, voy a la escuela."/><subtitle lang="pr" line="En Guayana, voy a la escuela."/><subtitle lang="py" line="En Guayana, voy a la escuela."/><subtitle lang="ec" line="En Guayana, voy a la escuela."/><subtitle lang="hn" line="En Guayana, voy a la escuela."/><subtitle lang="sv" line="En Guayana, voy a la escuela."/><subtitle lang="cr" line="En Guayana, voy a la escuela."/><subtitle lang="pa" line="En Guayana, voy a la escuela."/>
+				<subtitle lang="ine" line="In Guyana, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En C&#xF4;te d'Ivoire elle va &#xE0; l'&#xE9;cole." start="69125" length="4533">
+      <highlight index="0" start="395" length="280"/>
+      <highlight index="1" start="749" length="457"/>
+      <highlight index="2" start="1211" length="831"/>
+      <highlight index="3" start="2771" length="241"/>
+      <highlight index="4" start="2986" length="200"/>
+      <highlight index="5" start="3166" length="395"/>
+      <highlight index="6" start="3468" length="685"/>
+      <subtitles>
+        <subtitle lang="gy" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ng" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dk" line="P&#xE5; Elfenbenskysten g&#xE5;r hun i skole."/>
+        <subtitle lang="na" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sco" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="to" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sl" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ca" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ae" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mx" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+        <subtitle lang="gh" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ag" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sa" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ke" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ug" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="au" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lb" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nl" line="In Ivoorkust gaat zij naar school."/>
+        <subtitle lang="gm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bd" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="pk" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vc" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bs" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="us" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="jm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="za" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="rw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="tz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sg" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="fj" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sb" line="In the Ivory Coast, I go to school."/>
+      <subtitle lang="cl" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="es" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="co" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="gt" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pe" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ni" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="do" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="bo" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ve" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ar" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cu" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="py" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ec" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="hn" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="sv" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pa" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+				<subtitle lang="ine" line="In the Ivory Coast, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="73544" length="4306">
+      <highlight index="0" start="476" length="515"/>
+      <highlight index="1" start="947" length="566"/>
+      <highlight index="2" start="1806" length="200"/>
+      <highlight index="3" start="2066" length="585"/>
+      <highlight index="4" start="2728" length="305"/>
+      <highlight index="5" start="3090" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole en v&#xE9;lo, mon ami." start="77511" length="4420">
+      <highlight index="0" start="365" length="254"/>
+      <highlight index="1" start="594" length="275"/>
+      <highlight index="2" start="861" length="200"/>
+      <highlight index="3" start="1051" length="489"/>
+      <highlight index="4" start="1801" length="275"/>
+      <highlight index="5" start="2069" length="372"/>
+      <highlight index="6" start="2859" length="307"/>
+      <highlight index="7" start="3127" length="483"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school by bike my friend."/>
+        <subtitle lang="ng" line="I go to school by bike my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x62F;&#x631;&#x627;&#x62C;&#x629;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="en" line="I go to school by bike my friend."/>
+        <subtitle lang="dk" line="Jeg cykler til skole, min ven."/>
+        <subtitle lang="na" line="I go to school by bike my friend."/>
+        <subtitle lang="sco" line="I go to school by bike my friend."/>
+        <subtitle lang="to" line="I go to school by bike my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x62F;&#x631;&#x627;&#x62C;&#x629;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="ws" line="I go to school by bike my friend."/>
+        <subtitle lang="sl" line="I go to school by bike my friend."/>
+        <subtitle lang="ca" line="I go to school by bike my friend."/>
+        <subtitle lang="zm" line="I go to school by bike my friend."/>
+        <subtitle lang="ae" line="I go to school by bike my friend."/>
+        <subtitle lang="nz" line="I go to school by bike my friend."/>
+        <subtitle lang="bz" line="I go to school by bike my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x62F;&#x631;&#x627;&#x62C;&#x629;, &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;"/>
+        <subtitle lang="tt" line="I go to school by bike my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="gh" line="I go to school by bike my friend."/>
+        <subtitle lang="ag" line="I go to school by bike my friend."/>
+        <subtitle lang="mu" line="I go to school by bike my friend."/>
+        <subtitle lang="sa" line="I go to school by bike my friend."/>
+        <subtitle lang="zw" line="I go to school by bike my friend."/>
+        <subtitle lang="ke" line="I go to school by bike my friend."/>
+        <subtitle lang="bw" line="I go to school by bike my friend."/>
+        <subtitle lang="ug" line="I go to school by bike my friend."/>
+        <subtitle lang="au" line="I go to school by bike my friend."/>
+        <subtitle lang="lb" line="I go to school by bike my friend."/>
+        <subtitle lang="nl" line="Ik ga op de fiets naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school by bike my friend."/>
+        <subtitle lang="bd" line="I go to school by bike my friend."/>
+        <subtitle lang="pk" line="I go to school by bike my friend."/>
+        <subtitle lang="dm" line="I go to school by bike my friend."/>
+        <subtitle lang="vc" line="I go to school by bike my friend."/>
+        <subtitle lang="bs" line="I go to school by bike my friend."/>
+        <subtitle lang="us" line="I go to school by bike my friend."/>
+        <subtitle lang="jm" line="I go to school by bike my friend."/>
+        <subtitle lang="za" line="I go to school by bike my friend."/>
+        <subtitle lang="rw" line="I go to school by bike my friend."/>
+        <subtitle lang="tz" line="I go to school by bike my friend."/>
+        <subtitle lang="sg" line="I go to school by bike my friend."/>
+        <subtitle lang="vu" line="I go to school by bike my friend."/>
+        <subtitle lang="mt" line="I go to school by bike my friend."/>
+        <subtitle lang="fj" line="I go to school by bike my friend."/>
+        <subtitle lang="sb" line="I go to school by bike my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="es" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="co" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="do" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="py" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela en bici, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela en bici, mi amigo."/>
+				<subtitle lang="ine" line="I go to school by bike my friend."/>
+			</subtitles>
+    </line>
+    <line words="Comment vas-tu &#xE0; l'&#xE9;cole mon ami?" start="81703" length="4306">
+      <highlight index="0" start="254" length="515"/>
+      <highlight index="1" start="756" length="566"/>
+      <highlight index="2" start="1640" length="200"/>
+      <highlight index="3" start="1869" length="585"/>
+      <highlight index="4" start="2518" length="305"/>
+      <highlight index="5" start="2861" length="605"/>
+      <subtitles>
+        <subtitle lang="gy" line="How do you go to school, my friend?"/>
+        <subtitle lang="ng" line="How do you go to school, my friend?"/>
+        <subtitle lang="lba" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="en" line="How do you go to school, my friend?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="na" line="How do you go to school, my friend?"/>
+        <subtitle lang="sco" line="How do you go to school, my friend?"/>
+        <subtitle lang="to" line="How do you go to school, my friend?"/>
+        <subtitle lang="me" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="ws" line="How do you go to school, my friend?"/>
+        <subtitle lang="sl" line="How do you go to school, my friend?"/>
+        <subtitle lang="ca" line="How do you go to school, my friend?"/>
+        <subtitle lang="zm" line="How do you go to school, my friend?"/>
+        <subtitle lang="ae" line="How do you go to school, my friend?"/>
+        <subtitle lang="nz" line="How do you go to school, my friend?"/>
+        <subtitle lang="bz" line="How do you go to school, my friend?"/>
+        <subtitle lang="saa" line="&#x200E;&#x643;&#x64A;&#x641; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A;&#x61F;"/>
+        <subtitle lang="tt" line="How do you go to school, my friend?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gh" line="How do you go to school, my friend?"/>
+        <subtitle lang="ag" line="How do you go to school, my friend?"/>
+        <subtitle lang="mu" line="How do you go to school, my friend?"/>
+        <subtitle lang="sa" line="How do you go to school, my friend?"/>
+        <subtitle lang="zw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ke" line="How do you go to school, my friend?"/>
+        <subtitle lang="bw" line="How do you go to school, my friend?"/>
+        <subtitle lang="ug" line="How do you go to school, my friend?"/>
+        <subtitle lang="au" line="How do you go to school, my friend?"/>
+        <subtitle lang="lb" line="How do you go to school, my friend?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, ja naar school, mijn vriend?"/>
+        <subtitle lang="gm" line="How do you go to school, my friend?"/>
+        <subtitle lang="bd" line="How do you go to school, my friend?"/>
+        <subtitle lang="pk" line="How do you go to school, my friend?"/>
+        <subtitle lang="dm" line="How do you go to school, my friend?"/>
+        <subtitle lang="vc" line="How do you go to school, my friend?"/>
+        <subtitle lang="bs" line="How do you go to school, my friend?"/>
+        <subtitle lang="us" line="How do you go to school, my friend?"/>
+        <subtitle lang="jm" line="How do you go to school, my friend?"/>
+        <subtitle lang="za" line="How do you go to school, my friend?"/>
+        <subtitle lang="rw" line="How do you go to school, my friend?"/>
+        <subtitle lang="tz" line="How do you go to school, my friend?"/>
+        <subtitle lang="sg" line="How do you go to school, my friend?"/>
+        <subtitle lang="vu" line="How do you go to school, my friend?"/>
+        <subtitle lang="mt" line="How do you go to school, my friend?"/>
+        <subtitle lang="fj" line="How do you go to school, my friend?"/>
+        <subtitle lang="sb" line="How do you go to school, my friend?"/>
+      <subtitle lang="cl" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="es" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="co" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="gt" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pe" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ni" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="do" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="bo" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ve" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ar" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cu" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="py" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="ec" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="hn" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="sv" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="cr" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/><subtitle lang="pa" line="&#xBF;C&#xF3;mo te vas a la escuela, mi amigo?"/>
+				<subtitle lang="ine" line="How do you go to school, my friend?"/>
+			</subtitles>
+    </line>
+    <line words="Je vais &#xE0; l'&#xE9;cole en voiture, mon ami." start="85556" length="4420">
+      <highlight index="0" start="365" length="235"/>
+      <highlight index="1" start="561" length="275"/>
+      <highlight index="2" start="861" length="200"/>
+      <highlight index="3" start="1051" length="489"/>
+      <highlight index="4" start="1801" length="275"/>
+      <highlight index="5" start="2069" length="574"/>
+      <highlight index="6" start="2859" length="307"/>
+      <highlight index="7" start="3127" length="483"/>
+      <subtitles>
+        <subtitle lang="gy" line="I go to school by car, my friend."/>
+        <subtitle lang="ng" line="I go to school by car, my friend."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x633;&#x64A;&#x627;&#x631;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A; "/>
+        <subtitle lang="en" line="I go to school by car, my friend."/>
+        <subtitle lang="dk" line="Jeg bliver k&#xF8;rt til skole, min ven."/>
+        <subtitle lang="na" line="I go to school by car, my friend."/>
+        <subtitle lang="sco" line="I go to school by car, my friend."/>
+        <subtitle lang="to" line="I go to school by car, my friend."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x633;&#x64A;&#x627;&#x631;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A; "/>
+        <subtitle lang="ws" line="I go to school by car, my friend."/>
+        <subtitle lang="sl" line="I go to school by car, my friend."/>
+        <subtitle lang="ca" line="I go to school by car, my friend."/>
+        <subtitle lang="zm" line="I go to school by car, my friend."/>
+        <subtitle lang="ae" line="I go to school by car, my friend."/>
+        <subtitle lang="nz" line="I go to school by car, my friend."/>
+        <subtitle lang="bz" line="I go to school by car, my friend."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629; &#x628;&#x627;&#x644;&#x633;&#x64A;&#x627;&#x631;&#x629;&#x60C; &#x64A;&#x627; &#x635;&#x62F;&#x64A;&#x642;&#x64A; "/>
+        <subtitle lang="tt" line="I go to school by car, my friend."/>
+        <subtitle lang="mx" line="Me voy a la escuela en auto, mi amigo."/>
+        <subtitle lang="gh" line="I go to school by car, my friend."/>
+        <subtitle lang="ag" line="I go to school by car, my friend."/>
+        <subtitle lang="mu" line="I go to school by car, my friend."/>
+        <subtitle lang="sa" line="I go to school by car, my friend."/>
+        <subtitle lang="zw" line="I go to school by car, my friend."/>
+        <subtitle lang="ke" line="I go to school by car, my friend."/>
+        <subtitle lang="bw" line="I go to school by car, my friend."/>
+        <subtitle lang="ug" line="I go to school by car, my friend."/>
+        <subtitle lang="au" line="I go to school by car, my friend."/>
+        <subtitle lang="lb" line="I go to school by car, my friend."/>
+        <subtitle lang="nl" line="Ik ga met de auto naar school, mijn vriend."/>
+        <subtitle lang="gm" line="I go to school by car, my friend."/>
+        <subtitle lang="bd" line="I go to school by car, my friend."/>
+        <subtitle lang="pk" line="I go to school by car, my friend."/>
+        <subtitle lang="dm" line="I go to school by car, my friend."/>
+        <subtitle lang="vc" line="I go to school by car, my friend."/>
+        <subtitle lang="bs" line="I go to school by car, my friend."/>
+        <subtitle lang="us" line="I go to school by car, my friend."/>
+        <subtitle lang="jm" line="I go to school by car, my friend."/>
+        <subtitle lang="za" line="I go to school by car, my friend."/>
+        <subtitle lang="rw" line="I go to school by car, my friend."/>
+        <subtitle lang="tz" line="I go to school by car, my friend."/>
+        <subtitle lang="sg" line="I go to school by car, my friend."/>
+        <subtitle lang="vu" line="I go to school by car, my friend."/>
+        <subtitle lang="mt" line="I go to school by car, my friend."/>
+        <subtitle lang="fj" line="I go to school by car, my friend."/>
+        <subtitle lang="sb" line="I go to school by car, my friend."/>
+      <subtitle lang="cl" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="es" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="co" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="gt" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="pe" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="ni" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="do" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="bo" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="ve" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="ar" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="cu" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="pr" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="py" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="ec" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="hn" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="sv" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="cr" line="Me voy a la escuela en auto, mi amigo."/><subtitle lang="pa" line="Me voy a la escuela en auto, mi amigo."/>
+				<subtitle lang="ine" line="I go to school by car, my friend."/>
+			</subtitles>
+    </line>
+    <line words="En France, je vais &#xE0; l'&#xE9;cole." start="89636" length="4192">
+      <highlight index="0" start="501" length="749"/>
+      <highlight index="1" start="1250" length="526"/>
+      <highlight index="2" start="2278" length="200"/>
+      <highlight index="3" start="2451" length="365"/>
+      <highlight index="4" start="2854" length="200"/>
+      <highlight index="5" start="3052" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In France, I go to school."/>
+        <subtitle lang="ng" line="In France, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In France, I go to school."/>
+        <subtitle lang="dk" line="I Frankrig g&#xE5;r jeg i skole."/>
+        <subtitle lang="na" line="In France, I go to school."/>
+        <subtitle lang="sco" line="In France, I go to school."/>
+        <subtitle lang="to" line="In France, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In France, I go to school."/>
+        <subtitle lang="sl" line="In France, I go to school."/>
+        <subtitle lang="ca" line="In France, I go to school."/>
+        <subtitle lang="zm" line="In France, I go to school."/>
+        <subtitle lang="ae" line="In France, I go to school."/>
+        <subtitle lang="nz" line="In France, I go to school."/>
+        <subtitle lang="bz" line="In France, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x627;&#x646;&#x643;&#x644;&#x62A;&#x631;&#x627;&#x60C; &#x623;&#x646;&#x627; &#x623;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In France, I go to school."/>
+        <subtitle lang="mx" line="En France, voy a la escuela."/>
+        <subtitle lang="gh" line="In France, I go to school."/>
+        <subtitle lang="ag" line="In France, I go to school."/>
+        <subtitle lang="mu" line="In France, I go to school."/>
+        <subtitle lang="sa" line="In France, I go to school."/>
+        <subtitle lang="zw" line="In France, I go to school."/>
+        <subtitle lang="ke" line="In France, I go to school."/>
+        <subtitle lang="bw" line="In France, I go to school."/>
+        <subtitle lang="ug" line="In France, I go to school."/>
+        <subtitle lang="au" line="In France, I go to school."/>
+        <subtitle lang="lb" line="In France, I go to school."/>
+        <subtitle lang="nl" line="In Frankrijk ga ik naar school."/>
+        <subtitle lang="gm" line="In France, I go to school."/>
+        <subtitle lang="bd" line="In France, I go to school."/>
+        <subtitle lang="pk" line="In France, I go to school."/>
+        <subtitle lang="dm" line="In France, I go to school."/>
+        <subtitle lang="vc" line="In France, I go to school."/>
+        <subtitle lang="bs" line="In France, I go to school."/>
+        <subtitle lang="us" line="In France, I go to school."/>
+        <subtitle lang="jm" line="In France, I go to school."/>
+        <subtitle lang="za" line="In France, I go to school."/>
+        <subtitle lang="rw" line="In France, I go to school."/>
+        <subtitle lang="tz" line="In France, I go to school."/>
+        <subtitle lang="sg" line="In France, I go to school."/>
+        <subtitle lang="vu" line="In France, I go to school."/>
+        <subtitle lang="mt" line="In France, I go to school."/>
+        <subtitle lang="fj" line="In France, I go to school."/>
+        <subtitle lang="sb" line="In France, I go to school."/>
+      <subtitle lang="cl" line="En France, voy a la escuela."/><subtitle lang="es" line="En France, voy a la escuela."/><subtitle lang="co" line="En France, voy a la escuela."/><subtitle lang="gt" line="En France, voy a la escuela."/><subtitle lang="pe" line="En France, voy a la escuela."/><subtitle lang="ni" line="En France, voy a la escuela."/><subtitle lang="do" line="En France, voy a la escuela."/><subtitle lang="bo" line="En France, voy a la escuela."/><subtitle lang="ve" line="En France, voy a la escuela."/><subtitle lang="ar" line="En France, voy a la escuela."/><subtitle lang="cu" line="En France, voy a la escuela."/><subtitle lang="pr" line="En France, voy a la escuela."/><subtitle lang="py" line="En France, voy a la escuela."/><subtitle lang="ec" line="En France, voy a la escuela."/><subtitle lang="hn" line="En France, voy a la escuela."/><subtitle lang="sv" line="En France, voy a la escuela."/><subtitle lang="cr" line="En France, voy a la escuela."/><subtitle lang="pa" line="En France, voy a la escuela."/>
+				<subtitle lang="ine" line="In France, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Belgique tu vas &#xE0; l'&#xE9;cole." start="93375" length="4192">
+      <highlight index="0" start="575" length="972"/>
+      <highlight index="1" start="1523" length="526"/>
+      <highlight index="2" start="2588" length="200"/>
+      <highlight index="3" start="2810" length="297"/>
+      <highlight index="4" start="3095" length="200"/>
+      <highlight index="5" start="3275" length="582"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Belgium, I go to school."/>
+        <subtitle lang="ng" line="In Belgium, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;."/>
+        <subtitle lang="en" line="In Belgium, I go to school."/>
+        <subtitle lang="dk" line="I Belgien g&#xE5;r du i skole."/>
+        <subtitle lang="na" line="In Belgium, I go to school."/>
+        <subtitle lang="sco" line="In Belgium, I go to school."/>
+        <subtitle lang="to" line="In Belgium, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;."/>
+        <subtitle lang="ws" line="In Belgium, I go to school."/>
+        <subtitle lang="sl" line="In Belgium, I go to school."/>
+        <subtitle lang="ca" line="In Belgium, I go to school."/>
+        <subtitle lang="zm" line="In Belgium, I go to school."/>
+        <subtitle lang="ae" line="In Belgium, I go to school."/>
+        <subtitle lang="nz" line="In Belgium, I go to school."/>
+        <subtitle lang="bz" line="In Belgium, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x623;&#x645;&#x631;&#x64A;&#x643;&#x627;&#x60C; &#x623;&#x646;&#x62A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;."/>
+        <subtitle lang="tt" line="In Belgium, I go to school."/>
+        <subtitle lang="mx" line="En B&#xE9;lgica, voy a la escuela ."/>
+        <subtitle lang="gh" line="In Belgium, I go to school."/>
+        <subtitle lang="ag" line="In Belgium, I go to school."/>
+        <subtitle lang="mu" line="In Belgium, I go to school."/>
+        <subtitle lang="sa" line="In Belgium, I go to school."/>
+        <subtitle lang="zw" line="In Belgium, I go to school."/>
+        <subtitle lang="ke" line="In Belgium, I go to school."/>
+        <subtitle lang="bw" line="In Belgium, I go to school."/>
+        <subtitle lang="ug" line="In Belgium, I go to school."/>
+        <subtitle lang="au" line="In Belgium, I go to school."/>
+        <subtitle lang="lb" line="In Belgium, I go to school."/>
+        <subtitle lang="nl" line="In Belgi&#xEB; ga jij naar school."/>
+        <subtitle lang="gm" line="In Belgium, I go to school."/>
+        <subtitle lang="bd" line="In Belgium, I go to school."/>
+        <subtitle lang="pk" line="In Belgium, I go to school."/>
+        <subtitle lang="dm" line="In Belgium, I go to school."/>
+        <subtitle lang="vc" line="In Belgium, I go to school."/>
+        <subtitle lang="bs" line="In Belgium, I go to school."/>
+        <subtitle lang="us" line="In Belgium, I go to school."/>
+        <subtitle lang="jm" line="In Belgium, I go to school."/>
+        <subtitle lang="za" line="In Belgium, I go to school."/>
+        <subtitle lang="rw" line="In Belgium, I go to school."/>
+        <subtitle lang="tz" line="In Belgium, I go to school."/>
+        <subtitle lang="sg" line="In Belgium, I go to school."/>
+        <subtitle lang="vu" line="In Belgium, I go to school."/>
+        <subtitle lang="mt" line="In Belgium, I go to school."/>
+        <subtitle lang="fj" line="In Belgium, I go to school."/>
+        <subtitle lang="sb" line="In Belgium, I go to school."/>
+      <subtitle lang="cl" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="es" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="co" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="gt" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pe" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ni" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="do" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="bo" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ve" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ar" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cu" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="py" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="ec" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="hn" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="sv" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="cr" line="En B&#xE9;lgica, voy a la escuela ."/><subtitle lang="pa" line="En B&#xE9;lgica, voy a la escuela ."/>
+				<subtitle lang="ine" line="In Belgium, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En Guyane, il va &#xE0; l'&#xE9;cole." start="97115" length="4419">
+      <highlight index="0" start="900" length="749"/>
+      <highlight index="1" start="1768" length="526"/>
+      <highlight index="2" start="2780" length="235"/>
+      <highlight index="3" start="2982" length="297"/>
+      <highlight index="4" start="3250" length="200"/>
+      <highlight index="5" start="3517" length="758"/>
+      <subtitles>
+        <subtitle lang="gy" line="In Guyana, I go to school."/>
+        <subtitle lang="ng" line="In Guyana, I go to school."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In Guyana, I go to school."/>
+        <subtitle lang="dk" line="I Guyana g&#xE5;r han i skole."/>
+        <subtitle lang="na" line="In Guyana, I go to school."/>
+        <subtitle lang="sco" line="In Guyana, I go to school."/>
+        <subtitle lang="to" line="In Guyana, I go to school."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In Guyana, I go to school."/>
+        <subtitle lang="sl" line="In Guyana, I go to school."/>
+        <subtitle lang="ca" line="In Guyana, I go to school."/>
+        <subtitle lang="zm" line="In Guyana, I go to school."/>
+        <subtitle lang="ae" line="In Guyana, I go to school."/>
+        <subtitle lang="nz" line="In Guyana, I go to school."/>
+        <subtitle lang="bz" line="In Guyana, I go to school."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x643;&#x646;&#x62F;&#x627;&#x60C; &#x647;&#x648; &#x64A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In Guyana, I go to school."/>
+        <subtitle lang="mx" line="En Guayana, voy a la escuela."/>
+        <subtitle lang="gh" line="In Guyana, I go to school."/>
+        <subtitle lang="ag" line="In Guyana, I go to school."/>
+        <subtitle lang="mu" line="In Guyana, I go to school."/>
+        <subtitle lang="sa" line="In Guyana, I go to school."/>
+        <subtitle lang="zw" line="In Guyana, I go to school."/>
+        <subtitle lang="ke" line="In Guyana, I go to school."/>
+        <subtitle lang="bw" line="In Guyana, I go to school."/>
+        <subtitle lang="ug" line="In Guyana, I go to school."/>
+        <subtitle lang="au" line="In Guyana, I go to school."/>
+        <subtitle lang="lb" line="In Guyana, I go to school."/>
+        <subtitle lang="nl" line="In Guyana gaat hij naar school."/>
+        <subtitle lang="gm" line="In Guyana, I go to school."/>
+        <subtitle lang="bd" line="In Guyana, I go to school."/>
+        <subtitle lang="pk" line="In Guyana, I go to school."/>
+        <subtitle lang="dm" line="In Guyana, I go to school."/>
+        <subtitle lang="vc" line="In Guyana, I go to school."/>
+        <subtitle lang="bs" line="In Guyana, I go to school."/>
+        <subtitle lang="us" line="In Guyana, I go to school."/>
+        <subtitle lang="jm" line="In Guyana, I go to school."/>
+        <subtitle lang="za" line="In Guyana, I go to school."/>
+        <subtitle lang="rw" line="In Guyana, I go to school."/>
+        <subtitle lang="tz" line="In Guyana, I go to school."/>
+        <subtitle lang="sg" line="In Guyana, I go to school."/>
+        <subtitle lang="vu" line="In Guyana, I go to school."/>
+        <subtitle lang="mt" line="In Guyana, I go to school."/>
+        <subtitle lang="fj" line="In Guyana, I go to school."/>
+        <subtitle lang="sb" line="In Guyana, I go to school."/>
+      <subtitle lang="cl" line="En Guayana, voy a la escuela."/><subtitle lang="es" line="En Guayana, voy a la escuela."/><subtitle lang="co" line="En Guayana, voy a la escuela."/><subtitle lang="gt" line="En Guayana, voy a la escuela."/><subtitle lang="pe" line="En Guayana, voy a la escuela."/><subtitle lang="ni" line="En Guayana, voy a la escuela."/><subtitle lang="do" line="En Guayana, voy a la escuela."/><subtitle lang="bo" line="En Guayana, voy a la escuela."/><subtitle lang="ve" line="En Guayana, voy a la escuela."/><subtitle lang="ar" line="En Guayana, voy a la escuela."/><subtitle lang="cu" line="En Guayana, voy a la escuela."/><subtitle lang="pr" line="En Guayana, voy a la escuela."/><subtitle lang="py" line="En Guayana, voy a la escuela."/><subtitle lang="ec" line="En Guayana, voy a la escuela."/><subtitle lang="hn" line="En Guayana, voy a la escuela."/><subtitle lang="sv" line="En Guayana, voy a la escuela."/><subtitle lang="cr" line="En Guayana, voy a la escuela."/><subtitle lang="pa" line="En Guayana, voy a la escuela."/>
+				<subtitle lang="ine" line="In Guyana, I go to school."/>
+			</subtitles>
+    </line>
+    <line words="En C&#xF4;te d'Ivoire elle va &#xE0; l'&#xE9;cole." start="100968" length="4986">
+      <highlight index="0" start="412" length="383"/>
+      <highlight index="1" start="787" length="457"/>
+      <highlight index="2" start="1229" length="1105"/>
+      <highlight index="3" start="2857" length="200"/>
+      <highlight index="4" start="3048" length="200"/>
+      <highlight index="5" start="3284" length="383"/>
+      <highlight index="6" start="3645" length="847"/>
+      <subtitles>
+        <subtitle lang="gy" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ng" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="en" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dk" line="P&#xE5; Elfenbenskysten g&#xE5;r hun i skole."/>
+        <subtitle lang="na" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sco" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="to" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="ws" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sl" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ca" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ae" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x62C;&#x627;&#x645;&#x627;&#x64A;&#x643;&#x627;&#x60C; &#x647;&#x64A; &#x62A;&#x630;&#x647;&#x628; &#x625;&#x644;&#x649; &#x627;&#x644;&#x645;&#x62F;&#x631;&#x633;&#x629;"/>
+        <subtitle lang="tt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mx" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+        <subtitle lang="gh" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ag" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sa" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="zw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ke" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="ug" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="au" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="lb" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="nl" line="In Ivoorkust gaat zij naar school."/>
+        <subtitle lang="gm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bd" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="pk" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="dm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vc" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="bs" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="us" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="jm" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="za" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="rw" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="tz" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sg" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="vu" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="mt" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="fj" line="In the Ivory Coast, I go to school."/>
+        <subtitle lang="sb" line="In the Ivory Coast, I go to school."/>
+      <subtitle lang="cl" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="es" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="co" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="gt" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pe" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ni" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="do" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="bo" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ve" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ar" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cu" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="py" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="ec" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="hn" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="sv" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="cr" line="En C&#xF4;te d'Ivoire, voy a la escuela."/><subtitle lang="pa" line="En C&#xF4;te d'Ivoire, voy a la escuela."/>
+				<subtitle lang="ine" line="In the Ivory Coast, I go to school."/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

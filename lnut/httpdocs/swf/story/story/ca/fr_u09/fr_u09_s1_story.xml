@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="226873" >
+	<lines>
+		<line words="Alfredo et sa maman vont voir une pièce de théâtre. La pièce s’appelle La Belle au Bois Dormant. Alfredo n’est pas content. §Mais je n’aime pas les contes de fées. Et je déteste la Belle au Bois Dormant..." start="882" length="13486" useLNutResource="true" image="9#1#1" >
+			<highlights>
+				<highlight index="0" start="1288" length="510" />
+				<highlight index="1" start="1747" length="200" />
+				<highlight index="2" start="1887" length="267" />
+				<highlight index="3" start="2117" length="332" />
+				<highlight index="4" start="2436" length="200" />
+				<highlight index="5" start="2589" length="200" />
+				<highlight index="6" start="2742" length="340" />
+				<highlight index="7" start="3035" length="417" />
+				<highlight index="8" start="3431" length="200" />
+				<highlight index="9" start="3584" length="395" />
+				<highlight index="10" start="4808" length="243" />
+				<highlight index="11" start="5025" length="447" />
+				<highlight index="12" start="5433" length="344" />
+				<highlight index="13" start="5740" length="327" />
+				<highlight index="14" start="6033" length="229" />
+				<highlight index="15" start="6211" length="200" />
+				<highlight index="16" start="6365" length="267" />
+				<highlight index="17" start="6594" length="485" />
+				<highlight index="18" start="7678" length="421" />
+				<highlight index="19" start="8074" length="280" />
+				<highlight index="20" start="8316" length="230" />
+				<highlight index="21" start="8520" length="408" />
+				<highlight index="22" start="9592" length="191" />
+				<highlight index="23" start="9783" length="191" />
+				<highlight index="24" start="9949" length="178" />
+				<highlight index="25" start="10089" length="179" />
+				<highlight index="26" start="10268" length="255" />
+				<highlight index="27" start="10421" length="382" />
+				<highlight index="28" start="10778" length="268" />
+				<highlight index="29" start="11033" length="455" />
+				<highlight index="30" start="11467" length="200" />
+				<highlight index="31" start="11658" length="200" />
+				<highlight index="32" start="11862" length="472" />
+				<highlight index="33" start="12309" length="225" />
+				<highlight index="34" start="12513" length="200" />
+				<highlight index="35" start="12717" length="200" />
+				<highlight index="36" start="12921" length="200" />
+				<highlight index="37" start="13099" length="370" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo and his Mum go to see a play. The play is called Sleeping Beauty. Alfredo is not happy. §But I don’t like fairy tales. And I hate Sleeping Beauty..." />
+				<subtitle lang="en" line="Alfredo and his Mum go to see a play. The play is called Sleeping Beauty. Alfredo is not happy. §But I don’t like fairy tales. And I hate Sleeping Beauty..." />
+				<subtitle lang="us" line="Alfredo and his Mum go to see a play. The play is called Sleeping Beauty. Alfredo is not happy. §But I don’t like fairy tales. And I hate Sleeping Beauty..." />
+			</subtitles>
+		</line>
+		<line words="... C’est une histoire pour bébés.§" start="14116" length="3781" useLNutResource="true" image="9#1#1" >
+			<highlights>
+				<highlight index="1" start="462" length="200" />
+				<highlight index="2" start="649" length="157" />
+				<highlight index="3" start="797" length="704" />
+				<highlight index="4" start="1498" length="200" />
+				<highlight index="5" start="1695" length="767" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="... It’s a baby story.§" />
+				<subtitle lang="en" line="... It’s a baby story.§" />
+				<subtitle lang="us" line="... It’s a baby story.§" />
+			</subtitles>
+		</line>
+		<line words="§Mon chéri!§ Dit sa maman, §C’est un classique. Il y a une sorcière, une magnifique princesse, un bois sombre, un château, une grande haie, un baiser, un merveilleux mariage. Qu’est-ce qu’il peut y avoir de mieux?§" start="18401" length="16890" useLNutResource="true" image="9#1#1" >
+			<highlights>
+				<highlight index="0" start="1415" length="200" />
+				<highlight index="1" start="1607" length="255" />
+				<highlight index="2" start="2206" length="188" />
+				<highlight index="3" start="2385" length="200" />
+				<highlight index="4" start="2576" length="318" />
+				<highlight index="5" start="3291" length="200" />
+				<highlight index="6" start="3482" length="200" />
+				<highlight index="7" start="3661" length="370" />
+				<highlight index="8" start="4311" length="187" />
+				<highlight index="9" start="4490" length="161" />
+				<highlight index="10" start="4630" length="179" />
+				<highlight index="11" start="4796" length="281" />
+				<highlight index="12" start="5077" length="918" />
+				<highlight index="13" start="6212" length="200" />
+				<highlight index="14" start="6365" length="676" />
+				<highlight index="15" start="7028" length="417" />
+				<highlight index="16" start="7806" length="200" />
+				<highlight index="17" start="7985" length="255" />
+				<highlight index="18" start="8227" length="396" />
+				<highlight index="19" start="8763" length="255" />
+				<highlight index="20" start="8980" length="842" />
+				<highlight index="21" start="9949" length="243" />
+				<highlight index="22" start="10179" length="485" />
+				<highlight index="23" start="10651" length="242" />
+				<highlight index="24" start="11034" length="200" />
+				<highlight index="25" start="11212" length="600" />
+				<highlight index="26" start="12067" length="281" />
+				<highlight index="27" start="12360" length="676" />
+				<highlight index="28" start="13011" length="498" />
+				<highlight index="29" start="13674" length="383" />
+				<highlight index="30" start="14057" length="200" />
+				<highlight index="31" start="14248" length="243" />
+				<highlight index="32" start="14478" length="230" />
+				<highlight index="33" start="14695" length="263" />
+				<highlight index="34" start="14975" length="200" />
+				<highlight index="35" start="15180" length="497" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Darling!§ says Alfredo’s Mum, §It’s a classic. There’s a wicked fairy, a beautiful princess, a dark wood, a castle, a huge hedge, a charming prince, a kiss, a wonderful marriage. What could be better?§" />
+				<subtitle lang="en" line="§Darling!§ says Alfredo’s Mum, §It’s a classic. There’s a wicked fairy, a beautiful princess, a dark wood, a castle, a huge hedge, a charming prince, a kiss, a wonderful marriage. What could be better?§" />
+				<subtitle lang="us" line="§Darling!§ says Alfredo’s Mum, §It’s a classic. There’s a wicked fairy, a beautiful princess, a dark wood, a castle, a huge hedge, a charming prince, a kiss, a wonderful marriage. What could be better?§" />
+			</subtitles>
+		</line>
+		<line words="§Tout,§ dit Alfredo. §J’ai vu La Belle au Bois Dormant dix, vingt, peut-être trente fois. C’est lent, l’histoire est ennuyeuse. Je répète: Je n’aime pas les contes de fées, et plus particulièrement La Belle au Bois Dormant..." start="35669" length="17015" useLNutResource="true" image="9#3#3" >
+			<highlights>
+				<highlight index="0" start="1689" length="708" />
+				<highlight index="1" start="2590" length="321" />
+				<highlight index="2" start="2911" length="683" />
+				<highlight index="3" start="3877" length="322" />
+				<highlight index="4" start="4198" length="200" />
+				<highlight index="5" start="4375" length="200" />
+				<highlight index="6" start="4552" length="274" />
+				<highlight index="7" start="4794" length="200" />
+				<highlight index="8" start="4938" length="226" />
+				<highlight index="9" start="5164" length="499" />
+				<highlight index="10" start="5727" length="482" />
+				<highlight index="11" start="6274" length="579" />
+				<highlight index="12" start="6789" length="498" />
+				<highlight index="13" start="7255" length="483" />
+				<highlight index="14" start="7738" length="386" />
+				<highlight index="15" start="8269" length="321" />
+				<highlight index="16" start="8542" length="289" />
+				<highlight index="17" start="9282" length="547" />
+				<highlight index="18" start="9813" length="200" />
+				<highlight index="19" start="9990" length="772" />
+				<highlight index="20" start="10875" length="322" />
+				<highlight index="21" start="11180" length="418" />
+				<highlight index="22" start="11969" length="305" />
+				<highlight index="23" start="12226" length="307" />
+				<highlight index="24" start="12532" length="354" />
+				<highlight index="25" start="12886" length="386" />
+				<highlight index="26" start="13224" length="241" />
+				<highlight index="27" start="13433" length="200" />
+				<highlight index="28" start="13610" length="321" />
+				<highlight index="29" start="14012" length="248" />
+				<highlight index="30" start="14237" length="305" />
+				<highlight index="31" start="14511" length="1029" />
+				<highlight index="32" start="15782" length="241" />
+				<highlight index="33" start="16007" length="289" />
+				<highlight index="34" start="16280" length="200" />
+				<highlight index="35" start="16457" length="257" />
+				<highlight index="36" start="16683" length="321" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Anything,§ says Alfredo. §I’ve seen Sleeping Beauty ten, twenty, maybe thirty times. It’s slow, it tells a boring story. I repeat: I don’t like fairy tales, especially Sleeping Beauty..." />
+				<subtitle lang="en" line="§Anything,§ says Alfredo. §I’ve seen Sleeping Beauty ten, twenty, maybe thirty times. It’s slow, it tells a boring story. I repeat: I don’t like fairy tales, especially Sleeping Beauty..." />
+				<subtitle lang="us" line="§Anything,§ says Alfredo. §I’ve seen Sleeping Beauty ten, twenty, maybe thirty times. It’s slow, it tells a boring story. I repeat: I don’t like fairy tales, especially Sleeping Beauty..." />
+			</subtitles>
+		</line>
+		<line words="... Elle est hautement ennuyeuse.§" start="52306" length="4631" useLNutResource="true" image="9#2#8" >
+			<highlights>
+				<highlight index="1" start="615" length="200" />
+				<highlight index="2" start="804" length="200" />
+				<highlight index="3" start="993" length="1025" />
+				<highlight index="4" start="2014" length="1161" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="... She is utterly boring.§" />
+				<subtitle lang="en" line="... She is utterly boring.§" />
+				<subtitle lang="us" line="... She is utterly boring.§" />
+			</subtitles>
+		</line>
+		<line words="§Ecoute Alfredo,§ dit sa maman, §je l’ai vu quarante, cinquante, cent fois et je l’adore toujours autant. Ecoute, J’ai entendu dire que le théâtre vend des glaces énormes.§" start="57096" length="14242" useLNutResource="true" image="9#2#2" >
+			<highlights>
+				<highlight index="0" start="1495" length="419" />
+				<highlight index="1" start="1903" length="613" />
+				<highlight index="2" start="2710" length="200" />
+				<highlight index="3" start="2893" length="200" />
+				<highlight index="4" start="3076" length="333" />
+				<highlight index="5" start="3678" length="151" />
+				<highlight index="6" start="3818" length="194" />
+				<highlight index="7" start="4001" length="193" />
+				<highlight index="8" start="4162" length="635" />
+				<highlight index="9" start="4797" length="742" />
+				<highlight index="10" start="5528" length="258" />
+				<highlight index="11" start="5776" length="236" />
+				<highlight index="12" start="6023" length="140" />
+				<highlight index="13" start="6184" length="243" />
+				<highlight index="14" start="6400" length="516" />
+				<highlight index="15" start="6905" length="559" />
+				<highlight index="16" start="7464" length="495" />
+				<highlight index="17" start="8153" length="516" />
+				<highlight index="18" start="9196" length="237" />
+				<highlight index="19" start="9422" length="570" />
+				<highlight index="20" start="9960" length="344" />
+				<highlight index="21" start="10422" length="204" />
+				<highlight index="22" start="10605" length="179" />
+				<highlight index="23" start="10767" length="408" />
+				<highlight index="24" start="11165" length="301" />
+				<highlight index="25" start="11444" length="200" />
+				<highlight index="26" start="11659" length="344" />
+				<highlight index="27" start="12004" length="828" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§Look Alfredo§, says Alfredo’s Mum, §I’ve seen it forty, fifty, a hundred times, and I still love it. Listen, I hear the theatre sells enormous ice creams.§" />
+				<subtitle lang="en" line="§Look Alfredo§, says Alfredo’s Mum, §I’ve seen it forty, fifty, a hundred times, and I still love it. Listen, I hear the theatre sells enormous ice creams.§" />
+				<subtitle lang="us" line="§Look Alfredo§, says Alfredo’s Mum, §I’ve seen it forty, fifty, a hundred times, and I still love it. Listen, I hear the theatre sells enormous ice creams.§" />
+			</subtitles>
+		</line>
+		<line words="Alfredo et sa maman arrivent au théâtre. La maman d’Alfredo a raison. Les glaces sont énormes. Alfredo choisit un Charmeur Malicieux. C’est une grande glace avec une grosse base." start="71464" length="15503" useLNutResource="true" image="21#6#6" >
+			<highlights>
+				<highlight index="0" start="1876" length="352" />
+				<highlight index="1" start="2211" length="200" />
+				<highlight index="2" start="2379" length="200" />
+				<highlight index="3" start="2546" length="670" />
+				<highlight index="4" start="3183" length="771" />
+				<highlight index="5" start="3954" length="368" />
+				<highlight index="6" start="4289" length="770" />
+				<highlight index="7" start="5110" length="251" />
+				<highlight index="8" start="5294" length="335" />
+				<highlight index="9" start="5579" length="368" />
+				<highlight index="10" start="5931" length="200" />
+				<highlight index="11" start="6115" length="486" />
+				<highlight index="12" start="6869" length="301" />
+				<highlight index="13" start="7103" length="486" />
+				<highlight index="14" start="7556" length="302" />
+				<highlight index="15" start="7824" length="687" />
+				<highlight index="16" start="8946" length="620" />
+				<highlight index="17" start="9600" length="704" />
+				<highlight index="18" start="10304" length="200" />
+				<highlight index="19" start="10488" length="603" />
+				<highlight index="20" start="11058" length="670" />
+				<highlight index="21" start="12364" length="318" />
+				<highlight index="22" start="12649" length="200" />
+				<highlight index="23" start="12834" length="452" />
+				<highlight index="24" start="13252" length="470" />
+				<highlight index="25" start="13738" length="436" />
+				<highlight index="26" start="14157" length="284" />
+				<highlight index="27" start="14409" length="552" />
+				<highlight index="28" start="14911" length="503" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo and Alfredo’s Mum arrive at the theatre. Alfredo’s Mum is right. The ice creams are enormous. Alfredo chooses a Wicked Charmer. It is a tall ice cream, with a fat bottom." />
+				<subtitle lang="en" line="Alfredo and Alfredo’s Mum arrive at the theatre. Alfredo’s Mum is right. The ice creams are enormous. Alfredo chooses a Wicked Charmer. It is a tall ice cream, with a fat bottom." />
+				<subtitle lang="us" line="Alfredo and Alfredo’s Mum arrive at the theatre. Alfredo’s Mum is right. The ice creams are enormous. Alfredo chooses a Wicked Charmer. It is a tall ice cream, with a fat bottom." />
+			</subtitles>
+		</line>
+		<line words="Elle a un cône court et fin et entre dans le petit creux sur le côté du siège d’Alfredo." start="86715" length="6933" useLNutResource="true" image="21#6#6" >
+			<highlights>
+				<highlight index="0" start="649" length="157" />
+				<highlight index="1" start="795" length="168" />
+				<highlight index="2" start="958" length="136" />
+				<highlight index="3" start="1094" length="194" />
+				<highlight index="4" start="1282" length="257" />
+				<highlight index="5" start="1539" length="153" />
+				<highlight index="6" start="1696" length="765" />
+				<highlight index="7" start="2461" length="200" />
+				<highlight index="8" start="2659" length="226" />
+				<highlight index="9" start="2885" length="188" />
+				<highlight index="10" start="3068" length="157" />
+				<highlight index="11" start="3215" length="277" />
+				<highlight index="12" start="3492" length="482" />
+				<highlight index="13" start="3979" length="200" />
+				<highlight index="14" start="4183" length="157" />
+				<highlight index="15" start="4330" length="330" />
+				<highlight index="16" start="4654" length="172" />
+				<highlight index="17" start="4817" length="382" />
+				<highlight index="18" start="5194" length="691" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="It has a short, thin cone, and it fits into a small hole on the side of Alfredo’s seat." />
+				<subtitle lang="en" line="It has a short, thin cone, and it fits into a small hole on the side of Alfredo’s seat." />
+				<subtitle lang="us" line="It has a short, thin cone, and it fits into a small hole on the side of Alfredo’s seat." />
+			</subtitles>
+		</line>
+		<line words="Alfredo se sent beaucoup mieux maintenant qu’il a une glace." start="94026" length="6680" useLNutResource="true" image="9#1#5" >
+			<highlights>
+				<highlight index="0" start="1876" length="813" />
+				<highlight index="1" start="2684" length="287" />
+				<highlight index="2" start="2971" length="261" />
+				<highlight index="3" start="3228" length="419" />
+				<highlight index="4" start="3642" length="200" />
+				<highlight index="5" start="3834" length="469" />
+				<highlight index="6" start="4293" length="152" />
+				<highlight index="7" start="4439" length="131" />
+				<highlight index="8" start="4565" length="131" />
+				<highlight index="9" start="4681" length="525" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo is feeling much better now that he has an ice cream." />
+				<subtitle lang="en" line="Alfredo is feeling much better now that he has an ice cream." />
+				<subtitle lang="us" line="Alfredo is feeling much better now that he has an ice cream." />
+			</subtitles>
+		</line>
+		<line words="Alfredo et sa maman s’assoient. Ils restent silencieux." start="100706" length="6050" useLNutResource="true" image="9#2#5" >
+			<highlights>
+				<highlight index="0" start="2202" length="352" />
+				<highlight index="1" start="2554" length="141" />
+				<highlight index="2" start="2691" length="119" />
+				<highlight index="3" start="2810" length="283" />
+				<highlight index="4" start="3084" length="411" />
+				<highlight index="5" start="4034" length="183" />
+				<highlight index="6" start="4212" length="270" />
+				<highlight index="7" start="4482" length="631" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Alfredo and his Mum sit down. They sit in silence." />
+				<subtitle lang="en" line="Alfredo and his Mum sit down. They sit in silence." />
+				<subtitle lang="us" line="Alfredo and his Mum sit down. They sit in silence." />
+			</subtitles>
+		</line>
+		<line words="Un homme apparaît sur la scène. §Mesdames et Messieurs, garçons et filles. Bienvenu au spectacle de La Belle au Bois Dormant. Ça va être un vrai spectacle! Mais tout d’abord mesdames, messieurs, garçons et filles..." start="107260" length="16259" useLNutResource="true" image="9#1#5" >
+			<highlights>
+				<highlight index="0" start="2038" length="284" />
+				<highlight index="1" start="2307" length="222" />
+				<highlight index="2" start="2512" length="427" />
+				<highlight index="3" start="2923" length="295" />
+				<highlight index="4" start="3192" length="284" />
+				<highlight index="5" start="3460" length="632" />
+				<highlight index="6" start="4345" length="427" />
+				<highlight index="7" start="4772" length="200" />
+				<highlight index="8" start="4946" length="332" />
+				<highlight index="9" start="5467" length="648" />
+				<highlight index="10" start="6099" length="237" />
+				<highlight index="11" start="6305" length="505" />
+				<highlight index="12" start="7016" length="869" />
+				<highlight index="13" start="7869" length="200" />
+				<highlight index="14" start="8059" length="521" />
+				<highlight index="15" start="8580" length="200" />
+				<highlight index="16" start="8738" length="158" />
+				<highlight index="17" start="8865" length="189" />
+				<highlight index="18" start="9023" length="174" />
+				<highlight index="19" start="9181" length="200" />
+				<highlight index="20" start="9354" length="633" />
+				<highlight index="21" start="10176" length="200" />
+				<highlight index="22" start="10366" length="200" />
+				<highlight index="23" start="10555" length="200" />
+				<highlight index="24" start="10777" length="200" />
+				<highlight index="25" start="10950" length="300" />
+				<highlight index="26" start="11219" length="948" />
+				<highlight index="27" start="12467" length="200" />
+				<highlight index="28" start="12641" length="285" />
+				<highlight index="29" start="12926" length="553" />
+				<highlight index="30" start="13447" length="348" />
+				<highlight index="31" start="13795" length="616" />
+				<highlight index="32" start="14617" length="474" />
+				<highlight index="33" start="15059" length="200" />
+				<highlight index="34" start="15233" length="917" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="A man comes onto the stage. §Ladies and gentlemen, boys and girls. Welcome to Sleeping Beauty. Boy, have we got show for you. But first, ladies and gentlemen, boys and girls..." />
+				<subtitle lang="en" line="A man comes onto the stage. §Ladies and gentlemen, boys and girls. Welcome to Sleeping Beauty. Boy, have we got show for you. But first, ladies and gentlemen, boys and girls..." />
+				<subtitle lang="us" line="A man comes onto the stage. §Ladies and gentlemen, boys and girls. Welcome to Sleeping Beauty. Boy, have we got show for you. But first, ladies and gentlemen, boys and girls..." />
+			</subtitles>
+		</line>
+		<line words="... j’ai une mauvaise nouvelle: notre prince est malade. l a mangé une pomme. Il y avait un vers dedans. Il ne peut pas jouer, chanter, ni danser. C’est vrai. Il ne peut même pas courir. Nous avons besoin d’un prince§" start="123267" length="20293" useLNutResource="true" image="9#1#1" >
+			<highlights>
+				<highlight index="1" start="168" length="353" />
+				<highlight index="2" start="521" length="200" />
+				<highlight index="3" start="705" length="337" />
+				<highlight index="4" start="996" length="490" />
+				<highlight index="5" start="1501" length="491" />
+				<highlight index="6" start="1961" length="552" />
+				<highlight index="7" start="2498" length="306" />
+				<highlight index="8" start="2774" length="1134" />
+				<highlight index="9" start="7372" length="153" />
+				<highlight index="10" start="7494" length="169" />
+				<highlight index="11" start="7617" length="429" />
+				<highlight index="12" start="8031" length="200" />
+				<highlight index="13" start="8245" length="368" />
+				<highlight index="14" start="8935" length="184" />
+				<highlight index="15" start="9042" length="184" />
+				<highlight index="16" start="9149" length="292" />
+				<highlight index="17" start="9441" length="200" />
+				<highlight index="18" start="9625" length="337" />
+				<highlight index="19" start="9931" length="399" />
+				<highlight index="20" start="10759" length="168" />
+				<highlight index="21" start="10881" length="169" />
+				<highlight index="22" start="11019" length="169" />
+				<highlight index="23" start="11172" length="169" />
+				<highlight index="24" start="11326" length="475" />
+				<highlight index="25" start="11770" length="675" />
+				<highlight index="26" start="12414" length="245" />
+				<highlight index="27" start="12598" length="659" />
+				<highlight index="28" start="13395" length="200" />
+				<highlight index="29" start="13594" length="322" />
+				<highlight index="30" start="14422" length="200" />
+				<highlight index="31" start="14606" length="200" />
+				<highlight index="32" start="14774" length="307" />
+				<highlight index="33" start="15096" length="460" />
+				<highlight index="34" start="15541" length="200" />
+				<highlight index="35" start="15755" length="674" />
+				<highlight index="36" start="16889" length="245" />
+				<highlight index="37" start="17104" length="383" />
+				<highlight index="38" start="17456" length="230" />
+				<highlight index="39" start="17671" length="398" />
+				<highlight index="40" start="18023" length="981" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="... some sad news: our prince is ill. He ate an apple. It had a worm in it. He cannot act or sing or dance. It’s true. He can’t even run. We need a prince.§" />
+				<subtitle lang="en" line="... some sad news: our prince is ill. He ate an apple. It had a worm in it. He cannot act or sing or dance. It’s true. He can’t even run. We need a prince.§" />
+				<subtitle lang="us" line="... some sad news: our prince is ill. He ate an apple. It had a worm in it. He cannot act or sing or dance. It’s true. He can’t even run. We need a prince.§" />
+			</subtitles>
+		</line>
+		<line words="Tout le monde est silencieux. Tout le monde se demande qui sera le prince. Tout le monde reste très silencieux." start="143812" length="10209" useLNutResource="true" image="9#2#3" >
+			<highlights>
+				<highlight index="0" start="1426" length="200" />
+				<highlight index="1" start="1611" length="146" />
+				<highlight index="2" start="1742" length="285" />
+				<highlight index="3" start="2012" length="200" />
+				<highlight index="4" start="2197" length="594" />
+				<highlight index="5" start="3708" length="200" />
+				<highlight index="6" start="3893" length="200" />
+				<highlight index="7" start="4071" length="200" />
+				<highlight index="8" start="4248" length="162" />
+				<highlight index="9" start="4402" length="409" />
+				<highlight index="10" start="4811" length="200" />
+				<highlight index="11" start="4988" length="339" />
+				<highlight index="12" start="5304" length="293" />
+				<highlight index="13" start="5597" length="471" />
+				<highlight index="14" start="7301" length="286" />
+				<highlight index="15" start="7571" length="200" />
+				<highlight index="16" start="7756" length="316" />
+				<highlight index="17" start="8057" length="493" />
+				<highlight index="18" start="8527" length="355" />
+				<highlight index="19" start="8874" length="910" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Everyone sits in silence.Everyone is wondering who will be the prince.Everyone is very quiet." />
+				<subtitle lang="en" line="Everyone sits in silence.Everyone is wondering who will be the prince.Everyone is very quiet." />
+				<subtitle lang="us" line="Everyone sits in silence.Everyone is wondering who will be the prince.Everyone is very quiet." />
+			</subtitles>
+		</line>
+		<line words="Puis, à la grande surprise de sa maman, Alfredo lève la main. §Je serai le prince,§ dit-il. Il se lève." start="154147" length="11344" useLNutResource="true" image="9#2#4" >
+			<highlights>
+				<highlight index="0" start="2750" length="522" />
+				<highlight index="1" start="3247" length="162" />
+				<highlight index="2" start="3367" length="171" />
+				<highlight index="3" start="3495" length="360" />
+				<highlight index="4" start="3838" length="411" />
+				<highlight index="5" start="4232" length="171" />
+				<highlight index="6" start="4386" length="163" />
+				<highlight index="7" start="4540" length="446" />
+				<highlight index="8" start="5397" length="488" />
+				<highlight index="9" start="5860" length="317" />
+				<highlight index="10" start="6151" length="148" />
+				<highlight index="11" start="6271" length="309" />
+				<highlight index="12" start="7171" length="171" />
+				<highlight index="13" start="7316" length="206" />
+				<highlight index="14" start="7505" length="163" />
+				<highlight index="15" start="7650" length="677" />
+				<highlight index="16" start="8302" length="813" />
+				<highlight index="17" start="9527" length="137" />
+				<highlight index="18" start="9647" length="200" />
+				<highlight index="19" start="9827" length="728" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Then – to his Mum’s great surprise – Alfredo puts up his hand. §I’ll be the prince,§ he says. He stands up." />
+				<subtitle lang="en" line="Then – to his Mum’s great surprise – Alfredo puts up his hand. §I’ll be the prince,§ he says. He stands up." />
+				<subtitle lang="us" line="Then – to his Mum’s great surprise – Alfredo puts up his hand. §I’ll be the prince,§ he says. He stands up." />
+			</subtitles>
+		</line>
+		<line words="Pendant les 60 minutes suivantes, Alfredo joue le prince très charmant de La Belle au Bois Dormant." start="165869" length="9831" useLNutResource="true" image="9#1#5" >
+			<highlights>
+				<highlight index="0" start="2086" length="401" />
+				<highlight index="1" start="2472" length="149" />
+				<highlight index="2" start="2606" length="460" />
+				<highlight index="3" start="3044" length="497" />
+				<highlight index="4" start="3526" length="646" />
+				<highlight index="5" start="4462" length="549" />
+				<highlight index="6" start="4982" length="282" />
+				<highlight index="7" start="5242" length="141" />
+				<highlight index="8" start="5360" length="527" />
+				<highlight index="9" start="5880" length="371" />
+				<highlight index="10" start="6236" length="669" />
+				<highlight index="11" start="6890" length="200" />
+				<highlight index="12" start="7053" length="186" />
+				<highlight index="13" start="7224" length="215" />
+				<highlight index="14" start="7417" length="156" />
+				<highlight index="15" start="7558" length="215" />
+				<highlight index="16" start="7751" length="757" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="For the next 60 minutes Alfredo performs as Sleeping Beauty’s very charming prince." />
+				<subtitle lang="en" line="For the next 60 minutes Alfredo performs as Sleeping Beauty’s very charming prince." />
+				<subtitle lang="us" line="For the next 60 minutes Alfredo performs as Sleeping Beauty’s very charming prince." />
+			</subtitles>
+		</line>
+		<line words="A la fin, Alfredo et la princesse se dirigent vers le devant de la scène. Tout le monde applaudit. Ils font la révérence. Tout le mode applaudit très fort. Ils font la révérence à nouveau. Tout le monde applaudit, crie et siffle. §Encore! Encore!§" start="175952" length="19410" useLNutResource="true" image="9#1#1" >
+			<highlights>
+				<highlight index="0" start="1641" length="234" />
+				<highlight index="1" start="1832" length="244" />
+				<highlight index="2" start="2037" length="337" />
+				<highlight index="3" start="2653" length="557" />
+				<highlight index="4" start="3166" length="200" />
+				<highlight index="5" start="3327" length="200" />
+				<highlight index="6" start="3503" length="640" />
+				<highlight index="7" start="4104" length="200" />
+				<highlight index="8" start="4265" length="396" />
+				<highlight index="9" start="4632" length="161" />
+				<highlight index="10" start="4749" length="161" />
+				<highlight index="11" start="4866" length="274" />
+				<highlight index="12" start="5072" length="156" />
+				<highlight index="13" start="5189" length="156" />
+				<highlight index="14" start="5321" length="425" />
+				<highlight index="15" start="6010" length="215" />
+				<highlight index="16" start="6200" length="200" />
+				<highlight index="17" start="6376" length="352" />
+				<highlight index="18" start="6699" length="719" />
+				<highlight index="19" start="7798" length="190" />
+				<highlight index="20" start="7930" length="200" />
+				<highlight index="21" start="8077" length="200" />
+				<highlight index="22" start="8253" length="762" />
+				<highlight index="23" start="9514" length="200" />
+				<highlight index="24" start="9675" length="161" />
+				<highlight index="25" start="9792" length="425" />
+				<highlight index="26" start="10188" length="660" />
+				<highlight index="27" start="10833" length="293" />
+				<highlight index="28" start="11082" length="382" />
+				<highlight index="29" start="11962" length="200" />
+				<highlight index="30" start="12138" length="200" />
+				<highlight index="31" start="12299" length="200" />
+				<highlight index="32" start="12475" length="689" />
+				<highlight index="33" start="13149" length="200" />
+				<highlight index="34" start="13325" length="498" />
+				<highlight index="35" start="14205" length="249" />
+				<highlight index="36" start="14410" length="200" />
+				<highlight index="37" start="14571" length="440" />
+				<highlight index="38" start="14996" length="557" />
+				<highlight index="39" start="15524" length="293" />
+				<highlight index="40" start="15788" length="200" />
+				<highlight index="41" start="15964" length="440" />
+				<highlight index="42" start="16917" length="718" />
+				<highlight index="43" start="17591" length="1129" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="At the end, Alfredo and the princess come to the front of the stage. Everyone claps. They bow. Everyone claps loudly. They bow again. Everyone claps and shouts and whistles, §Encore! Encore!§" />
+				<subtitle lang="en" line="At the end, Alfredo and the princess come to the front of the stage. Everyone claps. They bow. Everyone claps loudly. They bow again. Everyone claps and shouts and whistles, §Encore! Encore!§" />
+				<subtitle lang="us" line="At the end, Alfredo and the princess come to the front of the stage. Everyone claps. They bow. Everyone claps loudly. They bow again. Everyone claps and shouts and whistles, §Encore! Encore!§" />
+			</subtitles>
+		</line>
+		<line words="Le spectacle est un total succès." start="195614" length="5798" useLNutResource="true" image="9#1#5" >
+			<highlights>
+				<highlight index="0" start="2465" length="200" />
+				<highlight index="1" start="2653" length="451" />
+				<highlight index="2" start="3087" length="249" />
+				<highlight index="3" start="3323" length="285" />
+				<highlight index="4" start="3603" length="447" />
+				<highlight index="5" start="4037" length="442" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The show is a raging success." />
+				<subtitle lang="en" line="The show is a raging success." />
+				<subtitle lang="us" line="The show is a raging success." />
+			</subtitles>
+		</line>
+		<line words="§Alors,§ dit la maman d’Alfredo quand ils quittent enfin le théâtre, §Que penses-tu de La Belle au Bois Dormant maintenant?§" start="201538" length="9453" useLNutResource="true" image="9#1#2" >
+			<highlights>
+				<highlight index="0" start="2162" length="922" />
+				<highlight index="1" start="3069" length="200" />
+				<highlight index="2" start="3252" length="200" />
+				<highlight index="3" start="3434" length="328" />
+				<highlight index="4" start="3739" length="914" />
+				<highlight index="5" start="4630" length="282" />
+				<highlight index="6" start="4904" length="200" />
+				<highlight index="7" start="5087" length="381" />
+				<highlight index="8" start="5453" length="396" />
+				<highlight index="9" start="5833" length="168" />
+				<highlight index="10" start="5986" length="708" />
+				<highlight index="11" start="6907" length="200" />
+				<highlight index="12" start="7098" length="632" />
+				<highlight index="13" start="7707" length="160" />
+				<highlight index="14" start="7852" length="160" />
+				<highlight index="15" start="7996" length="160" />
+				<highlight index="16" start="8126" length="100" />
+				<highlight index="17" start="8210" length="200" />
+				<highlight index="18" start="8392" length="389" />
+				<highlight index="19" start="8773" length="556" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§So,§ says Alfredo’s Mum, when finally they leave the theatre, §what do you think of Sleeping Beauty now?§" />
+				<subtitle lang="en" line="§So,§ says Alfredo’s Mum, when finally they leave the theatre, §what do you think of Sleeping Beauty now?§" />
+				<subtitle lang="us" line="§So,§ says Alfredo’s Mum, when finally they leave the theatre, §what do you think of Sleeping Beauty now?§" />
+			</subtitles>
+		</line>
+		<line words="§c’est pas mal… je crois.§ Dit Alfredo. Puis il se met à sourire §On y retourne la semaine prochaine, d’accord? Je crois que c’est La Belle et la Bête.§" start="210739" length="12604" useLNutResource="true" image="9#1#9" >
+			<highlights>
+				<highlight index="0" start="1014" length="261" />
+				<highlight index="1" start="1260" length="338" />
+				<highlight index="2" start="1577" length="599" />
+				<highlight index="3" start="2155" length="190" />
+				<highlight index="4" start="2324" length="521" />
+				<highlight index="5" start="3212" length="200" />
+				<highlight index="6" start="3395" length="570" />
+				<highlight index="7" start="4451" length="529" />
+				<highlight index="8" start="4973" length="200" />
+				<highlight index="9" start="5156" length="148" />
+				<highlight index="10" start="5290" length="162" />
+				<highlight index="11" start="5424" length="162" />
+				<highlight index="12" start="5564" length="564" />
+				<highlight index="13" start="6494" length="155" />
+				<highlight index="14" start="6642" length="157" />
+				<highlight index="15" start="6783" length="409" />
+				<highlight index="16" start="7178" length="113" />
+				<highlight index="17" start="7276" length="360" />
+				<highlight index="18" start="7621" length="472" />
+				<highlight index="19" start="8079" length="437" />
+				<highlight index="20" start="8957" length="200" />
+				<highlight index="21" start="9148" length="266" />
+				<highlight index="22" start="9376" length="152" />
+				<highlight index="23" start="9490" length="153" />
+				<highlight index="24" start="9633" length="257" />
+				<highlight index="25" start="9861" length="296" />
+				<highlight index="26" start="10138" length="133" />
+				<highlight index="27" start="10242" length="143" />
+				<highlight index="28" start="10356" length="495" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="§It’s ok… I suppose,§ says Alfredo. And then Alfredo smiles, §Let’s go next week, shall we? I think it’s Beauty and the Beast.§" />
+				<subtitle lang="en" line="§It’s ok… I suppose,§ says Alfredo. And then Alfredo smiles, §Let’s go next week, shall we? I think it’s Beauty and the Beast.§" />
+				<subtitle lang="us" line="§It’s ok… I suppose,§ says Alfredo. And then Alfredo smiles, §Let’s go next week, shall we? I think it’s Beauty and the Beast.§" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

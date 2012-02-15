@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="72280" >
+	<lines>
+		<line words="I can read well, I can count well." start="5510" length="3191" >
+			<highlight index="0" start="96" length="337" />
+			<highlight index="1" start="523" length="430" />
+			<highlight index="2" start="937" length="307" />
+			<highlight index="3" start="1468" length="500" />
+			<highlight index="4" start="1964" length="272" />
+			<highlight index="5" start="2244" length="200" />
+			<highlight index="6" start="2601" length="241" />
+			<highlight index="7" start="2885" length="420" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo leer bien, puedo contar bien." />
+				<subtitle lang="dk" line="Jeg er god til at læse og tælle." />
+				<subtitle lang="nl" line="Ik kan goed lezen en goed tellen." />
+				<subtitle lang="sp" line="Sé leer bien, sé contar bien." />
+				<subtitle lang="so" line="Si wanaagsan ayaan u akhrin karaa, si wanaagsan waan u tirini karaa." />
+				<subtitle lang="cl" line="Sé leer bien, sé contar bien." />
+				<subtitle lang="cn" line="我读得好，我算得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="8585" length="4000" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1881" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2224" length="200" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can read well, I can count well." start="11717" length="3191" >
+			<highlight index="0" start="120" length="330" />
+			<highlight index="1" start="466" length="362" />
+			<highlight index="2" start="913" length="200" />
+			<highlight index="3" start="1094" length="500" />
+			<highlight index="4" start="1710" length="272" />
+			<highlight index="5" start="1979" length="224" />
+			<highlight index="6" start="2229" length="241" />
+			<highlight index="7" start="2454" length="420" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo leer bien, puedo contar bien." />
+				<subtitle lang="dk" line="Jeg er god til at læse og tælle." />
+				<subtitle lang="nl" line="Ik kan goed lezen en goed tellen." />
+				<subtitle lang="sp" line="Yo sé leer bien, sé contar bien." />
+				<subtitle lang="so" line="Si wanaagsan ayaan u akhrin karaa, si wanaagsan waan  u tirini karaa." />
+				<subtitle lang="cl" line="Yo sé leer bien, sé contar bien." />
+				<subtitle lang="cn" line="我读得好，我算得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="14618" length="4000" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1881" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2224" length="200" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can swim well, I can jump well." start="17924" length="2901" >
+			<highlight index="0" start="0" length="314" />
+			<highlight index="1" start="303" length="348" />
+			<highlight index="2" start="761" length="399" />
+			<highlight index="3" start="1149" length="424" />
+			<highlight index="4" start="1543" length="308" />
+			<highlight index="5" start="1847" length="200" />
+			<highlight index="6" start="2123" length="328" />
+			<highlight index="7" start="2456" length="383" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo nadar bien, puedo brincar bien." />
+				<subtitle lang="dk" line="Jeg er god til at svømme og hoppe." />
+				<subtitle lang="nl" line="Ik kan goed zwemmen en goed springen." />
+				<subtitle lang="sp" line="Sé nadar bien, sé brincar bien." />
+				<subtitle lang="so" line="Si wanaagsan ayaan u dabaalani karaa, si wanaagsan waan  u tirini boodi karaa." />
+				<subtitle lang="cl" line="Sé nadar bien, sé brincar bien." />
+				<subtitle lang="cn" line="我游得好，我跳得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="20709" length="4000" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1881" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2224" length="200" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can swim well, I can jump well." start="23899" length="2901" >
+			<highlight index="0" start="0" length="314" />
+			<highlight index="1" start="303" length="348" />
+			<highlight index="2" start="669" length="420" />
+			<highlight index="3" start="1082" length="424" />
+			<highlight index="4" start="1510" length="308" />
+			<highlight index="5" start="1847" length="200" />
+			<highlight index="6" start="2123" length="328" />
+			<highlight index="7" start="2456" length="383" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo nadar bien, puedo brincar bien." />
+				<subtitle lang="dk" line="Jeg er god til at svømme og hoppe." />
+				<subtitle lang="nl" line="Ik kan goed zwemmen en goed springen." />
+				<subtitle lang="sp" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="so" line="Si wanaagsan ayaan u dabaalani karaa, si wanaagsan waan  u tirini boodi karaa." />
+				<subtitle lang="cl" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="cn" line="我游得好，我跳得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="26626" length="4000" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1825" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2158" length="293" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I play football very well." start="30223" length="3770" >
+			<highlight index="0" start="0" length="318" />
+			<highlight index="1" start="361" length="200" />
+			<highlight index="2" start="551" length="552" />
+			<highlight index="3" start="1183" length="605" />
+			<highlight index="4" start="2709" length="780" />
+			<subtitles>
+				<subtitle lang="mx" line="Juego football muy bien." />
+				<subtitle lang="dk" line="Jeg er rigtig god til at spille fodbold." />
+				<subtitle lang="nl" line="Ik ben heel goed met een voetbal" />
+				<subtitle lang="sp" line="Juego football muy bien." />
+				<subtitle lang="so" line="Kubadda cagta si wanaagsan ayaa u cayaaraa" />
+				<subtitle lang="cl" line="Juego football muy bien." />
+				<subtitle lang="cn" line="我足球踢得好" />
+			</subtitles>
+		</line>
+		<line words="I can sing well, I can dance well." start="38692" length="2901" >
+			<highlight index="0" start="0" length="292" />
+			<highlight index="1" start="270" length="348" />
+			<highlight index="2" start="695" length="399" />
+			<highlight index="3" start="1149" length="424" />
+			<highlight index="4" start="1543" length="308" />
+			<highlight index="5" start="1847" length="270" />
+			<highlight index="6" start="2123" length="328" />
+			<highlight index="7" start="2456" length="383" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo cantar bien, puedo bailar bien." />
+				<subtitle lang="dk" line="Jeg er god til at synge og danse" />
+				<subtitle lang="nl" line="Ik kan goed zingen en goed dansen." />
+				<subtitle lang="sp" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="so" line="Si wanaagsan ayaan u heesi ka karaa, si wanaagsan waan  u qob-ka cayaari karaa." />
+				<subtitle lang="cl" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="cn" line="我唱得好，我跳得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="41592" length="4000" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1825" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2158" length="293" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can sing well, I can dance well." start="45015" length="2901" >
+			<highlight index="0" start="0" length="292" />
+			<highlight index="1" start="270" length="348" />
+			<highlight index="2" start="618" length="366" />
+			<highlight index="3" start="976" length="424" />
+			<highlight index="4" start="1543" length="308" />
+			<highlight index="5" start="1847" length="270" />
+			<highlight index="6" start="2123" length="328" />
+			<highlight index="7" start="2456" length="383" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo cantar bien, puedo bailar bien." />
+				<subtitle lang="dk" line="jeg er god til at synge og danse" />
+				<subtitle lang="nl" line="Ik kan goed zingen en goed dansen." />
+				<subtitle lang="sp" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="so" line="Si wanaagsan ayaan u heesi ka karaa, si wanaagsan waan  u qob-ka cayaari karaa." />
+				<subtitle lang="cl" line="Sé nadar bien, sé brincar bien. " />
+				<subtitle lang="cn" line="我唱得好，我跳得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="47799" length="3423" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1825" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2158" length="293" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can draw well, I can write well." start="50940" length="2842" >
+			<highlight index="0" start="0" length="335" />
+			<highlight index="1" start="347" length="200" />
+			<highlight index="2" start="580" length="276" />
+			<highlight index="3" start="899" length="300" />
+			<highlight index="4" start="1189" length="360" />
+			<highlight index="5" start="1605" length="315" />
+			<highlight index="6" start="2017" length="431" />
+			<highlight index="7" start="2433" length="362" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo cantar bien, puedo bailar bien." />
+				<subtitle lang="dk" line="Jeg er god til at tegne og skrive." />
+				<subtitle lang="nl" line="Ik kan goed tekenen en goed schrijven." />
+				<subtitle lang="sp" line="Sé pintar bien, sé escribir bien." />
+				<subtitle lang="so" line="Si wanaagsan ayaan u sawiri karaa, si wanaagsan waan  u qori karaa." />
+				<subtitle lang="cl" line="Sé pintar bien, sé escribir bien." />
+				<subtitle lang="cn" line="我画得好，我写得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="53774" length="3423" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1825" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2158" length="293" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I can draw well, I can write well." start="56849" length="2842" >
+			<highlight index="0" start="0" length="335" />
+			<highlight index="1" start="347" length="200" />
+			<highlight index="2" start="580" length="276" />
+			<highlight index="3" start="899" length="300" />
+			<highlight index="4" start="1189" length="360" />
+			<highlight index="5" start="1605" length="394" />
+			<highlight index="6" start="2017" length="431" />
+			<highlight index="7" start="2433" length="362" />
+			<subtitles>
+				<subtitle lang="mx" line="Puedo dibujar bien, puedo escribir bien." />
+				<subtitle lang="dk" line="jeg er god til at tegne og skrive" />
+				<subtitle lang="nl" line="Ik kan goed tekenen en goed schrijven." />
+				<subtitle lang="sp" line="Sé pintar bien, sé escribir bien." />
+				<subtitle lang="so" line="Si wanaagsan ayaan u sawiri karaa, si wanaagsan waan  u qori karaa." />
+				<subtitle lang="cl" line="Sé pintar bien, sé escribir bien." />
+				<subtitle lang="cn" line="我画得好，我写得好" />
+			</subtitles>
+		</line>
+		<line words="What about you?" start="59517" length="3423" >
+			<highlight index="0" start="156" length="353" />
+			<highlight index="0" start="1825" length="343" />
+			<highlight index="1" start="509" length="321" />
+			<highlight index="1" start="2158" length="293" />
+			<highlight index="2" start="958" length="418" />
+			<highlight index="2" start="2466" length="437" />
+			<subtitles>
+				<subtitle lang="mx" line="¿Y tú? ¿Qué tal?" />
+				<subtitle lang="dk" line="Hvad med dig?" />
+				<subtitle lang="nl" line="En jij? En jij?" />
+				<subtitle lang="sp" line="¿Y tú qué tal?" />
+				<subtitle lang="so" line="Adigane waa sidee?" />
+				<subtitle lang="cl" line="¿Y tú qué tal?" />
+				<subtitle lang="cn" line="你呢？" />
+			</subtitles>
+		</line>
+		<line words="I play football very well." start="62986" length="3770" >
+			<highlight index="0" start="0" length="285" />
+			<highlight index="1" start="275" length="181" />
+			<highlight index="2" start="489" length="552" />
+			<highlight index="3" start="1183" length="1286" />
+			<highlight index="4" start="2709" length="870" />
+			<subtitles>
+				<subtitle lang="mx" line="Juego football muy bien." />
+				<subtitle lang="dk" line="Jeg er rigtig god til at spille fodbold." />
+				<subtitle lang="nl" line="Ik ben heel goed met een voetbal" />
+				<subtitle lang="sp" line="Juego football muy bien." />
+				<subtitle lang="so" line="Kubadda cagta si wanaagsan ayaa u cayaaraa" />
+				<subtitle lang="cl" line="Juego football muy bien." />
+				<subtitle lang="cn" line="我足球踢得好" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="120058" >
+	<lines>
+		<line words="Ciao, come ti chiami?" start="6727" length="4000" >
+			<highlight index="0" start="385" length="451" />
+			<highlight index="1" start="1040" length="837" />
+			<highlight index="2" start="1888" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Luca." start="11695" length="4000" >
+			<highlight index="0" start="233" length="440" />
+			<highlight index="1" start="801" length="502" />
+			<highlight index="2" start="1309" length="790" />
+			<highlight index="3" start="2496" length="772" />
+			<subtitles>
+				<subtitle lang="en" line="My name is Luke." />
+				<subtitle lang="nl" line="Hoi, ik heet Henk-Jan" />
+				<subtitle lang="nz" line="My name is Luke." />
+				<subtitle lang="dk" line="Hej, jeg hedder John." />
+			</subtitles>
+		</line>
+		<line words="Ciao, come ti chiami?" start="16145" length="4000" >
+			<highlight index="0" start="385" length="591" />
+			<highlight index="1" start="1040" length="883" />
+			<highlight index="2" start="1923" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Maria." start="21217" length="4000" >
+			<highlight index="0" start="233" length="440" />
+			<highlight index="1" start="801" length="502" />
+			<highlight index="2" start="1309" length="790" />
+			<highlight index="3" start="2496" length="772" />
+			<subtitles>
+				<subtitle lang="en" line="My name is Maria." />
+				<subtitle lang="nl" line="Hoi, ik heet Margriet." />
+				<subtitle lang="nz" line="My name is Maria." />
+				<subtitle lang="dk" line="Hej, jeg hedder Mary" />
+			</subtitles>
+		</line>
+		<line words="E tu?" start="25667" length="2381" >
+			<highlight index="0" start="393" length="200" />
+			<highlight index="1" start="612" length="686" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nl" line="En jij?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Ciao, come ti chiami?" start="35499" length="4000" >
+			<highlight index="0" start="385" length="451" />
+			<highlight index="1" start="1040" length="837" />
+			<highlight index="2" start="1888" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Oliviero." start="40467" length="4554" >
+			<highlight index="0" start="233" length="440" />
+			<highlight index="1" start="801" length="502" />
+			<highlight index="2" start="1309" length="790" />
+			<highlight index="3" start="2496" length="1826" />
+			<subtitles>
+				<subtitle lang="en" line="My name is Oliver." />
+				<subtitle lang="nl" line="Hoi, ik heet Javier." />
+				<subtitle lang="nz" line="My name is Oliver." />
+				<subtitle lang="dk" line="Hej, jeg hedder Oliver." />
+			</subtitles>
+		</line>
+		<line words="Ciao, come ti chiami?" start="45435" length="3689" >
+			<highlight index="0" start="74" length="451" />
+			<highlight index="1" start="729" length="837" />
+			<highlight index="2" start="1577" length="439" />
+			<highlight index="3" start="2074" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Teo." start="50196" length="4037" >
+			<highlight index="0" start="146" length="527" />
+			<highlight index="1" start="801" length="502" />
+			<highlight index="2" start="1309" length="790" />
+			<highlight index="3" start="2425" length="1029" />
+			<subtitles>
+				<subtitle lang="en" line="My name is Theo." />
+				<subtitle lang="nl" line="Hoi, ik heet Theo." />
+				<subtitle lang="nz" line="My name is Theo." />
+				<subtitle lang="dk" line="Hej, jeg hedder Theo." />
+			</subtitles>
+		</line>
+		<line words="E tu?" start="54336" length="2381" >
+			<highlight index="0" start="393" length="200" />
+			<highlight index="1" start="612" length="686" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nl" line="En jij?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Ciao, come ti chiami?" start="64272" length="4000" >
+			<highlight index="0" start="385" length="451" />
+			<highlight index="1" start="1040" length="837" />
+			<highlight index="2" start="1888" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Eva." start="69240" length="4000" >
+			<highlight index="0" start="233" length="440" />
+			<highlight index="1" start="801" length="502" />
+			<highlight index="2" start="1309" length="790" />
+			<highlight index="3" start="2496" length="772" />
+			<subtitles>
+				<subtitle lang="en" line="My name is Eva." />
+				<subtitle lang="nl" line="Hoi, ik heet Eva." />
+				<subtitle lang="nz" line="My name is Eva." />
+				<subtitle lang="dk" line="Hej, jeg hedder Amy." />
+			</subtitles>
+		</line>
+		<line words="Ciao, come ti chiami?" start="73897" length="4000" >
+			<highlight index="0" start="385" length="451" />
+			<highlight index="1" start="1040" length="837" />
+			<highlight index="2" start="1888" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what is your name?" />
+				<subtitle lang="nl" line="Hallo, hoe heet jij?" />
+				<subtitle lang="nz" line="Hello, what is your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Io mi chiamo Sara." start="78348" length="4451" >
+			<highlight index="0" start="560" length="527" />
+			<highlight index="1" start="1215" length="502" />
+			<highlight index="2" start="1723" length="790" />
+			<highlight index="3" start="2839" length="1029" />
+			<subtitles>
+				<subtitle lang="en" line="Hi my name is Sarah." />
+				<subtitle lang="nl" line="Hoi, ik heet Sarah." />
+				<subtitle lang="nz" line="Hi my name is Sarah." />
+				<subtitle lang="dk" line="Hej, jeg hedder Sarah." />
+			</subtitles>
+		</line>
+		<line words="E tu?" start="83212" length="2381" >
+			<highlight index="0" start="393" length="200" />
+			<highlight index="1" start="612" length="686" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nl" line="En jij?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Mia sorella se chiama Victoria." start="92192" length="4865" >
+			<highlight index="0" start="440" length="451" />
+			<highlight index="1" start="1040" length="837" />
+			<highlight index="2" start="1888" length="439" />
+			<highlight index="3" start="2385" length="807" />
+			<highlight index="4" start="3292" length="1138" />
+			<subtitles>
+				<subtitle lang="en" line="My sister's name is Victoria." />
+				<subtitle lang="nl" line="En mijn zusje heet Victoria." />
+				<subtitle lang="nz" line="My sister's name is Victoria." />
+				<subtitle lang="dk" line="Min søster hedder Victoria." />
+			</subtitles>
+		</line>
+		<line words="Mio fratello, Paolo." start="97598" length="4865" >
+			<highlight index="0" start="540" length="451" />
+			<highlight index="1" start="1040" length="1683" />
+			<highlight index="2" start="3022" length="953" />
+			<subtitles>
+				<subtitle lang="en" line="My brother, Paul." />
+				<subtitle lang="nl" line="En mijn broer die heet Paul." />
+				<subtitle lang="nz" line="My brother, Paul." />
+				<subtitle lang="dk" line="Min bror hedder Paul." />
+			</subtitles>
+		</line>
+		<line words="La mia mamà, Jennifer." start="102877" length="4865" >
+			<highlight index="0" start="362" length="541" />
+			<highlight index="1" start="881" length="555" />
+			<highlight index="2" start="1408" length="768" />
+			<highlight index="3" start="2318" length="1622" />
+			<subtitles>
+				<subtitle lang="en" line="My mum, Jennifer." />
+				<subtitle lang="nl" line="En mijn moeder heet Jannie." />
+				<subtitle lang="nz" line="My mum, Jennifer." />
+				<subtitle lang="dk" line="Min mor hedder Jenny." />
+			</subtitles>
+		</line>
+		<line words="E mio papà, Piero." start="107741" length="3726" >
+			<highlight index="0" start="185" length="570" />
+			<highlight index="1" start="819" length="227" />
+			<highlight index="2" start="1046" length="705" />
+			<highlight index="3" start="2284" length="831" />
+			<subtitles>
+				<subtitle lang="en" line="And my dad, Peter." />
+				<subtitle lang="nl" line="Mijn vader heet Peter." />
+				<subtitle lang="nz" line="And my dad, Peter" />
+				<subtitle lang="dk" line="Min far hedder Peter." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

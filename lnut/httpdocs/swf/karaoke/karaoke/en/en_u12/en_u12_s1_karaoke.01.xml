@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="96104" >
+	<lines>
+		<line words="What is the weather like? What is the weather like?" start="8175" length="4705" >
+			<highlight index="0" start="860" length="345" />
+			<highlight index="1" start="1186" length="200" />
+			<highlight index="2" start="1388" length="200" />
+			<highlight index="3" start="1584" length="812" />
+			<highlight index="4" start="2373" length="344" />
+			<highlight index="5" start="2776" length="261" />
+			<highlight index="6" start="3043" length="297" />
+			<highlight index="7" start="3334" length="200" />
+			<highlight index="8" start="3512" length="528" />
+			<highlight index="9" start="4010" length="487" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?" />
+				<subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?" />
+			</subtitles>
+		</line>
+		<line words="It is good, it is good" start="12572" length="3703" >
+			<highlight index="0" start="0" length="219" />
+			<highlight index="1" start="280" length="448" />
+			<highlight index="2" start="863" length="551" />
+			<highlight index="3" start="1849" length="289" />
+			<highlight index="4" start="2166" length="393" />
+			<highlight index="5" start="2708" length="532" />
+			<subtitles>
+				<subtitle lang="nl" line="Lekker weer, lekker weer!" />
+				<subtitle lang="dk" line="Det er fint, det er fint!" />
+			</subtitles>
+		</line>
+		<line words="What is the weather like? What is the weather like?" start="15965" length="4243" >
+			<highlight index="0" start="518" length="300" />
+			<highlight index="1" start="797" length="155" />
+			<highlight index="2" start="941" length="200" />
+			<highlight index="3" start="1134" length="808" />
+			<highlight index="4" start="1931" length="344" />
+			<highlight index="5" start="2348" length="261" />
+			<highlight index="6" start="2578" length="172" />
+			<highlight index="7" start="2744" length="230" />
+			<highlight index="8" start="2958" length="669" />
+			<highlight index="9" start="3595" length="539" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?" />
+				<subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?" />
+			</subtitles>
+		</line>
+		<line words="It is good, it is good" start="20053" length="3703" >
+			<highlight index="0" start="0" length="219" />
+			<highlight index="1" start="280" length="448" />
+			<highlight index="2" start="863" length="551" />
+			<highlight index="3" start="1849" length="289" />
+			<highlight index="4" start="2166" length="393" />
+			<highlight index="5" start="2708" length="532" />
+			<subtitles>
+				<subtitle lang="nl" line="Lekker weer, lekker weer!" />
+				<subtitle lang="dk" line="Det er fint, det er fint!" />
+			</subtitles>
+		</line>
+		<line words="Thirty degrees, thirty degrees" start="23524" length="4000" >
+			<highlight index="0" start="226" length="591" />
+			<highlight index="1" start="786" length="848" />
+			<highlight index="2" start="2002" length="661" />
+			<highlight index="3" start="2753" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Dertig graden, dertig graden." />
+				<subtitle lang="dk" line="Tredive grader, tredive grader." />
+			</subtitles>
+		</line>
+		<line words="Very good, very good" start="27304" length="4000" >
+			<highlight index="0" start="438" length="550" />
+			<highlight index="1" start="1018" length="747" />
+			<highlight index="2" start="2239" length="438" />
+			<highlight index="3" start="2814" length="777" />
+			<subtitles>
+				<subtitle lang="nl" line="Heel erg mooi, heel erg mooi." />
+				<subtitle lang="dk" line="Meget fint, meget fint." />
+			</subtitles>
+		</line>
+		<line words="Thirty degrees, thirty degrees" start="30929" length="4000" >
+			<highlight index="0" start="226" length="591" />
+			<highlight index="1" start="786" length="848" />
+			<highlight index="2" start="2002" length="661" />
+			<highlight index="3" start="2753" length="707" />
+			<subtitles>
+				<subtitle lang="dk" line="Tredive grader, tredive grader." />
+			</subtitles>
+		</line>
+		<line words="Very good, very good" start="34554" length="4000" >
+			<highlight index="0" start="438" length="550" />
+			<highlight index="1" start="1018" length="747" />
+			<highlight index="2" start="2239" length="438" />
+			<highlight index="3" start="2814" length="777" />
+			<subtitles>
+				<subtitle lang="nl" line="Heel erg mooi, heel erg mooi." />
+				<subtitle lang="dk" line="Meget fint, meget fint." />
+			</subtitles>
+		</line>
+		<line words="What is the weather like? What is the weather like?" start="41110" length="4705" >
+			<highlight index="0" start="860" length="345" />
+			<highlight index="1" start="1186" length="200" />
+			<highlight index="2" start="1388" length="200" />
+			<highlight index="3" start="1584" length="812" />
+			<highlight index="4" start="2373" length="344" />
+			<highlight index="5" start="2776" length="261" />
+			<highlight index="6" start="3043" length="297" />
+			<highlight index="7" start="3334" length="200" />
+			<highlight index="8" start="3512" length="528" />
+			<highlight index="9" start="4152" length="487" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?" />
+				<subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?" />
+			</subtitles>
+		</line>
+		<line words="It is hot, it is hot" start="45660" length="3703" >
+			<highlight index="0" start="0" length="219" />
+			<highlight index="1" start="280" length="448" />
+			<highlight index="2" start="863" length="551" />
+			<highlight index="3" start="2068" length="289" />
+			<highlight index="4" start="2334" length="393" />
+			<highlight index="5" start="2717" length="532" />
+			<subtitles>
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="dk" line="Det er varmt, det er varmt!" />
+			</subtitles>
+		</line>
+		<line words="What is the weather like? What is the weather like?" start="48746" length="4705" >
+			<highlight index="0" start="860" length="345" />
+			<highlight index="1" start="1186" length="200" />
+			<highlight index="2" start="1364" length="172" />
+			<highlight index="3" start="1524" length="724" />
+			<highlight index="4" start="2242" length="475" />
+			<highlight index="5" start="2776" length="261" />
+			<highlight index="6" start="3043" length="297" />
+			<highlight index="7" start="3334" length="200" />
+			<highlight index="8" start="3512" length="528" />
+			<highlight index="9" start="4152" length="487" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoe is het weer? Hoe is het weer?" />
+				<subtitle lang="dk" line="Hvordan er vejret? Hvordan er vejret?" />
+			</subtitles>
+		</line>
+		<line words="It is hot, it is hot" start="53373" length="3703" >
+			<highlight index="0" start="0" length="219" />
+			<highlight index="1" start="280" length="448" />
+			<highlight index="2" start="863" length="551" />
+			<highlight index="3" start="1979" length="262" />
+			<highlight index="4" start="2227" length="393" />
+			<highlight index="5" start="2684" length="565" />
+			<subtitles>
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="dk" line="Det er varmt, det er varmt!" />
+			</subtitles>
+		</line>
+		<line words="Forty degrees, forty degrees" start="56999" length="4000" >
+			<highlight index="0" start="80" length="575" />
+			<highlight index="1" start="635" length="938" />
+			<highlight index="2" start="2002" length="540" />
+			<highlight index="3" start="2526" length="812" />
+			<subtitles>
+				<subtitle lang="nl" line="Veertig graden, veertig graden." />
+				<subtitle lang="dk" line="Fyrre grader, fyrre grader." />
+			</subtitles>
+		</line>
+		<line words="Very hot, very hot" start="60701" length="4000" >
+			<highlight index="0" start="191" length="510" />
+			<highlight index="1" start="791" length="762" />
+			<highlight index="2" start="1946" length="636" />
+			<highlight index="3" start="2612" length="701" />
+			<subtitles>
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="dk" line="Meget varmt, meget varmt." />
+			</subtitles>
+		</line>
+		<line words="Forty degrees, forty degrees" start="64326" length="4000" >
+			<highlight index="0" start="80" length="575" />
+			<highlight index="1" start="635" length="938" />
+			<highlight index="2" start="2002" length="540" />
+			<highlight index="3" start="2526" length="812" />
+			<subtitles>
+				<subtitle lang="nl" line="Veertig graden, veertig graden." />
+				<subtitle lang="dk" line="Fyrre grader, fyrre grader." />
+			</subtitles>
+		</line>
+		<line words="Very hot, very hot" start="68028" length="4000" >
+			<highlight index="0" start="191" length="510" />
+			<highlight index="1" start="791" length="762" />
+			<highlight index="2" start="1946" length="636" />
+			<highlight index="3" start="2612" length="701" />
+			<subtitles>
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="dk" line="Meget varmt, meget varmt." />
+			</subtitles>
+		</line>
+		<line words="Forty degrees, very hot" start="75278" length="4000" >
+			<highlight index="0" start="171" length="514" />
+			<highlight index="1" start="670" length="938" />
+			<highlight index="2" start="2002" length="540" />
+			<highlight index="3" start="2526" length="812" />
+			<subtitles>
+				<subtitle lang="nl" line="Veertig graden, veel te warm." />
+				<subtitle lang="dk" line="Fyrre grader, meget varmt." />
+			</subtitles>
+		</line>
+		<line words="Thirty degrees, very good" start="79135" length="4000" >
+			<highlight index="0" start="226" length="545" />
+			<highlight index="1" start="741" length="848" />
+			<highlight index="2" start="2002" length="661" />
+			<highlight index="3" start="2668" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Twintig graden, het is mooi" />
+				<subtitle lang="dk" line="Tredive grader, det er fint." />
+			</subtitles>
+		</line>
+		<line words="Twenty degrees, very sunny" start="82914" length="4000" >
+			<highlight index="0" start="95" length="676" />
+			<highlight index="1" start="741" length="848" />
+			<highlight index="2" start="2002" length="661" />
+			<highlight index="3" start="2668" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Twintig graden, echt best fijn" />
+				<subtitle lang="dk" line="Tyve grader, det er solskin." />
+			</subtitles>
+		</line>
+		<line words="Ten degrees, it is bad" start="86462" length="4000" >
+			<highlight index="0" start="237" length="391" />
+			<highlight index="1" start="605" length="983" />
+			<highlight index="2" start="1936" length="409" />
+			<highlight index="3" start="2335" length="282" />
+			<highlight index="4" start="2668" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="Tien graden, dat is fris" />
+				<subtitle lang="dk" line="Ti grader, det er dårligt." />
+			</subtitles>
+		</line>
+		<line words="Zero degrees and it snows BRRRRRRR" start="90087" length="4000" >
+			<highlight index="0" start="100" length="525" />
+			<highlight index="1" start="645" length="540" />
+			<highlight index="2" start="1185" length="287" />
+			<highlight index="3" start="1457" length="172" />
+			<highlight index="4" start="1629" length="863" />
+			<highlight index="5" start="2321" length="1181" />
+			<subtitles>
+				<subtitle lang="nl" line="Nul graden, wat koud! BRRRRRRRR" />
+				<subtitle lang="dk" line="Nul grader og det sner! BRRRRRRR" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

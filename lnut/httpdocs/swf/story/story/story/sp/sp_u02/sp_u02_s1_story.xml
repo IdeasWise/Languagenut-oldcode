@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="212244" >
+	<lines>
+		<line words="Aqui hay una chica. Se llama Amy." start="0" length="8271" useLNutResource="true" image="1#3#9" >
+			<highlights>
+				<highlight index="0" start="2533" length="520" />
+				<highlight index="1" start="3444" length="444" />
+				<highlight index="2" start="3862" length="444" />
+				<highlight index="3" start="4280" length="646" />
+				<highlight index="4" start="5610" length="430" />
+				<highlight index="5" start="6003" length="671" />
+				<highlight index="6" start="6940" length="722" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is a girl. Her name is Amy." />
+				<subtitle lang="nl" line="Hier is een meisje. Ze heet Anne." />
+				<subtitle lang="dk" line="Her er en pige. Hun hedder Amy." />
+				<subtitle lang="nz" line="Here is a girl. Her name is Amy." />
+			</subtitles>
+		</line>
+		<line words="Le encanta jugar. Normalmente juega con sus amigos." start="8271" length="9400" useLNutResource="true" image="2#3#9" >
+			<highlights>
+				<highlight index="0" start="618" length="346" />
+				<highlight index="1" start="921" length="907" />
+				<highlight index="2" start="1770" length="1108" />
+				<highlight index="3" start="4059" length="1367" />
+				<highlight index="4" start="6002" length="532" />
+				<highlight index="5" start="6491" length="360" />
+				<highlight index="6" start="6808" length="547" />
+				<highlight index="7" start="7340" length="1181" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She loves to play. Normally she plays with her friends." />
+				<subtitle lang="nl" line="Ze houdt van spelen. Normaal speelt ze met haar vrienden." />
+				<subtitle lang="dk" line="Hun elsker at lege. Som regel leger hun med sine venner." />
+				<subtitle lang="nz" line="She loves to play. Normally she plays with her friends." />
+			</subtitles>
+		</line>
+		<line words="Juega al 'corre que te pillo.'" start="17671" length="4888" useLNutResource="true" image="2#6#1" >
+			<highlights>
+				<highlight index="0" start="314" length="397" />
+				<highlight index="1" start="688" length="307" />
+				<highlight index="2" start="1766" length="426" />
+				<highlight index="3" start="2237" length="200" />
+				<highlight index="4" start="2455" length="200" />
+				<highlight index="5" start="2776" length="734" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She plays tag." />
+				<subtitle lang="nl" line="Ze speelt tikkertje." />
+				<subtitle lang="dk" line="Hun leger fangeleg." />
+				<subtitle lang="nz" line="She plays tag." />
+			</subtitles>
+		</line>
+		<line words="Juega al tejo." start="22371" length="4323" useLNutResource="true" image="2#6#4" >
+			<highlights>
+				<highlight index="0" start="417" length="371" />
+				<highlight index="1" start="867" length="344" />
+				<highlight index="2" start="1337" length="807" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She plays hopscotch." />
+				<subtitle lang="nl" line="Ze hinkelt." />
+				<subtitle lang="dk" line="Hun hopper I mand." />
+				<subtitle lang="nz" line="She plays hopscotch." />
+			</subtitles>
+		</line>
+		<line words="Juega con la red de trepar y escalar." start="26507" length="6391" useLNutResource="true" image="2#6#10" >
+			<highlights>
+				<highlight index="0" start="264" length="567" />
+				<highlight index="1" start="812" length="430" />
+				<highlight index="2" start="1223" length="347" />
+				<highlight index="3" start="1624" length="460" />
+				<highlight index="4" start="2192" length="489" />
+				<highlight index="5" start="2701" length="597" />
+				<highlight index="6" start="3611" length="313" />
+				<highlight index="7" start="4100" length="1125" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She plays on the climbing frame." />
+				<subtitle lang="nl" line="Ze klimt op het klimrek." />
+				<subtitle lang="dk" line="Hun leger I klatrestativet." />
+				<subtitle lang="nz" line="She plays on the climbing frame." />
+			</subtitles>
+		</line>
+		<line words="Juega al tenis." start="32710" length="4888" useLNutResource="true" image="2#6#9" >
+			<highlights>
+				<highlight index="0" start="1235" length="523" />
+				<highlight index="1" start="1871" length="352" />
+				<highlight index="2" start="2297" length="764" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She plays tennis." />
+				<subtitle lang="nl" line="Ze tennist." />
+				<subtitle lang="dk" line="Hun spiller tennis." />
+				<subtitle lang="nz" line="She plays tennis." />
+			</subtitles>
+		</line>
+		<line words="Le encanta saltar a la comba." start="37598" length="5828" useLNutResource="true" image="2#6#8" >
+			<highlights>
+				<highlight index="0" start="464" length="330" />
+				<highlight index="1" start="776" length="1053" />
+				<highlight index="2" start="1900" length="759" />
+				<highlight index="3" start="2704" length="276" />
+				<highlight index="4" start="2962" length="375" />
+				<highlight index="5" start="3435" length="759" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She loves to skip." />
+				<subtitle lang="nl" line="En ze huppelt graag." />
+				<subtitle lang="dk" line="Og hun elsker at sjippe" />
+				<subtitle lang="nz" line="She loves to skip." />
+			</subtitles>
+		</line>
+		<line words="Es otono, y Amy se encuentra a un castaño de indias." start="43426" length="10527" useLNutResource="true" image="2#4#5" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="It is Autumn, and Amy finds a Horse Chestnut tree." />
+				<subtitle lang="nl" line="Het is herfst, en Anne vindt een kastanjeboom." />
+				<subtitle lang="dk" line="Det er efterår, og Amy finder et hestekastanietræ." />
+				<subtitle lang="nz" line="It is Autumn, and Amy finds a Horse Chestnut tree." />
+			</subtitles>
+		</line>
+		<line words="Hay muchas castañas. Ella coje una y entonces, escucha una extraña voz." start="53389" length="13536" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="1160" length="622" />
+				<highlight index="1" start="1761" length="664" />
+				<highlight index="2" start="2342" length="1306" />
+				<highlight index="3" start="4891" length="684" />
+				<highlight index="4" start="5824" length="788" />
+				<highlight index="5" start="6591" length="684" />
+				<highlight index="6" start="8083" length="622" />
+				<highlight index="7" start="8684" length="1493" />
+				<highlight index="8" start="10135" length="1037" />
+				<highlight index="9" start="11130" length="622" />
+				<highlight index="10" start="11628" length="870" />
+				<highlight index="11" start="12415" length="664" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="There are lots and lots of conkers. She picks one up and then she hears a strange voice." />
+				<subtitle lang="nl" line="Er zijn een heleboel kastanjes. Ze raapt er eentje op. Dan hoort ze een rare stem!" />
+				<subtitle lang="dk" line="Der er masser af kastanier.Hun samler en op. Så hører hun en mærkelig stemme!" />
+				<subtitle lang="nz" line="There are lots and lots of conkers. She picks one up and then she hears a strange voice." />
+			</subtitles>
+		</line>
+		<line words="§Recoje veinte castañas y pide un deseo.§" start="66841" length="8272" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="633" length="1039" />
+				<highlight index="1" start="2090" length="722" />
+				<highlight index="2" start="2748" length="1470" />
+				<highlight index="3" start="4509" length="469" />
+				<highlight index="4" start="4952" length="606" />
+				<highlight index="5" start="5649" length="380" />
+				<highlight index="6" start="6130" length="963" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§Collect twenty conkers and make a wish.§" />
+				<subtitle lang="nl" line="§Verzamel 20 kastanjes en doe een wens!§" />
+				<subtitle lang="dk" line="“Saml 20 kastanier og du får et ønske!”" />
+				<subtitle lang="nz" line="§Collect twenty conkers and make a wish.§" />
+			</subtitles>
+		</line>
+		<line words="Amy empieza a recojer las castañas. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19" start="75197" length="24815" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="155" length="894" />
+				<highlight index="1" start="893" length="1127" />
+				<highlight index="2" start="1904" length="466" />
+				<highlight index="3" start="2254" length="1049" />
+				<highlight index="4" start="3186" length="622" />
+				<highlight index="5" start="3653" length="1243" />
+				<highlight index="6" start="6528" length="700" />
+				<highlight index="7" start="7072" length="700" />
+				<highlight index="8" start="7578" length="1010" />
+				<highlight index="9" start="8977" length="715" />
+				<highlight index="10" start="9617" length="786" />
+				<highlight index="11" start="10328" length="861" />
+				<highlight index="12" start="11114" length="823" />
+				<highlight index="13" start="11863" length="711" />
+				<highlight index="14" start="12461" length="973" />
+				<highlight index="15" start="13999" length="780" />
+				<highlight index="16" start="14631" length="670" />
+				<highlight index="17" start="15144" length="828" />
+				<highlight index="18" start="16485" length="710" />
+				<highlight index="19" start="17037" length="867" />
+				<highlight index="20" start="17747" length="907" />
+				<highlight index="21" start="19227" length="988" />
+				<highlight index="22" start="20177" length="1330" />
+				<highlight index="23" start="21355" length="1596" />
+				<highlight index="24" start="23141" length="1596" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Amy starts to collect the conkers. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="nl" line="Anne begint de kastanjes te verzamelen. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="dk" line="Amy begynder at samle kastanier. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="nz" line="Amy starts to collect the conkers. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+			</subtitles>
+		</line>
+		<line words="Solo puede encontrar 19 castañas. Empieza a contar otra vez. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19" start="99824" length="28387" useLNutResource="true" image="2#5#9" >
+			<highlights>
+				<highlight index="0" start="565" length="870" />
+				<highlight index="1" start="1217" length="739" />
+				<highlight index="2" start="1521" length="1087" />
+				<highlight index="3" start="2477" length="1565" />
+				<highlight index="4" start="3868" length="1348" />
+				<highlight index="5" start="6563" length="913" />
+				<highlight index="6" start="7302" length="435" />
+				<highlight index="7" start="7389" length="1217" />
+				<highlight index="8" start="8085" length="478" />
+				<highlight index="9" start="8128" length="652" />
+				<highlight index="10" start="9432" length="913" />
+				<highlight index="11" start="10301" length="957" />
+				<highlight index="12" start="11127" length="1173" />
+				<highlight index="13" start="12388" length="913" />
+				<highlight index="14" start="13127" length="869" />
+				<highlight index="15" start="13779" length="1130" />
+				<highlight index="16" start="14909" length="826" />
+				<highlight index="17" start="15735" length="696" />
+				<highlight index="18" start="16300" length="869" />
+				<highlight index="19" start="17430" length="783" />
+				<highlight index="20" start="18256" length="826" />
+				<highlight index="21" start="19169" length="826" />
+				<highlight index="22" start="20125" length="739" />
+				<highlight index="23" start="20864" length="783" />
+				<highlight index="24" start="21690" length="956" />
+				<highlight index="25" start="22690" length="1000" />
+				<highlight index="26" start="23820" length="1000" />
+				<highlight index="27" start="24690" length="1434" />
+				<highlight index="28" start="26733" length="1304" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She can only find 19 conkers. She counts them again. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19" />
+				<subtitle lang="nl" line="Ze kan maar 19 kastanjes vinden.Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="dk" line="Hun kan kun finde 19 kastanier. Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="nz" line="She can only find 19 conkers. She counts them again. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19" />
+			</subtitles>
+		</line>
+		<line words="Entonces una le cae en su cabeza …¡Ahhh! ¡Veinte!" start="128211" length="11279" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="1554" length="1054" />
+				<highlight index="1" start="2659" length="811" />
+				<highlight index="2" start="3212" length="345" />
+				<highlight index="3" start="3488" length="553" />
+				<highlight index="4" start="4006" length="380" />
+				<highlight index="5" start="4352" length="397" />
+				<highlight index="6" start="4645" length="1071" />
+				<highlight index="7" start="6442" length="863" />
+				<highlight index="8" start="8808" length="1416" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Then one falls on her head! Ow! 20! " />
+				<subtitle lang="nl" line="Dan valt er eentje op haar hoofd! Au! 20! " />
+				<subtitle lang="dk" line="Så falder der en på hendes hoved! Av! 20!" />
+				<subtitle lang="nz" line="Then one falls on her head! Ow! 20! " />
+			</subtitles>
+		</line>
+		<line words="Las cuenta una vez mas. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 ¡20!" start="139302" length="24627" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="188" length="717" />
+				<highlight index="1" start="829" length="717" />
+				<highlight index="2" start="1546" length="565" />
+				<highlight index="3" start="1923" length="452" />
+				<highlight index="4" start="2187" length="1093" />
+				<highlight index="5" start="4751" length="453" />
+				<highlight index="6" start="5166" length="641" />
+				<highlight index="7" start="5694" length="679" />
+				<highlight index="8" start="6712" length="641" />
+				<highlight index="9" start="7278" length="603" />
+				<highlight index="10" start="7843" length="792" />
+				<highlight index="11" start="9276" length="678" />
+				<highlight index="12" start="9804" length="679" />
+				<highlight index="13" start="10483" length="754" />
+				<highlight index="14" start="12142" length="641" />
+				<highlight index="15" start="12595" length="716" />
+				<highlight index="16" start="13161" length="678" />
+				<highlight index="17" start="14330" length="641" />
+				<highlight index="18" start="14933" length="830" />
+				<highlight index="19" start="15800" length="943" />
+				<highlight index="20" start="17045" length="1093" />
+				<highlight index="21" start="17950" length="1433" />
+				<highlight index="22" start="19194" length="1697" />
+				<highlight index="23" start="20816" length="1810" />
+				<highlight index="24" start="22626" length="1772" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She counts them one more time. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20!" />
+				<subtitle lang="nl" line="Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="dk" line="Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="nz" line="She counts them one more time. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20!" />
+			</subtitles>
+		</line>
+		<line words="Escucha la extraña voz otra vez. §¡Muy bien! Ahora pide tu deseo.§" start="163365" length="10340" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="1947" length="887" />
+				<highlight index="1" start="2739" length="253" />
+				<highlight index="2" start="2913" length="696" />
+				<highlight index="3" start="3530" length="475" />
+				<highlight index="4" start="4116" length="428" />
+				<highlight index="5" start="4465" length="380" />
+				<highlight index="6" start="6095" length="380" />
+				<highlight index="7" start="6412" length="491" />
+				<highlight index="8" start="7536" length="523" />
+				<highlight index="9" start="8486" length="539" />
+				<highlight index="10" start="8961" length="349" />
+				<highlight index="11" start="9262" length="808" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She hears the strange voice again.§Very good! Now make your wish.§" />
+				<subtitle lang="nl" line="Ze hoort de rare stem nog weer. §Heel goed! Doe nu een wens!§" />
+				<subtitle lang="dk" line="Hun hører den mærkelige stemme igen. ”Godt! Nu må du ønske noget!”" />
+				<subtitle lang="nz" line="She hears the strange voice again.§Very good! Now make your wish.§" />
+			</subtitles>
+		</line>
+		<line words="Ella piensa… y piensa." start="173517" length="4888" useLNutResource="true" image="2#3#10" >
+			<highlights>
+				<highlight index="0" start="1010" length="486" />
+				<highlight index="1" start="1467" length="636" />
+				<highlight index="2" start="2934" length="366" />
+				<highlight index="3" start="3353" length="771" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She thinks… and she thinks." />
+				<subtitle lang="nl" line="Ze denkt na…en denkt na." />
+				<subtitle lang="dk" line="Hun tænker… Og hun tænker." />
+				<subtitle lang="nz" line="She thinks… and she thinks." />
+			</subtitles>
+		</line>
+		<line words="§¡Yo se!§ dice. §¡Deseo tener alas!§ Y entonces, a Amy le crecieron dos maravillosas alas. Y volo alto… muy alto…. y muy alto… ¡Y desaparecio! Adios, Amy." start="178217" length="34402" useLNutResource="true" image="4#4#1" >
+			<highlights>
+				<highlight index="0" start="263" length="632" />
+				<highlight index="1" start="632" length="790" />
+				<highlight index="2" start="2107" length="684" />
+				<highlight index="3" start="4266" length="832" />
+				<highlight index="4" start="5162" length="832" />
+				<highlight index="5" start="6163" length="1106" />
+				<highlight index="6" start="8270" length="527" />
+				<highlight index="7" start="8692" length="938" />
+				<highlight index="8" start="9903" length="621" />
+				<highlight index="9" start="10272" length="885" />
+				<highlight index="10" start="11589" length="632" />
+				<highlight index="11" start="12063" length="1370" />
+				<highlight index="12" start="13380" length="1106" />
+				<highlight index="13" start="14486" length="1739" />
+				<highlight index="14" start="15803" length="1422" />
+				<highlight index="15" start="17700" length="684" />
+				<highlight index="16" start="18016" length="1106" />
+				<highlight index="17" start="18701" length="937" />
+				<highlight index="18" start="20597" length="737" />
+				<highlight index="19" start="21124" length="1264" />
+				<highlight index="20" start="22283" length="685" />
+				<highlight index="21" start="22546" length="843" />
+				<highlight index="22" start="22599" length="1001" />
+				<highlight index="23" start="24443" length="1053" />
+				<highlight index="24" start="25496" length="1686" />
+				<highlight index="25" start="27340" length="738" />
+				<highlight index="26" start="28025" length="1528" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="§I know!§ She says. §I wish I had wings!§ And sure enough, Amy grew two beautifulwings. She flew higher… and higher… and higher… and disappeared! Goodbye Amy!" />
+				<subtitle lang="nl" line="§Ik weet het!§ zegt ze. §Ik wens dat ik vleugels krijg!§ En ja hoor, Anne kreeg twee prachtige vleugels. Ze vloog hoger… en hoger… en nog hoger…tot ze verdween! Dag Anne!" />
+				<subtitle lang="dk" line="“Nu ved jeg det”, siger hun. ”Jeg ville ønske, at jeg havde vinger!” Og ganske rigtigt voksede der to smukke vinger ud på Amy. Hun fløj højere… og højere… og højere… Og forsvandt! Farvel Amy!" />
+				<subtitle lang="nz" line="§I know!§ She says. §I wish I had wings!§ And sure enough, Amy grew two beautifulwings. She flew higher… and higher… and higher… and disappeared! Goodbye Amy!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

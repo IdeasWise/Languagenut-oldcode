@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="133851" >
+	<lines>
+		<line words="Lendi, Madi, Mèkredi." start="13385" length="5319" >
+			<highlight index="0" start="1935" length="728" />
+			<highlight index="1" start="2656" length="816" />
+			<highlight index="2" start="3465" length="1774" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jedi, Vandredi, Samdi." start="18533" length="3174" >
+			<highlight index="0" start="270" length="691" />
+			<highlight index="1" start="957" length="900" />
+			<highlight index="2" start="1857" length="1257" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen renmen espò!" start="21707" length="2832" >
+			<highlight index="0" start="531" length="495" />
+			<highlight index="1" start="1008" length="310" />
+			<highlight index="2" start="1311" length="434" />
+			<highlight index="3" start="1759" length="958" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="Wi mwen renmen espò anpil." start="24625" length="4000" >
+			<highlight index="0" start="1011" length="200" />
+			<highlight index="1" start="1203" length="200" />
+			<highlight index="2" start="1383" length="387" />
+			<highlight index="3" start="1763" length="607" />
+			<highlight index="4" start="2377" length="737" />
+			<subtitles>
+				<subtitle lang="en" line="Yes I really love sport." />
+			</subtitles>
+		</line>
+		<line words="Lendi mwen jwe fùtbòl!" start="28228" length="3175" >
+			<highlight index="0" start="794" length="532" />
+			<highlight index="1" start="1318" length="200" />
+			<highlight index="2" start="1517" length="242" />
+			<highlight index="3" start="1759" length="1359" />
+			<subtitles>
+				<subtitle lang="en" line="Monday I play football!" />
+			</subtitles>
+		</line>
+		<line words="Alò mwen bwè enpe dlo! M bwè anpil dlo." start="31317" length="4000" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="834" length="200" />
+			<highlight index="2" start="1022" length="455" />
+			<highlight index="3" start="1485" length="592" />
+			<highlight index="4" start="2070" length="545" />
+			<highlight index="5" start="2634" length="200" />
+			<highlight index="6" start="2843" length="394" />
+			<highlight index="7" start="3226" length="484" />
+			<highlight index="8" start="3692" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="So I drink some water! Drink lots of water." />
+			</subtitles>
+		</line>
+		<line words="Madi mwen jwe tenis!" start="35264" length="3261" >
+			<highlight index="0" start="506" length="495" />
+			<highlight index="1" start="1006" length="303" />
+			<highlight index="2" start="1316" length="372" />
+			<highlight index="3" start="1699" length="1435" />
+			<subtitles>
+				<subtitle lang="en" line="Tuesday I play tennis!" />
+			</subtitles>
+		</line>
+		<line words="Alò mwen bwè enpe ji! M bwè anpil ji." start="38267" length="4000" >
+			<highlight index="0" start="513" length="200" />
+			<highlight index="1" start="679" length="200" />
+			<highlight index="2" start="863" length="538" />
+			<highlight index="3" start="1373" length="675" />
+			<highlight index="4" start="2045" length="314" />
+			<highlight index="5" start="2471" length="200" />
+			<highlight index="6" start="2648" length="365" />
+			<highlight index="7" start="3009" length="369" />
+			<highlight index="8" start="3371" length="480" />
+			<subtitles>
+				<subtitle lang="en" line="So I drink some juice! Drink lots of juice." />
+			</subtitles>
+		</line>
+		<line words="Alò mwen bwè enpe ji! M bwè anpil ji." start="38267" length="4000" >
+			<highlight index="0" start="513" length="200" />
+			<highlight index="1" start="679" length="200" />
+			<highlight index="2" start="863" length="538" />
+			<highlight index="3" start="1373" length="675" />
+			<highlight index="4" start="2045" length="314" />
+			<highlight index="5" start="2471" length="200" />
+			<highlight index="6" start="2648" length="365" />
+			<highlight index="7" start="3009" length="369" />
+			<highlight index="8" start="3371" length="480" />
+			<subtitles>
+				<subtitle lang="en" line="So I drink some juice! Drink lots of juice." />
+			</subtitles>
+		</line>
+		<line words="Mèkredi mwen jwe gòlf!" start="42214" length="3261" >
+			<highlight index="0" start="664" length="752" />
+			<highlight index="1" start="1405" length="275" />
+			<highlight index="2" start="1665" length="383" />
+			<highlight index="3" start="2063" length="1145" />
+			<subtitles>
+				<subtitle lang="en" line="Wednesday I play golf!" />
+			</subtitles>
+		</line>
+		<line words="Alò mwen bwè enpe dlo, mwen bwè anpil ji." start="45046" length="4000" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="834" length="200" />
+			<highlight index="2" start="1022" length="455" />
+			<highlight index="3" start="1485" length="592" />
+			<highlight index="4" start="2070" length="545" />
+			<highlight index="5" start="2634" length="200" />
+			<highlight index="6" start="2843" length="394" />
+			<highlight index="7" start="3226" length="361" />
+			<highlight index="8" start="3573" length="319" />
+			<subtitles>
+				<subtitle lang="en" line="So I drink some water, drink lots of juice." />
+			</subtitles>
+		</line>
+		<line words="Lendi, Madi, Mèkredi." start="51052" length="5319" >
+			<highlight index="0" start="1935" length="728" />
+			<highlight index="1" start="2656" length="816" />
+			<highlight index="2" start="3465" length="1774" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jedi, Vandredi, Samdi." start="56200" length="3174" >
+			<highlight index="0" start="270" length="691" />
+			<highlight index="1" start="957" length="900" />
+			<highlight index="2" start="1857" length="1257" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen renmen espò!" start="59203" length="2832" >
+			<highlight index="0" start="531" length="495" />
+			<highlight index="1" start="1008" length="310" />
+			<highlight index="2" start="1311" length="434" />
+			<highlight index="3" start="1759" length="958" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="Wi mwen renmen espò anpil." start="62206" length="4000" >
+			<highlight index="0" start="1011" length="200" />
+			<highlight index="1" start="1203" length="200" />
+			<highlight index="2" start="1383" length="387" />
+			<highlight index="3" start="1763" length="607" />
+			<highlight index="4" start="2377" length="737" />
+			<subtitles>
+				<subtitle lang="en" line="Yes I really love sport." />
+			</subtitles>
+		</line>
+		<line words="Jedi mwen al naje!" start="66153" length="3346" >
+			<highlight index="0" start="693" length="383" />
+			<highlight index="1" start="1073" length="437" />
+			<highlight index="2" start="1485" length="200" />
+			<highlight index="3" start="1680" length="964" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday I go swimming!" />
+			</subtitles>
+		</line>
+		<line words="Alò m manje kek pwason, m manje anpil pwason." start="69499" length="4000" >
+			<highlight index="0" start="267" length="307" />
+			<highlight index="1" start="588" length="150" />
+			<highlight index="2" start="722" length="408" />
+			<highlight index="3" start="1145" length="200" />
+			<highlight index="4" start="1336" length="842" />
+			<highlight index="5" start="2167" length="105" />
+			<highlight index="6" start="2265" length="376" />
+			<highlight index="7" start="2630" length="285" />
+			<highlight index="8" start="2865" length="946" />
+			<subtitles>
+				<subtitle lang="en" line="So eat some fish, eat lots of fish." />
+			</subtitles>
+		</line>
+		<line words="Vandredi mwen fè judo!" start="73360" length="2488" >
+			<highlight index="0" start="563" length="607" />
+			<highlight index="1" start="1156" length="200" />
+			<highlight index="2" start="1351" length="200" />
+			<highlight index="3" start="1586" length="867" />
+			<subtitles>
+				<subtitle lang="en" line="Friday I do judo!" />
+			</subtitles>
+		</line>
+		<line words="Alò mwen m manje viann bèf, manje anpil viann bèf." start="76106" length="4000" >
+			<highlight index="0" start="505" length="294" />
+			<highlight index="1" start="794" length="200" />
+			<highlight index="2" start="979" length="100" />
+			<highlight index="3" start="1065" length="401" />
+			<highlight index="4" start="1452" length="491" />
+			<highlight index="5" start="1933" length="372" />
+			<highlight index="6" start="2308" length="550" />
+			<highlight index="7" start="2829" length="200" />
+			<highlight index="8" start="2991" length="200" />
+			<highlight index="9" start="3190" length="770" />
+			<subtitles>
+				<subtitle lang="en" line="So eat some steak, eat lots of steak." />
+			</subtitles>
+		</line>
+		<line words="Samdi mwen al monte chwal!" start="79967" length="3089" >
+			<highlight index="0" start="415" length="553" />
+			<highlight index="1" start="968" length="200" />
+			<highlight index="2" start="1177" length="200" />
+			<highlight index="3" start="1362" length="451" />
+			<highlight index="4" start="1799" length="1225" />
+			<subtitles>
+				<subtitle lang="en" line="Saturday I go horseriding!" />
+			</subtitles>
+		</line>
+		<line words="Alò m manje kèk legim, anpil legim." start="82884" length="4000" >
+			<highlight index="0" start="646" length="200" />
+			<highlight index="1" start="845" length="100" />
+			<highlight index="2" start="939" length="473" />
+			<highlight index="3" start="1409" length="200" />
+			<highlight index="4" start="1597" length="932" />
+			<highlight index="5" start="2522" length="603" />
+			<highlight index="6" start="3096" length="892" />
+			<subtitles>
+				<subtitle lang="en" line="So eat some veg, eat lots of veg." />
+			</subtitles>
+		</line>
+		<line words="Lendi, Madi, Mèkredi." start="88804" length="5319" >
+			<highlight index="0" start="1935" length="728" />
+			<highlight index="1" start="2656" length="816" />
+			<highlight index="2" start="3465" length="1774" />
+			<subtitles>
+				<subtitle lang="en" line="Monday, Tuesday, Wednesday." />
+			</subtitles>
+		</line>
+		<line words="Jedi, Vandredi, Samdi." start="93867" length="3174" >
+			<highlight index="0" start="270" length="691" />
+			<highlight index="1" start="957" length="900" />
+			<highlight index="2" start="1857" length="1257" />
+			<subtitles>
+				<subtitle lang="en" line="Thursday, Friday, Saturday." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen renmen espò!" start="97127" length="2832" >
+			<highlight index="0" start="531" length="495" />
+			<highlight index="1" start="1008" length="310" />
+			<highlight index="2" start="1311" length="434" />
+			<highlight index="3" start="1759" length="958" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday, I love sport!" />
+			</subtitles>
+		</line>
+		<line words="Wi mwen renmen espò anpil." start="99959" length="4000" >
+			<highlight index="0" start="1011" length="200" />
+			<highlight index="1" start="1203" length="200" />
+			<highlight index="2" start="1383" length="387" />
+			<highlight index="3" start="1763" length="607" />
+			<highlight index="4" start="2377" length="737" />
+			<subtitles>
+				<subtitle lang="en" line="Yes I really love sport." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen pa fè espò!" start="104249" length="2660" >
+			<highlight index="0" start="346" length="748" />
+			<highlight index="1" start="1062" length="200" />
+			<highlight index="2" start="1253" length="123" />
+			<highlight index="3" start="1376" length="200" />
+			<highlight index="4" start="1578" length="914" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport!" />
+			</subtitles>
+		</line>
+		<line words="Alò m manje kèk sirèt, bwè anpil koka." start="106994" length="4000" >
+			<highlight index="0" start="509" length="423" />
+			<highlight index="1" start="939" length="126" />
+			<highlight index="2" start="1073" length="466" />
+			<highlight index="3" start="1535" length="200" />
+			<highlight index="4" start="1734" length="701" />
+			<highlight index="5" start="2467" length="200" />
+			<highlight index="6" start="2670" length="477" />
+			<highlight index="7" start="3139" length="488" />
+			<subtitles>
+				<subtitle lang="en" line="So I eat some sweets and drink lots of coke." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen pa fè espò!" start="110770" length="2660" >
+			<highlight index="0" start="346" length="748" />
+			<highlight index="1" start="1062" length="200" />
+			<highlight index="2" start="1253" length="123" />
+			<highlight index="3" start="1376" length="200" />
+			<highlight index="4" start="1578" length="914" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport!" />
+			</subtitles>
+		</line>
+		<line words="Alò m manje kèk sirèt, bwè anpil koka." start="113773" length="4000" >
+			<highlight index="0" start="509" length="423" />
+			<highlight index="1" start="939" length="126" />
+			<highlight index="2" start="1073" length="466" />
+			<highlight index="3" start="1535" length="200" />
+			<highlight index="4" start="1734" length="701" />
+			<highlight index="5" start="2467" length="200" />
+			<highlight index="6" start="2670" length="477" />
+			<highlight index="7" start="3139" length="488" />
+			<subtitles>
+				<subtitle lang="en" line="So I eat some sweets and drink lots of coke." />
+			</subtitles>
+		</line>
+		<line words="Dimanch, mwen pa fè espò!" start="117720" length="2660" >
+			<highlight index="0" start="346" length="748" />
+			<highlight index="1" start="1062" length="200" />
+			<highlight index="2" start="1253" length="123" />
+			<highlight index="3" start="1376" length="200" />
+			<highlight index="4" start="1578" length="914" />
+			<subtitles>
+				<subtitle lang="en" line="Sunday I don't play sport!" />
+			</subtitles>
+		</line>
+		<line words="Alò m manje kèk sirèt, bwè anpil koka." start="120380" length="4000" >
+			<highlight index="0" start="509" length="423" />
+			<highlight index="1" start="939" length="126" />
+			<highlight index="2" start="1073" length="466" />
+			<highlight index="3" start="1535" length="200" />
+			<highlight index="4" start="1734" length="701" />
+			<highlight index="5" start="2467" length="200" />
+			<highlight index="6" start="2670" length="477" />
+			<highlight index="7" start="3139" length="488" />
+			<subtitles>
+				<subtitle lang="en" line="So I eat some sweets and drink lots of coke." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

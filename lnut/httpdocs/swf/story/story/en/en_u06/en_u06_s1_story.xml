@@ -1,0 +1,1549 @@
+<karaoke length="299546">
+  <lines>
+    <line words="Jack and the Beanstalk" start="0" length="3053" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="ja" line="ジャックとまめのき"/>
+        <subtitle lang="nl" line="Sjaak en de bonenstaak"/>
+        <subtitle lang="dk" line="Hans og bønnestagen"/>
+        <subtitle lang="cl" line="Jack y los porotos mágicos"/>
+        <subtitle lang="pt" line="João e o Pé de Feijão"/>
+      </subtitles>
+      <highlights/>
+    </line>
+    <line words="This is the story of a boy. §Hello! What’s your name? My name’s Jack.§" start="2799" length="8370" useLNutResource="true" useStoryResource="false" image="6#3#10">
+      <subtitles>
+        <subtitle lang="bj" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="bo" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="do" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="cd" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="in" line="यह एक लड़के की कहानी है।नमस्कार! आपका क्या नाम है?मेरा नाम जैक है।"/>
+        <subtitle lang="cr" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="cl" line="Éste es el cuento de un niño.§¡Hola! ¿Cómo te llamas?§§Me llamo Juan.§"/>
+        <subtitle lang="ml" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="ne" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="co" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="sv" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="ve" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="mx" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="ni" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="me" line="هذه هي قصة صبي.مرحبا! ما اسمك؟اسمي جاك"/>
+        <subtitle lang="bi" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="gt" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="ht" line="Sa se istwa yon ti gason. Bonjou! Kijan ou rele? Mwen rele Jack."/>
+        <subtitle lang="dk" line="Her er historien om en dreng. §Hej! Hvad hedder du?Jeg hedder Hans.§"/>
+        <subtitle lang="saa" line="هذه هي قصة صبي.مرحبا! ما اسمك؟اسمي جاك"/>
+        <subtitle lang="sn" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="ci" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="ec" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="ga" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="ar" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="hn" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="pa" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="es" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="lbr" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="ja" line="これは、あるおとこのこのものがたりです。こんにちは！あなたのなまえは？ぼくのなまえはジャックです。"/>
+        <subtitle lang="nl" line="Dit is het verhaal over een jongen. Hallo! Hoe heet jij? Ik heet Sjaak."/>
+        <subtitle lang="mg" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="tg" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="bf" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="dj" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="cn" line="这是一个男孩的故事。 你好!你叫什么名字？ 我叫杰克。"/>
+        <subtitle lang="pe" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="cu" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="sp" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="fr" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="pr" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="cm" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques"/>
+        <subtitle lang="lba" line="هذه هي قصة صبي.مرحبا! ما اسمك؟اسمي جاك"/>
+        <subtitle lang="py" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito."/>
+        <subtitle lang="pt" line="Esta é a história de um menino.Olá! Qual é seu nome?Meu nome é João."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="131" length="216"/>
+        <highlight index="1" start="307" length="148"/>
+        <highlight index="2" start="415" length="148"/>
+        <highlight index="3" start="590" length="689"/>
+        <highlight index="4" start="1441" length="256"/>
+        <highlight index="5" start="1657" length="122"/>
+        <highlight index="6" start="1752" length="405"/>
+        <highlight index="7" start="3075" length="540"/>
+        <highlight index="8" start="4182" length="243"/>
+        <highlight index="9" start="4398" length="352"/>
+        <highlight index="10" start="4723" length="297"/>
+        <highlight index="11" start="6114" length="199"/>
+        <highlight index="12" start="6276" length="364"/>
+        <highlight index="13" start="6640" length="781"/>
+      </highlights>
+    </line>
+    <line words="Jack is poor… mother is poor…. Jack and his mother are poor, very poor. " start="10943" length="12510" useLNutResource="true" useStoryResource="false" image="6#4#2">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="bo" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="do" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="cd" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="in" line="जैक गरीब है ... माँ गरीब है ....जैक और उसकी माँ गरीब हैं, बहुत गरीब।"/>
+        <subtitle lang="cr" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="cl" line="Juan es pobre... su mamá es pobre...Juan y su mamá son pobres, muy pobres. pobres ..."/>
+        <subtitle lang="ml" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="ne" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="co" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="sv" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="ve" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="mx" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="ni" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="me" line="جاك فقير... أم فقيرة....جاك و أمه أصبحُ أكثر فقراَ من السابق...أفقر و أفقر."/>
+        <subtitle lang="bi" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="gt" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="ht" line="Jack pòv ... Manman pòv .... Jack ak manman l pòv, yo pòv anpil."/>
+        <subtitle lang="dk" line="Hans er fattig…mor er fattig…Hans og hans mor er fattige, meget fattige."/>
+        <subtitle lang="saa" line="جاك فقير... أم فقيرة....جاك و أمه أصبحُ أكثر فقراَ من السابق...أفقر و أفقر."/>
+        <subtitle lang="sn" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="ci" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="ec" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="ga" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="ar" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="hn" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="pa" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="es" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="lbr" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="ja" line="ジャックは、まずしいです...ははおやは、まずしいです...ジャックと、ははおやは、まずしいです、とてもまずしいです。"/>
+        <subtitle lang="nl" line="Sjaak is arm... Zijn moeder is arm... Sjaak en zijn moeder zijn arm, heel arm. "/>
+        <subtitle lang="mg" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="tg" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="bf" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="dj" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="cn" line="杰克是穷人… 母亲是穷人… 杰克和他的母亲是穷人, 很穷的人."/>
+        <subtitle lang="pe" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="cu" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="sp" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="fr" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="pr" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="cm" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres."/>
+        <subtitle lang="lba" line="جاك فقير... أم فقيرة....جاك و أمه أصبحُ أكثر فقراَ من السابق...أفقر و أفقر."/>
+        <subtitle lang="py" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..."/>
+        <subtitle lang="pt" line="João é pobre ... Mãe é pobre ....João e sua mãe são pobres, muito pobres."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2715" length="333"/>
+        <highlight index="1" start="3013" length="140"/>
+        <highlight index="2" start="3118" length="736"/>
+        <highlight index="3" start="4362" length="578"/>
+        <highlight index="4" start="5203" length="228"/>
+        <highlight index="5" start="5361" length="823"/>
+        <highlight index="6" start="7288" length="350"/>
+        <highlight index="7" start="7586" length="157"/>
+        <highlight index="8" start="7673" length="210"/>
+        <highlight index="9" start="7831" length="420"/>
+        <highlight index="10" start="8689" length="228"/>
+        <highlight index="11" start="8900" length="700"/>
+        <highlight index="12" start="10003" length="333"/>
+        <highlight index="13" start="10284" length="683"/>
+      </highlights>
+    </line>
+    <line words="Nothing for breakfast... nothing for lunch… nothing for supper… nothing at all!" start="22904" length="9905" useLNutResource="true" useStoryResource="false" image="6#4#1">
+      <subtitles>
+        <subtitle lang="bj" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="bo" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="do" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="cd" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="in" line="नाश्ते के लिए कुछ भी नहीं ... दोपहर के भोजन के लिए कुछ भी नहीं ...रात के खाने के लिए कुछ भी नहीं ...बिल्कुल कुछ भी नहीं!"/>
+        <subtitle lang="cr" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="cl" line="Nada para desayunar...Nada para almorzar...Nada para cenar...¡Nada en absoluto!"/>
+        <subtitle lang="ml" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="ne" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="co" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="sv" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="ve" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="mx" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="ni" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="me" line="لم يكن لديهم  شيء على الفطور...لم يكن لديهم شيء لتناول طعام الغداء...لم يكن لديهم شيء لتناول العشاء...لم يعد لديهم أي شيء!"/>
+        <subtitle lang="bi" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="gt" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="ht" line="Yo pa manje lèmaten ... Yo pa manje manje lè midi ... Yo pa manje manje aswèYo pa manje anyen ditou!"/>
+        <subtitle lang="dk" line="Ingenting til morgenmad…ingenting til frokost…ingenting til aftensmad…overhovedet ingenting."/>
+        <subtitle lang="saa" line="لم يكن لديهم  شيء على الفطور...لم يكن لديهم شيء لتناول طعام الغداء...لم يكن لديهم شيء لتناول العشاء...لم يعد لديهم أي شيء!"/>
+        <subtitle lang="sn" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="ci" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="ec" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="ga" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="ar" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="hn" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="pa" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="es" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="lbr" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="ja" line="あさごはんに、たべるものもなく...ひるごはんに、たべるものもなく...ゆうごはんに、たべるものもなく...なにもありません！ "/>
+        <subtitle lang="nl" line="Niets als ontbijt... Niets als lunch... Niets als avondeten… Helemaal geen eten!"/>
+        <subtitle lang="mg" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="tg" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="bf" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="dj" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="cn" line="没有早餐… 没有午饭… 没有晚饭… 什么都没有！"/>
+        <subtitle lang="pe" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="cu" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="sp" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="fr" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="pr" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="cm" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!"/>
+        <subtitle lang="lba" line="لم يكن لديهم  شيء على الفطور...لم يكن لديهم شيء لتناول طعام الغداء...لم يكن لديهم شيء لتناول العشاء...لم يعد لديهم أي شيء!"/>
+        <subtitle lang="py" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!"/>
+        <subtitle lang="pt" line="Nada para o café da manhã ...Nada para o almoço ...Nada para o jantar ...Nada mesmo!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2399" length="389"/>
+        <highlight index="1" start="2760" length="208"/>
+        <highlight index="2" start="2926" length="638"/>
+        <highlight index="3" start="4008" length="430"/>
+        <highlight index="4" start="4397" length="152"/>
+        <highlight index="5" start="4508" length="582"/>
+        <highlight index="6" start="5562" length="444"/>
+        <highlight index="7" start="5992" length="125"/>
+        <highlight index="8" start="6089" length="569"/>
+        <highlight index="9" start="7199" length="430"/>
+        <highlight index="10" start="7587" length="153"/>
+        <highlight index="11" start="7698" length="450"/>
+      </highlights>
+    </line>
+    <line words="Mother says, §Jack, let’s sell the cow.§ Moooooooooo. §Go to the market. Quick! Quick!§" start="32575" length="14335" useLNutResource="true" useStoryResource="false" image="6#3#4">
+      <subtitles>
+        <subtitle lang="bj" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="bo" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="do" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="cd" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="in" line="माँ कहती है:'जैक, चलो गाय बेचते हैं।'गाय के रँभाने की आवाज़। ‘बाज़ार जाओ।''जल्दी! जल्दी!'"/>
+        <subtitle lang="cr" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="cl" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="ml" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="ne" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="co" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="sv" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="ve" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="mx" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="ni" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="me" line=".ثم قالت الأم :§جاك، دعنا نبيع البقره .§مو، مو، مو، مو، مو.§إذهب إلى السوق§.§بسرعة! بسرعة! '"/>
+        <subtitle lang="bi" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="gt" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="ht" line="Manman l di: 'Jak, an nou vann bèf la. Mou, mou, mou, mou, mou. 'an al nan mache a.' ‘Depeche w! depeche w! '"/>
+        <subtitle lang="dk" line="Mor siger: “Hans, lad os sælge koen.” Muh, muh, muh, muh, muh. §Tag på marked.Hurtigt! Hurtigt!§"/>
+        <subtitle lang="saa" line=".ثم قالت الأم :§جاك، دعنا نبيع البقره .§مو، مو، مو، مو، مو.§إذهب إلى السوق§.§بسرعة! بسرعة! '"/>
+        <subtitle lang="sn" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="ci" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="ec" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="ga" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="ar" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="hn" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="pa" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="es" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="lbr" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="ja" line="ははおやは、いいます:「ジャック、めうしをうりましょう」モー、モー、モー、モー、モー。「いちばにいっておいで」「はやく！はやく！」"/>
+        <subtitle lang="nl" line="Moeder zegt: ‘Sjaak, laten we de koe verkopen. ’Boe, boe.' ‘Ga naar de markt. Snel! Snel!’"/>
+        <subtitle lang="mg" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="tg" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="bf" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="dj" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="cn" line="妈妈说： “杰克，我们卖牛。” 哞，哞，哞，哞.“到市场上去。” “快！快！”"/>
+        <subtitle lang="pe" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="cu" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="sp" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="fr" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="pr" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="cm" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’"/>
+        <subtitle lang="lba" line=".ثم قالت الأم :§جاك، دعنا نبيع البقره .§مو، مو، مو، مو، مو.§إذهب إلى السوق§.§بسرعة! بسرعة! '"/>
+        <subtitle lang="py" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’"/>
+        <subtitle lang="pt" line="Mãe diz:§João, vamos vender a vaca.§Muh, muh, muh, muh, muh.§Vá para o mercado.§§Rápido! Rápido!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2248" length="361"/>
+        <highlight index="1" start="2569" length="402"/>
+        <highlight index="2" start="3432" length="442"/>
+        <highlight index="3" start="4798" length="341"/>
+        <highlight index="4" start="5079" length="321"/>
+        <highlight index="5" start="5360" length="180"/>
+        <highlight index="6" start="5500" length="642"/>
+        <highlight index="7" start="6865" length="2289"/>
+        <highlight index="8" start="9957" length="241"/>
+        <highlight index="9" start="10158" length="140"/>
+        <highlight index="10" start="10238" length="201"/>
+        <highlight index="11" start="10399" length="722"/>
+        <highlight index="12" start="11141" length="422"/>
+        <highlight index="13" start="11684" length="582"/>
+      </highlights>
+    </line>
+    <line words="Jack and the cow go to the market. They meet an old man. §I would like to buy a cow. Here are five magic beans. One… two… three… four… five…§" start="46318" length="21634" useLNutResource="true" useStoryResource="false" image="6#3#5">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="bo" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="do" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="cd" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="in" line="जैक और गाय बाज़ार जाते हैं। वे एक बूढ़े आदमी से मिलते हैं।'मैं गाय खरीदना चाहता हूँ। यह पाँच जादू की सेम हैं।एक ... दो ... तीन ... चार ... पाँच ...'"/>
+        <subtitle lang="cr" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="cl" line="Juan y la vaca se van al mercado. Ellos se encuentran a un viejito.§Me gustaría comprar una vaca. Tengo cinco porotos mágicos.Uno… dos… tres… cuatro… cinco…§"/>
+        <subtitle lang="ml" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="ne" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="co" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="sv" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="ve" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="mx" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="ni" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="me" line="جاك والبقره يذهبان إلى السوق  ووجد رجل كبير بالعمر. أود أن أشتريه بقره اعطاه خمسة حبات فاصولياء مقابل البقره فاشترى الرجل الكبير البقرة من الولد مقابلخمسة حبات فاصولياء سحرية. واحد.. اثنان... ثلاثة... اربعة.. خمسة"/>
+        <subtitle lang="bi" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="gt" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="ht" line="Jak ale nan mache a ak bèf la. Yo rankontre yon ti lepè. 'Mwen ta renmen achte yon bèf. Men senk pwa majik.Yon ... de ... twa… kat… senk ... ... '"/>
+        <subtitle lang="dk" line="Hans og koen tager på marked. De møder en gammel mand. §Jeg vil gerne købe en ko. Her er fem magiske bønner. En…to…tre…fire…fem…§"/>
+        <subtitle lang="saa" line="جاك والبقره يذهبان إلى السوق  ووجد رجل كبير بالعمر. أود أن أشتريه بقره اعطاه خمسة حبات فاصولياء مقابل البقره فاشترى الرجل الكبير البقرة من الولد مقابلخمسة حبات فاصولياء سحرية. واحد.. اثنان... ثلاثة... اربعة.. خمسة"/>
+        <subtitle lang="sn" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="ci" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="ec" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="ga" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="ar" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="hn" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="pa" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="es" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="lbr" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="ja" line="ジャックは、めうしをつれて、いちばへいきます。かれらは、ろうじんにあいます。「めうしをかいたいんじゃ。ここにまほうのまめが5つぶある。ひとつ...ふたつ...みっつ...よっつ...いつつ...」"/>
+        <subtitle lang="nl" line="Sjaak gaat met de koe naar de markt. Ze komen een oude man tegen. ‘Ik wil graag een koe kopen. Hier zijn vijf toverbonen. Een... twee... drie... vier... vijf...’"/>
+        <subtitle lang="mg" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="tg" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="bf" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="dj" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="cn" line="杰克和牛走向市场。 他们遇到一位老人。 “我想购买一头牛。 这里有五个魔豆。” 一...二...三...四...五…"/>
+        <subtitle lang="pe" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="cu" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="sp" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="fr" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="pr" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="cm" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’"/>
+        <subtitle lang="lba" line="جاك والبقره يذهبان إلى السوق  ووجد رجل كبير بالعمر. أود أن أشتريه بقره اعطاه خمسة حبات فاصولياء مقابل البقره فاشترى الرجل الكبير البقرة من الولد مقابلخمسة حبات فاصولياء سحرية. واحد.. اثنان... ثلاثة... اربعة.. خمسة"/>
+        <subtitle lang="py" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco."/>
+        <subtitle lang="pt" line="João e a vaca vão para o mercado.Eles encontram um velho.§Eu gostaria de comprar uma vaca. Aqui estão cinco feijões mágicos.Um ... dois ... três ... quatro ... cinco ... §"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2302" length="394"/>
+        <highlight index="1" start="2635" length="182"/>
+        <highlight index="2" start="2757" length="151"/>
+        <highlight index="3" start="2817" length="515"/>
+        <highlight index="4" start="3272" length="333"/>
+        <highlight index="5" start="3514" length="182"/>
+        <highlight index="6" start="3635" length="182"/>
+        <highlight index="7" start="3756" length="728"/>
+        <highlight index="8" start="5089" length="243"/>
+        <highlight index="9" start="5302" length="272"/>
+        <highlight index="10" start="5514" length="151"/>
+        <highlight index="11" start="5605" length="303"/>
+        <highlight index="12" start="5847" length="866"/>
+        <highlight index="13" start="7695" length="455"/>
+        <highlight index="14" start="8059" length="291"/>
+        <highlight index="15" start="8240" length="334"/>
+        <highlight index="16" start="8513" length="243"/>
+        <highlight index="17" start="8695" length="333"/>
+        <highlight index="18" start="8937" length="182"/>
+        <highlight index="19" start="9028" length="988"/>
+        <highlight index="20" start="10482" length="455"/>
+        <highlight index="21" start="10846" length="152"/>
+        <highlight index="22" start="10937" length="606"/>
+        <highlight index="23" start="11452" length="545"/>
+        <highlight index="24" start="11906" length="1200"/>
+        <highlight index="25" start="13421" length="637"/>
+        <highlight index="26" start="14664" length="685"/>
+        <highlight index="27" start="15997" length="727"/>
+        <highlight index="28" start="17299" length="836"/>
+        <highlight index="29" start="18663" length="1018"/>
+      </highlights>
+    </line>
+    <line words="But mother says, §You really are stupid!§ She takes the beans…. the magic beans… one… two… three… four… five… and she throws them away." start="67187" length="19027" useLNutResource="true" useStoryResource="false" image="6#3#5">
+      <subtitles>
+        <subtitle lang="bj" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="bo" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="do" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="cd" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="in" line="लेकिन माँ कहती है, 'तुम सच में बेवकूफ हो!'वह सेम ले लेती है .... जादू की सेम ...एक ... दो ... तीन ... चार ... पाँच ...और वह उन्हें दूर फेंक देती है।"/>
+        <subtitle lang="cr" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="cl" line="Pero la madre le dice,§En verdad eres tonto.§Toma los porotos... los porotos mágicosUno… dos… tres… cuatro… cinco…Y los tira lejos."/>
+        <subtitle lang="ml" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="ne" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="co" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="sv" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="ve" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="mx" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="ni" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="me" line="ولكن قالت الأم : §أنت حقا غبي !'الأم أخذت  حبات الفاصولياء السحريةواحد.. واثنان... ثلاثة... اربعة... خمسة...§ والام  رمت الحبات بعيدا"/>
+        <subtitle lang="bi" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="gt" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="ht" line="Men, pandan lannwit lan, yon pye pwa pouse.li pouse ... li pouse ... e li pouse ...Oh!"/>
+        <subtitle lang="dk" line="Men mor siger: “Du er virkelig dum!” Hun tager bønnerne…de magiske bønner…En…to…tre…fire…fem…Og smider dem væk."/>
+        <subtitle lang="saa" line="ولكن قالت الأم : §أنت حقا غبي !'الأم أخذت  حبات الفاصولياء السحريةواحد.. واثنان... ثلاثة... اربعة... خمسة...§ والام  رمت الحبات بعيدا"/>
+        <subtitle lang="sn" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="ci" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="ec" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="ga" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="ar" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="hn" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="pa" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="es" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="lbr" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="ja" line="しかし、ははおやは、いいます。「おまえは、なんてバカなんだ！」かのじょは、まめをてにとります...まほうのまめを...ひとつ...ふたつ...みっつ...よっつ...いつつ...そして、かのじょは、それらをすててしまいます。"/>
+        <subtitle lang="nl" line="Maar de moeder zegt ‘wat ben jij dom!’ Ze pakt de bonen... de toverbonen... Een... twee... drie... vier... vijf... En ze gooit ze weg."/>
+        <subtitle lang="mg" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="tg" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="bf" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="dj" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="cn" line="但妈妈说： “你真是愚蠢！” 她把豆子…魔豆… 一... 二... 三... 四... 五… 全部扔掉."/>
+        <subtitle lang="pe" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="cu" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="sp" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="fr" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="pr" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="cm" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!"/>
+        <subtitle lang="lba" line="ولكن قالت الأم : §أنت حقا غبي !'الأم أخذت  حبات الفاصولياء السحريةواحد.. واثنان... ثلاثة... اربعة... خمسة...§ والام  رمت الحبات بعيدا"/>
+        <subtitle lang="py" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo."/>
+        <subtitle lang="pt" line="Mas a mãe diz: §Você é realmente estúpido!§Ela pega os feijões .... os feijões mágicos ...Um ... dois ... três ... quatro ... cinco ...E ela os joga fora."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2105" length="213"/>
+        <highlight index="1" start="2211" length="480"/>
+        <highlight index="2" start="2611" length="320"/>
+        <highlight index="3" start="3304" length="306"/>
+        <highlight index="4" start="3570" length="586"/>
+        <highlight index="5" start="4103" length="187"/>
+        <highlight index="6" start="4236" length="1026"/>
+        <highlight index="7" start="5702" length="293"/>
+        <highlight index="8" start="5862" length="506"/>
+        <highlight index="9" start="6288" length="187"/>
+        <highlight index="10" start="6395" length="613"/>
+        <highlight index="11" start="7301" length="213"/>
+        <highlight index="12" start="7487" length="453"/>
+        <highlight index="13" start="7834" length="559"/>
+        <highlight index="14" start="8979" length="373"/>
+        <highlight index="15" start="10152" length="693"/>
+        <highlight index="16" start="11537" length="840"/>
+        <highlight index="17" start="12896" length="667"/>
+        <highlight index="18" start="14149" length="746"/>
+        <highlight index="19" start="15774" length="280"/>
+        <highlight index="20" start="15987" length="187"/>
+        <highlight index="21" start="16121" length="399"/>
+        <highlight index="22" start="16414" length="213"/>
+        <highlight index="23" start="16574" length="479"/>
+      </highlights>
+    </line>
+    <line words="But during the night, a magic beanstalk grows and grows… and grows… and grows… oh!" start="85766" length="11989" useLNutResource="true" useStoryResource="false" image="6#3#1">
+      <subtitles>
+        <subtitle lang="bj" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="bo" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="do" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="cd" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="in" line="लेकिन रात के दौरान, जादू की सेम की बेल बढ़ती है।और बढ़ती है ... और बढ़ती है ... और बढ़ती है ...ओह!"/>
+        <subtitle lang="cr" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="cl" line="Pero durante la noche, un tallo del poroto mágico crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="ml" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="ne" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="co" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="sv" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="ve" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="mx" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="ni" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="me" line="ولكن خلال الليل ، شجرة الفاصولياء السحرية تنمو.انها تنمو.. وكبرت وكبرت وكبرت...           وش!"/>
+        <subtitle lang="bi" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="gt" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="ht" line="Jak monte pye pwa majik la.Li monte ... li monte ... li monte ...jiskaske l rive nan syèl la. Jack wè yon gwo chato. Kow, kow, kow , kow, kow ...'Eske gen moun la?'"/>
+        <subtitle lang="dk" line="Men midt om natten vokser der en magisk bønnestage op. Den vokser…og vokser…og vokser…oh!"/>
+        <subtitle lang="saa" line="ولكن خلال الليل ، شجرة الفاصولياء السحرية تنمو.انها تنمو.. وكبرت وكبرت وكبرت...           وش!"/>
+        <subtitle lang="sn" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="ci" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="ec" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="ga" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="ar" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="hn" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="pa" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="es" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="lbr" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="ja" line="しかし、そのよる、まほうのまめのきがそだちます。そして、どんどん...どんどん...どんどんおおきくなって...おぉ！"/>
+        <subtitle lang="nl" line="Maar ‘s nachts groeit er ineens een magische bonenstaak. Hij groeit... en groeit... en groeit... Oh!"/>
+        <subtitle lang="mg" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="tg" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="bf" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="dj" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="cn" line="但在夜间，一个神奇的豆茎生长。 而成长, 成长, 成长起来了! 哦！"/>
+        <subtitle lang="pe" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="cu" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="sp" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="fr" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="pr" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="cm" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!"/>
+        <subtitle lang="lba" line="ولكن خلال الليل ، شجرة الفاصولياء السحرية تنمو.انها تنمو.. وكبرت وكبرت وكبرت...           وش!"/>
+        <subtitle lang="py" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!"/>
+        <subtitle lang="pt" line="Mas durante a noite, um pé de feijão mágico cresce. E cresce ... e cresce ... e cresce ...Oh!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2233" length="235"/>
+        <highlight index="1" start="2417" length="454"/>
+        <highlight index="2" start="2820" length="100"/>
+        <highlight index="3" start="2887" length="654"/>
+        <highlight index="4" start="4012" length="200"/>
+        <highlight index="5" start="4130" length="470"/>
+        <highlight index="6" start="4533" length="705"/>
+        <highlight index="7" start="5188" length="720"/>
+        <highlight index="8" start="6161" length="655"/>
+        <highlight index="9" start="7270" length="200"/>
+        <highlight index="9" start="6716" length="720"/>
+        <highlight index="10" start="7740" length="201"/>
+        <highlight index="11" start="7908" length="687"/>
+        <highlight index="12" start="8714" length="268"/>
+        <highlight index="13" start="8915" length="504"/>
+        <highlight index="14" start="9385" length="502"/>
+      </highlights>
+    </line>
+    <line words="Jack climbs the magic beanstalk. He climbs… he climbs… and he climbs… right up to the sky. Jack sees a huge castle. Knock, knock, knock, knock, knock … §Is anybody there?§" start="97218" length="20069" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="bo" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="do" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="cd" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="in" line="जैक जादू की सेम की बेल पर चढ़ता है। वह चढ़ता है ... वह चढ़ता रहता है ... और वह चढ़ता रहता है ... सीधे आकाश तक। जैक को एक विशाल महल दिखाई देता है।ठक, ठक, ठक, ठक, ठक ...'क्या कोई है?'"/>
+        <subtitle lang="cr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="cl" line="Juan trepa el tallo de poroto.Él trepa… trepa… y trepa…justo hasta el cielo. Ve un enorme castillo.Toc, toc, toc, toc, toc, toc.§¿Hay alguien ahí?§"/>
+        <subtitle lang="ml" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="ne" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="co" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="sv" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="ve" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="mx" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="ni" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="me" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء وبعد ان وصل رأى جاك قلعة ضخمة  فقترب ودق الباب, دق, دق دق دق دقلا أحد هناك."/>
+        <subtitle lang="bi" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="gt" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="ht" line="Jak monte pye pwa majik la.Li monte ... li monte ... li monte ...jiskaske l rive nan syèl la. Jack wè yon gwo chato. Kow, kow, kow , kow, kow ...'Eske gen moun la?'"/>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…Lige op i himlen. Hans ser et kæmpestort slot. Banke, banke, banke, banke, banke på…”Er her nogen?”"/>
+        <subtitle lang="saa" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء وبعد ان وصل رأى جاك قلعة ضخمة  فقترب ودق الباب, دق, دق دق دق دقلا أحد هناك."/>
+        <subtitle lang="sn" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="ci" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="ec" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="ga" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="ar" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="hn" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="pa" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="es" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="lbr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまであがります。ジャックは、きょだいなしろをみつけます。コン、コン、コン、コン、コン...「だれかいませんか？」"/>
+        <subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Sjaak ziet een enorm kasteel. Klop, klop, klop, klop, klop... ‘Is daar iemand?’"/>
+        <subtitle lang="mg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="tg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="bf" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="dj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="cn" line="杰克爬上魔豆茎。 他爬… 他爬… 他爬… 一直到天空。杰克看见一个巨大的城堡。 敲，敲，敲，敲，敲… “有人吗？”"/>
+        <subtitle lang="pe" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="cu" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="pr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="cm" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!"/>
+        <subtitle lang="lba" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء وبعد ان وصل رأى جاك قلعة ضخمة  فقترب ودق الباب, دق, دق دق دق دقلا أحد هناك."/>
+        <subtitle lang="py" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?"/>
+        <subtitle lang="pt" line="João sobe o pé de feijão mágico.Ele sobe, sobe ... ... e ele sobe ...até o céu. João vê um castelo enorme.Toc, toc, toc, toc, toc ...§Tem alguém aí?§"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2388" length="563"/>
+        <highlight index="1" start="3007" length="1124"/>
+        <highlight index="2" start="4019" length="168"/>
+        <highlight index="3" start="4131" length="337"/>
+        <highlight index="4" start="4384" length="987"/>
+        <highlight index="5" start="5986" length="365"/>
+        <highlight index="6" start="6239" length="703"/>
+        <highlight index="7" start="7279" length="393"/>
+        <highlight index="8" start="7560" length="618"/>
+        <highlight index="9" start="8066" length="197"/>
+        <highlight index="10" start="8206" length="169"/>
+        <highlight index="11" start="8319" length="618"/>
+        <highlight index="12" start="9134" length="393"/>
+        <highlight index="13" start="9499" length="169"/>
+        <highlight index="14" start="9612" length="196"/>
+        <highlight index="15" start="9696" length="281"/>
+        <highlight index="16" start="9893" length="734"/>
+        <highlight index="17" start="11551" length="422"/>
+        <highlight index="18" start="11888" length="338"/>
+        <highlight index="19" start="12197" length="281"/>
+        <highlight index="20" start="12310" length="618"/>
+        <highlight index="21" start="12816" length="646"/>
+        <highlight index="22" start="14474" length="337"/>
+        <highlight index="23" start="14783" length="281"/>
+        <highlight index="24" start="14980" length="225"/>
+        <highlight index="25" start="15149" length="509"/>
+        <highlight index="26" start="15570" length="425"/>
+        <highlight index="28" start="17144" length="253"/>
+        <highlight index="29" start="17285" length="421"/>
+        <highlight index="30" start="17650" length="931"/>
+      </highlights>
+    </line>
+    <line words="Jack enters the castle. He sees some gold coins, a hen and a magic harp." start="116560" length="11207" useLNutResource="true" useStoryResource="false" image="6#3#6">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="bo" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="do" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="cd" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="in" line="जैक महल में प्रवेश करता है।उसे कुछ सोने के सिक्के दिखाई देते हैं,एक मुर्गी है और एक जादू की वीणा।"/>
+        <subtitle lang="cr" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="cl" line="Juan entra al castillo,ve algunas monedas de oro, una gallina y un arpa mágica"/>
+        <subtitle lang="ml" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="ne" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="co" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="sv" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="ve" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="mx" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="ni" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="me" line="جاك يدخل القلعة.رأى بعض القطع النقدية الذهبية،ودجاجة وقيثارة سحرية"/>
+        <subtitle lang="bi" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="gt" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="ht" line="Jack antre nan chato a.Li wè kèk pyès monnen lò,yon poul ak yon gita majik."/>
+        <subtitle lang="dk" line="Hans går ind på slottet. Han ser nogle guldmønter, en høne og en magisk harpe."/>
+        <subtitle lang="saa" line="جاك يدخل القلعة.رأى بعض القطع النقدية الذهبية،ودجاجة وقيثارة سحرية"/>
+        <subtitle lang="sn" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="ci" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="ec" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="ga" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="ar" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="hn" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="pa" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="es" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="lbr" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="ja" line="ジャックは、しろにはいります。かれは、きんかをすうまい、めんどり、まほうのハープをみつけます"/>
+        <subtitle lang="nl" line="Sjaak loopt het kasteel binnen. Hij ziet wat gouden munten, een kip en een magische harp."/>
+        <subtitle lang="mg" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="tg" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="bf" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="dj" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="cn" line="杰克进入城堡。 他看到一些金币, 一只母鸡和一个神奇的竖琴."/>
+        <subtitle lang="pe" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="cu" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="sp" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="fr" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="pr" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="cm" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique."/>
+        <subtitle lang="lba" line="جاك يدخل القلعة.رأى بعض القطع النقدية الذهبية،ودجاجة وقيثارة سحرية"/>
+        <subtitle lang="py" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica."/>
+        <subtitle lang="pt" line="João entra no castelo.Ele vê algumas moedas de ouro,uma galinha e uma harpa mágica."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2558" length="486"/>
+        <highlight index="1" start="3044" length="440"/>
+        <highlight index="2" start="3437" length="219"/>
+        <highlight index="3" start="3594" length="670"/>
+        <highlight index="4" start="4881" length="298"/>
+        <highlight index="5" start="5116" length="424"/>
+        <highlight index="6" start="5493" length="157"/>
+        <highlight index="7" start="5618" length="236"/>
+        <highlight index="8" start="5822" length="534"/>
+        <highlight index="9" start="6686" length="183"/>
+        <highlight index="10" start="6811" length="565"/>
+        <highlight index="11" start="7800" length="216"/>
+        <highlight index="12" start="7957" length="125"/>
+        <highlight index="13" start="8020" length="376"/>
+        <highlight index="14" start="8334" length="737"/>
+      </highlights>
+    </line>
+    <line words="The giant appears, the big, big big giant. Jack, hides. §I smell a boy!§ But he doesn’t find Jack." start="127504" length="14341" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bo" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="do" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="cd" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="in" line="दानव प्रकट होता है।बड़ा, बहुत बड़ा दानव।जैक, छिप जाता है। ‘मुझे एक लड़के की गंध आ रही है!'लेकिन वह जैक को ढूंढ नहीं पाता है।"/>
+        <subtitle lang="cr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="cl" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.§¡Huele a niño!§Pero no encuentra a Juan"/>
+        <subtitle lang="ml" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ne" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="co" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="sv" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="ve" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="mx" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="ni" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="me" line=" فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="bi" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="gt" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="ht" line="Jeyan an parèt.gwo, gwo gwo jeyan an.Jak, kache.'Mwen pran sant yon ti gason!'Men, li pa jwenn Jak."/>
+        <subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!” Men han finder ikke Hans."/>
+        <subtitle lang="saa" line=" فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="sn" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ci" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ec" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="ga" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ar" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="hn" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="pa" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="es" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="lbr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする！」しかし、かれはジャックをみつけられません。"/>
+        <subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. 'Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden."/>
+        <subtitle lang="mg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="tg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bf" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="dj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="cn" line="巨人出现了。 一个大，大，大的巨人。 杰克隐藏。 “我闻到一个男孩！” 但他没有找到杰克。"/>
+        <subtitle lang="pe" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="cu" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="pr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="cm" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="lba" line=" فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="py" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito."/>
+        <subtitle lang="pt" line="O gigante aparece.O gigante muito, muito, muito grande.João se esconde.§Eu cheiro um menino!§Mas ele não encontrar o João."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1584" length="184"/>
+        <highlight index="1" start="1727" length="573"/>
+        <highlight index="2" start="2218" length="777"/>
+        <highlight index="3" start="3281" length="245"/>
+        <highlight index="4" start="3465" length="588"/>
+        <highlight index="5" start="4385" length="531"/>
+        <highlight index="6" start="5243" length="573"/>
+        <highlight index="7" start="5877" length="817"/>
+        <highlight index="8" start="7185" length="327"/>
+        <highlight index="9" start="7471" length="670"/>
+        <highlight index="10" start="8432" length="347"/>
+        <highlight index="11" start="8800" length="409"/>
+        <highlight index="12" start="9168" length="200"/>
+        <highlight index="13" start="9311" length="675"/>
+        <highlight index="14" start="10967" length="184"/>
+        <highlight index="15" start="11130" length="143"/>
+        <highlight index="16" start="11192" length="388"/>
+        <highlight index="17" start="11519" length="245"/>
+        <highlight index="18" start="11723" length="813"/>
+      </highlights>
+    </line>
+    <line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Jack decides to creep in. He takes the gold coins." start="141756" length="20330" useLNutResource="true" useStoryResource="false" image="6#3#3">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="bo" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="do" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="cd" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="in" line="दानव सो जाता है।ZZZZZZZZZZZZZZZZZZZZZZZZZZZZजैक दबे पाँव अंदर घुसने का फैसला करता है।वह सोने के सिक्के ले लेता है।"/>
+        <subtitle lang="cr" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar.Toma las monedas de oro."/>
+        <subtitle lang="ml" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="ne" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="co" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="sv" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="ve" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="mx" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="ni" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="me" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه العملات الذهبية."/>
+        <subtitle lang="bi" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="gt" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="ht" line="Jeyan kouche l dòmi.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZJak pran chans pwoche an kachèt.Li pran pyès monnen lò yo."/>
+        <subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind.Han tager guldmønterne."/>
+        <subtitle lang="saa" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه العملات الذهبية."/>
+        <subtitle lang="sn" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="ci" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="ec" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="ga" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="ar" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="hn" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="pa" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="es" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="lbr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="ja" line="きょじんは、いねむりをしています。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、きんかをとります。"/>
+        <subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de gouden munten mee."/>
+        <subtitle lang="mg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="tg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="bf" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="dj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="cn" line="巨人睡着了。 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 杰克决定爬进去.  他拿起了金币."/>
+        <subtitle lang="pe" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="cu" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="sp" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="pr" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="cm" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or."/>
+        <subtitle lang="lba" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه العملات الذهبية."/>
+        <subtitle lang="py" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro."/>
+        <subtitle lang="pt" line="O gigante adormece.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ João resolve entrar em silêncioEle toma as moedas de ouro."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1964" length="256"/>
+        <highlight index="1" start="2135" length="455"/>
+        <highlight index="2" start="2477" length="455"/>
+        <highlight index="3" start="2790" length="655"/>
+        <highlight index="4" start="4185" length="10563"/>
+        <highlight index="5" start="14833" length="399"/>
+        <highlight index="6" start="15175" length="484"/>
+        <highlight index="7" start="15573" length="257"/>
+        <highlight index="8" start="15744" length="342"/>
+        <highlight index="9" start="16029" length="370"/>
+        <highlight index="10" start="17054" length="427"/>
+        <highlight index="11" start="17339" length="484"/>
+        <highlight index="12" start="17737" length="171"/>
+        <highlight index="13" start="17851" length="342"/>
+        <highlight index="14" start="18136" length="798"/>
+      </highlights>
+    </line>
+    <line words="Jack slides down the beanstalk …down… down… down. And then?" start="161861" length="7819" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="bo" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="do" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cd" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="in" line="जैक सेम की बेल से नीचे उतर जाता है ...नीचे ... नीचे ... नीचे।और फिर?"/>
+        <subtitle lang="cr" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cl" line="Juanito baja por el tallo de porotos. Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ml" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ne" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="co" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="sv" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ve" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="mx" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ni" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="me" line="جاك ينزل من على شجرة الفاصولياء...ينزلق… ينزلق…. ينزلق.وبعد ذلك؟&#x9;"/>
+        <subtitle lang="bi" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="gt" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ht" line="Jak glise desann pyebwa a ...desann ... desann ... desann.Epi apre sa?"/>
+        <subtitle lang="dk" line="Hans glider ned af bønnestagen…ned…ned…ned. Og så?"/>
+        <subtitle lang="saa" line="جاك ينزل من على شجرة الفاصولياء...ينزلق… ينزلق…. ينزلق.وبعد ذلك؟&#x9;"/>
+        <subtitle lang="sn" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ci" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ec" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ga" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ar" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="hn" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="pa" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="es" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="lbr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ja" line="ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。それから？"/>
+        <subtitle lang="nl" line="Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?"/>
+        <subtitle lang="mg" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="tg" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="bf" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="dj" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="cn" line="杰克滑下了豆茎… 下来… 下来… 下来.  然后呢？"/>
+        <subtitle lang="pe" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cu" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="sp" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="fr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="pr" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cm" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="lba" line="جاك ينزل من على شجرة الفاصولياء...ينزلق… ينزلق…. ينزلق.وبعد ذلك؟&#x9;"/>
+        <subtitle lang="py" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="pt" line="João desce do pé de feijão ...ele desce ...desce...e desce.E depois?"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2387" length="295"/>
+        <highlight index="1" start="2628" length="569"/>
+        <highlight index="2" start="3142" length="175"/>
+        <highlight index="3" start="3274" length="186"/>
+        <highlight index="4" start="3405" length="591"/>
+        <highlight index="5" start="3974" length="395"/>
+        <highlight index="6" start="4336" length="350"/>
+        <highlight index="7" start="4686" length="449"/>
+        <highlight index="8" start="5628" length="175"/>
+        <highlight index="9" start="5748" length="351"/>
+      </highlights>
+    </line>
+    <line words="Jack climbs the magic beanstalk. He climbs… he climbs… he climbs… right up to the sky. And Jack enters the castle… and he sees… the hen… and the magic harp." start="169242" length="15639" useLNutResource="true" useStoryResource="false" image="6#3#7">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="bo" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="do" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="cd" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="in" line="जैक जादू की सेम की बेल पर चढ़ता है। वह चढ़ता है ... वह चढ़ता रहता है ... और वह चढ़ता रहता है ... सीधे आकाश तक। और जैक महल में प्रवेश करता है। और वह देखता है ... मुर्गी ... और जादुई वीणा।"/>
+        <subtitle lang="cr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="cl" line="Juan trepa el tallo de porotosÉl trepa… trepa… y trepa…justo hasta el cielo. Juan entra al castillo… y ve... una gallina... y un arpa mágica"/>
+        <subtitle lang="ml" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="ne" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="co" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="sv" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="ve" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="mx" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="ni" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="me" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …دجاجة… وقيثارة سحرية"/>
+        <subtitle lang="bi" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="gt" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="ht" line="Jak monte pye pwa majik la.Li monte ... li monte ... li monte ...jiskaske l rive nan syèl la. Epi Jack antre nan chato a ...Li wè ... manman poul la ... ak gita majik la."/>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…lige op i himlen. Hans går ind på slottet…og han ser…hønen…og den magiske harpe."/>
+        <subtitle lang="saa" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …دجاجة… وقيثارة سحرية"/>
+        <subtitle lang="sn" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="ci" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="ec" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="ga" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="ar" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="hn" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="pa" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="es" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="lbr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまでのぼります。そしてジャックは、しろにはいります...そして、かれは...めんどりと...まほうのハープをみつけます。"/>
+        <subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Hij gaat het kasteel in. En ziet… de kip… en de magische harp."/>
+        <subtitle lang="mg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="tg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="bf" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="dj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="cn" line="杰克爬上魔豆茎。 他爬… 他爬… 他爬… 一直到天空。 而且杰克进入城堡… 他看到… 一只母鸡… 和一个神奇的竖琴."/>
+        <subtitle lang="pe" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="cu" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="pr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="cm" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique."/>
+        <subtitle lang="lba" line="جاك يتسلق شجرة الفاصولياء السحريةفصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …دجاجة… وقيثارة سحرية"/>
+        <subtitle lang="py" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica."/>
+        <subtitle lang="pt" line="João sobe o pé de feijão mágico.Ele sobe... ele sobe ...ele sobe ...até o céu.E João entra no castelo ...E ele vê... a galinha... e a harpa mágica."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2562" length="372"/>
+        <highlight index="1" start="2847" length="503"/>
+        <highlight index="2" start="3285" length="197"/>
+        <highlight index="3" start="3438" length="307"/>
+        <highlight index="4" start="3679" length="657"/>
+        <highlight index="5" start="4424" length="262"/>
+        <highlight index="6" start="4621" length="438"/>
+        <highlight index="7" start="4993" length="175"/>
+        <highlight index="8" start="5103" length="460"/>
+        <highlight index="9" start="5541" length="197"/>
+        <highlight index="10" start="5650" length="438"/>
+        <highlight index="11" start="6220" length="306"/>
+        <highlight index="12" start="6548" length="219"/>
+        <highlight index="13" start="6745" length="175"/>
+        <highlight index="14" start="6855" length="175"/>
+        <highlight index="15" start="6964" length="595"/>
+        <highlight index="16" start="8191" length="175"/>
+        <highlight index="17" start="8300" length="285"/>
+        <highlight index="18" start="8519" length="438"/>
+        <highlight index="19" start="8892" length="197"/>
+        <highlight index="20" start="8979" length="570"/>
+        <highlight index="21" start="9812" length="200"/>
+        <highlight index="22" start="9965" length="175"/>
+        <highlight index="23" start="10096" length="482"/>
+        <highlight index="24" start="11323" length="197"/>
+        <highlight index="25" start="11476" length="594"/>
+        <highlight index="26" start="12637" length="197"/>
+        <highlight index="27" start="12768" length="132"/>
+        <highlight index="28" start="12856" length="328"/>
+        <highlight index="29" start="13119" length="547"/>
+      </highlights>
+    </line>
+    <line words="The giant appears, the big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." start="184257" length="12772" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bo" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="do" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="cd" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="in" line="दानव प्रकट होता है।बड़ा, बहुत बड़ा दानव।जैक, छिप जाता है। ‘मुझे एक लड़के की गंध आ रही है!'लेकिन वह जैक को ढूंढ नहीं पाता है। "/>
+        <subtitle lang="cr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="cl" line="El gigante se aparece.El gran, gran, gran giganteJuan se esconde.§¡Huele a niño!§Pero no encuentra a Juan"/>
+        <subtitle lang="ml" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ne" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="co" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="sv" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="ve" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="mx" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="ni" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="me" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="bi" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="gt" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="ht" line="Jeyan a parèt.Yon gwo, gwo gwo jeyan.Jak, kache.'Mwen pran sant yon ti gason!'Men, li pa jwenn Jak."/>
+        <subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!§ Men han finder ikke Hans."/>
+        <subtitle lang="saa" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="sn" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ci" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ec" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="ga" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ar" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="hn" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="pa" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="es" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="lbr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする」しかし、かれはジャックをみつけられません。"/>
+        <subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. ‘Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden."/>
+        <subtitle lang="mg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="tg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bf" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="dj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="cn" line="巨人出现了。 一个大，大的巨人。 杰克隐藏。“我闻到一个男孩！” 但他没有找到杰克。"/>
+        <subtitle lang="pe" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="cu" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="pr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="cm" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="lba" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="py" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito"/>
+        <subtitle lang="pt" line="O gigante aparece.O gigante, muito, muito grande.João se esconde.§Eu cheiro um menino.§Mas ele não encontrar o João."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2182" length="196"/>
+        <highlight index="1" start="2307" length="358"/>
+        <highlight index="2" start="2593" length="519"/>
+        <highlight index="3" start="3058" length="197"/>
+        <highlight index="4" start="3237" length="519"/>
+        <highlight index="5" start="4167" length="358"/>
+        <highlight index="6" start="4471" length="844"/>
+        <highlight index="7" start="6278" length="286"/>
+        <highlight index="8" start="6510" length="483"/>
+        <highlight index="9" start="7476" length="394"/>
+        <highlight index="10" start="7834" length="429"/>
+        <highlight index="11" start="8192" length="200"/>
+        <highlight index="12" start="8335" length="701"/>
+        <highlight index="13" start="9784" length="178"/>
+        <highlight index="14" start="9891" length="232"/>
+        <highlight index="15" start="10052" length="411"/>
+        <highlight index="16" start="10392" length="250"/>
+        <highlight index="17" start="10571" length="411"/>
+      </highlights>
+    </line>
+    <line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Jack decides to creep in. He takes the hen." start="196728" length="16160" useLNutResource="true" useStoryResource="false" image="6#3#7">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="bo" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="do" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="cd" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="in" line="दानव सो जाता है।ZZZZZZZZZZZZZZZZZZZZZZZZZZZZजैक दबे पाँव अंदर घुसने का फैसला करता है।वह मुर्गी उठा लेता है।"/>
+        <subtitle lang="cr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrary toma la gallina."/>
+        <subtitle lang="ml" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="ne" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="co" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="sv" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="ve" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="mx" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="ni" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="me" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه الدجاجة"/>
+        <subtitle lang="bi" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="gt" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="ht" line="Jeyan kouche l dòmi.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZJak pran chans pwoche an kachèt.Li pran manman poul la."/>
+        <subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind.Han tager hønen."/>
+        <subtitle lang="saa" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه الدجاجة"/>
+        <subtitle lang="sn" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="ci" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="ec" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="ga" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="ar" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="hn" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="pa" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="es" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="lbr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="ja" line="きょじんは、いねむりをします。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、めんどりをとります。"/>
+        <subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de kip mee."/>
+        <subtitle lang="mg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="tg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="bf" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="dj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="cn" line="巨人睡着了。 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 杰克决定爬进去.  他拿起了母鸡."/>
+        <subtitle lang="pe" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="cu" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="sp" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="pr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="cm" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule."/>
+        <subtitle lang="lba" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه الدجاجة"/>
+        <subtitle lang="py" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina."/>
+        <subtitle lang="pt" line="O gigante adormece.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZJoão resolve entrar em silêncioEle toma a galinha."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2285" length="159"/>
+        <highlight index="1" start="2376" length="452"/>
+        <highlight index="2" start="2738" length="362"/>
+        <highlight index="3" start="3032" length="589"/>
+        <highlight index="4" start="4481" length="6382"/>
+        <highlight index="5" start="11609" length="453"/>
+        <highlight index="6" start="11994" length="475"/>
+        <highlight index="7" start="12402" length="181"/>
+        <highlight index="8" start="12537" length="362"/>
+        <highlight index="9" start="12786" length="294"/>
+        <highlight index="10" start="13443" length="312"/>
+        <highlight index="11" start="13669" length="407"/>
+        <highlight index="12" start="14031" length="158"/>
+        <highlight index="13" start="14122" length="475"/>
+      </highlights>
+    </line>
+    <line words="Jack slides down the beanstalk …down… down… down. And then?" start="212761" length="7559" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="bo" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="do" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cd" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="in" line="जैक सेम की बेल से नीचे उतर जाता है ...नीचे ... नीचे ... नीचे।और फिर?"/>
+        <subtitle lang="cr" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cl" line="Juan baja por el tallo de porotos.Abajo... abajo... abajo.¿Y después?"/>
+        <subtitle lang="ml" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ne" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="co" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="sv" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ve" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="mx" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ni" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="me" line="جاك ينزل من على شجرة الفاصولياءينزلق… ينزلق…. ينزلق.وبعد ذلك؟"/>
+        <subtitle lang="bi" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="gt" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ht" line="Jak glise desann pyebwa a ...li desann ... li desann ... li desann.Epi apre sa?"/>
+        <subtitle lang="dk" line="Hans glider ned af bønnestagen… ned…ned…ned. Og så?"/>
+        <subtitle lang="saa" line="جاك ينزل من على شجرة الفاصولياءينزلق… ينزلق…. ينزلق.وبعد ذلك؟"/>
+        <subtitle lang="sn" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ci" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ec" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="ga" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ar" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="hn" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="pa" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="es" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="lbr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="ja" line="ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。それから？"/>
+        <subtitle lang="nl" line="Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?"/>
+        <subtitle lang="mg" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="tg" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="bf" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="dj" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="cn" line="杰克滑下了豆茎… 下来… 下来… 下来. 然后呢？"/>
+        <subtitle lang="pe" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cu" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="sp" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="fr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="pr" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="cm" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?"/>
+        <subtitle lang="lba" line="جاك ينزل من على شجرة الفاصولياءينزلق… ينزلق…. ينزلق.وبعد ذلك؟"/>
+        <subtitle lang="py" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?"/>
+        <subtitle lang="pt" line="João desce o pé de feijão ...ele desce ... desce ... e desce.E depois?"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2106" length="244"/>
+        <highlight index="1" start="2339" length="445"/>
+        <highlight index="2" start="2752" length="296"/>
+        <highlight index="3" start="3006" length="100"/>
+        <highlight index="4" start="3069" length="604"/>
+        <highlight index="5" start="3662" length="318"/>
+        <highlight index="6" start="4033" length="370"/>
+        <highlight index="7" start="4382" length="540"/>
+        <highlight index="8" start="5314" length="243"/>
+        <highlight index="9" start="5515" length="635"/>
+      </highlights>
+    </line>
+    <line words="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle… and he sees… the magic harp." start="220142" length="15525" useLNutResource="true" useStoryResource="false" image="6#3#9">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="bo" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="do" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="cd" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="in" line="जैक जादू की सेम की बेल पर चढ़ता है। वह चढ़ता है ... वह चढ़ता रहता है ... और वह चढ़ता रहता है ... सीधे आकाश तक। और जैक महल में प्रवेश करता है। और वह देखता है... जादुई वीणा।"/>
+        <subtitle lang="cr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="cl" line="Juan trepa el tallo de porotosÉl trepa… trepa… y trepa…justo hasta el cielo.Juan entra al castillo…y ve... el arpa mágica."/>
+        <subtitle lang="ml" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="ne" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="co" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="sv" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="ve" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="mx" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="ni" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="me" line="فصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …القيثارة السحرية"/>
+        <subtitle lang="bi" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="gt" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="ht" line="Jak monte pye pwa  majik la.Li monte ... li monte ... li monte ...jiskaske l rive nan syèl la.Epi Jack antre nan chato a ...Apre sa, li wè ... gita majik la."/>
+        <subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…Lige op i himlen. Hans går ind på slottet…Og han ser… den magiske harpe."/>
+        <subtitle lang="saa" line="فصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …القيثارة السحرية"/>
+        <subtitle lang="sn" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="ci" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="ec" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="ga" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="ar" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="hn" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="pa" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="es" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="lbr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまでのぼります。そしてジャックは、しろにはいります...そして、かれは...まほうのハープをみつけます。"/>
+        <subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Hij gaat het kasteel in. En ziet… de magische harp."/>
+        <subtitle lang="mg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="tg" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="bf" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="dj" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="cn" line="杰克爬上魔豆茎。 他爬…他爬…他爬… 一直到天空。 而且杰克进入城堡…他看到… 一个神奇的竖琴."/>
+        <subtitle lang="pe" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="cu" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="pr" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="cm" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique."/>
+        <subtitle lang="lba" line="فصعد وصعد وصعد وبات فوق الشجرة وصل إلى السماء جاك دخل القلعةو رأى …القيثارة السحرية"/>
+        <subtitle lang="py" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica."/>
+        <subtitle lang="pt" line="João sobe o pé de feijão mágico.Ele sobe, sobe ... ... ... ele sobe até o céu.E João entra no castelo ...E ele vê ... a harpa mágica."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2351" length="333"/>
+        <highlight index="1" start="2621" length="624"/>
+        <highlight index="2" start="3162" length="167"/>
+        <highlight index="3" start="3266" length="354"/>
+        <highlight index="4" start="3557" length="666"/>
+        <highlight index="5" start="4494" length="249"/>
+        <highlight index="6" start="4660" length="520"/>
+        <highlight index="8" start="5160" length="208"/>
+        <highlight index="9" start="5305" length="500"/>
+        <highlight index="11" start="5805" length="187"/>
+        <highlight index="12" start="5929" length="396"/>
+        <highlight index="14" start="6533" length="395"/>
+        <highlight index="15" start="6845" length="187"/>
+        <highlight index="16" start="6949" length="229"/>
+        <highlight index="17" start="7136" length="167"/>
+        <highlight index="18" start="7240" length="637"/>
+        <highlight index="19" start="8738" length="167"/>
+        <highlight index="20" start="8863" length="271"/>
+        <highlight index="21" start="9113" length="291"/>
+        <highlight index="22" start="9362" length="167"/>
+        <highlight index="23" start="9487" length="679"/>
+        <highlight index="24" start="10528" length="229"/>
+        <highlight index="25" start="10736" length="125"/>
+        <highlight index="26" start="10840" length="491"/>
+        <highlight index="27" start="12192" length="271"/>
+        <highlight index="28" start="12400" length="437"/>
+        <highlight index="29" start="12796" length="907"/>
+      </highlights>
+    </line>
+    <line words="The giant arrives, the big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." start="236175" length="13743" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bo" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="do" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="cd" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="in" line="दानव आता है।बड़ा, बहुत बड़ा दानव।जैक, छिप जाता है। ‘मुझे एक लड़के की गंध आ रही है!'लेकिन वह जैक को ढूंढ नहीं पाता है।"/>
+        <subtitle lang="cr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="cl" line="El gigante se aparece.El gran, gran giganteJuan se esconde.§¡Huele a niño!§Pero no encuentra a Juan"/>
+        <subtitle lang="ml" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ne" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="co" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="sv" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="ve" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="mx" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="ni" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="me" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="bi" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="gt" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="ht" line="Jeyan a parèt.Yon gwo gwo gwo jeyan.Jak, kache.'Mwen pran sant yon ti gason!'Men, li pa jwenn Jak."/>
+        <subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!” Men han finder ikke Hans."/>
+        <subtitle lang="saa" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="sn" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ci" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ec" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="ga" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ar" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="hn" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="pa" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="es" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="lbr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする」しかし、かれはジャックをみつけられません。"/>
+        <subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. ‘Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden."/>
+        <subtitle lang="mg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="tg" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="bf" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="dj" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="cn" line="巨人出现了。 一个大，大的巨人。 杰克隐藏。 “我闻到一个男孩！” 但他没有找到杰克。"/>
+        <subtitle lang="pe" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="cu" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="pr" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="cm" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques."/>
+        <subtitle lang="lba" line="فوصل العملاق.العملاق الكبير الكبيرو اختبأ جاكفي! فاي! فو! فوم!اني اشم راحة طفلولكن لم يجد جاك"/>
+        <subtitle lang="py" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito."/>
+        <subtitle lang="pt" line="O gigante aparece.O gigante, muito, muito grande.João se esconde.§Eu cheiro um menino. 'Mas ele não encontrar João."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2164" length="178"/>
+        <highlight index="1" start="2307" length="357"/>
+        <highlight index="2" start="2611" length="572"/>
+        <highlight index="3" start="3380" length="197"/>
+        <highlight index="4" start="3523" length="572"/>
+        <highlight index="5" start="4256" length="340"/>
+        <highlight index="6" start="4632" length="572"/>
+        <highlight index="7" start="5687" length="361"/>
+        <highlight index="8" start="5955" length="612"/>
+        <highlight index="9" start="7332" length="376"/>
+        <highlight index="10" start="7654" length="394"/>
+        <highlight index="11" start="8012" length="200"/>
+        <highlight index="12" start="8155" length="590"/>
+        <highlight index="13" start="9479" length="196"/>
+        <highlight index="14" start="9604" length="179"/>
+        <highlight index="15" start="9747" length="322"/>
+        <highlight index="16" start="10015" length="304"/>
+        <highlight index="17" start="10266" length="518"/>
+      </highlights>
+    </line>
+    <line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in and he takes the magic harp." start="249409" length="14614" useLNutResource="true" useStoryResource="false" image="6#3#9">
+      <subtitles>
+        <subtitle lang="bj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="bo" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="do" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="cd" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="in" line="दानव सो जाता है।ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ जैक दबे पाँव अंदर घुसने का फैसला करता है।वह जादुई वीणा उठा लेता है।"/>
+        <subtitle lang="cr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="cl" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuan decide entrar y toma el arpa mágica."/>
+        <subtitle lang="ml" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="ne" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="co" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="sv" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="ve" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="mx" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="ni" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="me" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه القيثارة السحرية"/>
+        <subtitle lang="bi" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="gt" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="ht" line="Jeyan kouche l dòmi.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZJak deside pran chans pwoche and kachètLi pran gita majik  la."/>
+        <subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind. Han tager den magiske harpe."/>
+        <subtitle lang="saa" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه القيثارة السحرية"/>
+        <subtitle lang="sn" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="ci" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="ec" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="ga" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="ar" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="hn" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="pa" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="es" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="lbr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="ja" line="きょじんは、いねむりをしています。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、まほうのハープをとります。"/>
+        <subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de magische harp mee."/>
+        <subtitle lang="mg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="tg" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="bf" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="dj" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="cn" line="巨人睡着了。 ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ 杰克决定爬进去.  他拿起了神奇的竖琴."/>
+        <subtitle lang="pe" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="cu" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="sp" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="pr" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="cm" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique."/>
+        <subtitle lang="lba" line="العملاق ينام.ززززززززززززززززززجاك يزحف الى الداخل.اخذه القيثارة السحرية"/>
+        <subtitle lang="py" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica."/>
+        <subtitle lang="pt" line="O gigante adormece.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZJoão resolve entrar em silêncioEle toma a harpa mágica."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1281" length="151"/>
+        <highlight index="1" start="1411" length="409"/>
+        <highlight index="2" start="1734" length="301"/>
+        <highlight index="3" start="1971" length="673"/>
+        <highlight index="4" start="3370" length="5277"/>
+        <highlight index="5" start="9659" length="366"/>
+        <highlight index="6" start="9961" length="473"/>
+        <highlight index="7" start="10370" length="172"/>
+        <highlight index="8" start="10499" length="345"/>
+        <highlight index="9" start="10822" length="237"/>
+        <highlight index="10" start="11339" length="194"/>
+        <highlight index="11" start="11402" length="271"/>
+        <highlight index="12" start="11548" length="463"/>
+        <highlight index="13" start="11965" length="268"/>
+        <highlight index="14" start="12090" length="438"/>
+        <highlight index="15" start="12444" length="542"/>
+      </highlights>
+    </line>
+    <line words="And this is the end of the story. But the giant wakes up. The giant chases Jack. Jack slides down the beanstalk… down… down… and down. But the giant is coming after him." start="264170" length="13553" useLNutResource="true" useStoryResource="false" image="6#4#4">
+      <subtitles>
+        <subtitle lang="bj" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="bo" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="do" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="cd" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="in" line="और यह कहानी का अंत है।लेकिन दानव जाग जाता है।दानव जैक का पीछा करता है।जैक सेम की बेल से नीचे उतर जाता है ...नीचे ... नीचे ... और नीचे।लेकिन दानव उसके पीछे आ रहा होता है।"/>
+        <subtitle lang="cr" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="cl" line="Y este es el final de la historia.Pero el gigante se despierta. El gigante persigue a Juan.Baja por el tallo de porotos…abajo... abajo... abajo.Pero el gigante viene tras de él."/>
+        <subtitle lang="ml" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="ne" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="co" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="sv" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="ve" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="mx" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="ni" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="me" line="فاستيقظ العملاق فرأى جاك يجري.بالقيثار .. جرى جاك بأقصى سرعته .. وهرع وراءه العملاق.جاك ينزل من على شجرة الفاصولياءوهبط وهبط وهبط حتى صار قريبا جدا من بيتهولكن العملاق وراءه."/>
+        <subtitle lang="bi" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="gt" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="ht" line="E sa konsa istwa a fini.Men, jeyan reveye.Li kouri dèyè Jak.Jak glise desann pye pwa a ...li desann ... li desann ... li desann.Men, jeyan swiv misye'."/>
+        <subtitle lang="dk" line="Og det er slutningen på historien. Men kæmpen vågner op.Kæmpen jagter Hans. Hans glider ned af bønnestagen…ned…ned…og ned. Men kæmpen kommer efter ham."/>
+        <subtitle lang="saa" line="فاستيقظ العملاق فرأى جاك يجري.بالقيثار .. جرى جاك بأقصى سرعته .. وهرع وراءه العملاق.جاك ينزل من على شجرة الفاصولياءوهبط وهبط وهبط حتى صار قريبا جدا من بيتهولكن العملاق وراءه."/>
+        <subtitle lang="sn" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="ci" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="ec" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="ga" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="ar" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="hn" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="pa" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="es" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="lbr" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="ja" line="そして、これがものがたりのおわりです。しかし、きょじんは、めをさまします。きょじんはジャックをおいかけます。ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。しかし、きょじんは、かれをおいかけてきます。"/>
+        <subtitle lang="nl" line="En dit is het einde van het verhaal…Maar de reus wordt wakker! De reus achtervolgt Sjaak! Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?"/>
+        <subtitle lang="mg" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="tg" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="bf" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="dj" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="cn" line="这是故事的结尾。 但巨人醒了。 巨人追逐杰克.杰克滑下了豆茎… 下来… 下来… 下来.但巨人跟着他。"/>
+        <subtitle lang="pe" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="cu" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="sp" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="fr" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="pr" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="cm" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!"/>
+        <subtitle lang="lba" line="فاستيقظ العملاق فرأى جاك يجري.بالقيثار .. جرى جاك بأقصى سرعته .. وهرع وراءه العملاق.جاك ينزل من على شجرة الفاصولياءوهبط وهبط وهبط حتى صار قريبا جدا من بيتهولكن العملاق وراءه."/>
+        <subtitle lang="py" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él."/>
+        <subtitle lang="pt" line="E este é o fim da história.Mas o gigante acorda.O gigante persegue o João.João desce o pé de feijão ...ele desce ... desce ... e desce.Mas o gigante está vindo atrás dele."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1822" length="208"/>
+        <highlight index="1" start="1973" length="171"/>
+        <highlight index="2" start="2106" length="171"/>
+        <highlight index="3" start="2201" length="209"/>
+        <highlight index="4" start="2353" length="190"/>
+        <highlight index="5" start="2505" length="209"/>
+        <highlight index="6" start="2657" length="152"/>
+        <highlight index="7" start="2771" length="455"/>
+        <highlight index="8" start="3872" length="284"/>
+        <highlight index="9" start="4099" length="190"/>
+        <highlight index="10" start="4232" length="323"/>
+        <highlight index="11" start="4517" length="285"/>
+        <highlight index="12" start="4802" length="303"/>
+        <highlight index="13" start="5542" length="247"/>
+        <highlight index="14" start="5751" length="379"/>
+        <highlight index="15" start="6073" length="437"/>
+        <highlight index="16" start="6491" length="341"/>
+        <highlight index="17" start="7136" length="228"/>
+        <highlight index="18" start="7326" length="474"/>
+        <highlight index="19" start="7725" length="265"/>
+        <highlight index="20" start="7990" length="100"/>
+        <highlight index="21" start="8028" length="475"/>
+        <highlight index="22" start="8465" length="360"/>
+        <highlight index="23" start="8787" length="342"/>
+        <highlight index="24" start="9091" length="200"/>
+        <highlight index="25" start="9186" length="342"/>
+        <highlight index="26" start="9812" length="190"/>
+        <highlight index="27" start="10021" length="133"/>
+        <highlight index="28" start="10116" length="304"/>
+        <highlight index="29" start="10382" length="209"/>
+        <highlight index="30" start="10553" length="341"/>
+        <highlight index="31" start="10818" length="475"/>
+        <highlight index="32" start="11255" length="493"/>
+      </highlights>
+    </line>
+    <line words="Jack looks for an axe. Quick! Quick! Jack chops down the beanstalk. Quick! Quick! Crash!... The giant falls… Crash!" start="277404" length="13554" useLNutResource="true" useStoryResource="false" image="6#4#5">
+      <subtitles>
+        <subtitle lang="bj" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="bo" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="do" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="cd" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="in" line="जैक एक कुल्हाड़ी की तलाश करता है।जल्दी! जल्दी!जैक सेम की बेल को काट देता है। जल्दी! जल्दी!धड़ाम! ... दानव गिर जाता है... धड़ाम!"/>
+        <subtitle lang="cr" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="cl" line="Juan busca un hacha.¡Rápido!, ¡Rápido!Tala el tallo de porotos.¡Rápido!, ¡Rápido!¡Crash!...el gigante cae… ¡Crash!"/>
+        <subtitle lang="ml" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="ne" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="co" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="sv" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="ve" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="mx" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="ni" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="me" line="جاك يبحث عن فأس.§بسرعة! بسرعة! 'لكن جاك قفز للأسفل وتناول الفأس وبدأ يضرب الشجرة ليقطعها إلى جزأين ... §بسرعة! بسرعة! 'فسقط العملاق وتحطم ... وتساقطت فوقه شجرة الفاصوليا!"/>
+        <subtitle lang="bi" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="gt" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="ht" line="Jak al chache yon rach.vit! vit!Jack koupe pye pwa a.vit! vit!Boum! ... Jeyan an tonbe ... boum!"/>
+        <subtitle lang="dk" line="Hans kigger efter en økse. Hurtigt! Hurtigt! Hans fælder bønnestagen. Hurtigt! Hurtigt! Bang…Kæmpen falder…bang!"/>
+        <subtitle lang="saa" line="جاك يبحث عن فأس.§بسرعة! بسرعة! 'لكن جاك قفز للأسفل وتناول الفأس وبدأ يضرب الشجرة ليقطعها إلى جزأين ... §بسرعة! بسرعة! 'فسقط العملاق وتحطم ... وتساقطت فوقه شجرة الفاصوليا!"/>
+        <subtitle lang="sn" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="ci" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="ec" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="ga" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="ar" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="hn" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="pa" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="es" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="lbr" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="ja" line="ジャックは、おのをさがします。はやく！はやく！ジャックは、まめのきをきりたおします。はやく！はやく！ぼきっ！...きょじんは、おちます...どすん！"/>
+        <subtitle lang="nl" line="Sjaak zoekt een bijl. Vlug! Vlug! Sjaak hakt de bonenstaak door. Vlug! Vlug! Boem! … De reus valt. Plof!"/>
+        <subtitle lang="mg" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="tg" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="bf" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="dj" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="cn" line="杰克寻找一把斧头。 快！ 快！ 杰克砍豆茎.快！ 快！ 摔!  巨人摔!下来。 摔!"/>
+        <subtitle lang="pe" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="cu" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="sp" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="fr" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="pr" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="cm" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!"/>
+        <subtitle lang="lba" line="جاك يبحث عن فأس.§بسرعة! بسرعة! 'لكن جاك قفز للأسفل وتناول الفأس وبدأ يضرب الشجرة ليقطعها إلى جزأين ... §بسرعة! بسرعة! 'فسقط العملاق وتحطم ... وتساقطت فوقه شجرة الفاصوليا!"/>
+        <subtitle lang="py" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!"/>
+        <subtitle lang="pt" line="João procura um machado.Rápido! Rápido!João derruba o pé de feijão.Rápido! Rápido!Bum! ... O gigante cai ... Bum!"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2012" length="284"/>
+        <highlight index="1" start="2220" length="361"/>
+        <highlight index="2" start="2543" length="228"/>
+        <highlight index="3" start="2714" length="171"/>
+        <highlight index="4" start="2866" length="398"/>
+        <highlight index="5" start="3397" length="342"/>
+        <highlight index="6" start="4138" length="360"/>
+        <highlight index="7" start="4669" length="342"/>
+        <highlight index="8" start="5295" length="399"/>
+        <highlight index="9" start="5656" length="342"/>
+        <highlight index="10" start="5960" length="171"/>
+        <highlight index="11" start="6055" length="702"/>
+        <highlight index="12" start="6662" length="399"/>
+        <highlight index="13" start="7118" length="379"/>
+        <highlight index="14" start="7953" length="731"/>
+        <highlight index="15" start="9168" length="190"/>
+        <highlight index="16" start="9320" length="303"/>
+        <highlight index="17" start="9585" length="694"/>
+        <highlight index="18" start="10459" length="1016"/>
+      </highlights>
+    </line>
+    <line words="And that’s the end of the giant." start="290893" length="6108" useLNutResource="true" useStoryResource="false" image="6#3#2">
+      <subtitles>
+        <subtitle lang="bj" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="bo" line="Y éste es el final del gigante. "/>
+        <subtitle lang="do" line="Y éste es el final del gigante. "/>
+        <subtitle lang="cd" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="in" line="और इस तरह दानव का अंत होता है।"/>
+        <subtitle lang="cr" line="Y éste es el final del gigante. "/>
+        <subtitle lang="cl" line="Y éste es el final del gigante."/>
+        <subtitle lang="ml" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="ne" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="co" line="Y éste es el final del gigante. "/>
+        <subtitle lang="sv" line="Y éste es el final del gigante. "/>
+        <subtitle lang="ve" line="Y éste es el final del gigante. "/>
+        <subtitle lang="mx" line="Y éste es el final del gigante. "/>
+        <subtitle lang="ni" line="Y éste es el final del gigante. "/>
+        <subtitle lang="me" line="وهذه هي نهاية العملاق.وهذه هي نهاية القصة.النهاية"/>
+        <subtitle lang="bi" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="gt" line="Y éste es el final del gigante. "/>
+        <subtitle lang="ht" line="Epi se te dènye jou jeyan an."/>
+        <subtitle lang="dk" line="Og så er det slut med den kæmpe."/>
+        <subtitle lang="saa" line="وهذه هي نهاية العملاق.وهذه هي نهاية القصة.النهاية"/>
+        <subtitle lang="sn" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="ci" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="ec" line="Y éste es el final del gigante. "/>
+        <subtitle lang="ga" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="ar" line="Y éste es el final del gigante. "/>
+        <subtitle lang="hn" line="Y éste es el final del gigante. "/>
+        <subtitle lang="pa" line="Y éste es el final del gigante. "/>
+        <subtitle lang="es" line="Y éste es el final del gigante. "/>
+        <subtitle lang="lbr" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="ja" line="そして、これがきょじんのさいごです。"/>
+        <subtitle lang="nl" line="En dat is het einde van de reus."/>
+        <subtitle lang="mg" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="tg" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="bf" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="dj" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="cn" line="而这就是巨人的结尾."/>
+        <subtitle lang="pe" line="Y éste es el final del gigante. "/>
+        <subtitle lang="cu" line="Y éste es el final del gigante. "/>
+        <subtitle lang="sp" line="Y éste es el final del gigante. "/>
+        <subtitle lang="fr" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="pr" line="Y éste es el final del gigante. "/>
+        <subtitle lang="cm" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire."/>
+        <subtitle lang="lba" line="وهذه هي نهاية العملاق.وهذه هي نهاية القصة.النهاية"/>
+        <subtitle lang="py" line="Y éste es el final del gigante. "/>
+        <subtitle lang="pt" line="E isso é o fim do gigante."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1596" length="163"/>
+        <highlight index="1" start="1749" length="266"/>
+        <highlight index="2" start="1995" length="143"/>
+        <highlight index="3" start="2097" length="470"/>
+        <highlight index="4" start="2638" length="174"/>
+        <highlight index="5" start="2802" length="143"/>
+        <highlight index="6" start="2904" length="920"/>
+      </highlights>
+    </line>
+    <line words="The End" start="296492" length="3054" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="dk" line="Slut"/>
+        <subtitle lang="cl" line="FIN"/>
+        <subtitle lang="nl" line="EInde"/>
+      </subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

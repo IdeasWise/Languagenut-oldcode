@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<karaoke length="122279">
+	<lines>
+		<line words="Januar, Februar" start="4612" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Enero, Febrero"/>
+				<subtitle lang="fr" line="Janvier, Février"/>
+				<subtitle lang="dk" line="Januar, Februar"/>
+				<subtitle lang="nl" line="Januari, Februari"/>
+				<subtitle lang="nz" line="January February"/>
+				<subtitle lang="en" line="January February"/>
+				<subtitle lang="us" line="January February"/><subtitle lang="au" line="January February"/><subtitle lang="bz" line="January February"/><subtitle lang="jm" line="January February"/><subtitle lang="tt" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ag" line="January February"/><subtitle lang="dm" line="January February"/><subtitle lang="vc" line="January February"/><subtitle lang="bs" line="January February"/><subtitle lang="ca" line="January February"/><subtitle lang="bd" line="January February"/><subtitle lang="bw" line="January February"/><subtitle lang="fj" line="January February"/><subtitle lang="gm" line="January February"/><subtitle lang="gh" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ke" line="January February"/><subtitle lang="mt" line="January February"/><subtitle lang="mu" line="January February"/><subtitle lang="na" line="January February"/><subtitle lang="ng" line="January February"/><subtitle lang="pk" line="January February"/><subtitle lang="rw" line="January February"/><subtitle lang="ws" line="January February"/><subtitle lang="sl" line="January February"/><subtitle lang="sg" line="January February"/><subtitle lang="sb" line="January February"/><subtitle lang="za" line="January February"/><subtitle lang="tz" line="January February"/><subtitle lang="to" line="January February"/><subtitle lang="ug" line="January February"/><subtitle lang="vu" line="January February"/><subtitle lang="zm" line="January February"/><subtitle lang="zw" line="January February"/><subtitle lang="sco" line="January February"/>
+				<subtitle lang="cl" line="Enero, Febrero"/><subtitle lang="es" line="Enero, Febrero"/><subtitle lang="co" line="Enero, Febrero"/><subtitle lang="gt" line="Enero, Febrero"/><subtitle lang="pe" line="Enero, Febrero"/><subtitle lang="ni" line="Enero, Febrero"/><subtitle lang="do" line="Enero, Febrero"/><subtitle lang="bo" line="Enero, Febrero"/><subtitle lang="ve" line="Enero, Febrero"/><subtitle lang="ar" line="Enero, Febrero"/><subtitle lang="cu" line="Enero, Febrero"/><subtitle lang="pr" line="Enero, Febrero"/><subtitle lang="py" line="Enero, Febrero"/><subtitle lang="ec" line="Enero, Febrero"/><subtitle lang="hn" line="Enero, Febrero"/><subtitle lang="sv" line="Enero, Febrero"/><subtitle lang="cr" line="Enero, Febrero"/><subtitle lang="pa" line="Enero, Febrero"/><subtitle lang="mx" line="Enero, Febrero"/>
+				<subtitle lang="ae" line="January February"/>
+				<subtitle lang="ine" line="January February"/>
+			</subtitles>
+		</line>
+		<line words="März, April" start="8047" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Marzo, Abril"/>
+				<subtitle lang="fr" line="Mars, Avril"/>
+				<subtitle lang="dk" line="Marts, April"/>
+				<subtitle lang="nl" line="Maart, April "/>
+				<subtitle lang="nz" line="March April"/>
+				<subtitle lang="en" line="March April"/>
+				<subtitle lang="us" line="March April"/><subtitle lang="au" line="March April"/><subtitle lang="bz" line="March April"/><subtitle lang="jm" line="March April"/><subtitle lang="tt" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ag" line="March April"/><subtitle lang="dm" line="March April"/><subtitle lang="vc" line="March April"/><subtitle lang="bs" line="March April"/><subtitle lang="ca" line="March April"/><subtitle lang="bd" line="March April"/><subtitle lang="bw" line="March April"/><subtitle lang="fj" line="March April"/><subtitle lang="gm" line="March April"/><subtitle lang="gh" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ke" line="March April"/><subtitle lang="mt" line="March April"/><subtitle lang="mu" line="March April"/><subtitle lang="na" line="March April"/><subtitle lang="ng" line="March April"/><subtitle lang="pk" line="March April"/><subtitle lang="rw" line="March April"/><subtitle lang="ws" line="March April"/><subtitle lang="sl" line="March April"/><subtitle lang="sg" line="March April"/><subtitle lang="sb" line="March April"/><subtitle lang="za" line="March April"/><subtitle lang="tz" line="March April"/><subtitle lang="to" line="March April"/><subtitle lang="ug" line="March April"/><subtitle lang="vu" line="March April"/><subtitle lang="zm" line="March April"/><subtitle lang="zw" line="March April"/><subtitle lang="sco" line="March April"/>
+				<subtitle lang="cl" line="Marzo, Abril"/><subtitle lang="es" line="Marzo, Abril"/><subtitle lang="co" line="Marzo, Abril"/><subtitle lang="gt" line="Marzo, Abril"/><subtitle lang="pe" line="Marzo, Abril"/><subtitle lang="ni" line="Marzo, Abril"/><subtitle lang="do" line="Marzo, Abril"/><subtitle lang="bo" line="Marzo, Abril"/><subtitle lang="ve" line="Marzo, Abril"/><subtitle lang="ar" line="Marzo, Abril"/><subtitle lang="cu" line="Marzo, Abril"/><subtitle lang="pr" line="Marzo, Abril"/><subtitle lang="py" line="Marzo, Abril"/><subtitle lang="ec" line="Marzo, Abril"/><subtitle lang="hn" line="Marzo, Abril"/><subtitle lang="sv" line="Marzo, Abril"/><subtitle lang="cr" line="Marzo, Abril"/><subtitle lang="pa" line="Marzo, Abril"/><subtitle lang="mx" line="Marzo, Abril"/>
+				<subtitle lang="ae" line="March April"/>
+				<subtitle lang="ine" line="March April"/>
+			</subtitles>
+		</line>
+		<line words="Mai, Juni" start="11482" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Mayo, Junio"/>
+				<subtitle lang="nl" line="Mei, Juni"/>
+				<subtitle lang="fr" line="Mai, Juin"/>
+				<subtitle lang="en" line="May June"/>
+				<subtitle lang="dk" line="Maj, Juni"/>
+				<subtitle lang="nz" line="May June"/>
+				<subtitle lang="us" line="May June"/><subtitle lang="au" line="May June"/><subtitle lang="bz" line="May June"/><subtitle lang="jm" line="May June"/><subtitle lang="tt" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ag" line="May June"/><subtitle lang="dm" line="May June"/><subtitle lang="vc" line="May June"/><subtitle lang="bs" line="May June"/><subtitle lang="ca" line="May June"/><subtitle lang="bd" line="May June"/><subtitle lang="bw" line="May June"/><subtitle lang="fj" line="May June"/><subtitle lang="gm" line="May June"/><subtitle lang="gh" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ke" line="May June"/><subtitle lang="mt" line="May June"/><subtitle lang="mu" line="May June"/><subtitle lang="na" line="May June"/><subtitle lang="ng" line="May June"/><subtitle lang="pk" line="May June"/><subtitle lang="rw" line="May June"/><subtitle lang="ws" line="May June"/><subtitle lang="sl" line="May June"/><subtitle lang="sg" line="May June"/><subtitle lang="sb" line="May June"/><subtitle lang="za" line="May June"/><subtitle lang="tz" line="May June"/><subtitle lang="to" line="May June"/><subtitle lang="ug" line="May June"/><subtitle lang="vu" line="May June"/><subtitle lang="zm" line="May June"/><subtitle lang="zw" line="May June"/><subtitle lang="sco" line="May June"/>
+				<subtitle lang="cl" line="Mayo, Junio"/><subtitle lang="es" line="Mayo, Junio"/><subtitle lang="co" line="Mayo, Junio"/><subtitle lang="gt" line="Mayo, Junio"/><subtitle lang="pe" line="Mayo, Junio"/><subtitle lang="ni" line="Mayo, Junio"/><subtitle lang="do" line="Mayo, Junio"/><subtitle lang="bo" line="Mayo, Junio"/><subtitle lang="ve" line="Mayo, Junio"/><subtitle lang="ar" line="Mayo, Junio"/><subtitle lang="cu" line="Mayo, Junio"/><subtitle lang="pr" line="Mayo, Junio"/><subtitle lang="py" line="Mayo, Junio"/><subtitle lang="ec" line="Mayo, Junio"/><subtitle lang="hn" line="Mayo, Junio"/><subtitle lang="sv" line="Mayo, Junio"/><subtitle lang="cr" line="Mayo, Junio"/><subtitle lang="pa" line="Mayo, Junio"/><subtitle lang="mx" line="Mayo, Junio"/>
+				<subtitle lang="ae" line="May June"/>
+				<subtitle lang="ine" line="May June"/>
+			</subtitles>
+		</line>
+		<line words="Juli, August" start="14720" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Julio, Agosto"/>
+				<subtitle lang="nl" line="Juli ,Augustus"/>
+				<subtitle lang="fr" line="Juillet, Août"/>
+				<subtitle lang="en" line="July August"/>
+				<subtitle lang="dk" line="Juli, August"/>
+				<subtitle lang="nz" line="July August"/>
+				<subtitle lang="us" line="July August"/><subtitle lang="au" line="July August"/><subtitle lang="bz" line="July August"/><subtitle lang="jm" line="July August"/><subtitle lang="tt" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ag" line="July August"/><subtitle lang="dm" line="July August"/><subtitle lang="vc" line="July August"/><subtitle lang="bs" line="July August"/><subtitle lang="ca" line="July August"/><subtitle lang="bd" line="July August"/><subtitle lang="bw" line="July August"/><subtitle lang="fj" line="July August"/><subtitle lang="gm" line="July August"/><subtitle lang="gh" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ke" line="July August"/><subtitle lang="mt" line="July August"/><subtitle lang="mu" line="July August"/><subtitle lang="na" line="July August"/><subtitle lang="ng" line="July August"/><subtitle lang="pk" line="July August"/><subtitle lang="rw" line="July August"/><subtitle lang="ws" line="July August"/><subtitle lang="sl" line="July August"/><subtitle lang="sg" line="July August"/><subtitle lang="sb" line="July August"/><subtitle lang="za" line="July August"/><subtitle lang="tz" line="July August"/><subtitle lang="to" line="July August"/><subtitle lang="ug" line="July August"/><subtitle lang="vu" line="July August"/><subtitle lang="zm" line="July August"/><subtitle lang="zw" line="July August"/><subtitle lang="sco" line="July August"/>
+				<subtitle lang="cl" line="Julio, Agosto"/><subtitle lang="es" line="Julio, Agosto"/><subtitle lang="co" line="Julio, Agosto"/><subtitle lang="gt" line="Julio, Agosto"/><subtitle lang="pe" line="Julio, Agosto"/><subtitle lang="ni" line="Julio, Agosto"/><subtitle lang="do" line="Julio, Agosto"/><subtitle lang="bo" line="Julio, Agosto"/><subtitle lang="ve" line="Julio, Agosto"/><subtitle lang="ar" line="Julio, Agosto"/><subtitle lang="cu" line="Julio, Agosto"/><subtitle lang="pr" line="Julio, Agosto"/><subtitle lang="py" line="Julio, Agosto"/><subtitle lang="ec" line="Julio, Agosto"/><subtitle lang="hn" line="Julio, Agosto"/><subtitle lang="sv" line="Julio, Agosto"/><subtitle lang="cr" line="Julio, Agosto"/><subtitle lang="pa" line="Julio, Agosto"/><subtitle lang="mx" line="Julio, Agosto"/>
+				<subtitle lang="ae" line="July August"/>
+				<subtitle lang="ine" line="July August"/>
+			</subtitles>
+		</line>
+		<line words="September, Oktober" start="18351" length="3481">
+			<highlight index="0" start="337" length="954"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Septiembre, Octubre"/>
+				<subtitle lang="fr" line="Septembre, Octobre"/>
+				<subtitle lang="dk" line="September, Oktober"/>
+				<subtitle lang="nl" line="September, Oktober "/>
+				<subtitle lang="nz" line="September October"/>
+				<subtitle lang="en" line="September October"/>
+				<subtitle lang="us" line="September October"/><subtitle lang="au" line="September October"/><subtitle lang="bz" line="September October"/><subtitle lang="jm" line="September October"/><subtitle lang="tt" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ag" line="September October"/><subtitle lang="dm" line="September October"/><subtitle lang="vc" line="September October"/><subtitle lang="bs" line="September October"/><subtitle lang="ca" line="September October"/><subtitle lang="bd" line="September October"/><subtitle lang="bw" line="September October"/><subtitle lang="fj" line="September October"/><subtitle lang="gm" line="September October"/><subtitle lang="gh" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ke" line="September October"/><subtitle lang="mt" line="September October"/><subtitle lang="mu" line="September October"/><subtitle lang="na" line="September October"/><subtitle lang="ng" line="September October"/><subtitle lang="pk" line="September October"/><subtitle lang="rw" line="September October"/><subtitle lang="ws" line="September October"/><subtitle lang="sl" line="September October"/><subtitle lang="sg" line="September October"/><subtitle lang="sb" line="September October"/><subtitle lang="za" line="September October"/><subtitle lang="tz" line="September October"/><subtitle lang="to" line="September October"/><subtitle lang="ug" line="September October"/><subtitle lang="vu" line="September October"/><subtitle lang="zm" line="September October"/><subtitle lang="zw" line="September October"/><subtitle lang="sco" line="September October"/>
+				<subtitle lang="cl" line="Septiembre, Octubre"/><subtitle lang="es" line="Septiembre, Octubre"/><subtitle lang="co" line="Septiembre, Octubre"/><subtitle lang="gt" line="Septiembre, Octubre"/><subtitle lang="pe" line="Septiembre, Octubre"/><subtitle lang="ni" line="Septiembre, Octubre"/><subtitle lang="do" line="Septiembre, Octubre"/><subtitle lang="bo" line="Septiembre, Octubre"/><subtitle lang="ve" line="Septiembre, Octubre"/><subtitle lang="ar" line="Septiembre, Octubre"/><subtitle lang="cu" line="Septiembre, Octubre"/><subtitle lang="pr" line="Septiembre, Octubre"/><subtitle lang="py" line="Septiembre, Octubre"/><subtitle lang="ec" line="Septiembre, Octubre"/><subtitle lang="hn" line="Septiembre, Octubre"/><subtitle lang="sv" line="Septiembre, Octubre"/><subtitle lang="cr" line="Septiembre, Octubre"/><subtitle lang="pa" line="Septiembre, Octubre"/><subtitle lang="mx" line="Septiembre, Octubre"/>
+				<subtitle lang="ae" line="September October"/>
+				<subtitle lang="ine" line="September October"/>
+			</subtitles>
+		</line>
+		<line words="November, Dezember" start="21884" length="3481">
+			<highlight index="0" start="337" length="954"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Noviembre, Diciembre"/>
+				<subtitle lang="nl" line="November, December"/>
+				<subtitle lang="fr" line="November, December"/>
+				<subtitle lang="en" line="November December"/>
+				<subtitle lang="dk" line="November, December"/>
+				<subtitle lang="nz" line="November December"/>
+				<subtitle lang="us" line="November December"/><subtitle lang="au" line="November December"/><subtitle lang="bz" line="November December"/><subtitle lang="jm" line="November December"/><subtitle lang="tt" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ag" line="November December"/><subtitle lang="dm" line="November December"/><subtitle lang="vc" line="November December"/><subtitle lang="bs" line="November December"/><subtitle lang="ca" line="November December"/><subtitle lang="bd" line="November December"/><subtitle lang="bw" line="November December"/><subtitle lang="fj" line="November December"/><subtitle lang="gm" line="November December"/><subtitle lang="gh" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ke" line="November December"/><subtitle lang="mt" line="November December"/><subtitle lang="mu" line="November December"/><subtitle lang="na" line="November December"/><subtitle lang="ng" line="November December"/><subtitle lang="pk" line="November December"/><subtitle lang="rw" line="November December"/><subtitle lang="ws" line="November December"/><subtitle lang="sl" line="November December"/><subtitle lang="sg" line="November December"/><subtitle lang="sb" line="November December"/><subtitle lang="za" line="November December"/><subtitle lang="tz" line="November December"/><subtitle lang="to" line="November December"/><subtitle lang="ug" line="November December"/><subtitle lang="vu" line="November December"/><subtitle lang="zm" line="November December"/><subtitle lang="zw" line="November December"/><subtitle lang="sco" line="November December"/>
+				<subtitle lang="cl" line="Noviembre, Diciembre"/><subtitle lang="es" line="Noviembre, Diciembre"/><subtitle lang="co" line="Noviembre, Diciembre"/><subtitle lang="gt" line="Noviembre, Diciembre"/><subtitle lang="pe" line="Noviembre, Diciembre"/><subtitle lang="ni" line="Noviembre, Diciembre"/><subtitle lang="do" line="Noviembre, Diciembre"/><subtitle lang="bo" line="Noviembre, Diciembre"/><subtitle lang="ve" line="Noviembre, Diciembre"/><subtitle lang="ar" line="Noviembre, Diciembre"/><subtitle lang="cu" line="Noviembre, Diciembre"/><subtitle lang="pr" line="Noviembre, Diciembre"/><subtitle lang="py" line="Noviembre, Diciembre"/><subtitle lang="ec" line="Noviembre, Diciembre"/><subtitle lang="hn" line="Noviembre, Diciembre"/><subtitle lang="sv" line="Noviembre, Diciembre"/><subtitle lang="cr" line="Noviembre, Diciembre"/><subtitle lang="pa" line="Noviembre, Diciembre"/><subtitle lang="mx" line="Noviembre, Diciembre"/>
+				<subtitle lang="ae" line="November December"/>
+				<subtitle lang="ine" line="November December"/>
+			</subtitles>
+		</line>
+		<line words="Im Winter... war es kalt" start="25417" length="4000">
+			<highlight index="0" start="479" length="200"/>
+			<highlight index="1" start="665" length="737"/>
+			<highlight index="2" start="1785" length="332"/>
+			<highlight index="3" start="2093" length="196"/>
+			<highlight index="4" start="2274" length="671"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="en" line="In winter it was cold"/>
+				<subtitle lang="nl" line="In de winter was het koud"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="us" line="In winter it was cold"/><subtitle lang="au" line="In winter it was cold"/><subtitle lang="bz" line="In winter it was cold"/><subtitle lang="jm" line="In winter it was cold"/><subtitle lang="tt" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ag" line="In winter it was cold"/><subtitle lang="dm" line="In winter it was cold"/><subtitle lang="vc" line="In winter it was cold"/><subtitle lang="bs" line="In winter it was cold"/><subtitle lang="ca" line="In winter it was cold"/><subtitle lang="bd" line="In winter it was cold"/><subtitle lang="bw" line="In winter it was cold"/><subtitle lang="fj" line="In winter it was cold"/><subtitle lang="gm" line="In winter it was cold"/><subtitle lang="gh" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ke" line="In winter it was cold"/><subtitle lang="mt" line="In winter it was cold"/><subtitle lang="mu" line="In winter it was cold"/><subtitle lang="na" line="In winter it was cold"/><subtitle lang="ng" line="In winter it was cold"/><subtitle lang="pk" line="In winter it was cold"/><subtitle lang="rw" line="In winter it was cold"/><subtitle lang="ws" line="In winter it was cold"/><subtitle lang="sl" line="In winter it was cold"/><subtitle lang="sg" line="In winter it was cold"/><subtitle lang="sb" line="In winter it was cold"/><subtitle lang="za" line="In winter it was cold"/><subtitle lang="tz" line="In winter it was cold"/><subtitle lang="to" line="In winter it was cold"/><subtitle lang="ug" line="In winter it was cold"/><subtitle lang="vu" line="In winter it was cold"/><subtitle lang="zm" line="In winter it was cold"/><subtitle lang="zw" line="In winter it was cold"/><subtitle lang="sco" line="In winter it was cold"/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="In winter it was cold"/>
+				<subtitle lang="ine" line="In winter it was cold"/>
+			</subtitles>
+		</line>
+		<line words="Im Frühling... war es windig" start="28950" length="3239">
+			<highlight index="0" start="262" length="434"/>
+			<highlight index="1" start="670" length="449"/>
+			<highlight index="2" start="1724" length="350"/>
+			<highlight index="3" start="2050" length="264"/>
+			<highlight index="4" start="2287" length="651"/>
+			<subtitles>
+				<subtitle lang="sp" line="En primavera hacía viento"/>
+				<subtitle lang="en" line="In spring it was it was windy"/>
+				<subtitle lang="nl" line="In de lente waaide het "/>
+				<subtitle lang="dk" line="Sidste forår var det blæsende"/>
+				<subtitle lang="nz" line="In spring it was it was windy"/>
+				<subtitle lang="us" line="In spring it was it was windy"/><subtitle lang="au" line="In spring it was it was windy"/><subtitle lang="bz" line="In spring it was it was windy"/><subtitle lang="jm" line="In spring it was it was windy"/><subtitle lang="tt" line="In spring it was it was windy"/><subtitle lang="gy" line="In spring it was it was windy"/><subtitle lang="ag" line="In spring it was it was windy"/><subtitle lang="dm" line="In spring it was it was windy"/><subtitle lang="vc" line="In spring it was it was windy"/><subtitle lang="bs" line="In spring it was it was windy"/><subtitle lang="ca" line="In spring it was it was windy"/><subtitle lang="bd" line="In spring it was it was windy"/><subtitle lang="bw" line="In spring it was it was windy"/><subtitle lang="fj" line="In spring it was it was windy"/><subtitle lang="gm" line="In spring it was it was windy"/><subtitle lang="gh" line="In spring it was it was windy"/><subtitle lang="gy" line="In spring it was it was windy"/><subtitle lang="ke" line="In spring it was it was windy"/><subtitle lang="mt" line="In spring it was it was windy"/><subtitle lang="mu" line="In spring it was it was windy"/><subtitle lang="na" line="In spring it was it was windy"/><subtitle lang="ng" line="In spring it was it was windy"/><subtitle lang="pk" line="In spring it was it was windy"/><subtitle lang="rw" line="In spring it was it was windy"/><subtitle lang="ws" line="In spring it was it was windy"/><subtitle lang="sl" line="In spring it was it was windy"/><subtitle lang="sg" line="In spring it was it was windy"/><subtitle lang="sb" line="In spring it was it was windy"/><subtitle lang="za" line="In spring it was it was windy"/><subtitle lang="tz" line="In spring it was it was windy"/><subtitle lang="to" line="In spring it was it was windy"/><subtitle lang="ug" line="In spring it was it was windy"/><subtitle lang="vu" line="In spring it was it was windy"/><subtitle lang="zm" line="In spring it was it was windy"/><subtitle lang="zw" line="In spring it was it was windy"/><subtitle lang="sco" line="In spring it was it was windy"/>
+				<subtitle lang="cl" line="En primavera hacía viento"/><subtitle lang="es" line="En primavera hacía viento"/><subtitle lang="co" line="En primavera hacía viento"/><subtitle lang="gt" line="En primavera hacía viento"/><subtitle lang="pe" line="En primavera hacía viento"/><subtitle lang="ni" line="En primavera hacía viento"/><subtitle lang="do" line="En primavera hacía viento"/><subtitle lang="bo" line="En primavera hacía viento"/><subtitle lang="ve" line="En primavera hacía viento"/><subtitle lang="ar" line="En primavera hacía viento"/><subtitle lang="cu" line="En primavera hacía viento"/><subtitle lang="pr" line="En primavera hacía viento"/><subtitle lang="py" line="En primavera hacía viento"/><subtitle lang="ec" line="En primavera hacía viento"/><subtitle lang="hn" line="En primavera hacía viento"/><subtitle lang="sv" line="En primavera hacía viento"/><subtitle lang="cr" line="En primavera hacía viento"/><subtitle lang="pa" line="En primavera hacía viento"/><subtitle lang="mx" line="En primavera hacía viento"/>
+				<subtitle lang="ae" line="In spring it was it was windy"/>
+				<subtitle lang="ine" line="In spring it was it was windy"/>
+			</subtitles>
+		</line>
+		<line words="Im Sommer... war es heiss" start="32189" length="4000">
+			<highlight index="0" start="262" length="434"/>
+			<highlight index="1" start="670" length="449"/>
+			<highlight index="2" start="1724" length="413"/>
+			<highlight index="3" start="2108" length="348"/>
+			<highlight index="4" start="2426" length="651"/>
+			<subtitles>
+				<subtitle lang="sp" line="En verano hacía calor"/>
+				<subtitle lang="nl" line="In de zomer was het warm"/>
+				<subtitle lang="fr" line="En été, il faisait chaud"/>
+				<subtitle lang="en" line="In summer it was hot"/>
+				<subtitle lang="dk" line="Sidste sommer var det varmt"/>
+				<subtitle lang="nz" line="In summer it was hot"/>
+				<subtitle lang="us" line="In summer it was hot"/><subtitle lang="au" line="In summer it was hot"/><subtitle lang="bz" line="In summer it was hot"/><subtitle lang="jm" line="In summer it was hot"/><subtitle lang="tt" line="In summer it was hot"/><subtitle lang="gy" line="In summer it was hot"/><subtitle lang="ag" line="In summer it was hot"/><subtitle lang="dm" line="In summer it was hot"/><subtitle lang="vc" line="In summer it was hot"/><subtitle lang="bs" line="In summer it was hot"/><subtitle lang="ca" line="In summer it was hot"/><subtitle lang="bd" line="In summer it was hot"/><subtitle lang="bw" line="In summer it was hot"/><subtitle lang="fj" line="In summer it was hot"/><subtitle lang="gm" line="In summer it was hot"/><subtitle lang="gh" line="In summer it was hot"/><subtitle lang="gy" line="In summer it was hot"/><subtitle lang="ke" line="In summer it was hot"/><subtitle lang="mt" line="In summer it was hot"/><subtitle lang="mu" line="In summer it was hot"/><subtitle lang="na" line="In summer it was hot"/><subtitle lang="ng" line="In summer it was hot"/><subtitle lang="pk" line="In summer it was hot"/><subtitle lang="rw" line="In summer it was hot"/><subtitle lang="ws" line="In summer it was hot"/><subtitle lang="sl" line="In summer it was hot"/><subtitle lang="sg" line="In summer it was hot"/><subtitle lang="sb" line="In summer it was hot"/><subtitle lang="za" line="In summer it was hot"/><subtitle lang="tz" line="In summer it was hot"/><subtitle lang="to" line="In summer it was hot"/><subtitle lang="ug" line="In summer it was hot"/><subtitle lang="vu" line="In summer it was hot"/><subtitle lang="zm" line="In summer it was hot"/><subtitle lang="zw" line="In summer it was hot"/><subtitle lang="sco" line="In summer it was hot"/>
+				<subtitle lang="cl" line="En verano hacía calor"/><subtitle lang="es" line="En verano hacía calor"/><subtitle lang="co" line="En verano hacía calor"/><subtitle lang="gt" line="En verano hacía calor"/><subtitle lang="pe" line="En verano hacía calor"/><subtitle lang="ni" line="En verano hacía calor"/><subtitle lang="do" line="En verano hacía calor"/><subtitle lang="bo" line="En verano hacía calor"/><subtitle lang="ve" line="En verano hacía calor"/><subtitle lang="ar" line="En verano hacía calor"/><subtitle lang="cu" line="En verano hacía calor"/><subtitle lang="pr" line="En verano hacía calor"/><subtitle lang="py" line="En verano hacía calor"/><subtitle lang="ec" line="En verano hacía calor"/><subtitle lang="hn" line="En verano hacía calor"/><subtitle lang="sv" line="En verano hacía calor"/><subtitle lang="cr" line="En verano hacía calor"/><subtitle lang="pa" line="En verano hacía calor"/><subtitle lang="mx" line="En verano hacía calor"/>
+				<subtitle lang="ae" line="In summer it was hot"/>
+				<subtitle lang="ine" line="In summer it was hot"/>
+			</subtitles>
+		</line>
+		<line words="Im Herbst war schlechtes Wetter" start="35500" length="4000">
+			<highlight index="0" start="226" length="419"/>
+			<highlight index="1" start="630" length="439"/>
+			<highlight index="2" start="1054" length="534"/>
+			<highlight index="3" start="1825" length="823"/>
+			<highlight index="4" start="2627" length="742"/>
+			<highlight index="4" start="3369" length="200"/>
+			<subtitles>
+				<subtitle lang="sp" line="En Otoño hacía mal tiempo"/>
+				<subtitle lang="nl" line="In de herfst was het slecht "/>
+				<subtitle lang="fr" line="Dans le temps d'automne a été mauvaise"/>
+				<subtitle lang="en" line="In autumn it was bad weather"/>
+				<subtitle lang="dk" line="Sidste efterår var det dårligt vejr"/>
+				<subtitle lang="nz" line="In autumn it was bad weather"/>
+				<subtitle lang="us" line="In autumn it was bad weather"/><subtitle lang="au" line="In autumn it was bad weather"/><subtitle lang="bz" line="In autumn it was bad weather"/><subtitle lang="jm" line="In autumn it was bad weather"/><subtitle lang="tt" line="In autumn it was bad weather"/><subtitle lang="gy" line="In autumn it was bad weather"/><subtitle lang="ag" line="In autumn it was bad weather"/><subtitle lang="dm" line="In autumn it was bad weather"/><subtitle lang="vc" line="In autumn it was bad weather"/><subtitle lang="bs" line="In autumn it was bad weather"/><subtitle lang="ca" line="In autumn it was bad weather"/><subtitle lang="bd" line="In autumn it was bad weather"/><subtitle lang="bw" line="In autumn it was bad weather"/><subtitle lang="fj" line="In autumn it was bad weather"/><subtitle lang="gm" line="In autumn it was bad weather"/><subtitle lang="gh" line="In autumn it was bad weather"/><subtitle lang="gy" line="In autumn it was bad weather"/><subtitle lang="ke" line="In autumn it was bad weather"/><subtitle lang="mt" line="In autumn it was bad weather"/><subtitle lang="mu" line="In autumn it was bad weather"/><subtitle lang="na" line="In autumn it was bad weather"/><subtitle lang="ng" line="In autumn it was bad weather"/><subtitle lang="pk" line="In autumn it was bad weather"/><subtitle lang="rw" line="In autumn it was bad weather"/><subtitle lang="ws" line="In autumn it was bad weather"/><subtitle lang="sl" line="In autumn it was bad weather"/><subtitle lang="sg" line="In autumn it was bad weather"/><subtitle lang="sb" line="In autumn it was bad weather"/><subtitle lang="za" line="In autumn it was bad weather"/><subtitle lang="tz" line="In autumn it was bad weather"/><subtitle lang="to" line="In autumn it was bad weather"/><subtitle lang="ug" line="In autumn it was bad weather"/><subtitle lang="vu" line="In autumn it was bad weather"/><subtitle lang="zm" line="In autumn it was bad weather"/><subtitle lang="zw" line="In autumn it was bad weather"/><subtitle lang="sco" line="In autumn it was bad weather"/>
+				<subtitle lang="cl" line="En Otoño hacía mal tiempo"/><subtitle lang="es" line="En Otoño hacía mal tiempo"/><subtitle lang="co" line="En Otoño hacía mal tiempo"/><subtitle lang="gt" line="En Otoño hacía mal tiempo"/><subtitle lang="pe" line="En Otoño hacía mal tiempo"/><subtitle lang="ni" line="En Otoño hacía mal tiempo"/><subtitle lang="do" line="En Otoño hacía mal tiempo"/><subtitle lang="bo" line="En Otoño hacía mal tiempo"/><subtitle lang="ve" line="En Otoño hacía mal tiempo"/><subtitle lang="ar" line="En Otoño hacía mal tiempo"/><subtitle lang="cu" line="En Otoño hacía mal tiempo"/><subtitle lang="pr" line="En Otoño hacía mal tiempo"/><subtitle lang="py" line="En Otoño hacía mal tiempo"/><subtitle lang="ec" line="En Otoño hacía mal tiempo"/><subtitle lang="hn" line="En Otoño hacía mal tiempo"/><subtitle lang="sv" line="En Otoño hacía mal tiempo"/><subtitle lang="cr" line="En Otoño hacía mal tiempo"/><subtitle lang="pa" line="En Otoño hacía mal tiempo"/><subtitle lang="mx" line="En Otoño hacía mal tiempo"/>
+				<subtitle lang="ae" line="In autumn it was bad weather"/>
+				<subtitle lang="ine" line="In autumn it was bad weather"/>
+			</subtitles>
+		</line>
+		<line words="Januar, Februar" start="39353" length="1472">
+			<highlight index="0" start="168" length="671"/>
+			<highlight index="1" start="833" length="606"/>
+			<subtitles>
+				<subtitle lang="sp" line="Enero, Febrero"/>
+				<subtitle lang="nl" line="Januari, Februari"/>
+				<subtitle lang="fr" line="Janvier, Février"/>
+				<subtitle lang="en" line="January February"/>
+				<subtitle lang="dk" line="Januar, Februar"/>
+				<subtitle lang="nz" line="January February"/>
+				<subtitle lang="us" line="January February"/><subtitle lang="au" line="January February"/><subtitle lang="bz" line="January February"/><subtitle lang="jm" line="January February"/><subtitle lang="tt" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ag" line="January February"/><subtitle lang="dm" line="January February"/><subtitle lang="vc" line="January February"/><subtitle lang="bs" line="January February"/><subtitle lang="ca" line="January February"/><subtitle lang="bd" line="January February"/><subtitle lang="bw" line="January February"/><subtitle lang="fj" line="January February"/><subtitle lang="gm" line="January February"/><subtitle lang="gh" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ke" line="January February"/><subtitle lang="mt" line="January February"/><subtitle lang="mu" line="January February"/><subtitle lang="na" line="January February"/><subtitle lang="ng" line="January February"/><subtitle lang="pk" line="January February"/><subtitle lang="rw" line="January February"/><subtitle lang="ws" line="January February"/><subtitle lang="sl" line="January February"/><subtitle lang="sg" line="January February"/><subtitle lang="sb" line="January February"/><subtitle lang="za" line="January February"/><subtitle lang="tz" line="January February"/><subtitle lang="to" line="January February"/><subtitle lang="ug" line="January February"/><subtitle lang="vu" line="January February"/><subtitle lang="zm" line="January February"/><subtitle lang="zw" line="January February"/><subtitle lang="sco" line="January February"/>
+				<subtitle lang="cl" line="Enero, Febrero"/><subtitle lang="es" line="Enero, Febrero"/><subtitle lang="co" line="Enero, Febrero"/><subtitle lang="gt" line="Enero, Febrero"/><subtitle lang="pe" line="Enero, Febrero"/><subtitle lang="ni" line="Enero, Febrero"/><subtitle lang="do" line="Enero, Febrero"/><subtitle lang="bo" line="Enero, Febrero"/><subtitle lang="ve" line="Enero, Febrero"/><subtitle lang="ar" line="Enero, Febrero"/><subtitle lang="cu" line="Enero, Febrero"/><subtitle lang="pr" line="Enero, Febrero"/><subtitle lang="py" line="Enero, Febrero"/><subtitle lang="ec" line="Enero, Febrero"/><subtitle lang="hn" line="Enero, Febrero"/><subtitle lang="sv" line="Enero, Febrero"/><subtitle lang="cr" line="Enero, Febrero"/><subtitle lang="pa" line="Enero, Febrero"/><subtitle lang="mx" line="Enero, Febrero"/>
+				<subtitle lang="ae" line="January February"/>
+				<subtitle lang="ine" line="January February"/>
+			</subtitles>
+		</line>
+		<line words="März, April" start="40628" length="1865">
+			<highlight index="0" start="487" length="704"/>
+			<highlight index="1" start="1182" length="671"/>
+			<subtitles>
+				<subtitle lang="sp" line="Marzo, Abril"/>
+				<subtitle lang="fr" line="Mars, Avril"/>
+				<subtitle lang="dk" line="Marts, April"/>
+				<subtitle lang="nl" line="Maart, April "/>
+				<subtitle lang="nz" line="March April"/>
+				<subtitle lang="en" line="March April"/>
+				<subtitle lang="us" line="March April"/><subtitle lang="au" line="March April"/><subtitle lang="bz" line="March April"/><subtitle lang="jm" line="March April"/><subtitle lang="tt" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ag" line="March April"/><subtitle lang="dm" line="March April"/><subtitle lang="vc" line="March April"/><subtitle lang="bs" line="March April"/><subtitle lang="ca" line="March April"/><subtitle lang="bd" line="March April"/><subtitle lang="bw" line="March April"/><subtitle lang="fj" line="March April"/><subtitle lang="gm" line="March April"/><subtitle lang="gh" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ke" line="March April"/><subtitle lang="mt" line="March April"/><subtitle lang="mu" line="March April"/><subtitle lang="na" line="March April"/><subtitle lang="ng" line="March April"/><subtitle lang="pk" line="March April"/><subtitle lang="rw" line="March April"/><subtitle lang="ws" line="March April"/><subtitle lang="sl" line="March April"/><subtitle lang="sg" line="March April"/><subtitle lang="sb" line="March April"/><subtitle lang="za" line="March April"/><subtitle lang="tz" line="March April"/><subtitle lang="to" line="March April"/><subtitle lang="ug" line="March April"/><subtitle lang="vu" line="March April"/><subtitle lang="zm" line="March April"/><subtitle lang="zw" line="March April"/><subtitle lang="sco" line="March April"/>
+				<subtitle lang="cl" line="Marzo, Abril"/><subtitle lang="es" line="Marzo, Abril"/><subtitle lang="co" line="Marzo, Abril"/><subtitle lang="gt" line="Marzo, Abril"/><subtitle lang="pe" line="Marzo, Abril"/><subtitle lang="ni" line="Marzo, Abril"/><subtitle lang="do" line="Marzo, Abril"/><subtitle lang="bo" line="Marzo, Abril"/><subtitle lang="ve" line="Marzo, Abril"/><subtitle lang="ar" line="Marzo, Abril"/><subtitle lang="cu" line="Marzo, Abril"/><subtitle lang="pr" line="Marzo, Abril"/><subtitle lang="py" line="Marzo, Abril"/><subtitle lang="ec" line="Marzo, Abril"/><subtitle lang="hn" line="Marzo, Abril"/><subtitle lang="sv" line="Marzo, Abril"/><subtitle lang="cr" line="Marzo, Abril"/><subtitle lang="pa" line="Marzo, Abril"/><subtitle lang="mx" line="Marzo, Abril"/>
+				<subtitle lang="ae" line="March April"/>
+				<subtitle lang="ine" line="March April"/>
+			</subtitles>
+		</line>
+		<line words="Mai, Juni" start="42493" length="1668">
+			<highlight index="0" start="291" length="736"/>
+			<highlight index="1" start="1016" length="635"/>
+			<subtitles>
+				<subtitle lang="sp" line="Mayo, Junio"/>
+				<subtitle lang="fr" line="Mai, Juin"/>
+				<subtitle lang="dk" line="Maj, Juni"/>
+				<subtitle lang="nl" line="Mei, Juni"/>
+				<subtitle lang="nz" line="May June"/>
+				<subtitle lang="en" line="May June"/>
+				<subtitle lang="us" line="May June"/><subtitle lang="au" line="May June"/><subtitle lang="bz" line="May June"/><subtitle lang="jm" line="May June"/><subtitle lang="tt" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ag" line="May June"/><subtitle lang="dm" line="May June"/><subtitle lang="vc" line="May June"/><subtitle lang="bs" line="May June"/><subtitle lang="ca" line="May June"/><subtitle lang="bd" line="May June"/><subtitle lang="bw" line="May June"/><subtitle lang="fj" line="May June"/><subtitle lang="gm" line="May June"/><subtitle lang="gh" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ke" line="May June"/><subtitle lang="mt" line="May June"/><subtitle lang="mu" line="May June"/><subtitle lang="na" line="May June"/><subtitle lang="ng" line="May June"/><subtitle lang="pk" line="May June"/><subtitle lang="rw" line="May June"/><subtitle lang="ws" line="May June"/><subtitle lang="sl" line="May June"/><subtitle lang="sg" line="May June"/><subtitle lang="sb" line="May June"/><subtitle lang="za" line="May June"/><subtitle lang="tz" line="May June"/><subtitle lang="to" line="May June"/><subtitle lang="ug" line="May June"/><subtitle lang="vu" line="May June"/><subtitle lang="zm" line="May June"/><subtitle lang="zw" line="May June"/><subtitle lang="sco" line="May June"/>
+				<subtitle lang="cl" line="Mayo, Junio"/><subtitle lang="es" line="Mayo, Junio"/><subtitle lang="co" line="Mayo, Junio"/><subtitle lang="gt" line="Mayo, Junio"/><subtitle lang="pe" line="Mayo, Junio"/><subtitle lang="ni" line="Mayo, Junio"/><subtitle lang="do" line="Mayo, Junio"/><subtitle lang="bo" line="Mayo, Junio"/><subtitle lang="ve" line="Mayo, Junio"/><subtitle lang="ar" line="Mayo, Junio"/><subtitle lang="cu" line="Mayo, Junio"/><subtitle lang="pr" line="Mayo, Junio"/><subtitle lang="py" line="Mayo, Junio"/><subtitle lang="ec" line="Mayo, Junio"/><subtitle lang="hn" line="Mayo, Junio"/><subtitle lang="sv" line="Mayo, Junio"/><subtitle lang="cr" line="Mayo, Junio"/><subtitle lang="pa" line="Mayo, Junio"/><subtitle lang="mx" line="Mayo, Junio"/>
+				<subtitle lang="ae" line="May June"/>
+				<subtitle lang="ine" line="May June"/>
+			</subtitles>
+		</line>
+		<line words="Juli, August" start="44259" length="1472">
+			<highlight index="0" start="51" length="778"/>
+			<highlight index="1" start="819" length="628"/>
+			<subtitles>
+				<subtitle lang="sp" line="Julio, Agosto"/>
+				<subtitle lang="fr" line="Juillet, Août"/>
+				<subtitle lang="dk" line="Juli, August"/>
+				<subtitle lang="nl" line="Juli, Augustus"/>
+				<subtitle lang="nz" line="July August"/>
+				<subtitle lang="en" line="July August"/>
+				<subtitle lang="us" line="July August"/><subtitle lang="au" line="July August"/><subtitle lang="bz" line="July August"/><subtitle lang="jm" line="July August"/><subtitle lang="tt" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ag" line="July August"/><subtitle lang="dm" line="July August"/><subtitle lang="vc" line="July August"/><subtitle lang="bs" line="July August"/><subtitle lang="ca" line="July August"/><subtitle lang="bd" line="July August"/><subtitle lang="bw" line="July August"/><subtitle lang="fj" line="July August"/><subtitle lang="gm" line="July August"/><subtitle lang="gh" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ke" line="July August"/><subtitle lang="mt" line="July August"/><subtitle lang="mu" line="July August"/><subtitle lang="na" line="July August"/><subtitle lang="ng" line="July August"/><subtitle lang="pk" line="July August"/><subtitle lang="rw" line="July August"/><subtitle lang="ws" line="July August"/><subtitle lang="sl" line="July August"/><subtitle lang="sg" line="July August"/><subtitle lang="sb" line="July August"/><subtitle lang="za" line="July August"/><subtitle lang="tz" line="July August"/><subtitle lang="to" line="July August"/><subtitle lang="ug" line="July August"/><subtitle lang="vu" line="July August"/><subtitle lang="zm" line="July August"/><subtitle lang="zw" line="July August"/><subtitle lang="sco" line="July August"/>
+				<subtitle lang="cl" line="Julio, Agosto"/><subtitle lang="es" line="Julio, Agosto"/><subtitle lang="co" line="Julio, Agosto"/><subtitle lang="gt" line="Julio, Agosto"/><subtitle lang="pe" line="Julio, Agosto"/><subtitle lang="ni" line="Julio, Agosto"/><subtitle lang="do" line="Julio, Agosto"/><subtitle lang="bo" line="Julio, Agosto"/><subtitle lang="ve" line="Julio, Agosto"/><subtitle lang="ar" line="Julio, Agosto"/><subtitle lang="cu" line="Julio, Agosto"/><subtitle lang="pr" line="Julio, Agosto"/><subtitle lang="py" line="Julio, Agosto"/><subtitle lang="ec" line="Julio, Agosto"/><subtitle lang="hn" line="Julio, Agosto"/><subtitle lang="sv" line="Julio, Agosto"/><subtitle lang="cr" line="Julio, Agosto"/><subtitle lang="pa" line="Julio, Agosto"/><subtitle lang="mx" line="Julio, Agosto"/>
+				<subtitle lang="ae" line="July August"/>
+				<subtitle lang="ine" line="July August"/>
+			</subtitles>
+		</line>
+		<line words="September, Oktober" start="45437" length="2355">
+			<highlight index="0" start="585" length="622"/>
+			<highlight index="1" start="1490" length="683"/>
+			<subtitles>
+				<subtitle lang="sp" line="Septiembre, Octubre"/>
+				<subtitle lang="fr" line="Septembre, Octobre"/>
+				<subtitle lang="dk" line="September, Oktober"/>
+				<subtitle lang="nl" line="September, Oktober "/>
+				<subtitle lang="nz" line="September October"/>
+				<subtitle lang="en" line="September October"/>
+				<subtitle lang="us" line="September October"/><subtitle lang="au" line="September October"/><subtitle lang="bz" line="September October"/><subtitle lang="jm" line="September October"/><subtitle lang="tt" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ag" line="September October"/><subtitle lang="dm" line="September October"/><subtitle lang="vc" line="September October"/><subtitle lang="bs" line="September October"/><subtitle lang="ca" line="September October"/><subtitle lang="bd" line="September October"/><subtitle lang="bw" line="September October"/><subtitle lang="fj" line="September October"/><subtitle lang="gm" line="September October"/><subtitle lang="gh" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ke" line="September October"/><subtitle lang="mt" line="September October"/><subtitle lang="mu" line="September October"/><subtitle lang="na" line="September October"/><subtitle lang="ng" line="September October"/><subtitle lang="pk" line="September October"/><subtitle lang="rw" line="September October"/><subtitle lang="ws" line="September October"/><subtitle lang="sl" line="September October"/><subtitle lang="sg" line="September October"/><subtitle lang="sb" line="September October"/><subtitle lang="za" line="September October"/><subtitle lang="tz" line="September October"/><subtitle lang="to" line="September October"/><subtitle lang="ug" line="September October"/><subtitle lang="vu" line="September October"/><subtitle lang="zm" line="September October"/><subtitle lang="zw" line="September October"/><subtitle lang="sco" line="September October"/>
+				<subtitle lang="cl" line="Septiembre, Octubre"/><subtitle lang="es" line="Septiembre, Octubre"/><subtitle lang="co" line="Septiembre, Octubre"/><subtitle lang="gt" line="Septiembre, Octubre"/><subtitle lang="pe" line="Septiembre, Octubre"/><subtitle lang="ni" line="Septiembre, Octubre"/><subtitle lang="do" line="Septiembre, Octubre"/><subtitle lang="bo" line="Septiembre, Octubre"/><subtitle lang="ve" line="Septiembre, Octubre"/><subtitle lang="ar" line="Septiembre, Octubre"/><subtitle lang="cu" line="Septiembre, Octubre"/><subtitle lang="pr" line="Septiembre, Octubre"/><subtitle lang="py" line="Septiembre, Octubre"/><subtitle lang="ec" line="Septiembre, Octubre"/><subtitle lang="hn" line="Septiembre, Octubre"/><subtitle lang="sv" line="Septiembre, Octubre"/><subtitle lang="cr" line="Septiembre, Octubre"/><subtitle lang="pa" line="Septiembre, Octubre"/><subtitle lang="mx" line="Septiembre, Octubre"/>
+				<subtitle lang="ae" line="September October"/>
+				<subtitle lang="ine" line="September October"/>
+			</subtitles>
+		</line>
+		<line words="November, Dezember" start="47596" length="2159">
+			<highlight index="0" start="291" length="632"/>
+			<highlight index="1" start="922" length="738"/>
+			<subtitles>
+				<subtitle lang="sp" line="Noviembre, Diciembre"/>
+				<subtitle lang="fr" line="November, December"/>
+				<subtitle lang="dk" line="November, December"/>
+				<subtitle lang="nl" line="November, December"/>
+				<subtitle lang="nz" line="November December"/>
+				<subtitle lang="en" line="November December"/>
+				<subtitle lang="us" line="November December"/><subtitle lang="au" line="November December"/><subtitle lang="bz" line="November December"/><subtitle lang="jm" line="November December"/><subtitle lang="tt" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ag" line="November December"/><subtitle lang="dm" line="November December"/><subtitle lang="vc" line="November December"/><subtitle lang="bs" line="November December"/><subtitle lang="ca" line="November December"/><subtitle lang="bd" line="November December"/><subtitle lang="bw" line="November December"/><subtitle lang="fj" line="November December"/><subtitle lang="gm" line="November December"/><subtitle lang="gh" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ke" line="November December"/><subtitle lang="mt" line="November December"/><subtitle lang="mu" line="November December"/><subtitle lang="na" line="November December"/><subtitle lang="ng" line="November December"/><subtitle lang="pk" line="November December"/><subtitle lang="rw" line="November December"/><subtitle lang="ws" line="November December"/><subtitle lang="sl" line="November December"/><subtitle lang="sg" line="November December"/><subtitle lang="sb" line="November December"/><subtitle lang="za" line="November December"/><subtitle lang="tz" line="November December"/><subtitle lang="to" line="November December"/><subtitle lang="ug" line="November December"/><subtitle lang="vu" line="November December"/><subtitle lang="zm" line="November December"/><subtitle lang="zw" line="November December"/><subtitle lang="sco" line="November December"/>
+				<subtitle lang="cl" line="Noviembre, Diciembre"/><subtitle lang="es" line="Noviembre, Diciembre"/><subtitle lang="co" line="Noviembre, Diciembre"/><subtitle lang="gt" line="Noviembre, Diciembre"/><subtitle lang="pe" line="Noviembre, Diciembre"/><subtitle lang="ni" line="Noviembre, Diciembre"/><subtitle lang="do" line="Noviembre, Diciembre"/><subtitle lang="bo" line="Noviembre, Diciembre"/><subtitle lang="ve" line="Noviembre, Diciembre"/><subtitle lang="ar" line="Noviembre, Diciembre"/><subtitle lang="cu" line="Noviembre, Diciembre"/><subtitle lang="pr" line="Noviembre, Diciembre"/><subtitle lang="py" line="Noviembre, Diciembre"/><subtitle lang="ec" line="Noviembre, Diciembre"/><subtitle lang="hn" line="Noviembre, Diciembre"/><subtitle lang="sv" line="Noviembre, Diciembre"/><subtitle lang="cr" line="Noviembre, Diciembre"/><subtitle lang="pa" line="Noviembre, Diciembre"/><subtitle lang="mx" line="Noviembre, Diciembre"/>
+				<subtitle lang="ae" line="November December"/>
+				<subtitle lang="ine" line="November December"/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="49363" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="51031" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="52797" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="54466" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Januar, Februar" start="59373" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Enero, Febrero"/>
+				<subtitle lang="nl" line="Januari, Februari"/>
+				<subtitle lang="fr" line="Janvier, Février"/>
+				<subtitle lang="en" line="January February"/>
+				<subtitle lang="dk" line="Januar, Februar"/>
+				<subtitle lang="nz" line="January February"/>
+				<subtitle lang="us" line="January February"/><subtitle lang="au" line="January February"/><subtitle lang="bz" line="January February"/><subtitle lang="jm" line="January February"/><subtitle lang="tt" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ag" line="January February"/><subtitle lang="dm" line="January February"/><subtitle lang="vc" line="January February"/><subtitle lang="bs" line="January February"/><subtitle lang="ca" line="January February"/><subtitle lang="bd" line="January February"/><subtitle lang="bw" line="January February"/><subtitle lang="fj" line="January February"/><subtitle lang="gm" line="January February"/><subtitle lang="gh" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ke" line="January February"/><subtitle lang="mt" line="January February"/><subtitle lang="mu" line="January February"/><subtitle lang="na" line="January February"/><subtitle lang="ng" line="January February"/><subtitle lang="pk" line="January February"/><subtitle lang="rw" line="January February"/><subtitle lang="ws" line="January February"/><subtitle lang="sl" line="January February"/><subtitle lang="sg" line="January February"/><subtitle lang="sb" line="January February"/><subtitle lang="za" line="January February"/><subtitle lang="tz" line="January February"/><subtitle lang="to" line="January February"/><subtitle lang="ug" line="January February"/><subtitle lang="vu" line="January February"/><subtitle lang="zm" line="January February"/><subtitle lang="zw" line="January February"/><subtitle lang="sco" line="January February"/>
+				<subtitle lang="cl" line="Enero, Febrero"/><subtitle lang="es" line="Enero, Febrero"/><subtitle lang="co" line="Enero, Febrero"/><subtitle lang="gt" line="Enero, Febrero"/><subtitle lang="pe" line="Enero, Febrero"/><subtitle lang="ni" line="Enero, Febrero"/><subtitle lang="do" line="Enero, Febrero"/><subtitle lang="bo" line="Enero, Febrero"/><subtitle lang="ve" line="Enero, Febrero"/><subtitle lang="ar" line="Enero, Febrero"/><subtitle lang="cu" line="Enero, Febrero"/><subtitle lang="pr" line="Enero, Febrero"/><subtitle lang="py" line="Enero, Febrero"/><subtitle lang="ec" line="Enero, Febrero"/><subtitle lang="hn" line="Enero, Febrero"/><subtitle lang="sv" line="Enero, Febrero"/><subtitle lang="cr" line="Enero, Febrero"/><subtitle lang="pa" line="Enero, Febrero"/><subtitle lang="mx" line="Enero, Febrero"/>
+				<subtitle lang="ae" line="January February"/>
+				<subtitle lang="ine" line="January February"/>
+			</subtitles>
+		</line>
+		<line words="März, April" start="62647" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Marzo, Abril"/>
+				<subtitle lang="fr" line="Mars, Avril"/>
+				<subtitle lang="dk" line="Marts, April"/>
+				<subtitle lang="nl" line="Maart, April "/>
+				<subtitle lang="nz" line="March April"/>
+				<subtitle lang="en" line="March April"/>
+				<subtitle lang="us" line="March April"/><subtitle lang="au" line="March April"/><subtitle lang="bz" line="March April"/><subtitle lang="jm" line="March April"/><subtitle lang="tt" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ag" line="March April"/><subtitle lang="dm" line="March April"/><subtitle lang="vc" line="March April"/><subtitle lang="bs" line="March April"/><subtitle lang="ca" line="March April"/><subtitle lang="bd" line="March April"/><subtitle lang="bw" line="March April"/><subtitle lang="fj" line="March April"/><subtitle lang="gm" line="March April"/><subtitle lang="gh" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ke" line="March April"/><subtitle lang="mt" line="March April"/><subtitle lang="mu" line="March April"/><subtitle lang="na" line="March April"/><subtitle lang="ng" line="March April"/><subtitle lang="pk" line="March April"/><subtitle lang="rw" line="March April"/><subtitle lang="ws" line="March April"/><subtitle lang="sl" line="March April"/><subtitle lang="sg" line="March April"/><subtitle lang="sb" line="March April"/><subtitle lang="za" line="March April"/><subtitle lang="tz" line="March April"/><subtitle lang="to" line="March April"/><subtitle lang="ug" line="March April"/><subtitle lang="vu" line="March April"/><subtitle lang="zm" line="March April"/><subtitle lang="zw" line="March April"/><subtitle lang="sco" line="March April"/>
+				<subtitle lang="cl" line="Marzo, Abril"/><subtitle lang="es" line="Marzo, Abril"/><subtitle lang="co" line="Marzo, Abril"/><subtitle lang="gt" line="Marzo, Abril"/><subtitle lang="pe" line="Marzo, Abril"/><subtitle lang="ni" line="Marzo, Abril"/><subtitle lang="do" line="Marzo, Abril"/><subtitle lang="bo" line="Marzo, Abril"/><subtitle lang="ve" line="Marzo, Abril"/><subtitle lang="ar" line="Marzo, Abril"/><subtitle lang="cu" line="Marzo, Abril"/><subtitle lang="pr" line="Marzo, Abril"/><subtitle lang="py" line="Marzo, Abril"/><subtitle lang="ec" line="Marzo, Abril"/><subtitle lang="hn" line="Marzo, Abril"/><subtitle lang="sv" line="Marzo, Abril"/><subtitle lang="cr" line="Marzo, Abril"/><subtitle lang="pa" line="Marzo, Abril"/><subtitle lang="mx" line="Marzo, Abril"/>
+				<subtitle lang="ae" line="March April"/>
+				<subtitle lang="ine" line="March April"/>
+			</subtitles>
+		</line>
+		<line words="Mai, Juni" start="66144" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Mayo, Junio"/>
+				<subtitle lang="fr" line="Mai, Juin"/>
+				<subtitle lang="dk" line="Maj, Juni"/>
+				<subtitle lang="nl" line="Mei, Juni"/>
+				<subtitle lang="nz" line="May June"/>
+				<subtitle lang="en" line="May June"/>
+				<subtitle lang="us" line="May June"/><subtitle lang="au" line="May June"/><subtitle lang="bz" line="May June"/><subtitle lang="jm" line="May June"/><subtitle lang="tt" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ag" line="May June"/><subtitle lang="dm" line="May June"/><subtitle lang="vc" line="May June"/><subtitle lang="bs" line="May June"/><subtitle lang="ca" line="May June"/><subtitle lang="bd" line="May June"/><subtitle lang="bw" line="May June"/><subtitle lang="fj" line="May June"/><subtitle lang="gm" line="May June"/><subtitle lang="gh" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ke" line="May June"/><subtitle lang="mt" line="May June"/><subtitle lang="mu" line="May June"/><subtitle lang="na" line="May June"/><subtitle lang="ng" line="May June"/><subtitle lang="pk" line="May June"/><subtitle lang="rw" line="May June"/><subtitle lang="ws" line="May June"/><subtitle lang="sl" line="May June"/><subtitle lang="sg" line="May June"/><subtitle lang="sb" line="May June"/><subtitle lang="za" line="May June"/><subtitle lang="tz" line="May June"/><subtitle lang="to" line="May June"/><subtitle lang="ug" line="May June"/><subtitle lang="vu" line="May June"/><subtitle lang="zm" line="May June"/><subtitle lang="zw" line="May June"/><subtitle lang="sco" line="May June"/>
+				<subtitle lang="cl" line="Mayo, Junio"/><subtitle lang="es" line="Mayo, Junio"/><subtitle lang="co" line="Mayo, Junio"/><subtitle lang="gt" line="Mayo, Junio"/><subtitle lang="pe" line="Mayo, Junio"/><subtitle lang="ni" line="Mayo, Junio"/><subtitle lang="do" line="Mayo, Junio"/><subtitle lang="bo" line="Mayo, Junio"/><subtitle lang="ve" line="Mayo, Junio"/><subtitle lang="ar" line="Mayo, Junio"/><subtitle lang="cu" line="Mayo, Junio"/><subtitle lang="pr" line="Mayo, Junio"/><subtitle lang="py" line="Mayo, Junio"/><subtitle lang="ec" line="Mayo, Junio"/><subtitle lang="hn" line="Mayo, Junio"/><subtitle lang="sv" line="Mayo, Junio"/><subtitle lang="cr" line="Mayo, Junio"/><subtitle lang="pa" line="Mayo, Junio"/><subtitle lang="mx" line="Mayo, Junio"/>
+				<subtitle lang="ae" line="May June"/>
+				<subtitle lang="ine" line="May June"/>
+			</subtitles>
+		</line>
+		<line words="Juli, August" start="69579" length="3481">
+			<highlight index="0" start="487" length="804"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Julio, Agosto"/>
+				<subtitle lang="fr" line="Juillet, Août"/>
+				<subtitle lang="dk" line="Juli, August"/>
+				<subtitle lang="nl" line="Juli ,Augustus"/>
+				<subtitle lang="nz" line="July August"/>
+				<subtitle lang="en" line="July August"/>
+				<subtitle lang="us" line="July August"/><subtitle lang="au" line="July August"/><subtitle lang="bz" line="July August"/><subtitle lang="jm" line="July August"/><subtitle lang="tt" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ag" line="July August"/><subtitle lang="dm" line="July August"/><subtitle lang="vc" line="July August"/><subtitle lang="bs" line="July August"/><subtitle lang="ca" line="July August"/><subtitle lang="bd" line="July August"/><subtitle lang="bw" line="July August"/><subtitle lang="fj" line="July August"/><subtitle lang="gm" line="July August"/><subtitle lang="gh" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ke" line="July August"/><subtitle lang="mt" line="July August"/><subtitle lang="mu" line="July August"/><subtitle lang="na" line="July August"/><subtitle lang="ng" line="July August"/><subtitle lang="pk" line="July August"/><subtitle lang="rw" line="July August"/><subtitle lang="ws" line="July August"/><subtitle lang="sl" line="July August"/><subtitle lang="sg" line="July August"/><subtitle lang="sb" line="July August"/><subtitle lang="za" line="July August"/><subtitle lang="tz" line="July August"/><subtitle lang="to" line="July August"/><subtitle lang="ug" line="July August"/><subtitle lang="vu" line="July August"/><subtitle lang="zm" line="July August"/><subtitle lang="zw" line="July August"/><subtitle lang="sco" line="July August"/>
+				<subtitle lang="cl" line="Julio, Agosto"/><subtitle lang="es" line="Julio, Agosto"/><subtitle lang="co" line="Julio, Agosto"/><subtitle lang="gt" line="Julio, Agosto"/><subtitle lang="pe" line="Julio, Agosto"/><subtitle lang="ni" line="Julio, Agosto"/><subtitle lang="do" line="Julio, Agosto"/><subtitle lang="bo" line="Julio, Agosto"/><subtitle lang="ve" line="Julio, Agosto"/><subtitle lang="ar" line="Julio, Agosto"/><subtitle lang="cu" line="Julio, Agosto"/><subtitle lang="pr" line="Julio, Agosto"/><subtitle lang="py" line="Julio, Agosto"/><subtitle lang="ec" line="Julio, Agosto"/><subtitle lang="hn" line="Julio, Agosto"/><subtitle lang="sv" line="Julio, Agosto"/><subtitle lang="cr" line="Julio, Agosto"/><subtitle lang="pa" line="Julio, Agosto"/><subtitle lang="mx" line="Julio, Agosto"/>
+				<subtitle lang="ae" line="July August"/>
+				<subtitle lang="ine" line="July August"/>
+			</subtitles>
+		</line>
+		<line words="September, Oktober" start="73210" length="3481">
+			<highlight index="0" start="359" length="1234"/>
+			<highlight index="1" start="2134" length="1193"/>
+			<subtitles>
+				<subtitle lang="sp" line="Septiembre, Octubre"/>
+				<subtitle lang="nl" line="September, Oktober "/>
+				<subtitle lang="fr" line="Septembre, Octobre"/>
+				<subtitle lang="en" line="September October"/>
+				<subtitle lang="dk" line="September, Oktober"/>
+				<subtitle lang="nz" line="September October"/>
+				<subtitle lang="us" line="September October"/><subtitle lang="au" line="September October"/><subtitle lang="bz" line="September October"/><subtitle lang="jm" line="September October"/><subtitle lang="tt" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ag" line="September October"/><subtitle lang="dm" line="September October"/><subtitle lang="vc" line="September October"/><subtitle lang="bs" line="September October"/><subtitle lang="ca" line="September October"/><subtitle lang="bd" line="September October"/><subtitle lang="bw" line="September October"/><subtitle lang="fj" line="September October"/><subtitle lang="gm" line="September October"/><subtitle lang="gh" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ke" line="September October"/><subtitle lang="mt" line="September October"/><subtitle lang="mu" line="September October"/><subtitle lang="na" line="September October"/><subtitle lang="ng" line="September October"/><subtitle lang="pk" line="September October"/><subtitle lang="rw" line="September October"/><subtitle lang="ws" line="September October"/><subtitle lang="sl" line="September October"/><subtitle lang="sg" line="September October"/><subtitle lang="sb" line="September October"/><subtitle lang="za" line="September October"/><subtitle lang="tz" line="September October"/><subtitle lang="to" line="September October"/><subtitle lang="ug" line="September October"/><subtitle lang="vu" line="September October"/><subtitle lang="zm" line="September October"/><subtitle lang="zw" line="September October"/><subtitle lang="sco" line="September October"/>
+				<subtitle lang="cl" line="Septiembre, Octubre"/><subtitle lang="es" line="Septiembre, Octubre"/><subtitle lang="co" line="Septiembre, Octubre"/><subtitle lang="gt" line="Septiembre, Octubre"/><subtitle lang="pe" line="Septiembre, Octubre"/><subtitle lang="ni" line="Septiembre, Octubre"/><subtitle lang="do" line="Septiembre, Octubre"/><subtitle lang="bo" line="Septiembre, Octubre"/><subtitle lang="ve" line="Septiembre, Octubre"/><subtitle lang="ar" line="Septiembre, Octubre"/><subtitle lang="cu" line="Septiembre, Octubre"/><subtitle lang="pr" line="Septiembre, Octubre"/><subtitle lang="py" line="Septiembre, Octubre"/><subtitle lang="ec" line="Septiembre, Octubre"/><subtitle lang="hn" line="Septiembre, Octubre"/><subtitle lang="sv" line="Septiembre, Octubre"/><subtitle lang="cr" line="Septiembre, Octubre"/><subtitle lang="pa" line="Septiembre, Octubre"/><subtitle lang="mx" line="Septiembre, Octubre"/>
+				<subtitle lang="ae" line="September October"/>
+				<subtitle lang="ine" line="September October"/>
+			</subtitles>
+		</line>
+		<line words="November, Dezember" start="76645" length="3481">
+			<highlight index="0" start="337" length="954"/>
+			<highlight index="1" start="2134" length="865"/>
+			<subtitles>
+				<subtitle lang="sp" line="Noviembre, Diciembre"/>
+				<subtitle lang="fr" line="November, December"/>
+				<subtitle lang="dk" line="November, December"/>
+				<subtitle lang="nl" line="November, December"/>
+				<subtitle lang="nz" line="November December"/>
+				<subtitle lang="en" line="November December"/>
+				<subtitle lang="us" line="November December"/><subtitle lang="au" line="November December"/><subtitle lang="bz" line="November December"/><subtitle lang="jm" line="November December"/><subtitle lang="tt" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ag" line="November December"/><subtitle lang="dm" line="November December"/><subtitle lang="vc" line="November December"/><subtitle lang="bs" line="November December"/><subtitle lang="ca" line="November December"/><subtitle lang="bd" line="November December"/><subtitle lang="bw" line="November December"/><subtitle lang="fj" line="November December"/><subtitle lang="gm" line="November December"/><subtitle lang="gh" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ke" line="November December"/><subtitle lang="mt" line="November December"/><subtitle lang="mu" line="November December"/><subtitle lang="na" line="November December"/><subtitle lang="ng" line="November December"/><subtitle lang="pk" line="November December"/><subtitle lang="rw" line="November December"/><subtitle lang="ws" line="November December"/><subtitle lang="sl" line="November December"/><subtitle lang="sg" line="November December"/><subtitle lang="sb" line="November December"/><subtitle lang="za" line="November December"/><subtitle lang="tz" line="November December"/><subtitle lang="to" line="November December"/><subtitle lang="ug" line="November December"/><subtitle lang="vu" line="November December"/><subtitle lang="zm" line="November December"/><subtitle lang="zw" line="November December"/><subtitle lang="sco" line="November December"/>
+				<subtitle lang="cl" line="Noviembre, Diciembre"/><subtitle lang="es" line="Noviembre, Diciembre"/><subtitle lang="co" line="Noviembre, Diciembre"/><subtitle lang="gt" line="Noviembre, Diciembre"/><subtitle lang="pe" line="Noviembre, Diciembre"/><subtitle lang="ni" line="Noviembre, Diciembre"/><subtitle lang="do" line="Noviembre, Diciembre"/><subtitle lang="bo" line="Noviembre, Diciembre"/><subtitle lang="ve" line="Noviembre, Diciembre"/><subtitle lang="ar" line="Noviembre, Diciembre"/><subtitle lang="cu" line="Noviembre, Diciembre"/><subtitle lang="pr" line="Noviembre, Diciembre"/><subtitle lang="py" line="Noviembre, Diciembre"/><subtitle lang="ec" line="Noviembre, Diciembre"/><subtitle lang="hn" line="Noviembre, Diciembre"/><subtitle lang="sv" line="Noviembre, Diciembre"/><subtitle lang="cr" line="Noviembre, Diciembre"/><subtitle lang="pa" line="Noviembre, Diciembre"/><subtitle lang="mx" line="Noviembre, Diciembre"/>
+				<subtitle lang="ae" line="November December"/>
+				<subtitle lang="ine" line="November December"/>
+			</subtitles>
+		</line>
+		<line words="Im Winter... war es kalt" start="80178" length="4000">
+			<highlight index="0" start="479" length="200"/>
+			<highlight index="1" start="665" length="737"/>
+			<highlight index="2" start="1785" length="332"/>
+			<highlight index="3" start="2093" length="196"/>
+			<highlight index="4" start="2274" length="671"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="nl" line="In de winter was het koud"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="en" line="In winter it was cold"/>
+				<subtitle lang="dk" line="Sidste vinter var det koldt"/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="us" line="In winter it was cold"/><subtitle lang="au" line="In winter it was cold"/><subtitle lang="bz" line="In winter it was cold"/><subtitle lang="jm" line="In winter it was cold"/><subtitle lang="tt" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ag" line="In winter it was cold"/><subtitle lang="dm" line="In winter it was cold"/><subtitle lang="vc" line="In winter it was cold"/><subtitle lang="bs" line="In winter it was cold"/><subtitle lang="ca" line="In winter it was cold"/><subtitle lang="bd" line="In winter it was cold"/><subtitle lang="bw" line="In winter it was cold"/><subtitle lang="fj" line="In winter it was cold"/><subtitle lang="gm" line="In winter it was cold"/><subtitle lang="gh" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ke" line="In winter it was cold"/><subtitle lang="mt" line="In winter it was cold"/><subtitle lang="mu" line="In winter it was cold"/><subtitle lang="na" line="In winter it was cold"/><subtitle lang="ng" line="In winter it was cold"/><subtitle lang="pk" line="In winter it was cold"/><subtitle lang="rw" line="In winter it was cold"/><subtitle lang="ws" line="In winter it was cold"/><subtitle lang="sl" line="In winter it was cold"/><subtitle lang="sg" line="In winter it was cold"/><subtitle lang="sb" line="In winter it was cold"/><subtitle lang="za" line="In winter it was cold"/><subtitle lang="tz" line="In winter it was cold"/><subtitle lang="to" line="In winter it was cold"/><subtitle lang="ug" line="In winter it was cold"/><subtitle lang="vu" line="In winter it was cold"/><subtitle lang="zm" line="In winter it was cold"/><subtitle lang="zw" line="In winter it was cold"/><subtitle lang="sco" line="In winter it was cold"/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="In winter it was cold"/>
+				<subtitle lang="ine" line="In winter it was cold"/>
+			</subtitles>
+		</line>
+		<line words="Im Frühling... war es windig" start="83809" length="3239">
+			<highlight index="0" start="262" length="434"/>
+			<highlight index="1" start="670" length="449"/>
+			<highlight index="2" start="1724" length="350"/>
+			<highlight index="3" start="2050" length="264"/>
+			<highlight index="4" start="2287" length="651"/>
+			<subtitles>
+				<subtitle lang="sp" line="En primavera hacía viento"/>
+				<subtitle lang="fr" line="Au printemps ... Il y avait du vent"/>
+				<subtitle lang="dk" line="Sidste forår var det blæsende"/>
+				<subtitle lang="nl" line="In de lente waaide het "/>
+				<subtitle lang="nz" line="In spring it was it was windy"/>
+				<subtitle lang="en" line="In spring it was it was windy"/>
+				<subtitle lang="us" line="In spring it was it was windy"/><subtitle lang="au" line="In spring it was it was windy"/><subtitle lang="bz" line="In spring it was it was windy"/><subtitle lang="jm" line="In spring it was it was windy"/><subtitle lang="tt" line="In spring it was it was windy"/><subtitle lang="gy" line="In spring it was it was windy"/><subtitle lang="ag" line="In spring it was it was windy"/><subtitle lang="dm" line="In spring it was it was windy"/><subtitle lang="vc" line="In spring it was it was windy"/><subtitle lang="bs" line="In spring it was it was windy"/><subtitle lang="ca" line="In spring it was it was windy"/><subtitle lang="bd" line="In spring it was it was windy"/><subtitle lang="bw" line="In spring it was it was windy"/><subtitle lang="fj" line="In spring it was it was windy"/><subtitle lang="gm" line="In spring it was it was windy"/><subtitle lang="gh" line="In spring it was it was windy"/><subtitle lang="gy" line="In spring it was it was windy"/><subtitle lang="ke" line="In spring it was it was windy"/><subtitle lang="mt" line="In spring it was it was windy"/><subtitle lang="mu" line="In spring it was it was windy"/><subtitle lang="na" line="In spring it was it was windy"/><subtitle lang="ng" line="In spring it was it was windy"/><subtitle lang="pk" line="In spring it was it was windy"/><subtitle lang="rw" line="In spring it was it was windy"/><subtitle lang="ws" line="In spring it was it was windy"/><subtitle lang="sl" line="In spring it was it was windy"/><subtitle lang="sg" line="In spring it was it was windy"/><subtitle lang="sb" line="In spring it was it was windy"/><subtitle lang="za" line="In spring it was it was windy"/><subtitle lang="tz" line="In spring it was it was windy"/><subtitle lang="to" line="In spring it was it was windy"/><subtitle lang="ug" line="In spring it was it was windy"/><subtitle lang="vu" line="In spring it was it was windy"/><subtitle lang="zm" line="In spring it was it was windy"/><subtitle lang="zw" line="In spring it was it was windy"/><subtitle lang="sco" line="In spring it was it was windy"/>
+				<subtitle lang="cl" line="En primavera hacía viento"/><subtitle lang="es" line="En primavera hacía viento"/><subtitle lang="co" line="En primavera hacía viento"/><subtitle lang="gt" line="En primavera hacía viento"/><subtitle lang="pe" line="En primavera hacía viento"/><subtitle lang="ni" line="En primavera hacía viento"/><subtitle lang="do" line="En primavera hacía viento"/><subtitle lang="bo" line="En primavera hacía viento"/><subtitle lang="ve" line="En primavera hacía viento"/><subtitle lang="ar" line="En primavera hacía viento"/><subtitle lang="cu" line="En primavera hacía viento"/><subtitle lang="pr" line="En primavera hacía viento"/><subtitle lang="py" line="En primavera hacía viento"/><subtitle lang="ec" line="En primavera hacía viento"/><subtitle lang="hn" line="En primavera hacía viento"/><subtitle lang="sv" line="En primavera hacía viento"/><subtitle lang="cr" line="En primavera hacía viento"/><subtitle lang="pa" line="En primavera hacía viento"/><subtitle lang="mx" line="En primavera hacía viento"/>
+				<subtitle lang="ae" line="In spring it was it was windy"/>
+				<subtitle lang="ine" line="In spring it was it was windy"/>
+			</subtitles>
+		</line>
+		<line words="Im Sommer... war es heiss" start="86851" length="4000">
+			<highlight index="0" start="262" length="434"/>
+			<highlight index="1" start="670" length="449"/>
+			<highlight index="2" start="1724" length="413"/>
+			<highlight index="3" start="2108" length="348"/>
+			<highlight index="4" start="2426" length="651"/>
+			<subtitles>
+				<subtitle lang="sp" line="En verano hacía calor"/>
+				<subtitle lang="nl" line="In de zomer was het warm"/>
+				<subtitle lang="fr" line="En été, il faisait chaud"/>
+				<subtitle lang="en" line="In summer it was hot"/>
+				<subtitle lang="dk" line="Sidste sommer var det varmt"/>
+				<subtitle lang="nz" line="In summer it was hot"/>
+				<subtitle lang="us" line="In summer it was hot"/><subtitle lang="au" line="In summer it was hot"/><subtitle lang="bz" line="In summer it was hot"/><subtitle lang="jm" line="In summer it was hot"/><subtitle lang="tt" line="In summer it was hot"/><subtitle lang="gy" line="In summer it was hot"/><subtitle lang="ag" line="In summer it was hot"/><subtitle lang="dm" line="In summer it was hot"/><subtitle lang="vc" line="In summer it was hot"/><subtitle lang="bs" line="In summer it was hot"/><subtitle lang="ca" line="In summer it was hot"/><subtitle lang="bd" line="In summer it was hot"/><subtitle lang="bw" line="In summer it was hot"/><subtitle lang="fj" line="In summer it was hot"/><subtitle lang="gm" line="In summer it was hot"/><subtitle lang="gh" line="In summer it was hot"/><subtitle lang="gy" line="In summer it was hot"/><subtitle lang="ke" line="In summer it was hot"/><subtitle lang="mt" line="In summer it was hot"/><subtitle lang="mu" line="In summer it was hot"/><subtitle lang="na" line="In summer it was hot"/><subtitle lang="ng" line="In summer it was hot"/><subtitle lang="pk" line="In summer it was hot"/><subtitle lang="rw" line="In summer it was hot"/><subtitle lang="ws" line="In summer it was hot"/><subtitle lang="sl" line="In summer it was hot"/><subtitle lang="sg" line="In summer it was hot"/><subtitle lang="sb" line="In summer it was hot"/><subtitle lang="za" line="In summer it was hot"/><subtitle lang="tz" line="In summer it was hot"/><subtitle lang="to" line="In summer it was hot"/><subtitle lang="ug" line="In summer it was hot"/><subtitle lang="vu" line="In summer it was hot"/><subtitle lang="zm" line="In summer it was hot"/><subtitle lang="zw" line="In summer it was hot"/><subtitle lang="sco" line="In summer it was hot"/>
+				<subtitle lang="cl" line="En verano hacía calor"/><subtitle lang="es" line="En verano hacía calor"/><subtitle lang="co" line="En verano hacía calor"/><subtitle lang="gt" line="En verano hacía calor"/><subtitle lang="pe" line="En verano hacía calor"/><subtitle lang="ni" line="En verano hacía calor"/><subtitle lang="do" line="En verano hacía calor"/><subtitle lang="bo" line="En verano hacía calor"/><subtitle lang="ve" line="En verano hacía calor"/><subtitle lang="ar" line="En verano hacía calor"/><subtitle lang="cu" line="En verano hacía calor"/><subtitle lang="pr" line="En verano hacía calor"/><subtitle lang="py" line="En verano hacía calor"/><subtitle lang="ec" line="En verano hacía calor"/><subtitle lang="hn" line="En verano hacía calor"/><subtitle lang="sv" line="En verano hacía calor"/><subtitle lang="cr" line="En verano hacía calor"/><subtitle lang="pa" line="En verano hacía calor"/><subtitle lang="mx" line="En verano hacía calor"/>
+				<subtitle lang="ae" line="In summer it was hot"/>
+				<subtitle lang="ine" line="In summer it was hot"/>
+			</subtitles>
+		</line>
+		<line words="Im Herbst war schlechtes Wetter" start="90776" length="4000">
+			<highlight index="0" start="226" length="419"/>
+			<highlight index="1" start="630" length="439"/>
+			<highlight index="2" start="1054" length="534"/>
+			<highlight index="3" start="1649" length="999"/>
+			<highlight index="4" start="2627" length="742"/>
+			<subtitles>
+				<subtitle lang="sp" line="En Otoño hacía mal tiempo"/>
+				<subtitle lang="fr" line="Dans le temps d'automne a été mauvaise"/>
+				<subtitle lang="dk" line="Sidste efterår var det dårligt vejr"/>
+				<subtitle lang="nl" line="In de herfst was het slecht "/>
+				<subtitle lang="nz" line="In autumn it was bad weather"/>
+				<subtitle lang="en" line="In autumn it was bad weather"/>
+				<subtitle lang="us" line="In autumn it was bad weather"/><subtitle lang="au" line="In autumn it was bad weather"/><subtitle lang="bz" line="In autumn it was bad weather"/><subtitle lang="jm" line="In autumn it was bad weather"/><subtitle lang="tt" line="In autumn it was bad weather"/><subtitle lang="gy" line="In autumn it was bad weather"/><subtitle lang="ag" line="In autumn it was bad weather"/><subtitle lang="dm" line="In autumn it was bad weather"/><subtitle lang="vc" line="In autumn it was bad weather"/><subtitle lang="bs" line="In autumn it was bad weather"/><subtitle lang="ca" line="In autumn it was bad weather"/><subtitle lang="bd" line="In autumn it was bad weather"/><subtitle lang="bw" line="In autumn it was bad weather"/><subtitle lang="fj" line="In autumn it was bad weather"/><subtitle lang="gm" line="In autumn it was bad weather"/><subtitle lang="gh" line="In autumn it was bad weather"/><subtitle lang="gy" line="In autumn it was bad weather"/><subtitle lang="ke" line="In autumn it was bad weather"/><subtitle lang="mt" line="In autumn it was bad weather"/><subtitle lang="mu" line="In autumn it was bad weather"/><subtitle lang="na" line="In autumn it was bad weather"/><subtitle lang="ng" line="In autumn it was bad weather"/><subtitle lang="pk" line="In autumn it was bad weather"/><subtitle lang="rw" line="In autumn it was bad weather"/><subtitle lang="ws" line="In autumn it was bad weather"/><subtitle lang="sl" line="In autumn it was bad weather"/><subtitle lang="sg" line="In autumn it was bad weather"/><subtitle lang="sb" line="In autumn it was bad weather"/><subtitle lang="za" line="In autumn it was bad weather"/><subtitle lang="tz" line="In autumn it was bad weather"/><subtitle lang="to" line="In autumn it was bad weather"/><subtitle lang="ug" line="In autumn it was bad weather"/><subtitle lang="vu" line="In autumn it was bad weather"/><subtitle lang="zm" line="In autumn it was bad weather"/><subtitle lang="zw" line="In autumn it was bad weather"/><subtitle lang="sco" line="In autumn it was bad weather"/>
+				<subtitle lang="cl" line="En Otoño hacía mal tiempo"/><subtitle lang="es" line="En Otoño hacía mal tiempo"/><subtitle lang="co" line="En Otoño hacía mal tiempo"/><subtitle lang="gt" line="En Otoño hacía mal tiempo"/><subtitle lang="pe" line="En Otoño hacía mal tiempo"/><subtitle lang="ni" line="En Otoño hacía mal tiempo"/><subtitle lang="do" line="En Otoño hacía mal tiempo"/><subtitle lang="bo" line="En Otoño hacía mal tiempo"/><subtitle lang="ve" line="En Otoño hacía mal tiempo"/><subtitle lang="ar" line="En Otoño hacía mal tiempo"/><subtitle lang="cu" line="En Otoño hacía mal tiempo"/><subtitle lang="pr" line="En Otoño hacía mal tiempo"/><subtitle lang="py" line="En Otoño hacía mal tiempo"/><subtitle lang="ec" line="En Otoño hacía mal tiempo"/><subtitle lang="hn" line="En Otoño hacía mal tiempo"/><subtitle lang="sv" line="En Otoño hacía mal tiempo"/><subtitle lang="cr" line="En Otoño hacía mal tiempo"/><subtitle lang="pa" line="En Otoño hacía mal tiempo"/><subtitle lang="mx" line="En Otoño hacía mal tiempo"/>
+				<subtitle lang="ae" line="In autumn it was bad weather"/>
+				<subtitle lang="ine" line="In autumn it was bad weather"/>
+			</subtitles>
+		</line>
+		<line words="Januar, Februar" start="94408" length="1472">
+			<highlight index="0" start="168" length="671"/>
+			<highlight index="1" start="833" length="606"/>
+			<subtitles>
+				<subtitle lang="sp" line="Enero, Febrero"/>
+				<subtitle lang="fr" line="Janvier, Février"/>
+				<subtitle lang="dk" line="Januar, Februar"/>
+				<subtitle lang="nl" line="Januari, Februari"/>
+				<subtitle lang="nz" line="January February"/>
+				<subtitle lang="en" line="January February"/>
+				<subtitle lang="us" line="January February"/><subtitle lang="au" line="January February"/><subtitle lang="bz" line="January February"/><subtitle lang="jm" line="January February"/><subtitle lang="tt" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ag" line="January February"/><subtitle lang="dm" line="January February"/><subtitle lang="vc" line="January February"/><subtitle lang="bs" line="January February"/><subtitle lang="ca" line="January February"/><subtitle lang="bd" line="January February"/><subtitle lang="bw" line="January February"/><subtitle lang="fj" line="January February"/><subtitle lang="gm" line="January February"/><subtitle lang="gh" line="January February"/><subtitle lang="gy" line="January February"/><subtitle lang="ke" line="January February"/><subtitle lang="mt" line="January February"/><subtitle lang="mu" line="January February"/><subtitle lang="na" line="January February"/><subtitle lang="ng" line="January February"/><subtitle lang="pk" line="January February"/><subtitle lang="rw" line="January February"/><subtitle lang="ws" line="January February"/><subtitle lang="sl" line="January February"/><subtitle lang="sg" line="January February"/><subtitle lang="sb" line="January February"/><subtitle lang="za" line="January February"/><subtitle lang="tz" line="January February"/><subtitle lang="to" line="January February"/><subtitle lang="ug" line="January February"/><subtitle lang="vu" line="January February"/><subtitle lang="zm" line="January February"/><subtitle lang="zw" line="January February"/><subtitle lang="sco" line="January February"/>
+				<subtitle lang="cl" line="Enero, Febrero"/><subtitle lang="es" line="Enero, Febrero"/><subtitle lang="co" line="Enero, Febrero"/><subtitle lang="gt" line="Enero, Febrero"/><subtitle lang="pe" line="Enero, Febrero"/><subtitle lang="ni" line="Enero, Febrero"/><subtitle lang="do" line="Enero, Febrero"/><subtitle lang="bo" line="Enero, Febrero"/><subtitle lang="ve" line="Enero, Febrero"/><subtitle lang="ar" line="Enero, Febrero"/><subtitle lang="cu" line="Enero, Febrero"/><subtitle lang="pr" line="Enero, Febrero"/><subtitle lang="py" line="Enero, Febrero"/><subtitle lang="ec" line="Enero, Febrero"/><subtitle lang="hn" line="Enero, Febrero"/><subtitle lang="sv" line="Enero, Febrero"/><subtitle lang="cr" line="Enero, Febrero"/><subtitle lang="pa" line="Enero, Febrero"/><subtitle lang="mx" line="Enero, Febrero"/>
+				<subtitle lang="ae" line="January February"/>
+				<subtitle lang="ine" line="January February"/>
+			</subtitles>
+		</line>
+		<line words="März, April" start="95585" length="1865">
+			<highlight index="0" start="439" length="704"/>
+			<highlight index="1" start="1142" length="671"/>
+			<subtitles>
+				<subtitle lang="sp" line="Marzo, Abril"/>
+				<subtitle lang="fr" line="Mars, Avril"/>
+				<subtitle lang="dk" line="Marts, April"/>
+				<subtitle lang="nl" line="Maart, April "/>
+				<subtitle lang="nz" line="March April"/>
+				<subtitle lang="en" line="March April"/>
+				<subtitle lang="us" line="March April"/><subtitle lang="au" line="March April"/><subtitle lang="bz" line="March April"/><subtitle lang="jm" line="March April"/><subtitle lang="tt" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ag" line="March April"/><subtitle lang="dm" line="March April"/><subtitle lang="vc" line="March April"/><subtitle lang="bs" line="March April"/><subtitle lang="ca" line="March April"/><subtitle lang="bd" line="March April"/><subtitle lang="bw" line="March April"/><subtitle lang="fj" line="March April"/><subtitle lang="gm" line="March April"/><subtitle lang="gh" line="March April"/><subtitle lang="gy" line="March April"/><subtitle lang="ke" line="March April"/><subtitle lang="mt" line="March April"/><subtitle lang="mu" line="March April"/><subtitle lang="na" line="March April"/><subtitle lang="ng" line="March April"/><subtitle lang="pk" line="March April"/><subtitle lang="rw" line="March April"/><subtitle lang="ws" line="March April"/><subtitle lang="sl" line="March April"/><subtitle lang="sg" line="March April"/><subtitle lang="sb" line="March April"/><subtitle lang="za" line="March April"/><subtitle lang="tz" line="March April"/><subtitle lang="to" line="March April"/><subtitle lang="ug" line="March April"/><subtitle lang="vu" line="March April"/><subtitle lang="zm" line="March April"/><subtitle lang="zw" line="March April"/><subtitle lang="sco" line="March April"/>
+				<subtitle lang="cl" line="Marzo, Abril"/><subtitle lang="es" line="Marzo, Abril"/><subtitle lang="co" line="Marzo, Abril"/><subtitle lang="gt" line="Marzo, Abril"/><subtitle lang="pe" line="Marzo, Abril"/><subtitle lang="ni" line="Marzo, Abril"/><subtitle lang="do" line="Marzo, Abril"/><subtitle lang="bo" line="Marzo, Abril"/><subtitle lang="ve" line="Marzo, Abril"/><subtitle lang="ar" line="Marzo, Abril"/><subtitle lang="cu" line="Marzo, Abril"/><subtitle lang="pr" line="Marzo, Abril"/><subtitle lang="py" line="Marzo, Abril"/><subtitle lang="ec" line="Marzo, Abril"/><subtitle lang="hn" line="Marzo, Abril"/><subtitle lang="sv" line="Marzo, Abril"/><subtitle lang="cr" line="Marzo, Abril"/><subtitle lang="pa" line="Marzo, Abril"/><subtitle lang="mx" line="Marzo, Abril"/>
+				<subtitle lang="ae" line="March April"/>
+				<subtitle lang="ine" line="March April"/>
+			</subtitles>
+		</line>
+		<line words="Mai, Juni" start="97352" length="1668">
+			<highlight index="0" start="291" length="736"/>
+			<highlight index="1" start="1016" length="635"/>
+			<subtitles>
+				<subtitle lang="sp" line="Mayo, Junio"/>
+				<subtitle lang="fr" line="Mai, Juin"/>
+				<subtitle lang="dk" line="Maj, Juni"/>
+				<subtitle lang="nl" line="Mei, Juni"/>
+				<subtitle lang="nz" line="May June"/>
+				<subtitle lang="en" line="May June"/>
+				<subtitle lang="us" line="May June"/><subtitle lang="au" line="May June"/><subtitle lang="bz" line="May June"/><subtitle lang="jm" line="May June"/><subtitle lang="tt" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ag" line="May June"/><subtitle lang="dm" line="May June"/><subtitle lang="vc" line="May June"/><subtitle lang="bs" line="May June"/><subtitle lang="ca" line="May June"/><subtitle lang="bd" line="May June"/><subtitle lang="bw" line="May June"/><subtitle lang="fj" line="May June"/><subtitle lang="gm" line="May June"/><subtitle lang="gh" line="May June"/><subtitle lang="gy" line="May June"/><subtitle lang="ke" line="May June"/><subtitle lang="mt" line="May June"/><subtitle lang="mu" line="May June"/><subtitle lang="na" line="May June"/><subtitle lang="ng" line="May June"/><subtitle lang="pk" line="May June"/><subtitle lang="rw" line="May June"/><subtitle lang="ws" line="May June"/><subtitle lang="sl" line="May June"/><subtitle lang="sg" line="May June"/><subtitle lang="sb" line="May June"/><subtitle lang="za" line="May June"/><subtitle lang="tz" line="May June"/><subtitle lang="to" line="May June"/><subtitle lang="ug" line="May June"/><subtitle lang="vu" line="May June"/><subtitle lang="zm" line="May June"/><subtitle lang="zw" line="May June"/><subtitle lang="sco" line="May June"/>
+				<subtitle lang="cl" line="Mayo, Junio"/><subtitle lang="es" line="Mayo, Junio"/><subtitle lang="co" line="Mayo, Junio"/><subtitle lang="gt" line="Mayo, Junio"/><subtitle lang="pe" line="Mayo, Junio"/><subtitle lang="ni" line="Mayo, Junio"/><subtitle lang="do" line="Mayo, Junio"/><subtitle lang="bo" line="Mayo, Junio"/><subtitle lang="ve" line="Mayo, Junio"/><subtitle lang="ar" line="Mayo, Junio"/><subtitle lang="cu" line="Mayo, Junio"/><subtitle lang="pr" line="Mayo, Junio"/><subtitle lang="py" line="Mayo, Junio"/><subtitle lang="ec" line="Mayo, Junio"/><subtitle lang="hn" line="Mayo, Junio"/><subtitle lang="sv" line="Mayo, Junio"/><subtitle lang="cr" line="Mayo, Junio"/><subtitle lang="pa" line="Mayo, Junio"/><subtitle lang="mx" line="Mayo, Junio"/>
+				<subtitle lang="ae" line="May June"/>
+				<subtitle lang="ine" line="May June"/>
+			</subtitles>
+		</line>
+		<line words="Juli, August" start="99020" length="1472">
+			<highlight index="0" start="51" length="674"/>
+			<highlight index="1" start="998" length="449"/>
+			<highlight index="1" start="996" length="200"/>
+			<subtitles>
+				<subtitle lang="sp" line="Julio, Agosto"/>
+				<subtitle lang="fr" line="Juillet, Août"/>
+				<subtitle lang="dk" line="Juli, August"/>
+				<subtitle lang="nl" line="Juli ,Augustus"/>
+				<subtitle lang="nz" line="July August"/>
+				<subtitle lang="en" line="July August"/>
+				<subtitle lang="us" line="July August"/><subtitle lang="au" line="July August"/><subtitle lang="bz" line="July August"/><subtitle lang="jm" line="July August"/><subtitle lang="tt" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ag" line="July August"/><subtitle lang="dm" line="July August"/><subtitle lang="vc" line="July August"/><subtitle lang="bs" line="July August"/><subtitle lang="ca" line="July August"/><subtitle lang="bd" line="July August"/><subtitle lang="bw" line="July August"/><subtitle lang="fj" line="July August"/><subtitle lang="gm" line="July August"/><subtitle lang="gh" line="July August"/><subtitle lang="gy" line="July August"/><subtitle lang="ke" line="July August"/><subtitle lang="mt" line="July August"/><subtitle lang="mu" line="July August"/><subtitle lang="na" line="July August"/><subtitle lang="ng" line="July August"/><subtitle lang="pk" line="July August"/><subtitle lang="rw" line="July August"/><subtitle lang="ws" line="July August"/><subtitle lang="sl" line="July August"/><subtitle lang="sg" line="July August"/><subtitle lang="sb" line="July August"/><subtitle lang="za" line="July August"/><subtitle lang="tz" line="July August"/><subtitle lang="to" line="July August"/><subtitle lang="ug" line="July August"/><subtitle lang="vu" line="July August"/><subtitle lang="zm" line="July August"/><subtitle lang="zw" line="July August"/><subtitle lang="sco" line="July August"/>
+				<subtitle lang="cl" line="Julio, Agosto"/><subtitle lang="es" line="Julio, Agosto"/><subtitle lang="co" line="Julio, Agosto"/><subtitle lang="gt" line="Julio, Agosto"/><subtitle lang="pe" line="Julio, Agosto"/><subtitle lang="ni" line="Julio, Agosto"/><subtitle lang="do" line="Julio, Agosto"/><subtitle lang="bo" line="Julio, Agosto"/><subtitle lang="ve" line="Julio, Agosto"/><subtitle lang="ar" line="Julio, Agosto"/><subtitle lang="cu" line="Julio, Agosto"/><subtitle lang="pr" line="Julio, Agosto"/><subtitle lang="py" line="Julio, Agosto"/><subtitle lang="ec" line="Julio, Agosto"/><subtitle lang="hn" line="Julio, Agosto"/><subtitle lang="sv" line="Julio, Agosto"/><subtitle lang="cr" line="Julio, Agosto"/><subtitle lang="pa" line="Julio, Agosto"/><subtitle lang="mx" line="Julio, Agosto"/>
+				<subtitle lang="ae" line="July August"/>
+				<subtitle lang="ine" line="July August"/>
+			</subtitles>
+		</line>
+		<line words="September, Oktober" start="100198" length="2355">
+			<highlight index="0" start="585" length="622"/>
+			<highlight index="1" start="1490" length="683"/>
+			<subtitles>
+				<subtitle lang="sp" line="Septiembre, Octubre"/>
+				<subtitle lang="fr" line="Septembre, Octobre"/>
+				<subtitle lang="dk" line="September, Oktober"/>
+				<subtitle lang="nl" line="September, Oktober "/>
+				<subtitle lang="nz" line="September October"/>
+				<subtitle lang="en" line="September October"/>
+				<subtitle lang="us" line="September October"/><subtitle lang="au" line="September October"/><subtitle lang="bz" line="September October"/><subtitle lang="jm" line="September October"/><subtitle lang="tt" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ag" line="September October"/><subtitle lang="dm" line="September October"/><subtitle lang="vc" line="September October"/><subtitle lang="bs" line="September October"/><subtitle lang="ca" line="September October"/><subtitle lang="bd" line="September October"/><subtitle lang="bw" line="September October"/><subtitle lang="fj" line="September October"/><subtitle lang="gm" line="September October"/><subtitle lang="gh" line="September October"/><subtitle lang="gy" line="September October"/><subtitle lang="ke" line="September October"/><subtitle lang="mt" line="September October"/><subtitle lang="mu" line="September October"/><subtitle lang="na" line="September October"/><subtitle lang="ng" line="September October"/><subtitle lang="pk" line="September October"/><subtitle lang="rw" line="September October"/><subtitle lang="ws" line="September October"/><subtitle lang="sl" line="September October"/><subtitle lang="sg" line="September October"/><subtitle lang="sb" line="September October"/><subtitle lang="za" line="September October"/><subtitle lang="tz" line="September October"/><subtitle lang="to" line="September October"/><subtitle lang="ug" line="September October"/><subtitle lang="vu" line="September October"/><subtitle lang="zm" line="September October"/><subtitle lang="zw" line="September October"/><subtitle lang="sco" line="September October"/>
+				<subtitle lang="cl" line="Septiembre, Octubre"/><subtitle lang="es" line="Septiembre, Octubre"/><subtitle lang="co" line="Septiembre, Octubre"/><subtitle lang="gt" line="Septiembre, Octubre"/><subtitle lang="pe" line="Septiembre, Octubre"/><subtitle lang="ni" line="Septiembre, Octubre"/><subtitle lang="do" line="Septiembre, Octubre"/><subtitle lang="bo" line="Septiembre, Octubre"/><subtitle lang="ve" line="Septiembre, Octubre"/><subtitle lang="ar" line="Septiembre, Octubre"/><subtitle lang="cu" line="Septiembre, Octubre"/><subtitle lang="pr" line="Septiembre, Octubre"/><subtitle lang="py" line="Septiembre, Octubre"/><subtitle lang="ec" line="Septiembre, Octubre"/><subtitle lang="hn" line="Septiembre, Octubre"/><subtitle lang="sv" line="Septiembre, Octubre"/><subtitle lang="cr" line="Septiembre, Octubre"/><subtitle lang="pa" line="Septiembre, Octubre"/><subtitle lang="mx" line="Septiembre, Octubre"/>
+				<subtitle lang="ae" line="September October"/>
+				<subtitle lang="ine" line="September October"/>
+			</subtitles>
+		</line>
+		<line words="November, Dezember" start="102455" length="2159">
+			<highlight index="0" start="291" length="632"/>
+			<highlight index="1" start="922" length="738"/>
+			<subtitles>
+				<subtitle lang="sp" line="Noviembre, Diciembre"/>
+				<subtitle lang="fr" line="November, December"/>
+				<subtitle lang="dk" line="November, December"/>
+				<subtitle lang="nl" line="November, December"/>
+				<subtitle lang="nz" line="November December"/>
+				<subtitle lang="en" line="November December"/>
+				<subtitle lang="us" line="November December"/><subtitle lang="au" line="November December"/><subtitle lang="bz" line="November December"/><subtitle lang="jm" line="November December"/><subtitle lang="tt" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ag" line="November December"/><subtitle lang="dm" line="November December"/><subtitle lang="vc" line="November December"/><subtitle lang="bs" line="November December"/><subtitle lang="ca" line="November December"/><subtitle lang="bd" line="November December"/><subtitle lang="bw" line="November December"/><subtitle lang="fj" line="November December"/><subtitle lang="gm" line="November December"/><subtitle lang="gh" line="November December"/><subtitle lang="gy" line="November December"/><subtitle lang="ke" line="November December"/><subtitle lang="mt" line="November December"/><subtitle lang="mu" line="November December"/><subtitle lang="na" line="November December"/><subtitle lang="ng" line="November December"/><subtitle lang="pk" line="November December"/><subtitle lang="rw" line="November December"/><subtitle lang="ws" line="November December"/><subtitle lang="sl" line="November December"/><subtitle lang="sg" line="November December"/><subtitle lang="sb" line="November December"/><subtitle lang="za" line="November December"/><subtitle lang="tz" line="November December"/><subtitle lang="to" line="November December"/><subtitle lang="ug" line="November December"/><subtitle lang="vu" line="November December"/><subtitle lang="zm" line="November December"/><subtitle lang="zw" line="November December"/><subtitle lang="sco" line="November December"/>
+				<subtitle lang="cl" line="Noviembre, Diciembre"/><subtitle lang="es" line="Noviembre, Diciembre"/><subtitle lang="co" line="Noviembre, Diciembre"/><subtitle lang="gt" line="Noviembre, Diciembre"/><subtitle lang="pe" line="Noviembre, Diciembre"/><subtitle lang="ni" line="Noviembre, Diciembre"/><subtitle lang="do" line="Noviembre, Diciembre"/><subtitle lang="bo" line="Noviembre, Diciembre"/><subtitle lang="ve" line="Noviembre, Diciembre"/><subtitle lang="ar" line="Noviembre, Diciembre"/><subtitle lang="cu" line="Noviembre, Diciembre"/><subtitle lang="pr" line="Noviembre, Diciembre"/><subtitle lang="py" line="Noviembre, Diciembre"/><subtitle lang="ec" line="Noviembre, Diciembre"/><subtitle lang="hn" line="Noviembre, Diciembre"/><subtitle lang="sv" line="Noviembre, Diciembre"/><subtitle lang="cr" line="Noviembre, Diciembre"/><subtitle lang="pa" line="Noviembre, Diciembre"/><subtitle lang="mx" line="Noviembre, Diciembre"/>
+				<subtitle lang="ae" line="November December"/>
+				<subtitle lang="ine" line="November December"/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="104418" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="en" line="In winter it was cold"/>
+				<subtitle lang="us" line="In winter it was cold"/><subtitle lang="au" line="In winter it was cold"/><subtitle lang="bz" line="In winter it was cold"/><subtitle lang="jm" line="In winter it was cold"/><subtitle lang="tt" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ag" line="In winter it was cold"/><subtitle lang="dm" line="In winter it was cold"/><subtitle lang="vc" line="In winter it was cold"/><subtitle lang="bs" line="In winter it was cold"/><subtitle lang="ca" line="In winter it was cold"/><subtitle lang="bd" line="In winter it was cold"/><subtitle lang="bw" line="In winter it was cold"/><subtitle lang="fj" line="In winter it was cold"/><subtitle lang="gm" line="In winter it was cold"/><subtitle lang="gh" line="In winter it was cold"/><subtitle lang="gy" line="In winter it was cold"/><subtitle lang="ke" line="In winter it was cold"/><subtitle lang="mt" line="In winter it was cold"/><subtitle lang="mu" line="In winter it was cold"/><subtitle lang="na" line="In winter it was cold"/><subtitle lang="ng" line="In winter it was cold"/><subtitle lang="pk" line="In winter it was cold"/><subtitle lang="rw" line="In winter it was cold"/><subtitle lang="ws" line="In winter it was cold"/><subtitle lang="sl" line="In winter it was cold"/><subtitle lang="sg" line="In winter it was cold"/><subtitle lang="sb" line="In winter it was cold"/><subtitle lang="za" line="In winter it was cold"/><subtitle lang="tz" line="In winter it was cold"/><subtitle lang="to" line="In winter it was cold"/><subtitle lang="ug" line="In winter it was cold"/><subtitle lang="vu" line="In winter it was cold"/><subtitle lang="zm" line="In winter it was cold"/><subtitle lang="zw" line="In winter it was cold"/><subtitle lang="sco" line="In winter it was cold"/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="In winter it was cold"/>
+				<subtitle lang="ine" line="In winter it was cold"/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="105988" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="107754" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="488"/>
+			<highlight index="3" start="1137" length="200"/>
+			<highlight index="4" start="1320" length="200"/>
+			<highlight index="5" start="1510" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="109521" length="2257">
+			<highlight index="0" start="301" length="200"/>
+			<highlight index="1" start="484" length="200"/>
+			<highlight index="2" start="671" length="288"/>
+			<highlight index="3" start="981" length="200"/>
+			<highlight index="4" start="1164" length="200"/>
+			<highlight index="5" start="1351" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="111365" length="2257">
+			<highlight index="0" start="176" length="200"/>
+			<highlight index="1" start="358" length="177"/>
+			<highlight index="2" start="515" length="488"/>
+			<highlight index="3" start="993" length="120"/>
+			<highlight index="4" start="1104" length="200"/>
+			<highlight index="5" start="1292" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="113152" length="2257">
+			<highlight index="0" start="176" length="200"/>
+			<highlight index="1" start="358" length="177"/>
+			<highlight index="2" start="515" length="364"/>
+			<highlight index="3" start="873" length="240"/>
+			<highlight index="4" start="1084" length="122"/>
+			<highlight index="5" start="1209" length="704"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="In winter it was cold"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="115016" length="1374">
+			<highlight index="0" start="0" length="200"/>
+			<highlight index="1" start="173" length="100"/>
+			<highlight index="2" start="256" length="216"/>
+			<highlight index="3" start="646" length="240"/>
+			<highlight index="4" start="865" length="122"/>
+			<highlight index="5" start="967" length="339"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+		<line words="Es war heiss, es war kalt" start="116292" length="1668">
+			<highlight index="0" start="88" length="200"/>
+			<highlight index="1" start="277" length="141"/>
+			<highlight index="2" start="410" length="216"/>
+			<highlight index="3" start="837" length="202"/>
+			<highlight index="4" start="1026" length="166"/>
+			<highlight index="5" start="1186" length="450"/>
+			<subtitles>
+				<subtitle lang="sp" line="En invierno hacía frio"/>
+				<subtitle lang="fr" line="En hiver, il faisait froid"/>
+				<subtitle lang="dk" line="Det var varmt, det var koldt."/>
+				<subtitle lang="nl" line="Het was warm, het was koud."/>
+				<subtitle lang="nz" line="It was hot, it was cold."/>
+				<subtitle lang="en" line="It was hot, it was cold."/>
+				<subtitle lang="us" line="It was hot, it was cold."/><subtitle lang="au" line="It was hot, it was cold."/><subtitle lang="bz" line="It was hot, it was cold."/><subtitle lang="jm" line="It was hot, it was cold."/><subtitle lang="tt" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ag" line="It was hot, it was cold."/><subtitle lang="dm" line="It was hot, it was cold."/><subtitle lang="vc" line="It was hot, it was cold."/><subtitle lang="bs" line="It was hot, it was cold."/><subtitle lang="ca" line="It was hot, it was cold."/><subtitle lang="bd" line="It was hot, it was cold."/><subtitle lang="bw" line="It was hot, it was cold."/><subtitle lang="fj" line="It was hot, it was cold."/><subtitle lang="gm" line="It was hot, it was cold."/><subtitle lang="gh" line="It was hot, it was cold."/><subtitle lang="gy" line="It was hot, it was cold."/><subtitle lang="ke" line="It was hot, it was cold."/><subtitle lang="mt" line="It was hot, it was cold."/><subtitle lang="mu" line="It was hot, it was cold."/><subtitle lang="na" line="It was hot, it was cold."/><subtitle lang="ng" line="It was hot, it was cold."/><subtitle lang="pk" line="It was hot, it was cold."/><subtitle lang="rw" line="It was hot, it was cold."/><subtitle lang="ws" line="It was hot, it was cold."/><subtitle lang="sl" line="It was hot, it was cold."/><subtitle lang="sg" line="It was hot, it was cold."/><subtitle lang="sb" line="It was hot, it was cold."/><subtitle lang="za" line="It was hot, it was cold."/><subtitle lang="tz" line="It was hot, it was cold."/><subtitle lang="to" line="It was hot, it was cold."/><subtitle lang="ug" line="It was hot, it was cold."/><subtitle lang="vu" line="It was hot, it was cold."/><subtitle lang="zm" line="It was hot, it was cold."/><subtitle lang="zw" line="It was hot, it was cold."/><subtitle lang="sco" line="It was hot, it was cold."/>
+				<subtitle lang="cl" line="En invierno hacía frio"/><subtitle lang="es" line="En invierno hacía frio"/><subtitle lang="co" line="En invierno hacía frio"/><subtitle lang="gt" line="En invierno hacía frio"/><subtitle lang="pe" line="En invierno hacía frio"/><subtitle lang="ni" line="En invierno hacía frio"/><subtitle lang="do" line="En invierno hacía frio"/><subtitle lang="bo" line="En invierno hacía frio"/><subtitle lang="ve" line="En invierno hacía frio"/><subtitle lang="ar" line="En invierno hacía frio"/><subtitle lang="cu" line="En invierno hacía frio"/><subtitle lang="pr" line="En invierno hacía frio"/><subtitle lang="py" line="En invierno hacía frio"/><subtitle lang="ec" line="En invierno hacía frio"/><subtitle lang="hn" line="En invierno hacía frio"/><subtitle lang="sv" line="En invierno hacía frio"/><subtitle lang="cr" line="En invierno hacía frio"/><subtitle lang="pa" line="En invierno hacía frio"/><subtitle lang="mx" line="En invierno hacía frio"/>
+				<subtitle lang="ae" line="It was hot, it was cold."/>
+				<subtitle lang="ine" line="It was hot, it was cold."/>
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

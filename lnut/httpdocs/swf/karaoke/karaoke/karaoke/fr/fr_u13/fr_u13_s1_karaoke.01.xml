@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="129201" >
+	<lines>
+		<line words="Bon pour la santé, mauvais pour la santé." start="6980" length="3433" >
+			<highlight index="0" start="956" length="295" />
+			<highlight index="1" start="1256" length="200" />
+			<highlight index="2" start="1445" length="200" />
+			<highlight index="3" start="1608" length="426" />
+			<highlight index="4" start="2055" length="405" />
+			<highlight index="5" start="2460" length="200" />
+			<highlight index="6" start="2654" length="200" />
+			<highlight index="7" start="2849" length="525" />
+			<subtitles>
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="10299" length="2632" >
+			<highlight index="0" start="108" length="200" />
+			<highlight index="1" start="338" length="200" />
+			<highlight index="2" start="544" length="200" />
+			<highlight index="3" start="745" length="593" />
+			<highlight index="4" start="1535" length="226" />
+			<highlight index="5" start="1765" length="200" />
+			<highlight index="6" start="1958" length="218" />
+			<highlight index="7" start="2160" length="471" />
+			<subtitles>
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="12817" length="2975" >
+			<highlight index="0" start="387" length="200" />
+			<highlight index="1" start="573" length="200" />
+			<highlight index="2" start="760" length="200" />
+			<highlight index="3" start="938" length="496" />
+			<highlight index="4" start="1621" length="200" />
+			<highlight index="5" start="1826" length="237" />
+			<highlight index="6" start="2072" length="200" />
+			<highlight index="7" start="2268" length="597" />
+			<subtitles>
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="15563" length="4005" >
+			<highlight index="0" start="233" length="374" />
+			<highlight index="1" start="576" length="282" />
+			<highlight index="2" start="840" length="200" />
+			<highlight index="3" start="1011" length="693" />
+			<highlight index="4" start="1723" length="200" />
+			<highlight index="5" start="1919" length="200" />
+			<highlight index="6" start="2097" length="200" />
+			<highlight index="7" start="2287" length="797" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="29067" length="2746" >
+			<highlight index="0" start="206" length="200" />
+			<highlight index="1" start="395" length="200" />
+			<highlight index="2" start="731" length="240" />
+			<highlight index="3" start="962" length="265" />
+			<highlight index="4" start="1337" length="328" />
+			<highlight index="5" start="1665" length="483" />
+			<highlight index="6" start="2127" length="475" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai une banane c'est bon pour la santé." start="31699" length="2746" >
+			<highlight index="0" start="206" length="200" />
+			<highlight index="1" start="403" length="200" />
+			<highlight index="2" start="651" length="412" />
+			<highlight index="3" start="1093" length="200" />
+			<highlight index="4" start="1316" length="370" />
+			<highlight index="5" start="1677" length="345" />
+			<highlight index="6" start="2051" length="152" />
+			<highlight index="7" start="2258" length="420" />
+			<subtitles>
+				<subtitle lang="en" line="I have a banana it’s good for your health" />
+				<subtitle lang="dk" line="Jeg har en banan den er god for helbredet" />
+				<subtitle lang="nl" line="Ik een banaan, dat is goed voor je, goed voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="34331" length="2746" >
+			<highlight index="0" start="391" length="200" />
+			<highlight index="1" start="584" length="200" />
+			<highlight index="2" start="836" length="295" />
+			<highlight index="3" start="1181" length="269" />
+			<highlight index="4" start="1555" length="211" />
+			<highlight index="5" start="1858" length="200" />
+			<highlight index="6" start="2161" length="256" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai une pomme c'est bon pour la santé." start="36963" length="2746" >
+			<highlight index="0" start="302" length="236" />
+			<highlight index="1" start="538" length="302" />
+			<highlight index="2" start="824" length="492" />
+			<highlight index="3" start="1311" length="200" />
+			<highlight index="4" start="1770" length="200" />
+			<highlight index="5" start="1955" length="200" />
+			<highlight index="6" start="2157" length="200" />
+			<highlight index="7" start="2354" length="379" />
+			<subtitles>
+				<subtitle lang="en" line="I have an apple it’s good for your health." />
+				<subtitle lang="dk" line="Jeg har et æble det er godt for helbredet" />
+				<subtitle lang="nl" line="Ik een appel, dat is goed voor je, goed voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="39481" length="3204" >
+			<highlight index="0" start="515" length="200" />
+			<highlight index="1" start="799" length="200" />
+			<highlight index="2" start="1000" length="432" />
+			<highlight index="3" start="1408" length="579" />
+			<highlight index="4" start="1967" length="407" />
+			<highlight index="5" start="2354" length="334" />
+			<highlight index="6" start="2698" length="319" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai une orange c'est bon pour la santé." start="42571" length="2746" >
+			<highlight index="0" start="290" length="200" />
+			<highlight index="1" start="479" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<highlight index="3" start="1105" length="236" />
+			<highlight index="4" start="1492" length="200" />
+			<highlight index="5" start="1724" length="200" />
+			<highlight index="6" start="2001" length="200" />
+			<highlight index="7" start="2295" length="341" />
+			<subtitles>
+				<subtitle lang="en" line="I have an orange it’s good for your health." />
+				<subtitle lang="dk" line="Jeg har en appelsin den er god for helbredet" />
+				<subtitle lang="nl" line="Sinaasappel, dat is goed voor je, goed voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="45203" length="3204" >
+			<highlight index="0" start="299" length="290" />
+			<highlight index="1" start="632" length="200" />
+			<highlight index="2" start="922" length="260" />
+			<highlight index="3" start="1231" length="324" />
+			<highlight index="4" start="1687" length="200" />
+			<highlight index="5" start="1967" length="200" />
+			<highlight index="6" start="2227" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai de l'eau c'est bon pour la santé." start="48178" length="2746" >
+			<highlight index="0" start="273" length="200" />
+			<highlight index="1" start="462" length="219" />
+			<highlight index="2" start="676" length="200" />
+			<highlight index="3" start="1030" length="248" />
+			<highlight index="4" start="1446" length="176" />
+			<highlight index="5" start="1660" length="337" />
+			<highlight index="6" start="1984" length="194" />
+			<highlight index="7" start="2165" length="500" />
+			<subtitles>
+				<subtitle lang="en" line="I have water it’s good for your health." />
+				<subtitle lang="dk" line="Jeg har vand det er godt for helbredet" />
+				<subtitle lang="nl" line="Ik heb water, dat is goed voor je, goed voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="50810" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="53557" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="56303" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="59164" length="4234" >
+			<highlight index="0" start="110" length="114" />
+			<highlight index="1" start="213" length="250" />
+			<highlight index="2" start="460" length="200" />
+			<highlight index="3" start="654" length="469" />
+			<highlight index="4" start="1303" length="319" />
+			<highlight index="5" start="1685" length="200" />
+			<highlight index="6" start="1873" length="200" />
+			<highlight index="7" start="2081" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="71752" length="3204" >
+			<highlight index="0" start="735" length="290" />
+			<highlight index="1" start="995" length="200" />
+			<highlight index="2" start="1192" length="260" />
+			<highlight index="3" start="1511" length="324" />
+			<highlight index="4" start="1903" length="200" />
+			<highlight index="5" start="2227" length="200" />
+			<highlight index="6" start="2531" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai un gateau c'est mauvais pour la santé." start="74842" length="3090" >
+			<highlight index="0" start="255" length="200" />
+			<highlight index="1" start="435" length="184" />
+			<highlight index="2" start="652" length="459" />
+			<highlight index="3" start="1130" length="251" />
+			<highlight index="4" start="1613" length="312" />
+			<highlight index="5" start="1954" length="200" />
+			<highlight index="6" start="2195" length="200" />
+			<highlight index="7" start="2427" length="563" />
+			<subtitles>
+				<subtitle lang="en" line="I have a cake it’s bad for your health." />
+				<subtitle lang="dk" line="Jeg har en kage den er dårlig for helbredet" />
+				<subtitle lang="nl" line="Ik heb taart, dat is slecht voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="77818" length="2632" >
+			<highlight index="0" start="36" length="290" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="789" length="260" />
+			<highlight index="3" start="1072" length="324" />
+			<highlight index="4" start="1491" length="200" />
+			<highlight index="5" start="1769" length="200" />
+			<highlight index="6" start="2031" length="399" />
+			<highlight index="6" start="2430" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai des chips c'est mauvais pour la santé." start="80335" length="3090" >
+			<highlight index="0" start="402" length="228" />
+			<highlight index="1" start="615" length="200" />
+			<highlight index="2" start="818" length="345" />
+			<highlight index="3" start="1149" length="346" />
+			<highlight index="4" start="1495" length="463" />
+			<highlight index="5" start="2006" length="200" />
+			<highlight index="6" start="2204" length="200" />
+			<highlight index="7" start="2403" length="644" />
+			<subtitles>
+				<subtitle lang="en" line="I have crisps they are bad for your health." />
+				<subtitle lang="dk" line="Jeg har chips de er dårlige for helbredet" />
+				<subtitle lang="nl" line="Ik heb chips, dat is slecht voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="83311" length="2632" >
+			<highlight index="0" start="36" length="290" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="789" length="260" />
+			<highlight index="3" start="1072" length="324" />
+			<highlight index="4" start="1491" length="200" />
+			<highlight index="5" start="1769" length="200" />
+			<highlight index="6" start="2031" length="399" />
+			<highlight index="6" start="2430" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai du chocolat c'est mauvais pour la santé." start="85714" length="3090" >
+			<highlight index="0" start="307" length="200" />
+			<highlight index="1" start="487" length="200" />
+			<highlight index="2" start="671" length="403" />
+			<highlight index="3" start="1234" length="256" />
+			<highlight index="4" start="1518" length="332" />
+			<highlight index="5" start="1845" length="200" />
+			<highlight index="6" start="2044" length="200" />
+			<highlight index="7" start="2266" length="615" />
+			<subtitles>
+				<subtitle lang="en" line="I have chocolate it’s bad for your health." />
+				<subtitle lang="dk" line="Jeg har chokolade det er dårligt for helbredet" />
+				<subtitle lang="nl" line="Chocola, dat is slecht voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Qu'est-ce que tu as comme casse croute?" start="88804" length="2632" >
+			<highlight index="0" start="36" length="290" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="789" length="260" />
+			<highlight index="3" start="1072" length="324" />
+			<highlight index="4" start="1491" length="200" />
+			<highlight index="5" start="1769" length="200" />
+			<highlight index="6" start="2031" length="399" />
+			<highlight index="6" start="2430" length="200" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvad har du i madpakken?" />
+				<subtitle lang="en" line="What do have in your packed lunch?" />
+				<subtitle lang="nl" line="Wat heb jij in je broodrommel?" />
+			</subtitles>
+		</line>
+		<line words="J'ai de la pizza c'est mauvais pour la santé." start="91092" length="3090" >
+			<highlight index="0" start="312" length="200" />
+			<highlight index="1" start="525" length="200" />
+			<highlight index="2" start="643" length="200" />
+			<highlight index="3" start="842" length="369" />
+			<highlight index="4" start="1272" length="303" />
+			<highlight index="5" start="1665" length="497" />
+			<highlight index="6" start="2176" length="180" />
+			<highlight index="7" start="2422" length="166" />
+			<highlight index="8" start="2616" length="289" />
+			<subtitles>
+				<subtitle lang="en" line="I have some pizza it’s bad for your health." />
+				<subtitle lang="dk" line="Jeg har noget pizza det er dårligt for helbredet" />
+				<subtitle lang="nl" line="Een pizza, dat is slecht voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="94182" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="96700" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="99332" length="2976" >
+			<highlight index="0" start="273" length="114" />
+			<highlight index="1" start="442" length="250" />
+			<highlight index="2" start="669" length="200" />
+			<highlight index="3" start="861" length="469" />
+			<highlight index="4" start="1462" length="319" />
+			<highlight index="5" start="1786" length="200" />
+			<highlight index="6" start="1968" length="200" />
+			<highlight index="7" start="2160" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+		<line words="Bon pour la santé, mauvais pour la santé." start="102079" length="16364" >
+			<highlight index="0" start="50" length="114" />
+			<highlight index="1" start="227" length="177" />
+			<highlight index="2" start="445" length="137" />
+			<highlight index="3" start="574" length="469" />
+			<highlight index="4" start="1118" length="319" />
+			<highlight index="5" start="1463" length="200" />
+			<highlight index="6" start="1639" length="200" />
+			<highlight index="7" start="1917" length="679" />
+			<subtitles>
+				<subtitle lang="en" line="Good for your health, bad for health." />
+				<subtitle lang="dk" line="Godt for helbredet, dårligt for helbredet" />
+				<subtitle lang="nl" line="Goed voor je, slecht voor je" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

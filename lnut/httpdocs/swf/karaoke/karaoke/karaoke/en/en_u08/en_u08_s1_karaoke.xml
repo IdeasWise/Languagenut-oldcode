@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="152111" >
+	<lines>
+		<line words="For my birthday I would like" start="5522" length="4403" >
+			<highlight index="0" start="383" length="395" />
+			<highlight index="1" start="760" length="405" />
+			<highlight index="2" start="1149" length="944" />
+			<highlight index="3" start="2070" length="305" />
+			<highlight index="4" start="2365" length="522" />
+			<highlight index="5" start="2875" length="627" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi cumple yo quisiera." />
+				<subtitle lang="cl" line="En mi cumple yo quisiera." />
+				<subtitle lang="mx" line="Para mi cumpleaños me gustaría" />
+				<subtitle lang="nl" line="O voor mijn verjaardag" />
+				<subtitle lang="so" line="Maalinta dhalashadeyda waxaa jeclahay" />
+				<subtitle lang="dk" line="Til min fødselsdag, vil jeg gerne have" />
+				<subtitle lang="cn" line="作为我的生日礼物，我想要" />
+			</subtitles>
+		</line>
+		<line words="I would like, I would like" start="9522" length="4272" >
+			<highlight index="0" start="358" length="398" />
+			<highlight index="1" start="721" length="423" />
+			<highlight index="2" start="1119" length="1080" />
+			<highlight index="3" start="2203" length="318" />
+			<highlight index="4" start="2509" length="565" />
+			<highlight index="5" start="3055" length="805" />
+			<subtitles>
+				<subtitle lang="sp" line="Yo quisiera, yo quisiera:" />
+				<subtitle lang="cl" line="Yo quisiera, yo quisiera:" />
+				<subtitle lang="mx" line="Me gustaría, me gustaría" />
+				<subtitle lang="nl" line="Wil ik graag, wil ik graag..." />
+				<subtitle lang="so" line="Aniga waan jeclahay, aniga waan jeclahay ..... " />
+				<subtitle lang="dk" line="Vil jeg gerne have, vil jeg gerne have…" />
+				<subtitle lang="cn" line="我想要，我想要" />
+			</subtitles>
+		</line>
+		<line words="21 robots, 22 skateboards" start="13805" length="4639" >
+			<highlight index="0" start="315" length="1047" />
+			<highlight index="1" start="1339" length="989" />
+			<highlight index="2" start="2304" length="843" />
+			<highlight index="3" start="3141" length="1204" />
+			<subtitles>
+				<subtitle lang="sp" line="21 robots, 22 scooters" />
+				<subtitle lang="cl" line="21 robots, 22 scooters" />
+				<subtitle lang="mx" line="21 robots, 22 patinetas" />
+				<subtitle lang="nl" line="21 robots, 22 skateboards" />
+				<subtitle lang="so" line="21 robotyo, 22 toyada jilicsan" />
+				<subtitle lang="dk" line="21 robotter, 22 skateboards" />
+				<subtitle lang="cn" line="21个机器人，22个滑板" />
+			</subtitles>
+		</line>
+		<line words="23 toys and 24 guitars" start="17579" length="4639" >
+			<highlight index="0" start="315" length="1047" />
+			<highlight index="1" start="1339" length="603" />
+			<highlight index="2" start="1924" length="486" />
+			<highlight index="3" start="2380" length="1375" />
+			<highlight index="4" start="3755" length="778" />
+			<subtitles>
+				<subtitle lang="sp" line="23 juegos, 24 guitarras." />
+				<subtitle lang="cl" line="23 juegos, 24 guitarras." />
+				<subtitle lang="mx" line="23 juguetes y 24 guitarras.	" />
+				<subtitle lang="nl" line="23 knuffels en 24 gitaren" />
+				<subtitle lang="so" line="23 alwaaxa afar-lug leh iyo 24 kaban" />
+				<subtitle lang="dk" line="23 stykker legetøj og 24 guitarer" />
+				<subtitle lang="cn" line="23个玩具和24把吉他" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt." start="22584" length="5494" >
+			<highlight index="0" start="1140" length="425" />
+			<highlight index="1" start="1559" length="345" />
+			<highlight index="2" start="1879" length="1293" />
+			<highlight index="3" start="3172" length="443" />
+			<highlight index="4" start="3597" length="498" />
+			<highlight index="5" start="4083" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido." />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la " />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I like to share." start="27834" length="4000" >
+			<highlight index="0" start="302" length="661" />
+			<highlight index="1" start="948" length="454" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="298" />
+			<highlight index="4" start="2663" length="640" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me gusta compartir" />
+				<subtitle lang="cl" line="Porque me gusta compartir" />
+				<subtitle lang="mx" line="Porque me gusta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan caruurta wax la wadaago" />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt" start="31374" length="4639" >
+			<highlight index="0" start="285" length="425" />
+			<highlight index="1" start="704" length="345" />
+			<highlight index="2" start="1024" length="1293" />
+			<highlight index="3" start="2317" length="443" />
+			<highlight index="4" start="2742" length="498" />
+			<highlight index="5" start="3228" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido" />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la kool-koolinay	" />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I love to share." start="35769" length="4000" >
+			<highlight index="0" start="302" length="777" />
+			<highlight index="1" start="1059" length="454" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="298" />
+			<highlight index="4" start="2663" length="827" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me encanta compartir" />
+				<subtitle lang="cl" line="Porque me encanta compartir" />
+				<subtitle lang="mx" line="Porque me encanta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan wax la wadaago " />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="For my birthday I would like" start="43675" length="4403" >
+			<highlight index="0" start="383" length="395" />
+			<highlight index="1" start="760" length="405" />
+			<highlight index="2" start="1149" length="944" />
+			<highlight index="3" start="2070" length="305" />
+			<highlight index="4" start="2365" length="522" />
+			<highlight index="5" start="2875" length="627" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi cumple yo quisiera" />
+				<subtitle lang="cl" line="En mi cumple yo quisiera" />
+				<subtitle lang="mx" line="Para mi cumpleaños me gustaría" />
+				<subtitle lang="nl" line="O voor mijn verjaardag wil ik graag..." />
+				<subtitle lang="so" line="Maalinta dhalashadeyda waxaa jeclahay" />
+				<subtitle lang="dk" line="Til min fødselsdag, vil jeg gerne have…" />
+				<subtitle lang="cn" line="作为我的生日礼物，我想要" />
+			</subtitles>
+		</line>
+		<line words="I would like, I would like" start="47610" length="4272" >
+			<highlight index="0" start="301" length="347" />
+			<highlight index="1" start="624" length="520" />
+			<highlight index="2" start="1119" length="1080" />
+			<highlight index="3" start="2203" length="318" />
+			<highlight index="4" start="2509" length="565" />
+			<highlight index="5" start="3055" length="805" />
+			<subtitles>
+				<subtitle lang="sp" line="Yo quisiera, yo quisiera:" />
+				<subtitle lang="cl" line="Yo quisiera, yo quisiera:" />
+				<subtitle lang="mx" line="Me gustaría, me gustaría" />
+				<subtitle lang="nl" line="Wil ik graag, wil ik graag..." />
+				<subtitle lang="so" line="Aniga waan jeclahay, aniga waan jeclahay ..... " />
+				<subtitle lang="dk" line="Vil jeg gerne have, vil jeg gerne have…" />
+				<subtitle lang="cn" line="我想要，我想要" />
+			</subtitles>
+		</line>
+		<line words="25 footballs, 26 kites" start="51395" length="4639" >
+			<highlight index="0" start="315" length="1047" />
+			<highlight index="1" start="1339" length="1123" />
+			<highlight index="2" start="2450" length="801" />
+			<highlight index="3" start="3246" length="673" />
+			<subtitles>
+				<subtitle lang="sp" line="25 balones, 26 papalotes" />
+				<subtitle lang="cl" line="25 balones, 26 papalotes" />
+				<subtitle lang="mx" line="25 balones de football, 26 papalotes" />
+				<subtitle lang="nl" line="25 ballen, 26 vliegers" />
+				<subtitle lang="so" line="25 kubadd, 26 abateey	" />
+				<subtitle lang="dk" line="25 fodbolde, 26 drager" />
+				<subtitle lang="cn" line="25个足球，26只风筝" />
+			</subtitles>
+		</line>
+		<line words="27 books and 28 puppets." start="55546" length="5005" >
+			<highlight index="0" start="388" length="948" />
+			<highlight index="1" start="1306" length="444" />
+			<highlight index="2" start="1740" length="615" />
+			<highlight index="3" start="2335" length="1394" />
+			<highlight index="4" start="3710" length="1111" />
+			<subtitles>
+				<subtitle lang="sp" line="27 libros y 28 títeres." />
+				<subtitle lang="cl" line="27 libros y 28 títeres." />
+				<subtitle lang="mx" line="27 libros y 28 títeres." />
+				<subtitle lang="nl" line="27 boeken en 28 poppen" />
+				<subtitle lang="so" line="27 buugag, 28 boon balo soconayo" />
+				<subtitle lang="dk" line="27 bøger og 28 dukker" />
+				<subtitle lang="cn" line="27本书和28只木偶" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt" start="61405" length="4883" >
+			<highlight index="0" start="529" length="425" />
+			<highlight index="1" start="948" length="345" />
+			<highlight index="2" start="1268" length="1293" />
+			<highlight index="3" start="2561" length="443" />
+			<highlight index="4" start="2986" length="498" />
+			<highlight index="5" start="3472" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido." />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la 	kool-koolinay	" />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I like to share." start="65800" length="4000" >
+			<highlight index="0" start="136" length="827" />
+			<highlight index="1" start="948" length="787" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="353" />
+			<highlight index="4" start="2713" length="877" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me gusta compartir" />
+				<subtitle lang="cl" line="Porque me gusta compartir" />
+				<subtitle lang="mx" line="Porque me gusta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan caruurta wax la wadaago" />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt" start="69219" length="4883" >
+			<highlight index="0" start="529" length="425" />
+			<highlight index="1" start="948" length="345" />
+			<highlight index="2" start="1268" length="1293" />
+			<highlight index="3" start="2561" length="443" />
+			<highlight index="4" start="2986" length="498" />
+			<highlight index="5" start="3472" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido" />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la kool-koolinay	" />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I love to share." start="73921" length="4000" >
+			<highlight index="0" start="136" length="827" />
+			<highlight index="1" start="948" length="787" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="353" />
+			<highlight index="4" start="2713" length="877" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me encanta compartir" />
+				<subtitle lang="cl" line="Porque me encanta compartir" />
+				<subtitle lang="mx" line="Porque me encanta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan wax la wadaago " />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="For my birthday I would like" start="81577" length="4403" >
+			<highlight index="0" start="383" length="395" />
+			<highlight index="1" start="760" length="405" />
+			<highlight index="2" start="1149" length="944" />
+			<highlight index="3" start="2070" length="305" />
+			<highlight index="4" start="2365" length="671" />
+			<highlight index="5" start="3020" length="828" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi cumple yo quisiera" />
+				<subtitle lang="cl" line="En mi cumple yo quisiera" />
+				<subtitle lang="mx" line="Para mi cumpleaños me gustaría" />
+				<subtitle lang="nl" line="O voor mijn verjaardag wil ik graag..." />
+				<subtitle lang="so" line="Maalinta dhalashadeyda waxaa jeclahay" />
+				<subtitle lang="dk" line="Til min fødselsdag, vil jeg gerne have…" />
+				<subtitle lang="cn" line="作为我的生日礼物，我想要" />
+			</subtitles>
+		</line>
+		<line words="I would like, I would like" start="85577" length="4272" >
+			<highlight index="0" start="301" length="347" />
+			<highlight index="1" start="624" length="520" />
+			<highlight index="2" start="1119" length="1080" />
+			<highlight index="3" start="2203" length="318" />
+			<highlight index="4" start="2509" length="565" />
+			<highlight index="5" start="3055" length="805" />
+			<subtitles>
+				<subtitle lang="nl" line="Wil ik graag, wil ik graag..." />
+				<subtitle lang="so" line="Aniga waan jeclahay, aniga waan jeclahay ..... " />
+				<subtitle lang="cl" line="Yo quisiera, yo quisiera:" />
+				<subtitle lang="dk" line="Vil jeg gerne have, vil jeg gerne have…" />
+				<subtitle lang="mx" line="Me gustaría, me gustaría" />
+				<subtitle lang="cn" line="我想要，我想要" />
+			</subtitles>
+		</line>
+		<line words="29 CDs, more fun than that" start="89609" length="4000" >
+			<highlight index="0" start="358" length="736" />
+			<highlight index="1" start="1069" length="716" />
+			<highlight index="2" start="2269" length="479" />
+			<highlight index="3" start="2723" length="200" />
+			<highlight index="4" start="2900" length="338" />
+			<highlight index="5" start="3207" length="560" />
+			<subtitles>
+				<subtitle lang="nl" line="29 cd’s maar nog leuker" />
+				<subtitle lang="cl" line="29 discos, para más fiesta." />
+				<subtitle lang="mx" line="29 discos, más diversión que nada" />
+				<subtitle lang="sp" line="29 discos, para más fiesta." />
+				<subtitle lang="so" line="29 CDs lakin way ka farxad badan yihiin intaas" />
+				<subtitle lang="dk" line="29 CDer og mere sjovt er det med" />
+				<subtitle lang="cn" line="29张CD，比那个更有意思" />
+			</subtitles>
+		</line>
+		<line words="30 friends, yes" start="93634" length="2320" >
+			<highlight index="0" start="222" length="597" />
+			<highlight index="1" start="1263" length="506" />
+			<highlight index="2" start="1752" length="453" />
+			<subtitles>
+				<subtitle lang="sp" line="30 amigos," />
+				<subtitle lang="cl" line="30 amigos," />
+				<subtitle lang="mx" line="30 amigos, sí" />
+				<subtitle lang="nl" line="Mijn 30 vrienden, ja" />
+				<subtitle lang="so" line="Waa asxaabtayda 30 naad" />
+				<subtitle lang="dk" line="30 venner, ja" />
+				<subtitle lang="cn" line="30个朋友，是的" />
+			</subtitles>
+		</line>
+		<line words="30 of my friends" start="95588" length="3174" >
+			<highlight index="0" start="222" length="834" />
+			<highlight index="1" start="1059" length="274" />
+			<highlight index="2" start="1325" length="570" />
+			<highlight index="3" start="1883" length="1134" />
+			<subtitles>
+				<subtitle lang="sp" line="30 de mis amigos." />
+				<subtitle lang="cl" line="30 de mis amigos." />
+				<subtitle lang="mx" line="30 de mis amigos." />
+				<subtitle lang="nl" line="Mijn 30 vrienden" />
+				<subtitle lang="so" line="Haa waa asxaabtayda 30 naad" />
+				<subtitle lang="dk" line="30 af mine venner" />
+				<subtitle lang="cn" line="我的30个朋友" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt" start="99250" length="4883" >
+			<highlight index="0" start="529" length="425" />
+			<highlight index="1" start="948" length="345" />
+			<highlight index="2" start="1268" length="1293" />
+			<highlight index="3" start="2561" length="443" />
+			<highlight index="4" start="2986" length="498" />
+			<highlight index="5" start="3472" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido." />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la kool-koolinay" />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I like to share" start="103889" length="4000" >
+			<highlight index="0" start="136" length="827" />
+			<highlight index="1" start="948" length="787" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="353" />
+			<highlight index="4" start="2713" length="877" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me gusta compartir." />
+				<subtitle lang="cl" line="Porque me gusta compartir." />
+				<subtitle lang="mx" line="Porque me gusta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan wax la wadaago" />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="In my opinion I’m not spoilt" start="107185" length="4883" >
+			<highlight index="0" start="474" length="425" />
+			<highlight index="1" start="874" length="277" />
+			<highlight index="2" start="1120" length="1441" />
+			<highlight index="3" start="2561" length="443" />
+			<highlight index="4" start="2986" length="498" />
+			<highlight index="5" start="3472" length="967" />
+			<subtitles>
+				<subtitle lang="sp" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="cl" line="En mi opinión, no estoy mimado" />
+				<subtitle lang="mx" line="En mi opinión, no soy un niño consentido" />
+				<subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend" />
+				<subtitle lang="so" line="Aniga aragtideyda ma ihi mi la kool-koolinay" />
+				<subtitle lang="dk" line="Efter min mening er jeg ikke forkælet" />
+				<subtitle lang="cn" line="在我看来，我没有被宠坏" />
+			</subtitles>
+		</line>
+		<line words="Because I love to share" start="111824" length="4000" >
+			<highlight index="0" start="136" length="827" />
+			<highlight index="1" start="948" length="787" />
+			<highlight index="2" start="1795" length="610" />
+			<highlight index="3" start="2385" length="353" />
+			<highlight index="4" start="2713" length="877" />
+			<subtitles>
+				<subtitle lang="sp" line="Porque me encanta compartir" />
+				<subtitle lang="cl" line="Porque me encanta compartir" />
+				<subtitle lang="mx" line="Porque me encanta compartir." />
+				<subtitle lang="nl" line="Omdat ik alles heel graag deel" />
+				<subtitle lang="so" line="Sabatoo ah waxaan jeclahay in aan wax la wadaago" />
+				<subtitle lang="dk" line="For jeg kan godt lide at dele" />
+				<subtitle lang="cn" line="因为我喜欢分享" />
+			</subtitles>
+		</line>
+		<line words="21 robots, 22 skate boards" start="119637" length="4639" >
+			<highlight index="0" start="315" length="1047" />
+			<highlight index="1" start="1339" length="989" />
+			<highlight index="2" start="2304" length="843" />
+			<highlight index="3" start="3141" length="614" />
+			<highlight index="4" start="3755" length="778" />
+			<subtitles>
+				<subtitle lang="sp" line="21 robots, 22 scooters" />
+				<subtitle lang="cl" line="21 robots, 22 scooters" />
+				<subtitle lang="mx" line="21 robots, 22 patinetas" />
+				<subtitle lang="nl" line="21 robots, 22 skateboards" />
+				<subtitle lang="so" line="21 robotyo, 22 toyada jilicsan" />
+				<subtitle lang="dk" line="21 robotter, 22 skateboards" />
+				<subtitle lang="cn" line="21个机器人，22个滑板" />
+			</subtitles>
+		</line>
+		<line words="23 toys, 24 guitars" start="123788" length="4639" >
+			<highlight index="0" start="315" length="784" />
+			<highlight index="1" start="1099" length="843" />
+			<highlight index="2" start="1924" length="942" />
+			<highlight index="3" start="2848" length="1071" />
+			<subtitles>
+				<subtitle lang="sp" line="23 juegos, 24 guitarras" />
+				<subtitle lang="cl" line="23 juegos, 24 guitarras" />
+				<subtitle lang="mx" line="23 juguetes y 24 guitarras" />
+				<subtitle lang="nl" line="23 knuffels, 24 gitaren" />
+				<subtitle lang="so" line="23 alwaaxa afar-lug leh iyo 24 kaban" />
+				<subtitle lang="dk" line="23 stykker legetøj og 24 guitarer" />
+				<subtitle lang="cn" line="23个玩具，24把吉他" />
+			</subtitles>
+		</line>
+		<line words="25 footballs, 26 kites" start="127695" length="4639" >
+			<highlight index="0" start="116" length="1129" />
+			<highlight index="1" start="1210" length="1123" />
+			<highlight index="2" start="2310" length="801" />
+			<highlight index="3" start="3076" length="673" />
+			<subtitles>
+				<subtitle lang="sp" line="25 balones, 26 papalotes" />
+				<subtitle lang="cl" line="25 balones, 26 papalotes" />
+				<subtitle lang="mx" line="25 balones de football, 26 papalotes" />
+				<subtitle lang="nl" line="25 ballen, 26 vliegers" />
+				<subtitle lang="so" line="25 kubadd, 26 abateey" />
+				<subtitle lang="dk" line="25 fodbolde, 26 drager" />
+				<subtitle lang="cn" line="25个足球，26只风筝" />
+			</subtitles>
+		</line>
+		<line words="27 books and 28 puppets" start="131601" length="4883" >
+			<highlight index="0" start="279" length="930" />
+			<highlight index="1" start="1179" length="749" />
+			<highlight index="2" start="1905" length="339" />
+			<highlight index="3" start="2232" length="1135" />
+			<highlight index="4" start="3344" length="854" />
+			<subtitles>
+				<subtitle lang="sp" line="27 libros, 28 títeres" />
+				<subtitle lang="cl" line="27 libros, 28 títeres" />
+				<subtitle lang="mx" line="27 libros y 28 títeres" />
+				<subtitle lang="nl" line="27 boeken en 28 poppen" />
+				<subtitle lang="so" line="27 buugag, 28 boon balo soconayo" />
+				<subtitle lang="dk" line="27 bøger og 28 dukker" />
+				<subtitle lang="cn" line="27本书，28只木偶" />
+			</subtitles>
+		</line>
+		<line words="29 CDs and my 30 friends." start="135874" length="5738" >
+			<highlight index="0" start="151" length="943" />
+			<highlight index="1" start="1069" length="716" />
+			<highlight index="2" start="1770" length="393" />
+			<highlight index="3" start="2143" length="545" />
+			<highlight index="4" start="2995" length="861" />
+			<highlight index="5" start="3813" length="1302" />
+			<subtitles>
+				<subtitle lang="sp" line="29 discos y mis 30 amigos." />
+				<subtitle lang="cl" line="29 discos y mis 30 amigos." />
+				<subtitle lang="mx" line="29 discos y mis 30 amigos." />
+				<subtitle lang="nl" line="29 cd’s en mijn 30 vrienden" />
+				<subtitle lang="so" line="29 CDs lakin way ka farxad badan yihiin intaas" />
+				<subtitle lang="dk" line="29 CDer og mine 30 venner" />
+				<subtitle lang="cn" line="29张CD，30个朋友" />
+			</subtitles>
+		</line>
+		<line words="My 30 friends" start="141490" length="5127" >
+			<highlight index="0" start="517" length="879" />
+			<highlight index="1" start="1364" length="847" />
+			<highlight index="2" start="2178" length="2140" />
+			<subtitles>
+				<subtitle lang="nl" line="Mijn 30 vrienden" />
+				<subtitle lang="cl" line="Mis 30 amigos." />
+				<subtitle lang="mx" line="Mis 30 amigos." />
+				<subtitle lang="sp" line="Mis 30 amigos." />
+				<subtitle lang="so" line="Waa asxaabtayda 30 naad" />
+				<subtitle lang="dk" line="Mine 30 venner" />
+				<subtitle lang="cn" line="我的30个朋友" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

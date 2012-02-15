@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="106501" >
+	<lines>
+		<line words="Ich war im Freizeitpark" start="4273" length="4530" >
+			<highlight index="0" start="337" length="422" />
+			<highlight index="1" start="751" length="455" />
+			<highlight index="2" start="1191" length="541" />
+			<highlight index="3" start="1735" length="2474" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="8285" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="534" />
+			<highlight index="3" start="1810" length="479" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también?  ¿fuiste también? " />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="12024" length="4530" >
+			<highlight index="0" start="337" length="422" />
+			<highlight index="1" start="751" length="455" />
+			<highlight index="2" start="1191" length="541" />
+			<highlight index="3" start="1735" length="2474" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="16268" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="534" />
+			<highlight index="3" start="1810" length="479" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Park" start="21283" length="2376" >
+			<highlight index="0" start="365" length="200" />
+			<highlight index="1" start="551" length="464" />
+			<highlight index="2" start="1006" length="599" />
+			<highlight index="3" start="1599" length="543" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc," />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nl" line="Ik ging toen naar het park" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nz" line="I went to the park" />
+				<subtitle lang="en" line="I went to the park" />
+			</subtitles>
+		</line>
+		<line words="Im Freizeitpark" start="23505" length="1966" >
+			<highlight index="0" start="399" length="314" />
+			<highlight index="1" start="704" length="1038" />
+			<subtitles>
+				<subtitle lang="fr" line="Au parc d’atrractions" />
+				<subtitle lang="sp" line="Al parque de atracciones" />
+				<subtitle lang="nz" line="To the theme park" />
+				<subtitle lang="dk" line="I Tivoli" />
+				<subtitle lang="nl" line="Naar het attractiepark" />
+				<subtitle lang="en" line="To the theme park" />
+			</subtitles>
+		</line>
+		<line words="Ich habe das Riesenrad gesehen" start="25300" length="2479" >
+			<highlight index="0" start="373" length="200" />
+			<highlight index="1" start="564" length="200" />
+			<highlight index="2" start="756" length="300" />
+			<highlight index="3" start="1044" length="453" />
+			<highlight index="4" start="1478" length="866" />
+			<subtitles>
+				<subtitle lang="fr" line="Où j’ai vu la grande roue" />
+				<subtitle lang="sp" line="Donde vi una noria grande" />
+				<subtitle lang="nz" line="Where I saw the big wheel" />
+				<subtitle lang="dk" line="Hvor jeg så pariserhjulet" />
+				<subtitle lang="nl" line="Daar zag ik een reuzenrad" />
+				<subtitle lang="en" line="Where I saw the big wheel" />
+			</subtitles>
+		</line>
+		<line words="Und das Karussell" start="27693" length="1881" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="424" length="225" />
+			<highlight index="2" start="638" length="915" />
+			<subtitles>
+				<subtitle lang="fr" line="Et le carousel" />
+				<subtitle lang="sp" line="Y los caballitos" />
+				<subtitle lang="nz" line="And the merry-go-round" />
+				<subtitle lang="dk" line="Og karrusellen" />
+				<subtitle lang="nl" line="En een draaimolen" />
+				<subtitle lang="en" line="And the merry-go-round" />
+			</subtitles>
+		</line>
+		<line words="Ich habe die Achterbahn gesehen" start="29403" length="2478" >
+			<highlight index="0" start="340" length="147" />
+			<highlight index="1" start="478" length="159" />
+			<highlight index="2" start="624" length="200" />
+			<highlight index="3" start="812" length="753" />
+			<highlight index="4" start="1552" length="800" />
+			<subtitles>
+				<subtitle lang="fr" line="Aussi j’ai vu le grand huit" />
+				<subtitle lang="sp" line="Y vi la montaña rusa" />
+				<subtitle lang="nz" line="Also I saw the rollercoaster" />
+				<subtitle lang="dk" line="Jeg så også rutchebanen" />
+				<subtitle lang="nl" line="Er was daar ook een achtbaan " />
+				<subtitle lang="en" line="Also I saw the rollercoaster" />
+			</subtitles>
+		</line>
+		<line words="Und die Gespensterbahn" start="31710" length="1881" >
+			<highlight index="0" start="230" length="200" />
+			<highlight index="1" start="424" length="225" />
+			<highlight index="2" start="638" length="915" />
+			<subtitles>
+				<subtitle lang="fr" line="Et le train fantôme" />
+				<subtitle lang="sp" line="Y el tren fantasma" />
+				<subtitle lang="nl" line="En een eng spookhuis" />
+				<subtitle lang="dk" line="Og spøgelsestoget" />
+				<subtitle lang="nz" line="And the ghost train" />
+				<subtitle lang="en" line="And the ghost train" />
+			</subtitles>
+		</line>
+		<line words="Die hat mir Angst gemacht" start="33546" length="2222" >
+			<highlight index="0" start="375" length="200" />
+			<highlight index="1" start="571" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<highlight index="3" start="958" length="200" />
+			<highlight index="4" start="1154" length="860" />
+			<subtitles>
+				<subtitle lang="fr" line="Qui m’a fait du peur" />
+				<subtitle lang="sp" line="Donde me asusté" />
+				<subtitle lang="nl" line="Dat ik heel erg eng vond" />
+				<subtitle lang="dk" line="Som gjorde mig bange" />
+				<subtitle lang="nz" line="Which made me feel scared" />
+				<subtitle lang="en" line="Which made me feel scared" />
+			</subtitles>
+		</line>
+		<line words="Weil dort ein Gerippe war" start="35471" length="2478" >
+			<highlight index="0" start="243" length="200" />
+			<highlight index="1" start="431" length="200" />
+			<highlight index="2" start="631" length="200" />
+			<highlight index="3" start="821" length="510" />
+			<highlight index="4" start="1321" length="700" />
+			<subtitles>
+				<subtitle lang="fr" line="Car il y avait un squelette" />
+				<subtitle lang="sp" line="Porque había un esqueleto" />
+				<subtitle lang="nz" line="Because there was a skeleton" />
+				<subtitle lang="dk" line="Fordi der var et skelet" />
+				<subtitle lang="nl" line="Want ik zag een skelet " />
+				<subtitle lang="en" line="Because there was a skeleton" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="40316" length="4530" >
+			<highlight index="0" start="337" length="422" />
+			<highlight index="1" start="751" length="455" />
+			<highlight index="2" start="1191" length="541" />
+			<highlight index="3" start="1735" length="2474" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="44446" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="534" />
+			<highlight index="3" start="1810" length="479" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también? ¿también? ¿también?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="48292" length="4530" >
+			<highlight index="0" start="337" length="422" />
+			<highlight index="1" start="751" length="455" />
+			<highlight index="2" start="1191" length="516" />
+			<highlight index="3" start="1696" length="2513" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="52395" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="489" />
+			<highlight index="3" start="1755" length="534" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+		<line words="In der Gespensterbahn" start="57609" length="2052" >
+			<highlight index="0" start="289" length="200" />
+			<highlight index="1" start="473" length="200" />
+			<highlight index="2" start="657" length="818" />
+			<subtitles>
+				<subtitle lang="fr" line="Dans le train fantôme " />
+				<subtitle lang="sp" line="En el tren fantasma" />
+				<subtitle lang="nz" line="In the ghost train" />
+				<subtitle lang="dk" line="I spøgelsestoget" />
+				<subtitle lang="nl" line="In het enge spookhuis" />
+				<subtitle lang="en" line="In the ghost train" />
+			</subtitles>
+		</line>
+		<line words="Die mir Angst gemacht hat" start="59490" length="1965" >
+			<highlight index="0" start="178" length="200" />
+			<highlight index="1" start="366" length="126" />
+			<highlight index="2" start="480" length="302" />
+			<highlight index="3" start="782" length="543" />
+			<highlight index="4" start="1313" length="510" />
+			<subtitles>
+				<subtitle lang="fr" line="Qui m’a fait du peur" />
+				<subtitle lang="sp" line="Donde me asusté" />
+				<subtitle lang="nz" line="Which made me feel scared" />
+				<subtitle lang="dk" line="Som gjorde mig bange" />
+				<subtitle lang="nl" line="Vond ik het heel erg eng" />
+				<subtitle lang="en" line="Which made me feel scared" />
+			</subtitles>
+		</line>
+		<line words="Sah ich eine große Eule" start="61199" length="2479" >
+			<highlight index="0" start="409" length="200" />
+			<highlight index="1" start="593" length="200" />
+			<highlight index="2" start="790" length="357" />
+			<highlight index="3" start="1137" length="666" />
+			<highlight index="4" start="1794" length="650" />
+			<subtitles>
+				<subtitle lang="fr" line="Ja’I vu un grand hibou" />
+				<subtitle lang="sp" line="Vi un buho grande" />
+				<subtitle lang="nz" line="I saw a big owl" />
+				<subtitle lang="dk" line="Så jeg en stor ugle" />
+				<subtitle lang="nl" line="Ik zag een grote uil" />
+				<subtitle lang="en" line="I saw a big owl" />
+			</subtitles>
+		</line>
+		<line words="Und einen großen Wolf" start="63507" length="2137" >
+			<highlight index="0" start="414" length="200" />
+			<highlight index="1" start="594" length="421" />
+			<highlight index="2" start="1002" length="404" />
+			<highlight index="3" start="1396" length="655" />
+			<subtitles>
+				<subtitle lang="fr" line="Aussi un grand loup" />
+				<subtitle lang="sp" line="Y también un lobo grande" />
+				<subtitle lang="nl" line="En een grote wolf" />
+				<subtitle lang="dk" line="Også en stor ulv" />
+				<subtitle lang="nz" line="Also a big wolf" />
+				<subtitle lang="en" line="Also a big wolf" />
+			</subtitles>
+		</line>
+		<line words="Da war ein Monster" start="65387" length="2394" >
+			<highlight index="0" start="365" length="200" />
+			<highlight index="1" start="549" length="395" />
+			<highlight index="2" start="932" length="462" />
+			<highlight index="3" start="1388" length="658" />
+			<subtitles>
+				<subtitle lang="fr" line="Il y avait un monstre" />
+				<subtitle lang="sp" line="Había un monstruo" />
+				<subtitle lang="nl" line="Er was een heel eng monster" />
+				<subtitle lang="dk" line="Der var et uhyre" />
+				<subtitle lang="nz" line="There was a monster" />
+				<subtitle lang="en" line="There was a monster" />
+			</subtitles>
+		</line>
+		<line words="Aber da waren keine Ratten" start="67524" length="2222" >
+			<highlight index="0" start="235" length="199" />
+			<highlight index="1" start="425" length="200" />
+			<highlight index="2" start="610" length="339" />
+			<highlight index="3" start="935" length="337" />
+			<highlight index="4" start="1260" length="468" />
+			<subtitles>
+				<subtitle lang="fr" line="Mais il n’y avait pas de rats" />
+				<subtitle lang="sp" line="Pero no había ratas" />
+				<subtitle lang="nl" line="Maar ratten waren er niet" />
+				<subtitle lang="dk" line="Men der var ingen rotter" />
+				<subtitle lang="nz" line="But there were no rats" />
+				<subtitle lang="en" line="But there were no rats" />
+			</subtitles>
+		</line>
+		<line words="Ich hörte Ketten  " start="69661" length="1966" >
+			<highlight index="0" start="298" length="200" />
+			<highlight index="1" start="482" length="607" />
+			<highlight index="2" start="1077" length="615" />
+			<subtitles>
+				<subtitle lang="fr" line="J’ai entendu des chaines" />
+				<subtitle lang="sp" line="Oí cadenzas" />
+				<subtitle lang="nl" line="Ik hoorde kettingen slaan" />
+				<subtitle lang="dk" line="Jeg hørte nogle kæder" />
+				<subtitle lang="nz" line="I heard some chains" />
+				<subtitle lang="en" line="I heard some chains" />
+			</subtitles>
+		</line>
+		<line words="Es war wirklich furchtbar" start="71627" length="2222" >
+			<highlight index="0" start="151" length="200" />
+			<highlight index="1" start="344" length="241" />
+			<highlight index="2" start="565" length="435" />
+			<highlight index="3" start="997" length="748" />
+			<subtitles>
+				<subtitle lang="fr" line="C’était vraiment affreux" />
+				<subtitle lang="sp" line="Fue terrible" />
+				<subtitle lang="nl" line="Het was echt angstaanjagend" />
+				<subtitle lang="dk" line="Det var virkelig forfærdeligt" />
+				<subtitle lang="nz" line="It was really terrible" />
+				<subtitle lang="en" line="It was really terrible" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="76382" length="4530" >
+			<highlight index="0" start="291" length="354" />
+			<highlight index="1" start="611" length="527" />
+			<highlight index="2" start="1113" length="652" />
+			<highlight index="3" start="1735" length="2474" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="80516" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="534" />
+			<highlight index="3" start="1810" length="479" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+		<line words="Ich war im Freizeitpark" start="84192" length="4530" >
+			<highlight index="0" start="291" length="354" />
+			<highlight index="1" start="611" length="527" />
+			<highlight index="2" start="1113" length="652" />
+			<highlight index="3" start="1735" length="2474" />
+			<subtitles>
+				<subtitle lang="fr" line="Je suis allé au parc d’attractions" />
+				<subtitle lang="sp" line="Fui al parque de atracciones" />
+				<subtitle lang="nz" line="I went to the theme park" />
+				<subtitle lang="dk" line="Jeg var i Tivoli" />
+				<subtitle lang="nl" line="Ik ging naar een attractiepark" />
+				<subtitle lang="en" line="I went to the theme park" />
+			</subtitles>
+		</line>
+		<line words="Warst Du auch da? Du auch? Du auch?" start="88380" length="4000" >
+			<highlight index="0" start="211" length="681" />
+			<highlight index="1" start="867" length="439" />
+			<highlight index="2" start="1286" length="534" />
+			<highlight index="3" start="1810" length="479" />
+			<highlight index="4" start="2279" length="308" />
+			<highlight index="5" start="2572" length="348" />
+			<highlight index="6" start="2900" length="328" />
+			<highlight index="7" start="3207" length="449" />
+			<subtitles>
+				<subtitle lang="fr" line="Est-ce que tu es allé aussi aussi aussi?" />
+				<subtitle lang="sp" line="¿fuiste también?¿también? ¿también?" />
+				<subtitle lang="nl" line="Ging jij toevallig ook? Ook? Ook?" />
+				<subtitle lang="dk" line="Var du også? Også? Også?" />
+				<subtitle lang="nz" line="Did you go too? Too? Too?" />
+				<subtitle lang="en" line="Did you go too? Too? Too?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

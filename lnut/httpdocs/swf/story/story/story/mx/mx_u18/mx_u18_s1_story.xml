@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="267232" >
+	<lines>
+		<line words="Érase un grupo de pequeñas creaturas feroces que vivían en los cráteres del gran planeta rojo, Marte, del lado más cercano al Sol." start="0" length="13980" useLNutResource="true" image="18#1#3" >
+			<highlights>
+				<highlight index="0" start="2755" length="547" />
+				<highlight index="1" start="3221" length="243" />
+				<highlight index="2" start="3403" length="446" />
+				<highlight index="3" start="3768" length="243" />
+				<highlight index="4" start="3930" length="527" />
+				<highlight index="5" start="4396" length="830" />
+				<highlight index="6" start="5145" length="709" />
+				<highlight index="7" start="5976" length="203" />
+				<highlight index="8" start="6118" length="486" />
+				<highlight index="9" start="6564" length="243" />
+				<highlight index="10" start="6746" length="202" />
+				<highlight index="11" start="6888" length="729" />
+				<highlight index="12" start="7516" length="324" />
+				<highlight index="13" start="7759" length="405" />
+				<highlight index="14" start="8124" length="587" />
+				<highlight index="15" start="8630" length="547" />
+				<highlight index="16" start="9359" length="588" />
+				<highlight index="17" start="10514" length="284" />
+				<highlight index="18" start="10737" length="385" />
+				<highlight index="19" start="11041" length="324" />
+				<highlight index="20" start="11304" length="588" />
+				<highlight index="21" start="11831" length="203" />
+				<highlight index="22" start="11973" length="727" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="There was a group of small, fiery creatures who lived in craters on the big, red planet Mars, on the side nearest the sun." />
+				<subtitle lang="en" line="There was a group of small, fiery creatures who lived in craters on the big, red planet Mars, on the side nearest the sun." />
+			</subtitles>
+		</line>
+		<line words="Se llamaban Quoxi." start="13522" length="5271" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1886" length="290" />
+				<highlight index="1" start="2138" length="642" />
+				<highlight index="2" start="2765" length="727" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="They were called Quoxi." />
+				<subtitle lang="en" line="They were called Quoxi." />
+			</subtitles>
+		</line>
+		<line words="Ellos tenían una vida rápida y brusca, y discutían unos con los otros todo el tiempo." start="18105" length="10543" useLNutResource="true" image="18#2#3" >
+			<highlights>
+				<highlight index="0" start="1879" length="473" />
+				<highlight index="1" start="2307" length="519" />
+				<highlight index="2" start="2750" length="366" />
+				<highlight index="3" start="3055" length="367" />
+				<highlight index="4" start="3361" length="810" />
+				<highlight index="5" start="4125" length="275" />
+				<highlight index="6" start="4339" length="595" />
+				<highlight index="7" start="5393" length="244" />
+				<highlight index="8" start="5622" length="810" />
+				<highlight index="9" start="6401" length="627" />
+				<highlight index="10" start="6997" length="183" />
+				<highlight index="11" start="7119" length="306" />
+				<highlight index="12" start="7379" length="489" />
+				<highlight index="13" start="7837" length="581" />
+				<highlight index="14" start="8372" length="199" />
+				<highlight index="15" start="8525" length="887" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="They lived quick, sharp lives and argued with each other all the time." />
+				<subtitle lang="en" line="They lived quick, sharp lives and argued with each other all the time." />
+			</subtitles>
+		</line>
+		<line words="La Quoxi más pequeña y joven se llamaba Hilda. A Hilda no le gustaban las discusiones, ni las prisas. Ella decidió que quería encontrar un lugar más amigable para vivir." start="28189" length="17877" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1787" length="415" />
+				<highlight index="1" start="2098" length="518" />
+				<highlight index="2" start="2538" length="337" />
+				<highlight index="3" start="2823" length="622" />
+				<highlight index="4" start="3419" length="259" />
+				<highlight index="5" start="3575" length="621" />
+				<highlight index="6" start="4352" length="311" />
+				<highlight index="7" start="4559" length="570" />
+				<highlight index="8" start="5025" length="596" />
+				<highlight index="9" start="6243" length="440" />
+				<highlight index="10" start="6580" length="803" />
+				<highlight index="11" start="7305" length="337" />
+				<highlight index="12" start="7564" length="233" />
+				<highlight index="13" start="7720" length="647" />
+				<highlight index="14" start="8264" length="311" />
+				<highlight index="15" start="8497" length="1114" />
+				<highlight index="16" start="9818" length="259" />
+				<highlight index="17" start="10000" length="336" />
+				<highlight index="18" start="10285" length="647" />
+				<highlight index="19" start="11424" length="596" />
+				<highlight index="20" start="11943" length="725" />
+				<highlight index="21" start="12590" length="415" />
+				<highlight index="22" start="12953" length="440" />
+				<highlight index="23" start="13264" length="699" />
+				<highlight index="24" start="13834" length="414" />
+				<highlight index="25" start="14119" length="440" />
+				<highlight index="26" start="14430" length="466" />
+				<highlight index="27" start="14766" length="778" />
+				<highlight index="28" start="15440" length="414" />
+				<highlight index="29" start="15803" length="1003" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="The smallest, youngest Quoxi is called Hilda. Hilda didn’t like all the arguments and the rushing about.She decided that she wanted to find a more friendly place to live." />
+				<subtitle lang="en" line="The smallest, youngest Quoxi is called Hilda. Hilda didn’t like all the arguments and the rushing about.She decided that she wanted to find a more friendly place to live." />
+			</subtitles>
+		</line>
+		<line words="Entonces, todos los días, ella caminaba un poco más lejos de su casa para explorar su planeta." start="45837" length="11688" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1626" length="1067" />
+				<highlight index="1" start="2642" length="813" />
+				<highlight index="2" start="3421" length="271" />
+				<highlight index="3" start="3641" length="441" />
+				<highlight index="4" start="4759" length="453" />
+				<highlight index="5" start="5098" length="711" />
+				<highlight index="6" start="5792" length="288" />
+				<highlight index="7" start="5996" length="575" />
+				<highlight index="8" start="6487" length="372" />
+				<highlight index="9" start="6809" length="508" />
+				<highlight index="10" start="7232" length="186" />
+				<highlight index="11" start="7351" length="237" />
+				<highlight index="12" start="7520" length="776" />
+				<highlight index="13" start="8316" length="356" />
+				<highlight index="14" start="8587" length="796" />
+				<highlight index="15" start="9298" length="305" />
+				<highlight index="16" start="9519" length="1216" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="So everyday she would walk a little bit further away from home and explore her planet." />
+				<subtitle lang="en" line="So everyday she would walk a little bit further away from home and explore her planet." />
+			</subtitles>
+		</line>
+		<line words="Un día mientras hacía una larga caminata, Hilda se sentó a comerse su lunch en una suave roca azul. " start="56838" length="11230" useLNutResource="true" image="18#2#2" >
+			<highlights>
+				<highlight index="0" start="2262" length="276" />
+				<highlight index="1" start="2489" length="375" />
+				<highlight index="2" start="3010" length="749" />
+				<highlight index="3" start="3726" length="472" />
+				<highlight index="4" start="4101" length="341" />
+				<highlight index="5" start="4394" length="423" />
+				<highlight index="6" start="4752" length="830" />
+				<highlight index="7" start="6053" length="538" />
+				<highlight index="8" start="6542" length="228" />
+				<highlight index="9" start="6672" length="472" />
+				<highlight index="10" start="7095" length="147" />
+				<highlight index="11" start="7160" length="667" />
+				<highlight index="12" start="7746" length="293" />
+				<highlight index="13" start="7990" length="602" />
+				<highlight index="14" start="8788" length="260" />
+				<highlight index="15" start="8999" length="293" />
+				<highlight index="16" start="9227" length="537" />
+				<highlight index="17" start="9715" length="505" />
+				<highlight index="18" start="10187" length="867" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="One day while on a long walk Hilda sat down to eat her lunch on a soft, blue rock. " />
+				<subtitle lang="en" line="One day while on a long walk Hilda sat down to eat her lunch on a soft, blue rock. " />
+			</subtitles>
+		</line>
+		<line words="Justo cuando estaba quitándole la tapa a su yogurt, la suave roca azul de repente comenzó a moverse y ella tiró el yogurt sobre sus rodillas." start="67839" length="13293" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="173" length="963" />
+				<highlight index="1" start="1040" length="424" />
+				<highlight index="2" start="1367" length="347" />
+				<highlight index="3" start="1675" length="771" />
+				<highlight index="4" start="2369" length="231" />
+				<highlight index="5" start="2523" length="694" />
+				<highlight index="6" start="3140" length="154" />
+				<highlight index="7" start="3236" length="212" />
+				<highlight index="8" start="3351" length="655" />
+				<highlight index="9" start="4315" length="250" />
+				<highlight index="10" start="4507" length="674" />
+				<highlight index="11" start="5085" length="405" />
+				<highlight index="12" start="5413" length="500" />
+				<highlight index="13" start="6183" length="212" />
+				<highlight index="14" start="6318" length="848" />
+				<highlight index="15" start="7108" length="501" />
+				<highlight index="16" start="7532" length="212" />
+				<highlight index="17" start="7667" length="712" />
+				<highlight index="18" start="8668" length="347" />
+				<highlight index="19" start="8938" length="366" />
+				<highlight index="20" start="9593" length="443" />
+				<highlight index="21" start="9997" length="155" />
+				<highlight index="22" start="10132" length="617" />
+				<highlight index="23" start="10691" length="347" />
+				<highlight index="24" start="10961" length="269" />
+				<highlight index="25" start="11153" length="1040" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Just as she was peeling the lid off her yoghurt the soft, blue rock suddenly moved and she spilt the yoghurt all over her knees." />
+				<subtitle lang="en" line="Just as she was peeling the lid off her yoghurt the soft, blue rock suddenly moved and she spilt the yoghurt all over her knees." />
+			</subtitles>
+		</line>
+		<line words="Ella miró a su alrededor y ¡se dio cuenta de que la roca estaba pegada a una gran pierna azul! Hilda miró hacia arriba y pareciera que la pierna desaparecía en la atmosfera." start="80902" length="17648" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1687" length="691" />
+				<highlight index="1" start="2327" length="511" />
+				<highlight index="2" start="2736" length="179" />
+				<highlight index="3" start="2813" length="409" />
+				<highlight index="4" start="3145" length="691" />
+				<highlight index="5" start="4296" length="307" />
+				<highlight index="6" start="4577" length="205" />
+				<highlight index="7" start="4705" length="435" />
+				<highlight index="8" start="5038" length="639" />
+				<highlight index="9" start="5958" length="282" />
+				<highlight index="10" start="6163" length="179" />
+				<highlight index="11" start="6291" length="281" />
+				<highlight index="12" start="6444" length="358" />
+				<highlight index="13" start="6726" length="588" />
+				<highlight index="14" start="7160" length="717" />
+				<highlight index="15" start="7800" length="307" />
+				<highlight index="16" start="8004" length="435" />
+				<highlight index="17" start="8439" length="333" />
+				<highlight index="18" start="8721" length="613" />
+				<highlight index="19" start="9232" length="486" />
+				<highlight index="20" start="10102" length="613" />
+				<highlight index="21" start="10920" length="460" />
+				<highlight index="22" start="11329" length="435" />
+				<highlight index="23" start="11662" length="511" />
+				<highlight index="24" start="12531" length="358" />
+				<highlight index="25" start="12787" length="742" />
+				<highlight index="26" start="13452" length="256" />
+				<highlight index="27" start="13657" length="153" />
+				<highlight index="28" start="13733" length="742" />
+				<highlight index="29" start="14449" length="1049" />
+				<highlight index="30" start="15396" length="179" />
+				<highlight index="31" start="15421" length="333" />
+				<highlight index="32" start="15677" length="1376" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="She looked round and found the rock was attached to a big blue leg! Hilda looked up and the leg seemed to disappear into the upper atmosphere." />
+				<subtitle lang="en" line="She looked round and found the rock was attached to a big blue leg! Hilda looked up and the leg seemed to disappear into the upper atmosphere." />
+			</subtitles>
+		</line>
+		<line words="Mientras estaba observando, una gigante cara azul bajó a través de las nubes para ver a Hilda. La cara tenía una boca parecida a un valle y una nariz parecida a una cordillera de montañas." start="98086" length="19481" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1806" length="875" />
+				<highlight index="1" start="2653" length="480" />
+				<highlight index="2" start="3077" length="790" />
+				<highlight index="4" start="4714" length="678" />
+				<highlight index="5" start="5335" length="424" />
+				<highlight index="6" start="5674" length="565" />
+				<highlight index="7" start="6154" length="395" />
+				<highlight index="8" start="6493" length="254" />
+				<highlight index="9" start="6634" length="423" />
+				<highlight index="10" start="6944" length="283" />
+				<highlight index="11" start="7114" length="282" />
+				<highlight index="12" start="7340" length="536" />
+				<highlight index="13" start="7791" length="763" />
+				<highlight index="14" start="8384" length="254" />
+				<highlight index="15" start="8525" length="198" />
+				<highlight index="16" start="8610" length="678" />
+				<highlight index="17" start="9965" length="339" />
+				<highlight index="18" start="10191" length="565" />
+				<highlight index="19" start="10586" length="621" />
+				<highlight index="20" start="11094" length="396" />
+				<highlight index="21" start="11405" length="423" />
+				<highlight index="22" start="11744" length="790" />
+				<highlight index="23" start="12421" length="226" />
+				<highlight index="24" start="12591" length="254" />
+				<highlight index="25" start="12788" length="508" />
+				<highlight index="26" start="13522" length="254" />
+				<highlight index="27" start="13692" length="367" />
+				<highlight index="28" start="14002" length="537" />
+				<highlight index="29" start="14793" length="931" />
+				<highlight index="30" start="15583" length="254" />
+				<highlight index="31" start="15781" length="310" />
+				<highlight index="32" start="16007" length="762" />
+				<highlight index="33" start="16656" length="367" />
+				<highlight index="34" start="16854" length="1611" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="As she was looking up a giant blue face came down through the whispy clouds to look at her. The face had a mouth like a valley and a nose like a range of mountains." />
+				<subtitle lang="en" line="As she was looking up a giant blue face came down through the whispy clouds to look at her. The face had a mouth like a valley and a nose like a range of mountains." />
+			</subtitles>
+		</line>
+		<line words="—¡Hola! —dijo la gigante cara azul. —Hola —dijo Hilda." start="117572" length="11460" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1876" length="980" />
+				<highlight index="1" start="3072" length="432" />
+				<highlight index="2" start="3437" length="216" />
+				<highlight index="3" start="3587" length="681" />
+				<highlight index="4" start="4185" length="382" />
+				<highlight index="5" start="4517" length="415" />
+				<highlight index="6" start="7822" length="548" />
+				<highlight index="7" start="8934" length="482" />
+				<highlight index="8" start="9366" length="747" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Hello” said the giant blue face.“Hello” said Hilda." />
+				<subtitle lang="en" line="“Hello” said the giant blue face.“Hello” said Hilda." />
+			</subtitles>
+		</line>
+		<line words="—¿Qué estás haciendo aquí? —preguntó el gigante lentamente con una voz grave. —Bueno, caminé hasta aquí para buscar y encontrar un lindo lugar para vivir, porque mi casa es muy caliente y todo es muy rápido." start="129032" length="24523" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1385" length="356" />
+				<highlight index="1" start="1705" length="640" />
+				<highlight index="2" start="2238" length="853" />
+				<highlight index="3" start="2949" length="853" />
+				<highlight index="4" start="4762" length="710" />
+				<highlight index="5" start="5330" length="178" />
+				<highlight index="6" start="5472" length="676" />
+				<highlight index="7" start="6041" length="1350" />
+				<highlight index="8" start="7285" length="391" />
+				<highlight index="9" start="7569" length="355" />
+				<highlight index="10" start="7782" length="320" />
+				<highlight index="11" start="8031" length="640" />
+				<highlight index="12" start="11656" length="604" />
+				<highlight index="13" start="12758" length="675" />
+				<highlight index="14" start="13255" length="498" />
+				<highlight index="15" start="13717" length="284" />
+				<highlight index="16" start="13824" length="462" />
+				<highlight index="17" start="14179" length="675" />
+				<highlight index="18" start="14677" length="355" />
+				<highlight index="19" start="14925" length="782" />
+				<highlight index="20" start="15601" length="462" />
+				<highlight index="21" start="15885" length="498" />
+				<highlight index="22" start="16276" length="462" />
+				<highlight index="23" start="16702" length="356" />
+				<highlight index="24" start="16951" length="640" />
+				<highlight index="25" start="17449" length="853" />
+				<highlight index="26" start="18195" length="391" />
+				<highlight index="27" start="18550" length="640" />
+				<highlight index="28" start="19048" length="426" />
+				<highlight index="29" start="19368" length="355" />
+				<highlight index="30" start="19652" length="924" />
+				<highlight index="31" start="21251" length="320" />
+				<highlight index="32" start="21500" length="533" />
+				<highlight index="33" start="21855" length="356" />
+				<highlight index="34" start="22140" length="604" />
+				<highlight index="35" start="22531" length="1301" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“What are you doing here?” asked the giant in a slow, low voice.“Well, I have walked here to try and find somewhere nice to live because my home is too hot and too quick." />
+				<subtitle lang="en" line="“What are you doing here?” asked the giant in a slow, low voice.“Well, I have walked here to try and find somewhere nice to live because my home is too hot and too quick." />
+			</subtitles>
+		</line>
+		<line words="—¡Ooh! —dijo el gigante—, yo he caminado hasta aquí desde ese lugar—. Él señaló hacía el otro lado del planeta. –Porque mi casa es muy fría y todo es muy lento y nunca vemos el Sol." start="153326" length="24752" useLNutResource="true" image="18#2#7" >
+			<highlights>
+				<highlight index="0" start="1721" length="1507" />
+				<highlight index="1" start="3371" length="610" />
+				<highlight index="2" start="3838" length="287" />
+				<highlight index="3" start="4017" length="861" />
+				<highlight index="4" start="5739" length="502" />
+				<highlight index="5" start="6062" length="286" />
+				<highlight index="6" start="6241" length="932" />
+				<highlight index="7" start="7066" length="610" />
+				<highlight index="8" start="7676" length="466" />
+				<highlight index="9" start="7998" length="503" />
+				<highlight index="10" start="8393" length="682" />
+				<highlight index="11" start="8967" length="681" />
+				<highlight index="12" start="10402" length="430" />
+				<highlight index="13" start="10760" length="646" />
+				<highlight index="14" start="11299" length="573" />
+				<highlight index="15" start="11729" length="287" />
+				<highlight index="16" start="11908" length="359" />
+				<highlight index="17" start="12159" length="395" />
+				<highlight index="18" start="12518" length="323" />
+				<highlight index="19" start="12733" length="789" />
+				<highlight index="20" start="14276" length="968" />
+				<highlight index="21" start="15065" length="394" />
+				<highlight index="22" start="15352" length="610" />
+				<highlight index="23" start="15818" length="466" />
+				<highlight index="24" start="16213" length="753" />
+				<highlight index="25" start="16751" length="825" />
+				<highlight index="26" start="17719" length="395" />
+				<highlight index="27" start="18006" length="574" />
+				<highlight index="28" start="18472" length="503" />
+				<highlight index="29" start="18831" length="1327" />
+				<highlight index="30" start="20015" length="897" />
+				<highlight index="31" start="21091" length="502" />
+				<highlight index="32" start="21450" length="896" />
+				<highlight index="33" start="22203" length="753" />
+				<highlight index="34" start="22849" length="322" />
+				<highlight index="35" start="23028" length="1133" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Oh” said the giant, “I have walked here from over that way,” he pointed towards the other side of the planet, “because my home is frozen and slow and we never see the sun.”" />
+				<subtitle lang="en" line="“Oh” said the giant, “I have walked here from over that way,” he pointed towards the other side of the planet, “because my home is frozen and slow and we never see the sun.”" />
+			</subtitles>
+		</line>
+		<line words="—Ooh! —dijo Hilda emocionada—, bueno, tal vez podamos vivir aquí, no es tan caliente, ni tan frio." start="177619" length="13522" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2469" length="1038" />
+				<highlight index="1" start="3683" length="608" />
+				<highlight index="2" start="4213" length="411" />
+				<highlight index="3" start="4507" length="999" />
+				<highlight index="4" start="6074" length="568" />
+				<highlight index="5" start="6936" length="353" />
+				<highlight index="6" start="7172" length="411" />
+				<highlight index="7" start="7505" length="881" />
+				<highlight index="8" start="8328" length="450" />
+				<highlight index="9" start="8700" length="470" />
+				<highlight index="10" start="9582" length="353" />
+				<highlight index="11" start="9856" length="274" />
+				<highlight index="12" start="10013" length="451" />
+				<highlight index="13" start="10405" length="705" />
+				<highlight index="14" start="11012" length="333" />
+				<highlight index="15" start="11247" length="294" />
+				<highlight index="16" start="11463" length="588" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“Oh” said Hilda excitedly, ”well, maybe we could live here, It’s not too hot and not too cold.”" />
+				<subtitle lang="en" line="“Oh” said Hilda excitedly, ”well, maybe we could live here, It’s not too hot and not too cold.”" />
+			</subtitles>
+		</line>
+		<line words="Con esto el gigante sonrió y levantó a Hilda, llevándola más arriba de las nubes. —¡Ooh wow! —dijo Hilda—, podemos ver el Sol y la Luna y…, —Volteó a ver al gigante—, ¿Qué son todos esos otros planetas?" start="190454" length="26356" useLNutResource="true" image="18#1#10" >
+			<highlights>
+				<highlight index="0" start="1871" length="611" />
+				<highlight index="1" start="2291" length="535" />
+				<highlight index="2" start="2902" length="459" />
+				<highlight index="3" start="3208" length="764" />
+				<highlight index="4" start="3895" length="802" />
+				<highlight index="5" start="4583" length="420" />
+				<highlight index="6" start="4812" length="649" />
+				<highlight index="7" start="5423" length="267" />
+				<highlight index="8" start="5538" length="725" />
+				<highlight index="9" start="6493" length="1069" />
+				<highlight index="10" start="7371" length="649" />
+				<highlight index="11" start="7906" length="611" />
+				<highlight index="12" start="8364" length="229" />
+				<highlight index="13" start="8479" length="496" />
+				<highlight index="14" start="8822" length="688" />
+				<highlight index="15" start="12374" length="841" />
+				<highlight index="16" start="13100" length="879" />
+				<highlight index="17" start="14552" length="534" />
+				<highlight index="18" start="14972" length="649" />
+				<highlight index="19" start="16003" length="802" />
+				<highlight index="20" start="16729" length="305" />
+				<highlight index="21" start="16920" length="305" />
+				<highlight index="22" start="17034" length="688" />
+				<highlight index="23" start="17645" length="420" />
+				<highlight index="24" start="17836" length="344" />
+				<highlight index="25" start="18027" length="535" />
+				<highlight index="26" start="18447" length="726" />
+				<highlight index="27" start="19479" length="840" />
+				<highlight index="28" start="20166" length="344" />
+				<highlight index="29" start="20357" length="382" />
+				<highlight index="30" start="20586" length="268" />
+				<highlight index="31" start="20701" length="878" />
+				<highlight index="32" start="22343" length="497" />
+				<highlight index="33" start="22687" length="420" />
+				<highlight index="34" start="22992" length="497" />
+				<highlight index="35" start="23374" length="459" />
+				<highlight index="36" start="23680" length="611" />
+				<highlight index="37" start="24177" length="1345" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="With that the giant smiled and lifted Hilda up, bringing her high above the clouds. “Oh wow!” said Hilda,”we can see the sun and the moon and…” she looked back to the giant, “what are all those other planets?”" />
+				<subtitle lang="en" line="With that the giant smiled and lifted Hilda up, bringing her high above the clouds. “Oh wow!” said Hilda,”we can see the sun and the moon and…” she looked back to the giant, “what are all those other planets?”" />
+			</subtitles>
+		</line>
+		<line words="—Podemos verlos todos desde aquí, Hilda: Mercurio, Venus, Plutón; por allá están Júpiter y Urano, y justo aquí abajo está Neptuno y el planeta Tierra." start="216907" length="24982" useLNutResource="true" image="18#1#9" >
+			<highlights>
+				<highlight index="0" start="1918" length="1050" />
+				<highlight index="1" start="2787" length="724" />
+				<highlight index="2" start="3439" length="869" />
+				<highlight index="3" start="4163" length="543" />
+				<highlight index="4" start="4525" length="869" />
+				<highlight index="5" start="5285" length="797" />
+				<highlight index="6" start="7168" length="1267" />
+				<highlight index="7" start="9195" length="978" />
+				<highlight index="8" start="10824" length="942" />
+				<highlight index="9" start="12743" length="398" />
+				<highlight index="10" start="12960" length="688" />
+				<highlight index="11" start="13503" length="833" />
+				<highlight index="12" start="14264" length="977" />
+				<highlight index="13" start="15313" length="290" />
+				<highlight index="14" start="15531" length="941" />
+				<highlight index="15" start="16725" length="399" />
+				<highlight index="16" start="17051" length="760" />
+				<highlight index="17" start="17667" length="760" />
+				<highlight index="18" start="18318" length="1141" />
+				<highlight index="19" start="19622" length="760" />
+				<highlight index="20" start="20237" length="1231" />
+				<highlight index="21" start="21830" length="290" />
+				<highlight index="22" start="22047" length="398" />
+				<highlight index="23" start="22301" length="905" />
+				<highlight index="24" start="22989" length="1286" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="“We can see them all from here, Hilda; Mercury, Venus, Pluto, over there are Jupiter and Uranus, and right down there are Neptune and planet Earth.”" />
+				<subtitle lang="en" line="“We can see them all from here, Hilda; Mercury, Venus, Pluto, over there are Jupiter and Uranus, and right down there are Neptune and planet Earth.”" />
+			</subtitles>
+		</line>
+		<line words="Hilda le ofreció al gigante compartir su manzana y los dos decidieron, ahí y entonces, construir juntos un hogar acogedor en este hermoso lugar." start="241563" length="16272" useLNutResource="true" image="13#1#3" >
+			<highlights>
+				<highlight index="0" start="1910" length="495" />
+				<highlight index="1" start="2287" length="283" />
+				<highlight index="2" start="2499" length="637" />
+				<highlight index="3" start="3041" length="260" />
+				<highlight index="4" start="3230" length="849" />
+				<highlight index="5" start="4008" length="708" />
+				<highlight index="6" start="4669" length="330" />
+				<highlight index="7" start="4881" length="990" />
+				<highlight index="8" start="5753" length="307" />
+				<highlight index="9" start="5989" length="354" />
+				<highlight index="10" start="6248" length="401" />
+				<highlight index="11" start="6579" length="896" />
+				<highlight index="12" start="7522" length="589" />
+				<highlight index="13" start="7993" length="401" />
+				<highlight index="14" start="8276" length="967" />
+				<highlight index="15" start="9149" length="1203" />
+				<highlight index="16" start="10257" length="802" />
+				<highlight index="17" start="11200" length="354" />
+				<highlight index="18" start="11460" length="495" />
+				<highlight index="19" start="11861" length="754" />
+				<highlight index="20" start="12828" length="400" />
+				<highlight index="21" start="13134" length="542" />
+				<highlight index="22" start="13629" length="566" />
+				<highlight index="23" start="14124" length="696" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="Hilda offered to share her apple with the giant and the two of them decided there and then to make a cosy home together in this beautiful spot." />
+				<subtitle lang="en" line="Hilda offered to share her apple with the giant and the two of them decided there and then to make a cosy home together in this beautiful spot." />
+			</subtitles>
+		</line>
+		<line words="Esa noche se quedaron dormidos contando los planetas y las estrellas que se podían ver en el cielo." start="257606" length="10084" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1607" length="409" />
+				<highlight index="1" start="1987" length="511" />
+				<highlight index="2" start="2455" length="204" />
+				<highlight index="3" start="2571" length="643" />
+				<highlight index="4" start="3141" length="833" />
+				<highlight index="5" start="3916" length="1140" />
+				<highlight index="6" start="4997" length="278" />
+				<highlight index="7" start="5216" length="790" />
+				<highlight index="8" start="6108" length="219" />
+				<highlight index="9" start="6254" length="292" />
+				<highlight index="10" start="6473" length="960" />
+				<highlight index="11" start="7555" length="233" />
+				<highlight index="12" start="7745" length="219" />
+				<highlight index="13" start="7905" length="556" />
+				<highlight index="14" start="8446" length="205" />
+				<highlight index="15" start="8621" length="205" />
+				<highlight index="16" start="8782" length="176" />
+				<highlight index="17" start="8914" length="872" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nz" line="That night they fell asleep counting all the planets and stars they could see in the night sky." />
+				<subtitle lang="en" line="That night they fell asleep counting all the planets and stars they could see in the night sky." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

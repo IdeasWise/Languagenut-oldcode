@@ -1,0 +1,951 @@
+<?xml version="1.0"?>
+<karaoke length="211278">
+  <lines>
+    <line words="Era el d&#xED;a de la comida saludable en el colegio. Todos los ni&#xF1;os ten&#xED;an algo sano para comer." start="0" length="9835" useLNutResource="true" image="13#1#9">
+      <subtitles>
+        <subtitle lang="ke" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="fj" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="sb" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="vu" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="zm" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="bs" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="ca" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="nz" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="to" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="vc" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="sco" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="bz" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="na" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="ag" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="pk" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="jm" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="za" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="ng" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="en" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="fr" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/>
+        <subtitle lang="mt" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="tt" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="bw" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="sl" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="au" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="sg" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="ws" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="dm" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="us" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="mu" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="ug" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="bd" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="rw" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="gh" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="gy" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="gm" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="zw" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="tz" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+        <subtitle lang="nl" line="Vandaag was het een &#x2018;eet-gezond-dag&#x2019; op school. Alle kinderen hadden iets gezonds mee. "/>
+      <subtitle lang="cd" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="mg" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="cm" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="ci" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="bf" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="ne" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="sn" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="ml" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="bi" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="bj" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="tg" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="ga" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/><subtitle lang="dj" line="C&#x2019;&#xE9;tait la journ&#xE9;e du repas &#xE9;quilibr&#xE9; &#xE0; l&#x2019;&#xE9;cole. Tous les enfants avaient apport&#xE9; quelque chose d&#x2019;&#xE9;quilibr&#xE9; &#xE0; manger."/>
+				<subtitle lang="ae" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+				<subtitle lang="ine" line="It was healthy eating day at school. All the children had something healthy in their packed lunch."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;&#xBF;Qu&#xE9; tienes para comer, Rudy?&#xA7; Pregunt&#xF3; su maestra. &#xA7;Tengo una manzana y un s&#xE1;ndwich de queso&#x201D; dijo Rudy" start="9288" length="11475" useLNutResource="true" image="13#1#3">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="fj" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="sb" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="vu" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="zm" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="bs" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="ca" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="nz" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="to" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="vc" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="sco" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="bz" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="na" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="ag" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="pk" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="jm" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="za" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="ng" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="en" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="fr" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/>
+        <subtitle lang="mt" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="tt" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="bw" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="sl" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="au" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="sg" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="ws" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="dm" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="us" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="mu" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="ug" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="bd" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="rw" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="gh" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="gy" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="gm" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="zw" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="tz" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+        <subtitle lang="nl" line="&#xA7;Wat heb jij in je broodtrommel, Rudie?&#xA7; vroeg de lerares. &#xA7;Ik heb een appel en een boterham met kaas&#xA7;, zei Rudie."/>
+      <subtitle lang="cd" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="mg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="cm" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="ci" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="bf" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="ne" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="sn" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="ml" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="bi" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="bj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="tg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="ga" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/><subtitle lang="dj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Rudy?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai une pomme et un sandwich au fromage.&#xA7; Dit Rudy"/>
+				<subtitle lang="ae" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+				<subtitle lang="ine" line="&#xA7;What do you have in your packed lunch, Rudy?&#xA7; asked the teacher. &#xA7;I have an apple and a cheese sandwich,&#xA7; said Rudy."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="La maestra fue a su caj&#xF3;n." start="19670" length="4371" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="The teacher reached into her drawer."/>
+        <subtitle lang="fj" line="The teacher reached into her drawer."/>
+        <subtitle lang="sb" line="The teacher reached into her drawer."/>
+        <subtitle lang="vu" line="The teacher reached into her drawer."/>
+        <subtitle lang="zm" line="The teacher reached into her drawer."/>
+        <subtitle lang="bs" line="The teacher reached into her drawer."/>
+        <subtitle lang="ca" line="The teacher reached into her drawer."/>
+        <subtitle lang="nz" line="The teacher reached into her drawer."/>
+        <subtitle lang="to" line="The teacher reached into her drawer."/>
+        <subtitle lang="vc" line="The teacher reached into her drawer."/>
+        <subtitle lang="sco" line="The teacher reached into her drawer."/>
+        <subtitle lang="bz" line="The teacher reached into her drawer."/>
+        <subtitle lang="na" line="The teacher reached into her drawer."/>
+        <subtitle lang="ag" line="The teacher reached into her drawer."/>
+        <subtitle lang="pk" line="The teacher reached into her drawer."/>
+        <subtitle lang="jm" line="The teacher reached into her drawer."/>
+        <subtitle lang="za" line="The teacher reached into her drawer."/>
+        <subtitle lang="ng" line="The teacher reached into her drawer."/>
+        <subtitle lang="en" line="The teacher reached into her drawer."/>
+        <subtitle lang="fr" line="La ma&#xEE;tresse fouilla dans son tiroir."/>
+        <subtitle lang="mt" line="The teacher reached into her drawer."/>
+        <subtitle lang="tt" line="The teacher reached into her drawer."/>
+        <subtitle lang="bw" line="The teacher reached into her drawer."/>
+        <subtitle lang="sl" line="The teacher reached into her drawer."/>
+        <subtitle lang="au" line="The teacher reached into her drawer."/>
+        <subtitle lang="sg" line="The teacher reached into her drawer."/>
+        <subtitle lang="ws" line="The teacher reached into her drawer."/>
+        <subtitle lang="dm" line="The teacher reached into her drawer."/>
+        <subtitle lang="us" line="The teacher reached into her drawer."/>
+        <subtitle lang="mu" line="The teacher reached into her drawer."/>
+        <subtitle lang="ug" line="The teacher reached into her drawer."/>
+        <subtitle lang="bd" line="The teacher reached into her drawer."/>
+        <subtitle lang="rw" line="The teacher reached into her drawer."/>
+        <subtitle lang="gh" line="The teacher reached into her drawer."/>
+        <subtitle lang="gy" line="The teacher reached into her drawer."/>
+        <subtitle lang="gm" line="The teacher reached into her drawer."/>
+        <subtitle lang="zw" line="The teacher reached into her drawer."/>
+        <subtitle lang="tz" line="The teacher reached into her drawer."/>
+        <subtitle lang="nl" line="De lerares pakte iets uit haar la."/>
+      <subtitle lang="cd" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="mg" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="cm" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="ci" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="bf" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="ne" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="sn" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="ml" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="bi" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="bj" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="tg" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="ga" line="La ma&#xEE;tresse fouilla dans son tiroir."/><subtitle lang="dj" line="La ma&#xEE;tresse fouilla dans son tiroir."/>
+				<subtitle lang="ae" line="The teacher reached into her drawer."/>
+				<subtitle lang="ine" line="The teacher reached into her drawer."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;&#xBF;Qu&#xE9; tienes para comer, Samantha?&#xA7; pregunt&#xF3; la maestra. &#x201C;Tengo un s&#xE1;ndwich de champi&#xF1;ones y tomate&#x201D; dijo Samantha. &#x201C;Cultivo las verduras en mi jard&#xED;n.&#x201D;" start="23677" length="15118" useLNutResource="true" image="13#2#7">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="fr" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Wat heb jij in je broodtrommel, Sanne?&#xA7; vroeg de lerares. &#xA7;Ik heb een boterham met champignons en tomaat&#xA7; zei Sanne. &#xA7;Het zijn groenten uit mijn eigen tuin.&#xA7;"/>
+      <subtitle lang="cd" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="mg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="cm" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="ci" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="bf" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="ne" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="sn" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="ml" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="bi" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="bj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="tg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="ga" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/><subtitle lang="dj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Samantha?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai un sandwich aux champignons et aux tomates.&#xA7; Dit Samantha. &#xA7;Je fais pousser des l&#xE9;gumes dans mon jardin.&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;What do you have in your packed lunch, Samantha?&#xA7; asked the teacher. &#xA7;I have a mushroom and tomato sandwich,&#xA7; said Samantha. &#xA7;I grow the vegetables in my garden.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="La maestra cogi&#xF3; algo." start="38795" length="4189" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="The teacher picked something up."/>
+        <subtitle lang="fj" line="The teacher picked something up."/>
+        <subtitle lang="sb" line="The teacher picked something up."/>
+        <subtitle lang="vu" line="The teacher picked something up."/>
+        <subtitle lang="zm" line="The teacher picked something up."/>
+        <subtitle lang="bs" line="The teacher picked something up."/>
+        <subtitle lang="ca" line="The teacher picked something up."/>
+        <subtitle lang="nz" line="The teacher picked something up."/>
+        <subtitle lang="to" line="The teacher picked something up."/>
+        <subtitle lang="vc" line="The teacher picked something up."/>
+        <subtitle lang="sco" line="The teacher picked something up."/>
+        <subtitle lang="bz" line="The teacher picked something up."/>
+        <subtitle lang="na" line="The teacher picked something up."/>
+        <subtitle lang="ag" line="The teacher picked something up."/>
+        <subtitle lang="pk" line="The teacher picked something up."/>
+        <subtitle lang="jm" line="The teacher picked something up."/>
+        <subtitle lang="za" line="The teacher picked something up."/>
+        <subtitle lang="ng" line="The teacher picked something up."/>
+        <subtitle lang="en" line="The teacher picked something up."/>
+        <subtitle lang="fr" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/>
+        <subtitle lang="mt" line="The teacher picked something up."/>
+        <subtitle lang="tt" line="The teacher picked something up."/>
+        <subtitle lang="bw" line="The teacher picked something up."/>
+        <subtitle lang="sl" line="The teacher picked something up."/>
+        <subtitle lang="au" line="The teacher picked something up."/>
+        <subtitle lang="sg" line="The teacher picked something up."/>
+        <subtitle lang="ws" line="The teacher picked something up."/>
+        <subtitle lang="dm" line="The teacher picked something up."/>
+        <subtitle lang="us" line="The teacher picked something up."/>
+        <subtitle lang="mu" line="The teacher picked something up."/>
+        <subtitle lang="ug" line="The teacher picked something up."/>
+        <subtitle lang="bd" line="The teacher picked something up."/>
+        <subtitle lang="rw" line="The teacher picked something up."/>
+        <subtitle lang="gh" line="The teacher picked something up."/>
+        <subtitle lang="gy" line="The teacher picked something up."/>
+        <subtitle lang="gm" line="The teacher picked something up."/>
+        <subtitle lang="zw" line="The teacher picked something up."/>
+        <subtitle lang="tz" line="The teacher picked something up."/>
+        <subtitle lang="nl" line="De lerares raapte iets op."/>
+      <subtitle lang="cd" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="mg" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="cm" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="ci" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="bf" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="ne" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="sn" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="ml" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="bi" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="bj" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="tg" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="ga" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/><subtitle lang="dj" line="La ma&#xEE;tresse prit quelque chose dans son tiroir."/>
+				<subtitle lang="ae" line="The teacher picked something up."/>
+				<subtitle lang="ine" line="The teacher picked something up."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;&#xBF;Qu&#xE9; tienes para comer, Armando?&#xA7; pregunt&#xF3; la maestra. &#x201C;Tengo naranjas de Espa&#xF1;a&#x201D; dijo Armando. &#xA7;&#xBF;Qu&#xE9; tienes tu en tu caj&#xF3;n, se&#xF1;orita?&#xA7;" start="42984" length="13296" useLNutResource="true" image="13#1#4">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="fr" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Wat heb jij in je broodtrommel, Armando?&#xA7; vroeg de lerares. &#xA7;Ik heb sinaasappels uit Spanje&#xA7; zei Armando. &#xA7;En wat heeft u in uw la, juf?&#xA7;"/>
+      <subtitle lang="cd" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="mg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="cm" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="ci" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="bf" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="ne" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="sn" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="ml" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="bi" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="bj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="tg" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="ga" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/><subtitle lang="dj" line="&#x201C;Qu&#x2019;est-ce-que tu as comme d&#xE9;jeun&#xE9;, Armando?&#xA7; Demanda la ma&#xEE;tresse. &#xA7;J&#x2019;ai des oranges d&#x2019;Espagne&#xA7; Dit Armando. &#xA7;Et qu&#x2019;est-ce que vous avez dans votre tiroir, Mademoiselle?&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;What do you have in your packed lunch, Armando?&#xA7; asked the teacher. &#xA7;I have some oranges from Spain,&#xA7; said Armando. &#xA7;And what do you have in your drawer, Miss?&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;&#xC9;sto&#x201D;  dijo la se&#xF1;orita Oak &#x201C;es la fruta del cacao. &#xBF;Sabe alguien que hacemos con ellas?&#xA7;" start="56280" length="10928" useLNutResource="true" image="13#6#9">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Dit,&#xA7; zei juf Eik, &#xA7;is een cacaoboon. Weet iemand wat daar van wordt gemaakt?&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="mg" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="cm" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="ci" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="bf" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="ne" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="sn" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="ml" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="bi" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="bj" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="tg" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="ga" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/><subtitle lang="dj" line="&#xA7;Ceci&#xA7; dit Mademoiselle Ch&#xEA;ne &#xA7;est une cosse de cacao. Est-ce que quelqu&#x2019;un sait ce que l&#x2019;on fait avec &#xE7;a?&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;This,&#xA7; said Miss Oak, &#xA7;is a cacao pod. Does anyone know what we make with them?&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Armando lo sab&#xED;a &#x201C;Sol&#xED;a tener en mi jard&#xED;n cuando viv&#xED;a en Brasil. Hacemos chocolate con ellas.&#x201D;" start="67026" length="11110" useLNutResource="true" image="13#3#8">
+      <subtitles>
+        <subtitle lang="ke" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="fj" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="sb" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="vu" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="zm" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="bs" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="ca" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="nz" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="to" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="vc" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="sco" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="bz" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="na" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="ag" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="pk" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="jm" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="za" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="ng" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="en" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="fr" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/>
+        <subtitle lang="mt" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="tt" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="bw" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="sl" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="au" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="sg" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="ws" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="dm" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="us" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="mu" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="ug" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="bd" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="rw" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="gh" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="gy" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="gm" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="zw" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="tz" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+        <subtitle lang="nl" line="Armando wist het. &#xA7;Ze groeiden bij mij in de tuin toen ik in Brazili&#xEB; woonde. Er wordt chocola van gemaakt!&#xA7;"/>
+      <subtitle lang="cd" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="mg" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="cm" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="ci" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="bf" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="ne" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="sn" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="ml" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="bi" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="bj" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="tg" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="ga" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/><subtitle lang="dj" line="Armando savait. &#xA7;J&#x2019;en avais dans mon jardin quand je vivais au Br&#xE9;sil. On fait du chocolat avec &#xE7;a!&#xA7;"/>
+				<subtitle lang="ae" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+				<subtitle lang="ine" line="Armando knew. &#xA7;I used to have them in my garden when I lived in Brazil. You make chocolate with them!&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;S&#xED;, correcto, Armando. Se cultivan en Gana y en Eduador tambi&#xE9;n. &#xBF;Nos puedes decir c&#xF3;mo haces chocolate?&#x201D; pregunt&#xF3; la se&#xF1;orita Oak. &#xA7;S&#xED;&#x201D; dijo Armando. &#x201C;Primero, el &#xE1;rbol tiene que tener cinco a&#xF1;os antes de echar flores y tener fruta.&#x201D;" start="77225" length="24407" useLNutResource="true" image="13#6#9">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/>
+        <subtitle lang="mt" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Heel goed, Armando. Ze groeien ook in Ghana en Ecuador. Weet jij hoe je chocolade maakt?&#xA7; vroeg juf Eik. &#xA7;Ja!&#xA7; zei Armando. &#xA7;Eerst moet de boom minstens 5 jaar oud zijn, voordat hij begint te bloeien en er cacaobonen aan groeien.&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="mg" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="cm" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="ci" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="bf" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="ne" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="sn" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="ml" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="bi" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="bj" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="tg" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="ga" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/><subtitle lang="dj" line="&#xA7;C&#x2019;est vrai, Armando. Elles poussent aussi au Ghana et en Equateur. Pourrais-tu nous expliquer comment on fait du chocolat?&#xA7; Demanda Mademoiselle Ch&#xEA;ne. &#xA7;Oui!&#xA7; Dit Armando. &#xA7;Tout d&#x2019;abord, l&#x2019;arbre doit avoir au moins 5 ans pour pouvoir faire des fleurs et des cosses.&#x201D;"/>
+				<subtitle lang="ae" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;That&#x2019;s right, Armando. They also grow in Ghana and Ecuador. Could you tell us how you make chocolate?&#xA7; asked Miss Oak. &#xA7;Yes!&#xA7; said Armando. &#xA7;First, the tree has to be at least 5 years old before it begins to flower and grow pods.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;Hay dos estaciones de recogida principales cada a&#xF1;o. Los agricultores cortan la fruta del &#xE1;rbol con una cuchillo muy grande llamado machete.&#x201D; " start="101449" length="12750" useLNutResource="true" image="13#5#8">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Elk jaar zijn er 2 grote oogsten. De boeren snijden de bonen los van de boom met een groot kapmes.&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="mg" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="cm" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="ci" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="bf" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="ne" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="sn" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="ml" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="bi" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="bj" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="tg" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="ga" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/><subtitle lang="dj" line="&#xA7;Il y a 2 grandes r&#xE9;coltes chaque ann&#xE9;e. Les cultivateurs d&#xE9;tachent les cosses de l&#x2019;arbre &#xE0; l&#x2019;aide d&#x2019;un grand couteau appel&#xE9; une machette.&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;There are 2 main harvests every year. The farmers cut the pods from the tree with a big knife called a machete.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="La se&#xF1;&#xF3;rita Oak fue a su caj&#xF3;n otra vez." start="114199" length="5828" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="fj" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="sb" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="vu" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="zm" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="bs" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="ca" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="nz" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="to" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="vc" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="sco" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="bz" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="na" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="ag" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="pk" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="jm" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="za" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="ng" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="en" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="fr" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/>
+        <subtitle lang="mt" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="tt" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="bw" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="sl" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="au" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="sg" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="ws" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="dm" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="us" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="mu" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="ug" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="bd" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="rw" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="gh" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="gy" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="gm" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="zw" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="tz" line="Miss Oak reached into her drawer again."/>
+        <subtitle lang="nl" line="Juf Eik pakte weer iets uit haar la."/>
+      <subtitle lang="cd" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="mg" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="cm" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="ci" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="bf" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="ne" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="sn" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="ml" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="bi" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="bj" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="tg" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="ga" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/><subtitle lang="dj" line="Mademoiselle Ch&#xEA;ne fouilla encore une fois dans son tiroir."/>
+				<subtitle lang="ae" line="Miss Oak reached into her drawer again."/>
+				<subtitle lang="ine" line="Miss Oak reached into her drawer again."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;Despu&#xE9;s, los agricultores abren la fruta y sacan las semillas y la pulpa&#x201D; continua Armando &#x201C;las ponen en hojas de pl&#xE1;tano.&#x201D;" start="119663" length="12021" useLNutResource="true" image="6#2#8">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Dan snijdt de boer de boon open en haalt de zaden en de pulp eruit&#xA7; ging Armando verder. &#xA7;Hij stopt ze onder bananenbladeren.&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="mg" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="cm" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="ci" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="bf" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="ne" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="sn" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="ml" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="bi" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="bj" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="tg" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="ga" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/><subtitle lang="dj" line="&#xA7;Puis le cultivateur fend la cosse et la vide de ses graines et de sa pulpe.&#xA7; Continua Armando. &#xA7;Il les place ensuite sous des feuilles de banane.&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;Then the farmer cuts the pod open and scoops out the seeds and pulp,&#xA7; continued Armando. &#xA7;He puts them under banana leaves.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="La se&#xF1;orita Oak cogi&#xF3; otra cosa." start="131320" length="4553" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="Miss Oak picked something else up."/>
+        <subtitle lang="fj" line="Miss Oak picked something else up."/>
+        <subtitle lang="sb" line="Miss Oak picked something else up."/>
+        <subtitle lang="vu" line="Miss Oak picked something else up."/>
+        <subtitle lang="zm" line="Miss Oak picked something else up."/>
+        <subtitle lang="bs" line="Miss Oak picked something else up."/>
+        <subtitle lang="ca" line="Miss Oak picked something else up."/>
+        <subtitle lang="nz" line="Miss Oak picked something else up."/>
+        <subtitle lang="to" line="Miss Oak picked something else up."/>
+        <subtitle lang="vc" line="Miss Oak picked something else up."/>
+        <subtitle lang="sco" line="Miss Oak picked something else up."/>
+        <subtitle lang="bz" line="Miss Oak picked something else up."/>
+        <subtitle lang="na" line="Miss Oak picked something else up."/>
+        <subtitle lang="ag" line="Miss Oak picked something else up."/>
+        <subtitle lang="pk" line="Miss Oak picked something else up."/>
+        <subtitle lang="jm" line="Miss Oak picked something else up."/>
+        <subtitle lang="za" line="Miss Oak picked something else up."/>
+        <subtitle lang="ng" line="Miss Oak picked something else up."/>
+        <subtitle lang="en" line="Miss Oak picked something else up."/>
+        <subtitle lang="fr" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/>
+        <subtitle lang="mt" line="Miss Oak picked something else up."/>
+        <subtitle lang="tt" line="Miss Oak picked something else up."/>
+        <subtitle lang="bw" line="Miss Oak picked something else up."/>
+        <subtitle lang="sl" line="Miss Oak picked something else up."/>
+        <subtitle lang="au" line="Miss Oak picked something else up."/>
+        <subtitle lang="sg" line="Miss Oak picked something else up."/>
+        <subtitle lang="ws" line="Miss Oak picked something else up."/>
+        <subtitle lang="dm" line="Miss Oak picked something else up."/>
+        <subtitle lang="us" line="Miss Oak picked something else up."/>
+        <subtitle lang="mu" line="Miss Oak picked something else up."/>
+        <subtitle lang="ug" line="Miss Oak picked something else up."/>
+        <subtitle lang="bd" line="Miss Oak picked something else up."/>
+        <subtitle lang="rw" line="Miss Oak picked something else up."/>
+        <subtitle lang="gh" line="Miss Oak picked something else up."/>
+        <subtitle lang="gy" line="Miss Oak picked something else up."/>
+        <subtitle lang="gm" line="Miss Oak picked something else up."/>
+        <subtitle lang="zw" line="Miss Oak picked something else up."/>
+        <subtitle lang="tz" line="Miss Oak picked something else up."/>
+        <subtitle lang="nl" line="Juf Eik raapte weer iets op."/>
+      <subtitle lang="cd" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="mg" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="cm" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="ci" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="bf" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="ne" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="sn" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="ml" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="bi" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="bj" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="tg" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="ga" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/><subtitle lang="dj" line="Mademoiselle Ch&#xEA;ne prit quelque chose dans son tiroir."/>
+				<subtitle lang="ae" line="Miss Oak picked something else up."/>
+				<subtitle lang="ine" line="Miss Oak picked something else up."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;Los agricultores secan las semillas al sol. Cuando est&#xE1;n secas, las ponen en un saco grande y las llevan a la f&#xE1;brica.&#x201D;" start="135691" length="11475" useLNutResource="true" image="12#1#5">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;De boer droogt de zaden in de zon. Als ze gedroogd zijn, stopt hij ze allemaal in een grote zak, klaar om naar de fabriek te worden gebracht..&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="mg" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="cm" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="ci" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="bf" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="ne" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="sn" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="ml" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="bi" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="bj" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="tg" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="ga" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/><subtitle lang="dj" line="&#xA7;Le cultivateur fait s&#xE9;cher les graines au soleil. Lorsqu&#x2019;elles sont s&#xE8;ches, il les met dans des grands sacs pr&#xEA;ts &#xE0; partir pour l&#x2019;usine.&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;The farmer dries the seeds in the sun. Once they are dry, he puts them all in big sacks ready to transport to the factory.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="La se&#xF1;orita Oak escondi&#xF3; algo detr&#xE1;s de la espalda." start="147166" length="6374" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="fj" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="sb" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="vu" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="zm" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="bs" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="ca" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="nz" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="to" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="vc" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="sco" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="bz" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="na" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="ag" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="pk" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="jm" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="za" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="ng" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="en" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="fr" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/>
+        <subtitle lang="mt" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="tt" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="bw" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="sl" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="au" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="sg" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="ws" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="dm" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="us" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="mu" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="ug" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="bd" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="rw" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="gh" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="gy" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="gm" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="zw" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="tz" line="Miss Oak hid it behind her back."/>
+        <subtitle lang="nl" line="Juf Eik hield iets achter haar rug."/>
+      <subtitle lang="cd" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="mg" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="cm" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="ci" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="bf" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="ne" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="sn" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="ml" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="bi" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="bj" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="tg" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="ga" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/><subtitle lang="dj" line="Mademoiselle Ch&#xEA;ne cacha quelque chose derri&#xE8;re son dos."/>
+				<subtitle lang="ae" line="Miss Oak hid it behind her back."/>
+				<subtitle lang="ine" line="Miss Oak hid it behind her back."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;En la f&#xE1;brica calientan las semillas en un horno y  despu&#xE9;s las muelen. Despu&#xE9;s las pones en una mezcladora y a&#xF1;ades otros ingredientes, como leche, az&#xFA;car y mantequilla de cacao.&#x201D;" start="153358" length="16575" useLNutResource="true" image="13#6#9">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;In de fabriek worden de zaden verhit in een oven en dan vermalen. Dan stop je ze in een mixer en voeg je andere ingredi&#xEB;nten toe, zoals melk, suiker en cacaoboter.&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="mg" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="cm" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="ci" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="bf" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="ne" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="sn" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="ml" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="bi" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="bj" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="tg" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="ga" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/><subtitle lang="dj" line="&#xA7;A l&#x2019;usine, on fait chauffer les graines dans un four et on les moud. Puis on les met dans un mixeur et on ajoute d&#x2019;autres ingr&#xE9;dients comme du lait, du sucre et du beurre de cacao.&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;In the factory you heat the seeds in an oven and then grind them. Then you put them in a mixer and add other ingredients, like milk, sugar and cocoa butter.&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Muchos de los ni&#xF1;os se preguntaban que ten&#xED;a la se&#xF1;orita Oak detr&#xE1;s de la espalda." start="169933" length="7103" useLNutResource="true" image="24#3#9">
+      <subtitles>
+        <subtitle lang="ke" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="fj" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="sb" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="vu" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="zm" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="bs" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="ca" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="nz" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="to" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="vc" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="sco" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="bz" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="na" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="ag" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="pk" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="jm" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="za" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="ng" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="en" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="fr" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/>
+        <subtitle lang="mt" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="tt" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="bw" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="sl" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="au" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="sg" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="ws" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="dm" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="us" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="mu" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="ug" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="bd" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="rw" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="gh" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="gy" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="gm" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="zw" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="tz" line="Many children were wondering what Miss Oak had behind her back."/>
+        <subtitle lang="nl" line="Veel kinderen vroegen zich af wat juf Eik achter haar rug hield."/>
+      <subtitle lang="cd" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="mg" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="cm" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="ci" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="bf" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="ne" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="sn" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="ml" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="bi" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="bj" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="tg" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="ga" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/><subtitle lang="dj" line="Beaucoup d&#x2019;enfants se demandaient ce que Mademoiselle Ch&#xEA;ne cachait derri&#xE8;re son dos."/>
+				<subtitle lang="ae" line="Many children were wondering what Miss Oak had behind her back."/>
+				<subtitle lang="ine" line="Many children were wondering what Miss Oak had behind her back."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;Finalmente, lo mezclas todo con diferentes m&#xE1;quinas para hacerlo m&#xE1;s suave y delicioso, y despu&#xE9;s lo pones en un molde. Y entonces tienes&#x2026;.&#x201D;" start="176307" length="12568" useLNutResource="true" image="13#6#9">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="fj" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="sb" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="vu" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="zm" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="bs" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="ca" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="nz" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="to" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="vc" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="sco" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="bz" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="na" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="ag" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="pk" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="jm" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="za" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="ng" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="en" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="fr" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/>
+        <subtitle lang="mt" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="tt" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="bw" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="sl" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="au" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="sg" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="ws" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="dm" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="us" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="mu" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="ug" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="bd" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="rw" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="gh" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="gy" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="gm" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="zw" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="tz" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+        <subtitle lang="nl" line="&#xA7;Tenslotte meng je het in verschillende machines om het heel glad en lekker te maken, en dan schenk je het in een vorm. En dan heb je...&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="mg" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="cm" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="ci" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="bf" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="ne" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="sn" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="ml" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="bi" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="bj" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="tg" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="ga" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/><subtitle lang="dj" line="&#xA7;Finalement, on m&#xE9;lange la p&#xE2;te dans diff&#xE9;rentes machines pour la rendre onctueuse et d&#xE9;licieuse, et on la verse dans un moule. Et enfin on a &#x2026;&#xA7;"/>
+				<subtitle lang="ae" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+				<subtitle lang="ine" line="&#xA7;Finally, you mix it up in different machines to make it really smooth and delicious, and then you pour it in a mold. And then you have&#x2026;&#xA7;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;&#xA1;Una de &#xE9;stas!&#x201D; Dijo la se&#xF1;orita Oak, sacando una gran tableta de chocolate de detr&#xE1;s de la espalda. La comparti&#xF3; con todos." start="188693" length="10564" useLNutResource="true" image="13#3#8">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="fj" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="sb" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="vu" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="zm" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="bs" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="ca" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="nz" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="to" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="vc" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="sco" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="bz" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="na" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="ag" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="pk" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="jm" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="za" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="ng" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="en" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="fr" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/>
+        <subtitle lang="mt" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="tt" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="bw" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="sl" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="au" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="sg" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="ws" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="dm" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="us" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="mu" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="ug" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="bd" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="rw" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="gh" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="gy" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="gm" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="zw" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="tz" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+        <subtitle lang="nl" line="&#xA7;Dit!&#xA7; zei juf Eik, terwijl ze een grote reep chocola achter haar rug vandaan haalde. Ze deelde de chocola uit. "/>
+      <subtitle lang="cd" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="mg" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="cm" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="ci" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="bf" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="ne" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="sn" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="ml" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="bi" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="bj" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="tg" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="ga" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/><subtitle lang="dj" line="&#xA7;Quelque chose comme &#xE7;a!&#xA7; Dit Mademoiselle Ch&#xEA;ne en leur montrant la grosse barre de chocolat qu&#x2019;elle cachait derri&#xE8;re son dos. Elle partagea le chocolat."/>
+				<subtitle lang="ae" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+				<subtitle lang="ine" line="&#xA7;One of these!&#xA7; Said Miss Oak, pulling a big bar of chocolate from behind her back. She shared the chocolate out. "/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#x201C;Creo que es muy importante que sep&#xE1;is de donde viene la comida y como se hace&#x201D; dijo la se&#xF1;orita Oak. &#x201C;Y est&#xE1; delicioso.&#x201D;" start="199257" length="11474" useLNutResource="true" image="13#3#8">
+      <subtitles>
+        <subtitle lang="ke" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="fj" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="sb" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="vu" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="zm" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="bs" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="ca" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="nz" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="to" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="vc" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="sco" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="bz" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="na" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="ag" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="pk" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="jm" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="za" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="ng" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="en" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="fr" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/>
+        <subtitle lang="mt" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="tt" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="bw" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="sl" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="au" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="sg" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="ws" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="dm" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="us" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="mu" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="ug" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="bd" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="rw" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="gh" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="gy" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="gm" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="zw" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="tz" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+        <subtitle lang="nl" line="&#xA7;Ik vind het heel belangrijk dat we weten waar ons eten vandaan komt en hoe het is gemaakt&#xA7; zei juf Eik. &#xA7;En het is heerlijk!&#xA7;"/>
+      <subtitle lang="cd" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="mg" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="cm" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="ci" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="bf" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="ne" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="sn" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="ml" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="bi" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="bj" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="tg" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="ga" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/><subtitle lang="dj" line="&#xA7;Je pense qu&#x2019;il est vraiment important de savoir d&#x2019;o&#xF9; notre nourriture vient et comment elle a &#xE9;t&#xE9; pr&#xE9;par&#xE9;e.&#xA7; Dit Mademoiselle Ch&#xEA;ne. &#xA7;Et c&#x2019;est tr&#xE8;s tr&#xE8;s bon!&#xA7; "/>
+				<subtitle lang="ae" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+				<subtitle lang="ine" line="&#xA7;I think it is really important to know where you food comes from and how it is made&#xA7; said Miss Oak. &#xA7;And it is yummy!&#xA7; "/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Fin." start="209638" length="1640" useLNutResource="false" image="">
+      <subtitles>
+        <subtitle lang="nl" line="Einde."/>
+      </subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

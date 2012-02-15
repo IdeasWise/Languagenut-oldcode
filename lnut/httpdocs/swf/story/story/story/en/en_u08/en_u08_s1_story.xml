@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="320522" >
+	<lines>
+		<line words="Birthday Traditions – ‘Zeena’ and Greasy Noses" start="0" length="7141" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1070" length="480" />
+				<highlight index="1" start="1520" length="790" />
+				<highlight index="3" start="2630" length="640" />
+				<highlight index="4" start="3450" length="300" />
+				<highlight index="5" start="3710" length="470" />
+				<highlight index="6" start="4150" length="890" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Fødselsdag og tradition – “Zeena” og fedtede næser" />
+				<subtitle lang="so" line="Dhaqanka Maalinta Dhalashada –Seena iyo Greasy Sankooda" />
+				<subtitle lang="fr" line="Les traditions d’anniversaire –  §Zeena§ et les Nez Gras." />
+				<subtitle lang="cl" line="Tradiciones de cumpleaños- “Zeena” y las narices engrasadas" />
+				<subtitle lang="nl" line="Verjaardagstradities – ‘zeena’s’ en vette neuzen" />
+				<subtitle lang="sp" line="Tradiciones de cumpleaños: “Zeena y narices engrasadas”" />
+				<subtitle lang="cn" line="生日传统-‘子纳’和油腻的鼻子" />
+				<subtitle lang="cc" line="生日传统-‘子纳’和油腻的鼻子" />
+			</subtitles>
+		</line>
+		<line words="Today is Fatima’s Birthday. She is nine years old." start="6866" length="7690" useLNutResource="true" image="3#2#5" >
+			<highlights>
+				<highlight index="0" start="1561" length="614" />
+				<highlight index="1" start="2153" length="227" />
+				<highlight index="2" start="2347" length="593" />
+				<highlight index="3" start="2897" length="652" />
+				<highlight index="4" start="4049" length="329" />
+				<highlight index="5" start="4275" length="269" />
+				<highlight index="6" start="4533" length="420" />
+				<highlight index="7" start="4932" length="366" />
+				<highlight index="8" start="5287" length="571" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="I dag er det Fatimas fødselsdag. Hun bliver 9 år." />
+				<subtitle lang="so" line="Maant waa Fatum Dhalashadeeda. Waxay jirtaa 9 sano." />
+				<subtitle lang="fr" line="Aujourd’hui, c’est l’anniversaire de Fatima. Elle a 9 ans." />
+				<subtitle lang="cn" line="今天是法蒂玛的生日。她九岁。" />
+				<subtitle lang="cl" line="Hoy es cumpleaños de Fátima. Ella tiene 9 años." />
+				<subtitle lang="nl" line="Vandaag is Fatima jarig. Ze is 9 jaar geworden." />
+				<subtitle lang="sp" line="Hoy es el cumpleaños de Fátima. Tiene nueve años" />
+				<subtitle lang="pt" line="Hoje é o aniversário da Fátima. Ela faz 9 anos." />
+				<subtitle lang="cc" line="今天是法蒂玛的生日。 她九岁。" />
+			</subtitles>
+		</line>
+		<line words="In Fatima’s class at school the tradition is to sing ‘Happy Birthday’ when it is someone’s Birthday. This is how they sing…" start="14282" length="11535" useLNutResource="true" image="2#3#5" >
+			<highlights>
+				<highlight index="0" start="1760" length="226" />
+				<highlight index="1" start="1938" length="517" />
+				<highlight index="2" start="2423" length="452" />
+				<highlight index="3" start="2810" length="100" />
+				<highlight index="4" start="2907" length="550" />
+				<highlight index="5" start="3408" length="194" />
+				<highlight index="6" start="3570" length="484" />
+				<highlight index="7" start="4183" length="227" />
+				<highlight index="8" start="4393" length="210" />
+				<highlight index="9" start="4539" length="371" />
+				<highlight index="10" start="4878" length="356" />
+				<highlight index="11" start="5185" length="614" />
+				<highlight index="12" start="6122" length="233" />
+				<highlight index="13" start="6316" length="129" />
+				<highlight index="14" start="6397" length="200" />
+				<highlight index="15" start="6542" length="468" />
+				<highlight index="16" start="6978" length="856" />
+				<highlight index="17" start="8254" length="227" />
+				<highlight index="18" start="8432" length="162" />
+				<highlight index="19" start="8561" length="226" />
+				<highlight index="20" start="8707" length="177" />
+				<highlight index="21" start="8836" length="523" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="I Fatimas klasse er der tradition for at synge “happy birthday”, når nogen fylder år. Sådan synger de:" />
+				<subtitle lang="so" line="Fatum fasalkeeda waxay dhaqan u leeyahiin in ay heesaan ‘dhalasho farxad leh’ marka ay qof dhalashadiisa tahay. Sidaan ayeey u heesaan…" />
+				<subtitle lang="fr" line="Dans la classe de Fatima, à l’école, la tradition est de chanter §Joyeux Anniversaire§ quand c’est l’anniversaire de quelqu’un. Voici la chanson…" />
+				<subtitle lang="cn" line="在法蒂玛学校的班上有一个在过生日时唱 ‘祝你生日快乐’的传统。他们是这样唱的：" />
+				<subtitle lang="cl" line="En el salón de clases de Fátima, la tradición es cantar la canción de “Feliz cumpleaños” cuando es cumpleaños de alguien. Así es cómo la cantan…" />
+				<subtitle lang="nl" line="In Fatima’s klas is het traditie om ‘Lang zal ze leven’ te zingen wanneer er iemand jarig is. Dat liedje gaat zo…" />
+				<subtitle lang="sp" line="En la clase de Fátima la tradición es cantar “cumpleaños feliz” cuando es el cumpleaños de alguien. Así se canta…" />
+				<subtitle lang="pt" line="Na classse da Fátima na escola, a tradição é para cantar §feliz aniversário§ quando é o aniversário de alguém. Ele cantam assim..." />
+				<subtitle lang="cc" line="在法蒂玛学校的班上有一个在过生日时唱 ‘祝你生日快乐’的传统。 他们是这样唱的：" />
+			</subtitles>
+		</line>
+		<line words="§Happy Birthday to you, Happy Birthday to you, Happy Birthday dear Fatima, Happy Birthday to you.§" start="25268" length="17303" useLNutResource="true" image="2#3#5" >
+			<highlights>
+				<highlight index="0" start="1817" length="969" />
+				<highlight index="1" start="2714" length="1066" />
+				<highlight index="2" start="3780" length="636" />
+				<highlight index="3" start="4313" length="484" />
+				<highlight index="4" start="5258" length="800" />
+				<highlight index="5" start="6033" length="1048" />
+				<highlight index="6" start="7003" length="581" />
+				<highlight index="7" start="7511" length="637" />
+				<highlight index="8" start="8650" length="727" />
+				<highlight index="9" start="9305" length="1211" />
+				<highlight index="10" start="10419" length="558" />
+				<highlight index="11" start="10880" length="1502" />
+				<highlight index="12" start="12794" length="679" />
+				<highlight index="13" start="13376" length="1139" />
+				<highlight index="14" start="14393" length="388" />
+				<highlight index="15" start="14951" length="581" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="‘Happy Birthday to you, Happy Birthday to you, Happy Birthday dear Fatima, Happy Birthday to you.’" />
+				<subtitle lang="so" line="Dhalasho Farxadleh adiga, Dhalasho Farxadleh adiga, Dhalasho Farxadleh fatumadii qaaliga aheeyd, Dhalasho Farxadleh adiga," />
+				<subtitle lang="fr" line="§Joyeux anniversaire, joyeux anniversaire, joyeux anniversaire Fatima, joyeux anniversaire.§" />
+				<subtitle lang="cn" line="“祝你生日快乐，祝你生日快乐，祝你生日快乐法蒂玛，祝你生日快乐。’" />
+				<subtitle lang="cl" line="“Feliz cumpleaños a ti, Feliz cumpleaños a ti, Feliz cumpleaños querida Fátima, Feliz cumpleaños a ti”." />
+				<subtitle lang="nl" line="‘Lang zal ze leven, lang zal ze leven, lang zal ze leven in de gloria. In de gloria, in de gloria.’" />
+				<subtitle lang="sp" line="¡Cumpleaños feliz, cumpleaños feliz, te deseamos todos, cumpleaños feliz!" />
+				<subtitle lang="pt" line="§Parabéns pra você, nessa data querida, muitas felicidades, muitos anos de vida§." />
+				<subtitle lang="cc" line="“祝你生日快乐，祝你生日快乐，祝你生日快乐法蒂玛，祝你生日快乐。§" />
+			</subtitles>
+		</line>
+		<line words="Fatima´s teacher is called Mr Waddle. He is a good teacher. A very good teacher. In fact he is a fantastic teacher, a magical teacher." start="42022" length="16479" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2353" length="531" />
+				<highlight index="0" start="103" length="200" />
+				<highlight index="1" start="2838" length="416" />
+				<highlight index="2" start="3207" length="208" />
+				<highlight index="3" start="3346" length="438" />
+				<highlight index="4" start="3738" length="385" />
+				<highlight index="5" start="4038" length="623" />
+				<highlight index="6" start="5284" length="277" />
+				<highlight index="7" start="5515" length="185" />
+				<highlight index="8" start="5677" length="161" />
+				<highlight index="9" start="5815" length="254" />
+				<highlight index="10" start="6046" length="777" />
+				<highlight index="11" start="7754" length="315" />
+				<highlight index="12" start="8008" length="477" />
+				<highlight index="13" start="8400" length="254" />
+				<highlight index="14" start="8608" length="615" />
+				<highlight index="15" start="9854" length="185" />
+				<highlight index="16" start="9992" length="547" />
+				<highlight index="17" start="10685" length="207" />
+				<highlight index="18" start="10823" length="162" />
+				<highlight index="19" start="10915" length="139" />
+				<highlight index="20" start="11008" length="969" />
+				<highlight index="21" start="11931" length="638" />
+				<highlight index="22" start="12923" length="208" />
+				<highlight index="23" start="13062" length="738" />
+				<highlight index="24" start="13731" length="915" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Fatimas lærer hedder Mr Waddle. Han er en god lærer. En rigtig god lærer. Faktisk er han en fantastisk lærer, en magisk lærer." />
+				<subtitle lang="so" line="Fatum macalinkeeda waxaa la yiraahdaa Mr Waddle.  Waa macalin fiican. Waa macalin aad u fiican, runtii waa macalin aad qeymo badan, macalin qaayo leh." />
+				<subtitle lang="fr" line="Le professeur de Fatima s’appelle Monsieur Dandine. C’est un bon professeur. Un très bon professeur. En fait, c’est un professeur fantastique, un professeur magique." />
+				<subtitle lang="cn" line="法蒂玛的老师是瓦德尔先生。他是一位好老师。一位很好的老师。事实上，他是一位奇妙的老师，一位神奇的老师。" />
+				<subtitle lang="cl" line="El maestro de Fátima se llama Sr. Waddle. Él es un buen maestro, un muy buen maestro. De hecho, él es un maestro fantástico, un maestro mágico." />
+				<subtitle lang="nl" line="Fatima´s leraar heet meester Jaap. Hij is een goede leraar. Een heel goede leraar. Hij is zelfs een fantastische leraar, een toverleraar." />
+				<subtitle lang="sp" line="El maestro de Fátima se llama Señor Waddle. Es un buen maestro. De hecho, es una maestro fantástico, es un maestro con poderes mágicos" />
+				<subtitle lang="pt" line="O professor da Fátima é chamado Sr. Waddle. Ele é um bom professor. Um professor muito bom. Na verdade, ele é um professor fantástico, um professor mágico." />
+				<subtitle lang="cc" line="法蒂玛的老师是瓦德尔先生。 他是一位好老师。 一位很好的老师。 事实上，他是一位奇妙的老师，一位神奇的老师。" />
+			</subtitles>
+		</line>
+		<line words="§If it was your Birthday, what would you like to get as a present?§ he asks the children one by one." start="57952" length="9887" useLNutResource="true" image="3#2#7" >
+			<highlights>
+				<highlight index="0" start="1980" length="180" />
+				<highlight index="1" start="2104" length="166" />
+				<highlight index="2" start="2229" length="194" />
+				<highlight index="3" start="2395" length="277" />
+				<highlight index="4" start="2630" length="637" />
+				<highlight index="5" start="3586" length="241" />
+				<highlight index="6" start="3793" length="167" />
+				<highlight index="7" start="3932" length="180" />
+				<highlight index="8" start="4056" length="347" />
+				<highlight index="9" start="4361" length="111" />
+				<highlight index="10" start="4444" length="152" />
+				<highlight index="11" start="4541" length="111" />
+				<highlight index="12" start="4624" length="111" />
+				<highlight index="13" start="4693" length="505" />
+				<highlight index="14" start="5746" length="145" />
+				<highlight index="15" start="5870" length="319" />
+				<highlight index="16" start="6161" length="100" />
+				<highlight index="17" start="6230" length="513" />
+				<highlight index="18" start="6729" length="180" />
+				<highlight index="19" start="6867" length="291" />
+				<highlight index="20" start="7130" length="408" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hvis det var din fødselsdag, hvad ville du så ønske dig?”, spørger han børnene en efter en." />
+				<subtitle lang="so" line="Hadii ay tahay maalintii aad dhalatay, maxaad jeceshahay in hadiyo la gu siiyo? Caruurta ayuu mid walbo weydiyay." />
+				<subtitle lang="fr" line="§Si c’était votre anniversaire, qu’est-ce que vous aimeriez avoir comme cadeau ?§ demande-t-il aux enfants un par un." />
+				<subtitle lang="cn" line="“如果是你的生日，你想要什么样的礼物？”他一个个的问孩子们。" />
+				<subtitle lang="cl" line="—Si fuera tu cumpleaños ¿qué te gustaría de regalo? —le pregunta a los niños uno por uno." />
+				<subtitle lang="nl" line="‘Stel dat je jarig was, wat zou je dan als cadeautje willen?’ vraagt hij de kinderen." />
+				<subtitle lang="sp" line="“si fuera tu cumpleaños, ¿qué te gustaría que te regalasen?” pregunta a cada niño " />
+				<subtitle lang="pt" line="§Se fosse seu aniversário, o que você gostaria de receber de presente?§, Ele pede às crianças uma por uma." />
+				<subtitle lang="cc" line="“如果是你的生日，你想要什么样的礼物？” 他一个个的问孩子们。" />
+			</subtitles>
+		</line>
+		<line words="§For my Birthday I would like a football because it’s fun!§ says Thomas. §For my Birthday I would like a doll because it’s great!§ says Hannah. §For my Birthday I would like a kite because it’s excellent!§ says Louis." start="67015" length="20599" useLNutResource="true" image="8#1#3" >
+			<highlights>
+				<highlight index="0" start="1788" length="346" />
+				<highlight index="1" start="2077" length="259" />
+				<highlight index="2" start="2279" length="805" />
+				<highlight index="3" start="3230" length="287" />
+				<highlight index="4" start="3461" length="231" />
+				<highlight index="5" start="3634" length="433" />
+				<highlight index="6" start="3981" length="173" />
+				<highlight index="7" start="4067" length="779" />
+				<highlight index="8" start="4788" length="289" />
+				<highlight index="9" start="5048" length="202" />
+				<highlight index="10" start="5192" length="575" />
+				<highlight index="11" start="6231" length="346" />
+				<highlight index="12" start="6490" length="922" />
+				<highlight index="13" start="8048" length="202" />
+				<highlight index="14" start="8192" length="202" />
+				<highlight index="15" start="8365" length="751" />
+				<highlight index="16" start="9375" length="116" />
+				<highlight index="17" start="9491" length="230" />
+				<highlight index="18" start="9635" length="346" />
+				<highlight index="19" start="9894" length="100" />
+				<highlight index="20" start="9981" length="431" />
+				<highlight index="21" start="10529" length="375" />
+				<highlight index="22" start="10818" length="288" />
+				<highlight index="23" start="11048" length="604" />
+				<highlight index="24" start="11770" length="317" />
+				<highlight index="25" start="12000" length="635" />
+				<highlight index="26" start="13500" length="231" />
+				<highlight index="27" start="13702" length="260" />
+				<highlight index="28" start="13875" length="806" />
+				<highlight index="29" start="14799" length="288" />
+				<highlight index="30" start="14972" length="230" />
+				<highlight index="31" start="15116" length="202" />
+				<highlight index="32" start="15289" length="144" />
+				<highlight index="33" start="15376" length="807" />
+				<highlight index="34" start="16126" length="461" />
+				<highlight index="35" start="16529" length="174" />
+				<highlight index="36" start="16645" length="1038" />
+				<highlight index="37" start="17655" length="288" />
+				<highlight index="38" start="17885" length="748" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Til min fødselsdag ønsker jeg mig en fodbold, fordi det er sjovt at spille!”, siger Thomas. ”Til min fødselsdag ønsker jeg mig en dukke, for den er dejlig”, siger Hannah. ”Til min fødselsdag ønsker jeg mig en drage, for den er fremragende”." />
+				<subtitle lang="so" line="Maalint dhalashadeyda, waxaan rabaa kubadd sababtoo ah waa ku raaxeysanaa! Ayuu yir Thomas.Maalint dhalashadeyda, waxaan rabaa boombalo sababtoo ah waa mid heer sare ah! Ayuu tir Hannah.Maalint dhalashadeyda, waxaan rabaa abatey sababtoo ah waa mid aad u wanaagsan! Ayuu tiri Louis." />
+				<subtitle lang="fr" line="§Pour mon anniversaire, je voudrais un ballon de football parce que c’est amusant !§ dit Thomas. §Pour mon anniversaire, je voudrais une poupée parce que c’est génial !§ dit Anne. §Pour mon anniversaire, je voudrais un cerf-volant parce que c’est excellent !§ dit Louis" />
+				<subtitle lang="cn" line="托马斯说：“如果是我的生日我想要一个足球因为它好玩！”汉娜说：“如果是我的生日我想要一个洋娃娃因为它很棒！”路易说：“如果是我的生日我想要一个风筝因为它优秀！”" />
+				<subtitle lang="cl" line="—Para mi cumpleaños, me gustaría tener un balón de football, porque es divertido —dice Tomás. —Para mi cumpleaños, me gustaría tener una muñeca, porque son geniales —dice Hannah. —Para mi cumpleaños, me gustaría tener un papalote, porque son excelentes —dice Luis." />
+				<subtitle lang="nl" line="Ik zou graag een voetbal willen, want dat is leuk!’ zegt Thomas.‘Ik zou graag een pop willen, want dat is leuk!’ zegt Hanneke.‘Ik zou graag een vlieger willen want dat is leuk!’ zegt Louis." />
+				<subtitle lang="sp" line=" “¡para mi cumpleaños me gustaría una pelota de fútbol porque es divertida!” dice Tomás“¡para mi cumpleaños me gustaría una muñeca porque es fenomenal!” dice Hannah“¡para mi cumpleaños me gustaría una cometa porque es excelente!” dice Luís" />
+				<subtitle lang="pt" line="§No meu aniversário eu gostaria de uma bola de futebol porque é divertido!§ Diz Thomas. §No meu aniversário, gostaria de uma boneca porque é muito boa!§ Diz Hannah. §No meu aniversário eu gostaria de uma pipa porque é excelente!§, Diz Louis." />
+				<subtitle lang="cc" line="托马斯说： “如果是我的生日我想要一个足球因为它是好玩儿的！”汉娜说： “如果是我的生日我想要一个洋娃娃因为她是很棒的！”路易说： “如果是我的生日我想要一个风筝因为它是优秀的！”" />
+			</subtitles>
+		</line>
+		<line words="§In my opinion a football is more fun than a kite,§ says Dean. §In my opinion a doll is boring, but more fun than a football,§ says Rebecca." start="87340" length="15380" useLNutResource="true" image="8#1#3" >
+			<highlights>
+				<highlight index="0" start="2433" length="194" />
+				<highlight index="1" start="2606" length="301" />
+				<highlight index="2" start="2821" length="760" />
+				<highlight index="3" start="3618" length="172" />
+				<highlight index="4" start="3726" length="474" />
+				<highlight index="5" start="4157" length="215" />
+				<highlight index="6" start="4286" length="301" />
+				<highlight index="7" start="4523" length="409" />
+				<highlight index="8" start="4889" length="301" />
+				<highlight index="9" start="5126" length="151" />
+				<highlight index="10" start="5255" length="474" />
+				<highlight index="11" start="5664" length="302" />
+				<highlight index="12" start="5944" length="539" />
+				<highlight index="13" start="8249" length="265" />
+				<highlight index="14" start="8464" length="323" />
+				<highlight index="15" start="8744" length="696" />
+				<highlight index="16" start="9434" length="215" />
+				<highlight index="17" start="9627" length="280" />
+				<highlight index="18" start="9843" length="151" />
+				<highlight index="19" start="9972" length="668" />
+				<highlight index="20" start="10597" length="366" />
+				<highlight index="21" start="10920" length="344" />
+				<highlight index="22" start="11221" length="302" />
+				<highlight index="23" start="11480" length="172" />
+				<highlight index="24" start="11609" length="108" />
+				<highlight index="25" start="11674" length="717" />
+				<highlight index="26" start="12428" length="323" />
+				<highlight index="27" start="12729" length="652" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Efter min mening er en fodbold sjovere end en drage”, siger Dean. ”Efter min mening er en dukke kedelig, men sjovere end en fodbold”, siger Rebecca." />
+				<subtitle lang="so" line="‘Aniga fikirkeyga kubadda waa ka raaxo badantahay abateeyda’ ayuu yiri Dean.‘Aniga fikirkeyga boombalda waa lagu caajisaa, lakin waa ka raaxo badantahay kubadda’ ayey tiri Rebecca." />
+				<subtitle lang="fr" line="§A mon avis, un ballon est plus amusant qu’un cerf-volant.§ dit Didier.« A mon avis, une poupée est ennuyante, mais plus amusante qu’un ballon.§ dit Rebecca." />
+				<subtitle lang="cn" line="德恩说：“我认为一个足球会比一个风筝更好玩。” “ 我认为娃娃是无聊的，但是还是比足球好玩！”丽贝克说。" />
+				<subtitle lang="cl" line="—Yo opino que un balón de football es más divertido que un papalote —dice Dean. —Yo opino que una muñeca es aburrida pero es más divertida que un balón de football —dice Rebecca." />
+				<subtitle lang="nl" line="‘Ik vind een voetbal leuker dan een vlieger’ zegt Danny.‘Ik vind een pop saai, maar leuker dan een voetbal’ zegt Rebecca." />
+				<subtitle lang="sp" line="“en mi opinión una pelota de fútbol es más divertida que una cometa” dice Dean“en mi opinión una muñeca es aburrida, pero más divertida que una pelota de fútbol” dice Rebecca" />
+				<subtitle lang="pt" line="§Na minha opinião, uma bola de futebol é mais divertido do que uma pipa§ diz Dean. §Na minha opinião, uma boneca é chata, mas é mais divertida do que uma bola de futebol§ diz Rebecca." />
+				<subtitle lang="cc" line="德恩说： “我认为一个足球会比一个风筝更好玩。” “ 我认为娃娃是无聊的， 但是还是比足球好玩儿！ ”丽贝克说。" />
+			</subtitles>
+		</line>
+		<line words="Mr Waddle leans forward. He does this when he is going to do something amazing." start="102446" length="9063" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1726" length="393" />
+				<highlight index="1" start="2081" length="330" />
+				<highlight index="2" start="2373" length="393" />
+				<highlight index="3" start="2741" length="594" />
+				<highlight index="4" start="4353" length="228" />
+				<highlight index="5" start="4543" length="330" />
+				<highlight index="6" start="4810" length="393" />
+				<highlight index="7" start="5178" length="292" />
+				<highlight index="8" start="5419" length="140" />
+				<highlight index="9" start="5508" length="114" />
+				<highlight index="10" start="5559" length="228" />
+				<highlight index="11" start="5749" length="152" />
+				<highlight index="12" start="5889" length="190" />
+				<highlight index="13" start="6028" length="445" />
+				<highlight index="14" start="6447" length="771" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Mr Waddle læner sig frem. Det gør han, når han skal til at lave noget overraskende." />
+				<subtitle lang="so" line="Mr Waddle horay ayuu u jileecsaday. Sidaas waxuu sameeyaa markii uu rabo in uu sameeyo wax lala yaabo." />
+				<subtitle lang="fr" line="Monsieur Dandine se penche en avant. Il fait toujours ça quand il va faire quelque chose d’extraordinaire." />
+				<subtitle lang="cn" line="瓦德尔先生向前倾。他每当要做某个了不起的事时都会这么做。" />
+				<subtitle lang="cl" line="El Sr. Waddle se inclina hacia delante. Siempre hace esto cuando va a hacer algo sorprendente." />
+				<subtitle lang="nl" line="Meester Jaap leunt voorover. Hij doet dit altijd als hij iets geweldigs gaat doen." />
+				<subtitle lang="sp" line="El Señor Waddle se acerca. Hace esto cuando va ha hacer algo increíble " />
+				<subtitle lang="pt" line="Sr. Waddle se inclina para frente. Ele faz isso quando ele vai fazer algo surpreendente." />
+				<subtitle lang="cc" line="瓦德尔先生向前倾。 他每当要做某个了不起的事时都会这么做。" />
+			</subtitles>
+		</line>
+		<line words="§Birthdays are much more than just presents. Let me take you on a journey. A journey around the world of Birthdays,§ he says. §Fatima – come and choose a place on the glowing globe.§" start="110960" length="18402" useLNutResource="true" image="18#1#9" >
+			<highlights>
+				<highlight index="0" start="1984" length="825" />
+				<highlight index="1" start="2731" length="232" />
+				<highlight index="2" start="2937" length="232" />
+				<highlight index="3" start="3066" length="413" />
+				<highlight index="4" start="3814" length="406" />
+				<highlight index="5" start="4097" length="696" />
+				<highlight index="6" start="4793" length="1108" />
+				<highlight index="7" start="6520" length="335" />
+				<highlight index="8" start="6777" length="155" />
+				<highlight index="9" start="6855" length="360" />
+				<highlight index="10" start="7138" length="181" />
+				<highlight index="11" start="7241" length="155" />
+				<highlight index="12" start="7344" length="155" />
+				<highlight index="13" start="7396" length="721" />
+				<highlight index="14" start="8401" length="278" />
+				<highlight index="15" start="8581" length="438" />
+				<highlight index="16" start="8968" length="515" />
+				<highlight index="17" start="9380" length="155" />
+				<highlight index="18" start="9483" length="490" />
+				<highlight index="19" start="9896" length="180" />
+				<highlight index="20" start="10025" length="695" />
+				<highlight index="21" start="10695" length="154" />
+				<highlight index="22" start="10798" length="438" />
+				<highlight index="23" start="11442" length="670" />
+				<highlight index="25" start="12576" length="335" />
+				<highlight index="26" start="12859" length="155" />
+				<highlight index="27" start="12962" length="413" />
+				<highlight index="28" start="13323" length="129" />
+				<highlight index="29" start="13401" length="541" />
+				<highlight index="30" start="13864" length="284" />
+				<highlight index="31" start="14096" length="284" />
+				<highlight index="32" start="14303" length="870" />
+				<highlight index="33" start="15076" length="741" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Fødselsdage er meget mere end bare gaver. Lad mig tage jer med på en rejse. En rejse rundt i en fødselsdagsverden”, siger han.”Fatima – kom og vælg et sted på den glødende globus”." />
+				<subtitle lang="so" line="‘ Xaflada maalinta dhalashada, ma ah oo kali in hadiyo la isa siiyo. Waxaa idin kaxeeynaa safar. Safar lagu wareegayo aduunka  dhalashada’ ayuu yiri.‘ fatuma – kaali ee ka dooro meel qurxan shaygan.’ " />
+				<subtitle lang="fr" line="§Les anniversaires représentent bien plus que des cadeaux. Laissez-moi vous emmener en voyage. Un voyage autour du monde des anniversaires§, dit-il. §Fatima, viens et choisis un endroit sur le globe lumineux.§" />
+				<subtitle lang="cn" line="“过生日时不止只有礼物。让我带你们去旅行。一个世界各地的生日的旅行。他说。“法蒂玛-过来在这个发光的地球上选一个地点。”" />
+				<subtitle lang="cl" line="Los cumpleaños son mucho más que regalos. —Déjenme llevarlos de paseo. Un paseo por el mundo de los cumpleaños —dijo el maestro—. Fátima, ven y escoge un lugar en el globo terráqueo." />
+				<subtitle lang="nl" line="‘Jarig zijn gaat om veel meer dan alleen cadeautjes. Laat me jullie meenemen op een reis. Een reis om de wereld van verjaardagen’ zegt hij. ‘Fatima – kies een plaats op de gloeibol’." />
+				<subtitle lang="sp" line="“dejadme llevaros a un viaje. Un viaje alrededor del mundo de los cumpleaños” dice “Fátima, ven y elige un lugar en la bola brillante”" />
+				<subtitle lang="pt" line="§Os aniversários são muito mais do que só presentes. Deixe-me levá-los numa viagem. Uma viagem ao redor do mundo de aniversários,§ diz ele. §Fátima - venha e escolha um lugar no globo brilhante.§" />
+				<subtitle lang="cc" line="“过生日时不止只有礼物。让我带你们上一乘旅程。 一个世界各地的生日的路程。他说。 “法蒂玛-过来在这个发光的地球上选一个地点。”" />
+			</subtitles>
+		</line>
+		<line words="Mr Waddle’s glowing globe is a magical machine that lets the class go anywhere in the world. Fatima points her finger – and chooses Argentina." start="129087" length="13458" useLNutResource="true" image="18#1#9" >
+			<highlights>
+				<highlight index="0" start="1055" length="358" />
+				<highlight index="1" start="1375" length="415" />
+				<highlight index="2" start="1733" length="472" />
+				<highlight index="3" start="2167" length="452" />
+				<highlight index="4" start="2563" length="132" />
+				<highlight index="5" start="2676" length="169" />
+				<highlight index="6" start="2770" length="584" />
+				<highlight index="7" start="3373" length="735" />
+				<highlight index="8" start="4410" length="257" />
+				<highlight index="9" start="4598" length="483" />
+				<highlight index="10" start="5013" length="132" />
+				<highlight index="11" start="5088" length="377" />
+				<highlight index="12" start="5409" length="226" />
+				<highlight index="13" start="5578" length="566" />
+				<highlight index="14" start="6087" length="208" />
+				<highlight index="15" start="6219" length="207" />
+				<highlight index="16" start="6370" length="539" />
+				<highlight index="17" start="7708" length="539" />
+				<highlight index="18" start="8255" length="395" />
+				<highlight index="19" start="8594" length="188" />
+				<highlight index="20" start="8707" length="558" />
+				<highlight index="22" start="9838" length="275" />
+				<highlight index="23" start="10045" length="453" />
+				<highlight index="24" start="10441" length="961" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Mr Waddles glødende globus er en magisk maskine, som lader klassen komme et hvilket som helst sted hen i verden. Fatima peger – og vælger Argentina." />
+				<subtitle lang="so" line="Mr Waddle shaygiisa qurxan waa matoor cajaabi ah, oo fasalka u kaxeeynayo halkii aduunka ka rabaan. Fatuma farta ayeey ku taabatay – waxa tooratay Argentina." />
+				<subtitle lang="fr" line="Le globe lumineux de Monsieur Dandine est un appareil magique qui permet à la classe d’aller n’importe où dans le monde. Fatima pointe son doigt, et choisit l’Argentine." />
+				<subtitle lang="cn" line="瓦德尔先生发光的地球是一个神奇的机器能让全班去世界任何的地方。法蒂玛指着，选了阿根廷。" />
+				<subtitle lang="cl" line="El globo terráqueo del Sr. Waddle es una máquina mágica que lleva a todo el salón de clase a cualquier lugar del mundo. Fátima señala con su dedo... y escoge Argentina." />
+				<subtitle lang="nl" line="De gloeibal van meester Jaap is een tovermachine die de klas overal ter wereld naartoe laat gaan. Fatima wijst met haar vinger – en kiest Argentinië." />
+				<subtitle lang="sp" line="La bola brillante del Señor Waddle es una máquina mágica que permite a la clase ir a cualquier lugar del mundo. Fátima apunta con su dedo y elige Argentina" />
+				<subtitle lang="pt" line="O globo brilhante do Sr. Waddle é uma máquina mágica que permite a classe ir a qualquer lugar do mundo. Fátima aponta o dedo - e escolhe Argentina." />
+				<subtitle lang="cc" line="瓦德尔先生发光的地球是一个神奇的机器能让全班去世界任何的地方。 法蒂玛指着她的手指-而选了阿根廷。" />
+			</subtitles>
+		</line>
+		<line words="The classroom flashes – kazam – and they are transported to Argentina. " start="142271" length="10162" useLNutResource="true" image="20#1#3" >
+			<highlights>
+				<highlight index="0" start="1750" length="242" />
+				<highlight index="1" start="1963" length="740" />
+				<highlight index="2" start="2661" length="669" />
+				<highlight index="4" start="3742" length="982" />
+				<highlight index="6" start="5763" length="143" />
+				<highlight index="7" start="5891" length="200" />
+				<highlight index="8" start="6062" length="142" />
+				<highlight index="9" start="6162" length="896" />
+				<highlight index="10" start="7258" length="200" />
+				<highlight index="11" start="7414" length="925" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det blinker i klasseværelset – kazam – og de kommer til Argentina." />
+				<subtitle lang="so" line="Fasalkii nal ayuu bixiyay – Kazam – dhamaantoda waxaa loo qaaday Argentina." />
+				<subtitle lang="fr" line="Un éclair illumine la salle de classe. Abracadabra! Et ils sont transportés en Argentine." />
+				<subtitle lang="cn" line="整个班闪烁-唰-而且他们被运到了阿根廷。" />
+				<subtitle lang="cl" line="Hay flashes en el salón – kazam – y todos son transportados a Argentina." />
+				<subtitle lang="nl" line="Het flitst in het klaslokaal – hocus pocus pilatus pas – en ze zijn in Argentinië. " />
+				<subtitle lang="sp" line="La clase se ilumina-¡kazam!- y son transportados a Argentina" />
+				<subtitle lang="pt" line="A sala de aula brilha - kazam - e eles são transportados para a Argentina." />
+				<subtitle lang="cc" line="整个班闪烁-唰-而且他们被运到了阿根廷。" />
+			</subtitles>
+		</line>
+		<line words="§Here in Argentina, we celebrate Birthdays by pulling the earlobes of the boy or girl for each year of their Birthday.§ Sam gently pulls Fatima’s earlobe nine times – 1, 2, 3, 4, 5, 6, 7, 8, 9." start="151884" length="25542" useLNutResource="true" image="20#1#3" >
+			<highlights>
+				<highlight index="0" start="2038" length="322" />
+				<highlight index="1" start="2360" length="179" />
+				<highlight index="2" start="2468" length="1058" />
+				<highlight index="3" start="3577" length="178" />
+				<highlight index="4" start="3720" length="644" />
+				<highlight index="5" start="4328" length="715" />
+				<highlight index="6" start="4936" length="286" />
+				<highlight index="7" start="5079" length="536" />
+				<highlight index="8" start="5472" length="287" />
+				<highlight index="9" start="5651" length="680" />
+				<highlight index="10" start="6259" length="179" />
+				<highlight index="11" start="6402" length="215" />
+				<highlight index="12" start="6474" length="322" />
+				<highlight index="13" start="6724" length="179" />
+				<highlight index="14" start="6832" length="644" />
+				<highlight index="15" start="7368" length="286" />
+				<highlight index="16" start="7547" length="429" />
+				<highlight index="17" start="7797" length="322" />
+				<highlight index="18" start="8084" length="214" />
+				<highlight index="19" start="8191" length="286" />
+				<highlight index="20" start="8370" length="823" />
+				<highlight index="21" start="9872" length="608" />
+				<highlight index="22" start="10373" length="537" />
+				<highlight index="23" start="10874" length="465" />
+				<highlight index="24" start="11267" length="680" />
+				<highlight index="25" start="11875" length="644" />
+				<highlight index="26" start="12448" length="357" />
+				<highlight index="27" start="12698" length="894" />
+				<highlight index="29" start="13914" length="394" />
+				<highlight index="30" start="14987" length="737" />
+				<highlight index="31" start="16025" length="644" />
+				<highlight index="32" start="17134" length="915" />
+				<highlight index="33" start="18278" length="966" />
+				<highlight index="34" start="19423" length="930" />
+				<highlight index="35" start="20496" length="1094" />
+				<highlight index="36" start="21748" length="787" />
+				<highlight index="37" start="22964" length="737" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Her i Argentina fejrer vi fødselsdag ved at hive i øreflippen på drengen eller pigen lige så mange gange, som de fylder”. Sam hiver forsigtigt i Fatimas øreflip 9 gange – 1,2,3,4,5,6,7,8,9." />
+				<subtitle lang="so" line="‘Halka Argentina, waxaa ku dabaaldagnaa maalinta dhalashada in dhagta laga jiido wiil ama gabar sanadka dhalashada.’ Sam si tartiib ah ayuu Fatuma dhagta uga jiiday 9 jeer – 1,2,3,4,5,6,7,8,9." />
+				<subtitle lang="fr" line="§Ici, en Argentine, nous célébrons les anniversaires en tirant les oreilles du garçon ou de la fille pour chaque année atteintes.§ Sam tire doucement les oreilles de Fatima 9 fois : 1 2 3 4 5 6 7 8 9" />
+				<subtitle lang="cn" line="“在阿根廷，我们庆贺生日时会拉那个男孩或女孩的耳垂，几岁就拉几次！”山姆轻轻的拉法蒂玛的耳朵九次-1，2，3，4，5，6，7，8，9。" />
+				<subtitle lang="cl" line="—Aquí en Argentina, celebramos los cumpleaños jalando el lóbulo de la oreja del niño o niña las mismas veces que sus años. Sam jala gentilmente el lóbulo de la oreja de Fátima 9 veces: 1, 2, 3, 4, 5, 6, 7, 8, 9." />
+				<subtitle lang="nl" line="‘Hier in Argentinië vieren we verjaardagen door aan de oorlellen van de jongen of het meisje te trekken, één keer voor elk jaar.’ Sam trekt voorzichtig 9 keer aans Fatima’s oorlel – 1,2,3,4,5,6,7,8,9." />
+				<subtitle lang="sp" line="“Aquí en Argentina, celebramos los cumpleaños tirando del lóbulo de la oreja del niño o la niña una vez por cada año que cumplen” Sam cuidadosamente tira de la oreja de Fátima nueve veces- 1 2 3 4 5 6 7 8 9 " />
+				<subtitle lang="pt" line="Aqui na Argentina, comemoramos aniversários puxando os lóbulos das orelhas do menino ou menina, para cada ano de seu aniversário §Sam gentilmente puxa a orelha da Fátima 9 vezes - 1,2,3,4,5,6,7,8,9." />
+				<subtitle lang="cc" line="“在阿根廷， 我们庆贺生日时会拉那个男孩或女孩的耳垂， 几岁就拉几次!”  山姆轻轻的拉法蒂玛的耳朵九次 -1，2，3，4，5，6，7，8，9。" />
+			</subtitles>
+		</line>
+		<line words="§Now where?§ says Mr Waddle. §You choose, Sam.§ Sam points to Canada." start="176877" length="8789" useLNutResource="true" image="20#1#4" >
+			<highlights>
+				<highlight index="0" start="1944" length="210" />
+				<highlight index="1" start="2129" length="431" />
+				<highlight index="2" start="2535" length="271" />
+				<highlight index="3" start="2781" length="200" />
+				<highlight index="4" start="2954" length="467" />
+				<highlight index="5" start="4148" length="172" />
+				<highlight index="6" start="4295" length="308" />
+				<highlight index="7" start="4578" length="407" />
+				<highlight index="8" start="5748" length="320" />
+				<highlight index="9" start="6031" length="344" />
+				<highlight index="10" start="6326" length="100" />
+				<highlight index="11" start="6425" length="544" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hvor skal vi så hen?”, siger Mr Waddle. ”Du vælger, Sam. Sam peger på Canada." />
+				<subtitle lang="so" line="‘Hadda halkee?’ yiri Mr Waddle. ‘adiga dooro, Sam.’ Sam waxuu tilmaamay Canada." />
+				<subtitle lang="fr" line="§Où maintenant ?§ demande Monsieur Dandine. §Tu choisis, Sam.§ Sam pointe le Canada." />
+				<subtitle lang="cn" line="“现在去哪儿？” 瓦德尔先生问。“山姆，你来选。”山姆指着加拿大。" />
+				<subtitle lang="cl" line="—¿Ahora a dónde? —dice el Sr. Waddle—, Tú escoges Sam. Sam señala Canadá." />
+				<subtitle lang="nl" line="‘Waar gaan we nu naartoe?’ vraagt meester Jaap. ‘Kies jij maar, Sam.’ Sam kiest Canada." />
+				<subtitle lang="sp" line="“¿ahora dónde?” dice el Señor Waddle “tú eliges, Sam” Sam apunta a Canadá " />
+				<subtitle lang="pt" line="§Agora, onde?§ Diz o Sr. Waddle. §Você escolhe, Sam.§ Sam aponta para o Canadá." />
+				<subtitle lang="cc" line="“现在去哪儿？” 瓦德尔先生问。 “山姆，你来选。” 山姆指着加拿大。" />
+			</subtitles>
+		</line>
+		<line words="The classroom flashes – kazam – and they are transported to Canada. " start="185391" length="7965" useLNutResource="true" image="20#1#4" >
+			<highlights>
+				<highlight index="0" start="2152" length="200" />
+				<highlight index="1" start="2297" length="536" />
+				<highlight index="2" start="2822" length="658" />
+				<highlight index="4" start="3881" length="591" />
+				<highlight index="6" start="4885" length="201" />
+				<highlight index="7" start="5064" length="234" />
+				<highlight index="8" start="5253" length="100" />
+				<highlight index="9" start="5331" length="603" />
+				<highlight index="10" start="5923" length="100" />
+				<highlight index="11" start="5990" length="580" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det blinker i klasseværelset – kazam – og de kommer til Canada." />
+				<subtitle lang="so" line="Fasalkii nal ayuu bixiyay – Kazam – dhamaantoda waxaa loo qaaday Canada." />
+				<subtitle lang="fr" line="Un éclair illumine la salle de classe. Abracadabra! Et ils sont transportés au Canada." />
+				<subtitle lang="cn" line="整个班闪烁-唰-而且他们被运到了加拿大。" />
+				<subtitle lang="cl" line="Hay flashes en el salón – kazam – y todos son transportados a Canadá." />
+				<subtitle lang="nl" line="Het flitst in het klaslokaal – hocus pocus pilatus pas – en ze zijn in Canada. " />
+				<subtitle lang="sp" line="La clase se ilumina-¡kazam!- y son transportados a Canadá" />
+				<subtitle lang="pt" line="A sala de aula brilha - kazam - e eles são transportados para o Canadá." />
+				<subtitle lang="cc" line="整个班闪烁-唰-而且他们被运到了加拿大。" />
+			</subtitles>
+		</line>
+		<line words="§Here in some parts of Canada like Nova Scotia, we celebrate Birthdays by greasing the boy's or girl´s nose so that they are too slippery for bad luck to catch them.§ The class pretend to grease their noses." start="193356" length="16480" useLNutResource="true" image="4#3#2" >
+			<highlights>
+				<highlight index="0" start="0" length="553" />
+				<highlight index="1" start="507" length="231" />
+				<highlight index="2" start="692" length="254" />
+				<highlight index="3" start="830" length="370" />
+				<highlight index="4" start="1153" length="162" />
+				<highlight index="5" start="1269" length="508" />
+				<highlight index="6" start="2492" length="369" />
+				<highlight index="7" start="2792" length="277" />
+				<highlight index="8" start="3023" length="669" />
+				<highlight index="9" start="4108" length="323" />
+				<highlight index="10" start="4338" length="531" />
+				<highlight index="11" start="4846" length="531" />
+				<highlight index="12" start="5354" length="346" />
+				<highlight index="13" start="5608" length="438" />
+				<highlight index="14" start="6000" length="208" />
+				<highlight index="15" start="6162" length="369" />
+				<highlight index="16" start="6462" length="138" />
+				<highlight index="17" start="6508" length="392" />
+				<highlight index="18" start="6877" length="485" />
+				<highlight index="19" start="7777" length="231" />
+				<highlight index="20" start="7962" length="162" />
+				<highlight index="21" start="8124" length="161" />
+				<highlight index="22" start="8216" length="184" />
+				<highlight index="23" start="8354" length="408" />
+				<highlight index="24" start="8654" length="647" />
+				<highlight index="25" start="9278" length="184" />
+				<highlight index="26" start="9416" length="462" />
+				<highlight index="27" start="9785" length="439" />
+				<highlight index="28" start="10201" length="230" />
+				<highlight index="29" start="10316" length="592" />
+				<highlight index="30" start="10824" length="438" />
+				<highlight index="31" start="12162" length="185" />
+				<highlight index="32" start="12301" length="485" />
+				<highlight index="33" start="12716" length="570" />
+				<highlight index="34" start="13201" length="208" />
+				<highlight index="35" start="13386" length="592" />
+				<highlight index="36" start="13917" length="392" />
+				<highlight index="37" start="14217" length="692" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“I nogle dele af Canada som her i Nova Scotia, fejrer vi fødselsdag ved at smøre noget fedtet på drengens eller pigens næse, så de er for glatte til at uheld kan ramme dem”. Klassen lader som om de smører fedt på næsen." />
+				<subtitle lang="so" line="‘Halka  waa qeyb ka mid ah Canada sida Nova Scoti, waxaa ku dabaaldagnaa maalinta dhalashada in saliid la mariyo sanka  wiil ama gabar si sibibaxo u noqoto, keento nasiib taro in la qabto.’ Fasalkii waxay jilen in sankooda saliid mariyaan. " />
+				<subtitle lang="fr" line="« Ici, dans certains endroits du Canada, comme la Nouvelle Ecosse, nous célébrons les anniversaires en graissant le nez du garçon ou de la fille pour qu’il soit tellement glissant que la malchance ne puisse pas l’attraper. » La classe fait semblant de se graisser le nez." />
+				<subtitle lang="cn" line="“在加拿大的某部份像新斯科舍省， 我们庆贺生日时会把油涂在男孩或者女孩的鼻子上，这样子坏运气就捉不了他/她。全班都假装涂油上他们的鼻子。" />
+				<subtitle lang="cl" line="—Aquí en algunas partes de Canadá como en Nueva Escocia, celebramos los cumpleaños engrasando la nariz del niño o la niña para que esté tan resbalosa que la mala suerte no pueda atraparlos. Todo el salón fingió engrasarse la nariz." />
+				<subtitle lang="nl" line="‘In sommige delen van Canada zoals Nova Scotia, vieren we verjaardagen door de neus van de jongen of het meisje in te vetten, zodat hij te glad is om door het ongeluk te pakken te zijn.’ De kinderen uit de klas doen net alsof ze hun neuzen invetten." />
+				<subtitle lang="sp" line="“Aquí en algunas partes de Canadá como Nueva Escocia, celebramos los cumpleaños engrasando la nariz del niño o la niña para que la mala suerte no los coja” y la clase pretende engrasar sus narices " />
+				<subtitle lang="pt" line="§Aqui, em algumas partes do Canadá, como na Nova Escócia, comemoramos aniversários colocando graxa no nariz do menino ou da menina para que ficam escorregadios o suficiente para o azar não pegá-los.§ A classe finge colocar graxa nos seus narizes." />
+				<subtitle lang="cc" line="“在加拿大的某部份像新斯科舍省， 我们庆贺生日时会把油涂在男孩或者女孩的鼻子上， 这样子坏运气就捉不了他/她。 全班都假装涂油上他们的鼻子。" />
+			</subtitles>
+		</line>
+		<line words="§Now where?§ says Mr Waddle. §You choose, Sandrine.§ Sandrine points to Egypt." start="209561" length="10437" useLNutResource="true" image="20#1#2" >
+			<highlights>
+				<highlight index="0" start="2236" length="292" />
+				<highlight index="1" start="2499" length="322" />
+				<highlight index="2" start="2777" length="263" />
+				<highlight index="3" start="3011" length="336" />
+				<highlight index="4" start="3303" length="468" />
+				<highlight index="5" start="4896" length="219" />
+				<highlight index="6" start="5086" length="395" />
+				<highlight index="7" start="5437" length="638" />
+				<highlight index="8" start="7059" length="687" />
+				<highlight index="9" start="7717" length="351" />
+				<highlight index="10" start="8039" length="117" />
+				<highlight index="11" start="8126" length="746" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hvor skal vi så hen?”, siger Mr Waddle. ”Du vælger, Sandrine.” Sandrine peger på Egypten." />
+				<subtitle lang="so" line="‘Hadda halkee?’ yiri Mr Waddle. ‘adiga dooro, Sandrine.’ Sandrin waxay dooratay Masar." />
+				<subtitle lang="fr" line="§Où maintenant?§ demande Monsieur Dandine. §Tu choisis, Sandrine.§ Sandrine pointe l’Egypte." />
+				<subtitle lang="cn" line="“现在去哪儿？” 瓦德尔先生问。“桑德林，你来选。”桑德林指着埃及。" />
+				<subtitle lang="cl" line="—¿Ahora a dónde? —dice el Sr. Waddle—, Tú escoges Sadrine. Sadrine señala Egipto." />
+				<subtitle lang="nl" line="‘Waar gaan we nu naartoe?’ vraagt meester Jaap. ‘Kies jij maar, Sandra.’ Sandra kiest Egypte." />
+				<subtitle lang="sp" line="“¿ahora dónde? Dice el Señor Waddle “tú eliges, Sandrine” Sandrine apunta a Egipto. " />
+				<subtitle lang="pt" line="§Agora, onde?§ Diz o Sr. Waddle. §Você escolhe, Sandrine.§ Sandrine aponta para o Egito." />
+				<subtitle lang="cc" line="“现在去哪儿？” 瓦德尔先生问。 “桑德林，你来选。 ”桑德林指着埃及。" />
+			</subtitles>
+		</line>
+		<line words="The classroom flashes – kazam – and they are transported to Egypt." start="219174" length="9063" useLNutResource="true" image="20#1#2" >
+			<highlights>
+				<highlight index="0" start="2589" length="177" />
+				<highlight index="1" start="2741" length="635" />
+				<highlight index="2" start="3338" length="748" />
+				<highlight index="4" start="4188" length="901" />
+				<highlight index="6" start="5318" length="190" />
+				<highlight index="7" start="5483" length="177" />
+				<highlight index="8" start="5622" length="127" />
+				<highlight index="9" start="5711" length="698" />
+				<highlight index="10" start="6371" length="152" />
+				<highlight index="11" start="6485" length="670" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det blinker i klasseværelset – kazam – og de kommer til Egypten" />
+				<subtitle lang="so" line="Fasalkii nal ayuu bixiyay – Kazam – dhamaantoda waxaa loo qaaday Masar." />
+				<subtitle lang="fr" line="Un éclair illumine la salle de classe. Abracadabra! Et ils sont transportés en Egypte." />
+				<subtitle lang="cn" line="整个班闪烁-唰-而且他们被运到了埃及。" />
+				<subtitle lang="cl" line="Hay flashes en el salón – kazam – y todos son transportados a Egipto." />
+				<subtitle lang="nl" line="Het flitst in het klaslokaal – hocus pocus pilatus pas – en ze zijn in Egypte." />
+				<subtitle lang="sp" line="La clase se ilumina-¡kazam! Y son transportados a Egipto" />
+				<subtitle lang="pt" line="A sala de aula brilha - kazam - e eles são transportados para o Egito." />
+				<subtitle lang="cc" line="整个班闪烁-唰-而且他们被运到了埃及。" />
+			</subtitles>
+		</line>
+		<line words="§Here in Egypt, we celebrate Birthdays by decorating the house with paper decorations called zeena. We have a big party with lots of friends and family.§ The class make zeena with their hands." start="227963" length="15930" useLNutResource="true" image="4#1#2" >
+			<highlights>
+				<highlight index="0" start="1807" length="312" />
+				<highlight index="1" start="2052" length="201" />
+				<highlight index="2" start="2208" length="646" />
+				<highlight index="3" start="2944" length="268" />
+				<highlight index="4" start="3167" length="514" />
+				<highlight index="5" start="3614" length="714" />
+				<highlight index="6" start="4238" length="223" />
+				<highlight index="7" start="4372" length="869" />
+				<highlight index="8" start="5108" length="223" />
+				<highlight index="9" start="5153" length="602" />
+				<highlight index="10" start="5666" length="179" />
+				<highlight index="11" start="5778" length="535" />
+				<highlight index="12" start="6246" length="803" />
+				<highlight index="13" start="6960" length="357" />
+				<highlight index="14" start="7250" length="758" />
+				<highlight index="15" start="8745" length="201" />
+				<highlight index="16" start="8856" length="335" />
+				<highlight index="17" start="9102" length="100" />
+				<highlight index="18" start="9102" length="245" />
+				<highlight index="19" start="9303" length="579" />
+				<highlight index="20" start="9793" length="246" />
+				<highlight index="21" start="9972" length="357" />
+				<highlight index="22" start="10262" length="156" />
+				<highlight index="23" start="10351" length="579" />
+				<highlight index="24" start="10820" length="111" />
+				<highlight index="25" start="10864" length="647" />
+				<highlight index="26" start="12537" length="290" />
+				<highlight index="27" start="12760" length="268" />
+				<highlight index="28" start="12939" length="401" />
+				<highlight index="29" start="13251" length="402" />
+				<highlight index="30" start="13608" length="179" />
+				<highlight index="31" start="13764" length="313" />
+				<highlight index="32" start="13987" length="647" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Her i Egypten fejrer vi fødselsdag ved at pynte huset med papirdekorationer, der hedder zeena. Vi holder en stor fest med masser af venner og familie”. Klassen laver zeena med hænderne." />
+				<subtitle lang="so" line="‘Halka Masar, waxaa ku dabaaldagnaa maalinta dhalashada in guriga la qurxiyo, lagu qurxiyo warqado qurxan oo la yiraahdo Zeena Waxaan sameeynaa xafald weyne oo imaanayaan reerka iyo asxaabta.’  Fasalka waxay gacmahooda ku sameeyeen Zeena." />
+				<subtitle lang="fr" line="§Ici, en Egypte, nous célébrons les anniversaires en décorant la maison avec des décorations en papier appelées zeena . Nous faisons une grande fête avec beaucoup d’amis et la famille.§ La classe mime des zeena avec leurs mains." />
+				<subtitle lang="cn" line="“在埃及，我们在庆贺生日时会用纸装饰-叫做子纳，来装饰家里。我们开一个大派对与我们的朋友和家人们。” 全班用手来制作子纳。 " />
+				<subtitle lang="cl" line="—Aquí en Egipto, celebramos los cumpleaños decorando la casa del festejado con decoraciones de papel llamado zeena. Hacemos un gran fiesta con muchos amigos y toda la familia”. La clase hace papel zeena con sus manos." />
+				<subtitle lang="nl" line="‘Hier in Egypte vieren we verjaardagen door het huis te versieren met zeena’s, papieren versieringen. We geven een groot feest met veel vrienden en familie.’ De klas maakt zeena’s met hun handen." />
+				<subtitle lang="sp" line="“Aquí en Egipto celebramos los cumpleaños decorando la casa con papales de decoración llamados Zeena. Hacemos una gran fiesta con la familia y muchos amigos”" />
+				<subtitle lang="pt" line="§Aqui no Egito, comemoramos aniversários decorando a casa com enfeites de papel chamado Zeena. Temos uma grande festa com muitos amigos e familiares.§ A classe faz Zeena com as mãos." />
+				<subtitle lang="cc" line="“在埃及，我们在庆贺生日时会用纸装饰-叫做子纳，来装饰家里。 我们开一个大派对与我们的朋友和家人们。” 全班用手来制作子纳。 " />
+			</subtitles>
+		</line>
+		<line words="§Now where?§ says Mr Waddle. §You choose, Harry.§ Harry points to Japan." start="243618" length="10712" useLNutResource="true" image="20#1#5" >
+			<highlights>
+				<highlight index="0" start="2415" length="285" />
+				<highlight index="1" start="2640" length="470" />
+				<highlight index="2" start="3060" length="405" />
+				<highlight index="3" start="3435" length="195" />
+				<highlight index="4" start="3600" length="525" />
+				<highlight index="5" start="4875" length="285" />
+				<highlight index="6" start="5115" length="405" />
+				<highlight index="7" start="5490" length="410" />
+				<highlight index="8" start="7155" length="345" />
+				<highlight index="9" start="7470" length="450" />
+				<highlight index="10" start="7860" length="165" />
+				<highlight index="11" start="7965" length="650" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hvor skal vi så hen?”, siger Mr Waddle. ”Du vælger, Harry.” Harry peger på Japan." />
+				<subtitle lang="so" line="‘Hadda halkee?’ yiri Mr Waddle. ‘adiga dooro, Harry.’ Harry waxay dooratay Japan." />
+				<subtitle lang="fr" line="§Où maintenant?§ demande Monsieur Dandine. §Tu choisis, Harry.§ Harry pointe le Japon." />
+				<subtitle lang="cn" line="“现在去哪儿？” 瓦德尔先生问。“哈利，你来选。”哈利指着日本。" />
+				<subtitle lang="cl" line="—¿Ahora a dónde? —dice el Sr. Waddle—, Tú escoges Harry. Harry señala Japón." />
+				<subtitle lang="nl" line="‘Waar gaan we nu naartoe?’ vraagt meester Jaap. ‘Kies jij maar, Harry.’ Harry kiest Japan." />
+				<subtitle lang="sp" line="“¿ahora dónde?” dice el Señor Waddle “tú eliges, Harry!” Harry apunta a Japón " />
+				<subtitle lang="pt" line="§Agora, onde?§ Diz o Sr. Waddle. §Você escolhe, Harry.§ Harry aponta para o Japão." />
+				<subtitle lang="cc" line="“现在去哪儿？” 瓦德尔先生问。 “哈利，你来选。 ”哈利指着日本。" />
+			</subtitles>
+		</line>
+		<line words="The classroom flashes – kazam – and they are transported to Japan." start="254055" length="9064" useLNutResource="true" image="20#1#5" >
+			<highlights>
+				<highlight index="0" start="1726" length="165" />
+				<highlight index="1" start="1865" length="597" />
+				<highlight index="2" start="2449" length="708" />
+				<highlight index="4" start="4023" length="699" />
+				<highlight index="6" start="5394" length="153" />
+				<highlight index="7" start="5509" length="215" />
+				<highlight index="8" start="5648" length="114" />
+				<highlight index="9" start="5724" length="787" />
+				<highlight index="10" start="6473" length="200" />
+				<highlight index="11" start="6613" length="558" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det blinker i klasseværelset – kazam – og de kommer til Japan." />
+				<subtitle lang="so" line="Fasalkii nal ayuu bixiyay – Kazam – dhamaantoda waxaa loo qaaday Japan.." />
+				<subtitle lang="fr" line="Un éclair illumine la salle de classe. Abracadabra! Et ils sont transportés au Japon." />
+				<subtitle lang="cn" line="整个班闪烁-唰-而且他们被运到了日本。" />
+				<subtitle lang="cl" line="Hay flashes en el salón – kazam – y todos son transportados a Japón." />
+				<subtitle lang="nl" line="Het flitst in het klaslokaal – hocus pocus pilatus pas – en ze zijn in Japan." />
+				<subtitle lang="sp" line="La clase se ilumina-¡kazam!-y son transportados a Japón" />
+				<subtitle lang="pt" line="A sala de aula brilha - kazam - e eles são transportados para o Japão." />
+				<subtitle lang="cc" line="整个班闪烁-唰-而且他们被运到了日本。" />
+			</subtitles>
+		</line>
+		<line words="§Here in Japan, we sometimes celebrate the 7th, 5th and 3rd Birthdays by visiting a shrine and praying. For boys it is the 3rd and the 5th Birthday, and for girls it is the 3rd and the 7th Birthday.§" start="263119" length="20049" useLNutResource="true" image="3#2#3" >
+			<highlights>
+				<highlight index="0" start="1488" length="393" />
+				<highlight index="1" start="1768" length="225" />
+				<highlight index="2" start="1937" length="618" />
+				<highlight index="3" start="3397" length="196" />
+				<highlight index="4" start="3481" length="674" />
+				<highlight index="5" start="4099" length="646" />
+				<highlight index="6" start="4660" length="141" />
+				<highlight index="7" start="4773" length="674" />
+				<highlight index="8" start="5419" length="982" />
+				<highlight index="9" start="6485" length="337" />
+				<highlight index="10" start="6794" length="787" />
+				<highlight index="11" start="7496" length="815" />
+				<highlight index="12" start="8535" length="369" />
+				<highlight index="13" start="8760" length="533" />
+				<highlight index="14" start="9209" length="197" />
+				<highlight index="15" start="9293" length="674" />
+				<highlight index="16" start="9883" length="365" />
+				<highlight index="17" start="10136" length="561" />
+				<highlight index="18" start="11203" length="339" />
+				<highlight index="19" start="11455" length="730" />
+				<highlight index="20" start="12354" length="196" />
+				<highlight index="21" start="12466" length="197" />
+				<highlight index="22" start="12635" length="196" />
+				<highlight index="23" start="12719" length="730" />
+				<highlight index="24" start="13505" length="196" />
+				<highlight index="25" start="13589" length="197" />
+				<highlight index="26" start="13701" length="566" />
+				<highlight index="27" start="14263" length="702" />
+				<highlight index="28" start="15246" length="309" />
+				<highlight index="29" start="15498" length="197" />
+				<highlight index="30" start="15639" length="593" />
+				<highlight index="31" start="16425" length="253" />
+				<highlight index="32" start="16565" length="169" />
+				<highlight index="33" start="16706" length="281" />
+				<highlight index="34" start="16902" length="678" />
+				<highlight index="35" start="17660" length="197" />
+				<highlight index="36" start="17829" length="253" />
+				<highlight index="37" start="17969" length="678" />
+				<highlight index="38" start="18643" length="1071" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Her i Japan fejrer vi sommetider den 7., 5. og 3. fødselsdag ved at tage til en helligdom og bede. For drenge er det den 3. og den 5. fødselsdag, og for piger er det den 3. og den 7. fødselsdag." />
+				<subtitle lang="so" line="‘Halka Japan, waxaa marark qaarkooda ku dabaaldagnaa maalinta dhalashada 7th, 5th   iyo 3th , in  aan siyaarano meelaha wax lagu caabudo kune soo dukano. Wiilasha waxaa la keeyaa marka ay jiraan 3rd iyo 5th dhalshadooda. Gabdhaha waxaa la keeyaa marka ay jiraan 3rd iyo 7th dhalshadooda." />
+				<subtitle lang="fr" line="§Ici, au Japon, nous célébrons parfois les septièmes, cinquièmes et troisièmes anniversaires en nous rendant au sanctuaire et en priant. Pour les garçons, c’est aux troisièmes et cinquièmes anniversaires, et pour les filles, aux troisièmes et septièmes.§ " />
+				<subtitle lang="cn" line="“ 在日本，有时我们会去一所庙来祈祷而庆贺7，5 和3岁生日。 对男孩子来说，这是3岁和5岁生日，而对女孩子来说这是3岁和7岁。过生日的男孩或女孩会穿新衣服因为这是一个特殊的节日。”全班都跪下来祈祷。" />
+				<subtitle lang="cl" line="“Aquí en Japón, a veces celebramos los cumpleaños número 7, 5 y 3 visitando un santuario y rezando. Para los niños es el 3er y 5to cumpleaños, y para las niñas es el 3er y 7mo cumpleaños. " />
+				<subtitle lang="nl" line="‘Hier in Japan vieren we soms de zevende, vijfde en derde verjaardag door te bidden bij een heiligdom. Jongens doen dit bij de derde en vijfde verjaardag, meisjes bij de derde en zevende verjaardag. " />
+				<subtitle lang="sp" line="“Aquí en Japón celebramos el tercero, quinto y séptimo cumpleaños visitando un santuario y rezando. Para los niños es el tercer y el quinto cumpleaños, y para las niñas el tercer y el séptimo cumpleaños. " />
+				<subtitle lang="pt" line="§Aqui no Japão, às vezes celebraramos o 7º, 5º e 3º aniversário visitando um santuário e rezando. Para os meninos é o 3 º eo 5 º aniversário, e para as meninas é o 3º e o 7º aniversário. " />
+				<subtitle lang="cc" line="“ 在日本，有时我们会去一所庙来祈祷而庆贺7，5 和3岁生日。 对男孩子来说，这是3岁和5岁生日，而对女孩子来说这是3岁和7岁。”" />
+			</subtitles>
+		</line>
+		<line words="§The Birthday boy or girl wears new clothes for the occasion.§ The children kneel and pray." start="282894" length="7965" useLNutResource="true" image="1#2#5" >
+			<highlights>
+				<highlight index="0" start="78" length="368" />
+				<highlight index="1" start="401" length="547" />
+				<highlight index="2" start="914" length="357" />
+				<highlight index="3" start="1260" length="156" />
+				<highlight index="4" start="1383" length="435" />
+				<highlight index="5" start="1840" length="636" />
+				<highlight index="6" start="2454" length="290" />
+				<highlight index="7" start="2688" length="524" />
+				<highlight index="8" start="3201" length="100" />
+				<highlight index="9" start="3223" length="200" />
+				<highlight index="10" start="3368" length="725" />
+				<highlight index="11" start="4673" length="179" />
+				<highlight index="12" start="4796" length="613" />
+				<highlight index="13" start="5354" length="467" />
+				<highlight index="14" start="5778" length="267" />
+				<highlight index="15" start="6012" length="580" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line=" Den dreng eller pige, der fylder år har nyt tøj på i dagens anledning”.Børnene knæler og beder." />
+				<subtitle lang="so" line="Maalinta dhalashada gabdhaha iyo wiilasha waxay ku labistaan maalintaa dhar cusub. Caruurta jilibka ayey dhalka dhigayaan wane tukanaayan." />
+				<subtitle lang="fr" line="§Le garçon ou la fille qui fête son anniversaire porte de nouveaux vêtements pour l’occasion.§ Les enfants s’agenouillent et prient. " />
+				<subtitle lang="cn" line="“现在让我们回家吧。” 瓦德尔先生说。整个班闪烁-唰-而且他们被运回了家。" />
+				<subtitle lang="cl" line="El niño o niña del cumpleaños usa ropa nueva para la ocasión. Todos los niños del salón se hincaron y comenzaron a rezar." />
+				<subtitle lang="nl" line="De jarige draagt nieuwe kleren, special voor de gelegenheid.’ De kinderen doen net alsof ze knielen en bidden." />
+				<subtitle lang="sp" line="El niño o la niña llevan ropa nueva para la ocasión” los niños se arrodillan y rezan" />
+				<subtitle lang="pt" line="O aniversariante veste roupas novas para a ocasião.§ O as crianças se ajoelham e rezam." />
+				<subtitle lang="cc" line="过生日的男孩或女孩会穿新衣服因为这是一个特殊的节日。 全班都跪下来祈祷。" />
+			</subtitles>
+		</line>
+		<line words="§Now let’s return home,§ says Mr Waddle. The classroom flashes – kazam – and they are transported back home." start="290859" length="11535" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2035" length="371" />
+				<highlight index="1" start="2358" length="459" />
+				<highlight index="2" start="2746" length="371" />
+				<highlight index="3" start="3053" length="387" />
+				<highlight index="4" start="3570" length="200" />
+				<highlight index="5" start="3747" length="356" />
+				<highlight index="6" start="4070" length="533" />
+				<highlight index="7" start="4927" length="258" />
+				<highlight index="8" start="5120" length="588" />
+				<highlight index="9" start="5621" length="663" />
+				<highlight index="11" start="6558" length="824" />
+				<highlight index="13" start="7624" length="162" />
+				<highlight index="14" start="7770" length="210" />
+				<highlight index="15" start="7915" length="162" />
+				<highlight index="16" start="8028" length="711" />
+				<highlight index="17" start="8674" length="275" />
+				<highlight index="18" start="8901" length="668" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Nu må vi se at komme hjem”, siger Mr Waddle. Det blinker i klasseværelset – kazam – og de kommer hjem." />
+				<subtitle lang="so" line="‘Hadda aan u noqona guriga’ Mr Waddle yiri. Fasalkii nal ayuu bixiyay – Kazam – dhamaantoda waxaa ku noq deen guriga." />
+				<subtitle lang="fr" line="§Maintenant, retournons à la maison §, dit Monsieur Dandine. Un éclair illumine la salle de classe. Abracadabra! Et ils sont transportés à la maison." />
+				<subtitle lang="cn" line="“现在让我们回家吧。” 瓦德尔先生说。 整个班闪烁-唰-而且他们被运回了家。" />
+				<subtitle lang="cl" line="—Ahora hay que regresar a casa —dice el Sr. Waddle. Hay flashes en el salón – kazam – y todos son transportados de regreso a casa." />
+				<subtitle lang="nl" line="‘Laten we terug gaan’ zegt meester Jaap. Het klaslokaal flikkert – hocus pocus pilatus pas  en ze gaan terug naar Nederland." />
+				<subtitle lang="sp" line="“ahora vamos a volver al colegio” dice el Señor Waddle. La clase se ilumina -¡kazam!- y todos los niños son transportados de vuelta al colegio" />
+				<subtitle lang="pt" line="§Agora vamos voltar para casa§ diz o Sr. Waddle. A sala de aula brilha - kazam - e eles são transportados de volta para casa." />
+				<subtitle lang="cc" line="“现在让我们回家吧。” 瓦德尔先生说。 整个班闪烁-唰-而且他们被运回了家。" />
+			</subtitles>
+		</line>
+		<line words="And in their classroom there are ‘zeena’ hanging from the ceiling – and all the children have greasy noses!" start="301845" length="11261" useLNutResource="true" image="4#3#2" >
+			<highlights>
+				<highlight index="0" start="1924" length="200" />
+				<highlight index="1" start="2065" length="200" />
+				<highlight index="2" start="2239" length="331" />
+				<highlight index="3" start="2523" length="578" />
+				<highlight index="4" start="4068" length="174" />
+				<highlight index="5" start="4194" length="221" />
+				<highlight index="6" start="4352" length="673" />
+				<highlight index="7" start="4967" length="584" />
+				<highlight index="8" start="5535" length="237" />
+				<highlight index="9" start="5724" length="142" />
+				<highlight index="10" start="5819" length="410" />
+				<highlight index="12" start="6907" length="252" />
+				<highlight index="13" start="7286" length="504" />
+				<highlight index="14" start="7743" length="189" />
+				<highlight index="15" start="7885" length="646" />
+				<highlight index="16" start="8784" length="426" />
+				<highlight index="17" start="9146" length="489" />
+				<highlight index="18" start="9572" length="868" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Og i klasseværelset hænger der zeena ned fra loftet – og alle børnene har fedtede næser!" />
+				<subtitle lang="so" line="Fasalkooda saqafkiisa waxaa ka soo lad-laado ‘Zeena’ caruurta sankooda waa wade saliid!Dhamaad." />
+				<subtitle lang="fr" line="Et dans leur salle de classe, il y a des zeena qui pendent du plafond, et tous les enfants ont le nez gras!" />
+				<subtitle lang="cn" line="而在课堂里的天花板上挂有了子纳-还有所有的孩子们都有油腻的鼻子！" />
+				<subtitle lang="cl" line="Y en su salón hay papel zeena colgado del techo y todos los niños tienen las narices engrasadas." />
+				<subtitle lang="nl" line="In het klaslokaal hangen er plotseling ‘zeena’s’ aan het plafond – en alle kinderen hebben vette neuzen!" />
+				<subtitle lang="sp" line="Y en la clase hay papel “Zeena” colgado del techo y todos los niños tienen la nariz engrasada”" />
+				<subtitle lang="pt" line="E na sala de aula há §Zeena§ pendurado no teto - e todas as crianças estão com graxa no nariz!" />
+				<subtitle lang="cc" line="而在课堂里的天花板上挂有了子纳-还有所有的孩子们都有油腻的鼻子！" />
+			</subtitles>
+		</line>
+		<line words="The End" start="312831" length="7691" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="430" length="200" />
+				<highlight index="1" start="592" length="534" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Einde." />
+				<subtitle lang="dk" line="Slut" />
+				<subtitle lang="sp" line="Fin." />
+				<subtitle lang="fr" line="Ende." />
+				<subtitle lang="cn" line="完。" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

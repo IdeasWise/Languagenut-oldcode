@@ -1,0 +1,487 @@
+<?xml version="1.0"?>
+<karaoke length="62171">
+  <lines>
+    <line words="Maman a mal &#xE0; la t&#xEA;te" start="642" length="2500" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="lba" line=""/>
+        <subtitle lang="saa" line=""/>
+        <subtitle lang="me" line=""/>
+      </subtitles>
+      <highlights/>
+    </line>
+    <line words="Tayo a une guitare et il va chanter. &#xAB;  je pr&#xE9;f&#xE8;re la pop musique et le reggae. &#xBB; Dit-il" start="4821" length="8873" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="cl" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/>
+        <subtitle lang="en" line="Tayo has a guitar and he is going to sing. &#x201C;I prefer pop and reggae music,&#x201D; he says."/>
+        <subtitle lang="lba" line="&#x62A;&#x627;&#x64A;&#x648; &#x639;&#x646;&#x62F;&#x647; &#x643;&#x64A;&#x62A;&#x627;&#x631; &#x648;&#x633;&#x648;&#x641; &#x64A;&#x63A;&#x646;&#x64A;. &#xA7;&#x627;&#x646;&#x627; &#x627;&#x641;&#x636;&#x644; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x628;&#x648;&#x628; &#x648;&#x631;&#x64A;&#x643;&#x64A;&#xA7; &#x60C; &#x647;&#x648; &#x64A;&#x642;&#x648;&#x644;."/>
+        <subtitle lang="me" line="&#x62A;&#x627;&#x64A;&#x648; &#x639;&#x646;&#x62F;&#x647; &#x643;&#x64A;&#x62A;&#x627;&#x631; &#x648;&#x633;&#x648;&#x641; &#x64A;&#x63A;&#x646;&#x64A;. &#xA7;&#x627;&#x646;&#x627; &#x627;&#x641;&#x636;&#x644; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x628;&#x648;&#x628; &#x648;&#x631;&#x64A;&#x643;&#x64A;&#xA7; &#x60C; &#x647;&#x648; &#x64A;&#x642;&#x648;&#x644;."/>
+        <subtitle lang="saa" line="&#x62A;&#x627;&#x64A;&#x648; &#x639;&#x646;&#x62F;&#x647; &#x643;&#x64A;&#x62A;&#x627;&#x631; &#x648;&#x633;&#x648;&#x641; &#x64A;&#x63A;&#x646;&#x64A;. &#xA7;&#x627;&#x646;&#x627; &#x627;&#x641;&#x636;&#x644; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x628;&#x648;&#x628; &#x648;&#x631;&#x64A;&#x643;&#x64A;&#xA7; &#x60C; &#x647;&#x648; &#x64A;&#x642;&#x648;&#x644;."/>
+      <subtitle lang="mx" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="es" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="co" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="gt" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="pe" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="ni" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="do" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="bo" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="ve" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="ar" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="cu" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="pr" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="py" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="ec" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="hn" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="sv" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="cr" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/><subtitle lang="pa" line="Tayo tiene una guitarra y va a cantar. &#x201C;Prefiero pop y reggae,&#x201D; dice. "/>
+				<subtitle lang="ine" line="Tayo has a guitar and he is going to sing. &#x201C;I prefer pop and reggae music,&#x201D; he says."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Lila a une fl&#xFB;te &#xE0; bec. Elle va fredonner. &#xAB; J&#x2019;aimerais jouer du jazz &#xBB; Dit-elle. &#xAB; C&#x2019;est super. &#xBB;" start="13758" length="9580" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="cl" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/>
+        <subtitle lang="en" line="Lila has a recorder. She is going to hum. &#x201C;I would like to play jazz,&#x201D; she says. &#x201C;It&#x2019;s super.&#x201D;"/>
+        <subtitle lang="lba" line="&#x644;&#x64A;&#x644;&#x649; &#x644;&#x62F;&#x64A;&#x647;&#x627; &#x645;&#x633;&#x62C;&#x644;. &#x648;&#x633;&#x648;&#x641; &#x62A;&#x62F;&#x646;&#x62F;&#x646;. &#xA7;&#x648;&#x642;&#x627;&#x644;&#x62A; &#x623;&#x648;&#x62F; &#x623;&#x646; &#x623;&#x639;&#x632;&#x641; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62C;&#x627;&#x632;&#xA7;  &#xA7;&#x627;&#x646;&#x647;&#x627; &#x631;&#x627;&#x626;&#x639;&#x629;&#xA7;."/>
+        <subtitle lang="me" line="&#x644;&#x64A;&#x644;&#x649; &#x644;&#x62F;&#x64A;&#x647;&#x627; &#x645;&#x633;&#x62C;&#x644;. &#x648;&#x633;&#x648;&#x641; &#x62A;&#x62F;&#x646;&#x62F;&#x646;. &#xA7;&#x648;&#x642;&#x627;&#x644;&#x62A; &#x623;&#x648;&#x62F; &#x623;&#x646; &#x623;&#x639;&#x632;&#x641; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62C;&#x627;&#x632;&#xA7;  &#xA7;&#x627;&#x646;&#x647;&#x627; &#x631;&#x627;&#x626;&#x639;&#x629;&#xA7;."/>
+        <subtitle lang="saa" line="&#x644;&#x64A;&#x644;&#x649; &#x644;&#x62F;&#x64A;&#x647;&#x627; &#x645;&#x633;&#x62C;&#x644;. &#x648;&#x633;&#x648;&#x641; &#x62A;&#x62F;&#x646;&#x62F;&#x646;. &#xA7;&#x648;&#x642;&#x627;&#x644;&#x62A; &#x623;&#x648;&#x62F; &#x623;&#x646; &#x623;&#x639;&#x632;&#x641; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62C;&#x627;&#x632;&#xA7;  &#xA7;&#x627;&#x646;&#x647;&#x627; &#x631;&#x627;&#x626;&#x639;&#x629;&#xA7;."/>
+      <subtitle lang="mx" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="es" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="co" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="gt" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="pe" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="ni" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="do" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="bo" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="ve" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="ar" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="cu" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="pr" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="py" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="ec" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="hn" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="sv" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="cr" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/><subtitle lang="pa" line="Lila tiene una grabadora y va a tararear. &#x201C;Me gustar&#xED;a tocar jazz,&#x201D; dice Lila, &#x201C;es s&#xFA;per.&#x201D;"/>
+				<subtitle lang="ine" line="Lila has a recorder. She is going to hum. &#x201C;I would like to play jazz,&#x201D; she says. &#x201C;It&#x2019;s super.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Sol et Ruben ont un violon et un saxophone. Ils vont siffler. &#xAB; Est-ce-que tu aimes la samba et le rock ? &#xBB; Dit Sol. &#xAB; Non, je n&#x2019;aime pas.&#xBB; Dit Ruben, &#xAB; C&#x2019;est nul. &#xBB;" start="23338" length="15173" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="cl" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/>
+        <subtitle lang="en" line="Sol and Reuben have a violin and a saxophone. They are going to whistle. &#x201C;Do you like samba and rock music?&#x201D; says Sol. &#x201C;No, I don&#x2019;t like it,&#x201D; says Reuben, &#x201C;it&#x2019;s rubbish.&#x201D;"/>
+        <subtitle lang="lba" line="&#x633;&#x648;&#x644; &#x648;&#x631;&#x648;&#x628;&#x646; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x643;&#x645;&#x627;&#x646; &#x648;&#x633;&#x627;&#x643;&#x633;&#x641;&#x648;&#x646;. &#x648;&#x633;&#x648;&#x641;&#x647; &#x64A;&#x635;&#x641;&#x631;&#x648;&#x646;. &#xA7;&#x647;&#x644; &#x62A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x648;&#x643; &#x648;&#x627;&#x644;&#x633;&#x627;&#x645;&#x628;&#x627;&#x61F;&#xA7; &#x62A;&#x642;&#x648;&#x644; &#x633;&#x648;&#x644;. &#xA7;&#x644;&#x627; &#x60C; &#x623;&#x646;&#x627; &#x644;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x64A;&#x642;&#x648;&#x644; &#x631;&#x648;&#x628;&#x646; &#xA7;&#x627;&#x646;&#x647; &#x647;&#x631;&#x627;&#x621;.&#xA7;"/>
+        <subtitle lang="me" line="&#x633;&#x648;&#x644; &#x648;&#x631;&#x648;&#x628;&#x646; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x643;&#x645;&#x627;&#x646; &#x648;&#x633;&#x627;&#x643;&#x633;&#x641;&#x648;&#x646;. &#x648;&#x633;&#x648;&#x641;&#x647; &#x64A;&#x635;&#x641;&#x631;&#x648;&#x646;. &#xA7;&#x647;&#x644; &#x62A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x648;&#x643; &#x648;&#x627;&#x644;&#x633;&#x627;&#x645;&#x628;&#x627;&#x61F;&#xA7; &#x62A;&#x642;&#x648;&#x644; &#x633;&#x648;&#x644;. &#xA7;&#x644;&#x627; &#x60C; &#x623;&#x646;&#x627; &#x644;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x64A;&#x642;&#x648;&#x644; &#x631;&#x648;&#x628;&#x646; &#xA7;&#x627;&#x646;&#x647; &#x647;&#x631;&#x627;&#x621;.&#xA7;"/>
+        <subtitle lang="saa" line="&#x633;&#x648;&#x644; &#x648;&#x631;&#x648;&#x628;&#x646; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x643;&#x645;&#x627;&#x646; &#x648;&#x633;&#x627;&#x643;&#x633;&#x641;&#x648;&#x646;. &#x648;&#x633;&#x648;&#x641;&#x647; &#x64A;&#x635;&#x641;&#x631;&#x648;&#x646;. &#xA7;&#x647;&#x644; &#x62A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x648;&#x643; &#x648;&#x627;&#x644;&#x633;&#x627;&#x645;&#x628;&#x627;&#x61F;&#xA7; &#x62A;&#x642;&#x648;&#x644; &#x633;&#x648;&#x644;. &#xA7;&#x644;&#x627; &#x60C; &#x623;&#x646;&#x627; &#x644;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x64A;&#x642;&#x648;&#x644; &#x631;&#x648;&#x628;&#x646; &#xA7;&#x627;&#x646;&#x647; &#x647;&#x631;&#x627;&#x621;.&#xA7;"/>
+      <subtitle lang="mx" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="es" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="co" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="gt" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="pe" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="ni" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="do" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="bo" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="ve" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="ar" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="cu" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="pr" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="py" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="ec" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="hn" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="sv" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="cr" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/><subtitle lang="pa" line="Sol y Rub&#xE9;n tienen un viol&#xED;n y un saxof&#xF3;n. Ellos van a silbar. &#x201C;&#xBF;Te gusta la samba y el rock?&#x201D; pregunta Sol.&#x201C;No me gusta,&#x201D; responde Rub&#xE9;n. &#x201C;Apesta.&#x201D; "/>
+				<subtitle lang="ine" line="Sol and Reuben have a violin and a saxophone. They are going to whistle. &#x201C;Do you like samba and rock music?&#x201D; says Sol. &#x201C;No, I don&#x2019;t like it,&#x201D; says Reuben, &#x201C;it&#x2019;s rubbish.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Rohan et Mala ont une batterie et une trompette. Ils vont frapper des pieds et des mains. &#xAB; Qui aime le rap et la techno ? &#xBB; Crie Rohan. &#xAB; Moi j&#x2019;aime bien. &#xBB; murmure Mala &#xAB; C&#x2019;est g&#xE9;nial. &#xBB;" start="38518" length="14594" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="cl" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/>
+        <subtitle lang="en" line="Rohan and Mala have drums and a trumpet. They are going to stamp and clap. &#x201C;Who likes rap and techno music?&#x201D; shouts Rohan.  &#x201C;I like it,&#x201D; whispers Mala, &#x201C;it&#x2019;s great.&#x201D;"/>
+        <subtitle lang="lba" line="&#x631;&#x648;&#x647;&#x627;&#x646; &#x648;&#x645;&#x627;&#x644;&#x627; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x637;&#x628;&#x648;&#x644; &#x648;&#x628;&#x648;&#x642;. &#x648;&#x633;&#x648;&#x641; &#x64A;&#x635;&#x641;&#x642;&#x648;&#x646; &#x648;&#x64A;&#x636;&#x631;&#x628;&#x648;&#x646; &#x627;&#x644;&#x623;&#x631;&#x636; &#x628;&#x642;&#x62F;&#x645;&#x647; &#x648;&#x64A;&#x637;&#x628;&#x644;&#x648;&#x646;. &#xA7;&#x645;&#x646; &#x64A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x627;&#x628; &#x648;&#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x61F;&#xA7; &#x635;&#x627;&#x62D; &#x631;&#x648;&#x647;&#x627;&#x646;. &#xA7;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x647;&#x645;&#x633;&#x62A; &#x645;&#x627;&#x644;&#x627; &#x648;&#x642;&#x627;&#x644;&#x62A;&#x60C; &#xA7;&#x627;&#x646;&#x647; &#x631;&#x627;&#x626;&#x639;&#xA7;."/>
+        <subtitle lang="me" line="&#x631;&#x648;&#x647;&#x627;&#x646; &#x648;&#x645;&#x627;&#x644;&#x627; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x637;&#x628;&#x648;&#x644; &#x648;&#x628;&#x648;&#x642;. &#x648;&#x633;&#x648;&#x641; &#x64A;&#x635;&#x641;&#x642;&#x648;&#x646; &#x648;&#x64A;&#x636;&#x631;&#x628;&#x648;&#x646; &#x627;&#x644;&#x623;&#x631;&#x636; &#x628;&#x642;&#x62F;&#x645;&#x647; &#x648;&#x64A;&#x637;&#x628;&#x644;&#x648;&#x646;. &#xA7;&#x645;&#x646; &#x64A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x627;&#x628; &#x648;&#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x61F;&#xA7; &#x635;&#x627;&#x62D; &#x631;&#x648;&#x647;&#x627;&#x646;. &#xA7;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x647;&#x645;&#x633;&#x62A; &#x645;&#x627;&#x644;&#x627; &#x648;&#x642;&#x627;&#x644;&#x62A;&#x60C; &#xA7;&#x627;&#x646;&#x647; &#x631;&#x627;&#x626;&#x639;&#xA7;."/>
+        <subtitle lang="saa" line="&#x631;&#x648;&#x647;&#x627;&#x646; &#x648;&#x645;&#x627;&#x644;&#x627; &#x639;&#x646;&#x62F;&#x647;&#x645; &#x637;&#x628;&#x648;&#x644; &#x648;&#x628;&#x648;&#x642;. &#x648;&#x633;&#x648;&#x641; &#x64A;&#x635;&#x641;&#x642;&#x648;&#x646; &#x648;&#x64A;&#x636;&#x631;&#x628;&#x648;&#x646; &#x627;&#x644;&#x623;&#x631;&#x636; &#x628;&#x642;&#x62F;&#x645;&#x647; &#x648;&#x64A;&#x637;&#x628;&#x644;&#x648;&#x646;. &#xA7;&#x645;&#x646; &#x64A;&#x62D;&#x628; &#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x631;&#x627;&#x628; &#x648;&#x645;&#x648;&#x633;&#x64A;&#x642;&#x649; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x61F;&#xA7; &#x635;&#x627;&#x62D; &#x631;&#x648;&#x647;&#x627;&#x646;. &#xA7;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628;&#x647;&#xA7; &#x60C; &#x648;&#x647;&#x645;&#x633;&#x62A; &#x645;&#x627;&#x644;&#x627; &#x648;&#x642;&#x627;&#x644;&#x62A;&#x60C; &#xA7;&#x627;&#x646;&#x647; &#x631;&#x627;&#x626;&#x639;&#xA7;."/>
+      <subtitle lang="mx" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="es" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="co" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="gt" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="pe" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="ni" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="do" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="bo" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="ve" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="ar" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="cu" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="pr" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="py" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="ec" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="hn" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="sv" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="cr" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/><subtitle lang="pa" line="Rohan y Mala tienen tambores y una trompeta. Van a pegar en el suelo y a aplaudir. &#x201C;&#xBF;A qui&#xE9;n le gusta el rap y el tecno?&#x201D; grita Rohan. &#x201C;A m&#xED; me gusta,&#x201D; susurra Mala, &#x201D;es genial.&#x201D;"/>
+				<subtitle lang="ine" line="Rohan and Mala have drums and a trumpet. They are going to stamp and clap. &#x201C;Who likes rap and techno music?&#x201D; shouts Rohan.  &#x201C;I like it,&#x201D; whispers Mala, &#x201C;it&#x2019;s great.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xAB; Bonjour tout le monde &#xBB; Dit maman, &#xAB; J&#x2019;ai mal &#xE0; la t&#xEA;te. &#xBB;" start="53105" length="8101" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="cl" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Hello everybody,&#x201D; say mum. &#x201C;I have a headache.&#x201D;"/>
+        <subtitle lang="lba" line="&#x62A;&#x642;&#x648;&#x644; &#x627;&#x644;&#x623;&#x645; &#xA7;&#x645;&#x631;&#x62D;&#x628;&#x627; &#x628;&#x627;&#x644;&#x62C;&#x645;&#x64A;&#x639; &#x60C;&#xA7; &#xA7;&#x639;&#x646;&#x62F;&#x64A; &#x635;&#x62F;&#x627;&#x639;&#xA7;."/>
+        <subtitle lang="me" line="&#x62A;&#x642;&#x648;&#x644; &#x627;&#x644;&#x623;&#x645; &#xA7;&#x645;&#x631;&#x62D;&#x628;&#x627; &#x628;&#x627;&#x644;&#x62C;&#x645;&#x64A;&#x639; &#x60C;&#xA7; &#xA7;&#x639;&#x646;&#x62F;&#x64A; &#x635;&#x62F;&#x627;&#x639;&#xA7;."/>
+        <subtitle lang="saa" line="&#x62A;&#x642;&#x648;&#x644; &#x627;&#x644;&#x623;&#x645; &#xA7;&#x645;&#x631;&#x62D;&#x628;&#x627; &#x628;&#x627;&#x644;&#x62C;&#x645;&#x64A;&#x639; &#x60C;&#xA7; &#xA7;&#x639;&#x646;&#x62F;&#x64A; &#x635;&#x62F;&#x627;&#x639;&#xA7;."/>
+      <subtitle lang="mx" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="es" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="co" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="gt" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="pe" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="ni" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="do" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="bo" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="ve" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="ar" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="cu" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="pr" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="py" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="ec" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="hn" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="sv" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="cr" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/><subtitle lang="pa" line="&#x201C;Hola todos,&#x201D; dice mam&#xE1;, &#x201C;me duele la cabeza.&#x201D;"/>
+				<subtitle lang="ine" line="&#x201C;Hello everybody,&#x201D; say mum. &#x201C;I have a headache.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="C&#x2019;est une souris! Mon fr&#xE8;re est une souris! Mon fr&#xE8;re est une souris brune!" start="69268" length="7019" useLNutResource="true" useStoryResource="false" image="5#3#4">
+      <subtitles>
+        <subtitle lang="vc" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="vu" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="na" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="en" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="sb" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="mt" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ca" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="bs" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="dk" line="Han er en mus! Min bror er en mus! Min bror er en brun mus!"/>
+        <subtitle lang="sg" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="bz" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="tt" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="sl" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="gh" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ag" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="sa" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="sco" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ae" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="za" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="dm" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="gm" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="tz" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="au" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="zw" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="mu" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="bw" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="lb" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="nz" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="zm" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="pk" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="fj" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="rw" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ug" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="gy" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ng" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ws" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="us" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="to" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="bd" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="jm" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+        <subtitle lang="ke" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+      <subtitle lang="ine" line="He&#x2019;s a mouse! My brother is a mouse! My brother is a brown mouse!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="429" length="200"/>
+        <highlight index="1" start="582" length="200"/>
+        <highlight index="2" start="745" length="368"/>
+        <highlight index="3" start="1767" length="200"/>
+        <highlight index="4" start="1941" length="200"/>
+        <highlight index="5" start="2390" length="200"/>
+        <highlight index="6" start="2584" length="200"/>
+        <highlight index="7" start="2778" length="348"/>
+        <highlight index="8" start="4127" length="200"/>
+        <highlight index="9" start="4321" length="286"/>
+        <highlight index="10" start="4730" length="224"/>
+        <highlight index="11" start="4934" length="200"/>
+        <highlight index="12" start="5138" length="378"/>
+        <highlight index="13" start="5639" length="899"/>
+      </highlights>
+    </line>
+    <line words="Voici mon p&#xE8;re. Il s&#x2019;appelle Pierre. 1 2 3 4 5 6 7 8 9 10!" start="76081" length="11149" useLNutResource="true" useStoryResource="false" image="1#4#4">
+      <subtitles>
+        <subtitle lang="vc" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Her er min far. Han hedder Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sa" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ae" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="lb" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ke" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="ine" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="714" length="325"/>
+        <highlight index="1" start="1119" length="200"/>
+        <highlight index="2" start="1363" length="259"/>
+        <highlight index="3" start="2206" length="200"/>
+        <highlight index="4" start="2401" length="405"/>
+        <highlight index="5" start="3115" length="503"/>
+        <highlight index="6" start="4527" length="200"/>
+        <highlight index="7" start="4949" length="200"/>
+        <highlight index="8" start="5322" length="200"/>
+        <highlight index="9" start="6247" length="200"/>
+        <highlight index="10" start="6685" length="211"/>
+        <highlight index="11" start="7107" length="200"/>
+        <highlight index="12" start="7918" length="200"/>
+        <highlight index="13" start="8389" length="200"/>
+        <highlight index="14" start="8876" length="200"/>
+        <highlight index="15" start="9687" length="584"/>
+      </highlights>
+    </line>
+    <line words="C&#x2019;est un canard! Mon p&#xE8;re est un canard! Mon p&#xE8;re est un canard gris!" start="87127" length="7226" useLNutResource="true" useStoryResource="false" image="5#2#9">
+      <subtitles>
+        <subtitle lang="vc" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="vu" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="na" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="en" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="sb" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="mt" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ca" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="bs" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="dk" line="Han er en and! Min far er en and! Min far er en gr&#xE5; and!"/>
+        <subtitle lang="sg" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="bz" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="tt" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="sl" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="gh" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ag" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="sa" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="sco" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ae" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="za" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="dm" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="gm" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="tz" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="au" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="zw" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="mu" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="bw" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="lb" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="nz" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="zm" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="pk" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="fj" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="rw" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ug" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="gy" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ng" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ws" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="us" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="to" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="bd" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="jm" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+        <subtitle lang="ke" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+      <subtitle lang="ine" line="He&#x2019;s a duck! My dad is a duck! My dad is a grey duck!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="357" length="200"/>
+        <highlight index="1" start="546" length="200"/>
+        <highlight index="2" start="704" length="642"/>
+        <highlight index="3" start="1914" length="315"/>
+        <highlight index="4" start="2187" length="400"/>
+        <highlight index="5" start="2587" length="200"/>
+        <highlight index="6" start="2766" length="200"/>
+        <highlight index="7" start="2944" length="453"/>
+        <highlight index="8" start="4143" length="200"/>
+        <highlight index="9" start="4270" length="347"/>
+        <highlight index="10" start="5037" length="252"/>
+        <highlight index="11" start="5300" length="179"/>
+        <highlight index="12" start="5426" length="516"/>
+        <highlight index="13" start="6268" length="536"/>
+      </highlights>
+    </line>
+    <line words="Maintenant, &#xE0; mon tour. 1 2 3 4 5 6 7 8 9 10!" start="94146" length="9498" useLNutResource="true" useStoryResource="false" image="2#3#1">
+      <subtitles>
+        <subtitle lang="vc" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Nu mig selv. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sa" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ae" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="lb" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ke" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="ine" line="Now for me. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1202" length="705"/>
+        <highlight index="1" start="2115" length="200"/>
+        <highlight index="2" start="2267" length="200"/>
+        <highlight index="3" start="2419" length="553"/>
+        <highlight index="4" start="3552" length="200"/>
+        <highlight index="5" start="3981" length="200"/>
+        <highlight index="6" start="4368" length="200"/>
+        <highlight index="7" start="5004" length="200"/>
+        <highlight index="8" start="5391" length="200"/>
+        <highlight index="9" start="5778" length="200"/>
+        <highlight index="10" start="6621" length="200"/>
+        <highlight index="11" start="7091" length="200"/>
+        <highlight index="12" start="7520" length="200"/>
+        <highlight index="13" start="8322" length="719"/>
+      </highlights>
+    </line>
+    <line words="Je suis un lapin! Je suis un lapin rouge!" start="103644" length="4232" useLNutResource="true" useStoryResource="false" image="5#3#7">
+      <subtitles>
+        <subtitle lang="vc" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="vu" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="na" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="en" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sb" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="mt" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ca" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bs" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="dk" line="Jeg er en kanin! Jeg er en r&#xF8;d kanin!"/>
+        <subtitle lang="sg" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bz" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="tt" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sl" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gh" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ag" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sa" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="sco" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ae" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="za" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="dm" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gm" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="tz" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="au" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="zw" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="mu" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bw" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="lb" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="nz" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="zm" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="pk" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="fj" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="rw" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ug" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="gy" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ng" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ws" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="us" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="to" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="bd" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="jm" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+        <subtitle lang="ke" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+      <subtitle lang="ine" line="I&#x2019;m a rabbit! I&#x2019;m a red rabbit!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="234" length="161"/>
+        <highlight index="1" start="381" length="200"/>
+        <highlight index="2" start="566" length="200"/>
+        <highlight index="3" start="751" length="499"/>
+        <highlight index="4" start="1706" length="200"/>
+        <highlight index="5" start="1897" length="200"/>
+        <highlight index="6" start="2088" length="200"/>
+        <highlight index="7" start="2279" length="338"/>
+        <highlight index="8" start="2642" length="887"/>
+      </highlights>
+    </line>
+    <line words="A toi, maintenant. 1 2 3 4 5 6 7 8 9 10!" start="107360" length="9601" useLNutResource="true" useStoryResource="false" image="2#2#10">
+      <subtitles>
+        <subtitle lang="vc" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="vu" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="na" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="en" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sb" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mt" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ca" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bs" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dk" line="Nu dig. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sg" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bz" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tt" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sl" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gh" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ag" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sa" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="sco" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ae" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="za" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="dm" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gm" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="tz" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="au" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zw" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="mu" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bw" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="lb" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="nz" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="zm" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="pk" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="fj" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="rw" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ug" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="gy" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ng" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ws" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="us" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="to" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="bd" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="jm" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+        <subtitle lang="ke" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+      <subtitle lang="ine" line="Now for you. 1 2 3 4 5 6 7 8 9 10!"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="633" length="274"/>
+        <highlight index="1" start="912" length="256"/>
+        <highlight index="2" start="1378" length="522"/>
+        <highlight index="3" start="2584" length="200"/>
+        <highlight index="4" start="2868" length="200"/>
+        <highlight index="5" start="3204" length="200"/>
+        <highlight index="6" start="4005" length="200"/>
+        <highlight index="7" start="4535" length="200"/>
+        <highlight index="8" start="4923" length="200"/>
+        <highlight index="9" start="5866" length="200"/>
+        <highlight index="10" start="6254" length="200"/>
+        <highlight index="11" start="6706" length="200"/>
+        <highlight index="12" start="7675" length="530"/>
+      </highlights>
+    </line>
+    <line words="FIN" start="116961" length="3097" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="vc" line="THE END"/>
+        <subtitle lang="vu" line="THE END"/>
+        <subtitle lang="na" line="THE END"/>
+        <subtitle lang="en" line="THE END"/>
+        <subtitle lang="sb" line="THE END"/>
+        <subtitle lang="mt" line="THE END"/>
+        <subtitle lang="ca" line="THE END"/>
+        <subtitle lang="bs" line="THE END"/>
+        <subtitle lang="sg" line="THE END"/>
+        <subtitle lang="bz" line="THE END"/>
+        <subtitle lang="tt" line="THE END"/>
+        <subtitle lang="sl" line="THE END"/>
+        <subtitle lang="gh" line="THE END"/>
+        <subtitle lang="ag" line="THE END"/>
+        <subtitle lang="sa" line="THE END"/>
+        <subtitle lang="sco" line="THE END"/>
+        <subtitle lang="ae" line="THE END"/>
+        <subtitle lang="za" line="THE END"/>
+        <subtitle lang="dm" line="THE END"/>
+        <subtitle lang="gm" line="THE END"/>
+        <subtitle lang="tz" line="THE END"/>
+        <subtitle lang="au" line="THE END"/>
+        <subtitle lang="zw" line="THE END"/>
+        <subtitle lang="mu" line="THE END"/>
+        <subtitle lang="rw" line="THE END"/>
+        <subtitle lang="lb" line="THE END"/>
+        <subtitle lang="nz" line="THE END"/>
+        <subtitle lang="zm" line="THE END"/>
+        <subtitle lang="pk" line="THE END"/>
+        <subtitle lang="fj" line="THE END"/>
+        <subtitle lang="bw" line="THE END"/>
+        <subtitle lang="ug" line="THE END"/>
+        <subtitle lang="gy" line="THE END"/>
+        <subtitle lang="ng" line="THE END"/>
+        <subtitle lang="ws" line="THE END"/>
+        <subtitle lang="us" line="THE END"/>
+        <subtitle lang="to" line="THE END"/>
+        <subtitle lang="bd" line="THE END"/>
+        <subtitle lang="jm" line="THE END"/>
+        <subtitle lang="ke" line="THE END"/>
+      <subtitle lang="ine" line="THE END"/>
+			</subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

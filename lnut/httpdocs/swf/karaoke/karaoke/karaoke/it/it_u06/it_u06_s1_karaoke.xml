@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="113005" >
+	<lines>
+		<line words="Ti piacco le verdure?" start="9417" length="2887" >
+			<highlight index="0" start="1745" length="200" />
+			<highlight index="1" start="1957" length="313" />
+			<highlight index="2" start="2276" length="200" />
+			<highlight index="3" start="2482" length="340" />
+			<subtitles>
+				<subtitle lang="en" line="You like vegetables?" />
+				<subtitle lang="nz" line="You like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="12304" length="1256" >
+			<highlight index="0" start="33" length="287" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="604" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piacco le verdure?" start="13686" length="1506" >
+			<highlight index="0" start="77" length="200" />
+			<highlight index="1" start="269" length="200" />
+			<highlight index="2" start="491" length="200" />
+			<highlight index="3" start="707" length="755" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="15318" length="1632" >
+			<highlight index="0" start="36" length="200" />
+			<highlight index="1" start="379" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piacco le carotes?" start="18720" length="2009" >
+			<highlight index="0" start="970" length="200" />
+			<highlight index="1" start="1200" length="200" />
+			<highlight index="2" start="1424" length="200" />
+			<highlight index="3" start="1653" length="356" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like carrots" />
+				<subtitle lang="nz" line="Do you like carrots?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="20843" length="1255" >
+			<highlight index="0" start="168" length="200" />
+			<highlight index="1" start="406" length="200" />
+			<highlight index="2" start="618" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piacco le carote?" start="21937" length="1381" >
+			<highlight index="0" start="43" length="278" />
+			<highlight index="1" start="349" length="435" />
+			<highlight index="2" start="809" length="200" />
+			<highlight index="3" start="1022" length="300" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like carrots?" />
+			</subtitles>
+		</line>
+		<line words="A mi piacco le carote." start="23693" length="1072" >
+			<highlight index="0" start="22" length="200" />
+			<highlight index="1" start="266" length="200" />
+			<highlight index="2" start="500" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="949" length="245" />
+			<subtitles>
+				<subtitle lang="en" line="I like carrots" />
+				<subtitle lang="nz" line="I like carrots" />
+			</subtitles>
+		</line>
+		<line words="Ti piacco le carote?" start="25112" length="1381" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="273" length="200" />
+			<highlight index="2" start="495" length="200" />
+			<highlight index="3" start="715" length="372" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like carrots?" />
+				<subtitle lang="nz" line="Do you like carrots?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="26367" length="1382" >
+			<highlight index="0" start="71" length="200" />
+			<highlight index="1" start="479" length="200" />
+			<highlight index="2" start="828" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le carote?" start="27874" length="1381" >
+			<highlight index="0" start="68" length="200" />
+			<highlight index="1" start="283" length="200" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="738" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like carrots?" />
+				<subtitle lang="nz" line="Do you like carrots?" />
+			</subtitles>
+		</line>
+		<line words="A mi piaccio le carote." start="29381" length="1507" >
+			<highlight index="0" start="33" length="192" />
+			<highlight index="1" start="232" length="132" />
+			<highlight index="2" start="387" length="275" />
+			<highlight index="3" start="674" length="294" />
+			<highlight index="4" start="981" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like carrots?" />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="30762" length="1256" >
+			<highlight index="0" start="33" length="200" />
+			<highlight index="1" start="247" length="200" />
+			<highlight index="2" start="463" length="200" />
+			<highlight index="3" start="677" length="399" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="32143" length="1381" >
+			<highlight index="0" start="22" length="200" />
+			<highlight index="1" start="262" length="200" />
+			<highlight index="2" start="523" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="33650" length="1632" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="240" length="200" />
+			<highlight index="2" start="452" length="200" />
+			<highlight index="3" start="674" length="407" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="35031" length="879" >
+			<highlight index="0" start="31" length="200" />
+			<highlight index="1" start="257" length="200" />
+			<highlight index="2" start="479" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="35910" length="1381" >
+			<highlight index="0" start="61" length="200" />
+			<highlight index="1" start="305" length="200" />
+			<highlight index="2" start="534" length="200" />
+			<highlight index="3" start="763" length="278" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="37168" length="500" >
+			<highlight index="0" start="-712" length="200" />
+			<highlight index="1" start="-504" length="200" />
+			<highlight index="2" start="-290" length="200" />
+			<highlight index="3" start="-71" length="323" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="37793" length="1207" >
+			<highlight index="0" start="31" length="200" />
+			<highlight index="1" start="245" length="200" />
+			<highlight index="2" start="460" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="39175" length="1381" >
+			<highlight index="0" start="61" length="200" />
+			<highlight index="1" start="305" length="200" />
+			<highlight index="2" start="534" length="200" />
+			<highlight index="3" start="763" length="278" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="40681" length="1256" >
+			<highlight index="0" start="36" length="200" />
+			<highlight index="1" start="272" length="200" />
+			<highlight index="2" start="508" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le patates?" start="42120" length="1256" >
+			<highlight index="0" start="38" length="200" />
+			<highlight index="1" start="257" length="200" />
+			<highlight index="2" start="468" length="200" />
+			<highlight index="3" start="684" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like potatoes?" />
+				<subtitle lang="nz" line="Do you like potatoes?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="43444" length="2134" >
+			<highlight index="0" start="161" length="229" />
+			<highlight index="1" start="468" length="275" />
+			<highlight index="2" start="840" length="244" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes" />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le patates?" start="44825" length="1255" >
+			<highlight index="0" start="132" length="200" />
+			<highlight index="1" start="350" length="200" />
+			<highlight index="2" start="615" length="200" />
+			<highlight index="3" start="857" length="370" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like potatoes?" />
+			</subtitles>
+		</line>
+		<line words="A mi piacco le patates." start="46080" length="1256" >
+			<highlight index="0" start="22" length="200" />
+			<highlight index="1" start="266" length="200" />
+			<highlight index="2" start="500" length="200" />
+			<highlight index="3" start="722" length="200" />
+			<highlight index="4" start="949" length="245" />
+			<subtitles>
+				<subtitle lang="en" line="I like potatoes." />
+				<subtitle lang="nz" line="I like potatoes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le patates?" start="47462" length="1256" >
+			<highlight index="0" start="16" length="200" />
+			<highlight index="1" start="238" length="245" />
+			<highlight index="2" start="514" length="200" />
+			<highlight index="3" start="764" length="370" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like potatos?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="48968" length="1507" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="48968" length="1507" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le patates?" start="50475" length="1506" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="313" length="200" />
+			<highlight index="2" start="562" length="200" />
+			<highlight index="3" start="859" length="370" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le patates?" start="50475" length="1506" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="313" length="200" />
+			<highlight index="2" start="562" length="200" />
+			<highlight index="3" start="859" length="370" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like potatos?" />
+			</subtitles>
+		</line>
+		<line words="A mi piacco le patates." start="51856" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="141" length="200" />
+			<highlight index="2" start="360" length="200" />
+			<highlight index="3" start="795" length="200" />
+			<highlight index="4" start="1024" length="245" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="A mi piacco le patates." start="51856" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="141" length="200" />
+			<highlight index="2" start="360" length="200" />
+			<highlight index="3" start="795" length="200" />
+			<highlight index="4" start="1024" length="245" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="53489" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="54619" length="1507" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="56000" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="57506" length="1507" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="57506" length="1507" >
+			<highlight index="0" start="84" length="200" />
+			<highlight index="1" start="370" length="200" />
+			<highlight index="2" start="759" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="59013" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="59013" length="1507" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="60520" length="1507" >
+			<highlight index="0" start="6" length="200" />
+			<highlight index="1" start="276" length="200" />
+			<highlight index="2" start="606" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="60520" length="1507" >
+			<highlight index="0" start="6" length="200" />
+			<highlight index="1" start="276" length="200" />
+			<highlight index="2" start="606" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="62027" length="1381" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdures?" start="62027" length="1381" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="63282" length="1758" >
+			<highlight index="0" start="82" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="558" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="63282" length="1758" >
+			<highlight index="0" start="82" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="558" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="63282" length="1758" >
+			<highlight index="0" start="82" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="558" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le zucca." start="64538" length="1381" >
+			<highlight index="0" start="55" length="200" />
+			<highlight index="1" start="274" length="501" />
+			<highlight index="2" start="843" length="200" />
+			<highlight index="3" start="1056" length="297" />
+			<subtitles>
+				<subtitle lang="en" line="I like marrows." />
+				<subtitle lang="nz" line="I like marrows." />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="66045" length="1758" >
+			<highlight index="0" start="82" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le zucca." start="67178" length="1632" >
+			<highlight index="0" start="69" length="135" />
+			<highlight index="1" start="230" length="569" />
+			<highlight index="2" start="814" length="200" />
+			<highlight index="3" start="1077" length="297" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like marrows?" />
+				<subtitle lang="nz" line="Do you like marrows?" />
+			</subtitles>
+		</line>
+		<line words="A mi piaccio le zucca." start="68933" length="1381" >
+			<highlight index="0" start="46" length="100" />
+			<highlight index="1" start="105" length="151" />
+			<highlight index="2" start="262" length="200" />
+			<highlight index="3" start="469" length="200" />
+			<highlight index="4" start="679" length="272" />
+			<subtitles>
+				<subtitle lang="en" line="I like marrows." />
+				<subtitle lang="nz" line="I like marrows." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le zucca?" start="70188" length="1632" >
+			<highlight index="0" start="69" length="135" />
+			<highlight index="1" start="230" length="569" />
+			<highlight index="2" start="814" length="200" />
+			<highlight index="3" start="1077" length="297" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like marrows?" />
+				<subtitle lang="nz" line="Do you like marrows?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si.Yes, yes, yes." start="71569" length="1758" >
+			<highlight index="0" start="62" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le zucca?" start="73076" length="1381" >
+			<highlight index="0" start="71" length="135" />
+			<highlight index="1" start="248" length="569" />
+			<highlight index="2" start="850" length="200" />
+			<highlight index="3" start="1074" length="297" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like marrows?" />
+				<subtitle lang="nz" line="Do you like marrows?" />
+			</subtitles>
+		</line>
+		<line words="A mi piaccio le zucca." start="74457" length="1381" >
+			<highlight index="0" start="46" length="100" />
+			<highlight index="1" start="166" length="151" />
+			<highlight index="2" start="318" length="200" />
+			<highlight index="3" start="522" length="200" />
+			<highlight index="4" start="738" length="389" />
+			<subtitles>
+				<subtitle lang="en" line="I like marrows." />
+				<subtitle lang="nz" line="I like marrows." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="75838" length="1381" >
+			<highlight index="0" start="30" length="200" />
+			<highlight index="1" start="239" length="200" />
+			<highlight index="2" start="455" length="200" />
+			<highlight index="3" start="711" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+				<subtitle lang="nz" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="77220" length="1758" >
+			<highlight index="0" start="62" length="200" />
+			<highlight index="1" start="326" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="78852" length="1632" >
+			<highlight index="0" start="91" length="200" />
+			<highlight index="1" start="313" length="200" />
+			<highlight index="2" start="706" length="200" />
+			<highlight index="3" start="962" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="80233" length="1507" >
+			<highlight index="0" start="131" length="200" />
+			<highlight index="1" start="421" length="200" />
+			<highlight index="2" start="718" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="80233" length="1507" >
+			<highlight index="0" start="131" length="200" />
+			<highlight index="1" start="421" length="200" />
+			<highlight index="2" start="718" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes , yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="81740" length="1632" >
+			<highlight index="0" start="0" length="197" />
+			<highlight index="1" start="219" length="255" />
+			<highlight index="2" start="511" length="200" />
+			<highlight index="3" start="806" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Dop you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="82870" length="1507" >
+			<highlight index="0" start="167" length="200" />
+			<highlight index="1" start="506" length="200" />
+			<highlight index="2" start="845" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio le verdure?" start="84377" length="1381" >
+			<highlight index="0" start="30" length="197" />
+			<highlight index="1" start="288" length="255" />
+			<highlight index="2" start="586" length="200" />
+			<highlight index="3" start="813" length="370" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like vegetables?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="85632" length="1758" >
+			<highlight index="0" start="117" length="200" />
+			<highlight index="1" start="369" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio spinaci?" start="87139" length="1381" >
+			<highlight index="0" start="33" length="200" />
+			<highlight index="1" start="273" length="287" />
+			<highlight index="2" start="758" length="505" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like spinach?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="88646" length="1758" >
+			<highlight index="0" start="117" length="200" />
+			<highlight index="1" start="369" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="88646" length="1758" >
+			<highlight index="0" start="117" length="200" />
+			<highlight index="1" start="369" length="200" />
+			<highlight index="2" start="668" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio spinaci?" start="90027" length="1381" >
+			<highlight index="0" start="71" length="200" />
+			<highlight index="1" start="320" length="316" />
+			<highlight index="2" start="669" length="505" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like spinach?" />
+			</subtitles>
+		</line>
+		<line words="A mi piaccio spinaci." start="91157" length="1381" >
+			<highlight index="0" start="426" length="100" />
+			<highlight index="1" start="536" length="100" />
+			<highlight index="2" start="648" length="200" />
+			<highlight index="3" start="866" length="270" />
+			<subtitles>
+				<subtitle lang="en" line="I like spinach." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio spinaci?" start="92538" length="1381" >
+			<highlight index="0" start="33" length="200" />
+			<highlight index="1" start="273" length="287" />
+			<highlight index="2" start="758" length="505" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like spinach?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="93919" length="1758" >
+			<highlight index="0" start="212" length="200" />
+			<highlight index="1" start="523" length="200" />
+			<highlight index="2" start="841" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio spinaci?" start="95677" length="1381" >
+			<highlight index="0" start="33" length="200" />
+			<highlight index="1" start="273" length="287" />
+			<highlight index="2" start="758" length="505" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like spinach?" />
+			</subtitles>
+		</line>
+		<line words="A mi piaccio spinaci." start="96933" length="1381" >
+			<highlight index="0" start="132" length="100" />
+			<highlight index="1" start="262" length="100" />
+			<highlight index="2" start="404" length="200" />
+			<highlight index="3" start="710" length="270" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Ti piaccio la fruta?" start="98439" length="1256" >
+			<highlight index="0" start="59" length="200" />
+			<highlight index="1" start="297" length="279" />
+			<highlight index="2" start="733" length="200" />
+			<highlight index="3" start="960" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like fruit?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="99821" length="1255" >
+			<highlight index="0" start="165" length="200" />
+			<highlight index="1" start="466" length="200" />
+			<highlight index="2" start="721" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio la fruta?" start="101202" length="1256" >
+			<highlight index="0" start="59" length="200" />
+			<highlight index="1" start="297" length="279" />
+			<highlight index="2" start="733" length="200" />
+			<highlight index="3" start="960" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like fruit?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="102708" length="1255" >
+			<highlight index="0" start="165" length="200" />
+			<highlight index="1" start="466" length="200" />
+			<highlight index="2" start="721" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio la fruta?" start="104090" length="1256" >
+			<highlight index="0" start="59" length="200" />
+			<highlight index="1" start="297" length="279" />
+			<highlight index="2" start="733" length="200" />
+			<highlight index="3" start="960" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like fruit?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="105596" length="1255" >
+			<highlight index="0" start="61" length="200" />
+			<highlight index="1" start="336" length="200" />
+			<highlight index="2" start="721" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+		<line words="Ti piaccio la fruta?" start="106978" length="1256" >
+			<highlight index="0" start="59" length="200" />
+			<highlight index="1" start="297" length="279" />
+			<highlight index="2" start="733" length="200" />
+			<highlight index="3" start="960" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Do you like fruit?" />
+			</subtitles>
+		</line>
+		<line words="Si, si, si." start="108484" length="1255" >
+			<highlight index="0" start="165" length="200" />
+			<highlight index="1" start="466" length="200" />
+			<highlight index="2" start="721" length="200" />
+			<subtitles>
+				<subtitle lang="en" line="Yes, yes, yes." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

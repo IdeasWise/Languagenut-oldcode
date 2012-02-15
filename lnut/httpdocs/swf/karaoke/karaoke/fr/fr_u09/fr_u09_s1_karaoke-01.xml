@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="121782" >
+	<lines>
+		<line words="Ecoutez! Ecoutez." start="6207" length="3662" >
+			<highlight index="0" start="555" length="924" />
+			<highlight index="1" start="2246" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Luister eens! Luister eens." />
+				<subtitle lang="dk" line="Lyt! Lyt." />
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Ecoutez! Ecoutez." start="9480" length="3662" >
+			<highlight index="0" start="748" length="924" />
+			<highlight index="1" start="2287" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Luister eens! Luister eens." />
+				<subtitle lang="dk" line="Lyt! Lyt." />
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Ecoutez! Ecoutez." start="13092" length="3662" >
+			<highlight index="0" start="561" length="959" />
+			<highlight index="1" start="2287" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Luister eens! Luister eens." />
+				<subtitle lang="dk" line="Lyt! Lyt." />
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Ecoutez! Ecoutez." start="16365" length="3662" >
+			<highlight index="0" start="684" length="959" />
+			<highlight index="1" start="2287" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Luister eens! Luister eens." />
+				<subtitle lang="dk" line="Lyt! Lyt." />
+				<subtitle lang="en" line="Listen! Listen." />
+			</subtitles>
+		</line>
+		<line words="Voici le prince. Il arrive!" start="19638" length="4063" >
+			<highlight index="0" start="856" length="435" />
+			<highlight index="1" start="1246" length="200" />
+			<highlight index="2" start="1421" length="312" />
+			<highlight index="3" start="2063" length="200" />
+			<highlight index="4" start="2226" length="785" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de prins. Daar komt hij!" />
+				<subtitle lang="dk" line="Her er prinsen. Han kommer!" />
+				<subtitle lang="en" line="Here's the prince. He is coming!" />
+			</subtitles>
+		</line>
+		<line words="Voici le prince. Il est charmant." start="23250" length="4063" >
+			<highlight index="0" start="597" length="435" />
+			<highlight index="1" start="1051" length="200" />
+			<highlight index="2" start="1297" length="312" />
+			<highlight index="3" start="1745" length="200" />
+			<highlight index="4" start="2011" length="247" />
+			<highlight index="5" start="2277" length="818" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de prins. O zo knap!" />
+				<subtitle lang="dk" line="Her er prinsen. Han er charmerende!" />
+				<subtitle lang="en" line="Here is the prince. He is charming." />
+			</subtitles>
+		</line>
+		<line words="Voici le prince. Il arrive!" start="26862" length="4063" >
+			<highlight index="0" start="421" length="435" />
+			<highlight index="1" start="863" length="200" />
+			<highlight index="2" start="1044" length="312" />
+			<highlight index="3" start="1739" length="200" />
+			<highlight index="4" start="1933" length="785" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de prins. Daar komt hij!" />
+				<subtitle lang="dk" line="Her er prinsen. Han kommer!" />
+				<subtitle lang="en" line="Here's the prince. He is coming!" />
+			</subtitles>
+		</line>
+		<line words="Voici le prince. Il est grand!" start="30473" length="4063" >
+			<highlight index="0" start="343" length="383" />
+			<highlight index="1" start="726" length="200" />
+			<highlight index="2" start="960" length="312" />
+			<highlight index="3" start="1486" length="200" />
+			<highlight index="4" start="1654" length="344" />
+			<highlight index="5" start="1972" length="721" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de prins. O zo groot!" />
+				<subtitle lang="dk" line="Her er prinsen. Han er stor!" />
+				<subtitle lang="en" line="Here is the prince. He is big!" />
+			</subtitles>
+		</line>
+		<line words="Regardez! Regardez." start="38712" length="3662" >
+			<highlight index="0" start="555" length="924" />
+			<highlight index="1" start="2246" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Kijk toch eens! Kijk toch eens." />
+				<subtitle lang="dk" line="Se! Se." />
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Regardez! Regardez." start="42211" length="3662" >
+			<highlight index="0" start="555" length="924" />
+			<highlight index="1" start="2246" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Kijk toch eens! Kijk toch eens." />
+				<subtitle lang="dk" line="Se! Se." />
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Regardez! Regardez." start="45597" length="3662" >
+			<highlight index="0" start="555" length="924" />
+			<highlight index="1" start="2246" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Kijk toch eens! Kijk toch eens." />
+				<subtitle lang="dk" line="Se! Se." />
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Regardez! Regardez." start="48983" length="3662" >
+			<highlight index="0" start="555" length="924" />
+			<highlight index="1" start="2246" length="778" />
+			<subtitles>
+				<subtitle lang="nl" line="Kijk toch eens! Kijk toch eens." />
+				<subtitle lang="dk" line="Se! Se." />
+				<subtitle lang="en" line="Look! Look." />
+			</subtitles>
+		</line>
+		<line words="Voici la belle endormie." start="52256" length="4063" >
+			<highlight index="0" start="824" length="415" />
+			<highlight index="1" start="1181" length="200" />
+			<highlight index="2" start="1395" length="467" />
+			<highlight index="3" start="1875" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er Tornerose." />
+				<subtitle lang="en" line="Here's the sleeping beauty." />
+			</subtitles>
+		</line>
+		<line words="Voici la belle. Elle est charmante." start="55755" length="4063" >
+			<highlight index="0" start="674" length="415" />
+			<highlight index="1" start="1070" length="200" />
+			<highlight index="2" start="1278" length="467" />
+			<highlight index="3" start="1875" length="273" />
+			<highlight index="4" start="2122" length="253" />
+			<highlight index="5" start="2342" length="1136" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de fee. O zo knap!" />
+				<subtitle lang="dk" line="Her er Tornerose. Hun er charmerende!" />
+				<subtitle lang="en" line="Here's the beauty. She is charming!" />
+			</subtitles>
+		</line>
+		<line words="Voici la belle endormie." start="59367" length="4063" >
+			<highlight index="0" start="551" length="415" />
+			<highlight index="1" start="947" length="200" />
+			<highlight index="2" start="1122" length="467" />
+			<highlight index="3" start="1875" length="948" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de fee. Daar komt zij!" />
+				<subtitle lang="dk" line="Her er Tornerose." />
+				<subtitle lang="en" line="Here's the sleeping beauty." />
+			</subtitles>
+		</line>
+		<line words="Voici la belle. Elle est silencieuse!" start="62866" length="4063" >
+			<highlight index="0" start="402" length="415" />
+			<highlight index="1" start="817" length="200" />
+			<highlight index="2" start="1005" length="467" />
+			<highlight index="3" start="1628" length="273" />
+			<highlight index="4" start="1927" length="253" />
+			<highlight index="5" start="2206" length="1707" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de fee. O zo stil!" />
+				<subtitle lang="dk" line="Her er Tornerose. Hun er så stille!" />
+				<subtitle lang="en" line="Here's the beauty. She is silent!" />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="70766" length="4289" >
+			<highlight index="0" start="1027" length="336" />
+			<highlight index="1" start="1322" length="952" />
+			<highlight index="2" start="2760" length="281" />
+			<highlight index="3" start="3110" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="74717" length="4289" >
+			<highlight index="0" start="623" length="336" />
+			<highlight index="1" start="945" length="952" />
+			<highlight index="2" start="2356" length="281" />
+			<highlight index="3" start="2603" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="78667" length="2934" >
+			<highlight index="0" start="46" length="336" />
+			<highlight index="1" start="351" length="952" />
+			<highlight index="2" start="1743" length="281" />
+			<highlight index="3" start="1987" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="81150" length="4175" >
+			<highlight index="0" start="1026" length="336" />
+			<highlight index="1" start="1340" length="952" />
+			<highlight index="2" start="2754" length="281" />
+			<highlight index="3" start="3014" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="Voici la mechante fée. Taisez-vouz!" start="85100" length="3386" >
+			<highlight index="0" start="427" length="415" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1011" length="406" />
+			<highlight index="3" start="1389" length="324" />
+			<highlight index="4" start="1719" length="785" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de heks. Wees stil!" />
+				<subtitle lang="dk" line="Her er den onde fe. Vær stille!" />
+				<subtitle lang="en" line="Here's the wicked witch. Be quiet!" />
+			</subtitles>
+		</line>
+		<line words="Voici la mechante fée. Asseyez-vous!" start="88486" length="3386" >
+			<highlight index="0" start="475" length="345" />
+			<highlight index="1" start="795" length="200" />
+			<highlight index="2" start="989" length="406" />
+			<highlight index="3" start="1389" length="324" />
+			<highlight index="4" start="1719" length="785" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de heks. Ga zitten!" />
+				<subtitle lang="dk" line="Her er den onde fe. Sæt dig ned!" />
+				<subtitle lang="en" line="Here's the wicked witch. Sit down!" />
+			</subtitles>
+		</line>
+		<line words="Voici la mechante fée. Levez-vous!" start="91872" length="3386" >
+			<highlight index="0" start="497" length="345" />
+			<highlight index="1" start="822" length="200" />
+			<highlight index="2" start="989" length="406" />
+			<highlight index="3" start="1389" length="324" />
+			<highlight index="4" start="1719" length="785" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de heks. Sta op!" />
+				<subtitle lang="dk" line="Her er den onde fe. Rejs dig op!" />
+				<subtitle lang="en" line="Here's the wicked witch. Get up!" />
+			</subtitles>
+		</line>
+		<line words="Voici la mechante fée. Levez la main!" start="95258" length="3386" >
+			<highlight index="0" start="497" length="345" />
+			<highlight index="1" start="822" length="156" />
+			<highlight index="2" start="951" length="444" />
+			<highlight index="3" start="1389" length="324" />
+			<highlight index="4" start="1719" length="925" />
+			<highlight index="5" start="2628" length="243" />
+			<highlight index="6" start="2844" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is de heks. Hand omhoog!" />
+				<subtitle lang="dk" line="Her er den onde fe. Ræk hånden op!" />
+				<subtitle lang="en" line="Here's the wicked witch. Put up your hand!" />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="103384" length="4289" >
+			<highlight index="0" start="1027" length="336" />
+			<highlight index="1" start="1322" length="952" />
+			<highlight index="2" start="2760" length="281" />
+			<highlight index="3" start="3014" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="107335" length="3837" >
+			<highlight index="0" start="508" length="336" />
+			<highlight index="1" start="815" length="952" />
+			<highlight index="2" start="2120" length="281" />
+			<highlight index="3" start="2378" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="110834" length="3837" >
+			<highlight index="0" start="508" length="336" />
+			<highlight index="1" start="815" length="952" />
+			<highlight index="2" start="2120" length="281" />
+			<highlight index="3" start="2378" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+		<line words="En silence! En silence." start="114220" length="3837" >
+			<highlight index="0" start="508" length="336" />
+			<highlight index="1" start="815" length="952" />
+			<highlight index="2" start="2120" length="281" />
+			<highlight index="3" start="2378" length="877" />
+			<subtitles>
+				<subtitle lang="nl" line="O zo stil! O zo stil." />
+				<subtitle lang="dk" line="I stilhed! I stilhed." />
+				<subtitle lang="en" line="In silence! In silence." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

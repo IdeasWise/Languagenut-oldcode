@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="259239" >
+	<lines>
+		<line words="LA FIESTA DEL PAYASO" start="229" length="5052" useLNutResource="true" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="the clown's party" />
+			</subtitles>
+		</line>
+		<line words="Un día Pedro recibe una invitación. Una invitación a una fiesta. Pero no es una fiesta de un amigo. ¡Es de un payaso!" start="5051" length="14007" useLNutResource="true" image="3#4#6" >
+			<highlights>
+				<highlight index="0" start="536" length="343" />
+				<highlight index="1" start="793" length="408" />
+				<highlight index="2" start="1479" length="559" />
+				<highlight index="3" start="2059" length="536" />
+				<highlight index="4" start="2659" length="515" />
+				<highlight index="5" start="3217" length="686" />
+				<highlight index="6" start="4847" length="450" />
+				<highlight index="7" start="5190" length="1030" />
+				<highlight index="8" start="6220" length="386" />
+				<highlight index="9" start="6477" length="665" />
+				<highlight index="10" start="7078" length="750" />
+				<highlight index="11" start="8343" length="343" />
+				<highlight index="12" start="8622" length="300" />
+				<highlight index="13" start="8815" length="322" />
+				<highlight index="14" start="9094" length="364" />
+				<highlight index="15" start="9351" length="472" />
+				<highlight index="16" start="9802" length="321" />
+				<highlight index="17" start="9995" length="515" />
+				<highlight index="18" start="10273" length="944" />
+				<highlight index="19" start="11474" length="451" />
+				<highlight index="20" start="11946" length="322" />
+				<highlight index="21" start="12182" length="429" />
+				<highlight index="22" start="12547" length="1008" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="En dag får Peter en invitation.En invitation til fest.Men det er ikke fest hos en af hans venner.Det er fra en klovn!" />
+				<subtitle lang="en" line="One day Peter gets an invitation. An invitation to a party. But it isn’t one of his friend’s parties. It is from a clown!" />
+			</subtitles>
+		</line>
+		<line words="§¡Me encantan las fiestas! Me encantan los juegos también. ¿Pero quién es este payaso?§" start="19058" length="9873" useLNutResource="true" image="3#3#5" >
+			<highlights>
+				<highlight index="0" start="501" length="386" />
+				<highlight index="1" start="759" length="487" />
+				<highlight index="2" start="1217" length="200" />
+				<highlight index="3" start="1389" length="659" />
+				<highlight index="4" start="2837" length="358" />
+				<highlight index="5" start="3152" length="458" />
+				<highlight index="6" start="3567" length="459" />
+				<highlight index="7" start="3983" length="501" />
+				<highlight index="8" start="4427" length="702" />
+				<highlight index="9" start="5401" length="402" />
+				<highlight index="10" start="6218" length="530" />
+				<highlight index="11" start="6691" length="301" />
+				<highlight index="12" start="6949" length="530" />
+				<highlight index="13" start="7407" length="1147" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Jeg elsker fester!””Jeg elsker også festlege!””Men hvem er den klovn?”" />
+				<subtitle lang="en" line="§I love parties! I like party games too! But who is this clown?§" />
+			</subtitles>
+		</line>
+		<line words="Pedro le pregunta a sus amigos, '¿quién es este payaso?' Pero nadie lo sabe." start="28702" length="9414" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="232" length="574" />
+				<highlight index="1" start="751" length="410" />
+				<highlight index="2" start="929" length="847" />
+				<highlight index="3" start="1584" length="200" />
+				<highlight index="4" start="1707" length="492" />
+				<highlight index="5" start="2158" length="697" />
+				<highlight index="6" start="3661" length="465" />
+				<highlight index="7" start="4112" length="492" />
+				<highlight index="8" start="4385" length="710" />
+				<highlight index="9" start="5041" length="669" />
+				<highlight index="10" start="6503" length="410" />
+				<highlight index="11" start="6831" length="602" />
+				<highlight index="12" start="7445" length="383" />
+				<highlight index="13" start="7814" length="765" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Peter spurgte sine venner: “Hvem er klovnen?”. Men ingen vidste det." />
+				<subtitle lang="en" line="Peter asks his friends, ‘Who is the clown?’ But no-one knows. " />
+			</subtitles>
+		</line>
+		<line words="Es una fiesta de disfraces. Pedro decide ir disfrazado de temible guerrero. Se pinta la cara. Parece muy fuerte y terrorífico." start="37887" length="17221" useLNutResource="true" image="3#3#8" >
+			<highlights>
+				<highlight index="0" start="599" length="600" />
+				<highlight index="1" start="1149" length="650" />
+				<highlight index="2" start="1699" length="550" />
+				<highlight index="3" start="2224" length="375" />
+				<highlight index="4" start="2549" length="974" />
+				<highlight index="5" start="4398" length="725" />
+				<highlight index="6" start="5123" length="875" />
+				<highlight index="7" start="5948" length="475" />
+				<highlight index="8" start="6323" length="1124" />
+				<highlight index="9" start="7347" length="550" />
+				<highlight index="10" start="7822" length="1000" />
+				<highlight index="11" start="8722" length="950" />
+				<highlight index="12" start="10146" length="675" />
+				<highlight index="13" start="10721" length="450" />
+				<highlight index="14" start="11146" length="375" />
+				<highlight index="15" start="11471" length="1100" />
+				<highlight index="16" start="12921" length="949" />
+				<highlight index="17" start="13795" length="450" />
+				<highlight index="18" start="14195" length="625" />
+				<highlight index="19" start="14720" length="400" />
+				<highlight index="20" start="15070" length="925" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det er udklædningsfest. Peter beslutter sig for at være en frygtindgydende kriger. Han maler sit ansigt. Han ser meget stærk og skræmmende ud!" />
+				<subtitle lang="en" line="It is a fancy dress party. Pedro decides to go as a fearsome warrior. He paints his face. He looks very strong and terrifying." />
+			</subtitles>
+		</line>
+		<line words="Pedro llega a la fiesta. Todos sus amigos están allí. Todos los de su clase están allí. Y el payaso está allí tambien." start="54878" length="14007" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="137" length="905" />
+				<highlight index="1" start="1376" length="551" />
+				<highlight index="2" start="1632" length="436" />
+				<highlight index="3" start="1790" length="314" />
+				<highlight index="4" start="1888" length="865" />
+				<highlight index="5" start="3619" length="413" />
+				<highlight index="6" start="3934" length="472" />
+				<highlight index="7" start="4288" length="472" />
+				<highlight index="8" start="4662" length="649" />
+				<highlight index="9" start="5232" length="551" />
+				<highlight index="10" start="6806" length="452" />
+				<highlight index="11" start="7298" length="315" />
+				<highlight index="12" start="7435" length="394" />
+				<highlight index="13" start="7671" length="354" />
+				<highlight index="14" start="7809" length="649" />
+				<highlight index="15" start="8478" length="610" />
+				<highlight index="16" start="8970" length="688" />
+				<highlight index="17" start="10268" length="335" />
+				<highlight index="18" start="10661" length="338" />
+				<highlight index="19" start="10996" length="591" />
+				<highlight index="20" start="11783" length="452" />
+				<highlight index="21" start="12294" length="551" />
+				<highlight index="22" start="12806" length="747" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Peter kommer til festen. Alle hans venner er der. Alle fra hans klasse er der. Og klovnen er der." />
+				<subtitle lang="en" line="Peter arrives at the party. All of his friends are there. Everybody from his class are there. And the clown is there too." />
+			</subtitles>
+		</line>
+		<line words="§¡Hola a todos!§ dice el payaso. §Me llamo Carlos el payaso. Hoy tengo ocho años y ésta es una fiesta que nunca olvidareis.§" start="68655" length="16303" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="1007" length="458" />
+				<highlight index="1" start="1373" length="298" />
+				<highlight index="2" start="1373" length="733" />
+				<highlight index="3" start="2747" length="572" />
+				<highlight index="4" start="3022" length="457" />
+				<highlight index="5" start="3388" length="962" />
+				<highlight index="6" start="4922" length="504" />
+				<highlight index="7" start="5288" length="458" />
+				<highlight index="8" start="5701" length="800" />
+				<highlight index="9" start="6456" length="389" />
+				<highlight index="10" start="6731" length="664" />
+				<highlight index="11" start="8883" length="504" />
+				<highlight index="12" start="9455" length="550" />
+				<highlight index="13" start="10097" length="503" />
+				<highlight index="14" start="10600" length="504" />
+				<highlight index="15" start="11653" length="390" />
+				<highlight index="16" start="11951" length="572" />
+				<highlight index="17" start="12432" length="298" />
+				<highlight index="18" start="12615" length="435" />
+				<highlight index="19" start="12821" length="573" />
+				<highlight index="20" start="13348" length="596" />
+				<highlight index="21" start="13851" length="527" />
+				<highlight index="22" start="14218" length="1007" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hej alle sammen”, siger klovnen. ”Jeg hedder Carlos klovn. I dag fylder jeg 8 år, og det her bliver en fest, I aldrig glemmer!”" />
+				<subtitle lang="en" line="§Hello everybody!§ says the clown. §My name is Carlos clown. Today I am 8 years old, and this is a party that you will never forget.§" />
+			</subtitles>
+		</line>
+		<line words="Pedro se siente preocupado. 'Algo no está claro con este payaso' dice a Amy. Pero Amy está jugando con los globos." start="84729" length="14236" useLNutResource="true" image="3#3#6" >
+			<highlights>
+				<highlight index="0" start="1079" length="800" />
+				<highlight index="1" start="1759" length="340" />
+				<highlight index="2" start="1919" length="520" />
+				<highlight index="3" start="2359" length="799" />
+				<highlight index="4" start="4318" length="520" />
+				<highlight index="5" start="4818" length="360" />
+				<highlight index="6" start="5018" length="460" />
+				<highlight index="7" start="5418" length="459" />
+				<highlight index="8" start="5817" length="260" />
+				<highlight index="9" start="6057" length="340" />
+				<highlight index="10" start="6337" length="460" />
+				<highlight index="11" start="7517" length="380" />
+				<highlight index="12" start="7717" length="280" />
+				<highlight index="13" start="7877" length="620" />
+				<highlight index="14" start="9276" length="420" />
+				<highlight index="15" start="9616" length="480" />
+				<highlight index="16" start="10336" length="440" />
+				<highlight index="17" start="10796" length="619" />
+				<highlight index="18" start="11336" length="359" />
+				<highlight index="19" start="11595" length="340" />
+				<highlight index="20" start="11855" length="680" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Peter føler sig utilpas. ”Der er noget forkert med den klovn”, siger han til Amy. Men Amy leger med ballonerne." />
+				<subtitle lang="en" line="Peter feels uneasy. ‘Something is not right about this clown’ he says to Amy. But Amy is playing with the balloons." />
+			</subtitles>
+		</line>
+		<line words="Pedro va al jardín. Hay un castillo inflable. Todo el mundo se está divirtiendo. §Quizás todo está bien§ piensa Pedro." start="98735" length="14926" useLNutResource="true" image="3#3#9" >
+			<highlights>
+				<highlight index="0" start="440" length="608" />
+				<highlight index="1" start="1404" length="377" />
+				<highlight index="2" start="1697" length="419" />
+				<highlight index="3" start="1970" length="608" />
+				<highlight index="4" start="3500" length="315" />
+				<highlight index="5" start="3836" length="377" />
+				<highlight index="6" start="4150" length="671" />
+				<highlight index="7" start="4779" length="859" />
+				<highlight index="8" start="6644" length="524" />
+				<highlight index="9" start="7085" length="335" />
+				<highlight index="10" start="7357" length="881" />
+				<highlight index="11" start="8007" length="335" />
+				<highlight index="12" start="8112" length="399" />
+				<highlight index="13" start="8363" length="1279" />
+				<highlight index="14" start="10040" length="692" />
+				<highlight index="15" start="10753" length="503" />
+				<highlight index="16" start="11172" length="482" />
+				<highlight index="17" start="11529" length="440" />
+				<highlight index="18" start="12388" length="587" />
+				<highlight index="19" start="12912" length="524" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Peter går ud I haven. Der er en hoppeborg. Alle morer sig. ”Måske er det hele, som det skal være”, tænker Peter." />
+				<subtitle lang="en" line="Peter goes into the garden. There is a bouncy castle. Everyone is having fun. §Maybe everything is fine§ thinks Peter." />
+			</subtitles>
+		</line>
+		<line words="Pero entonces los juegos empiezan. Primero ellos juegan a las sillas y Jane gana. Después ellos juegan a pasar el paquete y Juán gana. Todo parece estar bien hasta que juegan a las estatuas musicales." start="113431" length="26406" useLNutResource="true" image="3#6#3" >
+			<highlights>
+				<highlight index="0" start="148" length="630" />
+				<highlight index="1" start="519" length="742" />
+				<highlight index="2" start="1483" length="704" />
+				<highlight index="3" start="1817" length="630" />
+				<highlight index="4" start="2113" length="965" />
+				<highlight index="5" start="4116" length="1038" />
+				<highlight index="6" start="4969" length="853" />
+				<highlight index="7" start="5599" length="705" />
+				<highlight index="8" start="6118" length="557" />
+				<highlight index="9" start="6267" length="556" />
+				<highlight index="10" start="6415" length="668" />
+				<highlight index="11" start="7750" length="668" />
+				<highlight index="12" start="8158" length="668" />
+				<highlight index="13" start="8603" length="853" />
+				<highlight index="14" start="10049" length="1224" />
+				<highlight index="15" start="11236" length="927" />
+				<highlight index="16" start="11978" length="741" />
+				<highlight index="17" start="12386" length="556" />
+				<highlight index="18" start="12682" length="594" />
+				<highlight index="19" start="12979" length="593" />
+				<highlight index="20" start="13276" length="1409" />
+				<highlight index="21" start="15204" length="556" />
+				<highlight index="22" start="15723" length="631" />
+				<highlight index="23" start="16280" length="853" />
+				<highlight index="24" start="17837" length="705" />
+				<highlight index="25" start="18430" length="742" />
+				<highlight index="26" start="18875" length="667" />
+				<highlight index="27" start="19469" length="964" />
+				<highlight index="28" start="20730" length="927" />
+				<highlight index="29" start="21434" length="779" />
+				<highlight index="30" start="21991" length="927" />
+				<highlight index="31" start="22658" length="779" />
+				<highlight index="32" start="22881" length="594" />
+				<highlight index="33" start="23400" length="1001" />
+				<highlight index="34" start="24253" length="1372" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Men så starter legene. Først leger de stoleleg. Jane vinder. Så leger de pakkeleg. John vinder. Alt går godt, indtil de leger stopdans." />
+				<subtitle lang="en" line="But then the games start. First they play musical chairs. Jane wins. Then they play pass the parcel. John wins. Everything seems fine until they play musical statues." />
+			</subtitles>
+		</line>
+		<line words="Mientras están jugando, ¡Pedro nota que uno a uno se convierten en estatuas de piedra. Él mira al payaso. Carlos el payaso se está riendo." start="139378" length="17910" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="1081" length="654" />
+				<highlight index="1" start="1660" length="628" />
+				<highlight index="2" start="2112" length="906" />
+				<highlight index="3" start="3596" length="880" />
+				<highlight index="4" start="4426" length="654" />
+				<highlight index="5" start="4980" length="629" />
+				<highlight index="6" start="5332" length="578" />
+				<highlight index="7" start="5684" length="352" />
+				<highlight index="8" start="5885" length="579" />
+				<highlight index="9" start="6740" length="428" />
+				<highlight index="10" start="7067" length="1007" />
+				<highlight index="11" start="7872" length="553" />
+				<highlight index="12" start="8149" length="1081" />
+				<highlight index="13" start="9155" length="327" />
+				<highlight index="14" start="9381" length="755" />
+				<highlight index="15" start="11192" length="704" />
+				<highlight index="16" start="11872" length="553" />
+				<highlight index="17" start="12123" length="478" />
+				<highlight index="18" start="12375" length="805" />
+				<highlight index="19" start="14211" length="906" />
+				<highlight index="20" start="14940" length="302" />
+				<highlight index="21" start="15066" length="629" />
+				<highlight index="22" start="15594" length="352" />
+				<highlight index="23" start="15670" length="527" />
+				<highlight index="24" start="16097" length="881" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Mens de leger, lægger Peter mærke til, at hans venner bliver til sten en efter en! Han ser på klovnen. Klovnen Carlos griner ondt." />
+				<subtitle lang="en" line="As they are playing, Peter notices that one by one, his friends are turning to stone! He looks at the clown. Carlos the clown is laughing nastily." />
+			</subtitles>
+		</line>
+		<line words="§¡Voy a robar tu imaginación para crear bromas más graciosas!§ El payaso ríe, §¡ja, ja, ja!§" start="157058" length="10333" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="1015" length="334" />
+				<highlight index="1" start="1233" length="348" />
+				<highlight index="2" start="1436" length="435" />
+				<highlight index="3" start="1871" length="319" />
+				<highlight index="4" start="2118" length="1089" />
+				<highlight index="5" start="3468" length="406" />
+				<highlight index="6" start="3802" length="580" />
+				<highlight index="7" start="4309" length="407" />
+				<highlight index="8" start="4672" length="508" />
+				<highlight index="9" start="5151" length="784" />
+				<highlight index="10" start="6515" length="232" />
+				<highlight index="11" start="6660" length="639" />
+				<highlight index="12" start="7226" length="450" />
+				<highlight index="13" start="8199" length="319" />
+				<highlight index="14" start="8460" length="348" />
+				<highlight index="15" start="8765" length="304" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Jeg vil stjæle jeres fantasi, så jeg kan lave de sjoveste vittigheder!”, skræpper klovnen." />
+				<subtitle lang="en" line="§I am going to steal your imaginations so that I can create the funniest jokes!§ The clown laughs, §ha ha ha!§" />
+			</subtitles>
+		</line>
+		<line words="Suerte que Pedro está disfrazado de guerrero. Le hace sentirse más valiente. Le hace sentirse más fuerte. Él grita '¡libéralos, libéralos ahora!'" start="167162" length="17451" useLNutResource="true" image="3#3#8" >
+			<highlights>
+				<highlight index="0" start="1011" length="789" />
+				<highlight index="1" start="1752" length="493" />
+				<highlight index="2" start="2023" length="593" />
+				<highlight index="3" start="2344" length="691" />
+				<highlight index="4" start="2863" length="913" />
+				<highlight index="5" start="3603" length="346" />
+				<highlight index="6" start="3850" length="839" />
+				<highlight index="7" start="5578" length="445" />
+				<highlight index="8" start="5775" length="617" />
+				<highlight index="9" start="6120" length="1062" />
+				<highlight index="10" start="6984" length="642" />
+				<highlight index="11" start="7404" length="891" />
+				<highlight index="12" start="9082" length="370" />
+				<highlight index="13" start="9378" length="445" />
+				<highlight index="14" start="9749" length="691" />
+				<highlight index="15" start="10341" length="642" />
+				<highlight index="16" start="10909" length="641" />
+				<highlight index="17" start="12340" length="444" />
+				<highlight index="18" start="12661" length="740" />
+				<highlight index="19" start="13525" length="790" />
+				<highlight index="20" start="14537" length="938" />
+				<highlight index="21" start="15401" length="814" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Det er heldigt, at Peter er klædt ud som en frygtindgydende kriger. Det får ham til at føle sig modig. Det får ham til at føle sig stærk. Han brøler: ”Slip dem fri. Slip dem fri nu!”" />
+				<subtitle lang="en" line="Lucky that Peter is dressed as a fearsome warrior. It makes him feel brave. It makes him feel strong. He roars ‘set them free! Set them free now!’" />
+			</subtitles>
+		</line>
+		<line words="Los amigos de Pedro vuelven a ser normales. El payaso empieza a llorar. §Lo siento. Yo solo quiero ser bueno en algo como todos vosotros.§" start="184383" length="15614" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="507" length="419" />
+				<highlight index="1" start="817" length="596" />
+				<highlight index="2" start="1391" length="265" />
+				<highlight index="3" start="1612" length="530" />
+				<highlight index="4" start="2142" length="795" />
+				<highlight index="5" start="2760" length="243" />
+				<highlight index="6" start="2782" length="596" />
+				<highlight index="7" start="3091" length="1170" />
+				<highlight index="8" start="5034" length="353" />
+				<highlight index="9" start="5299" length="753" />
+				<highlight index="10" start="6293" length="906" />
+				<highlight index="11" start="7022" length="309" />
+				<highlight index="12" start="7132" length="530" />
+				<highlight index="13" start="9076" length="552" />
+				<highlight index="14" start="9562" length="817" />
+				<highlight index="15" start="10334" length="663" />
+				<highlight index="16" start="10887" length="507" />
+				<highlight index="17" start="11372" length="420" />
+				<highlight index="18" start="11726" length="441" />
+				<highlight index="19" start="12079" length="552" />
+				<highlight index="20" start="12675" length="441" />
+				<highlight index="21" start="12962" length="354" />
+				<highlight index="22" start="13249" length="398" />
+				<highlight index="23" start="13559" length="574" />
+				<highlight index="24" start="14199" length="972" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Peters venner bliver normale igen. Klovnen begynder at græde”Undskyld. Jeg vil bare så gerne være virkelig god til noget, ligesom I alle sammen er”." />
+				<subtitle lang="en" line="Peter’s friends return to normal. The clown starts to cry. §I’m sorry. I just want to be really good at something like you all are.§" />
+			</subtitles>
+		</line>
+		<line words="§Nado bien§ dice Amy. §Bailo bien§ dice Tariq. §Juego al fútbol bien§ dice Javier. §¡Pero tú eres bueno en algo, payaso!§ dice Pedro. §¡Eres bueno organizando fiestas!§" start="199767" length="21033" useLNutResource="true" image="3#1#3" >
+			<highlights>
+				<highlight index="0" start="944" length="844" />
+				<highlight index="1" start="1540" length="944" />
+				<highlight index="2" start="2385" length="646" />
+				<highlight index="3" start="2732" length="1044" />
+				<highlight index="4" start="4024" length="795" />
+				<highlight index="5" start="4571" length="596" />
+				<highlight index="6" start="5366" length="646" />
+				<highlight index="7" start="5664" length="895" />
+				<highlight index="8" start="7055" length="696" />
+				<highlight index="9" start="7602" length="546" />
+				<highlight index="10" start="7801" length="645" />
+				<highlight index="11" start="8148" length="646" />
+				<highlight index="12" start="9043" length="646" />
+				<highlight index="13" start="9291" length="944" />
+				<highlight index="14" start="11825" length="695" />
+				<highlight index="15" start="12223" length="646" />
+				<highlight index="16" start="13067" length="745" />
+				<highlight index="17" start="13515" length="596" />
+				<highlight index="18" start="13862" length="497" />
+				<highlight index="19" start="13912" length="596" />
+				<highlight index="20" start="14310" length="1242" />
+				<highlight index="21" start="15204" length="696" />
+				<highlight index="22" start="15751" length="646" />
+				<highlight index="23" start="17043" length="695" />
+				<highlight index="24" start="17490" length="844" />
+				<highlight index="25" start="18583" length="1043" />
+				<highlight index="26" start="19726" length="1242" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Jeg er god til at svømme”, siger Amy.“Jeg er god til at danse”, siger Tariq.“Jeg er god til at spille fodbold”, siger Xavier.”Men du er god til noget, klovn!”, siger Peter. Du er rigtig god til at lave fester!”" />
+				<subtitle lang="en" line="§I swim well§ says Amy. §I dance well§ says Tariq. §I play football well§ says Xavier. §But you are good at something, clown!§ says Peter. §You are great at organising parties!§" />
+			</subtitles>
+		</line>
+		<line words="§¡Es verdad!§ Amy está de acuerdo. §Esta ha sido una fiesta muy divertida hasta que nos convertiste en piedra!§" start="220800" length="14749" useLNutResource="true" image="1#3#9" >
+			<highlights>
+				<highlight index="0" start="840" length="200" />
+				<highlight index="1" start="1034" length="367" />
+				<highlight index="2" start="2177" length="302" />
+				<highlight index="3" start="2544" length="366" />
+				<highlight index="4" start="2846" length="200" />
+				<highlight index="5" start="2997" length="517" />
+				<highlight index="6" start="4721" length="389" />
+				<highlight index="7" start="5433" length="345" />
+				<highlight index="8" start="5843" length="452" />
+				<highlight index="9" start="6533" length="517" />
+				<highlight index="10" start="7028" length="604" />
+				<highlight index="11" start="7697" length="280" />
+				<highlight index="12" start="7934" length="668" />
+				<highlight index="13" start="9185" length="474" />
+				<highlight index="14" start="9702" length="367" />
+				<highlight index="15" start="10069" length="409" />
+				<highlight index="16" start="10565" length="539" />
+				<highlight index="17" start="11449" length="366" />
+				<highlight index="18" start="11772" length="517" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="”Det er sandt”. Amy er enig. ”Det her var den bedste fest nogensinde – indtil du forvandlede os til sten!”" />
+				<subtitle lang="en" line="§It is true!§ Agrees Amy. §This was the best party ever – until you turned us to stone!§" />
+			</subtitles>
+		</line>
+		<line words="§¡Es mi cumpleaños la semana que viene!'§ dice Pedro. §¿Puedes organizar mi fiesta, por favor?§ §¡Oh, gracias!§ dice el payaso. §¡Me encantaría!§" start="234899" length="14696" useLNutResource="true" image="3#3#10" >
+			<highlights>
+				<highlight index="0" start="353" length="395" />
+				<highlight index="1" start="685" length="312" />
+				<highlight index="2" start="872" length="915" />
+				<highlight index="3" start="1808" length="353" />
+				<highlight index="4" start="2078" length="429" />
+				<highlight index="5" start="2431" length="354" />
+				<highlight index="6" start="2681" length="478" />
+				<highlight index="7" start="3616" length="312" />
+				<highlight index="8" start="3949" length="415" />
+				<highlight index="9" start="5050" length="582" />
+				<highlight index="10" start="5570" length="623" />
+				<highlight index="11" start="6089" length="312" />
+				<highlight index="12" start="6297" length="519" />
+				<highlight index="13" start="7004" length="395" />
+				<highlight index="14" start="7316" length="519" />
+				<highlight index="15" start="9083" length="457" />
+				<highlight index="16" start="9602" length="645" />
+				<highlight index="17" start="10974" length="436" />
+				<highlight index="18" start="11348" length="291" />
+				<highlight index="19" start="11369" length="790" />
+				<highlight index="20" start="12491" length="312" />
+				<highlight index="21" start="12824" length="1288" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“I næste uge har jeg fødselsdag”, siger Peter.”Vil du ikke nok holde min fest?””Tak”, siger klovnen. ”Det vil jeg gerne!”" />
+				<subtitle lang="en" line="§It’s my birthday next week§ says Peter. §Will you organise my party please?§ §Oh, thank you!§ says the clown. §I would love to!§" />
+			</subtitles>
+		</line>
+		<line words="Y como el payaso se sintió valorado, nunca más fue malo. Fin" start="249365" length="10333" useLNutResource="true" image="" >
+			<highlights>
+				<highlight index="0" start="365" length="200" />
+				<highlight index="1" start="453" length="467" />
+				<highlight index="2" start="803" length="351" />
+				<highlight index="3" start="1096" length="599" />
+				<highlight index="4" start="1592" length="200" />
+				<highlight index="5" start="1709" length="629" />
+				<highlight index="6" start="2235" length="1067" />
+				<highlight index="7" start="3741" length="497" />
+				<highlight index="8" start="4223" length="380" />
+				<highlight index="9" start="4647" length="365" />
+				<highlight index="10" start="4983" length="467" />
+				<highlight index="11" start="6401" length="556" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Og fordi klovnen følte, at han var noget værd, var han aldrig mere ond. Slut." />
+				<subtitle lang="en" line="And because the clown felt valuable, he was never mean again. The end." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

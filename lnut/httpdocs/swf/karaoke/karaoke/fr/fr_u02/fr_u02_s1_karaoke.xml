@@ -1,0 +1,1638 @@
+<?xml version="1.0"?>
+<karaoke length="180062">
+  <lines>
+    <line words="J'adore jouer" start="9003" length="4501">
+      <highlight index="0" start="1013" length="1566"/>
+      <highlight index="1" start="2671" length="1744"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to play"/>
+        <subtitle lang="ng" line="I love to play"/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628; "/>
+        <subtitle lang="en" line="I love to play"/>
+        <subtitle lang="dk" line="Jeg elsker at lege"/>
+        <subtitle lang="na" line="I love to play"/>
+        <subtitle lang="sco" line="I love to play"/>
+        <subtitle lang="to" line="I love to play"/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628; "/>
+        <subtitle lang="ws" line="I love to play"/>
+        <subtitle lang="sl" line="I love to play"/>
+        <subtitle lang="ca" line="I love to play"/>
+        <subtitle lang="zm" line="I love to play"/>
+        <subtitle lang="dm" line="I love to play"/>
+        <subtitle lang="nz" line="I love to play"/>
+        <subtitle lang="bz" line="I love to play"/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628; "/>
+        <subtitle lang="tt" line="I love to play"/>
+        <subtitle lang="mx" line="Me encanta jugar"/>
+        <subtitle lang="gh" line="I love to play"/>
+        <subtitle lang="ag" line="I love to play"/>
+        <subtitle lang="mu" line="I love to play"/>
+        <subtitle lang="sa" line="I love to play"/>
+        <subtitle lang="zw" line="I love to play"/>
+        <subtitle lang="ke" line="I love to play"/>
+        <subtitle lang="bw" line="I love to play"/>
+        <subtitle lang="ug" line="I love to play"/>
+        <subtitle lang="au" line="I love to play"/>
+        <subtitle lang="lb" line="I love to play"/>
+        <subtitle lang="nl" line="Ik speel heel graag"/>
+        <subtitle lang="gm" line="I love to play"/>
+        <subtitle lang="bd" line="I love to play"/>
+        <subtitle lang="pk" line="I love to play"/>
+        <subtitle lang="vc" line="I love to play"/>
+        <subtitle lang="bs" line="I love to play"/>
+        <subtitle lang="us" line="I love to play"/>
+        <subtitle lang="mt" line="I love to play"/>
+        <subtitle lang="za" line="I love to play"/>
+        <subtitle lang="sb" line="I love to play"/>
+        <subtitle lang="tz" line="I love to play"/>
+        <subtitle lang="sg" line="I love to play"/>
+        <subtitle lang="vu" line="I love to play"/>
+        <subtitle lang="jm" line="I love to play"/>
+        <subtitle lang="fj" line="I love to play"/>
+        <subtitle lang="rw" line="I love to play"/>
+      <subtitle lang="cl" line="Me encanta jugar"/><subtitle lang="es" line="Me encanta jugar"/><subtitle lang="co" line="Me encanta jugar"/><subtitle lang="gt" line="Me encanta jugar"/><subtitle lang="pe" line="Me encanta jugar"/><subtitle lang="ni" line="Me encanta jugar"/><subtitle lang="do" line="Me encanta jugar"/><subtitle lang="bo" line="Me encanta jugar"/><subtitle lang="ve" line="Me encanta jugar"/><subtitle lang="ar" line="Me encanta jugar"/><subtitle lang="cu" line="Me encanta jugar"/><subtitle lang="pr" line="Me encanta jugar"/><subtitle lang="py" line="Me encanta jugar"/><subtitle lang="ec" line="Me encanta jugar"/><subtitle lang="hn" line="Me encanta jugar"/><subtitle lang="sv" line="Me encanta jugar"/><subtitle lang="cr" line="Me encanta jugar"/><subtitle lang="pa" line="Me encanta jugar"/>
+			</subtitles>
+    </line>
+    <line words="avec les amis" start="13659" length="3571">
+      <highlight index="0" start="135" length="997"/>
+      <highlight index="1" start="1132" length="627"/>
+      <highlight index="2" start="1769" length="1107"/>
+      <subtitles>
+        <subtitle lang="gy" line="with my friends"/>
+        <subtitle lang="ng" line="with my friends"/>
+        <subtitle lang="lba" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="en" line="with my friends"/>
+        <subtitle lang="dk" line="med mine venner"/>
+        <subtitle lang="dm" line="with my friends"/>
+        <subtitle lang="sco" line="with my friends"/>
+        <subtitle lang="to" line="with my friends"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="ws" line="with my friends"/>
+        <subtitle lang="sl" line="with my friends"/>
+        <subtitle lang="ca" line="with my friends"/>
+        <subtitle lang="zm" line="with my friends"/>
+        <subtitle lang="nz" line="with my friends"/>
+        <subtitle lang="na" line="with my friends"/>
+        <subtitle lang="bz" line="with my friends"/>
+        <subtitle lang="saa" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="tt" line="with my friends"/>
+        <subtitle lang="mx" line="Jugar con mis amigos"/>
+        <subtitle lang="gh" line="with my friends"/>
+        <subtitle lang="ag" line="with my friends"/>
+        <subtitle lang="mu" line="with my friends"/>
+        <subtitle lang="sa" line="with my friends"/>
+        <subtitle lang="zw" line="with my friends"/>
+        <subtitle lang="ke" line="with my friends"/>
+        <subtitle lang="bw" line="with my friends"/>
+        <subtitle lang="ug" line="with my friends"/>
+        <subtitle lang="au" line="with my friends"/>
+        <subtitle lang="lb" line="with my friends"/>
+        <subtitle lang="nl" line="met mijn vrienden"/>
+        <subtitle lang="gm" line="with my friends"/>
+        <subtitle lang="bd" line="with my friends"/>
+        <subtitle lang="pk" line="with my friends"/>
+        <subtitle lang="vc" line="with my friends"/>
+        <subtitle lang="bs" line="with my friends"/>
+        <subtitle lang="us" line="with my friends"/>
+        <subtitle lang="mt" line="with my friends"/>
+        <subtitle lang="za" line="with my friends"/>
+        <subtitle lang="sb" line="with my friends"/>
+        <subtitle lang="tz" line="with my friends"/>
+        <subtitle lang="sg" line="with my friends"/>
+        <subtitle lang="vu" line="with my friends"/>
+        <subtitle lang="jm" line="with my friends"/>
+        <subtitle lang="fj" line="with my friends"/>
+        <subtitle lang="rw" line="with my friends"/>
+      <subtitle lang="cl" line="Jugar con mis amigos"/><subtitle lang="es" line="Jugar con mis amigos"/><subtitle lang="co" line="Jugar con mis amigos"/><subtitle lang="gt" line="Jugar con mis amigos"/><subtitle lang="pe" line="Jugar con mis amigos"/><subtitle lang="ni" line="Jugar con mis amigos"/><subtitle lang="do" line="Jugar con mis amigos"/><subtitle lang="bo" line="Jugar con mis amigos"/><subtitle lang="ve" line="Jugar con mis amigos"/><subtitle lang="ar" line="Jugar con mis amigos"/><subtitle lang="cu" line="Jugar con mis amigos"/><subtitle lang="pr" line="Jugar con mis amigos"/><subtitle lang="py" line="Jugar con mis amigos"/><subtitle lang="ec" line="Jugar con mis amigos"/><subtitle lang="hn" line="Jugar con mis amigos"/><subtitle lang="sv" line="Jugar con mis amigos"/><subtitle lang="cr" line="Jugar con mis amigos"/><subtitle lang="pa" line="Jugar con mis amigos"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="17385" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="21421" length="4191">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="I love to clap my hands"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="J'adore battre des mains" start="25767" length="3725">
+      <highlight index="0" start="197" length="1520"/>
+      <highlight index="1" start="1697" length="816"/>
+      <highlight index="2" start="2506" length="264"/>
+      <highlight index="3" start="2750" length="724"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to clap my hands"/>
+        <subtitle lang="ng" line="I love to clap my hands"/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x635;&#x641;&#x642; &#x628;&#x623;&#x64A;&#x627;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="I love to clap my hands"/>
+        <subtitle lang="dm" line="I love to clap my hands"/>
+        <subtitle lang="sco" line="I love to clap my hands"/>
+        <subtitle lang="to" line="I love to clap my hands"/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x635;&#x641;&#x642; &#x628;&#x623;&#x64A;&#x627;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="I love to clap my hands"/>
+        <subtitle lang="sl" line="I love to clap my hands"/>
+        <subtitle lang="ca" line="I love to clap my hands"/>
+        <subtitle lang="zm" line="I love to clap my hands"/>
+        <subtitle lang="na" line="I love to clap my hands"/>
+        <subtitle lang="nz" line="I love to clap my hands"/>
+        <subtitle lang="bz" line="I love to clap my hands"/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x635;&#x641;&#x642; &#x628;&#x623;&#x64A;&#x627;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="I love to clap my hands"/>
+        <subtitle lang="mx" line="Me encanta aplaudir con las manos"/>
+        <subtitle lang="gh" line="I love to clap my hands"/>
+        <subtitle lang="ag" line="I love to clap my hands"/>
+        <subtitle lang="mu" line="I love to clap my hands"/>
+        <subtitle lang="sa" line="I love to clap my hands"/>
+        <subtitle lang="zw" line="I love to clap my hands"/>
+        <subtitle lang="ke" line="I love to clap my hands"/>
+        <subtitle lang="bw" line="I love to clap my hands"/>
+        <subtitle lang="ug" line="I love to clap my hands"/>
+        <subtitle lang="au" line="I love to clap my hands"/>
+        <subtitle lang="lb" line="I love to clap my hands"/>
+        <subtitle lang="nl" line="Ik klap heel graag handen "/>
+        <subtitle lang="gm" line="I love to clap my hands"/>
+        <subtitle lang="bd" line="I love to clap my hands"/>
+        <subtitle lang="pk" line="I love to clap my hands"/>
+        <subtitle lang="vc" line="I love to clap my hands"/>
+        <subtitle lang="bs" line="I love to clap my hands"/>
+        <subtitle lang="us" line="I love to clap my hands"/>
+        <subtitle lang="jm" line="I love to clap my hands"/>
+        <subtitle lang="za" line="I love to clap my hands"/>
+        <subtitle lang="sb" line="I love to clap my hands"/>
+        <subtitle lang="tz" line="I love to clap my hands"/>
+        <subtitle lang="sg" line="I love to clap my hands"/>
+        <subtitle lang="vu" line="I love to clap my hands"/>
+        <subtitle lang="mt" line="I love to clap my hands"/>
+        <subtitle lang="fj" line="I love to clap my hands"/>
+        <subtitle lang="rw" line="I love to clap my hands"/>
+      <subtitle lang="cl" line="Me encanta aplaudir con las manos"/><subtitle lang="es" line="Me encanta aplaudir con las manos"/><subtitle lang="co" line="Me encanta aplaudir con las manos"/><subtitle lang="gt" line="Me encanta aplaudir con las manos"/><subtitle lang="pe" line="Me encanta aplaudir con las manos"/><subtitle lang="ni" line="Me encanta aplaudir con las manos"/><subtitle lang="do" line="Me encanta aplaudir con las manos"/><subtitle lang="bo" line="Me encanta aplaudir con las manos"/><subtitle lang="ve" line="Me encanta aplaudir con las manos"/><subtitle lang="ar" line="Me encanta aplaudir con las manos"/><subtitle lang="cu" line="Me encanta aplaudir con las manos"/><subtitle lang="pr" line="Me encanta aplaudir con las manos"/><subtitle lang="py" line="Me encanta aplaudir con las manos"/><subtitle lang="ec" line="Me encanta aplaudir con las manos"/><subtitle lang="hn" line="Me encanta aplaudir con las manos"/><subtitle lang="sv" line="Me encanta aplaudir con las manos"/><subtitle lang="cr" line="Me encanta aplaudir con las manos"/><subtitle lang="pa" line="Me encanta aplaudir con las manos"/>
+			</subtitles>
+    </line>
+    <line words="avec des amis" start="29648" length="3571">
+      <highlight index="0" start="135" length="997"/>
+      <highlight index="1" start="1132" length="627"/>
+      <highlight index="2" start="1769" length="1107"/>
+      <subtitles>
+        <subtitle lang="gy" line="with my friends"/>
+        <subtitle lang="ng" line="with my friends"/>
+        <subtitle lang="lba" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="en" line="with my friends"/>
+        <subtitle lang="dm" line="with my friends"/>
+        <subtitle lang="sco" line="with my friends"/>
+        <subtitle lang="to" line="with my friends"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="ws" line="with my friends"/>
+        <subtitle lang="sl" line="with my friends"/>
+        <subtitle lang="ca" line="with my friends"/>
+        <subtitle lang="zm" line="with my friends"/>
+        <subtitle lang="na" line="with my friends"/>
+        <subtitle lang="nz" line="with my friends"/>
+        <subtitle lang="bz" line="with my friends"/>
+        <subtitle lang="saa" line="&#x200E;&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="tt" line="with my friends"/>
+        <subtitle lang="mx" line="Aplaudir con mis amigos"/>
+        <subtitle lang="gh" line="with my friends"/>
+        <subtitle lang="ag" line="with my friends"/>
+        <subtitle lang="mu" line="with my friends"/>
+        <subtitle lang="sa" line="with my friends"/>
+        <subtitle lang="zw" line="with my friends"/>
+        <subtitle lang="ke" line="with my friends"/>
+        <subtitle lang="bw" line="with my friends"/>
+        <subtitle lang="ug" line="with my friends"/>
+        <subtitle lang="au" line="with my friends"/>
+        <subtitle lang="lb" line="with my friends"/>
+        <subtitle lang="nl" line="met mijn vrienden"/>
+        <subtitle lang="gm" line="with my friends"/>
+        <subtitle lang="bd" line="with my friends"/>
+        <subtitle lang="pk" line="with my friends"/>
+        <subtitle lang="vc" line="with my friends"/>
+        <subtitle lang="bs" line="with my friends"/>
+        <subtitle lang="us" line="with my friends"/>
+        <subtitle lang="jm" line="with my friends"/>
+        <subtitle lang="za" line="with my friends"/>
+        <subtitle lang="sb" line="with my friends"/>
+        <subtitle lang="tz" line="with my friends"/>
+        <subtitle lang="sg" line="with my friends"/>
+        <subtitle lang="vu" line="with my friends"/>
+        <subtitle lang="mt" line="with my friends"/>
+        <subtitle lang="fj" line="with my friends"/>
+        <subtitle lang="rw" line="with my friends"/>
+      <subtitle lang="cl" line="Aplaudir con mis amigos"/><subtitle lang="es" line="Aplaudir con mis amigos"/><subtitle lang="co" line="Aplaudir con mis amigos"/><subtitle lang="gt" line="Aplaudir con mis amigos"/><subtitle lang="pe" line="Aplaudir con mis amigos"/><subtitle lang="ni" line="Aplaudir con mis amigos"/><subtitle lang="do" line="Aplaudir con mis amigos"/><subtitle lang="bo" line="Aplaudir con mis amigos"/><subtitle lang="ve" line="Aplaudir con mis amigos"/><subtitle lang="ar" line="Aplaudir con mis amigos"/><subtitle lang="cu" line="Aplaudir con mis amigos"/><subtitle lang="pr" line="Aplaudir con mis amigos"/><subtitle lang="py" line="Aplaudir con mis amigos"/><subtitle lang="ec" line="Aplaudir con mis amigos"/><subtitle lang="hn" line="Aplaudir con mis amigos"/><subtitle lang="sv" line="Aplaudir con mis amigos"/><subtitle lang="cr" line="Aplaudir con mis amigos"/><subtitle lang="pa" line="Aplaudir con mis amigos"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="33528" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="37564" length="4191">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2426" length="527"/>
+      <highlight index="4" start="2940" length="245"/>
+      <highlight index="5" start="3161" length="990"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="41910" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="49827" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+    <line words="J'adore jouer" start="57278" length="4501">
+      <highlight index="0" start="684" length="1566"/>
+      <highlight index="1" start="2671" length="1744"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to play"/>
+        <subtitle lang="ng" line="I love to play"/>
+        <subtitle lang="lba" line="&#x200E;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="en" line="I love to play"/>
+        <subtitle lang="dk" line="Jeg elsker at lege"/>
+        <subtitle lang="dm" line="I love to play"/>
+        <subtitle lang="sco" line="I love to play"/>
+        <subtitle lang="to" line="I love to play"/>
+        <subtitle lang="me" line="&#x200E;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="ws" line="I love to play"/>
+        <subtitle lang="sl" line="I love to play"/>
+        <subtitle lang="ca" line="I love to play"/>
+        <subtitle lang="zm" line="I love to play"/>
+        <subtitle lang="nz" line="I love to play"/>
+        <subtitle lang="na" line="I love to play"/>
+        <subtitle lang="bz" line="I love to play"/>
+        <subtitle lang="saa" line="&#x200E;&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="tt" line="I love to play"/>
+        <subtitle lang="mx" line="Me encanta jugar"/>
+        <subtitle lang="gh" line="I love to play"/>
+        <subtitle lang="ag" line="I love to play"/>
+        <subtitle lang="mu" line="I love to play"/>
+        <subtitle lang="sa" line="I love to play"/>
+        <subtitle lang="zw" line="I love to play"/>
+        <subtitle lang="ke" line="I love to play"/>
+        <subtitle lang="bw" line="I love to play"/>
+        <subtitle lang="ug" line="I love to play"/>
+        <subtitle lang="au" line="I love to play"/>
+        <subtitle lang="lb" line="I love to play"/>
+        <subtitle lang="nl" line="Ik speel heel graag"/>
+        <subtitle lang="gm" line="I love to play"/>
+        <subtitle lang="bd" line="I love to play"/>
+        <subtitle lang="pk" line="I love to play"/>
+        <subtitle lang="vc" line="I love to play"/>
+        <subtitle lang="bs" line="I love to play"/>
+        <subtitle lang="us" line="I love to play"/>
+        <subtitle lang="mt" line="I love to play"/>
+        <subtitle lang="za" line="I love to play"/>
+        <subtitle lang="sb" line="I love to play"/>
+        <subtitle lang="tz" line="I love to play"/>
+        <subtitle lang="sg" line="I love to play"/>
+        <subtitle lang="vu" line="I love to play"/>
+        <subtitle lang="jm" line="I love to play"/>
+        <subtitle lang="fj" line="I love to play"/>
+        <subtitle lang="rw" line="I love to play"/>
+      <subtitle lang="cl" line="Me encanta jugar"/><subtitle lang="es" line="Me encanta jugar"/><subtitle lang="co" line="Me encanta jugar"/><subtitle lang="gt" line="Me encanta jugar"/><subtitle lang="pe" line="Me encanta jugar"/><subtitle lang="ni" line="Me encanta jugar"/><subtitle lang="do" line="Me encanta jugar"/><subtitle lang="bo" line="Me encanta jugar"/><subtitle lang="ve" line="Me encanta jugar"/><subtitle lang="ar" line="Me encanta jugar"/><subtitle lang="cu" line="Me encanta jugar"/><subtitle lang="pr" line="Me encanta jugar"/><subtitle lang="py" line="Me encanta jugar"/><subtitle lang="ec" line="Me encanta jugar"/><subtitle lang="hn" line="Me encanta jugar"/><subtitle lang="sv" line="Me encanta jugar"/><subtitle lang="cr" line="Me encanta jugar"/><subtitle lang="pa" line="Me encanta jugar"/>
+			</subtitles>
+    </line>
+    <line words="&#xE0; la marelle" start="61935" length="3570">
+      <highlight index="0" start="73" length="876"/>
+      <highlight index="1" start="934" length="595"/>
+      <highlight index="2" start="1518" length="1305"/>
+      <subtitles>
+        <subtitle lang="gy" line="hop-skotch with you"/>
+        <subtitle lang="ng" line="hop-skotch with you"/>
+        <subtitle lang="lba" line="&#x644;&#x639;&#x628;&#x629; &#x627;&#x644;&#x642;&#x641;&#x632;&#x645;&#x639;&#x643;"/>
+        <subtitle lang="en" line="hop-skotch with you"/>
+        <subtitle lang="dk" line="hoppe i mand med jer"/>
+        <subtitle lang="dm" line="hop-skotch with you"/>
+        <subtitle lang="sco" line="hop-skotch with you"/>
+        <subtitle lang="to" line="hop-skotch with you"/>
+        <subtitle lang="me" line="&#x644;&#x639;&#x628;&#x629; &#x627;&#x644;&#x642;&#x641;&#x632;&#x645;&#x639;&#x643;"/>
+        <subtitle lang="ws" line="hop-skotch with you"/>
+        <subtitle lang="sl" line="hop-skotch with you"/>
+        <subtitle lang="ca" line="hop-skotch with you"/>
+        <subtitle lang="zm" line="hop-skotch with you"/>
+        <subtitle lang="nz" line="hop-skotch with you"/>
+        <subtitle lang="na" line="hop-skotch with you"/>
+        <subtitle lang="bz" line="hop-skotch with you"/>
+        <subtitle lang="saa" line="&#x644;&#x639;&#x628;&#x629; &#x627;&#x644;&#x642;&#x641;&#x632;&#x645;&#x639;&#x643;"/>
+        <subtitle lang="tt" line="hop-skotch with you"/>
+        <subtitle lang="mx" line="Al avioncito contigo"/>
+        <subtitle lang="gh" line="hop-skotch with you"/>
+        <subtitle lang="ag" line="hop-skotch with you"/>
+        <subtitle lang="mu" line="hop-skotch with you"/>
+        <subtitle lang="sa" line="hop-skotch with you"/>
+        <subtitle lang="zw" line="hop-skotch with you"/>
+        <subtitle lang="ke" line="hop-skotch with you"/>
+        <subtitle lang="bw" line="hop-skotch with you"/>
+        <subtitle lang="ug" line="hop-skotch with you"/>
+        <subtitle lang="au" line="hop-skotch with you"/>
+        <subtitle lang="lb" line="hop-skotch with you"/>
+        <subtitle lang="nl" line="op de hinkelbaan met jou"/>
+        <subtitle lang="gm" line="hop-skotch with you"/>
+        <subtitle lang="bd" line="hop-skotch with you"/>
+        <subtitle lang="pk" line="hop-skotch with you"/>
+        <subtitle lang="vc" line="hop-skotch with you"/>
+        <subtitle lang="bs" line="hop-skotch with you"/>
+        <subtitle lang="us" line="hop-skotch with you"/>
+        <subtitle lang="mt" line="hop-skotch with you"/>
+        <subtitle lang="za" line="hop-skotch with you"/>
+        <subtitle lang="sb" line="hop-skotch with you"/>
+        <subtitle lang="tz" line="hop-skotch with you"/>
+        <subtitle lang="sg" line="hop-skotch with you"/>
+        <subtitle lang="vu" line="hop-skotch with you"/>
+        <subtitle lang="jm" line="hop-skotch with you"/>
+        <subtitle lang="fj" line="hop-skotch with you"/>
+        <subtitle lang="rw" line="hop-skotch with you"/>
+      <subtitle lang="cl" line="Al avioncito contigo"/><subtitle lang="es" line="Al avioncito contigo"/><subtitle lang="co" line="Al avioncito contigo"/><subtitle lang="gt" line="Al avioncito contigo"/><subtitle lang="pe" line="Al avioncito contigo"/><subtitle lang="ni" line="Al avioncito contigo"/><subtitle lang="do" line="Al avioncito contigo"/><subtitle lang="bo" line="Al avioncito contigo"/><subtitle lang="ve" line="Al avioncito contigo"/><subtitle lang="ar" line="Al avioncito contigo"/><subtitle lang="cu" line="Al avioncito contigo"/><subtitle lang="pr" line="Al avioncito contigo"/><subtitle lang="py" line="Al avioncito contigo"/><subtitle lang="ec" line="Al avioncito contigo"/><subtitle lang="hn" line="Al avioncito contigo"/><subtitle lang="sv" line="Al avioncito contigo"/><subtitle lang="cr" line="Al avioncito contigo"/><subtitle lang="pa" line="Al avioncito contigo"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="65350" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="69541" length="4191">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2426" length="545"/>
+      <highlight index="4" start="2946" length="257"/>
+      <highlight index="5" start="3185" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="J'adore jouer" start="73887" length="3415">
+      <highlight index="0" start="54" length="1813"/>
+      <highlight index="1" start="1852" length="1323"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to play"/>
+        <subtitle lang="ng" line="I love to play"/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="en" line="I love to play"/>
+        <subtitle lang="dk" line="Jeg elsker at lege"/>
+        <subtitle lang="dm" line="I love to play"/>
+        <subtitle lang="sco" line="I love to play"/>
+        <subtitle lang="to" line="I love to play"/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="ws" line="I love to play"/>
+        <subtitle lang="sl" line="I love to play"/>
+        <subtitle lang="ca" line="I love to play"/>
+        <subtitle lang="zm" line="I love to play"/>
+        <subtitle lang="nz" line="I love to play"/>
+        <subtitle lang="na" line="I love to play"/>
+        <subtitle lang="bz" line="I love to play"/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x623;&#x646; &#x623;&#x644;&#x639;&#x628;"/>
+        <subtitle lang="tt" line="I love to play"/>
+        <subtitle lang="mx" line="Me encanta jugar"/>
+        <subtitle lang="gh" line="I love to play"/>
+        <subtitle lang="ag" line="I love to play"/>
+        <subtitle lang="mu" line="I love to play"/>
+        <subtitle lang="sa" line="I love to play"/>
+        <subtitle lang="zw" line="I love to play"/>
+        <subtitle lang="ke" line="I love to play"/>
+        <subtitle lang="bw" line="I love to play"/>
+        <subtitle lang="ug" line="I love to play"/>
+        <subtitle lang="au" line="I love to play"/>
+        <subtitle lang="lb" line="I love to play"/>
+        <subtitle lang="nl" line="Ik speel heel graag"/>
+        <subtitle lang="gm" line="I love to play"/>
+        <subtitle lang="bd" line="I love to play"/>
+        <subtitle lang="pk" line="I love to play"/>
+        <subtitle lang="vc" line="I love to play"/>
+        <subtitle lang="bs" line="I love to play"/>
+        <subtitle lang="us" line="I love to play"/>
+        <subtitle lang="mt" line="I love to play"/>
+        <subtitle lang="za" line="I love to play"/>
+        <subtitle lang="sb" line="I love to play"/>
+        <subtitle lang="tz" line="I love to play"/>
+        <subtitle lang="sg" line="I love to play"/>
+        <subtitle lang="vu" line="I love to play"/>
+        <subtitle lang="jm" line="I love to play"/>
+        <subtitle lang="fj" line="I love to play"/>
+        <subtitle lang="rw" line="I love to play"/>
+      <subtitle lang="cl" line="Me encanta jugar"/><subtitle lang="es" line="Me encanta jugar"/><subtitle lang="co" line="Me encanta jugar"/><subtitle lang="gt" line="Me encanta jugar"/><subtitle lang="pe" line="Me encanta jugar"/><subtitle lang="ni" line="Me encanta jugar"/><subtitle lang="do" line="Me encanta jugar"/><subtitle lang="bo" line="Me encanta jugar"/><subtitle lang="ve" line="Me encanta jugar"/><subtitle lang="ar" line="Me encanta jugar"/><subtitle lang="cu" line="Me encanta jugar"/><subtitle lang="pr" line="Me encanta jugar"/><subtitle lang="py" line="Me encanta jugar"/><subtitle lang="ec" line="Me encanta jugar"/><subtitle lang="hn" line="Me encanta jugar"/><subtitle lang="sv" line="Me encanta jugar"/><subtitle lang="cr" line="Me encanta jugar"/><subtitle lang="pa" line="Me encanta jugar"/>
+			</subtitles>
+    </line>
+    <line words="&#xE0; cache- cache" start="77768" length="3415">
+      <highlight index="0" start="69" length="929"/>
+      <highlight index="1" start="973" length="859"/>
+      <highlight index="2" start="1802" length="908"/>
+      <subtitles>
+        <subtitle lang="gy" line="hide and seek"/>
+        <subtitle lang="ng" line="hide and seek"/>
+        <subtitle lang="lba" line="&#x627;&#x644;&#x63A;&#x645;&#x64A;&#x636;&#x629;"/>
+        <subtitle lang="en" line="hide and seek"/>
+        <subtitle lang="dk" line="gemmeleg"/>
+        <subtitle lang="dm" line="hide and seek"/>
+        <subtitle lang="sco" line="hide and seek"/>
+        <subtitle lang="to" line="hide and seek"/>
+        <subtitle lang="me" line="&#x627;&#x644;&#x63A;&#x645;&#x64A;&#x636;&#x629;"/>
+        <subtitle lang="ws" line="hide and seek"/>
+        <subtitle lang="sl" line="hide and seek"/>
+        <subtitle lang="ca" line="hide and seek"/>
+        <subtitle lang="zm" line="hide and seek"/>
+        <subtitle lang="nz" line="hide and seek"/>
+        <subtitle lang="na" line="hide and seek"/>
+        <subtitle lang="bz" line="hide and seek"/>
+        <subtitle lang="saa" line="&#x627;&#x644;&#x63A;&#x645;&#x64A;&#x636;&#x629;"/>
+        <subtitle lang="tt" line="hide and seek"/>
+        <subtitle lang="mx" line="Jugar a las escondidas"/>
+        <subtitle lang="gh" line="hide and seek"/>
+        <subtitle lang="ag" line="hide and seek"/>
+        <subtitle lang="mu" line="hide and seek"/>
+        <subtitle lang="sa" line="hide and seek"/>
+        <subtitle lang="zw" line="hide and seek"/>
+        <subtitle lang="ke" line="hide and seek"/>
+        <subtitle lang="bw" line="hide and seek"/>
+        <subtitle lang="ug" line="hide and seek"/>
+        <subtitle lang="au" line="hide and seek"/>
+        <subtitle lang="lb" line="hide and seek"/>
+        <subtitle lang="nl" line="verstoppertje"/>
+        <subtitle lang="gm" line="hide and seek"/>
+        <subtitle lang="bd" line="hide and seek"/>
+        <subtitle lang="pk" line="hide and seek"/>
+        <subtitle lang="vc" line="hide and seek"/>
+        <subtitle lang="bs" line="hide and seek"/>
+        <subtitle lang="us" line="hide and seek"/>
+        <subtitle lang="mt" line="hide and seek"/>
+        <subtitle lang="za" line="hide and seek"/>
+        <subtitle lang="sb" line="hide and seek"/>
+        <subtitle lang="tz" line="hide and seek"/>
+        <subtitle lang="sg" line="hide and seek"/>
+        <subtitle lang="vu" line="hide and seek"/>
+        <subtitle lang="jm" line="hide and seek"/>
+        <subtitle lang="fj" line="hide and seek"/>
+        <subtitle lang="rw" line="hide and seek"/>
+      <subtitle lang="cl" line="Jugar a las escondidas"/><subtitle lang="es" line="Jugar a las escondidas"/><subtitle lang="co" line="Jugar a las escondidas"/><subtitle lang="gt" line="Jugar a las escondidas"/><subtitle lang="pe" line="Jugar a las escondidas"/><subtitle lang="ni" line="Jugar a las escondidas"/><subtitle lang="do" line="Jugar a las escondidas"/><subtitle lang="bo" line="Jugar a las escondidas"/><subtitle lang="ve" line="Jugar a las escondidas"/><subtitle lang="ar" line="Jugar a las escondidas"/><subtitle lang="cu" line="Jugar a las escondidas"/><subtitle lang="pr" line="Jugar a las escondidas"/><subtitle lang="py" line="Jugar a las escondidas"/><subtitle lang="ec" line="Jugar a las escondidas"/><subtitle lang="hn" line="Jugar a las escondidas"/><subtitle lang="sv" line="Jugar a las escondidas"/><subtitle lang="cr" line="Jugar a las escondidas"/><subtitle lang="pa" line="Jugar a las escondidas"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="81338" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="85684" length="4191">
+      <highlight index="0" start="269" length="513"/>
+      <highlight index="1" start="753" length="283"/>
+      <highlight index="2" start="1010" length="869"/>
+      <highlight index="3" start="2211" length="526"/>
+      <highlight index="4" start="2714" length="257"/>
+      <highlight index="5" start="2959" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="89875" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="97792" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+    <line words="J'adore courir" start="105243" length="4501">
+      <highlight index="0" start="565" length="2034"/>
+      <highlight index="1" start="2579" length="1777"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to run"/>
+        <subtitle lang="ng" line="I love to run"/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x643;&#x636;"/>
+        <subtitle lang="en" line="I love to run"/>
+        <subtitle lang="dk" line="Jeg elsker at l&#xF8;be"/>
+        <subtitle lang="dm" line="I love to run"/>
+        <subtitle lang="sco" line="I love to run"/>
+        <subtitle lang="to" line="I love to run"/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x643;&#x636;"/>
+        <subtitle lang="ws" line="I love to run"/>
+        <subtitle lang="sl" line="I love to run"/>
+        <subtitle lang="ca" line="I love to run"/>
+        <subtitle lang="zm" line="I love to run"/>
+        <subtitle lang="nz" line="I love to run"/>
+        <subtitle lang="na" line="I love to run"/>
+        <subtitle lang="bz" line="I love to run"/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x627; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x643;&#x636;"/>
+        <subtitle lang="tt" line="I love to run"/>
+        <subtitle lang="mx" line="Me encanta correr"/>
+        <subtitle lang="gh" line="I love to run"/>
+        <subtitle lang="ag" line="I love to run"/>
+        <subtitle lang="mu" line="I love to run"/>
+        <subtitle lang="sa" line="I love to run"/>
+        <subtitle lang="zw" line="I love to run"/>
+        <subtitle lang="ke" line="I love to run"/>
+        <subtitle lang="bw" line="I love to run"/>
+        <subtitle lang="ug" line="I love to run"/>
+        <subtitle lang="au" line="I love to run"/>
+        <subtitle lang="lb" line="I love to run"/>
+        <subtitle lang="nl" line="Ik ren heel graag"/>
+        <subtitle lang="gm" line="I love to run"/>
+        <subtitle lang="bd" line="I love to run"/>
+        <subtitle lang="pk" line="I love to run"/>
+        <subtitle lang="vc" line="I love to run"/>
+        <subtitle lang="bs" line="I love to run"/>
+        <subtitle lang="us" line="I love to run"/>
+        <subtitle lang="mt" line="I love to run"/>
+        <subtitle lang="za" line="I love to run"/>
+        <subtitle lang="sb" line="I love to run"/>
+        <subtitle lang="tz" line="I love to run"/>
+        <subtitle lang="sg" line="I love to run"/>
+        <subtitle lang="vu" line="I love to run"/>
+        <subtitle lang="jm" line="I love to run"/>
+        <subtitle lang="fj" line="I love to run"/>
+        <subtitle lang="rw" line="I love to run"/>
+      <subtitle lang="cl" line="Me encanta correr"/><subtitle lang="es" line="Me encanta correr"/><subtitle lang="co" line="Me encanta correr"/><subtitle lang="gt" line="Me encanta correr"/><subtitle lang="pe" line="Me encanta correr"/><subtitle lang="ni" line="Me encanta correr"/><subtitle lang="do" line="Me encanta correr"/><subtitle lang="bo" line="Me encanta correr"/><subtitle lang="ve" line="Me encanta correr"/><subtitle lang="ar" line="Me encanta correr"/><subtitle lang="cu" line="Me encanta correr"/><subtitle lang="pr" line="Me encanta correr"/><subtitle lang="py" line="Me encanta correr"/><subtitle lang="ec" line="Me encanta correr"/><subtitle lang="hn" line="Me encanta correr"/><subtitle lang="sv" line="Me encanta correr"/><subtitle lang="cr" line="Me encanta correr"/><subtitle lang="pa" line="Me encanta correr"/>
+			</subtitles>
+    </line>
+    <line words="avec des amis" start="109589" length="3571">
+      <highlight index="0" start="135" length="997"/>
+      <highlight index="1" start="1132" length="627"/>
+      <highlight index="2" start="1769" length="1107"/>
+      <subtitles>
+        <subtitle lang="gy" line="with my friends"/>
+        <subtitle lang="ng" line="with my friends"/>
+        <subtitle lang="lba" line="&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="en" line="with my friends"/>
+        <subtitle lang="dk" line="sammen med mine venner"/>
+        <subtitle lang="dm" line="with my friends"/>
+        <subtitle lang="sco" line="with my friends"/>
+        <subtitle lang="to" line="with my friends"/>
+        <subtitle lang="me" line="&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="ws" line="with my friends"/>
+        <subtitle lang="sl" line="with my friends"/>
+        <subtitle lang="ca" line="with my friends"/>
+        <subtitle lang="zm" line="with my friends"/>
+        <subtitle lang="nz" line="with my friends"/>
+        <subtitle lang="na" line="with my friends"/>
+        <subtitle lang="bz" line="with my friends"/>
+        <subtitle lang="saa" line="&#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;"/>
+        <subtitle lang="tt" line="with my friends"/>
+        <subtitle lang="mx" line="Correr con mis amigos"/>
+        <subtitle lang="gh" line="with my friends"/>
+        <subtitle lang="ag" line="with my friends"/>
+        <subtitle lang="mu" line="with my friends"/>
+        <subtitle lang="sa" line="with my friends"/>
+        <subtitle lang="zw" line="with my friends"/>
+        <subtitle lang="ke" line="with my friends"/>
+        <subtitle lang="bw" line="with my friends"/>
+        <subtitle lang="ug" line="with my friends"/>
+        <subtitle lang="au" line="with my friends"/>
+        <subtitle lang="lb" line="with my friends"/>
+        <subtitle lang="nl" line="met mijn vrienden"/>
+        <subtitle lang="gm" line="with my friends"/>
+        <subtitle lang="bd" line="with my friends"/>
+        <subtitle lang="pk" line="with my friends"/>
+        <subtitle lang="vc" line="with my friends"/>
+        <subtitle lang="bs" line="with my friends"/>
+        <subtitle lang="us" line="with my friends"/>
+        <subtitle lang="mt" line="with my friends"/>
+        <subtitle lang="za" line="with my friends"/>
+        <subtitle lang="sb" line="with my friends"/>
+        <subtitle lang="tz" line="with my friends"/>
+        <subtitle lang="sg" line="with my friends"/>
+        <subtitle lang="vu" line="with my friends"/>
+        <subtitle lang="jm" line="with my friends"/>
+        <subtitle lang="fj" line="with my friends"/>
+        <subtitle lang="rw" line="with my friends"/>
+      <subtitle lang="cl" line="Correr con mis amigos"/><subtitle lang="es" line="Correr con mis amigos"/><subtitle lang="co" line="Correr con mis amigos"/><subtitle lang="gt" line="Correr con mis amigos"/><subtitle lang="pe" line="Correr con mis amigos"/><subtitle lang="ni" line="Correr con mis amigos"/><subtitle lang="do" line="Correr con mis amigos"/><subtitle lang="bo" line="Correr con mis amigos"/><subtitle lang="ve" line="Correr con mis amigos"/><subtitle lang="ar" line="Correr con mis amigos"/><subtitle lang="cu" line="Correr con mis amigos"/><subtitle lang="pr" line="Correr con mis amigos"/><subtitle lang="py" line="Correr con mis amigos"/><subtitle lang="ec" line="Correr con mis amigos"/><subtitle lang="hn" line="Correr con mis amigos"/><subtitle lang="sv" line="Correr con mis amigos"/><subtitle lang="cr" line="Correr con mis amigos"/><subtitle lang="pa" line="Correr con mis amigos"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="113470" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio , En el patio "/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio , En el patio "/><subtitle lang="es" line="En el patio , En el patio "/><subtitle lang="co" line="En el patio , En el patio "/><subtitle lang="gt" line="En el patio , En el patio "/><subtitle lang="pe" line="En el patio , En el patio "/><subtitle lang="ni" line="En el patio , En el patio "/><subtitle lang="do" line="En el patio , En el patio "/><subtitle lang="bo" line="En el patio , En el patio "/><subtitle lang="ve" line="En el patio , En el patio "/><subtitle lang="ar" line="En el patio , En el patio "/><subtitle lang="cu" line="En el patio , En el patio "/><subtitle lang="pr" line="En el patio , En el patio "/><subtitle lang="py" line="En el patio , En el patio "/><subtitle lang="ec" line="En el patio , En el patio "/><subtitle lang="hn" line="En el patio , En el patio "/><subtitle lang="sv" line="En el patio , En el patio "/><subtitle lang="cr" line="En el patio , En el patio "/><subtitle lang="pa" line="En el patio , En el patio "/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="117971" length="4191">
+      <highlight index="0" start="36" length="513"/>
+      <highlight index="1" start="533" length="283"/>
+      <highlight index="2" start="790" length="869"/>
+      <highlight index="3" start="1911" length="526"/>
+      <highlight index="4" start="2413" length="257"/>
+      <highlight index="5" start="2646" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio "/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio "/><subtitle lang="es" line="En el patio, En el patio "/><subtitle lang="co" line="En el patio, En el patio "/><subtitle lang="gt" line="En el patio, En el patio "/><subtitle lang="pe" line="En el patio, En el patio "/><subtitle lang="ni" line="En el patio, En el patio "/><subtitle lang="do" line="En el patio, En el patio "/><subtitle lang="bo" line="En el patio, En el patio "/><subtitle lang="ve" line="En el patio, En el patio "/><subtitle lang="ar" line="En el patio, En el patio "/><subtitle lang="cu" line="En el patio, En el patio "/><subtitle lang="pr" line="En el patio, En el patio "/><subtitle lang="py" line="En el patio, En el patio "/><subtitle lang="ec" line="En el patio, En el patio "/><subtitle lang="hn" line="En el patio, En el patio "/><subtitle lang="sv" line="En el patio, En el patio "/><subtitle lang="cr" line="En el patio, En el patio "/><subtitle lang="pa" line="En el patio, En el patio "/>
+			</subtitles>
+    </line>
+    <line words="J'adore jouer" start="121697" length="3880">
+      <highlight index="0" start="52" length="1652"/>
+      <highlight index="1" start="2200" length="1248"/>
+      <subtitles>
+        <subtitle lang="gy" line="I love to play"/>
+        <subtitle lang="ng" line="I love to play"/>
+        <subtitle lang="lba" line="I love to play"/>
+        <subtitle lang="en" line="I love to play"/>
+        <subtitle lang="dk" line="Jeg elsker at lege"/>
+        <subtitle lang="dm" line="I love to play"/>
+        <subtitle lang="sco" line="I love to play"/>
+        <subtitle lang="to" line="I love to play"/>
+        <subtitle lang="me" line="I love to play"/>
+        <subtitle lang="ws" line="I love to play"/>
+        <subtitle lang="sl" line="I love to play"/>
+        <subtitle lang="ca" line="I love to play"/>
+        <subtitle lang="zm" line="I love to play"/>
+        <subtitle lang="nz" line="I love to play"/>
+        <subtitle lang="na" line="I love to play"/>
+        <subtitle lang="bz" line="I love to play"/>
+        <subtitle lang="saa" line="I love to play"/>
+        <subtitle lang="tt" line="I love to play"/>
+        <subtitle lang="mx" line="Me encanta jugar"/>
+        <subtitle lang="gh" line="I love to play"/>
+        <subtitle lang="ag" line="I love to play"/>
+        <subtitle lang="mu" line="I love to play"/>
+        <subtitle lang="sa" line="I love to play"/>
+        <subtitle lang="zw" line="I love to play"/>
+        <subtitle lang="ke" line="I love to play"/>
+        <subtitle lang="bw" line="I love to play"/>
+        <subtitle lang="ug" line="I love to play"/>
+        <subtitle lang="au" line="I love to play"/>
+        <subtitle lang="lb" line="I love to play"/>
+        <subtitle lang="nl" line="Ik speel heel graag"/>
+        <subtitle lang="gm" line="I love to play"/>
+        <subtitle lang="bd" line="I love to play"/>
+        <subtitle lang="pk" line="I love to play"/>
+        <subtitle lang="vc" line="I love to play"/>
+        <subtitle lang="bs" line="I love to play"/>
+        <subtitle lang="us" line="I love to play"/>
+        <subtitle lang="mt" line="I love to play"/>
+        <subtitle lang="za" line="I love to play"/>
+        <subtitle lang="sb" line="I love to play"/>
+        <subtitle lang="tz" line="I love to play"/>
+        <subtitle lang="sg" line="I love to play"/>
+        <subtitle lang="vu" line="I love to play"/>
+        <subtitle lang="jm" line="I love to play"/>
+        <subtitle lang="fj" line="I love to play"/>
+        <subtitle lang="rw" line="I love to play"/>
+      <subtitle lang="cl" line="Me encanta jugar"/><subtitle lang="es" line="Me encanta jugar"/><subtitle lang="co" line="Me encanta jugar"/><subtitle lang="gt" line="Me encanta jugar"/><subtitle lang="pe" line="Me encanta jugar"/><subtitle lang="ni" line="Me encanta jugar"/><subtitle lang="do" line="Me encanta jugar"/><subtitle lang="bo" line="Me encanta jugar"/><subtitle lang="ve" line="Me encanta jugar"/><subtitle lang="ar" line="Me encanta jugar"/><subtitle lang="cu" line="Me encanta jugar"/><subtitle lang="pr" line="Me encanta jugar"/><subtitle lang="py" line="Me encanta jugar"/><subtitle lang="ec" line="Me encanta jugar"/><subtitle lang="hn" line="Me encanta jugar"/><subtitle lang="sv" line="Me encanta jugar"/><subtitle lang="cr" line="Me encanta jugar"/><subtitle lang="pa" line="Me encanta jugar"/>
+			</subtitles>
+    </line>
+    <line words="au chat avec eux" start="125577" length="3726">
+      <highlight index="0" start="223" length="496"/>
+      <highlight index="1" start="751" length="441"/>
+      <highlight index="2" start="1187" length="730"/>
+      <highlight index="3" start="1922" length="1133"/>
+      <subtitles>
+        <subtitle lang="gy" line="chase with them"/>
+        <subtitle lang="ng" line="chase with them"/>
+        <subtitle lang="lba" line="tag with them"/>
+        <subtitle lang="en" line="chase with them"/>
+        <subtitle lang="dk" line="fangeleg med dem"/>
+        <subtitle lang="dm" line="chase with them"/>
+        <subtitle lang="sco" line="chase with them"/>
+        <subtitle lang="to" line="chase with them"/>
+        <subtitle lang="me" line="tag with them"/>
+        <subtitle lang="ws" line="chase with them"/>
+        <subtitle lang="sl" line="chase with them"/>
+        <subtitle lang="ca" line="chase with them"/>
+        <subtitle lang="zm" line="chase with them"/>
+        <subtitle lang="nz" line="chase with them"/>
+        <subtitle lang="na" line="chase with them"/>
+        <subtitle lang="bz" line="chase with them"/>
+        <subtitle lang="saa" line="tag with them"/>
+        <subtitle lang="tt" line="chase with them"/>
+        <subtitle lang="mx" line="Jugar a la pinta con mis amigos"/>
+        <subtitle lang="gh" line="chase with them"/>
+        <subtitle lang="ag" line="chase with them"/>
+        <subtitle lang="mu" line="chase with them"/>
+        <subtitle lang="sa" line="chase with them"/>
+        <subtitle lang="zw" line="chase with them"/>
+        <subtitle lang="ke" line="chase with them"/>
+        <subtitle lang="bw" line="chase with them"/>
+        <subtitle lang="ug" line="chase with them"/>
+        <subtitle lang="au" line="chase with them"/>
+        <subtitle lang="lb" line="chase with them"/>
+        <subtitle lang="nl" line="tikkertje met mijn vrienden"/>
+        <subtitle lang="gm" line="chase with them"/>
+        <subtitle lang="bd" line="chase with them"/>
+        <subtitle lang="pk" line="chase with them"/>
+        <subtitle lang="vc" line="chase with them"/>
+        <subtitle lang="bs" line="chase with them"/>
+        <subtitle lang="us" line="chase with them"/>
+        <subtitle lang="mt" line="chase with them"/>
+        <subtitle lang="za" line="chase with them"/>
+        <subtitle lang="sb" line="chase with them"/>
+        <subtitle lang="tz" line="chase with them"/>
+        <subtitle lang="sg" line="chase with them"/>
+        <subtitle lang="vu" line="chase with them"/>
+        <subtitle lang="jm" line="chase with them"/>
+        <subtitle lang="fj" line="chase with them"/>
+        <subtitle lang="rw" line="chase with them"/>
+      <subtitle lang="cl" line="Jugar a la pinta con mis amigos"/><subtitle lang="es" line="Jugar a la pinta con mis amigos"/><subtitle lang="co" line="Jugar a la pinta con mis amigos"/><subtitle lang="gt" line="Jugar a la pinta con mis amigos"/><subtitle lang="pe" line="Jugar a la pinta con mis amigos"/><subtitle lang="ni" line="Jugar a la pinta con mis amigos"/><subtitle lang="do" line="Jugar a la pinta con mis amigos"/><subtitle lang="bo" line="Jugar a la pinta con mis amigos"/><subtitle lang="ve" line="Jugar a la pinta con mis amigos"/><subtitle lang="ar" line="Jugar a la pinta con mis amigos"/><subtitle lang="cu" line="Jugar a la pinta con mis amigos"/><subtitle lang="pr" line="Jugar a la pinta con mis amigos"/><subtitle lang="py" line="Jugar a la pinta con mis amigos"/><subtitle lang="ec" line="Jugar a la pinta con mis amigos"/><subtitle lang="hn" line="Jugar a la pinta con mis amigos"/><subtitle lang="sv" line="Jugar a la pinta con mis amigos"/><subtitle lang="cr" line="Jugar a la pinta con mis amigos"/><subtitle lang="pa" line="Jugar a la pinta con mis amigos"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="129458" length="4501">
+      <highlight index="0" start="434" length="513"/>
+      <highlight index="1" start="934" length="283"/>
+      <highlight index="2" start="1197" length="869"/>
+      <highlight index="3" start="2487" length="526"/>
+      <highlight index="4" start="2993" length="257"/>
+      <highlight index="5" start="3237" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="dans la cour, dans la cour" start="133959" length="3571">
+      <highlight index="0" start="36" length="513"/>
+      <highlight index="1" start="533" length="283"/>
+      <highlight index="2" start="790" length="869"/>
+      <highlight index="3" start="1911" length="526"/>
+      <highlight index="4" start="2413" length="257"/>
+      <highlight index="5" start="2646" length="914"/>
+      <subtitles>
+        <subtitle lang="gy" line="in the playground, in the playground"/>
+        <subtitle lang="ng" line="in the playground, in the playground"/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="en" line="in the playground, in the playground"/>
+        <subtitle lang="dk" line="p&#xE5; legepladsen, p&#xE5; legepladsen"/>
+        <subtitle lang="dm" line="in the playground, in the playground"/>
+        <subtitle lang="sco" line="in the playground, in the playground"/>
+        <subtitle lang="to" line="in the playground, in the playground"/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="ws" line="in the playground, in the playground"/>
+        <subtitle lang="sl" line="in the playground, in the playground"/>
+        <subtitle lang="ca" line="in the playground, in the playground"/>
+        <subtitle lang="zm" line="in the playground, in the playground"/>
+        <subtitle lang="nz" line="in the playground, in the playground"/>
+        <subtitle lang="na" line="in the playground, in the playground"/>
+        <subtitle lang="bz" line="in the playground, in the playground"/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629; &#x60C; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x62D;&#x629;"/>
+        <subtitle lang="tt" line="in the playground, in the playground"/>
+        <subtitle lang="mx" line="En el patio, En el patio"/>
+        <subtitle lang="gh" line="in the playground, in the playground"/>
+        <subtitle lang="ag" line="in the playground, in the playground"/>
+        <subtitle lang="mu" line="in the playground, in the playground"/>
+        <subtitle lang="sa" line="in the playground, in the playground"/>
+        <subtitle lang="zw" line="in the playground, in the playground"/>
+        <subtitle lang="ke" line="in the playground, in the playground"/>
+        <subtitle lang="bw" line="in the playground, in the playground"/>
+        <subtitle lang="ug" line="in the playground, in the playground"/>
+        <subtitle lang="au" line="in the playground, in the playground"/>
+        <subtitle lang="lb" line="in the playground, in the playground"/>
+        <subtitle lang="nl" line="op het speelplein, op het speelplein"/>
+        <subtitle lang="gm" line="in the playground, in the playground"/>
+        <subtitle lang="bd" line="in the playground, in the playground"/>
+        <subtitle lang="pk" line="in the playground, in the playground"/>
+        <subtitle lang="vc" line="in the playground, in the playground"/>
+        <subtitle lang="bs" line="in the playground, in the playground"/>
+        <subtitle lang="us" line="in the playground, in the playground"/>
+        <subtitle lang="mt" line="in the playground, in the playground"/>
+        <subtitle lang="za" line="in the playground, in the playground"/>
+        <subtitle lang="sb" line="in the playground, in the playground"/>
+        <subtitle lang="tz" line="in the playground, in the playground"/>
+        <subtitle lang="sg" line="in the playground, in the playground"/>
+        <subtitle lang="vu" line="in the playground, in the playground"/>
+        <subtitle lang="jm" line="in the playground, in the playground"/>
+        <subtitle lang="fj" line="in the playground, in the playground"/>
+        <subtitle lang="rw" line="in the playground, in the playground"/>
+      <subtitle lang="cl" line="En el patio, En el patio"/><subtitle lang="es" line="En el patio, En el patio"/><subtitle lang="co" line="En el patio, En el patio"/><subtitle lang="gt" line="En el patio, En el patio"/><subtitle lang="pe" line="En el patio, En el patio"/><subtitle lang="ni" line="En el patio, En el patio"/><subtitle lang="do" line="En el patio, En el patio"/><subtitle lang="bo" line="En el patio, En el patio"/><subtitle lang="ve" line="En el patio, En el patio"/><subtitle lang="ar" line="En el patio, En el patio"/><subtitle lang="cu" line="En el patio, En el patio"/><subtitle lang="pr" line="En el patio, En el patio"/><subtitle lang="py" line="En el patio, En el patio"/><subtitle lang="ec" line="En el patio, En el patio"/><subtitle lang="hn" line="En el patio, En el patio"/><subtitle lang="sv" line="En el patio, En el patio"/><subtitle lang="cr" line="En el patio, En el patio"/><subtitle lang="pa" line="En el patio, En el patio"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="137840" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+    <line words="mais je pr&#xE9;f&#xE8;re chanter seul(e)" start="145757" length="6174">
+      <highlight index="0" start="72" length="1146"/>
+      <highlight index="1" start="1146" length="370"/>
+      <highlight index="2" start="1480" length="1417"/>
+      <highlight index="3" start="2879" length="1047"/>
+      <highlight index="4" start="3881" length="1083"/>
+      <subtitles>
+        <subtitle lang="gy" line="but I prefer to sing alone"/>
+        <subtitle lang="ng" line="but I prefer to sing alone"/>
+        <subtitle lang="lba" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="en" line="but I prefer to sing alone"/>
+        <subtitle lang="dk" line="men jeg vil helst synge alene"/>
+        <subtitle lang="dm" line="but I prefer to sing alone"/>
+        <subtitle lang="sco" line="but I prefer to sing alone"/>
+        <subtitle lang="to" line="but I prefer to sing alone"/>
+        <subtitle lang="me" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="ws" line="but I prefer to sing alone"/>
+        <subtitle lang="sl" line="but I prefer to sing alone"/>
+        <subtitle lang="ca" line="but I prefer to sing alone"/>
+        <subtitle lang="zm" line="but I prefer to sing alone"/>
+        <subtitle lang="nz" line="but I prefer to sing alone"/>
+        <subtitle lang="na" line="but I prefer to sing alone"/>
+        <subtitle lang="bz" line="but I prefer to sing alone"/>
+        <subtitle lang="saa" line="&#x648;&#x644;&#x643;&#x646;&#x646;&#x64A; &#x623;&#x641;&#x636;&#x644; &#x623;&#x646; &#x623;&#x63A;&#x646;&#x64A; &#x644;&#x648;&#x62D;&#x62F;&#x64A; "/>
+        <subtitle lang="tt" line="but I prefer to sing alone"/>
+        <subtitle lang="mx" line="Pero prefiero cantar solo"/>
+        <subtitle lang="gh" line="but I prefer to sing alone"/>
+        <subtitle lang="ag" line="but I prefer to sing alone"/>
+        <subtitle lang="mu" line="but I prefer to sing alone"/>
+        <subtitle lang="sa" line="but I prefer to sing alone"/>
+        <subtitle lang="zw" line="but I prefer to sing alone"/>
+        <subtitle lang="ke" line="but I prefer to sing alone"/>
+        <subtitle lang="bw" line="but I prefer to sing alone"/>
+        <subtitle lang="ug" line="but I prefer to sing alone"/>
+        <subtitle lang="au" line="but I prefer to sing alone"/>
+        <subtitle lang="lb" line="but I prefer to sing alone"/>
+        <subtitle lang="nl" line="maar ja zingen doe ik liever alleen"/>
+        <subtitle lang="gm" line="but I prefer to sing alone"/>
+        <subtitle lang="bd" line="but I prefer to sing alone"/>
+        <subtitle lang="pk" line="but I prefer to sing alone"/>
+        <subtitle lang="vc" line="but I prefer to sing alone"/>
+        <subtitle lang="bs" line="but I prefer to sing alone"/>
+        <subtitle lang="us" line="but I prefer to sing alone"/>
+        <subtitle lang="mt" line="but I prefer to sing alone"/>
+        <subtitle lang="za" line="but I prefer to sing alone"/>
+        <subtitle lang="sb" line="but I prefer to sing alone"/>
+        <subtitle lang="tz" line="but I prefer to sing alone"/>
+        <subtitle lang="sg" line="but I prefer to sing alone"/>
+        <subtitle lang="vu" line="but I prefer to sing alone"/>
+        <subtitle lang="jm" line="but I prefer to sing alone"/>
+        <subtitle lang="fj" line="but I prefer to sing alone"/>
+        <subtitle lang="rw" line="but I prefer to sing alone"/>
+      <subtitle lang="cl" line="Pero prefiero cantar solo"/><subtitle lang="es" line="Pero prefiero cantar solo"/><subtitle lang="co" line="Pero prefiero cantar solo"/><subtitle lang="gt" line="Pero prefiero cantar solo"/><subtitle lang="pe" line="Pero prefiero cantar solo"/><subtitle lang="ni" line="Pero prefiero cantar solo"/><subtitle lang="do" line="Pero prefiero cantar solo"/><subtitle lang="bo" line="Pero prefiero cantar solo"/><subtitle lang="ve" line="Pero prefiero cantar solo"/><subtitle lang="ar" line="Pero prefiero cantar solo"/><subtitle lang="cu" line="Pero prefiero cantar solo"/><subtitle lang="pr" line="Pero prefiero cantar solo"/><subtitle lang="py" line="Pero prefiero cantar solo"/><subtitle lang="ec" line="Pero prefiero cantar solo"/><subtitle lang="hn" line="Pero prefiero cantar solo"/><subtitle lang="sv" line="Pero prefiero cantar solo"/><subtitle lang="cr" line="Pero prefiero cantar solo"/><subtitle lang="pa" line="Pero prefiero cantar solo"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

@@ -1,0 +1,533 @@
+<karaoke length="76303">
+  <lines>
+    <line words="The Ghost" start="0" length="3661" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="tg" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="ve" line="El Fantasma"/>
+        <subtitle lang="cc" line="幽灵"/>
+        <subtitle lang="pe" line="El Fantasma"/>
+        <subtitle lang="ni" line="El Fantasma"/>
+        <subtitle lang="so" line="Reer-aakhiraadQortay Sophie Mills"/>
+        <subtitle lang="es" line="El Fantasma"/>
+        <subtitle lang="bo" line="El Fantasma"/>
+        <subtitle lang="mx" line="El Fantasma"/>
+        <subtitle lang="dk" line="Spøgelset"/>
+        <subtitle lang="co" line="El Fantasma"/>
+        <subtitle lang="pyi" line="Yōulíng"/>
+        <subtitle lang="ne" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="do" line="El Fantasma"/>
+        <subtitle lang="sv" line="El Fantasma"/>
+        <subtitle lang="mg" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="pr" line="El Fantasma"/>
+        <subtitle lang="bi" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="ci" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="ec" line="El Fantasma"/>
+        <subtitle lang="gt" line="El Fantasma"/>
+        <subtitle lang="sn" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="ar" line="El Fantasma"/>
+        <subtitle lang="hn" line="El Fantasma"/>
+        <subtitle lang="py" line="El Fantasma"/>
+        <subtitle lang="cd" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="sp" line="El Fantasma"/>
+        <subtitle lang="nl" line="Het spook"/>
+        <subtitle lang="bj" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="pa" line="El Fantasma"/>
+        <subtitle lang="fr" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="cn" line="幽灵"/>
+        <subtitle lang="ml" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="cu" line="El Fantasma"/>
+        <subtitle lang="cr" line="El Fantasma"/>
+        <subtitle lang="bf" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="dj" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="cm" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="ga" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="lbr" line="Le FantômePar Sophie Mills"/>
+        <subtitle lang="cl" line="El Fantasma"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="995" length="200"/>
+        <highlight index="1" start="1191" length="822"/>
+      </highlights>
+    </line>
+    <line words="It is midnight, there is a ghost in our school." start="3661" length="6735" useLNutResource="true" useStoryResource="false" image="19#1#1">
+      <subtitles>
+        <subtitle lang="tg" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="ve" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="cc" line="现在是半夜。我们的学校里有一个幽灵。"/>
+        <subtitle lang="pe" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="ni" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="cn" line="在傍晚，学校里有幽灵出没。"/>
+        <subtitle lang="so" line="Waa habeen dhexe, waxaa joogay iskuulka reer-aakhiraad."/>
+        <subtitle lang="es" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="bo" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="do" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="dk" line="Det er midnat, og der er et spøgelse på skolen."/>
+        <subtitle lang="co" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="pyi" line="Xiànzài shì bànyè。 wǒmen de xuéxiào li yǒu yīgè yōulíng."/>
+        <subtitle lang="ht" line="Li minwi. Gen yon zonbi nan lekòl nou an."/>
+        <subtitle lang="ne" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="mx" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="cu" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="saa" line="إنه منتصف الليل، وهناك شبح في مدرستنا."/>
+        <subtitle lang="py" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="mg" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="pr" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="me" line="إنه منتصف الليل، وهناك شبح في مدرستنا."/>
+        <subtitle lang="sv" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="ec" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="gt" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="ml" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="ar" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="hn" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="ci" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="cd" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="sp" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="pt" line="É meia-noite. Há um fantasma na nossa escola."/>
+        <subtitle lang="cl" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="bj" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="pa" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="fr" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="bi" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="nl" line="Het is middernacht en er is een spook in onze school."/>
+        <subtitle lang="sn" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="lba" line="إنه منتصف الليل، وهناك شبح في مدرستنا."/>
+        <subtitle lang="cr" line="Es media noche, hay un fantasma en nuestra escuela."/>
+        <subtitle lang="bf" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="dj" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="cm" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="ga" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="lbr" line="Il est minuit, il y a un fantôme dans notre école."/>
+        <subtitle lang="in" line="आधी रात का समय है। हमारे स्कूल में एक भूत है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1900" length="200"/>
+        <highlight index="1" start="2066" length="200"/>
+        <highlight index="2" start="2222" length="721"/>
+        <highlight index="3" start="3791" length="341"/>
+        <highlight index="4" start="4093" length="200"/>
+        <highlight index="5" start="4249" length="107"/>
+        <highlight index="6" start="4327" length="473"/>
+        <highlight index="7" start="4795" length="136"/>
+        <highlight index="8" start="4921" length="166"/>
+        <highlight index="9" start="5067" length="653"/>
+      </highlights>
+    </line>
+    <line words="He is in the library and the entrance." start="10396" length="6865" useLNutResource="true" useStoryResource="false" image="23#4#7">
+      <subtitles>
+        <subtitle lang="tg" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="ve" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="cc" line="他在图书馆和入口。"/>
+        <subtitle lang="pe" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="ni" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="cn" line="他在图书馆和入口。"/>
+        <subtitle lang="so" line="Waxuu joogaa maktabata iyo albaabka lag soo galo."/>
+        <subtitle lang="es" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="bo" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="do" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="dk" line="Han er på biblioteket og ved indgangen."/>
+        <subtitle lang="co" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="pyi" line="Tā zài túshū guǎn hé rùkǒu."/>
+        <subtitle lang="ht" line="Li nan bibliyotèk la ak devan pòt la."/>
+        <subtitle lang="ne" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="mx" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="cu" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="saa" line="انه في المكتبة والمدخل."/>
+        <subtitle lang="py" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="mg" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="pr" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="me" line="انه في المكتبة والمدخل."/>
+        <subtitle lang="sv" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="ec" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="gt" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="ml" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="ar" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="hn" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="ci" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="cd" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="sp" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="pt" line="Ele está na biblioteca e na entrada."/>
+        <subtitle lang="cl" line="Está en la biblioteca y a la entrada."/>
+        <subtitle lang="bj" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="pa" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="fr" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="bi" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="nl" line="Hij is in de bibliotheek en bij de ingang."/>
+        <subtitle lang="sn" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="lba" line="انه في المكتبة والمدخل."/>
+        <subtitle lang="cr" line="Él está en la biblioteca y a la entrada."/>
+        <subtitle lang="bf" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="dj" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="cm" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="ga" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="lbr" line="Il est à la bibliothèque, et à l’entrée."/>
+        <subtitle lang="in" line="वह पुस्तकालय और प्रवेश द्वार में है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2443" length="200"/>
+        <highlight index="1" start="2632" length="129"/>
+        <highlight index="2" start="2721" length="159"/>
+        <highlight index="3" start="2861" length="178"/>
+        <highlight index="4" start="3000" length="725"/>
+        <highlight index="5" start="4520" length="268"/>
+        <highlight index="6" start="4758" length="169"/>
+        <highlight index="7" start="4907" length="914"/>
+      </highlights>
+    </line>
+    <line words="He likes sport, art, French and geography. He hates maths, history, science and technology." start="17130" length="12750" useLNutResource="true" useStoryResource="false" image="19#4#4">
+      <subtitles>
+        <subtitle lang="tg" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="ve" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="cc" line="他喜欢体育，美术，法语和地理。他讨厌数学，历史，科学和技术。"/>
+        <subtitle lang="pe" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="ni" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="cn" line="他喜欢体育，美术，法语和地理。他讨厌数学，历史，科学和技术。"/>
+        <subtitle lang="so" line="Waxuu jecelyahay cayaaraha, farsha-xanka, Fransiiska iyo Joqraafiga. Waxuu nacbanyahay xisaabta, taariikhda sayniska iyo cilmiga farsamada."/>
+        <subtitle lang="es" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="bo" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="do" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="dk" line="Han kan godt lide sport, billedkunst, fransk og geografi. Han hader matematik, historie, natur/teknik og teknologi."/>
+        <subtitle lang="co" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="pyi" line="Tā xǐhuan tǐyù, měishù, fǎyǔ hé dìlǐ, tā tǎoyàn shùxué, lìshǐ, kēxué hé jìshù."/>
+        <subtitle lang="ht" line="Li renmen jwe espò, fè desen, fransè ak jewografi. Li rayi matematik, istwa, syans ak teknoloji. "/>
+        <subtitle lang="ne" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="mx" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="cu" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="saa" line="انه يحب الرياضة والفن والفرنسية والجغرافيا. انه يكره الرياضيات والتاريخ والعلوم والتكنولوجيا."/>
+        <subtitle lang="py" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="mg" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="pr" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="me" line="انه يحب الرياضة والفن والفرنسية والجغرافيا. انه يكره الرياضيات والتاريخ والعلوم والتكنولوجيا."/>
+        <subtitle lang="sv" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="ec" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="gt" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="ml" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="ar" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="hn" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="ci" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="cd" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="sp" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="pt" line="Ele gosta de esporte, arte, francês e geografia. Ele odeia matemática, história, ciência e tecnologia."/>
+        <subtitle lang="cl" line="Le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="bj" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="pa" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="fr" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="bi" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="nl" line="Hij houdt van gym, tekenen, Frans en aardrijkskunde. Hij haat wiskunde, geschiedenis, natuurkunde en techniek."/>
+        <subtitle lang="sn" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="lba" line="انه يحب الرياضة والفن والفرنسية والجغرافيا. انه يكره الرياضيات والتاريخ والعلوم والتكنولوجيا."/>
+        <subtitle lang="cr" line="A él le gustan los deportes, el arte, el francés y la geografía. Odia las matemáticas, la historia, las ciencias naturales y la tecnología."/>
+        <subtitle lang="bf" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="dj" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="cm" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="ga" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="lbr" line="Il aime le sport, l’art, le français et la géographie. Il déteste les maths, la science et la technologie."/>
+        <subtitle lang="in" line="उसे खेल, कला, फ्रेंच और भूगोल पसंद है। उसे गणित, इतिहास, विज्ञान और प्रौद्योगिकी से नफ़रत है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2583" length="239"/>
+        <highlight index="1" start="2749" length="350"/>
+        <highlight index="2" start="3062" length="757"/>
+        <highlight index="3" start="3911" length="664"/>
+        <highlight index="4" start="4870" length="717"/>
+        <highlight index="5" start="5498" length="295"/>
+        <highlight index="6" start="5738" length="793"/>
+        <highlight index="7" start="7121" length="203"/>
+        <highlight index="8" start="7287" length="606"/>
+        <highlight index="9" start="7841" length="738"/>
+        <highlight index="10" start="8523" length="736"/>
+        <highlight index="11" start="9630" length="808"/>
+        <highlight index="12" start="10498" length="295"/>
+        <highlight index="13" start="10738" length="974"/>
+      </highlights>
+    </line>
+    <line words="Yesterday at midday in the canteen I ate and drank with my friends and I heard him in the kitchen." start="29815" length="11180" useLNutResource="true" useStoryResource="false" image="21#2#1">
+      <subtitles>
+        <subtitle lang="tg" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="ve" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="cc" line="昨天中午我和我的朋友们在饭厅里吃喝而且我可以听到他在厨房。"/>
+        <subtitle lang="pe" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="ni" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="cn" line="昨天中午，我和我的朋友们在餐厅里吃饭喝饮料，接着我听到他在厨房的声音。"/>
+        <subtitle lang="so" line="Shalay martamaha maalinta, waxaan cunta iyo cabitaan ku cunaayay aniga iyo asxaabteyda, maqaaxida iskuulka, waxaan maqlay in uu kushiinka ku jiro."/>
+        <subtitle lang="es" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="bo" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="do" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="dk" line="I går sad jeg i kantinen til middag og spiste og drak sammen med mine venner, og jeg hørte ham i køkkenet. "/>
+        <subtitle lang="co" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="pyi" line="Zuótiān zhōngwǔ wǒ hé wǒ de péngyǒumen zài fàntīng lǐ chīhē érqiě wǒ kěyǐ tīng dào tā zài chúfáng."/>
+        <subtitle lang="ht" line="Ayè, a midi, mwen t ap manje nan kantin nan ak zanmi m yo, epi m tande l nan kizin nan."/>
+        <subtitle lang="ne" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="mx" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="cu" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="saa" line="بالأمس في منتصف النهار في المطعم أكلت وشربت مع أصدقائي ولقد سمعته في المطبخ."/>
+        <subtitle lang="py" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="mg" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="pr" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="me" line="بالأمس في منتصف النهار في المطعم أكلت وشربت مع أصدقائي ولقد سمعته في المطبخ."/>
+        <subtitle lang="sv" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="ec" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="gt" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="ml" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="ar" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="hn" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="ci" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="cd" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="sp" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="pt" line="Ontem ao meio-dia na cantina, eu comi e bebi com os meus amigos, e ouvi-lo na cozinha."/>
+        <subtitle lang="cl" line="Ayer a mediodía en la cafetería, comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="bj" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="pa" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="fr" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="bi" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="nl" line="Gistermiddag zat ik in de kantine te eten en te drinken met mijn vrienden en toen hoorde ik hem in de keuken."/>
+        <subtitle lang="sn" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="lba" line="بالأمس في منتصف النهار في المطعم أكلت وشربت مع أصدقائي ولقد سمعته في المطبخ."/>
+        <subtitle lang="cr" line="Ayer a mediodía en la cafetería, me comí y bebí con mis amigos y lo escuchamos en la cocina."/>
+        <subtitle lang="bf" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="dj" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="cm" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="ga" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="lbr" line="Hier à midi, à la cantine j’ai mangé et j’ai bu avec mes amis, et je l’ai entendu dans la cuisine."/>
+        <subtitle lang="in" line="कल दोपहर कैंटीन में मैंने अपने दोस्तों के साथ खाया और पिया और मैंने रसोई में उसकी आवाज़ सुनी।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2442" length="750"/>
+        <highlight index="1" start="3607" length="259"/>
+        <highlight index="2" start="3866" length="760"/>
+        <highlight index="3" start="4578" length="200"/>
+        <highlight index="4" start="4707" length="200"/>
+        <highlight index="5" start="4837" length="734"/>
+        <highlight index="6" start="5824" length="200"/>
+        <highlight index="7" start="5985" length="486"/>
+        <highlight index="8" start="6455" length="113"/>
+        <highlight index="9" start="6503" length="340"/>
+        <highlight index="10" start="6778" length="194"/>
+        <highlight index="11" start="6940" length="210"/>
+        <highlight index="12" start="7102" length="712"/>
+        <highlight index="13" start="8072" length="162"/>
+        <highlight index="14" start="8202" length="145"/>
+        <highlight index="15" start="8299" length="485"/>
+        <highlight index="16" start="8720" length="194"/>
+        <highlight index="17" start="8865" length="243"/>
+        <highlight index="18" start="9043" length="178"/>
+        <highlight index="19" start="9189" length="766"/>
+      </highlights>
+    </line>
+    <line words="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field." start="40864" length="11443" useLNutResource="true" useStoryResource="false" image="19#5#6">
+      <subtitles>
+        <subtitle lang="tg" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="ve" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="cc" line="在休息时间我在运动场玩，我跳舞，唱歌而且我可以听到他在操场。"/>
+        <subtitle lang="pe" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="ni" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="cn" line="课间休息时，我在运动场玩，跳舞，唱歌，我听到了他在操场的声音。"/>
+        <subtitle lang="so" line="Waqtiga cayaarah anagoo joogna garoonka cayaaraha, oo cayaareeyno, muuskda, heeseeyno, waxaan maqlay in uu karoonka joogay. "/>
+        <subtitle lang="es" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="bo" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="do" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="dk" line="I pausen ude på legepladsen legede, dansede og sang jeg, og jeg hørte ham på sportspladsen. "/>
+        <subtitle lang="co" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="pyi" line="Zài xiūxí shíjiān wǒ zài yùndòngchǎng wán, wǒ tiàowǔ, chànggē érqiě wǒ kěyǐ tīng dào tā zài cāochǎng."/>
+        <subtitle lang="ht" line="Nan lakou rekreyasyon an, pandan m t ap jwe, danse, epi chante sou teren an, m  tande l sou teren espò an."/>
+        <subtitle lang="ne" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="mx" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="cu" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="saa" line="في وقت الاستراحة في ساحة الملعب لعبتُ و رقصت وغنيت  ولقد سمعته  في ملعب الرياضة."/>
+        <subtitle lang="py" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="mg" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="pr" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="me" line="في وقت الاستراحة في ساحة الملعب لعبتُ و رقصت وغنيت  ولقد سمعته  في ملعب الرياضة."/>
+        <subtitle lang="sv" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="ec" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="gt" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="ml" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="ar" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="hn" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="ci" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="cd" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="sp" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="pt" line="No recreio eu brinquei, dancei, cantei, e ouvi-lo no campo de esportes."/>
+        <subtitle lang="cl" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="bj" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="pa" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="fr" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="bi" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="nl" line="In de pauze speelde ik op het schoolplein, ik danste, ik zong en toen hoorde ik hem op het sportveld."/>
+        <subtitle lang="sn" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="lba" line="في وقت الاستراحة في ساحة الملعب لعبتُ و رقصت وغنيت  ولقد سمعته  في ملعب الرياضة."/>
+        <subtitle lang="cr" line="En el recreo, en el patio, jugué, bailé, canté y lo escuché en el campo de deportes."/>
+        <subtitle lang="bf" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="dj" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="cm" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="ga" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="lbr" line="A la recréation dans la cour, je jouais, je dansais, je chantais et je l’ai entendu sur le terrain de sport."/>
+        <subtitle lang="in" line="अंतराल के समय खेल के मैदान में मैं खेला, मैं नाचा, मैंने गाया और मैंने खेल के मैदान में उसकी आवाज़ सुनी।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2384" length="182"/>
+        <highlight index="1" start="2516" length="762"/>
+        <highlight index="2" start="3659" length="183"/>
+        <highlight index="3" start="3791" length="200"/>
+        <highlight index="4" start="3941" length="761"/>
+        <highlight index="5" start="4951" length="200"/>
+        <highlight index="6" start="5133" length="761"/>
+        <highlight index="7" start="5845" length="200"/>
+        <highlight index="8" start="6010" length="481"/>
+        <highlight index="9" start="6491" length="200"/>
+        <highlight index="10" start="6656" length="664"/>
+        <highlight index="11" start="7882" length="198"/>
+        <highlight index="12" start="8014" length="149"/>
+        <highlight index="13" start="8097" length="531"/>
+        <highlight index="14" start="8527" length="149"/>
+        <highlight index="15" start="8991" length="166"/>
+        <highlight index="16" start="9123" length="166"/>
+        <highlight index="17" start="9239" length="464"/>
+        <highlight index="18" start="9653" length="647"/>
+      </highlights>
+    </line>
+    <line words="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall." start="52307" length="12749" useLNutResource="true" useStoryResource="false" image="19#4#7">
+      <subtitles>
+        <subtitle lang="tg" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="ve" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="cc" line="星期一的下午一点半我在课堂里学信息和通信技术而且我可以听到他在礼堂里。"/>
+        <subtitle lang="pe" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="ni" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="cn" line="星期一的下午一点半我在课堂里学信息和通信技术，我听到了他在礼堂里的声音。"/>
+        <subtitle lang="so" line="Maalintii Isniinta, waxaan joogay fasalka kane shaqeeynayay  cilmiga combuterka kowdii iyo barkii. Waxaan maqlay in uu Qolka shika uu joogay."/>
+        <subtitle lang="es" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="bo" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="do" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="dk" line="Mandag halv to sad jeg i klassen og arbejdede med IT, og jeg hørte ham i aulaen."/>
+        <subtitle lang="co" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="pyi" line="Xīngqí yī de xiàwǔ yīdiǎn bàn wǒ zài kètáng lǐ xué xìnxī hé tōngxìn jìshù érqiě wǒ kěyǐ tīng dào tā zài lǐtáng lǐ."/>
+        <subtitle lang="ht" line="Lendi nan klas la, a inè edmi, mwen t ap travay nan kou enfòmatik, epi mwen te tande l anndan an."/>
+        <subtitle lang="ne" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="mx" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="cu" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="saa" line="في يوم الاثنين في الفصل الدراسي في الساعه الواحده والنصف كنتُ اعمل على الحاسوب في درس التكنولوجيا وسمعته في القاعة."/>
+        <subtitle lang="py" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="mg" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="pr" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="me" line="في يوم الاثنين في الفصل الدراسي في الساعه الواحده والنصف كنتُ اعمل على الحاسوب في درس التكنولوجيا وسمعته في القاعة."/>
+        <subtitle lang="sv" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="ec" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="gt" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="ml" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="ar" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="hn" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="ci" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="cd" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="sp" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="pt" line="Na segunda-feira, na sala de aula, às duas e meia, eu trabalhei no TIC e ouvi-lo no corredor."/>
+        <subtitle lang="cl" line="El lunes en la  sala de clases a la una y media, yo estaba trabajando en TIC y lo escuché en el pasillo."/>
+        <subtitle lang="bj" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="pa" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="fr" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="bi" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="nl" line="Maandag om half twee had ik informatica en toen hoorde ik hem op de gang."/>
+        <subtitle lang="sn" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="lba" line="في يوم الاثنين في الفصل الدراسي في الساعه الواحده والنصف كنتُ اعمل على الحاسوب في درس التكنولوجيا وسمعته في القاعة."/>
+        <subtitle lang="cr" line="El lunes en el salón de clases a la una y media, yo estaba trabajando en TIC y lo escuché en la sala."/>
+        <subtitle lang="bf" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="dj" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="cm" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="ga" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="lbr" line="Lundi dans la salle de classe, à une heure et demie j’étais en TIC et je l’ai entendu dans le couloir."/>
+        <subtitle lang="in" line="सोमवार को, कक्षा में, डेढ़ बजे, मैंने आईसीटी पर काम किया और मैंने हॉल में उसकी आवाज़ सुनी।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2250" length="200"/>
+        <highlight index="1" start="2416" length="794"/>
+        <highlight index="2" start="3745" length="203"/>
+        <highlight index="3" start="3892" length="148"/>
+        <highlight index="4" start="3984" length="920"/>
+        <highlight index="5" start="5534" length="274"/>
+        <highlight index="6" start="5774" length="443"/>
+        <highlight index="7" start="6180" length="461"/>
+        <highlight index="8" start="6549" length="387"/>
+        <highlight index="9" start="7305" length="200"/>
+        <highlight index="10" start="7453" length="461"/>
+        <highlight index="11" start="7859" length="221"/>
+        <highlight index="12" start="8025" length="959"/>
+        <highlight index="13" start="9390" length="295"/>
+        <highlight index="14" start="9611" length="129"/>
+        <highlight index="15" start="9667" length="516"/>
+        <highlight index="16" start="10109" length="332"/>
+        <highlight index="17" start="10571" length="166"/>
+        <highlight index="18" start="10681" length="222"/>
+        <highlight index="19" start="10847" length="606"/>
+      </highlights>
+    </line>
+    <line words="It is half past two on Tuesday and he has gone." start="64991" length="9449" useLNutResource="true" useStoryResource="false" image="23#4#7">
+      <subtitles>
+        <subtitle lang="tg" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="ve" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="cc" line="现在是星期二下午两点半而且他已经走了。"/>
+        <subtitle lang="pe" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="ni" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="cn" line="星期二下午两点半，他走了。 "/>
+        <subtitle lang="so" line="Waa labdii iyo barkii maalin talaado ah, waa iska tagay."/>
+        <subtitle lang="es" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="bo" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="do" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="dk" line="Det er tirsdag, klokken er halv tre, og han er væk."/>
+        <subtitle lang="co" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="pyi" line="Xiànzài shì xīngqí èr xiàwǔ liǎng diǎn bàn érqiě tā yǐjīng zǒuliǎo."/>
+        <subtitle lang="ht" line="Madi, li te dezè edmi, epi li t al fè wout li."/>
+        <subtitle lang="ne" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="mx" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="cu" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="saa" line="أنها الساعه الثانيه والنصف في يوم الثلاثاء و الشبح ذهب."/>
+        <subtitle lang="py" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="mg" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="pr" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="me" line="أنها الساعه الثانيه والنصف في يوم الثلاثاء و الشبح ذهب."/>
+        <subtitle lang="sv" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="ec" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="gt" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="ml" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="ar" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="hn" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="ci" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="cd" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="sp" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="pt" line="Era duas e meia na terça-feira, e ele desapareceu."/>
+        <subtitle lang="cl" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="bj" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="pa" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="fr" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="bi" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="nl" line="Nu is het dinsdag, half drie, en hij is verdwenen."/>
+        <subtitle lang="sn" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="lba" line="أنها الساعه الثانيه والنصف في يوم الثلاثاء و الشبح ذهب."/>
+        <subtitle lang="cr" line="Son las dos y media del martes y ya se ha ido."/>
+        <subtitle lang="bf" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="dj" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="cm" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="ga" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="lbr" line="C’est mardi, Il est deux heures et demie et il est parti."/>
+        <subtitle lang="in" line="मंगलवार को ढाई बजे हैं और वह चला गया है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2140" length="200"/>
+        <highlight index="1" start="2288" length="200"/>
+        <highlight index="2" start="2436" length="379"/>
+        <highlight index="3" start="2749" length="461"/>
+        <highlight index="4" start="3160" length="346"/>
+        <highlight index="5" start="3457" length="200"/>
+        <highlight index="6" start="3605" length="924"/>
+        <highlight index="7" start="5054" length="230"/>
+        <highlight index="8" start="5251" length="247"/>
+        <highlight index="9" start="5482" length="280"/>
+        <highlight index="10" start="5729" length="727"/>
+      </highlights>
+    </line>
+    <line words="The End" start="74440" length="1863" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="dk" line="Slut"/>
+        <subtitle lang="nl" line="Einde"/>
+      </subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

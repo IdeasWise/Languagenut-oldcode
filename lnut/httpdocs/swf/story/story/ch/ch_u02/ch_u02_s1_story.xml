@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="408084" >
+	<lines>
+		<line words="Zhè shì yī gè nǚ hái. Tā de míng zì shì Ài měi." start="3517" length="19349" useLNutResource="true" image="2#3#9" >
+			<highlights>
+				<highlight index="0" start="3569" length="936" />
+				<highlight index="1" start="4371" length="502" />
+				<highlight index="2" start="4806" length="870" />
+				<highlight index="3" start="5642" length="1036" />
+				<highlight index="4" start="6578" length="1136" />
+				<highlight index="5" start="7614" length="969" />
+				<highlight index="6" start="11057" length="879" />
+				<highlight index="7" start="11880" length="534" />
+				<highlight index="8" start="12360" length="1003" />
+				<highlight index="9" start="13266" length="702" />
+				<highlight index="10" start="13888" length="877" />
+				<highlight index="11" start="14680" length="992" />
+				<highlight index="12" start="15585" length="877" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Voici une fille. Elle s’appelle Aimée." />
+				<subtitle lang="us" line="Here is a girl. Her name is Amy." />
+				<subtitle lang="ch" line="这是一个女孩. 她的名字是艾美." />
+				<subtitle lang="en" line="Here is a girl. Her name is Amy." />
+				<subtitle lang="dk" line="Her er en pige. Hun hedder Amy." />
+				<subtitle lang="sp" line="Aqui hay una chica Se llama Amy ¡" />
+				<subtitle lang="nl" line="Hier is een meisje. Ze heet Anne." />
+			</subtitles>
+		</line>
+		<line words="Tā xǐ huan wán. Tā yǔ tā de péng yǒu tōng cháng wán." start="21811" length="19349" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="2574" length="905" />
+				<highlight index="1" start="3422" length="849" />
+				<highlight index="2" start="4242" length="1075" />
+				<highlight index="3" start="5317" length="1047" />
+				<highlight index="4" start="7806" length="1019" />
+				<highlight index="5" start="8825" length="848" />
+				<highlight index="6" start="9588" length="934" />
+				<highlight index="7" start="10494" length="961" />
+				<highlight index="8" start="11399" length="1131" />
+				<highlight index="9" start="12474" length="990" />
+				<highlight index="10" start="13407" length="934" />
+				<highlight index="11" start="14284" length="990" />
+				<highlight index="12" start="15217" length="877" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle aime jouer. D’habitude, elle joue avec ses amis." />
+				<subtitle lang="us" line="She loves to play. Normally she plays with her friends." />
+				<subtitle lang="en" line="She loves to play. Normally she plays with her friends." />
+				<subtitle lang="ch" line="她喜欢玩. 她与她的朋友通常玩." />
+				<subtitle lang="dk" line="Hun elsker at lege. Som regel leger hun med sine venner." />
+				<subtitle lang="sp" line="Le encanta jugar. Normalmente juega con sus amigos" />
+				<subtitle lang="nl" line="Ze houdt van spelen. Normaal speelt ze met haar vrienden." />
+			</subtitles>
+		</line>
+		<line words="Tā wán biāo qiān yóu xì." start="39401" length="11609" useLNutResource="true" image="2#6#1" >
+			<highlights>
+				<highlight index="0" start="2121" length="916" />
+				<highlight index="1" start="3037" length="883" />
+				<highlight index="2" start="3971" length="865" />
+				<highlight index="3" start="4904" length="1019" />
+				<highlight index="4" start="5973" length="950" />
+				<highlight index="5" start="6958" length="866" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle joue au chat perché." />
+				<subtitle lang="us" line="She plays tag." />
+				<subtitle lang="en" line="She plays tag." />
+				<subtitle lang="ch" line="她玩标签游戏." />
+				<subtitle lang="dk" line="Hun leger fangeleg." />
+				<subtitle lang="sp" line="juega al “corre que te pillo”" />
+				<subtitle lang="nl" line="Ze speelt tikkertje." />
+			</subtitles>
+		</line>
+		<line words="Tā wán tiào fang zi." start="49955" length="10554" useLNutResource="true" image="2#6#4" >
+			<highlights>
+				<highlight index="0" start="1944" length="1049" />
+				<highlight index="1" start="3024" length="786" />
+				<highlight index="2" start="3795" length="710" />
+				<highlight index="3" start="4520" length="679" />
+				<highlight index="4" start="5199" length="710" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle joue à la marelle." />
+				<subtitle lang="us" line="She plays hopscotch." />
+				<subtitle lang="en" line="She plays hopscotch." />
+				<subtitle lang="ch" line="她玩跳房子." />
+				<subtitle lang="dk" line="Hun hopper I mand." />
+				<subtitle lang="sp" line="juega al tejo" />
+				<subtitle lang="nl" line="Ze hinkelt." />
+			</subtitles>
+		</line>
+		<line words="Tā pá pān pá jià." start="58750" length="11961" useLNutResource="true" image="2#6#10" >
+			<highlights>
+				<highlight index="0" start="1731" length="1066" />
+				<highlight index="1" start="2815" length="926" />
+				<highlight index="2" start="3776" length="997" />
+				<highlight index="3" start="4826" length="961" />
+				<highlight index="4" start="5822" length="892" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle joue sur la cage d’écureuil." />
+				<subtitle lang="us" line="She plays on the climbing frame." />
+				<subtitle lang="en" line="She plays on the climbing frame." />
+				<subtitle lang="ch" line="她爬攀爬架." />
+				<subtitle lang="dk" line="Hun leger I klatrestativet." />
+				<subtitle lang="sp" line="Juega con la red de trepar y escalar" />
+				<subtitle lang="nl" line="Ze klimt op het klimrek." />
+			</subtitles>
+		</line>
+		<line words="Tā dǎ wǎng qiú." start="69303" length="10554" useLNutResource="true" image="2#6#9" >
+			<highlights>
+				<highlight index="0" start="941" length="771" />
+				<highlight index="1" start="1805" length="848" />
+				<highlight index="2" start="2746" length="818" />
+				<highlight index="3" start="3672" length="972" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle joue au tennis." />
+				<subtitle lang="us" line="She plays tennis." />
+				<subtitle lang="en" line="She plays tennis." />
+				<subtitle lang="ch" line="她打网球." />
+				<subtitle lang="dk" line="Hun spiller tennis." />
+				<subtitle lang="sp" line="Juega al tenis" />
+				<subtitle lang="nl" line="Ze tennist." />
+			</subtitles>
+		</line>
+		<line words="Ér qiě tā xǐ huan tiào." start="78098" length="9851" useLNutResource="true" image="2#6#8" >
+			<highlights>
+				<highlight index="0" start="993" length="749" />
+				<highlight index="1" start="1857" length="734" />
+				<highlight index="2" start="2692" length="706" />
+				<highlight index="3" start="3513" length="836" />
+				<highlight index="4" start="4392" length="864" />
+				<highlight index="5" start="5270" length="936" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Et elle adore faire de la corde à sauter." />
+				<subtitle lang="us" line="And she loves to skip." />
+				<subtitle lang="en" line="And she loves to skip." />
+				<subtitle lang="ch" line="而且她喜欢跳." />
+				<subtitle lang="dk" line="Og hun elsker at sjippe." />
+				<subtitle lang="sp" line="Le encanta saltar a la comba" />
+				<subtitle lang="nl" line="En ze huppelt graag." />
+			</subtitles>
+		</line>
+		<line words="Xiàn zài shì qiū tiān, ài mǐ fā xiàn yī kē qī yè shù." start="86893" length="20053" useLNutResource="true" image="2#4#5" >
+			<highlights>
+				<highlight index="0" start="1846" length="997" />
+				<highlight index="1" start="2872" length="938" />
+				<highlight index="2" start="3810" length="909" />
+				<highlight index="3" start="4749" length="1026" />
+				<highlight index="4" start="5775" length="1173" />
+				<highlight index="5" start="7797" length="1084" />
+				<highlight index="6" start="8882" length="791" />
+				<highlight index="7" start="9673" length="1349" />
+				<highlight index="8" start="11022" length="1290" />
+				<highlight index="9" start="12283" length="1172" />
+				<highlight index="10" start="13426" length="703" />
+				<highlight index="11" start="14100" length="1173" />
+				<highlight index="12" start="15302" length="1055" />
+				<highlight index="13" start="16328" length="1143" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="C’est l’automne et Aimée trouve unmarronnier." />
+				<subtitle lang="us" line="It is Autumn, and Aimee finds a Horse Chestnut tree." />
+				<subtitle lang="en" line="It is Autumn, and Aimee finds a Horse Chestnut tree." />
+				<subtitle lang="ch" line="现在是秋天, 艾米发现一棵七叶树." />
+				<subtitle lang="dk" line="Det er efterår, og Amy finder ethestekastanietræ." />
+				<subtitle lang="sp" line="Es otono, y Amy se encuentra a un castanode indias ñ" />
+				<subtitle lang="nl" line="Het is herfst, en Anne vindt eenkastanjeboom." />
+			</subtitles>
+		</line>
+		<line words="Hái yǒu hěn duō, hěn duō de qī yè shù guǒ shí. Tā ná yī ke qǐ lái. Rán hòu tā tīng dào yī zhǒng qí guài de shēng yīn!" start="106023" length="39050" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="1655" length="1598" />
+				<highlight index="1" start="3196" length="1427" />
+				<highlight index="2" start="4566" length="1485" />
+				<highlight index="3" start="5994" length="856" />
+				<highlight index="4" start="6736" length="1484" />
+				<highlight index="5" start="8106" length="856" />
+				<highlight index="6" start="8905" length="742" />
+				<highlight index="7" start="9647" length="1427" />
+				<highlight index="8" start="11074" length="1142" />
+				<highlight index="9" start="12273" length="1198" />
+				<highlight index="10" start="13186" length="1370" />
+				<highlight index="11" start="14271" length="1670" />
+				<highlight index="12" start="15812" length="1371" />
+				<highlight index="13" start="17011" length="1142" />
+				<highlight index="14" start="17925" length="1427" />
+				<highlight index="15" start="19123" length="914" />
+				<highlight index="16" start="19866" length="1255" />
+				<highlight index="17" start="20950" length="1599" />
+				<highlight index="18" start="23519" length="1713" />
+				<highlight index="19" start="25003" length="1142" />
+				<highlight index="20" start="26031" length="1427" />
+				<highlight index="21" start="27344" length="1598" />
+				<highlight index="22" start="28828" length="856" />
+				<highlight index="23" start="29570" length="1142" />
+				<highlight index="24" start="30541" length="1141" />
+				<highlight index="25" start="31454" length="742" />
+				<highlight index="26" start="31968" length="1655" />
+				<highlight index="27" start="33395" length="571" />
+				<highlight index="28" start="33795" length="1598" />
+				<highlight index="29" start="35165" length="1598" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Il y a des tas de marrons. Elle en ramasse un.Ensuite, elle entend une voix étrange!" />
+				<subtitle lang="us" line="There are lots and lots of conkers. She picks one up. Then she hears a strange voice!" />
+				<subtitle lang="en" line="There are lots and lots of conkers. She picks one up. Then she hears a strange voice!" />
+				<subtitle lang="ch" line="还有很多，很多的七叶树果实.她拿一棵起来.然后她听到一种奇怪的声音！" />
+				<subtitle lang="dk" line="Der er masser af kastanier. Hun samler en op. Så hører hun en mærkelig stemme!" />
+				<subtitle lang="sp" line="Hay muchas castanas Ella coje una Y entonces, escucha una extraña voz" />
+				<subtitle lang="nl" line="Er zijn een heleboel kastanjes. Ze raapt er eentje op. Dan hoort ze een rare stem!" />
+			</subtitles>
+		</line>
+		<line words="“Shōu jí èr shí gè qī yè shù guǒ shí hé xǔ yuàn!”" start="143884" length="20756" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="3095" length="1049" />
+				<highlight index="1" start="4117" length="577" />
+				<highlight index="2" start="4773" length="866" />
+				<highlight index="3" start="5691" length="892" />
+				<highlight index="4" start="6609" length="944" />
+				<highlight index="5" start="7606" length="918" />
+				<highlight index="6" start="8524" length="918" />
+				<highlight index="7" start="9468" length="944" />
+				<highlight index="8" start="10439" length="892" />
+				<highlight index="9" start="11435" length="945" />
+				<highlight index="10" start="12406" length="866" />
+				<highlight index="11" start="13350" length="944" />
+				<highlight index="12" start="14347" length="996" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="“Ramasse 20 marrons et fais un vœu!”" />
+				<subtitle lang="us" line="“Collect 20 conkers and make a wish!”" />
+				<subtitle lang="ch" line="“收集二十个七叶树果实和许愿!”" />
+				<subtitle lang="en" line="“Collect 20 conkers and make a wish!”" />
+				<subtitle lang="dk" line="“Saml 20 kastanier og du får et ønske!”" />
+				<subtitle lang="sp" line="Recoje veinte castañas y pide un deseo" />
+				<subtitle lang="nl" line="‘Verzamel 20 kastanjes en doe een wens!’" />
+			</subtitles>
+		</line>
+		<line words="Ài měi kāi shǐ shōu jí qī yè shù guǒ shí. Yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí, shí yī, shí èr, shí sān, shí sì, shí wǔ, shí liù, shí qī, shí bā, shí jiǔ…" start="163233" length="47493" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="1051" length="2027" />
+				<highlight index="1" start="2703" length="1126" />
+				<highlight index="2" start="3529" length="1126" />
+				<highlight index="3" start="4354" length="1051" />
+				<highlight index="4" start="5105" length="1502" />
+				<highlight index="5" start="6307" length="1351" />
+				<highlight index="6" start="7283" length="1427" />
+				<highlight index="7" start="8484" length="1577" />
+				<highlight index="8" start="9761" length="1402" />
+				<highlight index="9" start="10812" length="1176" />
+				<highlight index="10" start="11638" length="1201" />
+				<highlight index="11" start="12764" length="1427" />
+				<highlight index="12" start="14116" length="1952" />
+				<highlight index="13" start="15767" length="1577" />
+				<highlight index="14" start="17044" length="1702" />
+				<highlight index="15" start="18470" length="1502" />
+				<highlight index="16" start="19747" length="1802" />
+				<highlight index="17" start="21324" length="1877" />
+				<highlight index="18" start="22825" length="1953" />
+				<highlight index="19" start="24477" length="1952" />
+				<highlight index="20" start="26054" length="1952" />
+				<highlight index="21" start="27781" length="1126" />
+				<highlight index="22" start="28532" length="1127" />
+				<highlight index="23" start="29883" length="1277" />
+				<highlight index="24" start="31010" length="1201" />
+				<highlight index="25" start="32286" length="1352" />
+				<highlight index="26" start="33262" length="1127" />
+				<highlight index="27" start="34464" length="1202" />
+				<highlight index="28" start="35365" length="1277" />
+				<highlight index="29" start="36791" length="1351" />
+				<highlight index="30" start="37767" length="1276" />
+				<highlight index="31" start="38969" length="1426" />
+				<highlight index="32" start="40020" length="1201" />
+				<highlight index="33" start="41146" length="1502" />
+				<highlight index="34" start="42348" length="1202" />
+				<highlight index="35" start="43624" length="1427" />
+				<highlight index="36" start="44750" length="1201" />
+				<highlight index="37" start="45952" length="1052" />
+				<highlight index="38" start="46702" length="1351" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Aimée commence à ramasser les marrons. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 …" />
+				<subtitle lang="us" line="Amy starts to collect the conkers. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="en" line="Amy starts to collect the conkers. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="ch" line="艾美开始收集七叶树果实. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+				<subtitle lang="dk" line="Amy begynder at samle kastanier. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1718 19…" />
+				<subtitle lang="sp" line="Amy empieza a recojer las castañas 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19" />
+				<subtitle lang="nl" line="Anne begint de kastanjes te verzamelen. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+			</subtitles>
+		</line>
+		<line words="Tā zhǐ néng zhǎo dào shí jiǔ gè qī yè shù guǒ shí. Tā zài shǔ yī biàn. Yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí, shí yī, shí èr, shí sān, shí sì, shí wǔ, shí liù,  shí qī, shí bā, shí jiǔ…" start="209670" length="59102" useLNutResource="true" image="2#5#9" >
+			<highlights>
+				<highlight index="0" start="2990" length="3165" />
+				<highlight index="1" start="5716" length="1495" />
+				<highlight index="2" start="6507" length="968" />
+				<highlight index="3" start="7211" length="1495" />
+				<highlight index="4" start="8266" length="1495" />
+				<highlight index="5" start="9146" length="1582" />
+				<highlight index="6" start="10377" length="1143" />
+				<highlight index="7" start="11168" length="1319" />
+				<highlight index="8" start="12048" length="1319" />
+				<highlight index="9" start="12927" length="1143" />
+				<highlight index="10" start="13631" length="1670" />
+				<highlight index="11" start="15126" length="1407" />
+				<highlight index="12" start="16093" length="1495" />
+				<highlight index="13" start="17236" length="2199" />
+				<highlight index="14" start="19083" length="1319" />
+				<highlight index="15" start="20050" length="1056" />
+				<highlight index="16" start="20754" length="1319" />
+				<highlight index="17" start="21633" length="1320" />
+				<highlight index="18" start="23216" length="1759" />
+				<highlight index="19" start="24887" length="1759" />
+				<highlight index="20" start="26646" length="1922" />
+				<highlight index="21" start="28317" length="1395" />
+				<highlight index="22" start="29636" length="1834" />
+				<highlight index="23" start="31395" length="1495" />
+				<highlight index="24" start="32626" length="1583" />
+				<highlight index="25" start="34033" length="1495" />
+				<highlight index="26" start="35089" length="1495" />
+				<highlight index="27" start="36244" length="1483" />
+				<highlight index="28" start="37563" length="1483" />
+				<highlight index="29" start="38694" length="1231" />
+				<highlight index="30" start="40013" length="1495" />
+				<highlight index="31" start="40981" length="1143" />
+				<highlight index="32" start="41948" length="1519" />
+				<highlight index="33" start="43179" length="1056" />
+				<highlight index="34" start="43971" length="1495" />
+				<highlight index="35" start="45026" length="967" />
+				<highlight index="36" start="45993" length="1407" />
+				<highlight index="37" start="46961" length="1143" />
+				<highlight index="38" start="48632" length="1407" />
+				<highlight index="39" start="49599" length="1231" />
+				<highlight index="40" start="50830" length="1319" />
+				<highlight index="41" start="51798" length="1044" />
+				<highlight index="42" start="52853" length="1307" />
+				<highlight index="43" start="53820" length="1144" />
+				<highlight index="44" start="54964" length="1319" />
+				<highlight index="45" start="55843" length="1143" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle ne trouve que 19 marrons. Elle les compte de nouveau. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="us" line="She can only find 19 conkers. She counts them again. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="en" line="She can only find 19 conkers. She counts them again. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+				<subtitle lang="ch" line="她只能找到十九个七叶树果实. 她再数一遍. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九…" />
+				<subtitle lang="dk" line="Hun kan kun finde 19 kastanier. Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1718 19…" />
+				<subtitle lang="sp" line="Ella solo puede encontrar 19 castañas Empieza a contar otra vez 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19" />
+				<subtitle lang="nl" line="Ze kan maar 19 kastanjes vinden. Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19…" />
+			</subtitles>
+		</line>
+		<line words="Rán hòu yī gè luò zài tā de tóu shàng. Ō! Èr shí!" start="267365" length="20404" useLNutResource="true" image="2#4#1" >
+			<highlights>
+				<highlight index="0" start="3360" length="962" />
+				<highlight index="1" start="4293" length="696" />
+				<highlight index="2" start="4972" length="856" />
+				<highlight index="3" start="5756" length="882" />
+				<highlight index="4" start="6592" length="1016" />
+				<highlight index="5" start="7606" length="909" />
+				<highlight index="6" start="8501" length="882" />
+				<highlight index="7" start="9366" length="508" />
+				<highlight index="8" start="9843" length="829" />
+				<highlight index="9" start="10648" length="855" />
+				<highlight index="10" start="12169" length="802" />
+				<highlight index="11" start="13303" length="1096" />
+				<highlight index="12" start="14347" length="963" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Puis, un marron lui tombe sur la tête! Aïe! 20!" />
+				<subtitle lang="us" line="Then one falls on her head! Ow! 20! " />
+				<subtitle lang="ch" line="然后一个落在她的头上!噢！二十!" />
+				<subtitle lang="en" line="Then one falls on her head! Ow! 20! " />
+				<subtitle lang="dk" line="Så falder der en på hendes hoved! Av! 20!" />
+				<subtitle lang="sp" line="Y entonces una le cae en su cabeza…ahhh! Veinte" />
+				<subtitle lang="nl" line="Dan valt er eentje op haar hoofd! Au! 20!" />
+			</subtitles>
+		</line>
+		<line words="Tā zài shǔ yī biàn. Yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí, shí yī, shí èr, shí sān, shí sì, shí wǔ, shí liù,  shí qī, shí bā, shí jiǔ, èr shí." start="286010" length="41512" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="788" length="1639" />
+				<highlight index="1" start="2306" length="849" />
+				<highlight index="2" start="2852" length="849" />
+				<highlight index="3" start="3519" length="850" />
+				<highlight index="4" start="4247" length="850" />
+				<highlight index="5" start="5886" length="1639" />
+				<highlight index="6" start="7282" length="1638" />
+				<highlight index="7" start="8617" length="1699" />
+				<highlight index="8" start="10316" length="1396" />
+				<highlight index="9" start="11712" length="1699" />
+				<highlight index="10" start="13290" length="1760" />
+				<highlight index="11" start="15050" length="1213" />
+				<highlight index="12" start="16263" length="1539" />
+				<highlight index="13" start="17841" length="1456" />
+				<highlight index="14" start="19176" length="1517" />
+				<highlight index="15" start="21057" length="1032" />
+				<highlight index="16" start="21846" length="849" />
+				<highlight index="17" start="22757" length="1031" />
+				<highlight index="18" start="23485" length="971" />
+				<highlight index="19" start="24759" length="971" />
+				<highlight index="20" start="25487" length="910" />
+				<highlight index="21" start="26640" length="1032" />
+				<highlight index="22" start="27490" length="789" />
+				<highlight index="23" start="28825" length="1092" />
+				<highlight index="24" start="29614" length="971" />
+				<highlight index="25" start="30828" length="849" />
+				<highlight index="26" start="31374" length="729" />
+				<highlight index="27" start="32284" length="668" />
+				<highlight index="28" start="32709" length="850" />
+				<highlight index="29" start="33598" length="810" />
+				<highlight index="30" start="34166" length="970" />
+				<highlight index="31" start="35379" length="850" />
+				<highlight index="32" start="35986" length="971" />
+				<highlight index="33" start="37018" length="1153" />
+				<highlight index="34" start="37989" length="910" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle les compte encore une fois. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="us" line="She counts them one more time. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="en" line="She counts them one more time. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+				<subtitle lang="ch" line="她再数一遍. 一，二，三，四，五，六，七，八，九, 十, 十一，十二，十三，十四，十五，十六，十七，十八，十九, 二十." />
+				<subtitle lang="dk" line="Hun tæller dem igen. 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 1718 19 20." />
+				<subtitle lang="sp" line="Ella las cuenta una vez mas 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20" />
+				<subtitle lang="nl" line="Ze telt ze nog een keer. 1 2 3 4 5 6 7 8 9 1011 12 13 14 15 16 17 18 19 20." />
+			</subtitles>
+		</line>
+		<line words="Tā zài cì tīng dào le qí guài de shēng yīn. “Hěn hǎo! Xiàn zài nǐ kě yǐ xǔ yuàn le!”" start="326115" length="24626" useLNutResource="true" image="2#5#10" >
+			<highlights>
+				<highlight index="0" start="3276" length="1224" />
+				<highlight index="1" start="4392" length="684" />
+				<highlight index="2" start="4968" length="540" />
+				<highlight index="3" start="5536" length="908" />
+				<highlight index="4" start="6372" length="1152" />
+				<highlight index="5" start="7416" length="540" />
+				<highlight index="6" start="8424" length="720" />
+				<highlight index="7" start="9072" length="1008" />
+				<highlight index="8" start="9900" length="684" />
+				<highlight index="9" start="10404" length="1296" />
+				<highlight index="10" start="11628" length="1044" />
+				<highlight index="11" start="13248" length="1368" />
+				<highlight index="12" start="14544" length="1116" />
+				<highlight index="13" start="15732" length="1152" />
+				<highlight index="14" start="16704" length="1080" />
+				<highlight index="15" start="17748" length="1008" />
+				<highlight index="16" start="18720" length="584" />
+				<highlight index="17" start="19224" length="612" />
+				<highlight index="18" start="20232" length="1044" />
+				<highlight index="19" start="21240" length="1152" />
+				<highlight index="20" start="22248" length="612" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle entend de nouveau la voix étrange. « Très bien ! Maintenant, fais un vœu ! »" />
+				<subtitle lang="us" line="She hears the strange voice again. ‘Very good! Now make your wish!’" />
+				<subtitle lang="en" line="She hears the strange voice again. ‘Very good! Now make your wish!’" />
+				<subtitle lang="ch" line="她再次听到了奇怪的声音. “很好！现在你可以许愿了!”" />
+				<subtitle lang="dk" line="Hun hører den mærkelige stemme igen. ”Godt! Nu må du ønske noget!”" />
+				<subtitle lang="sp" line="Ella escucha la extraña voz otra vez Muy bien! Ahora pide tu deseo." />
+				<subtitle lang="nl" line="Ze hoort de rare stem nog weer. ‘Heel goed! Doe nu een wens!’" />
+			</subtitles>
+		</line>
+		<line words="Tā xiǎng le yòu xiǎng." start="349333" length="11961" useLNutResource="true" image="2#3#9" >
+			<highlights>
+				<highlight index="0" start="4616" length="769" />
+				<highlight index="1" start="5368" length="857" />
+				<highlight index="2" start="6259" length="419" />
+				<highlight index="3" start="6679" length="717" />
+				<highlight index="4" start="7396" length="770" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Elle réfléchit…et elle réfléchit." />
+				<subtitle lang="us" line="She thinks…and she thinks." />
+				<subtitle lang="ch" line="她想了又想." />
+				<subtitle lang="en" line="She thinks…and she thinks." />
+				<subtitle lang="dk" line="Hun tænker…Og hun tænker." />
+				<subtitle lang="sp" line="Ella piensa…Y piensa" />
+				<subtitle lang="nl" line="Ze denkt na…en denkt na." />
+			</subtitles>
+		</line>
+		<line words="Tā shuō: “Wǒ zhī dào le! Wǒ xī wàng wǒ yǒu chì bǎng!” Guǒ rán Ài měi zhǎng le liǎng gè měi lì de chì bǎng. Tā fēi dào yuè lái yuè gāo… ér qiě xiāo shī le! Ài měi zài jiàn!" start="360239" length="48900" useLNutResource="true" image="4#4#1" >
+			<highlights>
+				<highlight index="0" start="2001" length="1930" />
+				<highlight index="1" start="3502" length="1545" />
+				<highlight index="2" start="5146" length="1359" />
+				<highlight index="3" start="6219" length="715" />
+				<highlight index="4" start="6719" length="715" />
+				<highlight index="5" start="7291" length="1001" />
+				<highlight index="6" start="8792" length="1572" />
+				<highlight index="7" start="10151" length="1115" />
+				<highlight index="8" start="11008" length="1144" />
+				<highlight index="9" start="12009" length="1072" />
+				<highlight index="10" start="12867" length="1001" />
+				<highlight index="11" start="13582" length="1573" />
+				<highlight index="12" start="14869" length="1902" />
+				<highlight index="13" start="17371" length="1072" />
+				<highlight index="14" start="18157" length="1144" />
+				<highlight index="15" start="19186" length="1044" />
+				<highlight index="16" start="20016" length="1072" />
+				<highlight index="17" start="20802" length="1429" />
+				<highlight index="18" start="21946" length="715" />
+				<highlight index="19" start="22375" length="1215" />
+				<highlight index="20" start="23232" length="1144" />
+				<highlight index="21" start="24090" length="1573" />
+				<highlight index="22" start="25377" length="1001" />
+				<highlight index="23" start="26163" length="715" />
+				<highlight index="24" start="26592" length="1216" />
+				<highlight index="25" start="27593" length="1215" />
+				<highlight index="26" start="29623" length="1115" />
+				<highlight index="27" start="30524" length="1144" />
+				<highlight index="28" start="31525" length="1144" />
+				<highlight index="29" start="32454" length="1001" />
+				<highlight index="30" start="33240" length="929" />
+				<highlight index="31" start="33884" length="929" />
+				<highlight index="32" start="34456" length="1001" />
+				<highlight index="33" start="35528" length="1286" />
+				<highlight index="34" start="36600" length="1474" />
+				<highlight index="35" start="37887" length="1215" />
+				<highlight index="36" start="38745" length="1001" />
+				<highlight index="37" start="39460" length="1143" />
+				<highlight index="38" start="41247" length="1215" />
+				<highlight index="39" start="42248" length="1001" />
+				<highlight index="40" start="42963" length="1286" />
+				<highlight index="41" start="43892" length="1257" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="“Je sais!”, dit-elle. “Je souhaite avoir des ailes!” Et deux magnifiques ailes poussent sur Aimée. Elle s’envole très haut…et plus haut… etencore plus haut…puis disparait! Au revoir Aimée!" />
+				<subtitle lang="us" line="‘I know!’ She says. ‘I wish I had wings!’ And sure enough, Amy grew two beautiful wings. She flew higher… and higher… and higher…and disappeared! Goodbye Amy!" />
+				<subtitle lang="en" line="‘I know!’ She says. ‘I wish I had wings!’ And sure enough, Amy grew two beautiful wings. She flew higher… and higher… and higher…and disappeared! Goodbye Amy!" />
+				<subtitle lang="ch" line="她说: “我知道了！我希望我有翅膀!” 果然艾美长了两个美丽的翅膀. 她飞到越来越高…而且消失了！艾美再见!" />
+				<subtitle lang="dk" line="“Nu ved jeg det”, siger hun.” Jeg ville ønske, at jeg havde vinger!” Og ganske rigtigt voksede der to smukkevinger ud på Amy. Hun fløj højere…og højere…og højere…Og forsvandt! Farvel Amy!" />
+				<subtitle lang="sp" line="Ya se! dice Deseo tener alas! Y entonces, a Amy le crecieron dos maravillosas alas Ella volo alto…y mas alto…. Y mas alto…Y desaparecio! Adios, Amy" />
+				<subtitle lang="nl" line="‘Ik weet het!’ zegt ze. ‘Ik wens dat ik vleugels krijg!’ En ja hoor, Anne kreeg twee prachtigevleugels. Ze vloog hoger… en hoger… en noghoger…tot ze verdween! Dag Anne!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

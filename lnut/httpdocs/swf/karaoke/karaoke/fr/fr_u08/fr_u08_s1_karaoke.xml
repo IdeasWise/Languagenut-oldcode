@@ -1,0 +1,1578 @@
+<?xml version="1.0"?>
+<karaoke length="131082">
+  <lines>
+    <line words="Pour mon anniversaire je voudrais, je voudrais" start="5320" length="8261">
+      <highlight index="0" start="257" length="596"/>
+      <highlight index="1" start="812" length="623"/>
+      <highlight index="2" start="1394" length="1490"/>
+      <highlight index="3" start="4387" length="474"/>
+      <highlight index="4" start="4834" length="1287"/>
+      <highlight index="5" start="6405" length="392"/>
+      <highlight index="6" start="6757" length="1408"/>
+      <subtitles>
+        <subtitle lang="en" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ng" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ni" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="bz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dk" line="Til min f&#xF8;dselsdag, vil jeg gerne have, vil jeg gerne have"/>
+        <subtitle lang="ag" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="au" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sp" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="pr" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="mt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ae" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ec" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="to" line="For my birthday I would like, I would like"/>
+        <subtitle lang="lb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="es" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="rw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="fj" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pe" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gy" line="For my birthday I would like, I would like"/>
+        <subtitle lang="zm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ve" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sg" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sa" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mx" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="do" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="tz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bs" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ug" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ws" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ca" line="For my birthday I would like, I would like"/>
+        <subtitle lang="co" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="jm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pk" line="For my birthday I would like, I would like"/>
+        <subtitle lang="na" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ar" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="py" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="ke" line="For my birthday I would like, I would like"/>
+        <subtitle lang="me" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+        <subtitle lang="cu" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gh" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sv" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="vu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cl" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="nl" line="O voor mijn verjaardag, Wil ik graag, wil ik graag..."/>
+        <subtitle lang="us" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bd" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cr" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="vc" line="For my birthday I would like, I would like"/>
+        <subtitle lang="za" line="For my birthday I would like, I would like"/>
+        <subtitle lang="tt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bo" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sl" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pa" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sco" line="For my birthday I would like, I would like"/>
+        <subtitle lang="hn" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gt" line="En mi cumple yo quisiera. Yo quisiera, yo quisiera:"/>
+        <subtitle lang="zw" line="For my birthday I would like, I would like"/>
+      <subtitle lang="saa" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/><subtitle lang="lba" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+				<subtitle lang="ine" line="For my birthday I would like, I would like"/>
+			</subtitles>
+    </line>
+    <line words="21 robots, 22 peluches, 23 skates et 24 guitares." start="13581" length="9661">
+      <highlight index="0" start="300" length="856"/>
+      <highlight index="1" start="1282" length="618"/>
+      <highlight index="2" start="2438" length="665"/>
+      <highlight index="3" start="2993" length="712"/>
+      <highlight index="4" start="4386" length="681"/>
+      <highlight index="5" start="4988" length="871"/>
+      <highlight index="6" start="5780" length="364"/>
+      <highlight index="7" start="6128" length="1394"/>
+      <highlight index="8" start="7490" length="1299"/>
+      <subtitles>
+        <subtitle lang="en" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="dm" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ng" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ni" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="bz" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="dk" line="21 robotter, 22 kludedukker, 23 skateboards og 24 guitarer"/>
+        <subtitle lang="ag" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="bw" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="au" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="sp" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="pr" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="mt" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ae" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ec" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="to" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="lb" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="es" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="rw" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="fj" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="pe" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="gy" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="zm" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ve" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="sg" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="sa" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="mx" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="do" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="tz" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="bs" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ug" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ws" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ca" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="co" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="jm" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="pk" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="na" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="ar" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="py" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="ke" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="me" line="&#x662;&#x663; &#x645;&#x646; &#x627;&#x644;&#x623;&#x644;&#x639;&#x627;&#x628; &#x648;&#x662;&#x664; &#x642;&#x64A;&#x62B;&#x627;&#x631;&#x629;&#x662;&#x661; &#x625;&#x646;&#x633;&#x627;&#x646; &#x622;&#x644;&#x64A;&#x60C; &#x662;&#x662; &#x645;&#x646; &#x623;&#x644;&#x648;&#x627;&#x62D; &#x62A;&#x632;&#x644;&#x62C;"/>
+        <subtitle lang="cu" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="gh" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="sv" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="gm" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="vu" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="cl" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="nl" line="21 robots, 22 knuffels, 23 skateboards en 24 gitaren."/>
+        <subtitle lang="us" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="bd" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="sb" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="cr" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="vc" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="za" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="tt" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="mu" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="bo" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="sl" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="pa" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="sco" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+        <subtitle lang="hn" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="gt" line="21 robots, 22 scooters, 23 juegos, 24 guitarras."/>
+        <subtitle lang="zw" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+      <subtitle lang="saa" line="&#x662;&#x663; &#x645;&#x646; &#x627;&#x644;&#x623;&#x644;&#x639;&#x627;&#x628; &#x648;&#x662;&#x664; &#x642;&#x64A;&#x62B;&#x627;&#x631;&#x629;&#x662;&#x661; &#x625;&#x646;&#x633;&#x627;&#x646; &#x622;&#x644;&#x64A;&#x60C; &#x662;&#x662; &#x645;&#x646; &#x623;&#x644;&#x648;&#x627;&#x62D; &#x62A;&#x632;&#x644;&#x62C;"/><subtitle lang="lba" line="&#x662;&#x663; &#x645;&#x646; &#x627;&#x644;&#x623;&#x644;&#x639;&#x627;&#x628; &#x648;&#x662;&#x664; &#x642;&#x64A;&#x62B;&#x627;&#x631;&#x629;&#x662;&#x661; &#x625;&#x646;&#x633;&#x627;&#x646; &#x622;&#x644;&#x64A;&#x60C; &#x662;&#x662; &#x645;&#x646; &#x623;&#x644;&#x648;&#x627;&#x62D; &#x62A;&#x632;&#x644;&#x62C;"/>
+				<subtitle lang="ine" line="21 robots, 22 soft toys, 23 skateboards and 24 guitars."/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="23102" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager." start="27863" length="3360">
+      <highlight index="0" start="154" length="413"/>
+      <highlight index="1" start="550" length="248"/>
+      <highlight index="2" start="853" length="1019"/>
+      <highlight index="3" start="1922" length="1195"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share."/>
+        <subtitle lang="zw" line="because I love to share."/>
+        <subtitle lang="ng" line="because I love to share."/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share."/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele"/>
+        <subtitle lang="ag" line="because I love to share."/>
+        <subtitle lang="bw" line="because I love to share."/>
+        <subtitle lang="au" line="because I love to share."/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share."/>
+        <subtitle lang="ae" line="because I love to share."/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share."/>
+        <subtitle lang="lb" line="because I love to share."/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share."/>
+        <subtitle lang="ws" line="because I love to share."/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share."/>
+        <subtitle lang="zm" line="because I love to share."/>
+        <subtitle lang="ke" line="because I love to share."/>
+        <subtitle lang="sg" line="because I love to share."/>
+        <subtitle lang="sa" line="because I love to share."/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share."/>
+        <subtitle lang="bs" line="because I love to share."/>
+        <subtitle lang="ug" line="because I love to share."/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share."/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share."/>
+        <subtitle lang="pk" line="because I love to share."/>
+        <subtitle lang="na" line="because I love to share."/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share."/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share."/>
+        <subtitle lang="vu" line="because I love to share."/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel"/>
+        <subtitle lang="us" line="because I love to share."/>
+        <subtitle lang="bd" line="because I love to share."/>
+        <subtitle lang="sb" line="because I love to share."/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share."/>
+        <subtitle lang="vc" line="because I love to share."/>
+        <subtitle lang="za" line="because I love to share."/>
+        <subtitle lang="tt" line="because I love to share."/>
+        <subtitle lang="mu" line="because I love to share."/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share."/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share."/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share."/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+				<subtitle lang="ine" line="because I love to share."/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="31083" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager!" start="35704" length="5460">
+      <highlight index="0" start="154" length="358"/>
+      <highlight index="1" start="479" length="319"/>
+      <highlight index="2" start="853" length="1019"/>
+      <highlight index="3" start="1922" length="1702"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share!"/>
+        <subtitle lang="zw" line="because I love to share!"/>
+        <subtitle lang="ng" line="because I love to share!"/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share!"/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele!"/>
+        <subtitle lang="ag" line="because I love to share!"/>
+        <subtitle lang="bw" line="because I love to share!"/>
+        <subtitle lang="au" line="because I love to share!"/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share!"/>
+        <subtitle lang="ae" line="because I love to share!"/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share!"/>
+        <subtitle lang="lb" line="because I love to share!"/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share!"/>
+        <subtitle lang="ws" line="because I love to share!"/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share!"/>
+        <subtitle lang="zm" line="because I love to share!"/>
+        <subtitle lang="ke" line="because I love to share!"/>
+        <subtitle lang="sg" line="because I love to share!"/>
+        <subtitle lang="sa" line="because I love to share!"/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share!"/>
+        <subtitle lang="bs" line="because I love to share!"/>
+        <subtitle lang="ug" line="because I love to share!"/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share!"/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share!"/>
+        <subtitle lang="pk" line="because I love to share!"/>
+        <subtitle lang="na" line="because I love to share!"/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share!"/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share!"/>
+        <subtitle lang="vu" line="because I love to share!"/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel"/>
+        <subtitle lang="us" line="because I love to share!"/>
+        <subtitle lang="bd" line="because I love to share!"/>
+        <subtitle lang="sb" line="because I love to share!"/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share!"/>
+        <subtitle lang="vc" line="because I love to share!"/>
+        <subtitle lang="za" line="because I love to share!"/>
+        <subtitle lang="tt" line="because I love to share!"/>
+        <subtitle lang="mu" line="because I love to share!"/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share!"/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share!"/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share!"/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+				<subtitle lang="ine" line="because I love to share!"/>
+			</subtitles>
+    </line>
+    <line words="Pour mon anniversaire je voudrais, je voudrais" start="43405" length="8261">
+      <highlight index="0" start="257" length="596"/>
+      <highlight index="1" start="812" length="623"/>
+      <highlight index="2" start="1394" length="1490"/>
+      <highlight index="3" start="4387" length="474"/>
+      <highlight index="4" start="4834" length="1287"/>
+      <highlight index="5" start="6405" length="392"/>
+      <highlight index="6" start="6757" length="1408"/>
+      <subtitles>
+        <subtitle lang="en" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ng" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ni" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="bz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dk" line="Til min f&#xF8;dselsdag, vil jeg gerne have, vil jeg gerne have"/>
+        <subtitle lang="ag" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="au" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sp" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="pr" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="mt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ae" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ec" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="to" line="For my birthday I would like, I would like"/>
+        <subtitle lang="lb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="es" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="rw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="fj" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pe" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gy" line="For my birthday I would like, I would like"/>
+        <subtitle lang="zm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ve" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sg" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sa" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mx" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="do" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="tz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bs" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ug" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ws" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ca" line="For my birthday I would like, I would like"/>
+        <subtitle lang="co" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="jm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pk" line="For my birthday I would like, I would like"/>
+        <subtitle lang="na" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ar" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="py" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="ke" line="For my birthday I would like, I would like"/>
+        <subtitle lang="me" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+        <subtitle lang="cu" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gh" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sv" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="vu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cl" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="nl" line="O voor mijn verjaardag, Wil ik graag, wil ik graag..."/>
+        <subtitle lang="us" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bd" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cr" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="vc" line="For my birthday I would like, I would like"/>
+        <subtitle lang="za" line="For my birthday I would like, I would like"/>
+        <subtitle lang="tt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bo" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sl" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pa" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="sco" line="For my birthday I would like, I would like"/>
+        <subtitle lang="hn" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="gt" line="En mi cumple yo quisiera Yo quisiera, yo quisiera:"/>
+        <subtitle lang="zw" line="For my birthday I would like, I would like"/>
+      <subtitle lang="saa" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/><subtitle lang="lba" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+				<subtitle lang="ine" line="For my birthday I would like, I would like"/>
+			</subtitles>
+    </line>
+    <line words="25 ballons, 26 cerf volants, 27 livres et 28 poup&#xE9;es" start="51666" length="9661">
+      <highlight index="0" start="337" length="844"/>
+      <highlight index="1" start="1096" length="971"/>
+      <highlight index="2" start="2249" length="562"/>
+      <highlight index="3" start="2756" length="295"/>
+      <highlight index="4" start="3023" length="1265"/>
+      <highlight index="5" start="4274" length="604"/>
+      <highlight index="6" start="5160" length="647"/>
+      <highlight index="7" start="5765" length="200"/>
+      <highlight index="8" start="6215" length="1490"/>
+      <highlight index="9" start="7663" length="1420"/>
+      <subtitles>
+        <subtitle lang="en" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="zw" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ng" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ni" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="bz" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="dk" line="25 bolde, 26 drager, 27 b&#xF8;ger og 28 dukker"/>
+        <subtitle lang="ag" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="bw" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="au" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="sp" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="pr" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="mt" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ae" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ec" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="to" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="lb" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="es" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="rw" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ws" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="pe" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="gy" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="zm" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ke" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="sg" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="sa" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="mx" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="do" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="tz" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="bs" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ug" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ve" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="ca" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="co" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="nz" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="jm" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="pk" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="na" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="ar" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="py" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="me" line="&#x662;&#x667;  &#x643;&#x62A;&#x628;&#x627;&#x64B; &#x648; &#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/>
+        <subtitle lang="cu" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="gh" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="sv" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="gm" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="vu" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="cl" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="nl" line="25 ballen, 26 vliegers, 27 boeken en 28 poppen"/>
+        <subtitle lang="us" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="bd" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="sb" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="cr" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="fj" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="vc" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="za" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="tt" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="mu" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="bo" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="sl" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="pa" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="sco" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="hn" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="gt" line="25 balones, 26 papalotes 27 libros y 28 t&#xED;teres."/>
+        <subtitle lang="dm" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+      <subtitle lang="saa" line="&#x662;&#x667;  &#x643;&#x62A;&#x628;&#x627;&#x64B; &#x648; &#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/><subtitle lang="lba" line="&#x662;&#x667;  &#x643;&#x62A;&#x628;&#x627;&#x64B; &#x648; &#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/>
+				<subtitle lang="ine" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="61189" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager." start="65765" length="3360">
+      <highlight index="0" start="154" length="413"/>
+      <highlight index="1" start="550" length="248"/>
+      <highlight index="2" start="853" length="1019"/>
+      <highlight index="3" start="1922" length="1195"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share."/>
+        <subtitle lang="zw" line="because I love to share."/>
+        <subtitle lang="ng" line="because I love to share."/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share."/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele"/>
+        <subtitle lang="ag" line="because I love to share."/>
+        <subtitle lang="bw" line="because I love to share."/>
+        <subtitle lang="au" line="because I love to share."/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share."/>
+        <subtitle lang="ae" line="because I love to share."/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share."/>
+        <subtitle lang="lb" line="because I love to share."/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share."/>
+        <subtitle lang="ws" line="because I love to share."/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share."/>
+        <subtitle lang="zm" line="because I love to share."/>
+        <subtitle lang="ke" line="because I love to share."/>
+        <subtitle lang="sg" line="because I love to share."/>
+        <subtitle lang="sa" line="because I love to share."/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share."/>
+        <subtitle lang="bs" line="because I love to share."/>
+        <subtitle lang="ug" line="because I love to share."/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share."/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share."/>
+        <subtitle lang="pk" line="because I love to share."/>
+        <subtitle lang="na" line="because I love to share."/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share."/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share."/>
+        <subtitle lang="vu" line="because I love to share."/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel"/>
+        <subtitle lang="us" line="because I love to share."/>
+        <subtitle lang="bd" line="because I love to share."/>
+        <subtitle lang="sb" line="because I love to share."/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share."/>
+        <subtitle lang="vc" line="because I love to share."/>
+        <subtitle lang="za" line="because I love to share."/>
+        <subtitle lang="tt" line="because I love to share."/>
+        <subtitle lang="mu" line="because I love to share."/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share."/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share."/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share."/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+				<subtitle lang="ine" line="because I love to share."/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="69034" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager!" start="73740" length="3923">
+      <highlight index="0" start="154" length="413"/>
+      <highlight index="1" start="550" length="248"/>
+      <highlight index="2" start="1010" length="862"/>
+      <highlight index="3" start="1907" length="1747"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share!"/>
+        <subtitle lang="zw" line="because I love to share!"/>
+        <subtitle lang="ng" line="because I love to share!"/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share!"/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele!"/>
+        <subtitle lang="ag" line="because I love to share!"/>
+        <subtitle lang="bw" line="because I love to share!"/>
+        <subtitle lang="au" line="because I love to share!"/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share!"/>
+        <subtitle lang="ae" line="because I love to share!"/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share!"/>
+        <subtitle lang="lb" line="because I love to share!"/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share!"/>
+        <subtitle lang="ws" line="because I love to share!"/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share!"/>
+        <subtitle lang="zm" line="because I love to share!"/>
+        <subtitle lang="ke" line="because I love to share!"/>
+        <subtitle lang="sg" line="because I love to share!"/>
+        <subtitle lang="sa" line="because I love to share!"/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share!"/>
+        <subtitle lang="bs" line="because I love to share!"/>
+        <subtitle lang="ug" line="because I love to share!"/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share!"/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share!"/>
+        <subtitle lang="pk" line="because I love to share!"/>
+        <subtitle lang="na" line="because I love to share!"/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share!"/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share!"/>
+        <subtitle lang="vu" line="because I love to share!"/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel"/>
+        <subtitle lang="us" line="because I love to share!"/>
+        <subtitle lang="bd" line="because I love to share!"/>
+        <subtitle lang="sb" line="because I love to share!"/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share!"/>
+        <subtitle lang="vc" line="because I love to share!"/>
+        <subtitle lang="za" line="because I love to share!"/>
+        <subtitle lang="tt" line="because I love to share!"/>
+        <subtitle lang="mu" line="because I love to share!"/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share!"/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share!"/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share!"/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+				<subtitle lang="ine" line="because I love to share!"/>
+			</subtitles>
+    </line>
+    <line words="Pour mon anniversaire je voudrais, je voudrais" start="81324" length="8261">
+      <highlight index="0" start="348" length="505"/>
+      <highlight index="1" start="812" length="623"/>
+      <highlight index="2" start="1394" length="1490"/>
+      <highlight index="3" start="4387" length="474"/>
+      <highlight index="4" start="4834" length="1287"/>
+      <highlight index="5" start="6405" length="392"/>
+      <highlight index="6" start="6757" length="1408"/>
+      <subtitles>
+        <subtitle lang="en" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ng" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ni" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="bz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="dk" line="Til min f&#xF8;dselsdag, vil jeg gerne have, vil jeg gerne have"/>
+        <subtitle lang="ag" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="au" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sp" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="pr" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="mt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ae" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ec" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="to" line="For my birthday I would like, I would like"/>
+        <subtitle lang="lb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="es" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="rw" line="For my birthday I would like, I would like"/>
+        <subtitle lang="fj" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pe" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="gy" line="For my birthday I would like, I would like"/>
+        <subtitle lang="zm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ve" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="sg" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sa" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mx" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="do" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="tz" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bs" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ug" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ws" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ca" line="For my birthday I would like, I would like"/>
+        <subtitle lang="co" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="jm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pk" line="For my birthday I would like, I would like"/>
+        <subtitle lang="na" line="For my birthday I would like, I would like"/>
+        <subtitle lang="ar" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="py" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="ke" line="For my birthday I would like, I would like"/>
+        <subtitle lang="me" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+        <subtitle lang="cu" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="gh" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sv" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="gm" line="For my birthday I would like, I would like"/>
+        <subtitle lang="vu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cl" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="nl" line="O voor mijn verjaardag, Wil ik graag, wil ik graag..."/>
+        <subtitle lang="us" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bd" line="For my birthday I would like, I would like"/>
+        <subtitle lang="sb" line="For my birthday I would like, I would like"/>
+        <subtitle lang="cr" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="vc" line="For my birthday I would like, I would like"/>
+        <subtitle lang="za" line="For my birthday I would like, I would like"/>
+        <subtitle lang="tt" line="For my birthday I would like, I would like"/>
+        <subtitle lang="mu" line="For my birthday I would like, I would like"/>
+        <subtitle lang="bo" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="sl" line="For my birthday I would like, I would like"/>
+        <subtitle lang="pa" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="sco" line="For my birthday I would like, I would like"/>
+        <subtitle lang="hn" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="gt" line="En mi cumple yo quisiera Yo quisiera, yo quisiera..."/>
+        <subtitle lang="zw" line="For my birthday I would like, I would like"/>
+      <subtitle lang="saa" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/><subtitle lang="lba" line=" &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;, &#x623;&#x646;&#x627;  &#x623;&#x631;&#x64A;&#x62F;&#x641;&#x64A; &#x639;&#x64A;&#x62F; &#x645;&#x64A;&#x644;&#x627;&#x62F;&#x64A; &#x623;&#x646;&#x627; &#x623;&#x631;&#x64A;&#x62F;"/>
+				<subtitle lang="ine" line="For my birthday I would like, I would like"/>
+			</subtitles>
+    </line>
+    <line words="29 CDs, mais plus amusant que &#xE7;a c'est mes 30 amis, oui mes 30 amis." start="89561" length="9661">
+      <highlight index="0" start="300" length="856"/>
+      <highlight index="1" start="1282" length="618"/>
+      <highlight index="2" start="1912" length="450"/>
+      <highlight index="3" start="2348" length="351"/>
+      <highlight index="4" start="2559" length="506"/>
+      <highlight index="5" start="3121" length="380"/>
+      <highlight index="6" start="3459" length="295"/>
+      <highlight index="7" start="3880" length="408"/>
+      <highlight index="8" start="4288" length="380"/>
+      <highlight index="9" start="4640" length="394"/>
+      <highlight index="10" start="5118" length="422"/>
+      <highlight index="11" start="5526" length="450"/>
+      <highlight index="12" start="6074" length="507"/>
+      <highlight index="13" start="6890" length="689"/>
+      <highlight index="14" start="7663" length="1167"/>
+      <subtitles>
+        <subtitle lang="en" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="zw" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ng" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ni" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="bz" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="dk" line="29 CDer men mere sjovt er det med, mine 30 venner, ja mine 30 venner"/>
+        <subtitle lang="ag" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="bw" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="au" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="sp" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="pr" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="mt" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ae" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ec" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="to" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="lb" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="es" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="rw" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ws" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="pe" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="gy" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="zm" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ke" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="sg" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="sa" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="mx" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="do" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="tz" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="bs" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ug" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ve" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="ca" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="co" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="nz" line="25 balls, 26 kites, 27 books and 28 puppets"/>
+        <subtitle lang="jm" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="pk" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="na" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="ar" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="py" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="me" line="&#x646;&#x639;&#x645;,  &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x648; &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x662;&#x669; &#x642;&#x631;&#x635; &#x645;&#x636;&#x63A;&#x648;&#x637; &#x648;&#x644;&#x643;&#x646; &#x623;&#x643;&#x62B;&#x631;&#x645;&#x62A;&#x639;&#x629; &#x645;&#x646; &#x630;&#x644;&#x643;  "/>
+        <subtitle lang="cu" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="gh" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="sv" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="gm" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="vu" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="cl" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="nl" line="29 cd&#x2019;s maar nog leuker, Mijn 30 vrienden, Ja 30 vrienden."/>
+        <subtitle lang="us" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="bd" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="sb" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="cr" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="fj" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="vc" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="za" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="tt" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="mu" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="bo" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="sl" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="pa" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="sco" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+        <subtitle lang="hn" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="gt" line="29 discos, pero m&#xE1;s divertido son mis 30 amigos, si mis 30 amigos."/>
+        <subtitle lang="dm" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+      <subtitle lang="saa" line="&#x646;&#x639;&#x645;,  &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x648; &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x662;&#x669; &#x642;&#x631;&#x635; &#x645;&#x636;&#x63A;&#x648;&#x637; &#x648;&#x644;&#x643;&#x646; &#x623;&#x643;&#x62B;&#x631;&#x645;&#x62A;&#x639;&#x629; &#x645;&#x646; &#x630;&#x644;&#x643;  "/><subtitle lang="lba" line="&#x646;&#x639;&#x645;,  &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x648; &#x663;&#x660;  &#x645;&#x646; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A;&#x662;&#x669; &#x642;&#x631;&#x635; &#x645;&#x636;&#x63A;&#x648;&#x637; &#x648;&#x644;&#x643;&#x646; &#x623;&#x643;&#x62B;&#x631;&#x645;&#x62A;&#x639;&#x629; &#x645;&#x646; &#x630;&#x644;&#x643;  "/>
+				<subtitle lang="ine" line="29 CDs, but more fun than that are my 30 friends, yes my 30 friends."/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="98974" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager." start="103681" length="3360">
+      <highlight index="0" start="154" length="413"/>
+      <highlight index="1" start="550" length="248"/>
+      <highlight index="2" start="853" length="1019"/>
+      <highlight index="3" start="1922" length="1195"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share."/>
+        <subtitle lang="zw" line="because I love to share."/>
+        <subtitle lang="ng" line="because I love to share."/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share."/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele"/>
+        <subtitle lang="ag" line="because I love to share."/>
+        <subtitle lang="bw" line="because I love to share."/>
+        <subtitle lang="au" line="because I love to share."/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share."/>
+        <subtitle lang="ae" line="because I love to share."/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share."/>
+        <subtitle lang="lb" line="because I love to share."/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share."/>
+        <subtitle lang="ws" line="because I love to share."/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share."/>
+        <subtitle lang="zm" line="because I love to share."/>
+        <subtitle lang="ke" line="because I love to share."/>
+        <subtitle lang="sg" line="because I love to share."/>
+        <subtitle lang="sa" line="because I love to share."/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share."/>
+        <subtitle lang="bs" line="because I love to share."/>
+        <subtitle lang="ug" line="because I love to share."/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share."/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share."/>
+        <subtitle lang="pk" line="because I love to share."/>
+        <subtitle lang="na" line="because I love to share."/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share."/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share."/>
+        <subtitle lang="vu" line="because I love to share."/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel"/>
+        <subtitle lang="us" line="because I love to share."/>
+        <subtitle lang="bd" line="because I love to share."/>
+        <subtitle lang="sb" line="because I love to share."/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share."/>
+        <subtitle lang="vc" line="because I love to share."/>
+        <subtitle lang="za" line="because I love to share."/>
+        <subtitle lang="tt" line="because I love to share."/>
+        <subtitle lang="mu" line="because I love to share."/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share."/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share."/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share."/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629; "/>
+				<subtitle lang="ine" line="because I love to share."/>
+			</subtitles>
+    </line>
+    <line words="A mon avis, je ne suis pas g&#xE2;t&#xE9;" start="106950" length="4761">
+      <highlight index="0" start="842" length="242"/>
+      <highlight index="1" start="1061" length="460"/>
+      <highlight index="2" start="1482" length="414"/>
+      <highlight index="3" start="2216" length="265"/>
+      <highlight index="4" start="2427" length="288"/>
+      <highlight index="5" start="2692" length="297"/>
+      <highlight index="6" start="2989" length="288"/>
+      <highlight index="7" start="3230" length="617"/>
+      <subtitles>
+        <subtitle lang="en" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ng" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ni" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="bz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="dk" line="Efter min mening er jeg ikke fork&#xE6;let"/>
+        <subtitle lang="ag" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="au" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sp" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="pr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="mt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ae" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ec" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="to" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="lb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="es" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="rw" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ws" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pe" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gy" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="zm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ke" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sg" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sa" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mx" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="do" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="tz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bs" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ug" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ve" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="ca" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="co" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nz" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="jm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pk" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="na" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="ar" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="py" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="me" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+        <subtitle lang="cu" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gh" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sv" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gm" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cl" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="nl" line="Nee ik vind mezelf helemaal niet verwend"/>
+        <subtitle lang="us" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bd" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="sb" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="cr" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="fj" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="vc" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="za" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="tt" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="mu" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="bo" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sl" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="pa" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="sco" line="In my opinion, I'm not spoilt"/>
+        <subtitle lang="hn" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="gt" line="En mi opini&#xF3;n, no estoy mimado"/>
+        <subtitle lang="dm" line="In my opinion, I'm not spoilt"/>
+      <subtitle lang="saa" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/><subtitle lang="lba" line="&#x628;&#x631;&#x623;&#x64A;&#x64A; &#x623;&#x646;&#x627; &#x644;&#x633;&#x62A; &#x645;&#x62F;&#x644;&#x644;&#x627;"/>
+				<subtitle lang="ine" line="In my opinion, I'm not spoilt"/>
+			</subtitles>
+    </line>
+    <line words="parce que j'adore partager." start="111788" length="3923">
+      <highlight index="0" start="154" length="413"/>
+      <highlight index="1" start="550" length="248"/>
+      <highlight index="2" start="1010" length="862"/>
+      <highlight index="3" start="1907" length="1747"/>
+      <subtitles>
+        <subtitle lang="en" line="because I love to share."/>
+        <subtitle lang="zw" line="because I love to share."/>
+        <subtitle lang="ng" line="because I love to share."/>
+        <subtitle lang="ni" line="porque me gusta compartir."/>
+        <subtitle lang="bz" line="because I love to share."/>
+        <subtitle lang="dk" line="for jeg kan godt lide at dele"/>
+        <subtitle lang="ag" line="because I love to share."/>
+        <subtitle lang="bw" line="because I love to share."/>
+        <subtitle lang="au" line="because I love to share."/>
+        <subtitle lang="sp" line="porque me gusta compartir."/>
+        <subtitle lang="pr" line="porque me gusta compartir."/>
+        <subtitle lang="mt" line="because I love to share."/>
+        <subtitle lang="ae" line="because I love to share."/>
+        <subtitle lang="ec" line="porque me gusta compartir."/>
+        <subtitle lang="to" line="because I love to share."/>
+        <subtitle lang="lb" line="because I love to share."/>
+        <subtitle lang="es" line="porque me gusta compartir."/>
+        <subtitle lang="rw" line="because I love to share."/>
+        <subtitle lang="ws" line="because I love to share."/>
+        <subtitle lang="pe" line="porque me gusta compartir."/>
+        <subtitle lang="gy" line="because I love to share."/>
+        <subtitle lang="zm" line="because I love to share."/>
+        <subtitle lang="ke" line="because I love to share."/>
+        <subtitle lang="sg" line="because I love to share."/>
+        <subtitle lang="sa" line="because I love to share."/>
+        <subtitle lang="mx" line="porque me gusta compartir."/>
+        <subtitle lang="do" line="porque me gusta compartir."/>
+        <subtitle lang="tz" line="because I love to share."/>
+        <subtitle lang="bs" line="because I love to share."/>
+        <subtitle lang="ug" line="because I love to share."/>
+        <subtitle lang="ve" line="porque me gusta compartir."/>
+        <subtitle lang="ca" line="because I love to share."/>
+        <subtitle lang="co" line="porque me gusta compartir."/>
+        <subtitle lang="nz" line="because I love to share!"/>
+        <subtitle lang="jm" line="because I love to share."/>
+        <subtitle lang="pk" line="because I love to share."/>
+        <subtitle lang="na" line="because I love to share."/>
+        <subtitle lang="ar" line="porque me gusta compartir."/>
+        <subtitle lang="py" line="porque me gusta compartir."/>
+        <subtitle lang="me" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+        <subtitle lang="cu" line="porque me gusta compartir."/>
+        <subtitle lang="gh" line="because I love to share."/>
+        <subtitle lang="sv" line="porque me gusta compartir."/>
+        <subtitle lang="gm" line="because I love to share."/>
+        <subtitle lang="vu" line="because I love to share."/>
+        <subtitle lang="cl" line="porque me gusta compartir."/>
+        <subtitle lang="nl" line="Omdat ik alles heel graag deel."/>
+        <subtitle lang="us" line="because I love to share."/>
+        <subtitle lang="bd" line="because I love to share."/>
+        <subtitle lang="sb" line="because I love to share."/>
+        <subtitle lang="cr" line="porque me gusta compartir."/>
+        <subtitle lang="fj" line="because I love to share."/>
+        <subtitle lang="vc" line="because I love to share."/>
+        <subtitle lang="za" line="because I love to share."/>
+        <subtitle lang="tt" line="because I love to share."/>
+        <subtitle lang="mu" line="because I love to share."/>
+        <subtitle lang="bo" line="porque me gusta compartir."/>
+        <subtitle lang="sl" line="because I love to share."/>
+        <subtitle lang="pa" line="porque me gusta compartir."/>
+        <subtitle lang="sco" line="because I love to share."/>
+        <subtitle lang="hn" line="porque me gusta compartir."/>
+        <subtitle lang="gt" line="porque me gusta compartir."/>
+        <subtitle lang="dm" line="because I love to share."/>
+      <subtitle lang="saa" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/><subtitle lang="lba" line="&#x644;&#x623;&#x646;&#x646;&#x64A; &#x623;&#x62D;&#x628; &#x627;&#x644;&#x645;&#x634;&#x627;&#x631;&#x643;&#x629;"/>
+				<subtitle lang="ine" line="because I love to share."/>
+			</subtitles>
+    </line>
+    <line words="21 robots, 22 peluches, 23 skates,  24 guitares" start="119502" length="8237">
+      <highlight index="0" start="300" length="856"/>
+      <highlight index="1" start="1282" length="618"/>
+      <highlight index="2" start="2438" length="665"/>
+      <highlight index="3" start="2993" length="712"/>
+      <highlight index="4" start="4386" length="681"/>
+      <highlight index="5" start="5132" length="727"/>
+      <highlight index="6" start="5780" length="364"/>
+      <highlight index="7" start="6234" length="1063"/>
+      <highlight index="8" start="7325" length="912"/>
+      <subtitles>
+        <subtitle lang="en" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="zw" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ng" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ni" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="bz" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="dk" line="21 robotter, 22 kludedukker, 23 skateboards og 24 guitarer"/>
+        <subtitle lang="ag" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="bw" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="au" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="sp" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="pr" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="mt" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ae" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ec" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="to" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="lb" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="es" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="rw" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ws" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="pe" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="gy" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="zm" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ke" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="sg" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="sa" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="mx" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="do" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="tz" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="bs" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ug" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ve" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="ca" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="co" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="nz" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="jm" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="pk" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="na" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="ar" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="py" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="cu" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="gh" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="sv" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="gm" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="vu" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="cl" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="nl" line="21 robots, 22 knuffels 23 skateboards, 24 gitaren"/>
+        <subtitle lang="us" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="bd" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="sb" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="cr" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="fj" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="vc" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="za" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="tt" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="mu" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="bo" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="sl" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="pa" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="sco" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+        <subtitle lang="hn" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="gt" line="21 robots, 22 scooters, 23 juegos, 24 guitarras"/>
+        <subtitle lang="dm" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+      <subtitle lang="ine" line="21 robots, 22 soft toys, 23 skateboards, 24 guitars"/>
+			</subtitles>
+    </line>
+    <line words="25 ballons, 26 cerf volants, 27 livres,  28 poup&#xE9;es" start="127477" length="8237">
+      <highlight index="0" start="337" length="844"/>
+      <highlight index="1" start="1096" length="971"/>
+      <highlight index="2" start="2249" length="957"/>
+      <highlight index="3" start="3206" length="295"/>
+      <highlight index="4" start="3445" length="689"/>
+      <highlight index="5" start="4274" length="604"/>
+      <highlight index="6" start="5160" length="647"/>
+      <highlight index="7" start="5765" length="200"/>
+      <highlight index="8" start="6215" length="1068"/>
+      <highlight index="9" start="7241" length="717"/>
+      <subtitles>
+        <subtitle lang="en" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="dm" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ng" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ni" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="bz" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="dk" line="25 bolde, 26 drager, 27 b&#xF8;ger, 28 dukker"/>
+        <subtitle lang="ag" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="bw" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="au" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="sp" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="pr" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="mt" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ae" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ec" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="to" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="lb" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="es" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="rw" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="fj" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="pe" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="gy" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="zm" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ve" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="sg" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="sa" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="mx" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="do" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="tz" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="bs" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ug" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ws" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ca" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="co" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="jm" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="pk" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="na" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="ar" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="py" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="ke" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="me" line="&#x662;&#x667;  &#x643;&#x62A;&#x627;&#x628;&#x627; &#x648;&#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/>
+        <subtitle lang="cu" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="gh" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="sv" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="gm" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="vu" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="cl" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="nl" line="25 ballen, 26 vliegers "/>
+        <subtitle lang="us" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="bd" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="sb" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="cr" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="vc" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="za" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="tt" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="mu" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="bo" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="sl" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="pa" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="sco" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+        <subtitle lang="hn" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="gt" line="25 balones, 26 papalotes, 25 balones, 26 papalotes"/>
+        <subtitle lang="zw" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+      <subtitle lang="saa" line="&#x662;&#x667;  &#x643;&#x62A;&#x627;&#x628;&#x627; &#x648;&#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/><subtitle lang="lba" line="&#x662;&#x667;  &#x643;&#x62A;&#x627;&#x628;&#x627; &#x648;&#x662;&#x668; &#x645;&#x646; &#x627;&#x644;&#x62F;&#x645;&#x649; &#x627;&#x644;&#x645;&#x62A;&#x62D;&#x631;&#x643;&#x629;&#x662;&#x665; &#x643;&#x631;&#x629;  &#x648;&#x662;&#x666; &#x637;&#x627;&#x626;&#x631;&#x629; &#x648;&#x631;&#x642;&#x64A;&#x629;"/>
+				<subtitle lang="ine" line="25 balls, 26 kites, 27 books, 28 puppets,"/>
+			</subtitles>
+    </line>
+    <line words="29 CDs, et mes 30 amis, et mes 30 amis!" start="135583" length="9661">
+      <highlight index="0" start="300" length="856"/>
+      <highlight index="1" start="1282" length="618"/>
+      <highlight index="2" start="1912" length="450"/>
+      <highlight index="3" start="2348" length="829"/>
+      <highlight index="4" start="3121" length="506"/>
+      <highlight index="5" start="3543" length="1392"/>
+      <highlight index="6" start="6130" length="295"/>
+      <highlight index="7" start="6383" length="408"/>
+      <highlight index="8" start="7016" length="520"/>
+      <highlight index="9" start="7522" length="1716"/>
+      <subtitles>
+        <subtitle lang="fj" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ca" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="gy" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="zw" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="tz" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="jm" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="pk" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="en" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ag" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ng" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="bz" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ws" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="gh" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="au" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="na" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="gm" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="vu" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="bw" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ae" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="to" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="lb" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="us" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="za" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="rw" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="mt" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="vc" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="bd" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="tt" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="mu" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="sb" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="zm" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="sl" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ug" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="sg" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="sa" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="sco" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="dm" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="bs" line="29 CDs and my 30 friends, and my 30 friends!"/>
+        <subtitle lang="ke" line="29 CDs and my 30 friends, and my 30 friends!"/>
+      <subtitle lang="ine" line="29 CDs and my 30 friends, and my 30 friends!"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

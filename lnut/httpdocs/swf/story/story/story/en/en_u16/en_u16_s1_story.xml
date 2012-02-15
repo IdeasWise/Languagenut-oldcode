@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="146494" >
+	<lines>
+		<line words="Jane and Tom at the Seaside" start="0" length="5071" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1423" length="265" />
+				<highlight index="1" start="1707" length="172" />
+				<highlight index="2" start="1932" length="200" />
+				<highlight index="3" start="2171" length="112" />
+				<highlight index="4" start="2330" length="200" />
+				<highlight index="5" start="2608" length="304" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Jane og Tom ved havet" />
+				<subtitle lang="ch" line="Jiǎn hé tāngmǔ qù hǎibiān" />
+				<subtitle lang="cn" line="简和汤姆去海边" />
+				<subtitle lang="nl" line="Janet en Tom aan zee" />
+				<subtitle lang="so" line="Jane iyo Tom waxy joogaan xeebta" />
+				<subtitle lang="cc" line="简和汤姆去海边" />
+				<subtitle lang="pt" line="JANE E TOM NA BEIRA MAR	" />
+			</subtitles>
+		</line>
+		<line words="Jane and her brother, Tom, are staying with their Grandma who lives by the sea." start="5071" length="7313" useLNutResource="true" image="16#1#5" >
+			<highlights>
+				<highlight index="0" start="1680" length="238" />
+				<highlight index="1" start="1928" length="105" />
+				<highlight index="2" start="2100" length="133" />
+				<highlight index="3" start="2252" length="325" />
+				<highlight index="4" start="2663" length="353" />
+				<highlight index="5" start="3045" length="200" />
+				<highlight index="6" start="3274" length="305" />
+				<highlight index="7" start="3598" length="115" />
+				<highlight index="8" start="3751" length="153" />
+				<highlight index="9" start="3942" length="430" />
+				<highlight index="10" start="4410" length="162" />
+				<highlight index="11" start="4591" length="124" />
+				<highlight index="12" start="4792" length="100" />
+				<highlight index="13" start="4983" length="114" />
+				<highlight index="14" start="5183" length="296" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="Jane y su hermano, Tom, se quedan con su abuela que vive cerca del mar." />
+				<subtitle lang="dk" line="Jane og hendes bror, Tom, er på besøg hos deres bedstemor, der bor ved havet." />
+				<subtitle lang="ch" line="Jiǎn hé tā dí gēgē, tāngmǔ hé tāmen de zǔmǔ zhù kàojìn hǎibiān." />
+				<subtitle lang="cn" line="简和他的哥哥汤姆与他们的祖母一起住在海边。" />
+				<subtitle lang="cl" line="Jane y su hermano, Tom, se quedan con su abuela que vive cerca del mar." />
+				<subtitle lang="nl" line="Janet en haar broer Tom zijn bij oma, die aan zee woont." />
+				<subtitle lang="so" line="Jane iyo walaalkeda Tom, waxay la joogaan Ayeeyo oo ku nool xeebta." />
+				<subtitle lang="mx" line="Jane y su hermano, Tom, se quedan con su abuela que vive cerca del mar." />
+				<subtitle lang="pt" line="Jane e seu irmão, Tom, estão ficando com sua avó que mora na beira mar." />
+				<subtitle lang="cc" line="简和他的哥哥，汤姆和他们的祖母住靠近海边。" />
+			</subtitles>
+		</line>
+		<line words="On Monday, Jane says to Grandma, “Please, can we go to the beach today?” “Not today,” says Grandma. “It is very crowded, and the beach is dirty and pebbly.”" start="12148" length="15452" useLNutResource="true" image="16#4#1" >
+			<highlights>
+				<highlight index="0" start="1996" length="200" />
+				<highlight index="1" start="2259" length="423" />
+				<highlight index="2" start="2944" length="242" />
+				<highlight index="3" start="3227" length="202" />
+				<highlight index="4" start="3469" length="181" />
+				<highlight index="5" start="3751" length="605" />
+				<highlight index="6" start="4619" length="282" />
+				<highlight index="7" start="4921" length="182" />
+				<highlight index="8" start="5103" length="101" />
+				<highlight index="9" start="5183" length="162" />
+				<highlight index="10" start="5405" length="162" />
+				<highlight index="11" start="5587" length="121" />
+				<highlight index="12" start="5708" length="323" />
+				<highlight index="13" start="6152" length="464" />
+				<highlight index="14" start="7564" length="303" />
+				<highlight index="15" start="7886" length="747" />
+				<highlight index="16" start="8955" length="182" />
+				<highlight index="17" start="9278" length="666" />
+				<highlight index="18" start="10004" length="200" />
+				<highlight index="19" start="10206" length="200" />
+				<highlight index="20" start="10488" length="182" />
+				<highlight index="21" start="10710" length="504" />
+				<highlight index="22" start="11537" length="101" />
+				<highlight index="23" start="11679" length="100" />
+				<highlight index="24" start="11880" length="343" />
+				<highlight index="25" start="12223" length="100" />
+				<highlight index="26" start="12364" length="323" />
+				<highlight index="27" start="12828" length="141" />
+				<highlight index="28" start="13050" length="504" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="El lunes, Jane le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “La playa está abarrotada, está sucia y es de piedras.”" />
+				<subtitle lang="dk" line="Om mandagen siger Jane til bedstemor: “Kan vi ikke godt tage til stranden i dag?” ”Ikke i dag,” siger bedstemor. ”Der er overfyldt, og stranden er beskidt og fuld af sten.”" />
+				<subtitle lang="ch" line="Xīngqí yī, Jiǎn wèn zǔmǔ:“ wǒmen jīntiān kěyǐ qù hǎitān wán er me”“Jīntiān bùxíng, ” zǔmǔ shuō:“Jīntiān rén duō érqiě hǎitān huì shì yòu zàng yòu duō shí de. ”" />
+				<subtitle lang="cn" line="星期一，简问祖母：“我们今天可以去海滩玩儿么？”“今天不行，”祖母说。“今天人多而且海滩会是又脏又多石。”" />
+				<subtitle lang="cl" line="El lunes, Jane le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “La playa está abarrotada, está sucia y es de piedras.”" />
+				<subtitle lang="nl" line="Op maandag zegt Janet tegen oma, “Mogen we vandaag naar het strand?” “Vandaag niet,” zegt oma. “Het is er heel druk en het strand is vies en vol met kiezels.”" />
+				<subtitle lang="so" line="Maalin Isniinta, Jane waxay ku tiri Ayeeyo, “ Fadlan ma aad karnaa xeebta maanta”“ Maya maanta,” tiri Ayeyo. “ waa dad badan tahay xeebtane waa wasaq oo dhagax badan.”" />
+				<subtitle lang="mx" line="El lunes, Jane le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “La playa está abarrotada, está sucia y es de piedras.”" />
+				<subtitle lang="pt" line="Na segunda-feira, Jane diz a avó,§Podemos ir à praia hoje, por favor?§§Hoje não§, diz a avó. §Está lotada e a praia está suja e pedregosa.§" />
+				<subtitle lang="cc" line="星期一，简问祖母：“我们今天可以去海滩玩儿么？”“今天不行，”祖母说。“今天人多而且海滩会是又脏又多石的。”" />
+			</subtitles>
+		</line>
+		<line words="On Tuesday, Tom says to Grandma, “Please, can we go to the beach today?” “Not today,” says Grandma. “It is cloudy and the cliff is dangerous. The beach is empty.”" start="27364" length="17103" useLNutResource="true" image="16#4#10" >
+			<highlights>
+				<highlight index="0" start="1987" length="290" />
+				<highlight index="1" start="2321" length="782" />
+				<highlight index="2" start="3326" length="313" />
+				<highlight index="3" start="3639" length="134" />
+				<highlight index="4" start="3817" length="179" />
+				<highlight index="5" start="4041" length="960" />
+				<highlight index="6" start="5068" length="267" />
+				<highlight index="7" start="5335" length="201" />
+				<highlight index="8" start="5514" length="223" />
+				<highlight index="9" start="5715" length="201" />
+				<highlight index="10" start="5894" length="178" />
+				<highlight index="11" start="6072" length="179" />
+				<highlight index="12" start="6229" length="245" />
+				<highlight index="13" start="6474" length="1049" />
+				<highlight index="14" start="7769" length="201" />
+				<highlight index="15" start="8015" length="826" />
+				<highlight index="16" start="8975" length="402" />
+				<highlight index="17" start="9443" length="782" />
+				<highlight index="18" start="10381" length="179" />
+				<highlight index="19" start="10515" length="200" />
+				<highlight index="20" start="10694" length="469" />
+				<highlight index="21" start="11453" length="178" />
+				<highlight index="22" start="11676" length="156" />
+				<highlight index="23" start="11855" length="156" />
+				<highlight index="24" start="12078" length="112" />
+				<highlight index="25" start="12234" length="1004" />
+				<highlight index="26" start="13462" length="200" />
+				<highlight index="27" start="13663" length="313" />
+				<highlight index="28" start="13976" length="223" />
+				<highlight index="29" start="14266" length="804" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="El martes, Tom le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “Está nublado y el acantilado es peligroso. La playa está vacía.”" />
+				<subtitle lang="dk" line="Om tirsdagen siger Tom til bedstemor: “Kan vi ikke godt tage til stranden i dag?” ”Ikke i dag,” siger bedstemor. ”Det er overskyet, og klippen er farlig. Der er ingen på stranden.”" />
+				<subtitle lang="ch" line="Xīngqí èr, tāngmǔ wèn zǔmǔ:“ ? wǒmen jīntiān kěyǐ qù hǎitān wán er me ?” “Jīntiān bùxíng, “zǔmǔ shuō:” Jīntiān duōyún érqiě xuányá nàlǐ shì wéixiǎn de. Hǎitān shì kōng de. “ " />
+				<subtitle lang="cn" line="星期二，汤姆问祖母：“我们今天可以去海滩玩儿么？”“今天不行，”祖母说。“今天多云而且悬崖那里是危险的。海滩上没有人。”" />
+				<subtitle lang="cl" line="El martes, Tom le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “Está nublado y el acantilado es peligroso. La playa está vacía.”" />
+				<subtitle lang="nl" line="Op dinsdag vraagt Tom aan oma “Mogen we vandaag naar het strand?” “Vandaag niet,” zegt oma. “Het is bewolkt en de klif is gevaarlijk. Het strand is leeg.”" />
+				<subtitle lang="so" line="Maalin Talaadada, Tom waxuu  ku tiri Ayeeyo, “ Fadlan ma aad karnaa xeebta maanta”“ Maya maanta,” tiri Ayeyo. “ waa maalin daruur ah, cirifkane kore waa qatar. Xeebtane waa cidlo.”" />
+				<subtitle lang="mx" line="El martes, Tom le dice a su abuela, “¿Por favor, podemos ir a la playa hoy?§ “Hoy no”, dice su abuela. “Está nublado y el acantilado es peligroso. La playa está vacía.”" />
+				<subtitle lang="pt" line="Na terça-feira, Tom diz a avó, §Podemos ir à praia hoje, por favor?§§Hoje não§, diz a avó. §Esta muito nublado e a falésia é perigosa. A praia está vazia.§" />
+				<subtitle lang="cc" line="星期二，汤姆问祖母：“我们今天可以去海滩玩儿么？”“今天不行，”祖母说。“今天多云而且悬崖那里是危险的。海滩是空的。”" />
+			</subtitles>
+		</line>
+		<line words="On Wednesday, Jane and Tom say to their Grandma, “Please, can we go to the beach today?” “Yes,” says Grandma. “It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.”" start="43995" length="19108" useLNutResource="true" image="16#4#9" >
+			<highlights>
+				<highlight index="0" start="1920" length="324" />
+				<highlight index="1" start="2195" length="798" />
+				<highlight index="2" start="2943" length="274" />
+				<highlight index="3" start="3142" length="300" />
+				<highlight index="4" start="3442" length="324" />
+				<highlight index="5" start="3716" length="424" />
+				<highlight index="6" start="4090" length="200" />
+				<highlight index="7" start="4290" length="324" />
+				<highlight index="8" start="4564" length="848" />
+				<highlight index="9" start="5412" length="250" />
+				<highlight index="10" start="5612" length="274" />
+				<highlight index="11" start="5886" length="150" />
+				<highlight index="12" start="6036" length="174" />
+				<highlight index="13" start="6161" length="200" />
+				<highlight index="14" start="6310" length="200" />
+				<highlight index="15" start="6485" length="399" />
+				<highlight index="16" start="6834" length="1247" />
+				<highlight index="17" start="8006" length="1198" />
+				<highlight index="18" start="9179" length="224" />
+				<highlight index="19" start="9353" length="1322" />
+				<highlight index="20" start="10650" length="200" />
+				<highlight index="21" start="10775" length="200" />
+				<highlight index="22" start="10925" length="524" />
+				<highlight index="23" start="11424" length="199" />
+				<highlight index="24" start="11548" length="200" />
+				<highlight index="25" start="11648" length="449" />
+				<highlight index="26" start="12097" length="200" />
+				<highlight index="27" start="12247" length="1022" />
+				<highlight index="28" start="13220" length="274" />
+				<highlight index="29" start="13494" length="399" />
+				<highlight index="30" start="13843" length="200" />
+				<highlight index="31" start="14043" length="798" />
+				<highlight index="32" start="14816" length="150" />
+				<highlight index="33" start="14941" length="200" />
+				<highlight index="34" start="15140" length="374" />
+				<highlight index="35" start="15464" length="275" />
+				<highlight index="36" start="15714" length="698" />
+				<highlight index="37" start="16338" length="299" />
+				<highlight index="38" start="16637" length="848" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="El miércoles, Jane y Tom le dicen a su abuela “¿Por favor, podemos ir a la playa hoy?” “Sí”, dice su abuela. “Está soleado y el cielo está azul. El mar está tranquilo y la arena es amarilla y está limpia.” " />
+				<subtitle lang="dk" line="Om onsdagen siger Jane og Tom til deres bedstemor: “Kan vi ikke godt tage til stranden i dag?” ”Jo,” siger bedstemor. ”Det er solskin, og himlen er blå. Havet er sikkert, og sandet er gult og rent.”" />
+				<subtitle lang="ch" line="Xīngqí sān, Jiǎn hé tāngmǔ wèn zǔmǔ: “ wǒmen jīntiān kěyǐ qù hǎitān wán er me”Kěyǐ, “zǔmǔ shuō.  “Jīntiān chū tàiyáng érqiě tiānkōng shì lán sè de. Dàhǎi shì ānquán de érqiě shātān yòu huáng yòu gānjìng.”" />
+				<subtitle lang="cn" line="星期三，简和汤姆问祖母：“我们今天可以去海滩玩儿么？”“可以，”祖母说。“今天出太阳而且天空是蓝色的。大海是安全的而且沙滩又黄又干净。”" />
+				<subtitle lang="cl" line="El miércoles, Jane y Tom le dicen a su abuela “¿Por favor, podemos ir a la playa hoy?” “Sí”, dice su abuela. “Está soleado y el cielo está azul. El mar está tranquilo y la arena es amarilla y está limpia.” " />
+				<subtitle lang="nl" line="Op woensdag zeggen Janet en Tom tegen hun oma “Mogen we vandaag naar het strand?” “Ja,” zegt oma. “Het is lekker weer en de lucht is blauw. De zee is veilig en het zand is geel en schoon.”" />
+				<subtitle lang="so" line="Maalin Arbacada, Jane iyo Tom waxay ku yiraahdeen  Ayeeyo, “ Fadlan ma aad karnaa xeebta maanta”“ Haye ,” tiri Ayeyo. “ Waa maalin qorax ah cirkane buluug yahay. Badda waa amaan, bacaadkane waa nadiif  jaalo ah." />
+				<subtitle lang="mx" line="El miércoles, Jane y Tom le dicen a su abuela “¿Por favor, podemos ir a la playa hoy?” “Sí”, dice su abuela. “Está soleado y el cielo está azul. El mar está tranquilo y la arena es amarilla y está limpia.” " />
+				<subtitle lang="pt" line="Na quarta-feira, Jane e Tom perguntam à sua avó, §Por favor, podemos ir à praia hoje?§§Sim§, diz a avó. §Está fazendo sol e o céu está azul. O mar está seguro e a areia está amarela e limpa §." />
+				<subtitle lang="cc" line="星期三，简和汤姆问祖母：“我们今天可以去海滩玩儿么？”“可以，”祖母说。“今天出太阳而且天空是蓝色的。大海是安全的而且沙滩又黄又干净。”" />
+			</subtitles>
+		</line>
+		<line words="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket." start="62985" length="14508" useLNutResource="true" image="16#1#4" >
+			<highlights>
+				<highlight index="0" start="1704" length="265" />
+				<highlight index="1" start="1969" length="454" />
+				<highlight index="2" start="2405" length="200" />
+				<highlight index="3" start="2556" length="890" />
+				<highlight index="4" start="3655" length="492" />
+				<highlight index="5" start="4109" length="398" />
+				<highlight index="6" start="4545" length="303" />
+				<highlight index="7" start="4867" length="833" />
+				<highlight index="8" start="5643" length="190" />
+				<highlight index="9" start="5871" length="227" />
+				<highlight index="10" start="6122" length="100" />
+				<highlight index="11" start="6249" length="341" />
+				<highlight index="12" start="6685" length="663" />
+				<highlight index="13" start="7480" length="200" />
+				<highlight index="14" start="7670" length="360" />
+				<highlight index="15" start="8067" length="550" />
+				<highlight index="16" start="8768" length="200" />
+				<highlight index="17" start="9014" length="265" />
+				<highlight index="18" start="9279" length="360" />
+				<highlight index="19" start="9677" length="200" />
+				<highlight index="20" start="9904" length="474" />
+				<highlight index="21" start="10359" length="100" />
+				<highlight index="22" start="10448" length="100" />
+				<highlight index="23" start="10543" length="100" />
+				<highlight index="24" start="10662" length="100" />
+				<highlight index="25" start="10851" length="341" />
+				<highlight index="26" start="11363" length="548" />
+				<highlight index="27" start="11912" length="100" />
+				<highlight index="28" start="12045" length="113" />
+				<highlight index="29" start="12177" length="1004" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="La playa está preciosa. Jane, Tom y la abuela se sientan debajo de una sombrilla verde en sus toallas. Llevan gorras azul claro y tienen un riquísimo picnic en una cesta." />
+				<subtitle lang="dk" line="Stranden er smuk. Jane, Tom og bedstemor sidder under en grøn parasol på deres håndklæder. De har lyseblå hatte på, og de har en dejlig madpakke i en kurv." />
+				<subtitle lang="ch" line="Hǎitān shì měilì de。 jiǎn, tāngmǔ hé zǔmǔ zuò zài yī bǎ lǜsè yǔsǎn dīxià de máojīn shàng.Tāmen dàizhe lán sè de màozi érqiě zài yīgè lánzi lǐ tāmen hái yǒu měi wei de yěcān." />
+				<subtitle lang="cn" line="海滩是美丽的。简，汤姆和祖母坐在一把绿色雨伞下的毛巾上。他们带着淡蓝色的帽子而且他们的篮子里还有美味的野餐。" />
+				<subtitle lang="cl" line="La playa está preciosa. Jane, Tom y la abuela se sientan debajo de una sombrilla verde en sus toallas. Llevan gorras azul claro y tienen un riquísimo picnic en una cesta." />
+				<subtitle lang="nl" line="Het strand is prachtig. Janet, Tom en oma zitten onder een groene parasol op hun strandlakens. Ze dragen lichtblauwe hoedjes en ze hebben een mooie picknickmand." />
+				<subtitle lang="so" line="Xeebta aad bay u qurxantahay. Jane, Tom iyo Ayeeyo waxay hoos fariisteen dalad cagaaran shukumaano dhigteen. Waxy ku labisteen koofiyo buluug qafiif ah, waxayne danbiisha ku siteen cunta aad u fiican." />
+				<subtitle lang="mx" line="La playa está preciosa. Jane, Tom y la abuela se sientan debajo de una sombrilla verde en sus toallas. Llevan gorras azul claro y tienen un riquísimo picnic en una cesta." />
+				<subtitle lang="pt" line="A praia é linda. Jane, Tom e a avó sentam-se sob um guarda-sol verde em seu toalhas. Eles usam chapéus azuis claros e fazem pique-nique que trouxeram numa linda cesta." />
+				<subtitle lang="cc" line="海滩是美丽的。简，汤姆和祖母坐在一把绿色雨伞下的毛巾上。他们带着蓝色的帽子而且在一个篮子里他们还有美味的野餐。" />
+			</subtitles>
+		</line>
+		<line words="“What can you see?” asks Grandma. Jane looks at the sea and says, “A small boat with a red sail is gliding along and there is a big steamer.”" start="77375" length="15215" useLNutResource="true" image="16#6#8" >
+			<highlights>
+				<highlight index="0" start="1827" length="218" />
+				<highlight index="1" start="2045" length="179" />
+				<highlight index="2" start="2323" length="141" />
+				<highlight index="3" start="2562" length="814" />
+				<highlight index="4" start="3714" length="377" />
+				<highlight index="5" start="4091" length="1052" />
+				<highlight index="6" start="5481" length="318" />
+				<highlight index="7" start="5819" length="179" />
+				<highlight index="8" start="6097" length="119" />
+				<highlight index="9" start="6215" length="100" />
+				<highlight index="10" start="6335" length="200" />
+				<highlight index="11" start="6554" length="258" />
+				<highlight index="12" start="6832" length="417" />
+				<highlight index="13" start="7865" length="278" />
+				<highlight index="14" start="8262" length="218" />
+				<highlight index="15" start="8639" length="378" />
+				<highlight index="16" start="9374" length="159" />
+				<highlight index="17" start="9493" length="139" />
+				<highlight index="18" start="9632" length="120" />
+				<highlight index="19" start="9970" length="219" />
+				<highlight index="20" start="10288" length="200" />
+				<highlight index="21" start="10586" length="337" />
+				<highlight index="22" start="10943" length="239" />
+				<highlight index="23" start="11698" length="200" />
+				<highlight index="24" start="11936" length="200" />
+				<highlight index="25" start="12175" length="198" />
+				<highlight index="26" start="12393" length="119" />
+				<highlight index="27" start="12572" length="100" />
+				<highlight index="28" start="12771" length="516" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="“¿Qué puedes ver?” pregunta la abuela. Jane mira al mar y dice “Un barco pequeño con una vela roja está navegando y hay un vapor muy grande.”" />
+				<subtitle lang="dk" line="“Hvad kan du se?” spørger bedstemor. Jane kigger ud over havet og siger: §En lille båd med et rødt sejl og en stor damper.”" />
+				<subtitle lang="ch" line="Nǐ kěyǐ kànjiàn shénme?” Zǔmǔ wèn dào.Jiǎn kànzhe hǎi ér shuō “, yī sōu yǒu hóng fān de xiǎochuán zài piāo huázhe, érqiě hái yǒu  yì ge tǐng dà de qìchuán. ”" />
+				<subtitle lang="cn" line="“你可以看见什么？” 祖母问道。简看着海而说，“一艘有红帆的小船在飘滑着，而且还有一个大的汽船。”" />
+				<subtitle lang="cl" line="“¿Qué puedes ver?” pregunta la abuela. Jane mira al mar y dice “Un barco pequeño con una vela roja está navegando y hay un vapor muy grande.”" />
+				<subtitle lang="nl" line="“Wat zie jij?” vraagt oma. Janet kijkt naar de zee en zegt “Een kleine boot met een rood zeil vaart voorbij en er is een grote stoomboot.”" />
+				<subtitle lang="so" line="“ Maxaa arkeysaan?” Ayeeyo ku tiri.Jane waxay fiirisay badda, waxay tiri “Doon yar oo sidato shiraac gaduud oo nuur ka baxayo, waxaane dhiniciisa ka muuqdo qaac bixiye.”" />
+				<subtitle lang="mx" line="“¿Qué puedes ver?” pregunta la abuela. Jane mira al mar y dice “Un barco pequeño con una vela roja está navegando y hay un vapor muy grande.”" />
+				<subtitle lang="pt" line="§O que vês?§, Pergunta a avó.Jane olha para o mar e diz: §Um barquinho com uma vela vermelha velejando e um navio grande.§" />
+				<subtitle lang="cc" line="“你可以看见什么？”祖母问道。简看着海而说，“一艘有红帆的小船在飘滑着，而且还有一个挺大的汽船。”" />
+			</subtitles>
+		</line>
+		<line words="“What can you see?” asks Grandma. Tom says, “A brown dog is watching a little girl sleeping on the sandy beach.”" start="92236" length="13211" useLNutResource="true" image="16#2#3" >
+			<highlights>
+				<highlight index="0" start="2052" length="345" />
+				<highlight index="1" start="2397" length="200" />
+				<highlight index="2" start="2569" length="200" />
+				<highlight index="3" start="2742" length="1310" />
+				<highlight index="4" start="4018" length="552" />
+				<highlight index="5" start="4552" length="1397" />
+				<highlight index="6" start="6018" length="200" />
+				<highlight index="7" start="6104" length="932" />
+				<highlight index="8" start="7053" length="259" />
+				<highlight index="9" start="7294" length="501" />
+				<highlight index="10" start="7812" length="372" />
+				<highlight index="11" start="8191" length="200" />
+				<highlight index="12" start="8398" length="500" />
+				<highlight index="13" start="8864" length="103" />
+				<highlight index="14" start="8967" length="259" />
+				<highlight index="15" start="9209" length="362" />
+				<highlight index="16" start="9536" length="552" />
+				<highlight index="17" start="10054" length="200" />
+				<highlight index="18" start="10226" length="200" />
+				<highlight index="19" start="10416" length="379" />
+				<highlight index="20" start="10795" length="690" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="“¿Qué puedes ver?” pregunta la abuela. Tom dice, “Un perro grande está mirando a una niña pequeña durmiendo en la playa de arena.”" />
+				<subtitle lang="dk" line="“Hvad kan du se?” spørger bedstemor. Tom siger: ”En brun hund kigger på en lille pige, der sover på sandstranden.”" />
+				<subtitle lang="ch" line="“Nǐ kěyǐ kànjiàn shénme?” Zǔmǔ wèn dào.Tāngmǔ shuō: “Yī zhī zōngsè de gǒu zàiwàngzhe yīgè shúshuì zài shātān shàng de nǚhái ér”" />
+				<subtitle lang="cn" line="“你可以看见什么？” 祖母问道。汤姆说：“一只棕色的狗在望着一个在沙滩上的熟睡女孩儿。”" />
+				<subtitle lang="cl" line="“¿Qué puedes ver?” pregunta la abuela. Tom dice, “Un perro grande está mirando a una niña pequeña durmiendo en la playa de arena.”" />
+				<subtitle lang="nl" line="“Wat zie jij?” vraagt oma.Tom zegt “Een bruine hond kijkt naar een klein meisje terwijl ze slaapt op het zandstrand.”" />
+				<subtitle lang="so" line="“ Maxaa arkeysaan?” Ayeeyo ku tiri.Tom yir, “ Ey buni ah, ayaa eegayo gabar yar oo jiifto bacaadka xeebta.”" />
+				<subtitle lang="mx" line="“¿Qué puedes ver?” pregunta la abuela. Tom dice, “Un perro grande está mirando a una niña pequeña durmiendo en la playa de arena.”" />
+				<subtitle lang="pt" line="§O que vês?§, Pergunta a avó.Tom diz: §Um cachorro marrom está olhando uma menina dormindo na praia.§" />
+				<subtitle lang="cc" line="“你可以看见什么？”祖母问道。汤姆说：“一只棕色的狗在望着一个在沙滩上的熟睡女孩儿。”" />
+			</subtitles>
+		</line>
+		<line words="“What is the woman doing?” asks Grandma. “She is brushing her hair,” says Jane." start="105447" length="10497" useLNutResource="true" image="16#6#6" >
+			<highlights>
+				<highlight index="0" start="2014" length="200" />
+				<highlight index="1" start="2178" length="200" />
+				<highlight index="2" start="2397" length="200" />
+				<highlight index="3" start="2603" length="548" />
+				<highlight index="4" start="3110" length="1124" />
+				<highlight index="5" start="4220" length="534" />
+				<highlight index="6" start="4754" length="1371" />
+				<highlight index="7" start="6138" length="200" />
+				<highlight index="8" start="6316" length="233" />
+				<highlight index="9" start="6549" length="644" />
+				<highlight index="10" start="7166" length="200" />
+				<highlight index="11" start="7372" length="315" />
+				<highlight index="12" start="7673" length="178" />
+				<highlight index="13" start="7824" length="644" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="“¿Qué está hacienda la mujer?” pregunta la abuela. “Se está peinado el pelo,” dice Jane." />
+				<subtitle lang="dk" line="“Hvad laver damen?” spørger bedstemor. ”Hun børster håret”, siger Jane." />
+				<subtitle lang="ch" line="“Nà wèi nǚshì zài zuò shénme?”Zǔmǔ wèn.“Tā zài shū tóufǎ. Fán huídá dàoshàng.” " />
+				<subtitle lang="cn" line="“那位女士在做什么？” 祖母问。“她在梳头发 。简回答道。" />
+				<subtitle lang="cl" line="“¿Qué está hacienda la mujer?” pregunta la abuela. “Se está peinado el pelo,” dice Jane." />
+				<subtitle lang="nl" line="“Wat doet die vrouw?” vraagt oma. “Ze borstelt haar haren”, zegt Janet." />
+				<subtitle lang="so" line="“ Naagta maxay sameeyneysaa?” weydisay Ayeyo. “ Waxy shanleyni tinteeda”, tiri Jane." />
+				<subtitle lang="mx" line="“¿Qué está hacienda la mujer?” pregunta la abuela. “Se está peinado el pelo,” dice Jane." />
+				<subtitle lang="pt" line="§O que a mulher está fazendo?§, perguntaa avó. §Ela está escovando seus cabelos§ diz Jane." />
+				<subtitle lang="cc" line="“那位女士在做什么？”祖母问。“她在梳头发 。简回答道。" />
+			</subtitles>
+		</line>
+		<line words="“What is the man doing?” asks Grandma. “He is walking around the bay,” says Tom." start="115119" length="12148" useLNutResource="true" image="16#2#9" >
+			<highlights>
+				<highlight index="0" start="2537" length="200" />
+				<highlight index="1" start="2679" length="100" />
+				<highlight index="2" start="2791" length="158" />
+				<highlight index="3" start="3013" length="349" />
+				<highlight index="4" start="3552" length="745" />
+				<highlight index="5" start="4646" length="476" />
+				<highlight index="6" start="5248" length="1745" />
+				<highlight index="7" start="7373" length="269" />
+				<highlight index="8" start="7627" length="174" />
+				<highlight index="9" start="7802" length="301" />
+				<highlight index="10" start="8182" length="333" />
+				<highlight index="11" start="8547" length="191" />
+				<highlight index="12" start="8753" length="936" />
+				<highlight index="13" start="9689" length="190" />
+				<highlight index="14" start="9895" length="555" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="“¿Qué está hacienda el hombre?” pregunta la abuela. “Está andando en la bahía,” dice Tom. " />
+				<subtitle lang="dk" line="“Hvad laver manden?” spørger bedstemor. ”Han går rundt om bugten”, siger Tom." />
+				<subtitle lang="ch" line="“Nà wèi nánshì zài zuò shénme?” Zǔmǔ wèn. “Tā yánzhe hǎiwān zǒu. ” Tāngmǔ huídá dàoshàng." />
+				<subtitle lang="cn" line="“那位男士在做什么？”祖母问。“他沿着海湾走。”汤姆回答道。" />
+				<subtitle lang="cl" line="“¿Qué está hacienda el hombre?” pregunta la abuela. “Está andando en la bahía,” dice Tom. " />
+				<subtitle lang="nl" line="“Wat doet die man?” vraagt oma. “Hij loopt rond bij de baai”, zegt Tom." />
+				<subtitle lang="so" line="“ Ninka maxuu sameeynaa?” weydisay Ayeyo. Asaga waa socdaa kune wareega ku sameeynayaa dhinac”, Tom yit" />
+				<subtitle lang="mx" line="“¿Qué está hacienda el hombre?” pregunta la abuela. “Está andando en la bahía,” dice Tom. " />
+				<subtitle lang="pt" line="§O que o homem está fazendo?§ pergunta a avó. §Ele está andando em volta da baía§ diz Tom." />
+				<subtitle lang="cc" line="“那位男士在做什么？”祖母问。“他沿着海湾走。”汤姆回答道。" />
+			</subtitles>
+		</line>
+		<line words="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy." start="126442" length="17154" useLNutResource="true" image="16#1#9" >
+			<highlights>
+				<highlight index="0" start="2538" length="378" />
+				<highlight index="1" start="2826" length="236" />
+				<highlight index="2" start="3062" length="131" />
+				<highlight index="3" start="3193" length="340" />
+				<highlight index="4" start="3533" length="602" />
+				<highlight index="5" start="4554" length="419" />
+				<highlight index="6" start="4973" length="276" />
+				<highlight index="7" start="5287" length="247" />
+				<highlight index="8" start="5706" length="422" />
+				<highlight index="9" start="6072" length="131" />
+				<highlight index="10" start="6151" length="209" />
+				<highlight index="11" start="6386" length="100" />
+				<highlight index="12" start="6517" length="523" />
+				<highlight index="13" start="7433" length="625" />
+				<highlight index="14" start="8035" length="131" />
+				<highlight index="15" start="8192" length="100" />
+				<highlight index="16" start="8375" length="314" />
+				<highlight index="17" start="8716" length="492" />
+				<highlight index="18" start="9213" length="131" />
+				<highlight index="19" start="9396" length="131" />
+				<highlight index="20" start="9553" length="655" />
+				<highlight index="21" start="10312" length="157" />
+				<highlight index="22" start="10522" length="261" />
+				<highlight index="23" start="10783" length="210" />
+				<highlight index="24" start="11019" length="913" />
+				<highlight index="25" start="11935" length="257" />
+				<highlight index="26" start="12144" length="158" />
+				<highlight index="27" start="12432" length="315" />
+				<highlight index="28" start="12799" length="131" />
+				<highlight index="29" start="12982" length="471" />
+				<highlight index="30" start="13924" length="632" />
+				<highlight index="31" start="14710" length="314" />
+				<highlight index="32" start="14998" length="725" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="sp" line="Ellos pasan un día muy bueno. Jane y Tom nadan en el mar azul. Encuentran algunas conchas blancas en una cueva y escalan algunas rocas. Después se van a casa, cansados pero felices." />
+				<subtitle lang="dk" line="De har en dejlig dag. Jane og Tom svømmer i det blå hav. De finder nogle hvide skaller i en hule og klatrer i nogle klipper. Så tager de alle hjem, trætte men glade." />
+				<subtitle lang="ch" line="Tāmenguòle yīgè měimiào de yītiān. Jiǎn hé tāngmǔ zài lán sè dì hǎilǐ yóuyǒng. Tāmen zài yīgè dòng lǐ zhǎodào yīxiē báisè de bèiké érqiě hái pále yīxià shítou. Ránhòu tāmen dōu huí jiāle, suīrán lèi, dànshì hěn kāixīn." />
+				<subtitle lang="cn" line="他们度过了美妙的一天。简和汤姆在蓝色的海里游泳。他们在一个洞里找到一些白色的贝壳而且还爬了一下岩石。然后他们都回家了，虽然累，但是很开心。" />
+				<subtitle lang="cl" line="Ellos pasan un día muy bueno. Jane y Tom nadan en el mar azul. Encuentran algunas conchas blancas en una cueva y escalan algunas rocas. Después se van a casa, cansados pero felices." />
+				<subtitle lang="nl" line="Ze hebben een leuke dag. Janet en Tom zwemmen in de blauwe zee. Ze vinden witte schelpen in een grot en klimmen op rotsen. Daarna gaan ze naar huis, moe maar voldaan." />
+				<subtitle lang="so" line="Maalin fiican ayey qaateen. Jane iyo Tom waxay ku dabaasheen badda buluug ah. Waxay ka  heleen aleel qolf cad ah ku jirto  god, waxayne fooleen dhagax. Kadibne dhamaan guriga ayeey tageen. Way daaleen lakin way faraxsanaayeen." />
+				<subtitle lang="mx" line="Ellos pasan un día muy bueno. Jane y Tom nadan en el mar azul. Encuentran algunas conchas blancas en una cueva y escalan algunas rocas. Después se van a casa, cansados pero felices." />
+				<subtitle lang="pt" line="Eles têm um belo dia. Jane e Tom nadam no mar azul. Eles encontram algumas conchas brancas em uma caverna e subam algumas pedras. Então todos vão para casa, cansados mas felizes." />
+				<subtitle lang="cc" line="他们度过了美妙的一天。简和汤姆在蓝色的海里游泳。他们在一个洞里找到一些白色的贝壳而且还爬了一下石头。然后他们都回家了，虽然累，但是很开心。" />
+			</subtitles>
+		</line>
+		<line words="The End" start="143470" length="3024" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Einde" />
+				<subtitle lang="sp" line="Fin" />
+				<subtitle lang="mx" line="Fin" />
+				<subtitle lang="cl" line="Fin" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

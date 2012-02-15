@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="96104" >
+	<lines>
+		<line words="¿Cómo está el clima?" start="1408" length="1657" >
+			<highlight index="0" start="165" length="296" />
+			<highlight index="1" start="452" length="309" />
+			<highlight index="2" start="745" length="216" />
+			<highlight index="3" start="950" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="3231" length="1657" >
+			<highlight index="0" start="165" length="296" />
+			<highlight index="1" start="452" length="309" />
+			<highlight index="2" start="745" length="216" />
+			<highlight index="3" start="950" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="Está bien, está bien." start="5053" length="3752" >
+			<highlight index="0" start="391" length="469" />
+			<highlight index="1" start="860" length="707" />
+			<highlight index="2" start="2077" length="606" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="en" line="It is good, it is good." />
+			</subtitles>
+		</line>
+		<line words="Está bien, está bien." start="5053" length="3752" >
+			<highlight index="0" start="391" length="469" />
+			<highlight index="1" start="860" length="707" />
+			<highlight index="2" start="2077" length="606" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="It is good, it is good." />
+				<subtitle lang="nl" line="Lekker weer, lekker weer!" />
+				<subtitle lang="dk" line="Det er fint, det er fint!" />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="8781" length="1657" >
+			<highlight index="0" start="165" length="296" />
+			<highlight index="1" start="452" length="309" />
+			<highlight index="2" start="745" length="216" />
+			<highlight index="3" start="950" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="10521" length="1657" >
+			<highlight index="0" start="165" length="296" />
+			<highlight index="1" start="452" length="309" />
+			<highlight index="2" start="745" length="216" />
+			<highlight index="3" start="950" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="Está bien, está bien." start="12592" length="3752" >
+			<highlight index="0" start="323" length="504" />
+			<highlight index="1" start="806" length="707" />
+			<highlight index="2" start="2077" length="606" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="It is good, it is good." />
+				<subtitle lang="dk" line="Det er fint, det er fint!" />
+				<subtitle lang="nl" line="Lekker weer, lekker weer!" />
+				<subtitle lang="en" line="It is good, it is good." />
+			</subtitles>
+		</line>
+		<line words="Treinta grados, treinta grados." start="16072" length="4000" >
+			<highlight index="0" start="469" length="566" />
+			<highlight index="1" start="1018" length="848" />
+			<highlight index="2" start="2279" length="724" />
+			<highlight index="3" start="2975" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Thirty degrees, thirty degrees." />
+				<subtitle lang="dk" line="Tredive grader, tredive grader." />
+				<subtitle lang="nl" line="Dertig graden, dertig graden." />
+				<subtitle lang="en" line="Thirty degrees, thirty degrees." />
+			</subtitles>
+		</line>
+		<line words="Muy bien, muy bien." start="19883" length="3751" >
+			<highlight index="0" start="381" length="542" />
+			<highlight index="1" start="896" length="466" />
+			<highlight index="2" start="2191" length="551" />
+			<highlight index="3" start="2716" length="605" />
+			<subtitles>
+				<subtitle lang="nz" line="Very good, very good." />
+				<subtitle lang="dk" line="Meget fint, meget fint." />
+				<subtitle lang="nl" line="Heel lekker, heel lekker." />
+				<subtitle lang="en" line="Very good, very good." />
+			</subtitles>
+		</line>
+		<line words="Treinta grados, treinta grados." start="23446" length="4000" >
+			<highlight index="0" start="469" length="566" />
+			<highlight index="1" start="1018" length="848" />
+			<highlight index="2" start="2279" length="724" />
+			<highlight index="3" start="2975" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Thirty degrees, thirty degrees." />
+				<subtitle lang="dk" line="Tredive grader, tredive grader." />
+				<subtitle lang="nl" line="Dertig graden, dertig graden." />
+				<subtitle lang="en" line="Thirty degrees, thirty degrees." />
+			</subtitles>
+		</line>
+		<line words="Muy bien, muy bien." start="27257" length="3751" >
+			<highlight index="0" start="381" length="542" />
+			<highlight index="1" start="896" length="466" />
+			<highlight index="2" start="2191" length="551" />
+			<highlight index="3" start="2716" length="605" />
+			<subtitles>
+				<subtitle lang="nz" line="Very good, very good." />
+				<subtitle lang="dk" line="Meget fint, meget fint." />
+				<subtitle lang="nl" line="Heel lekker, heel lekker." />
+				<subtitle lang="en" line="Very good, very good." />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="41838" length="1823" >
+			<highlight index="0" start="331" length="296" />
+			<highlight index="1" start="618" length="274" />
+			<highlight index="2" start="884" length="216" />
+			<highlight index="3" start="1085" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="43578" length="1823" >
+			<highlight index="0" start="331" length="296" />
+			<highlight index="1" start="618" length="274" />
+			<highlight index="2" start="884" length="216" />
+			<highlight index="3" start="1085" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="Hace calor, hace calor" start="45649" length="3752" >
+			<highlight index="0" start="329" length="469" />
+			<highlight index="1" start="780" length="707" />
+			<highlight index="2" start="2207" length="476" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="It is hot, it is hot." />
+				<subtitle lang="dk" line="Det er varmt, det er varmt!" />
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="en" line="It is hot, it is hot." />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="49377" length="1823" >
+			<highlight index="0" start="331" length="296" />
+			<highlight index="1" start="618" length="274" />
+			<highlight index="2" start="884" length="216" />
+			<highlight index="3" start="1085" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="¿Cómo está el clima?" start="51034" length="1823" >
+			<highlight index="0" start="331" length="296" />
+			<highlight index="1" start="618" length="274" />
+			<highlight index="2" start="884" length="216" />
+			<highlight index="3" start="1085" length="529" />
+			<subtitles>
+				<subtitle lang="nz" line="What is the weather like?" />
+				<subtitle lang="dk" line="Hvordan er vejret? " />
+				<subtitle lang="nl" line="Hoe is het weer? " />
+				<subtitle lang="en" line="What is the weather like?" />
+			</subtitles>
+		</line>
+		<line words="Hace calor, hace calor" start="52940" length="3752" >
+			<highlight index="0" start="392" length="406" />
+			<highlight index="1" start="780" length="707" />
+			<highlight index="2" start="2196" length="487" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="It is hot, it is hot." />
+				<subtitle lang="dk" line="Det er varmt, det er varmt!" />
+				<subtitle lang="nl" line="Het is warm, het is warm!" />
+				<subtitle lang="en" line="It is hot, it is hot." />
+			</subtitles>
+		</line>
+		<line words="Cuarenta grados, cuarenta grados." start="56585" length="4000" >
+			<highlight index="0" start="384" length="634" />
+			<highlight index="1" start="1018" length="848" />
+			<highlight index="2" start="2121" length="882" />
+			<highlight index="3" start="2975" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Forty degrees, forty degrees." />
+				<subtitle lang="dk" line="Fyrre grader, fyrre grader.	" />
+				<subtitle lang="nl" line="Veertig graden, veertig graden." />
+				<subtitle lang="en" line="Forty degrees, forty degrees." />
+			</subtitles>
+		</line>
+		<line words="Mucho calor, mucho calor." start="60396" length="3752" >
+			<highlight index="0" start="329" length="469" />
+			<highlight index="1" start="780" length="707" />
+			<highlight index="2" start="2191" length="492" />
+			<highlight index="3" start="2648" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="Very hot, very hot." />
+				<subtitle lang="dk" line="Meget varmt, meget varmt." />
+				<subtitle lang="nl" line="Veel te warm, veel te warm." />
+				<subtitle lang="en" line="Very hot, very hot." />
+			</subtitles>
+		</line>
+		<line words="Cuarenta grados, cuarenta grados." start="64124" length="4000" >
+			<highlight index="0" start="384" length="634" />
+			<highlight index="1" start="1018" length="848" />
+			<highlight index="2" start="2121" length="882" />
+			<highlight index="3" start="2975" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Forty degrees, forty degrees." />
+				<subtitle lang="dk" line="Fyrre grader, fyrre grader.	" />
+				<subtitle lang="nl" line="Veertig graden, veertig graden." />
+				<subtitle lang="en" line="Forty degrees, forty degrees." />
+			</subtitles>
+		</line>
+		<line words="Mucho calor, mucho calor." start="68018" length="3752" >
+			<highlight index="0" start="286" length="469" />
+			<highlight index="1" start="748" length="707" />
+			<highlight index="2" start="1995" length="398" />
+			<highlight index="3" start="2382" length="719" />
+			<subtitles>
+				<subtitle lang="nz" line="Very hot, very hot." />
+				<subtitle lang="dk" line="Meget varmt, meget varmt." />
+				<subtitle lang="nl" line="Veel te warm, veel te warm." />
+				<subtitle lang="en" line="Very hot, very hot." />
+			</subtitles>
+		</line>
+		<line words="Cuarenta grados, mucho calor." start="74894" length="4000" >
+			<highlight index="0" start="384" length="634" />
+			<highlight index="1" start="1018" length="848" />
+			<highlight index="2" start="2393" length="435" />
+			<highlight index="3" start="2806" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Forty degrees, very hot." />
+				<subtitle lang="dk" line="Fyrre grader, det er varmt." />
+				<subtitle lang="nl" line="Veertig graden, veertig graden." />
+				<subtitle lang="en" line="Forty degrees, very hot." />
+			</subtitles>
+		</line>
+		<line words="Treinta grados, muy bien." start="78788" length="4000" >
+			<highlight index="0" start="384" length="634" />
+			<highlight index="1" start="1018" length="1227" />
+			<highlight index="2" start="2234" length="594" />
+			<highlight index="3" start="2806" length="826" />
+			<subtitles>
+				<subtitle lang="nz" line="Thirty degrees, very good." />
+				<subtitle lang="dk" line="Tredive grader, det er fint." />
+				<subtitle lang="nl" line="Dertig graden, het is mooi." />
+				<subtitle lang="en" line="Thirty degrees, very good." />
+			</subtitles>
+		</line>
+		<line words="Veinte grados, muy soleado." start="82682" length="4000" >
+			<highlight index="0" start="322" length="526" />
+			<highlight index="1" start="831" length="1222" />
+			<highlight index="2" start="2030" length="430" />
+			<highlight index="3" start="2443" length="1364" />
+			<subtitles>
+				<subtitle lang="nz" line="Twenty degrees, very sunny." />
+				<subtitle lang="dk" line="Tyve grader, det er solskin." />
+				<subtitle lang="nl" line="Twintig graden, echt best fijn." />
+				<subtitle lang="en" line="Twenty degrees, very sunny." />
+			</subtitles>
+		</line>
+		<line words="Diez grados, está mal." start="86327" length="4000" >
+			<highlight index="0" start="322" length="526" />
+			<highlight index="1" start="831" length="1222" />
+			<highlight index="2" start="2030" length="430" />
+			<highlight index="3" start="2443" length="1364" />
+			<subtitles>
+				<subtitle lang="nz" line="Ten degrees, it is bad." />
+				<subtitle lang="dk" line="Ti grader, det er dårligt." />
+				<subtitle lang="nl" line="Tien graden, dat is fris." />
+				<subtitle lang="en" line="Ten degrees, it is bad." />
+			</subtitles>
+		</line>
+		<line words="Cero grados, si cae nieve BRRRRRRRRRRR...." start="90056" length="4000" >
+			<highlight index="0" start="214" length="438" />
+			<highlight index="1" start="633" length="538" />
+			<highlight index="2" start="1154" length="186" />
+			<highlight index="3" start="1318" length="271" />
+			<highlight index="4" start="1555" length="617" />
+			<highlight index="5" start="2155" length="1205" />
+			<subtitles>
+				<subtitle lang="nz" line="Zero degrees and it snows BRRRRRRRR" />
+				<subtitle lang="dk" line="Nul grader det sner! BRRRRRRR" />
+				<subtitle lang="nl" line="Nul graden, wat koud! BRRRRRRRR" />
+				<subtitle lang="en" line="Zero degrees and it snows BRRRRRRRR" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

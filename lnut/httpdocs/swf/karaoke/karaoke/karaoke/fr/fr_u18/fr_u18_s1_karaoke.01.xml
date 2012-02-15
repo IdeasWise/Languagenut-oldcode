@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="152058" >
+	<lines>
+		<line words="Je vis sur la planète terre, la nuit je vois la lune" start="6145" length="8498" >
+			<highlight index="0" start="853" length="372" />
+			<highlight index="1" start="1175" length="606" />
+			<highlight index="2" start="1744" length="643" />
+			<highlight index="3" start="2387" length="346" />
+			<highlight index="4" start="2721" length="804" />
+			<highlight index="5" start="3475" length="779" />
+			<highlight index="6" start="4650" length="458" />
+			<highlight index="7" start="5083" length="767" />
+			<highlight index="8" start="5800" length="361" />
+			<highlight index="9" start="6110" length="631" />
+			<highlight index="10" start="6716" length="358" />
+			<highlight index="11" start="7025" length="878" />
+			<subtitles>
+				<subtitle lang="en" line="I live on planet Earth, at night I see the moon" />
+			</subtitles>
+		</line>
+		<line words="Quand je me réveille, je vois le soleil" start="14382" length="7583" >
+			<highlight index="0" start="607" length="474" />
+			<highlight index="1" start="1048" length="299" />
+			<highlight index="2" start="1302" length="276" />
+			<highlight index="3" start="1534" length="1368" />
+			<highlight index="4" start="4381" length="331" />
+			<highlight index="5" start="4635" length="486" />
+			<highlight index="6" start="5253" length="233" />
+			<highlight index="7" start="5507" length="1302" />
+			<subtitles>
+				<subtitle lang="en" line="When I wake up, I see the sun" />
+			</subtitles>
+		</line>
+		<line words="Mais je sais qu’il y a d’autres planètes près du soleil" start="21703" length="9676" >
+			<highlight index="0" start="1337" length="381" />
+			<highlight index="1" start="1690" length="395" />
+			<highlight index="2" start="2056" length="450" />
+			<highlight index="3" start="2436" length="535" />
+			<highlight index="4" start="2591" length="436" />
+			<highlight index="5" start="2732" length="324" />
+			<highlight index="6" start="3056" length="633" />
+			<highlight index="7" start="3802" length="789" />
+			<highlight index="8" start="4999" length="648" />
+			<highlight index="9" start="6224" length="352" />
+			<highlight index="10" start="6548" length="1084" />
+			<subtitles>
+				<subtitle lang="en" line="But I know that there are other planets near to the sun" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="34517" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="38700" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="42361" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="46676" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Mercure est près du soleil" start="51906" length="4184" >
+			<highlight index="0" start="853" length="882" />
+			<highlight index="1" start="1692" length="360" />
+			<highlight index="2" start="2070" length="561" />
+			<highlight index="3" start="2728" length="437" />
+			<highlight index="4" start="3142" length="907" />
+			<subtitles>
+				<subtitle lang="en" line="Mercury is near to the Sun" />
+			</subtitles>
+		</line>
+		<line words="Uranus est une planète froide" start="55959" length="4576" >
+			<highlight index="0" start="865" length="880" />
+			<highlight index="1" start="1731" length="413" />
+			<highlight index="2" start="2117" length="453" />
+			<highlight index="3" start="2577" length="1039" />
+			<highlight index="4" start="3596" length="733" />
+			<subtitles>
+				<subtitle lang="en" line="Uranus is a cold planet" />
+			</subtitles>
+		</line>
+		<line words="La planète vénus" start="60274" length="4000" >
+			<highlight index="0" start="663" length="384" />
+			<highlight index="1" start="1001" length="1013" />
+			<highlight index="2" start="1985" length="1257" />
+			<subtitles>
+				<subtitle lang="en" line="The planet Venus" />
+			</subtitles>
+		</line>
+		<line words="est vraiment la plus chaude" start="64065" length="4000" >
+			<highlight index="0" start="564" length="192" />
+			<highlight index="1" start="745" length="1024" />
+			<highlight index="2" start="1746" length="200" />
+			<highlight index="3" start="1932" length="350" />
+			<highlight index="4" start="2270" length="1060" />
+			<subtitles>
+				<subtitle lang="en" line="is really the hottest" />
+			</subtitles>
+		</line>
+		<line words="Mais la plus froide des planètes s’appelle Neptune" start="68380" length="9021" >
+			<highlight index="0" start="512" length="564" />
+			<highlight index="1" start="1050" length="354" />
+			<highlight index="2" start="1378" length="512" />
+			<highlight index="3" start="1825" length="604" />
+			<highlight index="4" start="2429" length="486" />
+			<highlight index="5" start="2941" length="1155" />
+			<highlight index="6" start="4569" length="1471" />
+			<highlight index="7" start="6066" length="1392" />
+			<subtitles>
+				<subtitle lang="en" line="But the coldest of the planets is called Neptune" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="80409" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="84723" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="88515" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="138591" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="92568" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Mars est la petite planète" start="97667" length="4445" >
+			<highlight index="0" start="1177" length="558" />
+			<highlight index="1" start="1692" length="360" />
+			<highlight index="2" start="2070" length="561" />
+			<highlight index="3" start="2728" length="517" />
+			<highlight index="4" start="3343" length="1036" />
+			<subtitles>
+				<subtitle lang="en" line="Mars is the small planet" />
+			</subtitles>
+		</line>
+		<line words="saturne est très grosse" start="102374" length="4000" >
+			<highlight index="0" start="582" length="727" />
+			<highlight index="1" start="1286" length="384" />
+			<highlight index="2" start="1647" length="454" />
+			<highlight index="3" start="2090" length="815" />
+			<subtitles>
+				<subtitle lang="en" line="saturne est très grosse" />
+			</subtitles>
+		</line>
+		<line words="Mais c'est jupiter" start="106035" length="4000" >
+			<highlight index="0" start="745" length="302" />
+			<highlight index="1" start="1065" length="541" />
+			<highlight index="2" start="1804" length="1438" />
+			<subtitles>
+				<subtitle lang="en" line="But it's Jupiter" />
+			</subtitles>
+		</line>
+		<line words="la planète géante" start="110088" length="4000" >
+			<highlight index="0" start="599" length="309" />
+			<highlight index="1" start="966" length="803" />
+			<highlight index="2" start="1746" length="1968" />
+			<subtitles>
+				<subtitle lang="en" line="the giant planet" />
+			</subtitles>
+		</line>
+		<line words="Tous les jours je suis sur la terre et je vois le soleil" start="114403" length="9021" >
+			<highlight index="0" start="512" length="564" />
+			<highlight index="1" start="1050" length="276" />
+			<highlight index="2" start="1273" length="486" />
+			<highlight index="3" start="1733" length="288" />
+			<highlight index="4" start="1982" length="250" />
+			<highlight index="5" start="2205" length="367" />
+			<highlight index="6" start="2481" length="236" />
+			<highlight index="7" start="2717" length="604" />
+			<highlight index="8" start="3348" length="223" />
+			<highlight index="9" start="3545" length="262" />
+			<highlight index="10" start="4477" length="367" />
+			<highlight index="11" start="5265" length="433" />
+			<highlight index="12" start="5882" length="1588" />
+			<subtitles>
+				<subtitle lang="en" line="Everyday I’m on the Earth and I see the sun" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="126431" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+		<line words="Il y en a huit" start="130615" length="3400" >
+			<highlight index="0" start="237" length="396" />
+			<highlight index="1" start="648" length="623" />
+			<highlight index="2" start="1237" length="200" />
+			<highlight index="3" start="1474" length="322" />
+			<highlight index="4" start="1870" length="1000" />
+			<subtitles>
+				<subtitle lang="en" line="There are eight" />
+			</subtitles>
+		</line>
+		<line words="Combien il y a t’il de planètes?" start="134407" length="4445" >
+			<highlight index="0" start="472" length="718" />
+			<highlight index="1" start="1397" length="259" />
+			<highlight index="2" start="1656" length="381" />
+			<highlight index="3" start="2031" length="355" />
+			<highlight index="4" start="2393" length="537" />
+			<highlight index="5" start="2911" length="349" />
+			<highlight index="6" start="3254" length="918" />
+			<subtitles>
+				<subtitle lang="en" line="How many planets are there?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="169717" >
+	<lines>
+		<line words="La columna de deportes." start="5580" length="2195" >
+			<highlight index="0" start="465" length="200" />
+			<highlight index="1" start="650" length="493" />
+			<highlight index="2" start="1139" length="200" />
+			<highlight index="3" start="1328" length="732" />
+			<subtitles>
+				<subtitle lang="nz" line="The sports column." />
+				<subtitle lang="en" line="The sports column." />
+			</subtitles>
+		</line>
+		<line words="La columna de educación." start="7608" length="2049" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="493" />
+			<highlight index="2" start="847" length="200" />
+			<highlight index="3" start="1036" length="651" />
+			<subtitles>
+				<subtitle lang="nz" line="The education column." />
+				<subtitle lang="en" line="The education column." />
+			</subtitles>
+		</line>
+		<line words="La columna de noticias." start="9363" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="404" />
+			<highlight index="2" start="747" length="200" />
+			<highlight index="3" start="934" length="651" />
+			<subtitles>
+				<subtitle lang="nz" line="The news column." />
+				<subtitle lang="en" line="The news column." />
+			</subtitles>
+		</line>
+		<line words="La columna de moda." start="10973" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="404" />
+			<highlight index="2" start="747" length="200" />
+			<highlight index="3" start="934" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="The fashion column." />
+				<subtitle lang="en" line="The fashion column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cocina." start="12436" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="404" />
+			<highlight index="2" start="747" length="200" />
+			<highlight index="3" start="934" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="The cookery column." />
+				<subtitle lang="en" line="The cookery column." />
+			</subtitles>
+		</line>
+		<line words="La columna de viajes." start="13899" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="404" />
+			<highlight index="2" start="747" length="200" />
+			<highlight index="3" start="934" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="The travel column." />
+				<subtitle lang="en" line="The travel column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cultura." start="15508" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="404" />
+			<highlight index="2" start="767" length="200" />
+			<highlight index="3" start="988" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="The culture column." />
+				<subtitle lang="en" line="The culture column." />
+			</subtitles>
+		</line>
+		<line words="La columna del clima." start="17118" length="1756" >
+			<highlight index="0" start="173" length="200" />
+			<highlight index="1" start="358" length="422" />
+			<highlight index="2" start="767" length="229" />
+			<highlight index="3" start="988" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="The weather column." />
+				<subtitle lang="en" line="The weather column." />
+			</subtitles>
+		</line>
+		<line words="Prefiero la columna de deportes." start="19166" length="2926" >
+			<highlight index="0" start="403" length="719" />
+			<highlight index="1" start="1087" length="200" />
+			<highlight index="2" start="1268" length="649" />
+			<highlight index="3" start="1888" length="200" />
+			<highlight index="4" start="2070" length="760" />
+			<subtitles>
+				<subtitle lang="nz" line="I prefer the sports column." />
+				<subtitle lang="en" line="I prefer the sports column." />
+			</subtitles>
+		</line>
+		<line words="Odio la columna de moda." start="22238" length="2926" >
+			<highlight index="0" start="239" length="616" />
+			<highlight index="1" start="846" length="432" />
+			<highlight index="2" start="1268" length="960" />
+			<highlight index="3" start="2215" length="200" />
+			<highlight index="4" start="2395" length="380" />
+			<subtitles>
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="en" line="I hate the fashion column." />
+			</subtitles>
+		</line>
+		<line words="Me encanta la columna de cocina." start="25164" length="3366" >
+			<highlight index="0" start="415" length="282" />
+			<highlight index="1" start="684" length="797" />
+			<highlight index="2" start="1466" length="290" />
+			<highlight index="3" start="1717" length="625" />
+			<highlight index="4" start="2317" length="200" />
+			<highlight index="5" start="2499" length="655" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="en" line="I love the cookery column." />
+			</subtitles>
+		</line>
+		<line words="No me gusta la columna de viajes." start="28383" length="3365" >
+			<highlight index="0" start="378" length="320" />
+			<highlight index="1" start="688" length="349" />
+			<highlight index="2" start="1013" length="546" />
+			<highlight index="3" start="1524" length="200" />
+			<highlight index="4" start="1716" length="719" />
+			<highlight index="5" start="2420" length="246" />
+			<highlight index="6" start="2641" length="477" />
+			<subtitles>
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="en" line="I don’t like the travel column." />
+			</subtitles>
+		</line>
+		<line words="¿Por qué?" start="31748" length="2488" >
+			<highlight index="0" start="691" length="404" />
+			<highlight index="1" start="1073" length="683" />
+			<subtitles>
+				<subtitle lang="nz" line="Why?" />
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Porque" start="33504" length="1902" >
+			<highlight index="0" start="672" length="534" />
+			<subtitles>
+				<subtitle lang="nz" line="Because…" />
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Es genial." start="34967" length="2048" >
+			<highlight index="0" start="398" length="281" />
+			<highlight index="1" start="661" length="674" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s great." />
+				<subtitle lang="en" line="It’s great." />
+			</subtitles>
+		</line>
+		<line words="Es muy larga." start="36869" length="1409" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="353" length="147" />
+			<highlight index="2" start="483" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s too long." />
+				<subtitle lang="en" line="It’s too long." />
+			</subtitles>
+		</line>
+		<line words="Es fantástica." start="37893" length="1756" >
+			<highlight index="0" start="364" length="272" />
+			<highlight index="1" start="623" length="1071" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fantastic." />
+				<subtitle lang="en" line="It’s fantastic." />
+			</subtitles>
+		</line>
+		<line words="Es aburrida." start="39356" length="2488" >
+			<highlight index="0" start="581" length="277" />
+			<highlight index="1" start="845" length="824" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s boring." />
+				<subtitle lang="en" line="It’s boring." />
+			</subtitles>
+		</line>
+		<line words="Es divertida." start="41258" length="2048" >
+			<highlight index="0" start="443" length="188" />
+			<highlight index="1" start="616" length="1006" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fun." />
+				<subtitle lang="en" line="It’s fun." />
+			</subtitles>
+		</line>
+		<line words="Es molesta." start="43014" length="1902" >
+			<highlight index="0" start="328" length="200" />
+			<highlight index="1" start="511" length="575" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s annoying." />
+				<subtitle lang="en" line="It’s annoying." />
+			</subtitles>
+		</line>
+		<line words="Es interesante." start="44623" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1017" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s interesting." />
+				<subtitle lang="en" line="It’s interesting." />
+			</subtitles>
+		</line>
+		<line words="Es complicada." start="46086" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1017" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s complicated." />
+				<subtitle lang="en" line="It’s complicated." />
+			</subtitles>
+		</line>
+		<line words="Prefiero la columna del clima." start="49013" length="2926" >
+			<highlight index="0" start="201" length="765" />
+			<highlight index="1" start="945" length="200" />
+			<highlight index="2" start="1137" length="715" />
+			<highlight index="3" start="1835" length="260" />
+			<highlight index="4" start="2070" length="760" />
+			<subtitles>
+				<subtitle lang="nz" line="I prefer the weather column." />
+				<subtitle lang="en" line="I prefer the weather column." />
+			</subtitles>
+		</line>
+		<line words="Odio la columna de cultura." start="51646" length="3219" >
+			<highlight index="0" start="352" length="786" />
+			<highlight index="1" start="1139" length="432" />
+			<highlight index="2" start="1561" length="960" />
+			<highlight index="3" start="2508" length="200" />
+			<highlight index="4" start="2688" length="380" />
+			<subtitles>
+				<subtitle lang="nz" line="I hate the culture column." />
+				<subtitle lang="en" line="I hate the culture column." />
+			</subtitles>
+		</line>
+		<line words="Me encanta la columna de noticias." start="54572" length="3804" >
+			<highlight index="0" start="352" length="521" />
+			<highlight index="1" start="856" length="885" />
+			<highlight index="2" start="1722" length="244" />
+			<highlight index="3" start="1948" length="611" />
+			<highlight index="4" start="2531" length="245" />
+			<highlight index="5" start="2758" length="712" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the news column." />
+				<subtitle lang="en" line="I love the news column." />
+			</subtitles>
+		</line>
+		<line words="No me gusta la columna de educación." start="57802" length="3804" >
+			<highlight index="0" start="352" length="521" />
+			<highlight index="1" start="856" length="272" />
+			<highlight index="2" start="1123" length="545" />
+			<highlight index="3" start="1651" length="284" />
+			<highlight index="4" start="1912" length="657" />
+			<highlight index="5" start="2541" length="228" />
+			<highlight index="6" start="2752" length="640" />
+			<subtitles>
+				<subtitle lang="nz" line="I don’t like the education column." />
+				<subtitle lang="en" line="I don’t like the education column." />
+			</subtitles>
+		</line>
+		<line words="¿Por qué?" start="61302" length="2488" >
+			<highlight index="0" start="767" length="324" />
+			<highlight index="1" start="1073" length="683" />
+			<subtitles>
+				<subtitle lang="nz" line="Why?" />
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Porque" start="63351" length="1902" >
+			<highlight index="0" start="475" length="534" />
+			<subtitles>
+				<subtitle lang="nz" line="Because…" />
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Es genial." start="64960" length="1610" >
+			<highlight index="0" start="278" length="281" />
+			<highlight index="1" start="547" length="453" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s great." />
+				<subtitle lang="en" line="It’s great." />
+			</subtitles>
+		</line>
+		<line words="Es muy larga." start="66257" length="1483" >
+			<highlight index="0" start="335" length="200" />
+			<highlight index="1" start="519" length="147" />
+			<highlight index="2" start="649" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s too long." />
+				<subtitle lang="en" line="It’s too long." />
+			</subtitles>
+		</line>
+		<line words="Es fantástica." start="67594" length="1756" >
+			<highlight index="0" start="364" length="272" />
+			<highlight index="1" start="623" length="1071" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fantastic." />
+				<subtitle lang="en" line="It’s fantastic." />
+			</subtitles>
+		</line>
+		<line words="Es aburrida." start="69203" length="1902" >
+			<highlight index="0" start="581" length="277" />
+			<highlight index="1" start="845" length="824" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s boring." />
+				<subtitle lang="en" line="It’s boring." />
+			</subtitles>
+		</line>
+		<line words="Es divertida." start="70812" length="2048" >
+			<highlight index="0" start="443" length="188" />
+			<highlight index="1" start="616" length="1006" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fun." />
+				<subtitle lang="en" line="It’s fun." />
+			</subtitles>
+		</line>
+		<line words="Es molesta." start="72568" length="1902" >
+			<highlight index="0" start="353" length="200" />
+			<highlight index="1" start="542" length="575" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s annoying." />
+				<subtitle lang="en" line="It’s annoying." />
+			</subtitles>
+		</line>
+		<line words="Es interesante." start="74178" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1017" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s interesting." />
+				<subtitle lang="en" line="It’s interesting." />
+			</subtitles>
+		</line>
+		<line words="Es complicada." start="75787" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1220" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s complicated." />
+				<subtitle lang="en" line="It’s complicated." />
+			</subtitles>
+		</line>
+		<line words="Prefiero la columna de deportes." start="78420" length="2926" >
+			<highlight index="0" start="201" length="765" />
+			<highlight index="1" start="945" length="200" />
+			<highlight index="2" start="1137" length="715" />
+			<highlight index="3" start="1835" length="260" />
+			<highlight index="4" start="2070" length="760" />
+			<subtitles>
+				<subtitle lang="nz" line="I prefer the sports column." />
+				<subtitle lang="en" line="I prefer the sports column." />
+			</subtitles>
+		</line>
+		<line words="Odio la columna de moda." start="81054" length="3219" >
+			<highlight index="0" start="352" length="786" />
+			<highlight index="1" start="1139" length="432" />
+			<highlight index="2" start="1561" length="960" />
+			<highlight index="3" start="2508" length="200" />
+			<highlight index="4" start="2688" length="380" />
+			<subtitles>
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="en" line="I hate the fashion column." />
+			</subtitles>
+		</line>
+		<line words="Me encanta la columna de cocina." start="84126" length="3804" >
+			<highlight index="0" start="352" length="521" />
+			<highlight index="1" start="856" length="885" />
+			<highlight index="2" start="1722" length="244" />
+			<highlight index="3" start="1948" length="611" />
+			<highlight index="4" start="2531" length="245" />
+			<highlight index="5" start="2758" length="712" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="en" line="I love the cookery column." />
+			</subtitles>
+		</line>
+		<line words="No me gusta la columna de viajes." start="87492" length="3804" >
+			<highlight index="0" start="352" length="448" />
+			<highlight index="1" start="778" length="350" />
+			<highlight index="2" start="1123" length="545" />
+			<highlight index="3" start="1651" length="284" />
+			<highlight index="4" start="1912" length="657" />
+			<highlight index="5" start="2541" length="228" />
+			<highlight index="6" start="2752" length="640" />
+			<subtitles>
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="en" line="I don’t like the travel column." />
+			</subtitles>
+		</line>
+		<line words="¿Por qué?" start="91149" length="2488" >
+			<highlight index="0" start="767" length="324" />
+			<highlight index="1" start="1073" length="683" />
+			<subtitles>
+				<subtitle lang="nz" line="Why?" />
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Porque" start="93051" length="1902" >
+			<highlight index="0" start="428" length="534" />
+			<subtitles>
+				<subtitle lang="nz" line="Because…" />
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Es genial." start="94661" length="1610" >
+			<highlight index="0" start="278" length="281" />
+			<highlight index="1" start="547" length="453" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s great." />
+				<subtitle lang="en" line="It’s great." />
+			</subtitles>
+		</line>
+		<line words="Es muy larga." start="95977" length="1641" >
+			<highlight index="0" start="169" length="200" />
+			<highlight index="1" start="353" length="147" />
+			<highlight index="2" start="483" length="200" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s too long." />
+				<subtitle lang="en" line="It’s too long." />
+			</subtitles>
+		</line>
+		<line words="Es fantástica." start="97294" length="1756" >
+			<highlight index="0" start="364" length="272" />
+			<highlight index="1" start="623" length="1071" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fantastic." />
+				<subtitle lang="en" line="It’s fantastic." />
+			</subtitles>
+		</line>
+		<line words="Es aburrida." start="98904" length="1902" >
+			<highlight index="0" start="581" length="277" />
+			<highlight index="1" start="845" length="824" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s boring." />
+				<subtitle lang="en" line="It’s boring." />
+			</subtitles>
+		</line>
+		<line words="Es divertida." start="100367" length="2048" >
+			<highlight index="0" start="443" length="188" />
+			<highlight index="1" start="616" length="1006" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s fun." />
+				<subtitle lang="en" line="It’s fun." />
+			</subtitles>
+		</line>
+		<line words="Es molesta." start="102269" length="1902" >
+			<highlight index="0" start="353" length="200" />
+			<highlight index="1" start="542" length="575" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s annoying." />
+				<subtitle lang="en" line="It’s annoying." />
+			</subtitles>
+		</line>
+		<line words="Es interesante." start="103878" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1179" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s interesting." />
+				<subtitle lang="en" line="It’s interesting." />
+			</subtitles>
+		</line>
+		<line words="Es complicada." start="105634" length="1756" >
+			<highlight index="0" start="205" length="200" />
+			<highlight index="1" start="394" length="1220" />
+			<subtitles>
+				<subtitle lang="nz" line="It’s complicated." />
+				<subtitle lang="en" line="It’s complicated." />
+			</subtitles>
+		</line>
+		<line words="Prefiero la columna de deportes." start="107828" length="2926" >
+			<highlight index="0" start="312" length="654" />
+			<highlight index="1" start="945" length="200" />
+			<highlight index="2" start="1137" length="715" />
+			<highlight index="3" start="1835" length="260" />
+			<highlight index="4" start="2070" length="760" />
+			<subtitles>
+				<subtitle lang="nz" line="I prefer the sports column." />
+				<subtitle lang="en" line="I prefer the sports column." />
+			</subtitles>
+		</line>
+		<line words="Odio la columna de moda." start="110754" length="3219" >
+			<highlight index="0" start="352" length="786" />
+			<highlight index="1" start="1124" length="432" />
+			<highlight index="2" start="1561" length="960" />
+			<highlight index="3" start="2508" length="200" />
+			<highlight index="4" start="2688" length="380" />
+			<subtitles>
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="en" line="I hate the fashion column." />
+			</subtitles>
+		</line>
+		<line words="Me encanta la columna de cocina." start="113681" length="3804" >
+			<highlight index="0" start="352" length="521" />
+			<highlight index="1" start="856" length="885" />
+			<highlight index="2" start="1722" length="244" />
+			<highlight index="3" start="1948" length="611" />
+			<highlight index="4" start="2531" length="245" />
+			<highlight index="5" start="2758" length="712" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="en" line="I love the cookery column." />
+			</subtitles>
+		</line>
+		<line words="No me gusta la columna de viajes." start="117046" length="3804" >
+			<highlight index="0" start="352" length="448" />
+			<highlight index="1" start="778" length="350" />
+			<highlight index="2" start="1123" length="545" />
+			<highlight index="3" start="1651" length="284" />
+			<highlight index="4" start="1912" length="657" />
+			<highlight index="5" start="2541" length="228" />
+			<highlight index="6" start="2752" length="640" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="en" line="I don’t like the travel column." />
+			</subtitles>
+		</line>
+		<line words="Prefiero la columna de deportes." start="120850" length="2926" >
+			<highlight index="0" start="201" length="765" />
+			<highlight index="1" start="945" length="200" />
+			<highlight index="2" start="1137" length="715" />
+			<highlight index="3" start="1835" length="260" />
+			<highlight index="4" start="2070" length="760" />
+			<subtitles>
+				<subtitle lang="nz" line="I prefer the sports column." />
+				<subtitle lang="en" line="I prefer the sports column." />
+			</subtitles>
+		</line>
+		<line words="Odio la columna de moda." start="123483" length="3512" >
+			<highlight index="0" start="470" length="786" />
+			<highlight index="1" start="1228" length="432" />
+			<highlight index="2" start="1656" length="965" />
+			<highlight index="3" start="2607" length="200" />
+			<highlight index="4" start="2795" length="562" />
+			<subtitles>
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="en" line="I hate the fashion column." />
+			</subtitles>
+		</line>
+		<line words="Me encanta la columna de cocina." start="126702" length="3804" >
+			<highlight index="0" start="352" length="370" />
+			<highlight index="1" start="689" length="923" />
+			<highlight index="2" start="1601" length="244" />
+			<highlight index="3" start="1835" length="611" />
+			<highlight index="4" start="2413" length="245" />
+			<highlight index="5" start="2647" length="712" />
+			<subtitles>
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="en" line="I love the cookery column." />
+			</subtitles>
+		</line>
+		<line words="No me gusta la columna de viajes." start="130067" length="3219" >
+			<highlight index="0" start="200" length="361" />
+			<highlight index="1" start="539" length="364" />
+			<highlight index="2" start="884" length="511" />
+			<highlight index="3" start="1373" length="284" />
+			<highlight index="4" start="1634" length="634" />
+			<highlight index="5" start="2254" length="248" />
+			<highlight index="6" start="2480" length="640" />
+			<subtitles>
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="en" line="I don’t like the travel column." />
+			</subtitles>
+		</line>
+		<line words="La columna de deportes." start="136066" length="2194" >
+			<highlight index="0" start="365" length="200" />
+			<highlight index="1" start="554" length="392" />
+			<highlight index="2" start="933" length="388" />
+			<highlight index="3" start="1311" length="629" />
+			<subtitles>
+				<subtitle lang="nz" line="The sports column." />
+				<subtitle lang="en" line="The sports column." />
+			</subtitles>
+		</line>
+		<line words="La columna de educación." start="137675" length="2194" >
+			<highlight index="0" start="263" length="200" />
+			<highlight index="1" start="455" length="388" />
+			<highlight index="2" start="837" length="314" />
+			<highlight index="3" start="1122" length="629" />
+			<subtitles>
+				<subtitle lang="nz" line="The education column." />
+				<subtitle lang="en" line="The education column." />
+			</subtitles>
+		</line>
+		<line words="La columna de noticias." start="139284" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="427" />
+			<highlight index="2" start="898" length="349" />
+			<highlight index="3" start="1228" length="629" />
+			<subtitles>
+				<subtitle lang="nz" line="The news column." />
+				<subtitle lang="en" line="The news column." />
+			</subtitles>
+		</line>
+		<line words="La columna de moda." start="141040" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="427" />
+			<highlight index="2" start="898" length="349" />
+			<highlight index="3" start="1228" length="462" />
+			<subtitles>
+				<subtitle lang="nz" line="The fashion column." />
+				<subtitle lang="en" line="The fashion column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cocina." start="142503" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="427" />
+			<highlight index="2" start="898" length="349" />
+			<highlight index="3" start="1228" length="462" />
+			<subtitles>
+				<subtitle lang="nz" line="The cookery column." />
+				<subtitle lang="en" line="The cookery column." />
+			</subtitles>
+		</line>
+		<line words="La columna de viajes." start="144113" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="603" />
+			<highlight index="2" start="1071" length="231" />
+			<highlight index="3" start="1289" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The travel column." />
+				<subtitle lang="en" line="The travel column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cultura." start="145868" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="440" />
+			<highlight index="2" start="907" length="231" />
+			<highlight index="3" start="1116" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The culture column." />
+				<subtitle lang="en" line="The culture column." />
+			</subtitles>
+		</line>
+		<line words="La columna del clima." start="147331" length="2194" >
+			<highlight index="0" start="282" length="200" />
+			<highlight index="1" start="474" length="549" />
+			<highlight index="2" start="1016" length="331" />
+			<highlight index="3" start="1337" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The weather column." />
+				<subtitle lang="en" line="The weather column." />
+			</subtitles>
+		</line>
+		<line words="La columna de deportes." start="148794" length="2194" >
+			<highlight index="0" start="214" length="268" />
+			<highlight index="1" start="474" length="549" />
+			<highlight index="2" start="1016" length="331" />
+			<highlight index="3" start="1337" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The sports column." />
+				<subtitle lang="en" line="The sports column." />
+			</subtitles>
+		</line>
+		<line words="La columna de educación." start="150404" length="2194" >
+			<highlight index="0" start="214" length="268" />
+			<highlight index="1" start="474" length="549" />
+			<highlight index="2" start="1016" length="331" />
+			<highlight index="3" start="1337" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The education column." />
+				<subtitle lang="en" line="The education column." />
+			</subtitles>
+		</line>
+		<line words="La columna de noticias." start="152013" length="2194" >
+			<highlight index="0" start="214" length="268" />
+			<highlight index="1" start="474" length="549" />
+			<highlight index="2" start="1016" length="331" />
+			<highlight index="3" start="1337" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The news column." />
+				<subtitle lang="en" line="The news column." />
+			</subtitles>
+		</line>
+		<line words="La columna de moda." start="153915" length="2194" >
+			<highlight index="0" start="214" length="268" />
+			<highlight index="1" start="474" length="507" />
+			<highlight index="2" start="962" length="272" />
+			<highlight index="3" start="1215" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The fashion column." />
+				<subtitle lang="en" line="The fashion column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cocina." start="155378" length="2194" >
+			<highlight index="0" start="137" length="268" />
+			<highlight index="1" start="400" length="507" />
+			<highlight index="2" start="882" length="272" />
+			<highlight index="3" start="1145" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The cookery column." />
+				<subtitle lang="en" line="The cookery column." />
+			</subtitles>
+		</line>
+		<line words="La columna de viajes." start="156988" length="1902" >
+			<highlight index="0" start="137" length="268" />
+			<highlight index="1" start="400" length="507" />
+			<highlight index="2" start="882" length="272" />
+			<highlight index="3" start="1145" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The travel column." />
+				<subtitle lang="en" line="The travel column." />
+			</subtitles>
+		</line>
+		<line words="La columna de cultura." start="158451" length="1902" >
+			<highlight index="0" start="137" length="268" />
+			<highlight index="1" start="400" length="507" />
+			<highlight index="2" start="903" length="272" />
+			<highlight index="3" start="1173" length="484" />
+			<subtitles>
+				<subtitle lang="nz" line="The culture column." />
+				<subtitle lang="en" line="The culture column." />
+			</subtitles>
+		</line>
+		<line words="La columna del clima." start="160060" length="1902" >
+			<highlight index="0" start="137" length="227" />
+			<highlight index="1" start="350" length="806" />
+			<highlight index="2" start="1142" length="270" />
+			<highlight index="3" start="1401" length="406" />
+			<subtitles>
+				<subtitle lang="nz" line="The weather column." />
+				<subtitle lang="en" line="The weather column." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>
