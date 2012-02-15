@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="314592" >
+	<lines>
+		<line words="C’era una volta un gruppo di piccole creature ardenti che abitavano nei crateri sul grande pianeta rossa di Marte, al lato più vicino al sole. Si chiamavono Quoxi." start="0" length="24012" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="6611" length="522" />
+				<highlight index="1" start="7098" length="383" />
+				<highlight index="2" start="7377" length="904" />
+				<highlight index="3" start="8316" length="348" />
+				<highlight index="4" start="8594" length="348" />
+				<highlight index="5" start="8908" length="278" />
+				<highlight index="6" start="9116" length="766" />
+				<highlight index="7" start="9812" length="766" />
+				<highlight index="8" start="10474" length="1313" />
+				<highlight index="9" start="11622" length="557" />
+				<highlight index="10" start="12109" length="974" />
+				<highlight index="11" start="13014" length="243" />
+				<highlight index="12" start="13153" length="800" />
+				<highlight index="13" start="14266" length="418" />
+				<highlight index="14" start="14580" length="522" />
+				<highlight index="15" start="15032" length="661" />
+				<highlight index="16" start="15589" length="522" />
+				<highlight index="17" start="16041" length="348" />
+				<highlight index="18" start="16320" length="835" />
+				<highlight index="19" start="17468" length="487" />
+				<highlight index="20" start="17816" length="487" />
+				<highlight index="21" start="18233" length="592" />
+				<highlight index="22" start="18686" length="557" />
+				<highlight index="23" start="19208" length="243" />
+				<highlight index="24" start="19347" length="487" />
+				<highlight index="25" start="20495" length="348" />
+				<highlight index="26" start="20774" length="835" />
+				<highlight index="27" start="21504" length="1418" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Der var en gruppe små, vilde bæster, der boede i kraterne på den store, røde planet Mars, på den side, der vendte mod solen. De hed Quoxi." />
+				<subtitle lang="en" line="There was a group of small, fiery creatures who lived in craters on the big, red planet Mars, on the side nearest the sun.They were called Quoxi." />
+				<subtitle lang="nz" line="There was a group of small, fiery creatures who lived in craters on the big, red planet Mars, on the side nearest the sun.They were called Quoxi." />
+				<subtitle lang="nl" line="Er was eens een groep kleine, angstaanjagende wezens die leefden in de kraters van de grote, rode planeet Mars, aan de kant het dichtst bij de zon. Ze heetten Quoxi." />
+				<subtitle lang="ge" line="Es lebte eine Gruppe von kleinen, glühenden Kreaturen, die auf dem großen roten Planeten Mars, auf der Seite lebten, die der Sonne am nächsten war. Sie hießen Quoxi." />
+			</subtitles>
+		</line>
+		<line words="Vivevano una vita veloce brusca e hanno litigato tutto il tempo." start="23742" length="11062" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3206" length="961" />
+				<highlight index="1" start="4135" length="321" />
+				<highlight index="2" start="4424" length="481" />
+				<highlight index="3" start="4857" length="1090" />
+				<highlight index="4" start="5899" length="801" />
+				<highlight index="5" start="6797" length="288" />
+				<highlight index="6" start="7005" length="321" />
+				<highlight index="7" start="7277" length="978" />
+				<highlight index="8" start="8223" length="649" />
+				<highlight index="9" start="8848" length="145" />
+				<highlight index="10" start="8945" length="713" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="De levede nogle hurtige, hårde liv og skændtes med hinanden hele tiden." />
+				<subtitle lang="en" line="They lived quick, sharp lives and argued with each other all the time." />
+				<subtitle lang="nz" line="They lived quick, sharp lives and argued with each other all the time." />
+				<subtitle lang="nl" line="Ze leidden snelle, heftige levens en hadden constant ruzie met elkaar." />
+				<subtitle lang="ge" line="Sie lebten schnell und pfiffig und stritten sich die ganze Zeit miteinander." />
+			</subtitles>
+		</line>
+		<line words="La più piccola e la più giovane dei Quoxi si chiama Hilda. A Hilda non piacevano le discussioni e la fretta. Ha deciso che voleva trovare un posto più amichevole in cui si poteva vivere. " start="34804" length="23203" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3463" length="538" />
+				<highlight index="1" start="3866" length="337" />
+				<highlight index="2" start="4135" length="1144" />
+				<highlight index="3" start="5178" length="235" />
+				<highlight index="4" start="5346" length="235" />
+				<highlight index="5" start="5480" length="370" />
+				<highlight index="6" start="5749" length="774" />
+				<highlight index="7" start="6422" length="336" />
+				<highlight index="8" start="6624" length="739" />
+				<highlight index="9" start="7330" length="403" />
+				<highlight index="10" start="7632" length="639" />
+				<highlight index="11" start="8170" length="673" />
+				<highlight index="12" start="9751" length="403" />
+				<highlight index="13" start="10020" length="773" />
+				<highlight index="14" start="10995" length="471" />
+				<highlight index="15" start="11365" length="840" />
+				<highlight index="16" start="12172" length="269" />
+				<highlight index="17" start="12306" length="1177" />
+				<highlight index="18" start="13382" length="202" />
+				<highlight index="19" start="13483" length="269" />
+				<highlight index="20" start="13618" length="840" />
+				<highlight index="21" start="15030" length="370" />
+				<highlight index="22" start="15299" length="740" />
+				<highlight index="23" start="16476" length="202" />
+				<highlight index="24" start="16610" length="706" />
+				<highlight index="25" start="17216" length="605" />
+				<highlight index="26" start="17686" length="269" />
+				<highlight index="27" start="17854" length="505" />
+				<highlight index="28" start="18258" length="403" />
+				<highlight index="29" start="18493" length="1345" />
+				<highlight index="30" start="19939" length="336" />
+				<highlight index="31" start="20141" length="437" />
+				<highlight index="32" start="20444" length="235" />
+				<highlight index="33" start="20511" length="740" />
+				<highlight index="34" start="21183" length="772" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Den mindste, yngste Quoxi hedder Hilda. Hilda kunne ikke lide alle de skænderier og den ballade. Hun besluttede sig for at finde et mere venligt sted at bo." />
+				<subtitle lang="en" line="The smallest, youngest Quoxi is called Hilda. Hilda didn’t like all the arguments and the rushing about.She decided that she wanted to find a more friendly place to live." />
+				<subtitle lang="nz" line="The smallest, youngest Quoxi is called Hilda. Hilda didn’t like all the arguments and the rushing about.She decided that she wanted to find a more friendly place to live." />
+				<subtitle lang="nl" line="De kleinste en jongste Quoxi heette Hilda. Hilda hield niet van alle ruzies en het haasten. Zij besloot dat ze naar een meer vriendelijke plaats wilde verhuizen." />
+				<subtitle lang="ge" line="Der kleinste und jüngste Quoxi hieß Hilda. Hilda mochte die ganzen Streitereien und Raserei nicht. Sie entschied sich, einen freundlicheren Ort zum Leben zu finden." />
+			</subtitles>
+		</line>
+		<line words="Quindi ogni giorno camminava un po’ più lontano da casa ed esplorava il suo pianeta." start="57468" length="13490" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3909" length="645" />
+				<highlight index="1" start="4887" length="547" />
+				<highlight index="2" start="5395" length="665" />
+				<highlight index="3" start="6490" length="762" />
+				<highlight index="4" start="7194" length="234" />
+				<highlight index="5" start="7350" length="411" />
+				<highlight index="6" start="7721" length="196" />
+				<highlight index="7" start="7858" length="743" />
+				<highlight index="8" start="8503" length="255" />
+				<highlight index="9" start="8718" length="431" />
+				<highlight index="10" start="9520" length="332" />
+				<highlight index="11" start="9774" length="841" />
+				<highlight index="12" start="10576" length="293" />
+				<highlight index="13" start="10771" length="430" />
+				<highlight index="14" start="11143" length="1040" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Så hver dag gik hun lidt længere væk fra hjemmet og udforskede sin planet." />
+				<subtitle lang="en" line="So everyday she would walk a little bit further away from home and explore her planet." />
+				<subtitle lang="nz" line="So everyday she would walk a little bit further away from home and explore her planet." />
+				<subtitle lang="nl" line="Dus elke dag liep ze een stukje verder van huis weg om haar planeet te verkennen. " />
+				<subtitle lang="ge" line="Also wollte sie jeden Tag ein bisschen weiter von zu Hause weg laufen und den Planeten erkunden." />
+			</subtitles>
+		</line>
+		<line words="Un giorno mentre camminava, Hilda si sedeva su una roccia morbida azzurra per mangiare il pranzo. " start="70418" length="16459" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="6750" length="381" />
+				<highlight index="1" start="7012" length="644" />
+				<highlight index="2" start="7990" length="525" />
+				<highlight index="3" start="8419" length="907" />
+				<highlight index="4" start="10160" length="597" />
+				<highlight index="5" start="10685" length="429" />
+				<highlight index="6" start="11067" length="620" />
+				<highlight index="7" start="11615" length="334" />
+				<highlight index="8" start="11925" length="311" />
+				<highlight index="9" start="12188" length="477" />
+				<highlight index="10" start="12593" length="835" />
+				<highlight index="11" start="13380" length="644" />
+				<highlight index="12" start="14239" length="286" />
+				<highlight index="13" start="14430" length="620" />
+				<highlight index="14" start="15002" length="239" />
+				<highlight index="15" start="15193" length="940" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="En dag, hun gik en lang tur, satte Hilda sig ned og spiste frokost på en blød, blå klippe. " />
+				<subtitle lang="en" line="One day while on a long walk Hilda sat down to eat her lunch on a soft, blue rock." />
+				<subtitle lang="nz" line="One day while on a long walk Hilda sat down to eat her lunch on a soft, blue rock." />
+				<subtitle lang="nl" line="Op een dag ging Hilda na een lange wandeling op een zachte, blauwe rots haar lunch zitten eten." />
+				<subtitle lang="ge" line="Eines Tages, auf einem ihrer langen Ausflüge, setzte sich Hilda auf einen weichen blauen Felsen um Mittag zu essen. " />
+			</subtitles>
+		</line>
+		<line words="Proprio mentre stava togliendo il coperchio dal suo yogurt, all’improvviso la roccia azzurra si è mossa e Hilda ha fatto gocciolare il yogurt sui ginocchi." start="86607" length="17267" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1451" length="675" />
+				<highlight index="1" start="2026" length="551" />
+				<highlight index="2" start="2527" length="475" />
+				<highlight index="3" start="2877" length="751" />
+				<highlight index="4" start="3553" length="200" />
+				<highlight index="5" start="3678" length="751" />
+				<highlight index="6" start="4604" length="300" />
+				<highlight index="7" start="4879" length="425" />
+				<highlight index="8" start="5254" length="576" />
+				<highlight index="9" start="6344" length="1405" />
+				<highlight index="10" start="7821" length="291" />
+				<highlight index="11" start="8039" length="751" />
+				<highlight index="12" start="8693" length="751" />
+				<highlight index="13" start="9565" length="266" />
+				<highlight index="14" start="9734" length="194" />
+				<highlight index="15" start="9880" length="678" />
+				<highlight index="16" start="10969" length="218" />
+				<highlight index="17" start="11139" length="750" />
+				<highlight index="18" start="11793" length="242" />
+				<highlight index="19" start="11938" length="533" />
+				<highlight index="20" start="12422" length="993" />
+				<highlight index="21" start="13367" length="387" />
+				<highlight index="22" start="13681" length="582" />
+				<highlight index="23" start="14214" length="315" />
+				<highlight index="24" start="14432" length="927" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Lige da hun var ved at tage låget af sin yoghurt, bevægede den bløde, blå klippe sig pludselig, og hun spildte yoghurt på knæene." />
+				<subtitle lang="en" line=" Just as she was peeling the lid off her yoghurt the soft, blue rock suddenly moved and she spilt the yoghurt all over her knees." />
+				<subtitle lang="nz" line=" Just as she was peeling the lid off her yoghurt the soft, blue rock suddenly moved and she spilt the yoghurt all over her knees." />
+				<subtitle lang="nl" line="Toen ze net haar bakje yoghurt openmaakte, bewoog de blauwe rots plotseling en morste ze de yoghurt over haar knieën. " />
+				<subtitle lang="ge" line="Gerade als sie den Deckel von ihrem Yoghurt aufmachte, bewegte sich der weiche blaue Fels plötzlich und sie verschüttete den Yoghurt auf ihre Knien." />
+			</subtitles>
+		</line>
+		<line words="Si è guardata attorno e ha trovato che la roccia era attaccata ad una grande gamba blu! Hilda ha alzato gli occhi e la gamba sembrava di scomparire nell’atmosfera superiore." start="103065" length="21314" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4154" length="180" />
+				<highlight index="1" start="4244" length="329" />
+				<highlight index="2" start="4453" length="897" />
+				<highlight index="3" start="5260" length="658" />
+				<highlight index="4" start="6067" length="240" />
+				<highlight index="5" start="6217" length="209" />
+				<highlight index="6" start="6336" length="867" />
+				<highlight index="7" start="7293" length="269" />
+				<highlight index="8" start="7502" length="239" />
+				<highlight index="9" start="7652" length="777" />
+				<highlight index="10" start="8309" length="419" />
+				<highlight index="11" start="8608" length="897" />
+				<highlight index="12" start="9445" length="269" />
+				<highlight index="13" start="9565" length="448" />
+				<highlight index="14" start="9894" length="657" />
+				<highlight index="15" start="10432" length="508" />
+				<highlight index="16" start="10910" length="508" />
+				<highlight index="17" start="12793" length="628" />
+				<highlight index="18" start="13361" length="269" />
+				<highlight index="19" start="13510" length="807" />
+				<highlight index="20" start="14198" length="239" />
+				<highlight index="21" start="14258" length="538" />
+				<highlight index="22" start="15035" length="359" />
+				<highlight index="23" start="15304" length="209" />
+				<highlight index="24" start="15453" length="598" />
+				<highlight index="25" start="15932" length="627" />
+				<highlight index="26" start="16500" length="328" />
+				<highlight index="27" start="16679" length="1016" />
+				<highlight index="28" start="17695" length="1345" />
+				<highlight index="29" start="19070" length="957" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Hun så sig omkring og fandt ud af, at klippen sad fast på et stort, blåt ben!Hilda så op, og det var som om benet forsvandt op i atmosfæren." />
+				<subtitle lang="en" line="She looked round and found the rock was attached to a big blue leg! Hilda looked up and the leg seemed to disappear into the upper atmosphere." />
+				<subtitle lang="nz" line="She looked round and found the rock was attached to a big blue leg! Hilda looked up and the leg seemed to disappear into the upper atmosphere." />
+				<subtitle lang="nl" line="Ze keek om zich heen en zag dat de rots vast zat aan een groot, blauw been!Hilda keek omhoog en het been leek te verdwijnen in de lucht." />
+				<subtitle lang="ge" line="Sie sah sich um und bemerkte, dass der Fels zu einem langen blauen Bein gehörte! Hilda blickte auf und das Bein schien in der oberen Atmosphäre zu verschwinden." />
+			</subtitles>
+		</line>
+		<line words="Mentre stava alzando gli occhi una faccia azzurra gigante è apparita tra le nuvole a bioccoli per guardarla. La faccia aveva una bocca come una vallata e un naso come una catena montuosa." start="124110" length="23742" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4461" length="766" />
+				<highlight index="1" start="5061" length="599" />
+				<highlight index="2" start="5460" length="699" />
+				<highlight index="3" start="6026" length="333" />
+				<highlight index="4" start="6293" length="399" />
+				<highlight index="5" start="7092" length="566" />
+				<highlight index="6" start="7558" length="766" />
+				<highlight index="7" start="8190" length="433" />
+				<highlight index="8" start="8457" length="932" />
+				<highlight index="9" start="9522" length="466" />
+				<highlight index="10" start="9889" length="732" />
+				<highlight index="11" start="10554" length="300" />
+				<highlight index="12" start="10821" length="266" />
+				<highlight index="13" start="10954" length="799" />
+				<highlight index="14" start="11820" length="399" />
+				<highlight index="15" start="12119" length="899" />
+				<highlight index="16" start="12919" length="266" />
+				<highlight index="17" start="13118" length="700" />
+				<highlight index="18" start="14950" length="266" />
+				<highlight index="19" start="15183" length="765" />
+				<highlight index="20" start="15849" length="432" />
+				<highlight index="21" start="16182" length="333" />
+				<highlight index="22" start="16448" length="533" />
+				<highlight index="23" start="16881" length="699" />
+				<highlight index="24" start="17447" length="399" />
+				<highlight index="25" start="17713" length="666" />
+				<highlight index="26" start="18546" length="366" />
+				<highlight index="27" start="18845" length="333" />
+				<highlight index="28" start="19012" length="566" />
+				<highlight index="29" start="19478" length="699" />
+				<highlight index="30" start="20077" length="267" />
+				<highlight index="31" start="20344" length="765" />
+				<highlight index="32" start="20943" length="1398" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Da hun så op, kom der et kæmpestort, blåt ansigt til syne gennem skyerne og så på hende. Ansigtet havde en mund som en dal og en næse som en række af bjerge." />
+				<subtitle lang="en" line="As she was looking up a giant blue face came down through the whispy clouds to look at her. The face had a mouth like a valley and a nose like a range of mountains." />
+				<subtitle lang="nz" line="As she was looking up a giant blue face came down through the whispy clouds to look at her. The face had a mouth like a valley and a nose like a range of mountains." />
+				<subtitle lang="nl" line="Terwijl ze omhoog keek zag ze een enorm blauw gezicht door de dunne wolken naar haar kijken. Het gezicht had een mond als een vallei en een neus als een bergketen." />
+				<subtitle lang="ge" line="Während sie hinaufblickte tauchte ein Gesicht aus den feinen Wolken auf und sah sie an. In dem Gesicht war ein Mund so groß wie ein Tal und eine Nase wie eine Bergkette." />
+			</subtitles>
+		</line>
+		<line words="“Ciao” ha detto la faccia azzurra gigante. “Ciao” ha detto Hilda." start="146773" length="11062" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3614" length="512" />
+				<highlight index="1" start="4390" length="295" />
+				<highlight index="2" start="4638" length="357" />
+				<highlight index="3" start="4995" length="171" />
+				<highlight index="4" start="5135" length="511" />
+				<highlight index="5" start="5631" length="620" />
+				<highlight index="6" start="6174" length="698" />
+				<highlight index="7" start="7741" length="543" />
+				<highlight index="8" start="8516" length="264" />
+				<highlight index="9" start="8718" length="419" />
+				<highlight index="10" start="9122" length="882" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hej”, sagde det kæmpestore, blå ansigt. ”Hej”, sagde Hilda." />
+				<subtitle lang="en" line="“Hello” said the giant blue face.“Hello” said Hilda." />
+				<subtitle lang="nz" line="“Hello” said the giant blue face.“Hello” said Hilda." />
+				<subtitle lang="nl" line="“Hallo” zei het enorme blauwe gezicht.“Hallo” zei Hilda." />
+				<subtitle lang="ge" line="§Hallo§ sagte das riesige blaue Gesicht. §Hallo§ sagte Hilda." />
+			</subtitles>
+		</line>
+		<line words="“Cosa stai facendo qui?” ha chiesto il gigante sottovoce e lentamente. “Allora, ci sono venuta per andare a trovare un bel posto da vivere perchè dove abito io fa troppo caldo e la vita è troppo veloce.”" start="157835" length="27250" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4127" length="611" />
+				<highlight index="1" start="4624" length="382" />
+				<highlight index="2" start="4929" length="841" />
+				<highlight index="3" start="5617" length="421" />
+				<highlight index="4" start="6611" length="382" />
+				<highlight index="5" start="6878" length="535" />
+				<highlight index="6" start="7375" length="268" />
+				<highlight index="7" start="7490" length="802" />
+				<highlight index="8" start="8101" length="918" />
+				<highlight index="9" start="8980" length="230" />
+				<highlight index="10" start="9133" length="1376" />
+				<highlight index="11" start="11961" length="764" />
+				<highlight index="12" start="13604" length="344" />
+				<highlight index="13" start="13757" length="650" />
+				<highlight index="14" start="14292" length="726" />
+				<highlight index="15" start="14827" length="306" />
+				<highlight index="16" start="15057" length="649" />
+				<highlight index="17" start="15592" length="267" />
+				<highlight index="18" start="15783" length="688" />
+				<highlight index="19" start="16394" length="191" />
+				<highlight index="20" start="16509" length="497" />
+				<highlight index="21" start="16853" length="649" />
+				<highlight index="22" start="17350" length="420" />
+				<highlight index="23" start="17617" length="841" />
+				<highlight index="24" start="18343" length="612" />
+				<highlight index="25" start="18878" length="497" />
+				<highlight index="26" start="19260" length="994" />
+				<highlight index="27" start="20330" length="727" />
+				<highlight index="28" start="21057" length="573" />
+				<highlight index="29" start="21515" length="612" />
+				<highlight index="30" start="22050" length="726" />
+				<highlight index="31" start="22662" length="420" />
+				<highlight index="32" start="23044" length="229" />
+				<highlight index="33" start="23158" length="650" />
+				<highlight index="34" start="23655" length="268" />
+				<highlight index="35" start="23770" length="841" />
+				<highlight index="36" start="24496" length="1032" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Hvad laver du her?”, spurgte kæmpen med langsom, lav stemme. ”Tja, jeg er gået herhen for at prøve at finde et dejligt sted at bo, for i mit hjem er det for varmt, og det går for stærkt”." />
+				<subtitle lang="en" line="“What are you doing here?” asked the giant in a slow, low voice.“Well, I have walked here to try and find somewhere nice to live because my home is too hot and too quick." />
+				<subtitle lang="nz" line="“What are you doing here?” asked the giant in a slow, low voice.“Well, I have walked here to try and find somewhere nice to live because my home is too hot and too quick." />
+				<subtitle lang="nl" line="“Wat doe jij hier?” vroeg de reus met zijn rustige, lage stem. “Nou, ik ben komen lopen om een nieuwe woonplaats te vinden want waar ik woon is het te warm en te gehaast. " />
+				<subtitle lang="ge" line="§Was machst du hier?§ fragte der Riese mit einer ruhigen, tiefen Stimme. §Nun, ich bin hierher gelaufen, weil ich versuche einen netten Ort zum leben zu finden, weil es bei mir zu Hause zu heiß und zu schnell ist." />
+			</subtitles>
+		</line>
+		<line words="“Oh, ha detto il gigante, “Ho camminato dalla direzione opposta” ha indicato col mano verso l’altro lato del pianeta, “perchè la mia casa è congelata e non vediamo mai il sole.”" start="184816" length="21314" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2779" length="568" />
+				<highlight index="1" start="3467" length="299" />
+				<highlight index="2" start="3676" length="329" />
+				<highlight index="3" start="4035" length="179" />
+				<highlight index="4" start="4154" length="748" />
+				<highlight index="5" start="5589" length="329" />
+				<highlight index="6" start="5888" length="867" />
+				<highlight index="7" start="6635" length="269" />
+				<highlight index="8" start="6755" length="1046" />
+				<highlight index="9" start="7711" length="867" />
+				<highlight index="10" start="9326" length="269" />
+				<highlight index="11" start="9535" length="1037" />
+				<highlight index="12" start="10402" length="269" />
+				<highlight index="13" start="10581" length="508" />
+				<highlight index="14" start="10940" length="478" />
+				<highlight index="15" start="11358" length="598" />
+				<highlight index="16" start="11896" length="508" />
+				<highlight index="17" start="12285" length="388" />
+				<highlight index="18" start="12554" length="777" />
+				<highlight index="19" start="14288" length="478" />
+				<highlight index="20" start="14706" length="239" />
+				<highlight index="21" start="14915" length="329" />
+				<highlight index="22" start="15154" length="598" />
+				<highlight index="23" start="16021" length="239" />
+				<highlight index="24" start="16141" length="1246" />
+				<highlight index="25" start="17725" length="239" />
+				<highlight index="26" start="17875" length="358" />
+				<highlight index="27" start="18084" length="717" />
+				<highlight index="28" start="18652" length="538" />
+				<highlight index="29" start="19100" length="239" />
+				<highlight index="30" start="19220" length="1096" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Nå”, sagde kæmpen, “jeg kommer der ovre fra”. Han pegede over på den anden side af planeten. ”Jeg er gået herhen, for i mit hjem fryser det, og det går for langsomt, og vi ser aldrig solen”." />
+				<subtitle lang="en" line="“Oh” said the giant, “I have walked here from over that way,” he pointed towards the other side of the planet, “because my home is frozen and slow and we never see the sun.”" />
+				<subtitle lang="nz" line="“Oh” said the giant, “I have walked here from over that way,” he pointed towards the other side of the planet, “because my home is frozen and slow and we never see the sun.”" />
+				<subtitle lang="nl" line="“Oh” zei de reus, “ik heb langs die weg gelopen,” en hij wees naar de andere kant van de planeet, “want waar ik woon is het bevroren en sloom en de zon schijnt er nooit." />
+				<subtitle lang="ge" line="§Oh§ sagte der Riese, §Ich bin von dort drüben gekommen,§ er zeigte in Richtung der anderen Seite des Planeten. §Weil mein zu Hause eiskalt ist und wir sehen niemals die Sonne.§" />
+			</subtitles>
+		</line>
+		<line words="“Oh” ha detto Hilda in modo eccitato, “allora, forse potremmo vivere qui, non fa troppo caldo e non fa troppo freddo.”" start="205590" length="17538" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4107" length="639" />
+				<highlight index="1" start="4722" length="295" />
+				<highlight index="2" start="4968" length="516" />
+				<highlight index="3" start="5386" length="713" />
+				<highlight index="4" start="5976" length="246" />
+				<highlight index="5" start="6173" length="615" />
+				<highlight index="6" start="6665" length="984" />
+				<highlight index="7" start="8018" length="762" />
+				<highlight index="8" start="9174" length="1008" />
+				<highlight index="9" start="10108" length="812" />
+				<highlight index="10" start="10797" length="443" />
+				<highlight index="11" start="11191" length="442" />
+				<highlight index="12" start="12347" length="319" />
+				<highlight index="13" start="12568" length="320" />
+				<highlight index="14" start="12765" length="664" />
+				<highlight index="15" start="13281" length="591" />
+				<highlight index="16" start="14240" length="173" />
+				<highlight index="17" start="14339" length="246" />
+				<highlight index="18" start="14511" length="295" />
+				<highlight index="19" start="14659" length="737" />
+				<highlight index="20" start="15298" length="1307" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Nå”, sagde Hilda spændt. ”Måske kan vi bo her, det er ikke for varmt og ikke for koldt.”" />
+				<subtitle lang="en" line="“Oh” said Hilda excitedly, ”well, maybe we could live here, It’s not too hot and not too cold.”" />
+				<subtitle lang="nz" line="“Oh” said Hilda excitedly, ”well, maybe we could live here, It’s not too hot and not too cold.”" />
+				<subtitle lang="nl" line="“Oh” zei Hilda opgewonden, ”nou, misschien kunnen we hier wonen, het is niet te warm en niet te koud.”" />
+				<subtitle lang="ge" line="§Oh§ sagte Hilda aufgeregt, §naja, vielleicht könnten wir hier leben. Hier ist es nicht zu heiß und auch nicht zu kalt.§" />
+			</subtitles>
+		</line>
+		<line words="Cosi il gigante ha riso e ha sollevato Hilda e l’ha portata molto distante dalle nuvole." start="222858" length="14030" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4486" length="511" />
+				<highlight index="1" start="5548" length="217" />
+				<highlight index="2" start="5745" length="846" />
+				<highlight index="3" start="6532" length="236" />
+				<highlight index="4" start="6748" length="571" />
+				<highlight index="5" start="7693" length="197" />
+				<highlight index="6" start="7811" length="216" />
+				<highlight index="7" start="7929" length="925" />
+				<highlight index="8" start="8814" length="571" />
+				<highlight index="9" start="9601" length="237" />
+				<highlight index="10" start="9739" length="197" />
+				<highlight index="11" start="9916" length="807" />
+				<highlight index="12" start="10664" length="669" />
+				<highlight index="13" start="11235" length="688" />
+				<highlight index="14" start="11844" length="374" />
+				<highlight index="15" start="12159" length="1007" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Så smilede kæmpen og løftede Hilda op, så hun kom højt op over skyerne." />
+				<subtitle lang="en" line="With that the giant smiled and lifted Hilda up, bringing her high above the clouds. " />
+				<subtitle lang="nl" line="Daar lachte de reus om en hij tilde Hilda op, zodat ze hoog boven de wolken uitkwam." />
+				<subtitle lang="ge" line="Daraufhin lächelte der Riese und hob Hilda hinauf bis über die Wolken." />
+			</subtitles>
+		</line>
+		<line words="“Wow” ha detto Hilda, “possiamo vedere il sole e la luna e ...” ha guardato indietro al gigante, “quali sono tutti quelli altri pianete?”" start="236618" length="21045" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4368" length="767" />
+				<highlight index="1" start="5460" length="295" />
+				<highlight index="2" start="5666" length="413" />
+				<highlight index="3" start="5961" length="679" />
+				<highlight index="4" start="7024" length="826" />
+				<highlight index="5" start="7703" length="649" />
+				<highlight index="6" start="8204" length="355" />
+				<highlight index="7" start="8500" length="531" />
+				<highlight index="8" start="9119" length="295" />
+				<highlight index="9" start="9355" length="296" />
+				<highlight index="10" start="9592" length="501" />
+				<highlight index="11" start="9857" length="266" />
+				<highlight index="13" start="11510" length="443" />
+				<highlight index="14" start="11805" length="738" />
+				<highlight index="15" start="12395" length="591" />
+				<highlight index="16" start="12956" length="207" />
+				<highlight index="17" start="13074" length="768" />
+				<highlight index="18" start="14698" length="442" />
+				<highlight index="19" start="15022" length="502" />
+				<highlight index="20" start="15435" length="591" />
+				<highlight index="21" start="15937" length="443" />
+				<highlight index="22" start="16321" length="826" />
+				<highlight index="23" start="17088" length="915" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="”Wow!”, sagde Hilda. ”Vi kan se solen og månen og…” hun så på kæmpen igen, ”hvad er det for en masse andre planeter?”" />
+				<subtitle lang="en" line="“Oh wow!” said Hilda,”we can see the sun and the moon and…” she looked back to the giant, “what are all those other planets?”" />
+				<subtitle lang="nz" line="“Oh wow!” said Hilda,”we can see the sun and the moon and…” she looked back to the giant, “what are all those other planets?”" />
+				<subtitle lang="nl" line="“Wow!” zei Hilda, ”we kunnen de zon zien en de maan en…” ze keek de reus aan, “wat zijn al die andere planeten?”" />
+				<subtitle lang="ge" line="§Oh wow!§ sagte Hilda, §wir können die Sonne und den Monde sehen und...§ sie drehte sich zu dem Riesen, §was sind das noch für andere Planteten?§" />
+			</subtitles>
+		</line>
+		<line words="“Possiamo vedere tutti quanti, Hilda; Mercurio, Venere, Plutone e laggiù c’è Giove e Urano e proprio li c’è Nettuno e la Terra.§" start="257663" length="24282" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="5721" length="817" />
+				<highlight index="1" start="6436" length="647" />
+				<highlight index="2" start="6946" length="511" />
+				<highlight index="3" start="7491" length="784" />
+				<highlight index="4" start="8581" length="681" />
+				<highlight index="5" start="10250" length="1089" />
+				<highlight index="6" start="11646" length="1056" />
+				<highlight index="7" start="13008" length="954" />
+				<highlight index="8" start="14677" length="374" />
+				<highlight index="9" start="14949" length="749" />
+				<highlight index="10" start="15834" length="341" />
+				<highlight index="11" start="16141" length="885" />
+				<highlight index="12" start="17129" length="374" />
+				<highlight index="13" start="17435" length="681" />
+				<highlight index="14" start="18661" length="306" />
+				<highlight index="15" start="18933" length="784" />
+				<highlight index="16" start="19648" length="375" />
+				<highlight index="17" start="19989" length="545" />
+				<highlight index="18" start="20432" length="987" />
+				<highlight index="19" start="21317" length="307" />
+				<highlight index="20" start="21556" length="340" />
+				<highlight index="21" start="21760" length="1255" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="“Vi kan se dem alle sammen her fra, Hilda: Merkur, Venus, Pluto, der ovre er Jupiter og Uranus, og der nede er Neptun og planeten Jorden.”" />
+				<subtitle lang="en" line="“We can see them all from here, Hilda; Mercury, Venus, Pluto, over there are Jupiter and Uranus, and right down there are Neptune and planet Earth.”" />
+				<subtitle lang="nz" line="“We can see them all from here, Hilda; Mercury, Venus, Pluto, over there are Jupiter and Uranus, and right down there are Neptune and planet Earth.”" />
+				<subtitle lang="nl" line="“We kunnen ze vanaf hier allemaal zien, Hilda: Mercurius, Venus, Pluto, daar zijn Jupiter en Uranus, en daar beneden zie je Neptunus en de Aarde.”" />
+				<subtitle lang="ge" line="§Wir können sie alle von hier sehen, Hilda. Den Merkur, die Venus, den Pluto, da drüben sind Jupiter und Uranus und gleich dort sind Neptun und der Planet Erde.§" />
+			</subtitles>
+		</line>
+		<line words="Hilda ha offerto di condividere la sua mela con il gigante e tutti e due hanno deciso subito che facevamo insieme una casa comoda in quel bellissimo luogo. " start="281406" length="19695" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="4916" length="470" />
+				<highlight index="1" start="5330" length="249" />
+				<highlight index="2" start="5524" length="718" />
+				<highlight index="3" start="6104" length="221" />
+				<highlight index="4" start="6325" length="884" />
+				<highlight index="5" start="7126" length="303" />
+				<highlight index="6" start="7347" length="414" />
+				<highlight index="7" start="7678" length="525" />
+				<highlight index="8" start="8230" length="304" />
+				<highlight index="9" start="8507" length="193" />
+				<highlight index="10" start="8672" length="746" />
+				<highlight index="11" start="9888" length="248" />
+				<highlight index="12" start="10053" length="636" />
+				<highlight index="13" start="10606" length="166" />
+				<highlight index="14" start="10716" length="442" />
+				<highlight index="15" start="11075" length="525" />
+				<highlight index="16" start="11490" length="828" />
+				<highlight index="17" start="12208" length="911" />
+				<highlight index="18" start="13230" length="359" />
+				<highlight index="19" start="13589" length="884" />
+				<highlight index="20" start="14418" length="828" />
+				<highlight index="21" start="15108" length="414" />
+				<highlight index="22" start="15412" length="580" />
+				<highlight index="23" start="15881" length="774" />
+				<highlight index="24" start="16765" length="359" />
+				<highlight index="25" start="17042" length="359" />
+				<highlight index="26" start="17345" length="1001" />
+				<highlight index="27" start="18257" length="1222" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Hilda tilbød at dele sit æble med kæmpen, og sammen besluttede de sig for at lave et hyggeligt hjem på dette dejlige sted." />
+				<subtitle lang="en" line="Hilda offered to share her apple with the giant and the two of them decided there and then to make a cosy home together in this beautiful spot." />
+				<subtitle lang="nz" line="Hilda offered to share her apple with the giant and the two of them decided there and then to make a cosy home together in this beautiful spot." />
+				<subtitle lang="nl" line="Hilda bood aan om haar appel te delen met de reus en ze besloten daar op dat moment dat ze een gezellig huis gingen maken op de mooie plek." />
+				<subtitle lang="ge" line="Hilda bot dem Riesen an, ihren Apfel mit ihm zu teilen und die beiden beschlossen, irgendwann einmal sich zusammen ein gemütliches Heim an diesem Ort einzurichten." />
+			</subtitles>
+		</line>
+		<line words="Quella notte si sono addormentati e hanno contato tutti pianete e stelle che potevano vedere in quel cielo notturno." start="300562" length="14569" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1450" length="409" />
+				<highlight index="1" start="1818" length="654" />
+				<highlight index="2" start="2778" length="245" />
+				<highlight index="3" start="2962" length="450" />
+				<highlight index="4" start="3350" length="1206" />
+				<highlight index="5" start="4515" length="347" />
+				<highlight index="6" start="4760" length="368" />
+				<highlight index="7" start="5026" length="817" />
+				<highlight index="8" start="5741" length="715" />
+				<highlight index="9" start="6374" length="777" />
+				<highlight index="10" start="7559" length="327" />
+				<highlight index="11" start="7825" length="654" />
+				<highlight index="12" start="8417" length="287" />
+				<highlight index="13" start="8642" length="797" />
+				<highlight index="14" start="9337" length="490" />
+				<highlight index="15" start="10032" length="265" />
+				<highlight index="16" start="10236" length="409" />
+				<highlight index="17" start="10542" length="593" />
+				<highlight index="18" start="11053" length="1467" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Den nat faldt de i søvn, mens de talte alle planeterne og stjernerne, de kunne se på nattehimlen." />
+				<subtitle lang="en" line="That night they fell asleep counting all the planets and stars they could see in the night sky." />
+				<subtitle lang="nz" line="That night they fell asleep counting all the planets and stars they could see in the night sky." />
+				<subtitle lang="nl" line="Die nacht telden ze alle planeten en sterren die ze aan de hemel konden zien totdat ze in slaap vielen." />
+				<subtitle lang="ge" line="In der Nacht schliefen sie ein, während sie die ganzen Planeten und Sterne, die sie am Nachthimmel sehen konnten, zählten." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

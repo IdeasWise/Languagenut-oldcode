@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="121835" >
+	<lines>
+		<line words="January, February" start="4106" length="4000" >
+			<highlight index="0" start="892" length="1150" />
+			<highlight index="1" start="2537" length="1130" />
+			<subtitles>
+				<subtitle lang="dk" line="Januar februar" />
+				<subtitle lang="nl" line="Januari, februari" />
+			</subtitles>
+		</line>
+		<line words="March, April, May" start="8115" length="5085" >
+			<highlight index="0" start="539" length="600" />
+			<highlight index="1" start="1974" length="1024" />
+			<highlight index="2" start="3824" length="754" />
+			<subtitles>
+				<subtitle lang="dk" line="marts, april, maj" />
+				<subtitle lang="nl" line="maart, april, mei" />
+			</subtitles>
+		</line>
+		<line words="June, July, August" start="13493" length="4498" >
+			<highlight index="0" start="226" length="613" />
+			<highlight index="1" start="1498" length="978" />
+			<highlight index="2" start="3382" length="1064" />
+			<subtitles>
+				<subtitle lang="dk" line="juni, juli, august" />
+				<subtitle lang="nl" line="juni, juli, augustus" />
+			</subtitles>
+		</line>
+		<line words="September, October, November" start="18187" length="4978" >
+			<highlight index="0" start="608" length="701" />
+			<highlight index="1" start="2272" length="995" />
+			<highlight index="2" start="3860" length="967" />
+			<subtitles>
+				<subtitle lang="dk" line="september, oktober, november " />
+				<subtitle lang="nl" line="september, oktober, november" />
+			</subtitles>
+		</line>
+		<line words="December" start="22978" length="2445" >
+			<highlight index="0" start="812" length="746" />
+			<subtitles>
+				<subtitle lang="dk" line="december" />
+				<subtitle lang="nl" line="december" />
+			</subtitles>
+		</line>
+		<line words="In the winter, it was cold" start="25227" length="4000" >
+			<highlight index="0" start="363" length="363" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="867" length="364" />
+			<highlight index="3" start="2042" length="307" />
+			<highlight index="4" start="2320" length="200" />
+			<highlight index="5" start="2506" length="636" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste vinter var det koldt" />
+				<subtitle lang="nl" line="In de winter was het koud" />
+			</subtitles>
+		</line>
+		<line words="In the spring, it was windy" start="28845" length="3325" >
+			<highlight index="0" start="301" length="200" />
+			<highlight index="1" start="486" length="167" />
+			<highlight index="2" start="641" length="390" />
+			<highlight index="3" start="1823" length="200" />
+			<highlight index="4" start="2016" length="200" />
+			<highlight index="5" start="2217" length="495" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste forår var det blæsende" />
+				<subtitle lang="nl" line="In de lente waaide het " />
+			</subtitles>
+		</line>
+		<line words="In the summer it was hot" start="31974" length="4000" >
+			<highlight index="0" start="489" length="200" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="877" length="711" />
+			<highlight index="3" start="2103" length="200" />
+			<highlight index="4" start="2289" length="200" />
+			<highlight index="5" start="2476" length="661" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste sommer var det varmt" />
+				<subtitle lang="nl" line="In de zomer was het warm" />
+			</subtitles>
+		</line>
+		<line words="In the autumn it was wet" start="35494" length="4000" >
+			<highlight index="0" start="489" length="200" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="877" length="711" />
+			<highlight index="3" start="2103" length="200" />
+			<highlight index="4" start="2289" length="200" />
+			<highlight index="5" start="2476" length="661" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste efterår var det vådt" />
+				<subtitle lang="nl" line="In de herfst was het slecht " />
+			</subtitles>
+		</line>
+		<line words="January, February" start="39210" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="Januar, februar" />
+				<subtitle lang="nl" line="Januari, februari" />
+			</subtitles>
+		</line>
+		<line words="March, April" start="40872" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="marts, april" />
+				<subtitle lang="nl" line="maart, april" />
+			</subtitles>
+		</line>
+		<line words="May, June" start="42534" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="maj, juni" />
+				<subtitle lang="nl" line="mei, juni" />
+			</subtitles>
+		</line>
+		<line words="July, August" start="44001" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="juli, august" />
+				<subtitle lang="nl" line="juli, augustus" />
+			</subtitles>
+		</line>
+		<line words="September, October" start="45859" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="september, oktober" />
+				<subtitle lang="nl" line="september, oktober" />
+			</subtitles>
+		</line>
+		<line words="November, December" start="47811" length="1760" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="november, december" />
+				<subtitle lang="nl" line="november, december" />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="49574" length="1663" >
+			<highlight index="0" start="157" length="201" />
+			<highlight index="1" start="350" length="178" />
+			<highlight index="2" start="515" length="200" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="260" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="51237" length="1663" >
+			<highlight index="0" start="157" length="201" />
+			<highlight index="1" start="350" length="178" />
+			<highlight index="2" start="515" length="200" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="344" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="52899" length="1663" >
+			<highlight index="0" start="157" length="201" />
+			<highlight index="1" start="350" length="178" />
+			<highlight index="2" start="515" length="260" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="344" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="54659" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="178" />
+			<highlight index="2" start="545" length="200" />
+			<highlight index="3" start="966" length="217" />
+			<highlight index="4" start="1178" length="168" />
+			<highlight index="5" start="1339" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="January, February" start="59059" length="4000" >
+			<highlight index="0" start="892" length="1150" />
+			<highlight index="1" start="2537" length="1130" />
+			<subtitles>
+				<subtitle lang="dk" line="Januar, februar" />
+				<subtitle lang="nl" line="Januari, februari" />
+			</subtitles>
+		</line>
+		<line words="March, April, May" start="62970" length="5085" >
+			<highlight index="0" start="539" length="600" />
+			<highlight index="1" start="1974" length="1024" />
+			<highlight index="2" start="3824" length="754" />
+			<subtitles>
+				<subtitle lang="dk" line="marts, april, maj" />
+				<subtitle lang="nl" line="maart, april, mei" />
+			</subtitles>
+		</line>
+		<line words="June, July, August" start="68348" length="4498" >
+			<highlight index="0" start="226" length="613" />
+			<highlight index="1" start="1498" length="978" />
+			<highlight index="2" start="3382" length="1064" />
+			<subtitles>
+				<subtitle lang="dk" line="juni, juli, august" />
+				<subtitle lang="nl" line="juni, juli, augustus" />
+			</subtitles>
+		</line>
+		<line words="September, October, November" start="73140" length="4978" >
+			<highlight index="0" start="608" length="701" />
+			<highlight index="1" start="2272" length="995" />
+			<highlight index="2" start="3860" length="967" />
+			<subtitles>
+				<subtitle lang="dk" line="september, oktober, november " />
+				<subtitle lang="nl" line="september, oktober, november" />
+			</subtitles>
+		</line>
+		<line words="December" start="77931" length="2445" >
+			<highlight index="0" start="869" length="746" />
+			<subtitles>
+				<subtitle lang="dk" line="december" />
+				<subtitle lang="nl" line="december" />
+			</subtitles>
+		</line>
+		<line words="In the winter, it was cold" start="80082" length="4000" >
+			<highlight index="0" start="363" length="363" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="867" length="364" />
+			<highlight index="3" start="2078" length="271" />
+			<highlight index="4" start="2320" length="282" />
+			<highlight index="5" start="2577" length="636" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste vinter var det koldt" />
+				<subtitle lang="nl" line="In de winter was het koud" />
+			</subtitles>
+		</line>
+		<line words="In the spring, it was windy" start="83700" length="3325" >
+			<highlight index="0" start="301" length="200" />
+			<highlight index="1" start="486" length="167" />
+			<highlight index="2" start="641" length="390" />
+			<highlight index="3" start="1823" length="200" />
+			<highlight index="4" start="2016" length="298" />
+			<highlight index="5" start="2310" length="537" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste forår var det blæsende" />
+				<subtitle lang="nl" line="In de lente waaide het " />
+			</subtitles>
+		</line>
+		<line words="In the summer it was hot" start="86927" length="4000" >
+			<highlight index="0" start="489" length="200" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="877" length="711" />
+			<highlight index="3" start="2103" length="200" />
+			<highlight index="4" start="2289" length="200" />
+			<highlight index="5" start="2476" length="661" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste sommer var det varmt" />
+				<subtitle lang="nl" line="In de zomer was het warm" />
+			</subtitles>
+		</line>
+		<line words="In the autumn it was wet" start="90349" length="4000" >
+			<highlight index="0" start="489" length="200" />
+			<highlight index="1" start="680" length="200" />
+			<highlight index="2" start="877" length="711" />
+			<highlight index="3" start="2103" length="200" />
+			<highlight index="4" start="2289" length="200" />
+			<highlight index="5" start="2476" length="661" />
+			<subtitles>
+				<subtitle lang="dk" line="Sidste efterår var det vådt" />
+				<subtitle lang="nl" line="In de herfst was het slecht " />
+			</subtitles>
+		</line>
+		<line words="January, February" start="94065" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="Januar, februar" />
+				<subtitle lang="nl" line="Januari, februari" />
+			</subtitles>
+		</line>
+		<line words="March, April" start="95825" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="marts, april" />
+				<subtitle lang="nl" line="maart, april" />
+			</subtitles>
+		</line>
+		<line words="May, June" start="97194" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="maj, juni" />
+				<subtitle lang="nl" line="mei, juni" />
+			</subtitles>
+		</line>
+		<line words="July, August" start="99247" length="1955" >
+			<highlight index="0" start="115" length="856" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="juli, august" />
+				<subtitle lang="nl" line="juli, augustus" />
+			</subtitles>
+		</line>
+		<line words="September, October" start="100909" length="1955" >
+			<highlight index="0" start="184" length="822" />
+			<highlight index="1" start="981" length="948" />
+			<subtitles>
+				<subtitle lang="dk" line="september, oktober" />
+				<subtitle lang="nl" line="september, oktober" />
+			</subtitles>
+		</line>
+		<line words="November, December" start="102669" length="1663" >
+			<highlight index="0" start="184" length="807" />
+			<highlight index="1" start="981" length="591" />
+			<subtitles>
+				<subtitle lang="dk" line="november, december" />
+				<subtitle lang="nl" line="november, december" />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="104527" length="1663" >
+			<highlight index="0" start="92" length="163" />
+			<highlight index="1" start="251" length="178" />
+			<highlight index="2" start="427" length="200" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="260" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="106190" length="1663" >
+			<highlight index="0" start="157" length="201" />
+			<highlight index="1" start="350" length="178" />
+			<highlight index="2" start="515" length="200" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="344" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="107852" length="1663" >
+			<highlight index="0" start="157" length="142" />
+			<highlight index="1" start="283" length="178" />
+			<highlight index="2" start="450" length="211" />
+			<highlight index="3" start="809" length="187" />
+			<highlight index="4" start="991" length="180" />
+			<highlight index="5" start="1165" length="344" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="109416" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="145" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="966" length="217" />
+			<highlight index="4" start="1178" length="168" />
+			<highlight index="5" start="1339" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="111274" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="145" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="966" length="217" />
+			<highlight index="4" start="1178" length="168" />
+			<highlight index="5" start="1339" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="113034" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="145" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="868" length="217" />
+			<highlight index="4" start="1067" length="240" />
+			<highlight index="5" start="1289" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="114794" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="145" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="870" length="217" />
+			<highlight index="4" start="1072" length="210" />
+			<highlight index="5" start="1270" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+		<line words="It was hot, it was cold" start="116457" length="1956" >
+			<highlight index="0" start="143" length="232" />
+			<highlight index="1" start="372" length="145" />
+			<highlight index="2" start="513" length="200" />
+			<highlight index="3" start="966" length="217" />
+			<highlight index="4" start="1178" length="168" />
+			<highlight index="5" start="1339" length="434" />
+			<subtitles>
+				<subtitle lang="dk" line="Det var varmt, det var koldt." />
+				<subtitle lang="nl" line="Het was warm, het was koud." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

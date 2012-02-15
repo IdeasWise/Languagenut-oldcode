@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<karaoke length="112535">
+	<lines>
+		<line words="Wo lebst du?" start="7761" length="4000">
+			<highlight index="0" start="254" length="1211"/>
+			<highlight index="1" start="1431" length="684"/>
+			<highlight index="2" start="2098" length="792"/>
+			<subtitles>
+				<subtitle lang="en" line="Where do you live?"/>
+				<subtitle lang="sp" line="¿Dónde vives?"/>
+				<subtitle lang="fr" line="Où habites- tu?"/>
+				<subtitle lang="dk" line="Hvor bor du?"/>
+				<subtitle lang="nl" line="Hee waar woon jij?"/>
+				<subtitle lang="nz" line="Where do you live?"/>
+				<subtitle lang="us" line="Where do you live?"/><subtitle lang="au" line="Where do you live?"/><subtitle lang="bz" line="Where do you live?"/><subtitle lang="jm" line="Where do you live?"/><subtitle lang="tt" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ag" line="Where do you live?"/><subtitle lang="dm" line="Where do you live?"/><subtitle lang="vc" line="Where do you live?"/><subtitle lang="bs" line="Where do you live?"/><subtitle lang="ca" line="Where do you live?"/><subtitle lang="bd" line="Where do you live?"/><subtitle lang="bw" line="Where do you live?"/><subtitle lang="fj" line="Where do you live?"/><subtitle lang="gm" line="Where do you live?"/><subtitle lang="gh" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ke" line="Where do you live?"/><subtitle lang="mt" line="Where do you live?"/><subtitle lang="mu" line="Where do you live?"/><subtitle lang="na" line="Where do you live?"/><subtitle lang="ng" line="Where do you live?"/><subtitle lang="pk" line="Where do you live?"/><subtitle lang="rw" line="Where do you live?"/><subtitle lang="ws" line="Where do you live?"/><subtitle lang="sl" line="Where do you live?"/><subtitle lang="sg" line="Where do you live?"/><subtitle lang="sb" line="Where do you live?"/><subtitle lang="za" line="Where do you live?"/><subtitle lang="tz" line="Where do you live?"/><subtitle lang="to" line="Where do you live?"/><subtitle lang="ug" line="Where do you live?"/><subtitle lang="vu" line="Where do you live?"/><subtitle lang="zm" line="Where do you live?"/><subtitle lang="zw" line="Where do you live?"/><subtitle lang="sco" line="Where do you live?"/>
+				<subtitle lang="cl" line="¿Dónde vives?"/><subtitle lang="es" line="¿Dónde vives?"/><subtitle lang="co" line="¿Dónde vives?"/><subtitle lang="gt" line="¿Dónde vives?"/><subtitle lang="pe" line="¿Dónde vives?"/><subtitle lang="ni" line="¿Dónde vives?"/><subtitle lang="do" line="¿Dónde vives?"/><subtitle lang="bo" line="¿Dónde vives?"/><subtitle lang="ve" line="¿Dónde vives?"/><subtitle lang="ar" line="¿Dónde vives?"/><subtitle lang="cu" line="¿Dónde vives?"/><subtitle lang="pr" line="¿Dónde vives?"/><subtitle lang="py" line="¿Dónde vives?"/><subtitle lang="ec" line="¿Dónde vives?"/><subtitle lang="hn" line="¿Dónde vives?"/><subtitle lang="sv" line="¿Dónde vives?"/><subtitle lang="cr" line="¿Dónde vives?"/><subtitle lang="pa" line="¿Dónde vives?"/><subtitle lang="mx" line="¿Dónde vives?"/>
+				<subtitle lang="ae" line="Where do you live?"/>
+				<subtitle lang="ine" line="Where do you live?"/>
+			</subtitles>
+		</line>
+		<line words="Ich lebe im Wald." start="11738" length="3201">
+			<highlight index="0" start="212" length="426"/>
+			<highlight index="1" start="624" length="743"/>
+			<highlight index="2" start="1340" length="683"/>
+			<highlight index="3" start="1991" length="852"/>
+			<subtitles>
+				<subtitle lang="en" line="I live in the forest."/>
+				<subtitle lang="sp" line="Vivo en el bosque"/>
+				<subtitle lang="fr" line="J'habite dans la fôret."/>
+				<subtitle lang="dk" line="Jeg bor i skoven."/>
+				<subtitle lang="nl" line="Ik woon in het bos."/>
+				<subtitle lang="nz" line="I live in the forest."/>
+				<subtitle lang="us" line="I live in the forest."/><subtitle lang="au" line="I live in the forest."/><subtitle lang="bz" line="I live in the forest."/><subtitle lang="jm" line="I live in the forest."/><subtitle lang="tt" line="I live in the forest."/><subtitle lang="gy" line="I live in the forest."/><subtitle lang="ag" line="I live in the forest."/><subtitle lang="dm" line="I live in the forest."/><subtitle lang="vc" line="I live in the forest."/><subtitle lang="bs" line="I live in the forest."/><subtitle lang="ca" line="I live in the forest."/><subtitle lang="bd" line="I live in the forest."/><subtitle lang="bw" line="I live in the forest."/><subtitle lang="fj" line="I live in the forest."/><subtitle lang="gm" line="I live in the forest."/><subtitle lang="gh" line="I live in the forest."/><subtitle lang="gy" line="I live in the forest."/><subtitle lang="ke" line="I live in the forest."/><subtitle lang="mt" line="I live in the forest."/><subtitle lang="mu" line="I live in the forest."/><subtitle lang="na" line="I live in the forest."/><subtitle lang="ng" line="I live in the forest."/><subtitle lang="pk" line="I live in the forest."/><subtitle lang="rw" line="I live in the forest."/><subtitle lang="ws" line="I live in the forest."/><subtitle lang="sl" line="I live in the forest."/><subtitle lang="sg" line="I live in the forest."/><subtitle lang="sb" line="I live in the forest."/><subtitle lang="za" line="I live in the forest."/><subtitle lang="tz" line="I live in the forest."/><subtitle lang="to" line="I live in the forest."/><subtitle lang="ug" line="I live in the forest."/><subtitle lang="vu" line="I live in the forest."/><subtitle lang="zm" line="I live in the forest."/><subtitle lang="zw" line="I live in the forest."/><subtitle lang="sco" line="I live in the forest."/>
+				<subtitle lang="cl" line="Vivo en el bosque"/><subtitle lang="es" line="Vivo en el bosque"/><subtitle lang="co" line="Vivo en el bosque"/><subtitle lang="gt" line="Vivo en el bosque"/><subtitle lang="pe" line="Vivo en el bosque"/><subtitle lang="ni" line="Vivo en el bosque"/><subtitle lang="do" line="Vivo en el bosque"/><subtitle lang="bo" line="Vivo en el bosque"/><subtitle lang="ve" line="Vivo en el bosque"/><subtitle lang="ar" line="Vivo en el bosque"/><subtitle lang="cu" line="Vivo en el bosque"/><subtitle lang="pr" line="Vivo en el bosque"/><subtitle lang="py" line="Vivo en el bosque"/><subtitle lang="ec" line="Vivo en el bosque"/><subtitle lang="hn" line="Vivo en el bosque"/><subtitle lang="sv" line="Vivo en el bosque"/><subtitle lang="cr" line="Vivo en el bosque"/><subtitle lang="pa" line="Vivo en el bosque"/><subtitle lang="mx" line="Vivo en el bosque"/>
+				<subtitle lang="ae" line="I live in the forest."/>
+				<subtitle lang="ine" line="I live in the forest."/>
+			</subtitles>
+		</line>
+		<line words="Wo lebst du?" start="15588" length="4000">
+			<highlight index="0" start="254" length="1211"/>
+			<highlight index="1" start="1431" length="684"/>
+			<highlight index="2" start="2098" length="792"/>
+			<subtitles>
+				<subtitle lang="en" line="Where do you live?"/>
+				<subtitle lang="sp" line="¿Dónde vives?"/>
+				<subtitle lang="fr" line="Où habites- tu?"/>
+				<subtitle lang="dk" line="Hvor bor du?"/>
+				<subtitle lang="nl" line="Hee waar woon jij?"/>
+				<subtitle lang="nz" line="Where do you live?"/>
+				<subtitle lang="us" line="Where do you live?"/><subtitle lang="au" line="Where do you live?"/><subtitle lang="bz" line="Where do you live?"/><subtitle lang="jm" line="Where do you live?"/><subtitle lang="tt" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ag" line="Where do you live?"/><subtitle lang="dm" line="Where do you live?"/><subtitle lang="vc" line="Where do you live?"/><subtitle lang="bs" line="Where do you live?"/><subtitle lang="ca" line="Where do you live?"/><subtitle lang="bd" line="Where do you live?"/><subtitle lang="bw" line="Where do you live?"/><subtitle lang="fj" line="Where do you live?"/><subtitle lang="gm" line="Where do you live?"/><subtitle lang="gh" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ke" line="Where do you live?"/><subtitle lang="mt" line="Where do you live?"/><subtitle lang="mu" line="Where do you live?"/><subtitle lang="na" line="Where do you live?"/><subtitle lang="ng" line="Where do you live?"/><subtitle lang="pk" line="Where do you live?"/><subtitle lang="rw" line="Where do you live?"/><subtitle lang="ws" line="Where do you live?"/><subtitle lang="sl" line="Where do you live?"/><subtitle lang="sg" line="Where do you live?"/><subtitle lang="sb" line="Where do you live?"/><subtitle lang="za" line="Where do you live?"/><subtitle lang="tz" line="Where do you live?"/><subtitle lang="to" line="Where do you live?"/><subtitle lang="ug" line="Where do you live?"/><subtitle lang="vu" line="Where do you live?"/><subtitle lang="zm" line="Where do you live?"/><subtitle lang="zw" line="Where do you live?"/><subtitle lang="sco" line="Where do you live?"/>
+				<subtitle lang="cl" line="¿Dónde vives?"/><subtitle lang="es" line="¿Dónde vives?"/><subtitle lang="co" line="¿Dónde vives?"/><subtitle lang="gt" line="¿Dónde vives?"/><subtitle lang="pe" line="¿Dónde vives?"/><subtitle lang="ni" line="¿Dónde vives?"/><subtitle lang="do" line="¿Dónde vives?"/><subtitle lang="bo" line="¿Dónde vives?"/><subtitle lang="ve" line="¿Dónde vives?"/><subtitle lang="ar" line="¿Dónde vives?"/><subtitle lang="cu" line="¿Dónde vives?"/><subtitle lang="pr" line="¿Dónde vives?"/><subtitle lang="py" line="¿Dónde vives?"/><subtitle lang="ec" line="¿Dónde vives?"/><subtitle lang="hn" line="¿Dónde vives?"/><subtitle lang="sv" line="¿Dónde vives?"/><subtitle lang="cr" line="¿Dónde vives?"/><subtitle lang="pa" line="¿Dónde vives?"/><subtitle lang="mx" line="¿Dónde vives?"/>
+				<subtitle lang="ae" line="Where do you live?"/>
+				<subtitle lang="ine" line="Where do you live?"/>
+			</subtitles>
+		</line>
+		<line words="Ich lebe im Fluss." start="19218" length="4000">
+			<highlight index="0" start="678" length="487"/>
+			<highlight index="1" start="1142" length="588"/>
+			<highlight index="2" start="1708" length="622"/>
+			<highlight index="3" start="2313" length="753"/>
+			<subtitles>
+				<subtitle lang="en" line="I live in the river."/>
+				<subtitle lang="sp" line="Vivo en el río"/>
+				<subtitle lang="fr" line="J'habite dans la rivière."/>
+				<subtitle lang="dk" line="Jeg bor i floden."/>
+				<subtitle lang="nl" line="Ik woon in de rivier."/>
+				<subtitle lang="nz" line="I live in the river."/>
+				<subtitle lang="us" line="I live in the river."/><subtitle lang="au" line="I live in the river."/><subtitle lang="bz" line="I live in the river."/><subtitle lang="jm" line="I live in the river."/><subtitle lang="tt" line="I live in the river."/><subtitle lang="gy" line="I live in the river."/><subtitle lang="ag" line="I live in the river."/><subtitle lang="dm" line="I live in the river."/><subtitle lang="vc" line="I live in the river."/><subtitle lang="bs" line="I live in the river."/><subtitle lang="ca" line="I live in the river."/><subtitle lang="bd" line="I live in the river."/><subtitle lang="bw" line="I live in the river."/><subtitle lang="fj" line="I live in the river."/><subtitle lang="gm" line="I live in the river."/><subtitle lang="gh" line="I live in the river."/><subtitle lang="gy" line="I live in the river."/><subtitle lang="ke" line="I live in the river."/><subtitle lang="mt" line="I live in the river."/><subtitle lang="mu" line="I live in the river."/><subtitle lang="na" line="I live in the river."/><subtitle lang="ng" line="I live in the river."/><subtitle lang="pk" line="I live in the river."/><subtitle lang="rw" line="I live in the river."/><subtitle lang="ws" line="I live in the river."/><subtitle lang="sl" line="I live in the river."/><subtitle lang="sg" line="I live in the river."/><subtitle lang="sb" line="I live in the river."/><subtitle lang="za" line="I live in the river."/><subtitle lang="tz" line="I live in the river."/><subtitle lang="to" line="I live in the river."/><subtitle lang="ug" line="I live in the river."/><subtitle lang="vu" line="I live in the river."/><subtitle lang="zm" line="I live in the river."/><subtitle lang="zw" line="I live in the river."/><subtitle lang="sco" line="I live in the river."/>
+				<subtitle lang="cl" line="Vivo en el río"/><subtitle lang="es" line="Vivo en el río"/><subtitle lang="co" line="Vivo en el río"/><subtitle lang="gt" line="Vivo en el río"/><subtitle lang="pe" line="Vivo en el río"/><subtitle lang="ni" line="Vivo en el río"/><subtitle lang="do" line="Vivo en el río"/><subtitle lang="bo" line="Vivo en el río"/><subtitle lang="ve" line="Vivo en el río"/><subtitle lang="ar" line="Vivo en el río"/><subtitle lang="cu" line="Vivo en el río"/><subtitle lang="pr" line="Vivo en el río"/><subtitle lang="py" line="Vivo en el río"/><subtitle lang="ec" line="Vivo en el río"/><subtitle lang="hn" line="Vivo en el río"/><subtitle lang="sv" line="Vivo en el río"/><subtitle lang="cr" line="Vivo en el río"/><subtitle lang="pa" line="Vivo en el río"/><subtitle lang="mx" line="Vivo en el río"/>
+				<subtitle lang="ae" line="I live in the river."/>
+				<subtitle lang="ine" line="I live in the river."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Löwe, der blaue Löwe." start="23477" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2417" length="372"/>
+			<highlight index="5" start="2751" length="422"/>
+			<highlight index="6" start="3136" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the lion, the blue lion."/>
+				<subtitle lang="fr" line="Voila le lion, le lion bleu."/>
+				<subtitle lang="nz" line="Here's the lion, the blue lion."/>
+				<subtitle lang="sp" line="Aquí está el león, el león azul"/>
+				<subtitle lang="dk" line="Her er løven, den blå løve."/>
+				<subtitle lang="nl" line="Daar is de leeuw, de blauwe leeuw."/>
+				<subtitle lang="us" line="Here's the lion, the blue lion."/><subtitle lang="au" line="Here's the lion, the blue lion."/><subtitle lang="bz" line="Here's the lion, the blue lion."/><subtitle lang="jm" line="Here's the lion, the blue lion."/><subtitle lang="tt" line="Here's the lion, the blue lion."/><subtitle lang="gy" line="Here's the lion, the blue lion."/><subtitle lang="ag" line="Here's the lion, the blue lion."/><subtitle lang="dm" line="Here's the lion, the blue lion."/><subtitle lang="vc" line="Here's the lion, the blue lion."/><subtitle lang="bs" line="Here's the lion, the blue lion."/><subtitle lang="ca" line="Here's the lion, the blue lion."/><subtitle lang="bd" line="Here's the lion, the blue lion."/><subtitle lang="bw" line="Here's the lion, the blue lion."/><subtitle lang="fj" line="Here's the lion, the blue lion."/><subtitle lang="gm" line="Here's the lion, the blue lion."/><subtitle lang="gh" line="Here's the lion, the blue lion."/><subtitle lang="gy" line="Here's the lion, the blue lion."/><subtitle lang="ke" line="Here's the lion, the blue lion."/><subtitle lang="mt" line="Here's the lion, the blue lion."/><subtitle lang="mu" line="Here's the lion, the blue lion."/><subtitle lang="na" line="Here's the lion, the blue lion."/><subtitle lang="ng" line="Here's the lion, the blue lion."/><subtitle lang="pk" line="Here's the lion, the blue lion."/><subtitle lang="rw" line="Here's the lion, the blue lion."/><subtitle lang="ws" line="Here's the lion, the blue lion."/><subtitle lang="sl" line="Here's the lion, the blue lion."/><subtitle lang="sg" line="Here's the lion, the blue lion."/><subtitle lang="sb" line="Here's the lion, the blue lion."/><subtitle lang="za" line="Here's the lion, the blue lion."/><subtitle lang="tz" line="Here's the lion, the blue lion."/><subtitle lang="to" line="Here's the lion, the blue lion."/><subtitle lang="ug" line="Here's the lion, the blue lion."/><subtitle lang="vu" line="Here's the lion, the blue lion."/><subtitle lang="zm" line="Here's the lion, the blue lion."/><subtitle lang="zw" line="Here's the lion, the blue lion."/><subtitle lang="sco" line="Here's the lion, the blue lion."/>
+				<subtitle lang="cl" line="Aquí está el león, el león azul"/><subtitle lang="es" line="Aquí está el león, el león azul"/><subtitle lang="co" line="Aquí está el león, el león azul"/><subtitle lang="gt" line="Aquí está el león, el león azul"/><subtitle lang="pe" line="Aquí está el león, el león azul"/><subtitle lang="ni" line="Aquí está el león, el león azul"/><subtitle lang="do" line="Aquí está el león, el león azul"/><subtitle lang="bo" line="Aquí está el león, el león azul"/><subtitle lang="ve" line="Aquí está el león, el león azul"/><subtitle lang="ar" line="Aquí está el león, el león azul"/><subtitle lang="cu" line="Aquí está el león, el león azul"/><subtitle lang="pr" line="Aquí está el león, el león azul"/><subtitle lang="py" line="Aquí está el león, el león azul"/><subtitle lang="ec" line="Aquí está el león, el león azul"/><subtitle lang="hn" line="Aquí está el león, el león azul"/><subtitle lang="sv" line="Aquí está el león, el león azul"/><subtitle lang="cr" line="Aquí está el león, el león azul"/><subtitle lang="pa" line="Aquí está el león, el león azul"/><subtitle lang="mx" line="Aquí está el león, el león azul"/>
+				<subtitle lang="ae" line="Here's the lion, the blue lion."/>
+				<subtitle lang="ine" line="Here's the lion, the blue lion."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Löwe, der blaue Löwe." start="27551" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2417" length="372"/>
+			<highlight index="5" start="2751" length="422"/>
+			<highlight index="6" start="3136" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the lion, the blue lion."/>
+				<subtitle lang="sp" line="Aquí está el león, el león azul"/>
+				<subtitle lang="fr" line="Voila le lion, le lion bleu."/>
+				<subtitle lang="dk" line="Her er løven, den blå løve."/>
+				<subtitle lang="nl" line="Daar is de leeuw, de blauwe leeuw."/>
+				<subtitle lang="nz" line="Here's the lion, the blue lion."/>
+				<subtitle lang="us" line="Here's the lion, the blue lion."/><subtitle lang="au" line="Here's the lion, the blue lion."/><subtitle lang="bz" line="Here's the lion, the blue lion."/><subtitle lang="jm" line="Here's the lion, the blue lion."/><subtitle lang="tt" line="Here's the lion, the blue lion."/><subtitle lang="gy" line="Here's the lion, the blue lion."/><subtitle lang="ag" line="Here's the lion, the blue lion."/><subtitle lang="dm" line="Here's the lion, the blue lion."/><subtitle lang="vc" line="Here's the lion, the blue lion."/><subtitle lang="bs" line="Here's the lion, the blue lion."/><subtitle lang="ca" line="Here's the lion, the blue lion."/><subtitle lang="bd" line="Here's the lion, the blue lion."/><subtitle lang="bw" line="Here's the lion, the blue lion."/><subtitle lang="fj" line="Here's the lion, the blue lion."/><subtitle lang="gm" line="Here's the lion, the blue lion."/><subtitle lang="gh" line="Here's the lion, the blue lion."/><subtitle lang="gy" line="Here's the lion, the blue lion."/><subtitle lang="ke" line="Here's the lion, the blue lion."/><subtitle lang="mt" line="Here's the lion, the blue lion."/><subtitle lang="mu" line="Here's the lion, the blue lion."/><subtitle lang="na" line="Here's the lion, the blue lion."/><subtitle lang="ng" line="Here's the lion, the blue lion."/><subtitle lang="pk" line="Here's the lion, the blue lion."/><subtitle lang="rw" line="Here's the lion, the blue lion."/><subtitle lang="ws" line="Here's the lion, the blue lion."/><subtitle lang="sl" line="Here's the lion, the blue lion."/><subtitle lang="sg" line="Here's the lion, the blue lion."/><subtitle lang="sb" line="Here's the lion, the blue lion."/><subtitle lang="za" line="Here's the lion, the blue lion."/><subtitle lang="tz" line="Here's the lion, the blue lion."/><subtitle lang="to" line="Here's the lion, the blue lion."/><subtitle lang="ug" line="Here's the lion, the blue lion."/><subtitle lang="vu" line="Here's the lion, the blue lion."/><subtitle lang="zm" line="Here's the lion, the blue lion."/><subtitle lang="zw" line="Here's the lion, the blue lion."/><subtitle lang="sco" line="Here's the lion, the blue lion."/>
+				<subtitle lang="cl" line="Aquí está el león, el león azul"/><subtitle lang="es" line="Aquí está el león, el león azul"/><subtitle lang="co" line="Aquí está el león, el león azul"/><subtitle lang="gt" line="Aquí está el león, el león azul"/><subtitle lang="pe" line="Aquí está el león, el león azul"/><subtitle lang="ni" line="Aquí está el león, el león azul"/><subtitle lang="do" line="Aquí está el león, el león azul"/><subtitle lang="bo" line="Aquí está el león, el león azul"/><subtitle lang="ve" line="Aquí está el león, el león azul"/><subtitle lang="ar" line="Aquí está el león, el león azul"/><subtitle lang="cu" line="Aquí está el león, el león azul"/><subtitle lang="pr" line="Aquí está el león, el león azul"/><subtitle lang="py" line="Aquí está el león, el león azul"/><subtitle lang="ec" line="Aquí está el león, el león azul"/><subtitle lang="hn" line="Aquí está el león, el león azul"/><subtitle lang="sv" line="Aquí está el león, el león azul"/><subtitle lang="cr" line="Aquí está el león, el león azul"/><subtitle lang="pa" line="Aquí está el león, el león azul"/><subtitle lang="mx" line="Aquí está el león, el león azul"/>
+				<subtitle lang="ae" line="Here's the lion, the blue lion."/>
+				<subtitle lang="ine" line="Here's the lion, the blue lion."/>
+			</subtitles>
+		</line>
+		<line words="Er ist grausam." start="31820" length="4753">
+			<highlight index="0" start="235" length="885"/>
+			<highlight index="1" start="1097" length="611"/>
+			<highlight index="2" start="2087" length="2504"/>
+			<subtitles>
+				<subtitle lang="en" line="He is ferocious!"/>
+				<subtitle lang="sp" line="Es feroz"/>
+				<subtitle lang="fr" line="Il est très féroce!"/>
+				<subtitle lang="dk" line="Han er vild!"/>
+				<subtitle lang="nl" line="Hij is heel erg wild!"/>
+				<subtitle lang="nz" line="He is ferocious!"/>
+				<subtitle lang="us" line="He is ferocious!"/><subtitle lang="au" line="He is ferocious!"/><subtitle lang="bz" line="He is ferocious!"/><subtitle lang="jm" line="He is ferocious!"/><subtitle lang="tt" line="He is ferocious!"/><subtitle lang="gy" line="He is ferocious!"/><subtitle lang="ag" line="He is ferocious!"/><subtitle lang="dm" line="He is ferocious!"/><subtitle lang="vc" line="He is ferocious!"/><subtitle lang="bs" line="He is ferocious!"/><subtitle lang="ca" line="He is ferocious!"/><subtitle lang="bd" line="He is ferocious!"/><subtitle lang="bw" line="He is ferocious!"/><subtitle lang="fj" line="He is ferocious!"/><subtitle lang="gm" line="He is ferocious!"/><subtitle lang="gh" line="He is ferocious!"/><subtitle lang="gy" line="He is ferocious!"/><subtitle lang="ke" line="He is ferocious!"/><subtitle lang="mt" line="He is ferocious!"/><subtitle lang="mu" line="He is ferocious!"/><subtitle lang="na" line="He is ferocious!"/><subtitle lang="ng" line="He is ferocious!"/><subtitle lang="pk" line="He is ferocious!"/><subtitle lang="rw" line="He is ferocious!"/><subtitle lang="ws" line="He is ferocious!"/><subtitle lang="sl" line="He is ferocious!"/><subtitle lang="sg" line="He is ferocious!"/><subtitle lang="sb" line="He is ferocious!"/><subtitle lang="za" line="He is ferocious!"/><subtitle lang="tz" line="He is ferocious!"/><subtitle lang="to" line="He is ferocious!"/><subtitle lang="ug" line="He is ferocious!"/><subtitle lang="vu" line="He is ferocious!"/><subtitle lang="zm" line="He is ferocious!"/><subtitle lang="zw" line="He is ferocious!"/><subtitle lang="sco" line="He is ferocious!"/>
+				<subtitle lang="cl" line="Es feroz"/><subtitle lang="es" line="Es feroz"/><subtitle lang="co" line="Es feroz"/><subtitle lang="gt" line="Es feroz"/><subtitle lang="pe" line="Es feroz"/><subtitle lang="ni" line="Es feroz"/><subtitle lang="do" line="Es feroz"/><subtitle lang="bo" line="Es feroz"/><subtitle lang="ve" line="Es feroz"/><subtitle lang="ar" line="Es feroz"/><subtitle lang="cu" line="Es feroz"/><subtitle lang="pr" line="Es feroz"/><subtitle lang="py" line="Es feroz"/><subtitle lang="ec" line="Es feroz"/><subtitle lang="hn" line="Es feroz"/><subtitle lang="sv" line="Es feroz"/><subtitle lang="cr" line="Es feroz"/><subtitle lang="pa" line="Es feroz"/><subtitle lang="mx" line="Es feroz"/>
+				<subtitle lang="ae" line="He is ferocious!"/>
+				<subtitle lang="ine" line="He is ferocious!"/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Fisch, der grüne Fisch." start="39568" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2417" length="372"/>
+			<highlight index="5" start="2751" length="486"/>
+			<highlight index="6" start="3218" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the fish, the green fish."/>
+				<subtitle lang="sp" line="Aquí está el pez, el pez verde"/>
+				<subtitle lang="fr" line="Voila le poisson, le poisson vert."/>
+				<subtitle lang="dk" line="Her er fisken, den grønne fisk."/>
+				<subtitle lang="nl" line="Daar is de vis, de groene vis."/>
+				<subtitle lang="nz" line="Here's the fish, the green fish."/>
+				<subtitle lang="us" line="Here's the fish, the green fish."/><subtitle lang="au" line="Here's the fish, the green fish."/><subtitle lang="bz" line="Here's the fish, the green fish."/><subtitle lang="jm" line="Here's the fish, the green fish."/><subtitle lang="tt" line="Here's the fish, the green fish."/><subtitle lang="gy" line="Here's the fish, the green fish."/><subtitle lang="ag" line="Here's the fish, the green fish."/><subtitle lang="dm" line="Here's the fish, the green fish."/><subtitle lang="vc" line="Here's the fish, the green fish."/><subtitle lang="bs" line="Here's the fish, the green fish."/><subtitle lang="ca" line="Here's the fish, the green fish."/><subtitle lang="bd" line="Here's the fish, the green fish."/><subtitle lang="bw" line="Here's the fish, the green fish."/><subtitle lang="fj" line="Here's the fish, the green fish."/><subtitle lang="gm" line="Here's the fish, the green fish."/><subtitle lang="gh" line="Here's the fish, the green fish."/><subtitle lang="gy" line="Here's the fish, the green fish."/><subtitle lang="ke" line="Here's the fish, the green fish."/><subtitle lang="mt" line="Here's the fish, the green fish."/><subtitle lang="mu" line="Here's the fish, the green fish."/><subtitle lang="na" line="Here's the fish, the green fish."/><subtitle lang="ng" line="Here's the fish, the green fish."/><subtitle lang="pk" line="Here's the fish, the green fish."/><subtitle lang="rw" line="Here's the fish, the green fish."/><subtitle lang="ws" line="Here's the fish, the green fish."/><subtitle lang="sl" line="Here's the fish, the green fish."/><subtitle lang="sg" line="Here's the fish, the green fish."/><subtitle lang="sb" line="Here's the fish, the green fish."/><subtitle lang="za" line="Here's the fish, the green fish."/><subtitle lang="tz" line="Here's the fish, the green fish."/><subtitle lang="to" line="Here's the fish, the green fish."/><subtitle lang="ug" line="Here's the fish, the green fish."/><subtitle lang="vu" line="Here's the fish, the green fish."/><subtitle lang="zm" line="Here's the fish, the green fish."/><subtitle lang="zw" line="Here's the fish, the green fish."/><subtitle lang="sco" line="Here's the fish, the green fish."/>
+				<subtitle lang="cl" line="Aquí está el pez, el pez verde"/><subtitle lang="es" line="Aquí está el pez, el pez verde"/><subtitle lang="co" line="Aquí está el pez, el pez verde"/><subtitle lang="gt" line="Aquí está el pez, el pez verde"/><subtitle lang="pe" line="Aquí está el pez, el pez verde"/><subtitle lang="ni" line="Aquí está el pez, el pez verde"/><subtitle lang="do" line="Aquí está el pez, el pez verde"/><subtitle lang="bo" line="Aquí está el pez, el pez verde"/><subtitle lang="ve" line="Aquí está el pez, el pez verde"/><subtitle lang="ar" line="Aquí está el pez, el pez verde"/><subtitle lang="cu" line="Aquí está el pez, el pez verde"/><subtitle lang="pr" line="Aquí está el pez, el pez verde"/><subtitle lang="py" line="Aquí está el pez, el pez verde"/><subtitle lang="ec" line="Aquí está el pez, el pez verde"/><subtitle lang="hn" line="Aquí está el pez, el pez verde"/><subtitle lang="sv" line="Aquí está el pez, el pez verde"/><subtitle lang="cr" line="Aquí está el pez, el pez verde"/><subtitle lang="pa" line="Aquí está el pez, el pez verde"/><subtitle lang="mx" line="Aquí está el pez, el pez verde"/>
+				<subtitle lang="ae" line="Here's the fish, the green fish."/>
+				<subtitle lang="ine" line="Here's the fish, the green fish."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Fisch, der grüne Fisch." start="43440" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2417" length="372"/>
+			<highlight index="5" start="2751" length="486"/>
+			<highlight index="6" start="3218" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the fish, the green fish."/>
+				<subtitle lang="sp" line="Aquí está el pez, el pez verde"/>
+				<subtitle lang="fr" line="Voila le poisson, le poisson vert."/>
+				<subtitle lang="dk" line="Her er fisken, den grønne fisk."/>
+				<subtitle lang="nl" line="Daar is de vis, de groene vis."/>
+				<subtitle lang="nz" line="Here's the fish, the green fish."/>
+				<subtitle lang="us" line="Here's the fish, the green fish."/><subtitle lang="au" line="Here's the fish, the green fish."/><subtitle lang="bz" line="Here's the fish, the green fish."/><subtitle lang="jm" line="Here's the fish, the green fish."/><subtitle lang="tt" line="Here's the fish, the green fish."/><subtitle lang="gy" line="Here's the fish, the green fish."/><subtitle lang="ag" line="Here's the fish, the green fish."/><subtitle lang="dm" line="Here's the fish, the green fish."/><subtitle lang="vc" line="Here's the fish, the green fish."/><subtitle lang="bs" line="Here's the fish, the green fish."/><subtitle lang="ca" line="Here's the fish, the green fish."/><subtitle lang="bd" line="Here's the fish, the green fish."/><subtitle lang="bw" line="Here's the fish, the green fish."/><subtitle lang="fj" line="Here's the fish, the green fish."/><subtitle lang="gm" line="Here's the fish, the green fish."/><subtitle lang="gh" line="Here's the fish, the green fish."/><subtitle lang="gy" line="Here's the fish, the green fish."/><subtitle lang="ke" line="Here's the fish, the green fish."/><subtitle lang="mt" line="Here's the fish, the green fish."/><subtitle lang="mu" line="Here's the fish, the green fish."/><subtitle lang="na" line="Here's the fish, the green fish."/><subtitle lang="ng" line="Here's the fish, the green fish."/><subtitle lang="pk" line="Here's the fish, the green fish."/><subtitle lang="rw" line="Here's the fish, the green fish."/><subtitle lang="ws" line="Here's the fish, the green fish."/><subtitle lang="sl" line="Here's the fish, the green fish."/><subtitle lang="sg" line="Here's the fish, the green fish."/><subtitle lang="sb" line="Here's the fish, the green fish."/><subtitle lang="za" line="Here's the fish, the green fish."/><subtitle lang="tz" line="Here's the fish, the green fish."/><subtitle lang="to" line="Here's the fish, the green fish."/><subtitle lang="ug" line="Here's the fish, the green fish."/><subtitle lang="vu" line="Here's the fish, the green fish."/><subtitle lang="zm" line="Here's the fish, the green fish."/><subtitle lang="zw" line="Here's the fish, the green fish."/><subtitle lang="sco" line="Here's the fish, the green fish."/>
+				<subtitle lang="cl" line="Aquí está el pez, el pez verde"/><subtitle lang="es" line="Aquí está el pez, el pez verde"/><subtitle lang="co" line="Aquí está el pez, el pez verde"/><subtitle lang="gt" line="Aquí está el pez, el pez verde"/><subtitle lang="pe" line="Aquí está el pez, el pez verde"/><subtitle lang="ni" line="Aquí está el pez, el pez verde"/><subtitle lang="do" line="Aquí está el pez, el pez verde"/><subtitle lang="bo" line="Aquí está el pez, el pez verde"/><subtitle lang="ve" line="Aquí está el pez, el pez verde"/><subtitle lang="ar" line="Aquí está el pez, el pez verde"/><subtitle lang="cu" line="Aquí está el pez, el pez verde"/><subtitle lang="pr" line="Aquí está el pez, el pez verde"/><subtitle lang="py" line="Aquí está el pez, el pez verde"/><subtitle lang="ec" line="Aquí está el pez, el pez verde"/><subtitle lang="hn" line="Aquí está el pez, el pez verde"/><subtitle lang="sv" line="Aquí está el pez, el pez verde"/><subtitle lang="cr" line="Aquí está el pez, el pez verde"/><subtitle lang="pa" line="Aquí está el pez, el pez verde"/><subtitle lang="mx" line="Aquí está el pez, el pez verde"/>
+				<subtitle lang="ae" line="Here's the fish, the green fish."/>
+				<subtitle lang="ine" line="Here's the fish, the green fish."/>
+			</subtitles>
+		</line>
+		<line words="Er ist sehr sehr platt." start="47730" length="5627">
+			<highlight index="0" start="358" length="762"/>
+			<highlight index="1" start="1097" length="1011"/>
+			<highlight index="2" start="2087" length="1040"/>
+			<highlight index="3" start="3087" length="963"/>
+			<highlight index="4" start="4019" length="1209"/>
+			<subtitles>
+				<subtitle lang="en" line="She is very flat!"/>
+				<subtitle lang="sp" line="Es muy plano "/>
+				<subtitle lang="fr" line="Il est très très plat!"/>
+				<subtitle lang="dk" line="Hun er meget flad!"/>
+				<subtitle lang="nl" line="Zij is heel erg plat!"/>
+				<subtitle lang="nz" line="She is very flat!"/>
+				<subtitle lang="us" line="She is very flat!"/><subtitle lang="au" line="She is very flat!"/><subtitle lang="bz" line="She is very flat!"/><subtitle lang="jm" line="She is very flat!"/><subtitle lang="tt" line="She is very flat!"/><subtitle lang="gy" line="She is very flat!"/><subtitle lang="ag" line="She is very flat!"/><subtitle lang="dm" line="She is very flat!"/><subtitle lang="vc" line="She is very flat!"/><subtitle lang="bs" line="She is very flat!"/><subtitle lang="ca" line="She is very flat!"/><subtitle lang="bd" line="She is very flat!"/><subtitle lang="bw" line="She is very flat!"/><subtitle lang="fj" line="She is very flat!"/><subtitle lang="gm" line="She is very flat!"/><subtitle lang="gh" line="She is very flat!"/><subtitle lang="gy" line="She is very flat!"/><subtitle lang="ke" line="She is very flat!"/><subtitle lang="mt" line="She is very flat!"/><subtitle lang="mu" line="She is very flat!"/><subtitle lang="na" line="She is very flat!"/><subtitle lang="ng" line="She is very flat!"/><subtitle lang="pk" line="She is very flat!"/><subtitle lang="rw" line="She is very flat!"/><subtitle lang="ws" line="She is very flat!"/><subtitle lang="sl" line="She is very flat!"/><subtitle lang="sg" line="She is very flat!"/><subtitle lang="sb" line="She is very flat!"/><subtitle lang="za" line="She is very flat!"/><subtitle lang="tz" line="She is very flat!"/><subtitle lang="to" line="She is very flat!"/><subtitle lang="ug" line="She is very flat!"/><subtitle lang="vu" line="She is very flat!"/><subtitle lang="zm" line="She is very flat!"/><subtitle lang="zw" line="She is very flat!"/><subtitle lang="sco" line="She is very flat!"/>
+				<subtitle lang="cl" line="Es muy plano "/><subtitle lang="es" line="Es muy plano "/><subtitle lang="co" line="Es muy plano "/><subtitle lang="gt" line="Es muy plano "/><subtitle lang="pe" line="Es muy plano "/><subtitle lang="ni" line="Es muy plano "/><subtitle lang="do" line="Es muy plano "/><subtitle lang="bo" line="Es muy plano "/><subtitle lang="ve" line="Es muy plano "/><subtitle lang="ar" line="Es muy plano "/><subtitle lang="cu" line="Es muy plano "/><subtitle lang="pr" line="Es muy plano "/><subtitle lang="py" line="Es muy plano "/><subtitle lang="ec" line="Es muy plano "/><subtitle lang="hn" line="Es muy plano "/><subtitle lang="sv" line="Es muy plano "/><subtitle lang="cr" line="Es muy plano "/><subtitle lang="pa" line="Es muy plano "/><subtitle lang="mx" line="Es muy plano "/>
+				<subtitle lang="ae" line="She is very flat!"/>
+				<subtitle lang="ine" line="She is very flat!"/>
+			</subtitles>
+		</line>
+		<line words="Wo lebst du?" start="59759" length="4000">
+			<highlight index="0" start="254" length="1211"/>
+			<highlight index="1" start="1431" length="684"/>
+			<highlight index="2" start="2098" length="792"/>
+			<subtitles>
+				<subtitle lang="en" line="Where do you live?"/>
+				<subtitle lang="fr" line="Où habites- tu?"/>
+				<subtitle lang="nz" line="Where do you live?"/>
+				<subtitle lang="sp" line="¿Dónde vives?"/>
+				<subtitle lang="dk" line="Hvor bor du?"/>
+				<subtitle lang="nl" line="Hee waar woon jij?"/>
+				<subtitle lang="us" line="Where do you live?"/><subtitle lang="au" line="Where do you live?"/><subtitle lang="bz" line="Where do you live?"/><subtitle lang="jm" line="Where do you live?"/><subtitle lang="tt" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ag" line="Where do you live?"/><subtitle lang="dm" line="Where do you live?"/><subtitle lang="vc" line="Where do you live?"/><subtitle lang="bs" line="Where do you live?"/><subtitle lang="ca" line="Where do you live?"/><subtitle lang="bd" line="Where do you live?"/><subtitle lang="bw" line="Where do you live?"/><subtitle lang="fj" line="Where do you live?"/><subtitle lang="gm" line="Where do you live?"/><subtitle lang="gh" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ke" line="Where do you live?"/><subtitle lang="mt" line="Where do you live?"/><subtitle lang="mu" line="Where do you live?"/><subtitle lang="na" line="Where do you live?"/><subtitle lang="ng" line="Where do you live?"/><subtitle lang="pk" line="Where do you live?"/><subtitle lang="rw" line="Where do you live?"/><subtitle lang="ws" line="Where do you live?"/><subtitle lang="sl" line="Where do you live?"/><subtitle lang="sg" line="Where do you live?"/><subtitle lang="sb" line="Where do you live?"/><subtitle lang="za" line="Where do you live?"/><subtitle lang="tz" line="Where do you live?"/><subtitle lang="to" line="Where do you live?"/><subtitle lang="ug" line="Where do you live?"/><subtitle lang="vu" line="Where do you live?"/><subtitle lang="zm" line="Where do you live?"/><subtitle lang="zw" line="Where do you live?"/><subtitle lang="sco" line="Where do you live?"/>
+				<subtitle lang="cl" line="¿Dónde vives?"/><subtitle lang="es" line="¿Dónde vives?"/><subtitle lang="co" line="¿Dónde vives?"/><subtitle lang="gt" line="¿Dónde vives?"/><subtitle lang="pe" line="¿Dónde vives?"/><subtitle lang="ni" line="¿Dónde vives?"/><subtitle lang="do" line="¿Dónde vives?"/><subtitle lang="bo" line="¿Dónde vives?"/><subtitle lang="ve" line="¿Dónde vives?"/><subtitle lang="ar" line="¿Dónde vives?"/><subtitle lang="cu" line="¿Dónde vives?"/><subtitle lang="pr" line="¿Dónde vives?"/><subtitle lang="py" line="¿Dónde vives?"/><subtitle lang="ec" line="¿Dónde vives?"/><subtitle lang="hn" line="¿Dónde vives?"/><subtitle lang="sv" line="¿Dónde vives?"/><subtitle lang="cr" line="¿Dónde vives?"/><subtitle lang="pa" line="¿Dónde vives?"/><subtitle lang="mx" line="¿Dónde vives?"/>
+				<subtitle lang="ae" line="Where do you live?"/>
+				<subtitle lang="ine" line="Where do you live?"/>
+			</subtitles>
+		</line>
+		<line words="Ich lebe im Nest." start="63543" length="4000">
+			<highlight index="0" start="678" length="487"/>
+			<highlight index="1" start="1142" length="588"/>
+			<highlight index="2" start="1708" length="622"/>
+			<highlight index="3" start="2313" length="753"/>
+			<subtitles>
+				<subtitle lang="en" line="I live in the nest."/>
+				<subtitle lang="sp" line="Vivo en el nido"/>
+				<subtitle lang="fr" line="J'habite dans la nid."/>
+				<subtitle lang="dk" line="Jeg bor i reden."/>
+				<subtitle lang="nl" line="Ik woon in een nest."/>
+				<subtitle lang="nz" line="I live in the nest."/>
+				<subtitle lang="us" line="I live in the nest."/><subtitle lang="au" line="I live in the nest."/><subtitle lang="bz" line="I live in the nest."/><subtitle lang="jm" line="I live in the nest."/><subtitle lang="tt" line="I live in the nest."/><subtitle lang="gy" line="I live in the nest."/><subtitle lang="ag" line="I live in the nest."/><subtitle lang="dm" line="I live in the nest."/><subtitle lang="vc" line="I live in the nest."/><subtitle lang="bs" line="I live in the nest."/><subtitle lang="ca" line="I live in the nest."/><subtitle lang="bd" line="I live in the nest."/><subtitle lang="bw" line="I live in the nest."/><subtitle lang="fj" line="I live in the nest."/><subtitle lang="gm" line="I live in the nest."/><subtitle lang="gh" line="I live in the nest."/><subtitle lang="gy" line="I live in the nest."/><subtitle lang="ke" line="I live in the nest."/><subtitle lang="mt" line="I live in the nest."/><subtitle lang="mu" line="I live in the nest."/><subtitle lang="na" line="I live in the nest."/><subtitle lang="ng" line="I live in the nest."/><subtitle lang="pk" line="I live in the nest."/><subtitle lang="rw" line="I live in the nest."/><subtitle lang="ws" line="I live in the nest."/><subtitle lang="sl" line="I live in the nest."/><subtitle lang="sg" line="I live in the nest."/><subtitle lang="sb" line="I live in the nest."/><subtitle lang="za" line="I live in the nest."/><subtitle lang="tz" line="I live in the nest."/><subtitle lang="to" line="I live in the nest."/><subtitle lang="ug" line="I live in the nest."/><subtitle lang="vu" line="I live in the nest."/><subtitle lang="zm" line="I live in the nest."/><subtitle lang="zw" line="I live in the nest."/><subtitle lang="sco" line="I live in the nest."/>
+				<subtitle lang="cl" line="Vivo en el nido"/><subtitle lang="es" line="Vivo en el nido"/><subtitle lang="co" line="Vivo en el nido"/><subtitle lang="gt" line="Vivo en el nido"/><subtitle lang="pe" line="Vivo en el nido"/><subtitle lang="ni" line="Vivo en el nido"/><subtitle lang="do" line="Vivo en el nido"/><subtitle lang="bo" line="Vivo en el nido"/><subtitle lang="ve" line="Vivo en el nido"/><subtitle lang="ar" line="Vivo en el nido"/><subtitle lang="cu" line="Vivo en el nido"/><subtitle lang="pr" line="Vivo en el nido"/><subtitle lang="py" line="Vivo en el nido"/><subtitle lang="ec" line="Vivo en el nido"/><subtitle lang="hn" line="Vivo en el nido"/><subtitle lang="sv" line="Vivo en el nido"/><subtitle lang="cr" line="Vivo en el nido"/><subtitle lang="pa" line="Vivo en el nido"/><subtitle lang="mx" line="Vivo en el nido"/>
+				<subtitle lang="ae" line="I live in the nest."/>
+				<subtitle lang="ine" line="I live in the nest."/>
+			</subtitles>
+		</line>
+		<line words="Wo lebst du?" start="67521" length="4000">
+			<highlight index="0" start="254" length="1211"/>
+			<highlight index="1" start="1431" length="684"/>
+			<highlight index="2" start="2098" length="792"/>
+			<subtitles>
+				<subtitle lang="en" line="Where do you live?"/>
+				<subtitle lang="sp" line="¿Dónde vives?"/>
+				<subtitle lang="fr" line="Où habites- tu?"/>
+				<subtitle lang="dk" line="Hvor bor du?"/>
+				<subtitle lang="nl" line="Hee waar woon jij?"/>
+				<subtitle lang="nz" line="Where do you live?"/>
+				<subtitle lang="us" line="Where do you live?"/><subtitle lang="au" line="Where do you live?"/><subtitle lang="bz" line="Where do you live?"/><subtitle lang="jm" line="Where do you live?"/><subtitle lang="tt" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ag" line="Where do you live?"/><subtitle lang="dm" line="Where do you live?"/><subtitle lang="vc" line="Where do you live?"/><subtitle lang="bs" line="Where do you live?"/><subtitle lang="ca" line="Where do you live?"/><subtitle lang="bd" line="Where do you live?"/><subtitle lang="bw" line="Where do you live?"/><subtitle lang="fj" line="Where do you live?"/><subtitle lang="gm" line="Where do you live?"/><subtitle lang="gh" line="Where do you live?"/><subtitle lang="gy" line="Where do you live?"/><subtitle lang="ke" line="Where do you live?"/><subtitle lang="mt" line="Where do you live?"/><subtitle lang="mu" line="Where do you live?"/><subtitle lang="na" line="Where do you live?"/><subtitle lang="ng" line="Where do you live?"/><subtitle lang="pk" line="Where do you live?"/><subtitle lang="rw" line="Where do you live?"/><subtitle lang="ws" line="Where do you live?"/><subtitle lang="sl" line="Where do you live?"/><subtitle lang="sg" line="Where do you live?"/><subtitle lang="sb" line="Where do you live?"/><subtitle lang="za" line="Where do you live?"/><subtitle lang="tz" line="Where do you live?"/><subtitle lang="to" line="Where do you live?"/><subtitle lang="ug" line="Where do you live?"/><subtitle lang="vu" line="Where do you live?"/><subtitle lang="zm" line="Where do you live?"/><subtitle lang="zw" line="Where do you live?"/><subtitle lang="sco" line="Where do you live?"/>
+				<subtitle lang="cl" line="¿Dónde vives?"/><subtitle lang="es" line="¿Dónde vives?"/><subtitle lang="co" line="¿Dónde vives?"/><subtitle lang="gt" line="¿Dónde vives?"/><subtitle lang="pe" line="¿Dónde vives?"/><subtitle lang="ni" line="¿Dónde vives?"/><subtitle lang="do" line="¿Dónde vives?"/><subtitle lang="bo" line="¿Dónde vives?"/><subtitle lang="ve" line="¿Dónde vives?"/><subtitle lang="ar" line="¿Dónde vives?"/><subtitle lang="cu" line="¿Dónde vives?"/><subtitle lang="pr" line="¿Dónde vives?"/><subtitle lang="py" line="¿Dónde vives?"/><subtitle lang="ec" line="¿Dónde vives?"/><subtitle lang="hn" line="¿Dónde vives?"/><subtitle lang="sv" line="¿Dónde vives?"/><subtitle lang="cr" line="¿Dónde vives?"/><subtitle lang="pa" line="¿Dónde vives?"/><subtitle lang="mx" line="¿Dónde vives?"/>
+				<subtitle lang="ae" line="Where do you live?"/>
+				<subtitle lang="ine" line="Where do you live?"/>
+			</subtitles>
+		</line>
+		<line words="Ich lebe in der Wüste." start="71110" length="4000">
+			<highlight index="0" start="520" length="339"/>
+			<highlight index="1" start="837" length="441"/>
+			<highlight index="2" start="1250" length="577"/>
+			<highlight index="3" start="1799" length="441"/>
+			<highlight index="4" start="2212" length="1227"/>
+			<subtitles>
+				<subtitle lang="en" line="I live in the desert."/>
+				<subtitle lang="sp" line="Vivo en el desierto"/>
+				<subtitle lang="fr" line="J'habite dans le desert."/>
+				<subtitle lang="dk" line="Jeg bor i ørkenen."/>
+				<subtitle lang="nl" line="Ik woon in de woestijn."/>
+				<subtitle lang="nz" line="I live in the desert."/>
+				<subtitle lang="us" line="I live in the desert."/><subtitle lang="au" line="I live in the desert."/><subtitle lang="bz" line="I live in the desert."/><subtitle lang="jm" line="I live in the desert."/><subtitle lang="tt" line="I live in the desert."/><subtitle lang="gy" line="I live in the desert."/><subtitle lang="ag" line="I live in the desert."/><subtitle lang="dm" line="I live in the desert."/><subtitle lang="vc" line="I live in the desert."/><subtitle lang="bs" line="I live in the desert."/><subtitle lang="ca" line="I live in the desert."/><subtitle lang="bd" line="I live in the desert."/><subtitle lang="bw" line="I live in the desert."/><subtitle lang="fj" line="I live in the desert."/><subtitle lang="gm" line="I live in the desert."/><subtitle lang="gh" line="I live in the desert."/><subtitle lang="gy" line="I live in the desert."/><subtitle lang="ke" line="I live in the desert."/><subtitle lang="mt" line="I live in the desert."/><subtitle lang="mu" line="I live in the desert."/><subtitle lang="na" line="I live in the desert."/><subtitle lang="ng" line="I live in the desert."/><subtitle lang="pk" line="I live in the desert."/><subtitle lang="rw" line="I live in the desert."/><subtitle lang="ws" line="I live in the desert."/><subtitle lang="sl" line="I live in the desert."/><subtitle lang="sg" line="I live in the desert."/><subtitle lang="sb" line="I live in the desert."/><subtitle lang="za" line="I live in the desert."/><subtitle lang="tz" line="I live in the desert."/><subtitle lang="to" line="I live in the desert."/><subtitle lang="ug" line="I live in the desert."/><subtitle lang="vu" line="I live in the desert."/><subtitle lang="zm" line="I live in the desert."/><subtitle lang="zw" line="I live in the desert."/><subtitle lang="sco" line="I live in the desert."/>
+				<subtitle lang="cl" line="Vivo en el desierto"/><subtitle lang="es" line="Vivo en el desierto"/><subtitle lang="co" line="Vivo en el desierto"/><subtitle lang="gt" line="Vivo en el desierto"/><subtitle lang="pe" line="Vivo en el desierto"/><subtitle lang="ni" line="Vivo en el desierto"/><subtitle lang="do" line="Vivo en el desierto"/><subtitle lang="bo" line="Vivo en el desierto"/><subtitle lang="ve" line="Vivo en el desierto"/><subtitle lang="ar" line="Vivo en el desierto"/><subtitle lang="cu" line="Vivo en el desierto"/><subtitle lang="pr" line="Vivo en el desierto"/><subtitle lang="py" line="Vivo en el desierto"/><subtitle lang="ec" line="Vivo en el desierto"/><subtitle lang="hn" line="Vivo en el desierto"/><subtitle lang="sv" line="Vivo en el desierto"/><subtitle lang="cr" line="Vivo en el desierto"/><subtitle lang="pa" line="Vivo en el desierto"/><subtitle lang="mx" line="Vivo en el desierto"/>
+				<subtitle lang="ae" line="I live in the desert."/>
+				<subtitle lang="ine" line="I live in the desert."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Vogel, der orangene Vogel." start="75573" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2095" length="359"/>
+			<highlight index="5" start="2423" length="814"/>
+			<highlight index="6" start="3218" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the bird, the orange bird."/>
+				<subtitle lang="sp" line="Aquí está el pájaro, el pájaro naranja"/>
+				<subtitle lang="fr" line="Voila l'oiseau, l'oiseau orange."/>
+				<subtitle lang="dk" line="Her er fuglen, den orange fugl."/>
+				<subtitle lang="nl" line="Daar is de vogel, de oranje vogel."/>
+				<subtitle lang="nz" line="Here's the bird, the orange bird."/>
+				<subtitle lang="us" line="Here's the bird, the orange bird."/><subtitle lang="au" line="Here's the bird, the orange bird."/><subtitle lang="bz" line="Here's the bird, the orange bird."/><subtitle lang="jm" line="Here's the bird, the orange bird."/><subtitle lang="tt" line="Here's the bird, the orange bird."/><subtitle lang="gy" line="Here's the bird, the orange bird."/><subtitle lang="ag" line="Here's the bird, the orange bird."/><subtitle lang="dm" line="Here's the bird, the orange bird."/><subtitle lang="vc" line="Here's the bird, the orange bird."/><subtitle lang="bs" line="Here's the bird, the orange bird."/><subtitle lang="ca" line="Here's the bird, the orange bird."/><subtitle lang="bd" line="Here's the bird, the orange bird."/><subtitle lang="bw" line="Here's the bird, the orange bird."/><subtitle lang="fj" line="Here's the bird, the orange bird."/><subtitle lang="gm" line="Here's the bird, the orange bird."/><subtitle lang="gh" line="Here's the bird, the orange bird."/><subtitle lang="gy" line="Here's the bird, the orange bird."/><subtitle lang="ke" line="Here's the bird, the orange bird."/><subtitle lang="mt" line="Here's the bird, the orange bird."/><subtitle lang="mu" line="Here's the bird, the orange bird."/><subtitle lang="na" line="Here's the bird, the orange bird."/><subtitle lang="ng" line="Here's the bird, the orange bird."/><subtitle lang="pk" line="Here's the bird, the orange bird."/><subtitle lang="rw" line="Here's the bird, the orange bird."/><subtitle lang="ws" line="Here's the bird, the orange bird."/><subtitle lang="sl" line="Here's the bird, the orange bird."/><subtitle lang="sg" line="Here's the bird, the orange bird."/><subtitle lang="sb" line="Here's the bird, the orange bird."/><subtitle lang="za" line="Here's the bird, the orange bird."/><subtitle lang="tz" line="Here's the bird, the orange bird."/><subtitle lang="to" line="Here's the bird, the orange bird."/><subtitle lang="ug" line="Here's the bird, the orange bird."/><subtitle lang="vu" line="Here's the bird, the orange bird."/><subtitle lang="zm" line="Here's the bird, the orange bird."/><subtitle lang="zw" line="Here's the bird, the orange bird."/><subtitle lang="sco" line="Here's the bird, the orange bird."/>
+				<subtitle lang="cl" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="es" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="co" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="gt" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pe" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ni" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="do" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="bo" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ve" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ar" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="cu" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pr" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="py" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ec" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="hn" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="sv" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="cr" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pa" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="mx" line="Aquí está el pájaro, el pájaro naranja"/>
+				<subtitle lang="ae" line="Here's the bird, the orange bird."/>
+				<subtitle lang="ine" line="Here's the bird, the orange bird."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist der Vogel, der orangene Vogel." start="79650" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="890"/>
+			<highlight index="4" start="2095" length="359"/>
+			<highlight index="5" start="2423" length="814"/>
+			<highlight index="6" start="3205" length="663"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the bird, the orange bird."/>
+				<subtitle lang="sp" line="Aquí está el pájaro, el pájaro naranja"/>
+				<subtitle lang="fr" line="Voila l'oiseau, l'oiseau orange."/>
+				<subtitle lang="dk" line="Her er fuglen, den orange fugl."/>
+				<subtitle lang="nl" line="Daar is de vogel, de oranje vogel."/>
+				<subtitle lang="nz" line="Here's the bird, the orange bird."/>
+				<subtitle lang="us" line="Here's the bird, the orange bird."/><subtitle lang="au" line="Here's the bird, the orange bird."/><subtitle lang="bz" line="Here's the bird, the orange bird."/><subtitle lang="jm" line="Here's the bird, the orange bird."/><subtitle lang="tt" line="Here's the bird, the orange bird."/><subtitle lang="gy" line="Here's the bird, the orange bird."/><subtitle lang="ag" line="Here's the bird, the orange bird."/><subtitle lang="dm" line="Here's the bird, the orange bird."/><subtitle lang="vc" line="Here's the bird, the orange bird."/><subtitle lang="bs" line="Here's the bird, the orange bird."/><subtitle lang="ca" line="Here's the bird, the orange bird."/><subtitle lang="bd" line="Here's the bird, the orange bird."/><subtitle lang="bw" line="Here's the bird, the orange bird."/><subtitle lang="fj" line="Here's the bird, the orange bird."/><subtitle lang="gm" line="Here's the bird, the orange bird."/><subtitle lang="gh" line="Here's the bird, the orange bird."/><subtitle lang="gy" line="Here's the bird, the orange bird."/><subtitle lang="ke" line="Here's the bird, the orange bird."/><subtitle lang="mt" line="Here's the bird, the orange bird."/><subtitle lang="mu" line="Here's the bird, the orange bird."/><subtitle lang="na" line="Here's the bird, the orange bird."/><subtitle lang="ng" line="Here's the bird, the orange bird."/><subtitle lang="pk" line="Here's the bird, the orange bird."/><subtitle lang="rw" line="Here's the bird, the orange bird."/><subtitle lang="ws" line="Here's the bird, the orange bird."/><subtitle lang="sl" line="Here's the bird, the orange bird."/><subtitle lang="sg" line="Here's the bird, the orange bird."/><subtitle lang="sb" line="Here's the bird, the orange bird."/><subtitle lang="za" line="Here's the bird, the orange bird."/><subtitle lang="tz" line="Here's the bird, the orange bird."/><subtitle lang="to" line="Here's the bird, the orange bird."/><subtitle lang="ug" line="Here's the bird, the orange bird."/><subtitle lang="vu" line="Here's the bird, the orange bird."/><subtitle lang="zm" line="Here's the bird, the orange bird."/><subtitle lang="zw" line="Here's the bird, the orange bird."/><subtitle lang="sco" line="Here's the bird, the orange bird."/>
+				<subtitle lang="cl" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="es" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="co" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="gt" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pe" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ni" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="do" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="bo" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ve" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ar" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="cu" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pr" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="py" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="ec" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="hn" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="sv" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="cr" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="pa" line="Aquí está el pájaro, el pájaro naranja"/><subtitle lang="mx" line="Aquí está el pájaro, el pájaro naranja"/>
+				<subtitle lang="ae" line="Here's the bird, the orange bird."/>
+				<subtitle lang="ine" line="Here's the bird, the orange bird."/>
+			</subtitles>
+		</line>
+		<line words="Er ist sehr sehr schnell." start="83920" length="5627">
+			<highlight index="0" start="358" length="762"/>
+			<highlight index="1" start="1097" length="1011"/>
+			<highlight index="2" start="2087" length="1040"/>
+			<highlight index="3" start="3087" length="963"/>
+			<highlight index="4" start="4019" length="1209"/>
+			<subtitles>
+				<subtitle lang="en" line="He is very quick!"/>
+				<subtitle lang="sp" line="Es muy rápido"/>
+				<subtitle lang="fr" line="Il est très rapide!"/>
+				<subtitle lang="dk" line="Han er meget hurtig!"/>
+				<subtitle lang="nl" line="Hij is supersnel!"/>
+				<subtitle lang="nz" line="He is very quick!"/>
+				<subtitle lang="us" line="He is very quick!"/><subtitle lang="au" line="He is very quick!"/><subtitle lang="bz" line="He is very quick!"/><subtitle lang="jm" line="He is very quick!"/><subtitle lang="tt" line="He is very quick!"/><subtitle lang="gy" line="He is very quick!"/><subtitle lang="ag" line="He is very quick!"/><subtitle lang="dm" line="He is very quick!"/><subtitle lang="vc" line="He is very quick!"/><subtitle lang="bs" line="He is very quick!"/><subtitle lang="ca" line="He is very quick!"/><subtitle lang="bd" line="He is very quick!"/><subtitle lang="bw" line="He is very quick!"/><subtitle lang="fj" line="He is very quick!"/><subtitle lang="gm" line="He is very quick!"/><subtitle lang="gh" line="He is very quick!"/><subtitle lang="gy" line="He is very quick!"/><subtitle lang="ke" line="He is very quick!"/><subtitle lang="mt" line="He is very quick!"/><subtitle lang="mu" line="He is very quick!"/><subtitle lang="na" line="He is very quick!"/><subtitle lang="ng" line="He is very quick!"/><subtitle lang="pk" line="He is very quick!"/><subtitle lang="rw" line="He is very quick!"/><subtitle lang="ws" line="He is very quick!"/><subtitle lang="sl" line="He is very quick!"/><subtitle lang="sg" line="He is very quick!"/><subtitle lang="sb" line="He is very quick!"/><subtitle lang="za" line="He is very quick!"/><subtitle lang="tz" line="He is very quick!"/><subtitle lang="to" line="He is very quick!"/><subtitle lang="ug" line="He is very quick!"/><subtitle lang="vu" line="He is very quick!"/><subtitle lang="zm" line="He is very quick!"/><subtitle lang="zw" line="He is very quick!"/><subtitle lang="sco" line="He is very quick!"/>
+				<subtitle lang="cl" line="Es muy rápido"/><subtitle lang="es" line="Es muy rápido"/><subtitle lang="co" line="Es muy rápido"/><subtitle lang="gt" line="Es muy rápido"/><subtitle lang="pe" line="Es muy rápido"/><subtitle lang="ni" line="Es muy rápido"/><subtitle lang="do" line="Es muy rápido"/><subtitle lang="bo" line="Es muy rápido"/><subtitle lang="ve" line="Es muy rápido"/><subtitle lang="ar" line="Es muy rápido"/><subtitle lang="cu" line="Es muy rápido"/><subtitle lang="pr" line="Es muy rápido"/><subtitle lang="py" line="Es muy rápido"/><subtitle lang="ec" line="Es muy rápido"/><subtitle lang="hn" line="Es muy rápido"/><subtitle lang="sv" line="Es muy rápido"/><subtitle lang="cr" line="Es muy rápido"/><subtitle lang="pa" line="Es muy rápido"/><subtitle lang="mx" line="Es muy rápido"/>
+				<subtitle lang="ae" line="He is very quick!"/>
+				<subtitle lang="ine" line="He is very quick!"/>
+			</subtitles>
+		</line>
+		<line words="Hier ist das Känguru, das rote Känguru." start="91287" length="4462">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="1149"/>
+			<highlight index="4" start="2347" length="372"/>
+			<highlight index="5" start="2688" length="486"/>
+			<highlight index="6" start="3142" length="1155"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="sp" line="Aquí está el canguro, el canguro rojo"/>
+				<subtitle lang="fr" line="Voila le kangourou, le kangourou rouge."/>
+				<subtitle lang="dk" line="Her er kænguruen, den røde kænguru."/>
+				<subtitle lang="nl" line="Daar is de kangoeroe, de rode kangoeroe."/>
+				<subtitle lang="nz" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="us" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="au" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bz" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="jm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="tt" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gy" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ag" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="dm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="vc" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bs" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ca" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bd" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="fj" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gh" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gy" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ke" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="mt" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="mu" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="na" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ng" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="pk" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="rw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ws" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sl" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sg" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sb" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="za" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="tz" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="to" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ug" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="vu" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="zm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="zw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sco" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="cl" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="es" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="co" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="gt" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pe" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ni" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="do" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="bo" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ve" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ar" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="cu" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pr" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="py" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ec" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="hn" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="sv" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="cr" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pa" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="mx" line="Aquí está el canguro, el canguro rojo"/>
+				<subtitle lang="ae" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="ine" line="Here's the kangaroo, the red kangaroo."/>
+			</subtitles>
+		</line>
+		<line words="Hier ist das Känguru, das rote Känguru." start="95363" length="4172">
+			<highlight index="0" start="454" length="423"/>
+			<highlight index="1" start="851" length="200"/>
+			<highlight index="2" start="1028" length="200"/>
+			<highlight index="3" start="1217" length="1149"/>
+			<highlight index="4" start="2347" length="372"/>
+			<highlight index="5" start="2688" length="486"/>
+			<highlight index="6" start="3142" length="821"/>
+			<subtitles>
+				<subtitle lang="en" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="sp" line="Aquí está el canguro, el canguro rojo"/>
+				<subtitle lang="fr" line="Voila le kangourou, le kangourou rouge."/>
+				<subtitle lang="dk" line="Her er kænguruen, den røde kænguru."/>
+				<subtitle lang="nl" line="Daar is de kangoeroe, de rode kangoeroe."/>
+				<subtitle lang="nz" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="us" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="au" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bz" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="jm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="tt" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gy" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ag" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="dm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="vc" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bs" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ca" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bd" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="bw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="fj" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gh" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="gy" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ke" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="mt" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="mu" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="na" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ng" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="pk" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="rw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ws" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sl" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sg" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sb" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="za" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="tz" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="to" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="ug" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="vu" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="zm" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="zw" line="Here's the kangaroo, the red kangaroo."/><subtitle lang="sco" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="cl" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="es" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="co" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="gt" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pe" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ni" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="do" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="bo" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ve" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ar" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="cu" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pr" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="py" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="ec" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="hn" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="sv" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="cr" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="pa" line="Aquí está el canguro, el canguro rojo"/><subtitle lang="mx" line="Aquí está el canguro, el canguro rojo"/>
+				<subtitle lang="ae" line="Here's the kangaroo, the red kangaroo."/>
+				<subtitle lang="ine" line="Here's the kangaroo, the red kangaroo."/>
+			</subtitles>
+		</line>
+		<line words="Es springt überall hin." start="99438" length="6500">
+			<highlight index="0" start="145" length="373"/>
+			<highlight index="1" start="481" length="1120"/>
+			<highlight index="2" start="1554" length="3135"/>
+			<highlight index="3" start="4652" length="1576"/>
+			<subtitles>
+				<subtitle lang="en" line="He jumps everywhere."/>
+				<subtitle lang="fr" line="Il saute partout."/>
+				<subtitle lang="nz" line="He jumps everywhere."/>
+				<subtitle lang="sp" line="Salta a cualquier sitio "/>
+				<subtitle lang="dk" line="Han hopper over det hele."/>
+				<subtitle lang="nl" line="Hij springt in het rond."/>
+				<subtitle lang="us" line="He jumps everywhere."/><subtitle lang="au" line="He jumps everywhere."/><subtitle lang="bz" line="He jumps everywhere."/><subtitle lang="jm" line="He jumps everywhere."/><subtitle lang="tt" line="He jumps everywhere."/><subtitle lang="gy" line="He jumps everywhere."/><subtitle lang="ag" line="He jumps everywhere."/><subtitle lang="dm" line="He jumps everywhere."/><subtitle lang="vc" line="He jumps everywhere."/><subtitle lang="bs" line="He jumps everywhere."/><subtitle lang="ca" line="He jumps everywhere."/><subtitle lang="bd" line="He jumps everywhere."/><subtitle lang="bw" line="He jumps everywhere."/><subtitle lang="fj" line="He jumps everywhere."/><subtitle lang="gm" line="He jumps everywhere."/><subtitle lang="gh" line="He jumps everywhere."/><subtitle lang="gy" line="He jumps everywhere."/><subtitle lang="ke" line="He jumps everywhere."/><subtitle lang="mt" line="He jumps everywhere."/><subtitle lang="mu" line="He jumps everywhere."/><subtitle lang="na" line="He jumps everywhere."/><subtitle lang="ng" line="He jumps everywhere."/><subtitle lang="pk" line="He jumps everywhere."/><subtitle lang="rw" line="He jumps everywhere."/><subtitle lang="ws" line="He jumps everywhere."/><subtitle lang="sl" line="He jumps everywhere."/><subtitle lang="sg" line="He jumps everywhere."/><subtitle lang="sb" line="He jumps everywhere."/><subtitle lang="za" line="He jumps everywhere."/><subtitle lang="tz" line="He jumps everywhere."/><subtitle lang="to" line="He jumps everywhere."/><subtitle lang="ug" line="He jumps everywhere."/><subtitle lang="vu" line="He jumps everywhere."/><subtitle lang="zm" line="He jumps everywhere."/><subtitle lang="zw" line="He jumps everywhere."/><subtitle lang="sco" line="He jumps everywhere."/>
+				<subtitle lang="cl" line="Salta a cualquier sitio "/><subtitle lang="es" line="Salta a cualquier sitio "/><subtitle lang="co" line="Salta a cualquier sitio "/><subtitle lang="gt" line="Salta a cualquier sitio "/><subtitle lang="pe" line="Salta a cualquier sitio "/><subtitle lang="ni" line="Salta a cualquier sitio "/><subtitle lang="do" line="Salta a cualquier sitio "/><subtitle lang="bo" line="Salta a cualquier sitio "/><subtitle lang="ve" line="Salta a cualquier sitio "/><subtitle lang="ar" line="Salta a cualquier sitio "/><subtitle lang="cu" line="Salta a cualquier sitio "/><subtitle lang="pr" line="Salta a cualquier sitio "/><subtitle lang="py" line="Salta a cualquier sitio "/><subtitle lang="ec" line="Salta a cualquier sitio "/><subtitle lang="hn" line="Salta a cualquier sitio "/><subtitle lang="sv" line="Salta a cualquier sitio "/><subtitle lang="cr" line="Salta a cualquier sitio "/><subtitle lang="pa" line="Salta a cualquier sitio "/><subtitle lang="mx" line="Salta a cualquier sitio "/>
+				<subtitle lang="ae" line="He jumps everywhere."/>
+				<subtitle lang="ine" line="He jumps everywhere."/>
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

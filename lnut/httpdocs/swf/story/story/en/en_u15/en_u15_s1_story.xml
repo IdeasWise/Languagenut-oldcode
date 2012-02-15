@@ -1,0 +1,510 @@
+<karaoke length="78367">
+  <lines>
+    <line words="Journey to School" start="134" length="3492" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="ve" line="El viaje a la escuela."/>
+        <subtitle lang="bo" line="El viaje a la escuela."/>
+        <subtitle lang="pe" line="El viaje a la escuela."/>
+        <subtitle lang="ni" line="El viaje a la escuela."/>
+        <subtitle lang="sp" line="El viaje a la escuela."/>
+        <subtitle lang="es" line="El viaje a la escuela."/>
+        <subtitle lang="do" line="El viaje a la escuela."/>
+        <subtitle lang="dk" line="Turen til skole"/>
+        <subtitle lang="co" line="El viaje a la escuela."/>
+        <subtitle lang="sv" line="El viaje a la escuela."/>
+        <subtitle lang="mg" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="ne" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="mx" line="El viaje a la escuela."/>
+        <subtitle lang="cl" line="El viaje a la escuela."/>
+        <subtitle lang="pr" line="El viaje a la escuela."/>
+        <subtitle lang="bf" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="pyi" line="Xuéxiào zhī lǚ"/>
+        <subtitle lang="py" line="El viaje a la escuela."/>
+        <subtitle lang="ci" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="ec" line="El viaje a la escuela."/>
+        <subtitle lang="ga" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="sn" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="ar" line="El viaje a la escuela."/>
+        <subtitle lang="bj" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="bi" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="cd" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="nl" line="Op weg naar school"/>
+        <subtitle lang="hn" line="El viaje a la escuela."/>
+        <subtitle lang="pa" line="El viaje a la escuela."/>
+        <subtitle lang="fr" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="cn" line="学校之旅"/>
+        <subtitle lang="ml" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="lbr" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="cr" line="El viaje a la escuela."/>
+        <subtitle lang="tg" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="dj" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="cm" line="La Route de l’Ecole. Par Sophie Mills."/>
+        <subtitle lang="gt" line="El viaje a la escuela."/>
+        <subtitle lang="cu" line="El viaje a la escuela."/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="860" length="377"/>
+        <highlight index="1" start="1222" length="171"/>
+        <highlight index="2" start="1374" length="371"/>
+      </highlights>
+    </line>
+    <line words="When I go to school someone follows me." start="3559" length="6110" useLNutResource="true" useStoryResource="false" image="15#2#9">
+      <subtitles>
+        <subtitle lang="ve" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="bo" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="pe" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="ni" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="cn" line="在我去上学时，有人跟着我。"/>
+        <subtitle lang="sp" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="es" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="cl" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="do" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="dk" line="Når jeg går i skole, er der nogen, der følger efter mig."/>
+        <subtitle lang="co" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="sv" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="mg" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="ht" line="Lè m pral lekòl, gen yon moun k ap suiv mwen."/>
+        <subtitle lang="ne" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="mx" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="lba" line="عندما أ ذهب إلى المدرسة أحدهم يتبعوني."/>
+        <subtitle lang="pr" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="saa" line="عندما أ ذهب إلى المدرسة أحدهم يتبعوني."/>
+        <subtitle lang="py" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="ga" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="bi" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="ci" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="ec" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="bf" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="sn" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="ar" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="bj" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="me" line="عندما أ ذهب إلى المدرسة أحدهم يتبعوني."/>
+        <subtitle lang="cd" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="pyi" line="Zài wǒ qù shàngxué shí, yǒurén gēnzhe wǒ."/>
+        <subtitle lang="pt" line="Quando eu vou para escola alquem me segue."/>
+        <subtitle lang="cu" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="hn" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="pa" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="fr" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="nl" line="Als ik naar school ga word ik door iemand gevolgd."/>
+        <subtitle lang="ml" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="lbr" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="cr" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="tg" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="dj" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="cm" line="Quand je vais à l’école, quelqu’un me suit."/>
+        <subtitle lang="gt" line="Cuando voy a la escuela alguien me sigue."/>
+        <subtitle lang="in" line="जब मैं स्कूल जाता हूँ तब कोई मेरा पीछा करता है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2010" length="200"/>
+        <highlight index="1" start="2181" length="103"/>
+        <highlight index="2" start="2276" length="200"/>
+        <highlight index="3" start="2447" length="100"/>
+        <highlight index="4" start="2515" length="411"/>
+        <highlight index="5" start="2900" length="471"/>
+        <highlight index="6" start="3354" length="479"/>
+        <highlight index="7" start="3816" length="522"/>
+      </highlights>
+    </line>
+    <line words="I pass in front of a café, a park and a cinema, and someone follows me." start="9535" length="8999" useLNutResource="true" useStoryResource="false" image="15#2#2">
+      <subtitles>
+        <subtitle lang="ve" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="bo" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="pe" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="ni" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="cn" line="我路过一个咖啡馆，一个公园和一个电影院，而且有人跟着我。"/>
+        <subtitle lang="sp" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="es" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="cl" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="do" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="dk" line="Jeg kommer forbi en café, en park og en biograf, og nogen følger efter mig."/>
+        <subtitle lang="co" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="sv" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="mg" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="ht" line="Mwen pase devan yon kafe restoran, yon pak ak yon sinema,  yon moun ap suiv mwen."/>
+        <subtitle lang="ne" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="mx" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="lba" line="أمرمن أمام المقهى والمتنزه و السينما و أحدهم يتبعوني."/>
+        <subtitle lang="pr" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="saa" line="أمرمن أمام المقهى والمتنزه و السينما و أحدهم يتبعوني."/>
+        <subtitle lang="py" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="ga" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="bi" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="ci" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="ec" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="bf" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="sn" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="ar" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="bj" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="me" line="أمرمن أمام المقهى والمتنزه و السينما و أحدهم يتبعوني."/>
+        <subtitle lang="cd" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="pyi" line="Wǒ lùguò yīgè kāfēi guǎn, yīgè gōngyuán hé yīgè diànyǐngyuàn, érqiě yǒurén gēnzhe wǒ."/>
+        <subtitle lang="pt" line="Eu passo pela frente de um café, um parque e um cinema, e alguém me segue."/>
+        <subtitle lang="cu" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="hn" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="pa" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="fr" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="nl" line="Ik kom langs een café, een park en een bioscoop, maar iemand volgt me."/>
+        <subtitle lang="ml" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="lbr" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="cr" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="tg" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="dj" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="cm" line="Je passe devant un café, un  parc et un cinéma, et quelqu’un me suit."/>
+        <subtitle lang="gt" line="Paso delante de una cafetería, un parque y un cine, y alguien me sigue."/>
+        <subtitle lang="in" line="मैं कैफ़े, पार्क और सिनेमा के सामने से गुजरता हूँ और कोई मेरा पीछा करता है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1865" length="200"/>
+        <highlight index="1" start="2003" length="429"/>
+        <highlight index="2" start="2407" length="176"/>
+        <highlight index="3" start="2533" length="227"/>
+        <highlight index="4" start="2722" length="151"/>
+        <highlight index="5" start="2848" length="126"/>
+        <highlight index="6" start="2961" length="756"/>
+        <highlight index="7" start="3818" length="200"/>
+        <highlight index="8" start="3995" length="592"/>
+        <highlight index="9" start="4978" length="201"/>
+        <highlight index="10" start="5129" length="138"/>
+        <highlight index="11" start="5217" length="578"/>
+        <highlight index="12" start="6011" length="164"/>
+        <highlight index="13" start="6150" length="491"/>
+        <highlight index="14" start="6578" length="403"/>
+        <highlight index="15" start="6931" length="490"/>
+      </highlights>
+    </line>
+    <line words="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me." start="18466" length="11416" useLNutResource="true" useStoryResource="false" image="15#2#6">
+      <subtitles>
+        <subtitle lang="ve" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="bo" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="pe" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="ni" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="cn" line="我到了商店以后右转，到了邮局以后左转而且我的前面是一条河，还是有人跟着我。"/>
+        <subtitle lang="sp" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="es" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="cl" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="do" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="dk" line="Jeg drejer til højre ved en forretning, til venstre ved posthuset, og foran mig er der en flod, og nogen følger efter mig."/>
+        <subtitle lang="co" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="sv" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="mg" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="ht" line="Mwen vire adwat devan yon boutik, agoch devan biwo lapòs la. Gen yon rivyè devan m, gen yon moun k ap suiv mwen."/>
+        <subtitle lang="ne" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="mx" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="lba" line="أنعطف يميناً بأتجاه المحل ويساراَ  نحو مكتب البريد وأمامي نهر وهناك  أحد يتبعوني"/>
+        <subtitle lang="pr" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="saa" line="أنعطف يميناً بأتجاه المحل ويساراَ  نحو مكتب البريد وأمامي نهر وهناك  أحد يتبعوني"/>
+        <subtitle lang="py" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="ga" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="bi" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="ci" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="ec" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="bf" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="sn" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="ar" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="bj" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="me" line="أنعطف يميناً بأتجاه المحل ويساراَ  نحو مكتب البريد وأمامي نهر وهناك  أحد يتبعوني"/>
+        <subtitle lang="cd" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="pyi" line="Wǒ dàole shāngdiàn yǐhòu yòu zhuǎn, dàole yóujú yǐhòu zuǒ zhuǎn érqiě wǒ de qiánmiàn shì yītiáo hé, háishì yǒurén gēnzhe wǒ."/>
+        <subtitle lang="pt" line="Eu viro à direita perto da loja, à esquerda na estação de correios e em frente de mim há um rio, e alguém me segue."/>
+        <subtitle lang="cu" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="hn" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="pa" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="fr" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="nl" line="Ik sla rechtsaf bij een winkel, linksaf bij het postkantoor en recht voor me zie ik een rivier, maar iemand volgt me."/>
+        <subtitle lang="ml" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="lbr" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="cr" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="tg" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="dj" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="cm" line="Je tourne à droite après la boutique, à gauche après la poste, et devant moi il y a une rivière, et quelqu’un me suit."/>
+        <subtitle lang="gt" line="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de mí hay un río, y alguien me sigue."/>
+        <subtitle lang="in" line="मैं दुकान के पास से दाईं ओर मुड़ा, डाक घर की बाईं तरफ और मेरे सामने एक नदी है और कोई मेरा पीछा करता है।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="1886" length="160"/>
+        <highlight index="1" start="1998" length="368"/>
+        <highlight index="2" start="2318" length="495"/>
+        <highlight index="3" start="2765" length="192"/>
+        <highlight index="4" start="2941" length="144"/>
+        <highlight index="5" start="3021" length="552"/>
+        <highlight index="6" start="4092" length="320"/>
+        <highlight index="7" start="4380" length="144"/>
+        <highlight index="8" start="4508" length="144"/>
+        <highlight index="9" start="4604" length="384"/>
+        <highlight index="10" start="4940" length="559"/>
+        <highlight index="11" start="5707" length="192"/>
+        <highlight index="12" start="5867" length="100"/>
+        <highlight index="13" start="5931" length="432"/>
+        <highlight index="14" start="6347" length="200"/>
+        <highlight index="15" start="6459" length="200"/>
+        <highlight index="16" start="6618" length="288"/>
+        <highlight index="17" start="6890" length="200"/>
+        <highlight index="18" start="7002" length="112"/>
+        <highlight index="19" start="7066" length="608"/>
+        <highlight index="20" start="8393" length="272"/>
+        <highlight index="21" start="8649" length="488"/>
+        <highlight index="22" start="9049" length="511"/>
+        <highlight index="23" start="9496" length="472"/>
+      </highlights>
+    </line>
+    <line words="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me." start="29815" length="11349" useLNutResource="true" useStoryResource="false" image="15#2#4">
+      <subtitles>
+        <subtitle lang="ve" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="bo" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="pe" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="ni" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="cn" line="我在学校后面的教堂旁边的博物馆对面过马路，而且有人跟着我。"/>
+        <subtitle lang="sp" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="es" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="cl" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="do" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="dk" line="Jeg går over fodgængerfeltet overfor museet ved siden af kirken bag ved skolen, og nogen følger efter mig."/>
+        <subtitle lang="co" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="sv" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="mg" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="ht" line="Mwen travèse yon pasaj pyeton anfas mize a, touprè legliz la, dèyè lekòl la, gen yon moun k ap suiv mwen."/>
+        <subtitle lang="ne" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="mx" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="lba" line="أعبر عبر طريق المشاة المقابلة للمتحف بجانب الكنيسة خلف المدرسة و أحدهم يتبعوني."/>
+        <subtitle lang="pr" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="saa" line="أعبر عبر طريق المشاة المقابلة للمتحف بجانب الكنيسة خلف المدرسة و أحدهم يتبعوني."/>
+        <subtitle lang="py" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="ga" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="bi" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="ci" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="ec" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="bf" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="sn" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="ar" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="bj" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="me" line="أعبر عبر طريق المشاة المقابلة للمتحف بجانب الكنيسة خلف المدرسة و أحدهم يتبعوني."/>
+        <subtitle lang="cd" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="pyi" line="Wǒ zài xuéxiào hòumiàn de jiàotáng pángbiān de bówùguǎn duìmiànguò mǎlù, érqiě yǒurén gēnzhe wǒ."/>
+        <subtitle lang="pt" line="Atravesso a passadeira em frente ao Museu ao lado da igreja atrás da escola, e alguém me segue."/>
+        <subtitle lang="cu" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="hn" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="pa" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="fr" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="nl" line="Ik steek het zebrapad over tegenover het museum naast de kerk achter school, maar iemand volgt me."/>
+        <subtitle lang="ml" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="lbr" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="cr" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="tg" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="dj" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="cm" line="Je traverse le passage piéton en face du musée, près de l’église et derrière l’école, et quelqu’un me suit."/>
+        <subtitle lang="gt" line="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detrás del la escuela, y alguien me sigue."/>
+        <subtitle lang="in" line="मैंने पैदल चलने वाली क्रॉसिंग को पार किया जो संग्रहालय के विपरीत चर्च के सामने स्कूल के पीछे थी और कोई मेरा पीछा करता है।  "/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2050" length="222"/>
+        <highlight index="1" start="2209" length="492"/>
+        <highlight index="2" start="2638" length="365"/>
+        <highlight index="3" start="2940" length="1033"/>
+        <highlight index="4" start="3909" length="477"/>
+        <highlight index="5" start="4307" length="175"/>
+        <highlight index="6" start="4434" length="661"/>
+        <highlight index="7" start="5372" length="461"/>
+        <highlight index="8" start="5769" length="159"/>
+        <highlight index="9" start="5864" length="159"/>
+        <highlight index="10" start="5991" length="430"/>
+        <highlight index="11" start="6389" length="429"/>
+        <highlight index="12" start="6738" length="159"/>
+        <highlight index="13" start="6866" length="454"/>
+        <highlight index="14" start="8709" length="143"/>
+        <highlight index="15" start="8805" length="518"/>
+        <highlight index="16" start="9250" length="445"/>
+        <highlight index="17" start="9647" length="438"/>
+      </highlights>
+    </line>
+    <line words="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue on foot by myself and someone follows me." start="41164" length="16184" useLNutResource="true" useStoryResource="false" image="15#6#2">
+      <subtitles>
+        <subtitle lang="ve" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="bo" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="pe" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="ni" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="cn" line="我和我的朋友们一起走在火车站的附近。他们乘火车，或公车或出租车。我继续自己一个人往前走而且有人跟着我。"/>
+        <subtitle lang="sp" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="es" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="cl" line="Camino con mis amigos cerca de la estación de tren. Ellos se van en tren o en bus o en taxi. Yo continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="do" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="dk" line="Jeg går sammen med mine venner nede ved banegården. De kommer med tog eller bus eller taxi. Jeg fortsætter alene til fods, og nogen følger efter mig."/>
+        <subtitle lang="co" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="sv" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="mg" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="ht" line="Mwen mache ak zanmi m yo touprè estasyon tren an. To pran tren, kamyonèt oswa taksi. Mwen kontinye poukont mwen a pye, epi gen yon moun k ap suiv mwen."/>
+        <subtitle lang="ne" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="mx" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="lba" line="أمشي مع أصدقائي بالقرب من محطة القطار. يذهبون عن طريق القطار أو الباص أو بواسطة سيارات الأجرة. أواصل أنا السيرعلى ألاقدام لوحدي و أحدهم يتبعوني."/>
+        <subtitle lang="pr" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="saa" line="أمشي مع أصدقائي بالقرب من محطة القطار. يذهبون عن طريق القطار أو الباص أو بواسطة سيارات الأجرة. أواصل أنا السيرعلى ألاقدام لوحدي و أحدهم يتبعوني."/>
+        <subtitle lang="py" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="ga" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="bi" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="ci" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="ec" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="bf" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="sn" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="ar" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="bj" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="me" line="أمشي مع أصدقائي بالقرب من محطة القطار. يذهبون عن طريق القطار أو الباص أو بواسطة سيارات الأجرة. أواصل أنا السيرعلى ألاقدام لوحدي و أحدهم يتبعوني."/>
+        <subtitle lang="cd" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="pyi" line="Wǒ hé wǒ de péngyǒumen yīqǐ zǒu zài huǒchē zhàn de fùjìn.Tāmen chéng huǒchē, huò gōng chē huò chūzū chē wǒ jìxù zìjǐ yīgè rén wǎng qián zǒu érqiě yǒurén gēnzhe wǒ."/>
+        <subtitle lang="pt" line="Eu ando com os meus amigos perto da estação ferroviária. Eles vão de trém ou de ônibus ou de táxi. Eu continuo a pé - sozinho - e alguém me segue."/>
+        <subtitle lang="cu" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="hn" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="pa" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="fr" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="nl" line="Ik loop met mijn vrienden vlakbij het treinstation. Zij gaan met de trein of met de bus of met de taxi. Ik blijf lopen in mijn eentje, maar iemand volgt me."/>
+        <subtitle lang="ml" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="lbr" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="cr" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="tg" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="dj" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="cm" line="Je marche avec mes amis près de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue à pied, seul(e), et quelqu’un me suit."/>
+        <subtitle lang="gt" line="Camino con mis amigos cerca de la estación de trenes. Van en tren o en autobús o en taxi. Continuo a pie solo y alguien me sigue."/>
+        <subtitle lang="in" line="मैं रेलवे स्टेशन के पास अपने दोस्तों के साथ चलता हूँ। वे रेलगाड़ी या बस या टैक्सी से जाते हैं। मैं पदल चलता रहा- अपने आप से - और कोई मेरा पीछा करता है।  "/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2039" length="318"/>
+        <highlight index="1" start="2311" length="408"/>
+        <highlight index="2" start="2651" length="182"/>
+        <highlight index="3" start="2787" length="182"/>
+        <highlight index="4" start="2923" length="563"/>
+        <highlight index="5" start="3399" length="363"/>
+        <highlight index="6" start="3694" length="181"/>
+        <highlight index="7" start="3830" length="204"/>
+        <highlight index="8" start="3966" length="363"/>
+        <highlight index="9" start="4283" length="903"/>
+        <highlight index="10" start="5643" length="249"/>
+        <highlight index="11" start="5779" length="272"/>
+        <highlight index="12" start="6006" length="272"/>
+        <highlight index="13" start="6210" length="608"/>
+        <highlight index="14" start="6754" length="313"/>
+        <highlight index="15" start="7003" length="136"/>
+        <highlight index="16" start="7094" length="634"/>
+        <highlight index="17" start="7751" length="272"/>
+        <highlight index="18" start="7955" length="181"/>
+        <highlight index="19" start="8068" length="654"/>
+        <highlight index="20" start="9995" length="294"/>
+        <highlight index="21" start="10199" length="544"/>
+        <highlight index="22" start="10675" length="204"/>
+        <highlight index="23" start="10833" length="835"/>
+        <highlight index="24" start="11717" length="340"/>
+        <highlight index="25" start="12012" length="725"/>
+        <highlight index="26" start="13621" length="246"/>
+        <highlight index="27" start="13803" length="453"/>
+        <highlight index="28" start="14188" length="362"/>
+        <highlight index="29" start="14505" length="449"/>
+      </highlights>
+    </line>
+    <line words="Straight ahead, on the corner, far from home I turn around. “Hello puss,” I say. §I better take you home. Tomorrow I think I am going to go by bus.§" start="57348" length="18467" useLNutResource="true" useStoryResource="false" image="15#3#10">
+      <subtitles>
+        <subtitle lang="ve" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="bo" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="pe" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="ni" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="cn" line="直行，在角落，离家里很远我转过身来。“你好，猫咪”我说道。 “我最好把你带回家吧。明天我想我会坐公车去学校。”"/>
+        <subtitle lang="sp" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="es" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="cl" line="Sigo derecho, en la esquina, lejos de casa doy vuelta. “Hola gatito,” digo, “mejor te llevo a casa. “Creo que mañana me voy a ir en bus."/>
+        <subtitle lang="do" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="dk" line="Lige ud, på hjørnet, langt hjemmefra, vender jeg mig om. “Hej misser”, siger jeg. Jeg må hellere gå hjem med dig. I morgen tager jeg nok bussen."/>
+        <subtitle lang="co" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="sv" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="mg" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="ht" line="Toudwat devan m, nan nan viraj la, lwen de lakay mwen, mwen retounen. Mwen di “Bonjou mimi. Pito m menmen ou lakay mwen. Demen, mwen kwè m ap pran kamyonèt.”"/>
+        <subtitle lang="ne" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="mx" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="lba" line="مباشرتاً ،إلى الأمام  في الزاوية، بعيداً عن البيت أستدرت . §مرحباً يا هرة§ ، أقول. من الأفضل أن أخذكِ الى المنزل. اعتقد غدا سوف أذهب إلى المدرسة بالباص."/>
+        <subtitle lang="pr" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="saa" line="مباشرتاً ،إلى الأمام  في الزاوية، بعيداً عن البيت أستدرت . §مرحباً يا هرة§ ، أقول. من الأفضل أن أخذكِ الى المنزل. اعتقد غدا سوف أذهب إلى المدرسة بالباص."/>
+        <subtitle lang="py" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="ga" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="bi" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="ci" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="ec" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="bf" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="sn" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="ar" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="bj" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="me" line="مباشرتاً ،إلى الأمام  في الزاوية، بعيداً عن البيت أستدرت . §مرحباً يا هرة§ ، أقول. من الأفضل أن أخذكِ الى المنزل. اعتقد غدا سوف أذهب إلى المدرسة بالباص."/>
+        <subtitle lang="cd" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="pyi" line="Zhíxíng, zài jiǎoluò, lí jiālǐ hěn yuǎn wǒ zhuàn guòshēn lái. “Nǐ hǎo, māo mī” wǒ shuōdao. “Wǒ zuì hǎo bǎ nǐ dài huí jiā ba, míngtiān wǒ xiǎng wǒ huì zuò gōng chē qù xuéxiào. ”"/>
+        <subtitle lang="pt" line="Logo em frente, na esquina, longe de casa, eu me viro. §Olá, gatinho§, eu digo. É melhor eu lhe levar pra casa. Amanhã eu acho que vou de ônibus."/>
+        <subtitle lang="cu" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="hn" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="pa" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="fr" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="nl" line="Rechtdoor, op de hoek, ver van huis, draai ik me om. “Hoi poes”, zeg ik. Ik kan je maar beter mee naar huis nemen. Ik denk dat ik morgen met de bus ga."/>
+        <subtitle lang="ml" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="lbr" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="cr" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="tg" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="dj" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="cm" line="Droit devant, à l’angle, loin de la maison je me retourne. §Salut minou§ dis-je. §Je ferais mieux de te ramener à la maison. Demain je pense que je prendrai le bus.§"/>
+        <subtitle lang="gt" line="Todo recto, en la esquina, lejos de casa giro. “Hola gatito,” digo. “Mejor te llevo a casa. Mañana creo que voy a ir en autobús.” "/>
+        <subtitle lang="in" line="मैं सीधे, कोने पर, घर से दूर मुड़ा। “नमस्कार बिल्ली,” मैंने कहा। बेहतर है कि मैं तुम्हें घर ले जाऊँ। मुझे लगता है कि कल मैं बस से जाने वाला हूँ।"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2303" length="443"/>
+        <highlight index="1" start="2628" length="649"/>
+        <highlight index="2" start="3514" length="324"/>
+        <highlight index="3" start="3779" length="178"/>
+        <highlight index="4" start="3868" length="561"/>
+        <highlight index="5" start="5138" length="325"/>
+        <highlight index="6" start="5433" length="384"/>
+        <highlight index="7" start="5728" length="561"/>
+        <highlight index="8" start="6555" length="207"/>
+        <highlight index="9" start="6673" length="355"/>
+        <highlight index="10" start="6969" length="590"/>
+        <highlight index="11" start="8091" length="384"/>
+        <highlight index="12" start="8386" length="561"/>
+        <highlight index="13" start="8859" length="177"/>
+        <highlight index="14" start="8977" length="413"/>
+        <highlight index="15" start="10040" length="236"/>
+        <highlight index="16" start="10246" length="325"/>
+        <highlight index="17" start="10483" length="384"/>
+        <highlight index="18" start="10778" length="236"/>
+        <highlight index="19" start="10867" length="413"/>
+        <highlight index="20" start="12609" length="738"/>
+        <highlight index="21" start="13731" length="207"/>
+        <highlight index="22" start="13879" length="384"/>
+        <highlight index="23" start="14233" length="236"/>
+        <highlight index="24" start="14381" length="236"/>
+        <highlight index="25" start="14558" length="325"/>
+        <highlight index="26" start="14824" length="118"/>
+        <highlight index="27" start="14853" length="325"/>
+        <highlight index="28" start="15119" length="354"/>
+        <highlight index="29" start="15385" length="856"/>
+      </highlights>
+    </line>
+    <line words="The End" start="75815" length="2552" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="ec" line="Fin"/>
+        <subtitle lang="bo" line="Fin"/>
+        <subtitle lang="pe" line="Fin"/>
+        <subtitle lang="ni" line="Fin"/>
+        <subtitle lang="ar" line="Fin"/>
+        <subtitle lang="hn" line="Fin"/>
+        <subtitle lang="sp" line="Fin"/>
+        <subtitle lang="es" line="Fin"/>
+        <subtitle lang="nl" line="Einde"/>
+        <subtitle lang="pr" line="Fin"/>
+        <subtitle lang="co" line="Fin"/>
+        <subtitle lang="cl" line="Fin"/>
+        <subtitle lang="sv" line="Fin"/>
+        <subtitle lang="pa" line="Fin"/>
+        <subtitle lang="ve" line="Fin"/>
+        <subtitle lang="mx" line="Fin"/>
+        <subtitle lang="do" line="Fin"/>
+        <subtitle lang="cu" line="Fin"/>
+        <subtitle lang="cr" line="Fin"/>
+        <subtitle lang="gt" line="Fin"/>
+        <subtitle lang="py" line="Fin"/>
+      </subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

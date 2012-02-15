@@ -1,0 +1,2389 @@
+<?xml version="1.0"?>
+<karaoke length="160104">
+  <lines>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="10762" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="zw" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ng" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor. Der hvor jeg bor .                       "/>
+        <subtitle lang="ag" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="bw" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="au" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ae" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="to" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="lb" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="zm" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ws" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="sg" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="sa" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ug" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="fj" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="tz" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="jm" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="pk" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ca" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="vu" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="bd" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="ke" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="sb" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="za" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="tt" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="mu" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="Ay, in my neighbourhood! Ay, in my neighbourhood!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="14763" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="18764" length="3311">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="22766" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="26695" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="30768" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="34769" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="38771" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="42772" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y a un supermarch&#xE9;." start="46221" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="465"/>
+      <highlight index="3" start="1956" length="471"/>
+      <highlight index="4" start="2420" length="1892"/>
+      <subtitles>
+        <subtitle lang="en" line="there is a supermarket."/>
+        <subtitle lang="zw" line="there is a supermarket."/>
+        <subtitle lang="ng" line="there is a supermarket."/>
+        <subtitle lang="ni" line="hay un supermercado."/>
+        <subtitle lang="bz" line="there is a supermarket."/>
+        <subtitle lang="dk" line="Er der et supermarked"/>
+        <subtitle lang="ag" line="there is a supermarket."/>
+        <subtitle lang="bw" line="there is a supermarket."/>
+        <subtitle lang="au" line="there is a supermarket."/>
+        <subtitle lang="ec" line="hay un supermercado."/>
+        <subtitle lang="pr" line="hay un supermercado."/>
+        <subtitle lang="mt" line="there is a supermarket."/>
+        <subtitle lang="ae" line="there is a supermarket."/>
+        <subtitle lang="to" line="there is a supermarket."/>
+        <subtitle lang="lb" line="there is a supermarket."/>
+        <subtitle lang="es" line="hay un supermercado."/>
+        <subtitle lang="rw" line="there is a supermarket."/>
+        <subtitle lang="ve" line="hay un supermercado."/>
+        <subtitle lang="pe" line="hay un supermercado."/>
+        <subtitle lang="gy" line="there is a supermarket."/>
+        <subtitle lang="zm" line="there is a supermarket."/>
+        <subtitle lang="ws" line="there is a supermarket."/>
+        <subtitle lang="sg" line="there is a supermarket."/>
+        <subtitle lang="sa" line="there is a supermarket."/>
+        <subtitle lang="mx" line="hay un supermercado."/>
+        <subtitle lang="do" line="hay un supermercado."/>
+        <subtitle lang="bs" line="there is a supermarket."/>
+        <subtitle lang="ug" line="there is a supermarket."/>
+        <subtitle lang="fj" line="there is a supermarket."/>
+        <subtitle lang="tz" line="there is a supermarket."/>
+        <subtitle lang="co" line="hay un supermercado."/>
+        <subtitle lang="nz" line="there is a supermarket."/>
+        <subtitle lang="jm" line="there is a supermarket."/>
+        <subtitle lang="pk" line="there is a supermarket."/>
+        <subtitle lang="ca" line="there is a supermarket."/>
+        <subtitle lang="ar" line="hay un supermercado."/>
+        <subtitle lang="py" line="hay un supermercado."/>
+        <subtitle lang="na" line="there is a supermarket."/>
+        <subtitle lang="me" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62D;&#x644; &#x633;&#x648;&#x628;&#x631; &#x645;&#x627;&#x631;&#x643;&#x62A;"/>
+        <subtitle lang="cu" line="hay un supermercado."/>
+        <subtitle lang="gh" line="there is a supermarket."/>
+        <subtitle lang="sv" line="hay un supermercado."/>
+        <subtitle lang="gm" line="there is a supermarket."/>
+        <subtitle lang="vu" line="there is a supermarket."/>
+        <subtitle lang="cl" line="hay un supermercado."/>
+        <subtitle lang="us" line="there is a supermarket."/>
+        <subtitle lang="bd" line="there is a supermarket."/>
+        <subtitle lang="ke" line="there is a supermarket."/>
+        <subtitle lang="sb" line="there is a supermarket."/>
+        <subtitle lang="cr" line="hay un supermercado."/>
+        <subtitle lang="sp" line="hay un supermercado."/>
+        <subtitle lang="vc" line="there is a supermarket."/>
+        <subtitle lang="za" line="there is a supermarket."/>
+        <subtitle lang="tt" line="there is a supermarket."/>
+        <subtitle lang="mu" line="there is a supermarket."/>
+        <subtitle lang="bo" line="hay un supermercado."/>
+        <subtitle lang="sl" line="there is a supermarket."/>
+        <subtitle lang="pa" line="hay un supermercado."/>
+        <subtitle lang="sco" line="there is a supermarket."/>
+        <subtitle lang="hn" line="hay un supermercado."/>
+        <subtitle lang="gt" line="hay un supermercado."/>
+        <subtitle lang="dm" line="there is a supermarket."/>
+      <subtitle lang="saa" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62D;&#x644; &#x633;&#x648;&#x628;&#x631; &#x645;&#x627;&#x631;&#x643;&#x62A;"/><subtitle lang="lba" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62D;&#x644; &#x633;&#x648;&#x628;&#x631; &#x645;&#x627;&#x631;&#x643;&#x62A;"/>
+				<subtitle lang="ine" line="there is a supermarket."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="50775" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y a une boulangerie." start="54224" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="465"/>
+      <highlight index="3" start="1956" length="471"/>
+      <highlight index="4" start="2420" length="1892"/>
+      <subtitles>
+        <subtitle lang="en" line="there is a bakery."/>
+        <subtitle lang="zw" line="there is a bakery."/>
+        <subtitle lang="ng" line="there is a bakery."/>
+        <subtitle lang="ni" line="hay una panader&#xED;a."/>
+        <subtitle lang="bz" line="there is a bakery."/>
+        <subtitle lang="dk" line="er der en bager"/>
+        <subtitle lang="ag" line="there is a bakery."/>
+        <subtitle lang="bw" line="there is a bakery."/>
+        <subtitle lang="au" line="there is a bakery."/>
+        <subtitle lang="ec" line="hay una panader&#xED;a."/>
+        <subtitle lang="pr" line="hay una panader&#xED;a."/>
+        <subtitle lang="mt" line="there is a bakery."/>
+        <subtitle lang="ae" line="there is a bakery."/>
+        <subtitle lang="to" line="there is a bakery."/>
+        <subtitle lang="lb" line="there is a bakery."/>
+        <subtitle lang="es" line="hay una panader&#xED;a."/>
+        <subtitle lang="rw" line="there is a bakery."/>
+        <subtitle lang="ve" line="hay una panader&#xED;a."/>
+        <subtitle lang="pe" line="hay una panader&#xED;a."/>
+        <subtitle lang="gy" line="there is a bakery."/>
+        <subtitle lang="zm" line="there is a bakery."/>
+        <subtitle lang="ws" line="there is a bakery."/>
+        <subtitle lang="sg" line="there is a bakery."/>
+        <subtitle lang="sa" line="there is a bakery."/>
+        <subtitle lang="mx" line="hay una panader&#xED;a."/>
+        <subtitle lang="do" line="hay una panader&#xED;a."/>
+        <subtitle lang="bs" line="there is a bakery."/>
+        <subtitle lang="ug" line="there is a bakery."/>
+        <subtitle lang="fj" line="there is a bakery."/>
+        <subtitle lang="tz" line="there is a bakery."/>
+        <subtitle lang="co" line="hay una panader&#xED;a."/>
+        <subtitle lang="nz" line="there is a bakery."/>
+        <subtitle lang="jm" line="there is a bakery."/>
+        <subtitle lang="pk" line="there is a bakery."/>
+        <subtitle lang="ca" line="there is a bakery."/>
+        <subtitle lang="ar" line="hay una panader&#xED;a."/>
+        <subtitle lang="py" line="hay una panader&#xED;a."/>
+        <subtitle lang="na" line="there is a bakery."/>
+        <subtitle lang="me" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62E;&#x628;&#x632; "/>
+        <subtitle lang="cu" line="hay una panader&#xED;a."/>
+        <subtitle lang="gh" line="there is a bakery."/>
+        <subtitle lang="sv" line="hay una panader&#xED;a."/>
+        <subtitle lang="gm" line="there is a bakery."/>
+        <subtitle lang="vu" line="there is a bakery."/>
+        <subtitle lang="cl" line="hay una panader&#xED;a."/>
+        <subtitle lang="us" line="there is a bakery."/>
+        <subtitle lang="bd" line="there is a bakery."/>
+        <subtitle lang="ke" line="there is a bakery."/>
+        <subtitle lang="sb" line="there is a bakery."/>
+        <subtitle lang="cr" line="hay una panader&#xED;a."/>
+        <subtitle lang="sp" line="hay una panader&#xED;a."/>
+        <subtitle lang="vc" line="there is a bakery."/>
+        <subtitle lang="za" line="there is a bakery."/>
+        <subtitle lang="tt" line="there is a bakery."/>
+        <subtitle lang="mu" line="there is a bakery."/>
+        <subtitle lang="bo" line="hay una panader&#xED;a."/>
+        <subtitle lang="sl" line="there is a bakery."/>
+        <subtitle lang="pa" line="hay una panader&#xED;a."/>
+        <subtitle lang="sco" line="there is a bakery."/>
+        <subtitle lang="hn" line="hay una panader&#xED;a."/>
+        <subtitle lang="gt" line="hay una panader&#xED;a."/>
+        <subtitle lang="dm" line="there is a bakery."/>
+      <subtitle lang="saa" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62E;&#x628;&#x632; "/><subtitle lang="lba" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62E;&#x628;&#x632; "/>
+				<subtitle lang="ine" line="there is a bakery."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="58777" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y a une p&#xE2;tisserie." start="62227" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="465"/>
+      <highlight index="3" start="1956" length="471"/>
+      <highlight index="4" start="2420" length="1892"/>
+      <subtitles>
+        <subtitle lang="en" line="there is a coake shop."/>
+        <subtitle lang="zw" line="there is a coake shop."/>
+        <subtitle lang="ng" line="there is a coake shop."/>
+        <subtitle lang="ni" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="bz" line="there is a coake shop."/>
+        <subtitle lang="dk" line="er der en bager"/>
+        <subtitle lang="ag" line="there is a coake shop."/>
+        <subtitle lang="bw" line="there is a coake shop."/>
+        <subtitle lang="au" line="there is a coake shop."/>
+        <subtitle lang="ec" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="pr" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="mt" line="there is a coake shop."/>
+        <subtitle lang="ae" line="there is a coake shop."/>
+        <subtitle lang="to" line="there is a coake shop."/>
+        <subtitle lang="lb" line="there is a coake shop."/>
+        <subtitle lang="es" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="rw" line="there is a coake shop."/>
+        <subtitle lang="ve" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="pe" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="gy" line="there is a coake shop."/>
+        <subtitle lang="zm" line="there is a coake shop."/>
+        <subtitle lang="ws" line="there is a coake shop."/>
+        <subtitle lang="sg" line="there is a coake shop."/>
+        <subtitle lang="sa" line="there is a coake shop."/>
+        <subtitle lang="mx" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="do" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="bs" line="there is a coake shop."/>
+        <subtitle lang="ug" line="there is a coake shop."/>
+        <subtitle lang="fj" line="there is a coake shop."/>
+        <subtitle lang="tz" line="there is a coake shop."/>
+        <subtitle lang="co" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="nz" line="there is a cake shop."/>
+        <subtitle lang="jm" line="there is a coake shop."/>
+        <subtitle lang="pk" line="there is a coake shop."/>
+        <subtitle lang="ca" line="there is a coake shop."/>
+        <subtitle lang="ar" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="py" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="na" line="there is a coake shop."/>
+        <subtitle lang="me" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62A;&#x62C;&#x631; &#x644;&#x644;&#x643;&#x639;&#x643;"/>
+        <subtitle lang="cu" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="gh" line="there is a coake shop."/>
+        <subtitle lang="sv" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="gm" line="there is a coake shop."/>
+        <subtitle lang="vu" line="there is a coake shop."/>
+        <subtitle lang="cl" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="us" line="there is a coake shop."/>
+        <subtitle lang="bd" line="there is a coake shop."/>
+        <subtitle lang="ke" line="there is a coake shop."/>
+        <subtitle lang="sb" line="there is a coake shop."/>
+        <subtitle lang="cr" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="sp" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="vc" line="there is a coake shop."/>
+        <subtitle lang="za" line="there is a coake shop."/>
+        <subtitle lang="tt" line="there is a coake shop."/>
+        <subtitle lang="mu" line="there is a coake shop."/>
+        <subtitle lang="bo" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="sl" line="there is a coake shop."/>
+        <subtitle lang="pa" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="sco" line="there is a coake shop."/>
+        <subtitle lang="hn" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="gt" line="hay una pasteler&#xED;a."/>
+        <subtitle lang="dm" line="there is a coake shop."/>
+      <subtitle lang="saa" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62A;&#x62C;&#x631; &#x644;&#x644;&#x643;&#x639;&#x643;"/><subtitle lang="lba" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x645;&#x62A;&#x62C;&#x631; &#x644;&#x644;&#x643;&#x639;&#x643;"/>
+				<subtitle lang="ine" line="there is a coake shop."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="66780" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y a une charcuterie." start="70229" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="465"/>
+      <highlight index="3" start="1956" length="471"/>
+      <highlight index="4" start="2420" length="1892"/>
+      <subtitles>
+        <subtitle lang="en" line="there is a meat shop."/>
+        <subtitle lang="zw" line="there is a meat shop."/>
+        <subtitle lang="ng" line="there is a meat shop."/>
+        <subtitle lang="ni" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="bz" line="there is a meat shop."/>
+        <subtitle lang="dk" line="er der en delikatesse"/>
+        <subtitle lang="ag" line="there is a meat shop."/>
+        <subtitle lang="bw" line="there is a meat shop."/>
+        <subtitle lang="au" line="there is a meat shop."/>
+        <subtitle lang="ec" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="pr" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="mt" line="there is a meat shop."/>
+        <subtitle lang="ae" line="there is a meat shop."/>
+        <subtitle lang="to" line="there is a meat shop."/>
+        <subtitle lang="lb" line="there is a meat shop."/>
+        <subtitle lang="es" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="rw" line="there is a meat shop."/>
+        <subtitle lang="ve" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="pe" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="gy" line="there is a meat shop."/>
+        <subtitle lang="zm" line="there is a meat shop."/>
+        <subtitle lang="ws" line="there is a meat shop."/>
+        <subtitle lang="sg" line="there is a meat shop."/>
+        <subtitle lang="sa" line="there is a meat shop."/>
+        <subtitle lang="mx" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="do" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="bs" line="there is a meat shop."/>
+        <subtitle lang="ug" line="there is a meat shop."/>
+        <subtitle lang="fj" line="there is a meat shop."/>
+        <subtitle lang="tz" line="there is a meat shop."/>
+        <subtitle lang="co" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="nz" line="there is a meat shop."/>
+        <subtitle lang="jm" line="there is a meat shop."/>
+        <subtitle lang="pk" line="there is a meat shop."/>
+        <subtitle lang="ca" line="there is a meat shop."/>
+        <subtitle lang="ar" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="py" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="na" line="there is a meat shop."/>
+        <subtitle lang="me" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x623;&#x637;&#x639;&#x645;&#x629; &#x644;&#x630;&#x64A;&#x630;&#x629;"/>
+        <subtitle lang="cu" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="gh" line="there is a meat shop."/>
+        <subtitle lang="sv" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="gm" line="there is a meat shop."/>
+        <subtitle lang="vu" line="there is a meat shop."/>
+        <subtitle lang="cl" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="us" line="there is a meat shop."/>
+        <subtitle lang="bd" line="there is a meat shop."/>
+        <subtitle lang="ke" line="there is a meat shop."/>
+        <subtitle lang="sb" line="there is a meat shop."/>
+        <subtitle lang="cr" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="sp" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="vc" line="there is a meat shop."/>
+        <subtitle lang="za" line="there is a meat shop."/>
+        <subtitle lang="tt" line="there is a meat shop."/>
+        <subtitle lang="mu" line="there is a meat shop."/>
+        <subtitle lang="bo" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="sl" line="there is a meat shop."/>
+        <subtitle lang="pa" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="sco" line="there is a meat shop."/>
+        <subtitle lang="hn" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="gt" line="hay una salchichoner&#xED;a"/>
+        <subtitle lang="dm" line="there is a meat shop."/>
+      <subtitle lang="saa" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x623;&#x637;&#x639;&#x645;&#x629; &#x644;&#x630;&#x64A;&#x630;&#x629;"/><subtitle lang="lba" line="&#x200E;&#x64A;&#x648;&#x62C;&#x62F; &#x647;&#x646;&#x627;&#x643; &#x623;&#x637;&#x639;&#x645;&#x629; &#x644;&#x630;&#x64A;&#x630;&#x629;"/>
+				<subtitle lang="ine" line="there is a meat shop."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="80853" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="84855" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="88718" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="92857" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="96721" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="100722" length="4415">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier." start="104861" length="4001">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood."/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood."/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier. Et dans mon quartier. Aujourd'hui!" start="108724" length="4278">
+      <highlight index="0" start="204" length="200"/>
+      <highlight index="1" start="397" length="200"/>
+      <highlight index="2" start="584" length="200"/>
+      <highlight index="3" start="766" length="555"/>
+      <highlight index="4" start="2093" length="281"/>
+      <highlight index="5" start="2345" length="200"/>
+      <highlight index="6" start="2538" length="200"/>
+      <highlight index="7" start="2725" length="661"/>
+      <highlight index="8" start="3394" length="589"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ng" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  Der hvor jeg bor -nu. "/>
+        <subtitle lang="ag" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="au" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="mt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ae" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="to" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="lb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="rw" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gy" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="zm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ws" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sg" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sa" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="bs" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ug" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="fj" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="nz" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="jm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pk" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ca" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="na" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gh" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="vu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="us" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bd" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="ke" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="sb" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="vc" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="za" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="tt" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="mu" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sl" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="sco" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. Y en mi &#xE1;rea, hoy."/>
+        <subtitle lang="dm" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A; &#x627;&#x644;&#x64A;&#x648;&#x645;"/>
+				<subtitle lang="ine" line="And in my neighbourhood. And in my neighbourhood. Today!"/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="112864" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y avait une poissonerie." start="116175" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="1033"/>
+      <highlight index="3" start="2543" length="523"/>
+      <highlight index="4" start="3027" length="1285"/>
+      <subtitles>
+        <subtitle lang="en" line="there was a fishmongers."/>
+        <subtitle lang="zw" line="there was a fishmongers."/>
+        <subtitle lang="ng" line="there was a fishmongers."/>
+        <subtitle lang="ni" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="bz" line="there was a fishmongers."/>
+        <subtitle lang="dk" line="Var der en fiskemand"/>
+        <subtitle lang="ag" line="there was a fishmongers."/>
+        <subtitle lang="bw" line="there was a fishmongers."/>
+        <subtitle lang="au" line="there was a fishmongers."/>
+        <subtitle lang="ec" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="pr" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="mt" line="there was a fishmongers."/>
+        <subtitle lang="ae" line="there was a fishmongers."/>
+        <subtitle lang="to" line="there was a fishmongers."/>
+        <subtitle lang="lb" line="there was a fishmongers."/>
+        <subtitle lang="es" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="rw" line="there was a fishmongers."/>
+        <subtitle lang="ve" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="pe" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="gy" line="there was a fishmongers."/>
+        <subtitle lang="zm" line="there was a fishmongers."/>
+        <subtitle lang="ws" line="there was a fishmongers."/>
+        <subtitle lang="sg" line="there was a fishmongers."/>
+        <subtitle lang="sa" line="there was a fishmongers."/>
+        <subtitle lang="mx" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="do" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="bs" line="there was a fishmongers."/>
+        <subtitle lang="ug" line="there was a fishmongers."/>
+        <subtitle lang="fj" line="there was a fishmongers."/>
+        <subtitle lang="tz" line="there was a fishmongers."/>
+        <subtitle lang="co" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="nz" line="there was a fishmongers."/>
+        <subtitle lang="jm" line="there was a fishmongers."/>
+        <subtitle lang="pk" line="there was a fishmongers."/>
+        <subtitle lang="ca" line="there was a fishmongers."/>
+        <subtitle lang="ar" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="py" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="na" line="there was a fishmongers."/>
+        <subtitle lang="me" line="There was a fishmongers"/>
+        <subtitle lang="cu" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="gh" line="there was a fishmongers."/>
+        <subtitle lang="sv" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="gm" line="there was a fishmongers."/>
+        <subtitle lang="vu" line="there was a fishmongers."/>
+        <subtitle lang="cl" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="us" line="there was a fishmongers."/>
+        <subtitle lang="bd" line="there was a fishmongers."/>
+        <subtitle lang="ke" line="there was a fishmongers."/>
+        <subtitle lang="sb" line="there was a fishmongers."/>
+        <subtitle lang="cr" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="sp" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="vc" line="there was a fishmongers."/>
+        <subtitle lang="za" line="there was a fishmongers."/>
+        <subtitle lang="tt" line="there was a fishmongers."/>
+        <subtitle lang="mu" line="there was a fishmongers."/>
+        <subtitle lang="bo" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="sl" line="there was a fishmongers."/>
+        <subtitle lang="pa" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="sco" line="there was a fishmongers."/>
+        <subtitle lang="hn" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="gt" line="hab&#xED;a una pescader&#xED;a."/>
+        <subtitle lang="dm" line="there was a fishmongers."/>
+      <subtitle lang="saa" line="There was a fishmongers"/><subtitle lang="lba" line="There was a fishmongers"/>
+				<subtitle lang="ine" line="there was a fishmongers."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="120728" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y avait un restaurant." start="124178" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="1033"/>
+      <highlight index="3" start="2543" length="523"/>
+      <highlight index="4" start="3027" length="1285"/>
+      <subtitles>
+        <subtitle lang="en" line="there was a restaurant."/>
+        <subtitle lang="zw" line="there was a restaurant."/>
+        <subtitle lang="ng" line="there was a restaurant."/>
+        <subtitle lang="ni" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="bz" line="there was a restaurant."/>
+        <subtitle lang="dk" line="Var der en indisk restaurant"/>
+        <subtitle lang="ag" line="there was a restaurant."/>
+        <subtitle lang="bw" line="there was a restaurant."/>
+        <subtitle lang="au" line="there was a restaurant."/>
+        <subtitle lang="ec" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="pr" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="mt" line="there was a restaurant."/>
+        <subtitle lang="ae" line="there was a restaurant."/>
+        <subtitle lang="to" line="there was a restaurant."/>
+        <subtitle lang="lb" line="there was a restaurant."/>
+        <subtitle lang="es" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="rw" line="there was a restaurant."/>
+        <subtitle lang="ve" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="pe" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="gy" line="there was a restaurant."/>
+        <subtitle lang="zm" line="there was a restaurant."/>
+        <subtitle lang="ws" line="there was a restaurant."/>
+        <subtitle lang="sg" line="there was a restaurant."/>
+        <subtitle lang="sa" line="there was a restaurant."/>
+        <subtitle lang="mx" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="do" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="bs" line="there was a restaurant."/>
+        <subtitle lang="ug" line="there was a restaurant."/>
+        <subtitle lang="fj" line="there was a restaurant."/>
+        <subtitle lang="tz" line="there was a restaurant."/>
+        <subtitle lang="co" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="nz" line="there was a restaurant."/>
+        <subtitle lang="jm" line="there was a restaurant."/>
+        <subtitle lang="pk" line="there was a restaurant."/>
+        <subtitle lang="ca" line="there was a restaurant."/>
+        <subtitle lang="ar" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="py" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="na" line="there was a restaurant."/>
+        <subtitle lang="me" line="There was an Indian restaurant"/>
+        <subtitle lang="cu" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="gh" line="there was a restaurant."/>
+        <subtitle lang="sv" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="gm" line="there was a restaurant."/>
+        <subtitle lang="vu" line="there was a restaurant."/>
+        <subtitle lang="cl" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="us" line="there was a restaurant."/>
+        <subtitle lang="bd" line="there was a restaurant."/>
+        <subtitle lang="ke" line="there was a restaurant."/>
+        <subtitle lang="sb" line="there was a restaurant."/>
+        <subtitle lang="cr" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="sp" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="vc" line="there was a restaurant."/>
+        <subtitle lang="za" line="there was a restaurant."/>
+        <subtitle lang="tt" line="there was a restaurant."/>
+        <subtitle lang="mu" line="there was a restaurant."/>
+        <subtitle lang="bo" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="sl" line="there was a restaurant."/>
+        <subtitle lang="pa" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="sco" line="there was a restaurant."/>
+        <subtitle lang="hn" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="gt" line="hab&#xED;a un restaurante."/>
+        <subtitle lang="dm" line="there was a restaurant."/>
+      <subtitle lang="saa" line="There was an Indian restaurant"/><subtitle lang="lba" line="There was an Indian restaurant"/>
+				<subtitle lang="ine" line="there was a restaurant."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="128731" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y avait une boucherie." start="132042" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="1033"/>
+      <highlight index="3" start="2543" length="523"/>
+      <highlight index="4" start="3027" length="1285"/>
+      <subtitles>
+        <subtitle lang="en" line="there was a butchers."/>
+        <subtitle lang="zw" line="there was a butchers."/>
+        <subtitle lang="ng" line="there was a butchers."/>
+        <subtitle lang="ni" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="bz" line="there was a butchers."/>
+        <subtitle lang="dk" line="Var der en slagter"/>
+        <subtitle lang="ag" line="there was a butchers."/>
+        <subtitle lang="bw" line="there was a butchers."/>
+        <subtitle lang="au" line="there was a butchers."/>
+        <subtitle lang="ec" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="pr" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="mt" line="there was a butchers."/>
+        <subtitle lang="ae" line="there was a butchers."/>
+        <subtitle lang="to" line="there was a butchers."/>
+        <subtitle lang="lb" line="there was a butchers."/>
+        <subtitle lang="es" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="rw" line="there was a butchers."/>
+        <subtitle lang="ve" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="pe" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="gy" line="there was a butchers."/>
+        <subtitle lang="zm" line="there was a butchers."/>
+        <subtitle lang="ws" line="there was a butchers."/>
+        <subtitle lang="sg" line="there was a butchers."/>
+        <subtitle lang="sa" line="there was a butchers."/>
+        <subtitle lang="mx" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="do" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="bs" line="there was a butchers."/>
+        <subtitle lang="ug" line="there was a butchers."/>
+        <subtitle lang="fj" line="there was a butchers."/>
+        <subtitle lang="tz" line="there was a butchers."/>
+        <subtitle lang="co" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="nz" line="there was a butchers."/>
+        <subtitle lang="jm" line="there was a butchers."/>
+        <subtitle lang="pk" line="there was a butchers."/>
+        <subtitle lang="ca" line="there was a butchers."/>
+        <subtitle lang="ar" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="py" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="na" line="there was a butchers."/>
+        <subtitle lang="me" line="There was a butchers shop"/>
+        <subtitle lang="cu" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="gh" line="there was a butchers."/>
+        <subtitle lang="sv" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="gm" line="there was a butchers."/>
+        <subtitle lang="vu" line="there was a butchers."/>
+        <subtitle lang="cl" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="us" line="there was a butchers."/>
+        <subtitle lang="bd" line="there was a butchers."/>
+        <subtitle lang="ke" line="there was a butchers."/>
+        <subtitle lang="sb" line="there was a butchers."/>
+        <subtitle lang="cr" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="sp" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="vc" line="there was a butchers."/>
+        <subtitle lang="za" line="there was a butchers."/>
+        <subtitle lang="tt" line="there was a butchers."/>
+        <subtitle lang="mu" line="there was a butchers."/>
+        <subtitle lang="bo" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="sl" line="there was a butchers."/>
+        <subtitle lang="pa" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="sco" line="there was a butchers."/>
+        <subtitle lang="hn" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="gt" line="hab&#xED;a una carnicer&#xED;a."/>
+        <subtitle lang="dm" line="there was a butchers."/>
+      <subtitle lang="saa" line="There was a butchers shop"/><subtitle lang="lba" line="There was a butchers shop"/>
+				<subtitle lang="ine" line="there was a butchers."/>
+			</subtitles>
+    </line>
+    <line words="Et dans mon quartier" start="136596" length="3311">
+      <highlight index="0" start="237" length="451"/>
+      <highlight index="1" start="677" length="402"/>
+      <highlight index="2" start="1103" length="324"/>
+      <highlight index="3" start="1418" length="716"/>
+      <subtitles>
+        <subtitle lang="en" line="And in my neighbourhood"/>
+        <subtitle lang="zw" line="And in my neighbourhood"/>
+        <subtitle lang="ng" line="And in my neighbourhood"/>
+        <subtitle lang="ni" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bz" line="And in my neighbourhood"/>
+        <subtitle lang="dk" line="Der hvor jeg bor.  "/>
+        <subtitle lang="ag" line="And in my neighbourhood"/>
+        <subtitle lang="bw" line="And in my neighbourhood"/>
+        <subtitle lang="au" line="And in my neighbourhood"/>
+        <subtitle lang="ec" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="mt" line="And in my neighbourhood"/>
+        <subtitle lang="ae" line="And in my neighbourhood"/>
+        <subtitle lang="to" line="And in my neighbourhood"/>
+        <subtitle lang="lb" line="And in my neighbourhood"/>
+        <subtitle lang="es" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="rw" line="And in my neighbourhood"/>
+        <subtitle lang="ve" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="pe" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gy" line="And in my neighbourhood"/>
+        <subtitle lang="zm" line="And in my neighbourhood"/>
+        <subtitle lang="ws" line="And in my neighbourhood"/>
+        <subtitle lang="sg" line="And in my neighbourhood"/>
+        <subtitle lang="sa" line="And in my neighbourhood"/>
+        <subtitle lang="mx" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="do" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="bs" line="And in my neighbourhood"/>
+        <subtitle lang="ug" line="And in my neighbourhood"/>
+        <subtitle lang="fj" line="And in my neighbourhood"/>
+        <subtitle lang="tz" line="And in my neighbourhood"/>
+        <subtitle lang="co" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="nz" line="And in my neighbourhood"/>
+        <subtitle lang="jm" line="And in my neighbourhood"/>
+        <subtitle lang="pk" line="And in my neighbourhood"/>
+        <subtitle lang="ca" line="And in my neighbourhood"/>
+        <subtitle lang="ar" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="py" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="na" line="And in my neighbourhood"/>
+        <subtitle lang="me" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+        <subtitle lang="cu" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gh" line="And in my neighbourhood"/>
+        <subtitle lang="sv" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gm" line="And in my neighbourhood"/>
+        <subtitle lang="vu" line="And in my neighbourhood"/>
+        <subtitle lang="cl" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="us" line="And in my neighbourhood"/>
+        <subtitle lang="bd" line="And in my neighbourhood"/>
+        <subtitle lang="ke" line="And in my neighbourhood"/>
+        <subtitle lang="sb" line="And in my neighbourhood"/>
+        <subtitle lang="cr" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sp" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="vc" line="And in my neighbourhood"/>
+        <subtitle lang="za" line="And in my neighbourhood"/>
+        <subtitle lang="tt" line="And in my neighbourhood"/>
+        <subtitle lang="mu" line="And in my neighbourhood"/>
+        <subtitle lang="bo" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sl" line="And in my neighbourhood"/>
+        <subtitle lang="pa" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="sco" line="And in my neighbourhood"/>
+        <subtitle lang="hn" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="gt" line="Y en mi &#xE1;rea. "/>
+        <subtitle lang="dm" line="And in my neighbourhood"/>
+      <subtitle lang="saa" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x641;&#x64A; &#x645;&#x646;&#x637;&#x642;&#x62A;&#x64A;"/>
+				<subtitle lang="ine" line="And in my neighbourhood"/>
+			</subtitles>
+    </line>
+    <line words="il y avait un cin&#xE9;ma." start="140183" length="4416">
+      <highlight index="0" start="761" length="368"/>
+      <highlight index="1" start="1136" length="381"/>
+      <highlight index="2" start="1510" length="1033"/>
+      <highlight index="3" start="2543" length="523"/>
+      <highlight index="4" start="3027" length="1285"/>
+      <subtitles>
+        <subtitle lang="en" line="there was a cinema."/>
+        <subtitle lang="zw" line="there was a cinema."/>
+        <subtitle lang="ng" line="there was a cinema."/>
+        <subtitle lang="ni" line="hab&#xED;a un cine."/>
+        <subtitle lang="bz" line="there was a cinema."/>
+        <subtitle lang="dk" line="Var der en biograf"/>
+        <subtitle lang="ag" line="there was a cinema."/>
+        <subtitle lang="bw" line="there was a cinema."/>
+        <subtitle lang="au" line="there was a cinema."/>
+        <subtitle lang="ec" line="hab&#xED;a un cine."/>
+        <subtitle lang="pr" line="hab&#xED;a un cine."/>
+        <subtitle lang="mt" line="there was a cinema."/>
+        <subtitle lang="ae" line="there was a cinema."/>
+        <subtitle lang="to" line="there was a cinema."/>
+        <subtitle lang="lb" line="there was a cinema."/>
+        <subtitle lang="es" line="hab&#xED;a un cine."/>
+        <subtitle lang="rw" line="there was a cinema."/>
+        <subtitle lang="ve" line="hab&#xED;a un cine."/>
+        <subtitle lang="pe" line="hab&#xED;a un cine."/>
+        <subtitle lang="gy" line="there was a cinema."/>
+        <subtitle lang="zm" line="there was a cinema."/>
+        <subtitle lang="ws" line="there was a cinema."/>
+        <subtitle lang="sg" line="there was a cinema."/>
+        <subtitle lang="sa" line="there was a cinema."/>
+        <subtitle lang="mx" line="hab&#xED;a un cine."/>
+        <subtitle lang="do" line="hab&#xED;a un cine."/>
+        <subtitle lang="bs" line="there was a cinema."/>
+        <subtitle lang="ug" line="there was a cinema."/>
+        <subtitle lang="fj" line="there was a cinema."/>
+        <subtitle lang="tz" line="there was a cinema."/>
+        <subtitle lang="co" line="hab&#xED;a un cine."/>
+        <subtitle lang="nz" line="there was a cinema."/>
+        <subtitle lang="jm" line="there was a cinema."/>
+        <subtitle lang="pk" line="there was a cinema."/>
+        <subtitle lang="ca" line="there was a cinema."/>
+        <subtitle lang="ar" line="hab&#xED;a un cine."/>
+        <subtitle lang="py" line="hab&#xED;a un cine."/>
+        <subtitle lang="na" line="there was a cinema."/>
+        <subtitle lang="me" line="There was a cinema"/>
+        <subtitle lang="cu" line="hab&#xED;a un cine."/>
+        <subtitle lang="gh" line="there was a cinema."/>
+        <subtitle lang="sv" line="hab&#xED;a un cine."/>
+        <subtitle lang="gm" line="there was a cinema."/>
+        <subtitle lang="vu" line="there was a cinema."/>
+        <subtitle lang="cl" line="hab&#xED;a un cine."/>
+        <subtitle lang="us" line="there was a cinema."/>
+        <subtitle lang="bd" line="there was a cinema."/>
+        <subtitle lang="ke" line="there was a cinema."/>
+        <subtitle lang="sb" line="there was a cinema."/>
+        <subtitle lang="cr" line="hab&#xED;a un cine."/>
+        <subtitle lang="sp" line="hab&#xED;a un cine."/>
+        <subtitle lang="vc" line="there was a cinema."/>
+        <subtitle lang="za" line="there was a cinema."/>
+        <subtitle lang="tt" line="there was a cinema."/>
+        <subtitle lang="mu" line="there was a cinema."/>
+        <subtitle lang="bo" line="hab&#xED;a un cine."/>
+        <subtitle lang="sl" line="there was a cinema."/>
+        <subtitle lang="pa" line="hab&#xED;a un cine."/>
+        <subtitle lang="sco" line="there was a cinema."/>
+        <subtitle lang="hn" line="hab&#xED;a un cine."/>
+        <subtitle lang="gt" line="hab&#xED;a un cine."/>
+        <subtitle lang="dm" line="there was a cinema."/>
+      <subtitle lang="saa" line="There was a cinema"/><subtitle lang="lba" line="There was a cinema"/>
+				<subtitle lang="ine" line="there was a cinema."/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

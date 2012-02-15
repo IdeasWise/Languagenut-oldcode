@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="120111" >
+	<lines>
+		<line words="Hola, ¿cómo te llamas?" start="6419" length="4000" >
+			<highlight index="0" start="729" length="645" />
+			<highlight index="1" start="1357" length="826" />
+			<highlight index="2" start="2155" length="436" />
+			<highlight index="3" start="2585" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Juan." start="11389" length="4000" >
+			<highlight index="0" start="605" length="781" />
+			<highlight index="1" start="1357" length="294" />
+			<highlight index="2" start="1634" length="527" />
+			<highlight index="3" start="2138" length="385" />
+			<highlight index="4" start="2506" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my name is John." />
+			</subtitles>
+		</line>
+		<line words="Hola, ¿cómo te llamas?" start="15842" length="4000" >
+			<highlight index="0" start="825" length="713" />
+			<highlight index="1" start="1516" length="826" />
+			<highlight index="2" start="2313" length="486" />
+			<highlight index="3" start="2777" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Mari." start="20915" length="4000" >
+			<highlight index="0" start="605" length="781" />
+			<highlight index="1" start="1357" length="294" />
+			<highlight index="2" start="1634" length="527" />
+			<highlight index="3" start="2138" length="385" />
+			<highlight index="4" start="2506" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my name is Mary." />
+			</subtitles>
+		</line>
+		<line words="¿Y tú?" start="24954" length="3209" >
+			<highlight index="0" start="953" length="385" />
+			<highlight index="1" start="1320" length="704" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+			</subtitles>
+		</line>
+		<line words="Hola, ¿cómo te llamas?" start="35204" length="4000" >
+			<highlight index="0" start="825" length="713" />
+			<highlight index="1" start="1516" length="826" />
+			<highlight index="2" start="2313" length="486" />
+			<highlight index="3" start="2777" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Oli." start="40175" length="4000" >
+			<highlight index="0" start="605" length="781" />
+			<highlight index="1" start="1357" length="294" />
+			<highlight index="2" start="1634" length="527" />
+			<highlight index="3" start="2138" length="385" />
+			<highlight index="4" start="2506" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my name is Oliver." />
+			</subtitles>
+		</line>
+		<line words="Hola, ¿cómo te llamas?" start="44730" length="4000" >
+			<highlight index="0" start="701" length="837" />
+			<highlight index="1" start="1516" length="826" />
+			<highlight index="2" start="2313" length="486" />
+			<highlight index="3" start="2777" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Teo." start="49597" length="4000" >
+			<highlight index="0" start="605" length="781" />
+			<highlight index="1" start="1357" length="294" />
+			<highlight index="2" start="1634" length="527" />
+			<highlight index="3" start="2138" length="385" />
+			<highlight index="4" start="2506" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my names Theo." />
+			</subtitles>
+		</line>
+		<line words="¿Y tú?" start="53325" length="3209" >
+			<highlight index="0" start="953" length="385" />
+			<highlight index="1" start="1320" length="704" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+			</subtitles>
+		</line>
+		<line words="Hola, ¿cómo te llamas?" start="63886" length="4000" >
+			<highlight index="0" start="825" length="713" />
+			<highlight index="1" start="1516" length="775" />
+			<highlight index="2" start="2268" length="531" />
+			<highlight index="3" start="2777" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Amy." start="68960" length="4000" >
+			<highlight index="0" start="605" length="662" />
+			<highlight index="1" start="1255" length="294" />
+			<highlight index="2" start="1521" length="527" />
+			<highlight index="3" start="2030" length="385" />
+			<highlight index="4" start="2398" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my name is Amy." />
+			</subtitles>
+		</line>
+		<line words="Hola, ¿cómo te llamas?" start="73412" length="4000" >
+			<highlight index="0" start="825" length="713" />
+			<highlight index="1" start="1516" length="775" />
+			<highlight index="2" start="2268" length="531" />
+			<highlight index="3" start="2777" length="690" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what’s your name?" />
+			</subtitles>
+		</line>
+		<line words="Hola, mi nombre es Zara." start="78486" length="4000" >
+			<highlight index="0" start="605" length="662" />
+			<highlight index="1" start="1255" length="294" />
+			<highlight index="2" start="1521" length="527" />
+			<highlight index="3" start="2030" length="385" />
+			<highlight index="4" start="2398" length="650" />
+			<subtitles>
+				<subtitle lang="en" line="Hi, my name is Sarah." />
+			</subtitles>
+		</line>
+		<line words="¿Y tú?" start="82938" length="2071" >
+			<highlight index="0" start="536" length="385" />
+			<highlight index="1" start="906" length="704" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+			</subtitles>
+		</line>
+		<line words="Mi hermana se llama Jane." start="92154" length="4000" >
+			<highlight index="0" start="967" length="362" />
+			<highlight index="1" start="1301" length="820" />
+			<highlight index="2" start="2081" length="402" />
+			<highlight index="3" start="2455" length="690" />
+			<highlight index="4" start="3117" length="741" />
+			<subtitles>
+				<subtitle lang="en" line="My sister’s name is Jane." />
+			</subtitles>
+		</line>
+		<line words="Mi hermano se llama Paul." start="97020" length="4000" >
+			<highlight index="0" start="967" length="362" />
+			<highlight index="1" start="1301" length="882" />
+			<highlight index="2" start="2183" length="294" />
+			<highlight index="3" start="2477" length="617" />
+			<highlight index="4" start="3071" length="741" />
+			<subtitles>
+				<subtitle lang="en" line="My brother’s name is Paul." />
+			</subtitles>
+		</line>
+		<line words="Mi mamá se llama Jenny." start="102197" length="4000" >
+			<highlight index="0" start="1040" length="289" />
+			<highlight index="1" start="1301" length="803" />
+			<highlight index="2" start="2076" length="294" />
+			<highlight index="3" start="2347" length="617" />
+			<highlight index="4" start="2947" length="741" />
+			<subtitles>
+				<subtitle lang="en" line="My mum’s name is Jenny." />
+			</subtitles>
+		</line>
+		<line words="Mi papá se llama Pedro." start="107271" length="3689" >
+			<highlight index="0" start="729" length="289" />
+			<highlight index="1" start="990" length="721" />
+			<highlight index="2" start="1690" length="294" />
+			<highlight index="3" start="1966" length="617" />
+			<highlight index="4" start="2556" length="741" />
+			<subtitles>
+				<subtitle lang="en" line="My dad’s name is Peter." />
+			</subtitles>
+		</line>
+		<line words="¡Es todo!" start="111413" length="2795" >
+			<highlight index="0" start="830" length="399" />
+			<highlight index="1" start="1213" length="656" />
+			<subtitles>
+				<subtitle lang="en" line="That’s all!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

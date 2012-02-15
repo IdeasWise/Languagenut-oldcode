@@ -1,0 +1,547 @@
+<?xml version="1.0"?>
+<karaoke length="68310">
+  <lines>
+    <line words="Le Fant&#xF4;me. " start="0" length="3570" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="ws" line="The Ghost."/>
+        <subtitle lang="vu" line="The Ghost."/>
+        <subtitle lang="na" line="The Ghost."/>
+        <subtitle lang="lb" line="The Ghost."/>
+        <subtitle lang="en" line="The Ghost."/>
+        <subtitle lang="dk" line="Sp&#xF8;gelset."/>
+        <subtitle lang="mt" line="The Ghost."/>
+        <subtitle lang="ca" line="The Ghost."/>
+        <subtitle lang="bs" line="The Ghost."/>
+        <subtitle lang="sb" line="The Ghost."/>
+        <subtitle lang="sg" line="The Ghost."/>
+        <subtitle lang="bz" line="The Ghost."/>
+        <subtitle lang="ae" line="The Ghost."/>
+        <subtitle lang="sl" line="The Ghost."/>
+        <subtitle lang="gh" line="The Ghost."/>
+        <subtitle lang="ag" line="The Ghost."/>
+        <subtitle lang="sa" line="The Ghost."/>
+        <subtitle lang="sco" line="The Ghost."/>
+        <subtitle lang="tt" line="The Ghost."/>
+        <subtitle lang="za" line="The Ghost."/>
+        <subtitle lang="dm" line="The Ghost."/>
+        <subtitle lang="gm" line="The Ghost."/>
+        <subtitle lang="tz" line="The Ghost."/>
+        <subtitle lang="au" line="The Ghost."/>
+        <subtitle lang="zw" line="The Ghost."/>
+        <subtitle lang="mu" line="The Ghost."/>
+        <subtitle lang="nl" line="Het spook."/>
+        <subtitle lang="bw" line="The Ghost."/>
+        <subtitle lang="ug" line="The Ghost."/>
+        <subtitle lang="nz" line="The Ghost."/>
+        <subtitle lang="zm" line="The Ghost."/>
+        <subtitle lang="pk" line="The Ghost."/>
+        <subtitle lang="fj" line="The Ghost."/>
+        <subtitle lang="rw" line="The Ghost."/>
+        <subtitle lang="bd" line="The Ghost."/>
+        <subtitle lang="gy" line="The Ghost."/>
+        <subtitle lang="ng" line="The Ghost."/>
+        <subtitle lang="vc" line="The Ghost."/>
+        <subtitle lang="us" line="The Ghost."/>
+        <subtitle lang="to" line="The Ghost."/>
+        <subtitle lang="jm" line="The Ghost."/>
+        <subtitle lang="ke" line="The Ghost."/>
+      <subtitle lang="ine" line="The Ghost."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1255" length="200"/>
+        <highlight index="1" start="1441" length="687"/>
+      </highlights>
+    </line>
+    <line words="Il est minuit, il y a un fant&#xF4;me dans notre &#xE9;cole." start="3395" length="7316" useLNutResource="true" useStoryResource="false" image="23#4#7">
+      <subtitles>
+        <subtitle lang="ws" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="vu" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="na" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="lb" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="cl" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="en" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="dk" line="Det er midnat, og der er et sp&#xF8;gelse p&#xE5; skolen."/>
+        <subtitle lang="mt" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ca" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="bs" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="sb" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="me" line="&#x625;&#x646;&#x647; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x644;&#x64A;&#x644;&#x60C; &#x648;&#x647;&#x646;&#x627;&#x643; &#x634;&#x628;&#x62D; &#x641;&#x64A; &#x645;&#x62F;&#x631;&#x633;&#x62A;&#x646;&#x627;."/>
+        <subtitle lang="bz" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ae" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="sl" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="gh" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ag" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="sa" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="sco" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="tt" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="za" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="dm" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="gm" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="tz" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="au" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="zw" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="mu" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="nl" line="Het is middernacht en er is een spook in onze school."/>
+        <subtitle lang="bw" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ug" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="nz" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="zm" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="pk" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="sg" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="fj" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="rw" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="bd" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="gy" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ng" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="vc" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="saa" line="&#x625;&#x646;&#x647; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x644;&#x64A;&#x644;&#x60C; &#x648;&#x647;&#x646;&#x627;&#x643; &#x634;&#x628;&#x62D; &#x641;&#x64A; &#x645;&#x62F;&#x631;&#x633;&#x62A;&#x646;&#x627;."/>
+        <subtitle lang="us" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="to" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="lba" line="&#x625;&#x646;&#x647; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x644;&#x64A;&#x644;&#x60C; &#x648;&#x647;&#x646;&#x627;&#x643; &#x634;&#x628;&#x62D; &#x641;&#x64A; &#x645;&#x62F;&#x631;&#x633;&#x62A;&#x646;&#x627;."/>
+        <subtitle lang="jm" line="It is midnight, there is a ghost in our school."/>
+        <subtitle lang="ke" line="It is midnight, there is a ghost in our school."/>
+      <subtitle lang="mx" line="It is midnight, there is a ghost in our school."/><subtitle lang="es" line="It is midnight, there is a ghost in our school."/><subtitle lang="co" line="It is midnight, there is a ghost in our school."/><subtitle lang="gt" line="It is midnight, there is a ghost in our school."/><subtitle lang="pe" line="It is midnight, there is a ghost in our school."/><subtitle lang="ni" line="It is midnight, there is a ghost in our school."/><subtitle lang="do" line="It is midnight, there is a ghost in our school."/><subtitle lang="bo" line="It is midnight, there is a ghost in our school."/><subtitle lang="ve" line="It is midnight, there is a ghost in our school."/><subtitle lang="ar" line="It is midnight, there is a ghost in our school."/><subtitle lang="cu" line="It is midnight, there is a ghost in our school."/><subtitle lang="pr" line="It is midnight, there is a ghost in our school."/><subtitle lang="py" line="It is midnight, there is a ghost in our school."/><subtitle lang="ec" line="It is midnight, there is a ghost in our school."/><subtitle lang="hn" line="It is midnight, there is a ghost in our school."/><subtitle lang="sv" line="It is midnight, there is a ghost in our school."/><subtitle lang="cr" line="It is midnight, there is a ghost in our school."/><subtitle lang="pa" line="It is midnight, there is a ghost in our school."/>
+				<subtitle lang="ine" line="It is midnight, there is a ghost in our school."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2360" length="200"/>
+        <highlight index="1" start="2530" length="200"/>
+        <highlight index="2" start="2667" length="657"/>
+        <highlight index="3" start="3631" length="200"/>
+        <highlight index="4" start="3790" length="200"/>
+        <highlight index="5" start="3938" length="200"/>
+        <highlight index="6" start="4012" length="200"/>
+        <highlight index="7" start="4150" length="836"/>
+        <highlight index="8" start="4933" length="307"/>
+        <highlight index="9" start="5198" length="317"/>
+        <highlight index="10" start="5441" length="561"/>
+      </highlights>
+    </line>
+    <line words="Il est &#xE0; la biblioth&#xE8;que, et &#xE0; l&#x2019;entr&#xE9;e." start="10653" length="6790" useLNutResource="true" useStoryResource="false" image="23#4#7">
+      <subtitles>
+        <subtitle lang="ws" line="He is in the library and the entrance."/>
+        <subtitle lang="vu" line="He is in the library and the entrance."/>
+        <subtitle lang="na" line="He is in the library and the entrance."/>
+        <subtitle lang="lb" line="He is in the library and the entrance."/>
+        <subtitle lang="cl" line="He is in the library and the entrance."/>
+        <subtitle lang="en" line="He is in the library and the entrance."/>
+        <subtitle lang="dk" line="Han er p&#xE5; biblioteket og ved indgangen."/>
+        <subtitle lang="mt" line="He is in the library and the entrance."/>
+        <subtitle lang="ca" line="He is in the library and the entrance."/>
+        <subtitle lang="bs" line="He is in the library and the entrance."/>
+        <subtitle lang="sb" line="He is in the library and the entrance."/>
+        <subtitle lang="me" line="&#x627;&#x646;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x643;&#x62A;&#x628;&#x629; &#x648;&#x627;&#x644;&#x645;&#x62F;&#x62E;&#x644;."/>
+        <subtitle lang="bz" line="He is in the library and the entrance."/>
+        <subtitle lang="ae" line="He is in the library and the entrance."/>
+        <subtitle lang="sl" line="He is in the library and the entrance."/>
+        <subtitle lang="gh" line="He is in the library and the entrance."/>
+        <subtitle lang="ag" line="He is in the library and the entrance."/>
+        <subtitle lang="sa" line="He is in the library and the entrance."/>
+        <subtitle lang="sco" line="He is in the library and the entrance."/>
+        <subtitle lang="tt" line="He is in the library and the entrance."/>
+        <subtitle lang="za" line="He is in the library and the entrance."/>
+        <subtitle lang="dm" line="He is in the library and the entrance."/>
+        <subtitle lang="gm" line="He is in the library and the entrance."/>
+        <subtitle lang="tz" line="He is in the library and the entrance."/>
+        <subtitle lang="au" line="He is in the library and the entrance."/>
+        <subtitle lang="zw" line="He is in the library and the entrance."/>
+        <subtitle lang="mu" line="He is in the library and the entrance."/>
+        <subtitle lang="nl" line="Hij is in de bibliotheek en bij de ingang."/>
+        <subtitle lang="bw" line="He is in the library and the entrance."/>
+        <subtitle lang="ug" line="He is in the library and the entrance."/>
+        <subtitle lang="nz" line="He is in the library and the entrance."/>
+        <subtitle lang="zm" line="He is in the library and the entrance."/>
+        <subtitle lang="pk" line="He is in the library and the entrance."/>
+        <subtitle lang="sg" line="He is in the library and the entrance."/>
+        <subtitle lang="fj" line="He is in the library and the entrance."/>
+        <subtitle lang="rw" line="He is in the library and the entrance."/>
+        <subtitle lang="bd" line="He is in the library and the entrance."/>
+        <subtitle lang="gy" line="He is in the library and the entrance."/>
+        <subtitle lang="ng" line="He is in the library and the entrance."/>
+        <subtitle lang="vc" line="He is in the library and the entrance."/>
+        <subtitle lang="saa" line="&#x627;&#x646;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x643;&#x62A;&#x628;&#x629; &#x648;&#x627;&#x644;&#x645;&#x62F;&#x62E;&#x644;."/>
+        <subtitle lang="us" line="He is in the library and the entrance."/>
+        <subtitle lang="to" line="He is in the library and the entrance."/>
+        <subtitle lang="lba" line="&#x627;&#x646;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x643;&#x62A;&#x628;&#x629; &#x648;&#x627;&#x644;&#x645;&#x62F;&#x62E;&#x644;."/>
+        <subtitle lang="jm" line="He is in the library and the entrance."/>
+        <subtitle lang="ke" line="He is in the library and the entrance."/>
+      <subtitle lang="mx" line="He is in the library and the entrance."/><subtitle lang="es" line="He is in the library and the entrance."/><subtitle lang="co" line="He is in the library and the entrance."/><subtitle lang="gt" line="He is in the library and the entrance."/><subtitle lang="pe" line="He is in the library and the entrance."/><subtitle lang="ni" line="He is in the library and the entrance."/><subtitle lang="do" line="He is in the library and the entrance."/><subtitle lang="bo" line="He is in the library and the entrance."/><subtitle lang="ve" line="He is in the library and the entrance."/><subtitle lang="ar" line="He is in the library and the entrance."/><subtitle lang="cu" line="He is in the library and the entrance."/><subtitle lang="pr" line="He is in the library and the entrance."/><subtitle lang="py" line="He is in the library and the entrance."/><subtitle lang="ec" line="He is in the library and the entrance."/><subtitle lang="hn" line="He is in the library and the entrance."/><subtitle lang="sv" line="He is in the library and the entrance."/><subtitle lang="cr" line="He is in the library and the entrance."/><subtitle lang="pa" line="He is in the library and the entrance."/>
+				<subtitle lang="ine" line="He is in the library and the entrance."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2210" length="200"/>
+        <highlight index="1" start="2309" length="200"/>
+        <highlight index="2" start="2485" length="200"/>
+        <highlight index="3" start="2643" length="157"/>
+        <highlight index="4" start="2751" length="864"/>
+        <highlight index="5" start="4185" length="200"/>
+        <highlight index="6" start="4323" length="200"/>
+        <highlight index="7" start="4441" length="805"/>
+      </highlights>
+    </line>
+    <line words="Il aime le sport, l&#x2019;art, le fran&#xE7;ais et la g&#xE9;ographie. Il d&#xE9;teste les maths, la science et la technologie." start="17326" length="10653" useLNutResource="true" useStoryResource="false" image="19#4#4">
+      <subtitles>
+        <subtitle lang="ws" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="vu" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="na" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="lb" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="cl" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="en" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="dk" line="Han kan godt lide sport, billedkunst, fransk og geografi. Han hader matematik, historie, natur/teknik og teknologi."/>
+        <subtitle lang="mt" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ca" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="bs" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="sb" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="me" line="&#x627;&#x646;&#x647; &#x64A;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629; &#x648;&#x627;&#x644;&#x641;&#x646; &#x648;&#x627;&#x644;&#x641;&#x631;&#x646;&#x633;&#x64A;&#x629; &#x648;&#x627;&#x644;&#x62C;&#x63A;&#x631;&#x627;&#x641;&#x64A;&#x627;. &#x627;&#x646;&#x647; &#x64A;&#x643;&#x631;&#x647; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x64A;&#x627;&#x62A; &#x648;&#x627;&#x644;&#x62A;&#x627;&#x631;&#x64A;&#x62E; &#x648;&#x627;&#x644;&#x639;&#x644;&#x648;&#x645; &#x648;&#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627;."/>
+        <subtitle lang="bz" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ae" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="sl" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="gh" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ag" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="sa" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="sco" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="tt" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="za" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="dm" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="gm" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="tz" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="au" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="zw" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="mu" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="nl" line="Hij houdt van gym, tekenen, Frans en aardrijkskunde. Hij haat wiskunde, geschiedenis, natuurkunde en techniek."/>
+        <subtitle lang="bw" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ug" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="nz" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="zm" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="pk" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="sg" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="fj" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="rw" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="bd" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="gy" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ng" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="vc" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="saa" line="&#x627;&#x646;&#x647; &#x64A;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629; &#x648;&#x627;&#x644;&#x641;&#x646; &#x648;&#x627;&#x644;&#x641;&#x631;&#x646;&#x633;&#x64A;&#x629; &#x648;&#x627;&#x644;&#x62C;&#x63A;&#x631;&#x627;&#x641;&#x64A;&#x627;. &#x627;&#x646;&#x647; &#x64A;&#x643;&#x631;&#x647; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x64A;&#x627;&#x62A; &#x648;&#x627;&#x644;&#x62A;&#x627;&#x631;&#x64A;&#x62E; &#x648;&#x627;&#x644;&#x639;&#x644;&#x648;&#x645; &#x648;&#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627;."/>
+        <subtitle lang="us" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="to" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="lba" line="&#x627;&#x646;&#x647; &#x64A;&#x62D;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629; &#x648;&#x627;&#x644;&#x641;&#x646; &#x648;&#x627;&#x644;&#x641;&#x631;&#x646;&#x633;&#x64A;&#x629; &#x648;&#x627;&#x644;&#x62C;&#x63A;&#x631;&#x627;&#x641;&#x64A;&#x627;. &#x627;&#x646;&#x647; &#x64A;&#x643;&#x631;&#x647; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x64A;&#x627;&#x62A; &#x648;&#x627;&#x644;&#x62A;&#x627;&#x631;&#x64A;&#x62E; &#x648;&#x627;&#x644;&#x639;&#x644;&#x648;&#x645; &#x648;&#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627;."/>
+        <subtitle lang="jm" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+        <subtitle lang="ke" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+      <subtitle lang="mx" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="es" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="co" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="gt" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="pe" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="ni" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="do" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="bo" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="ve" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="ar" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="cu" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="pr" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="py" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="ec" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="hn" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="sv" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="cr" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/><subtitle lang="pa" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+				<subtitle lang="ine" line="He likes sport, art, French and geography. He hates maths, history, science and technology."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2004" length="200"/>
+        <highlight index="1" start="2142" length="232"/>
+        <highlight index="2" start="2327" length="200"/>
+        <highlight index="3" start="2466" length="663"/>
+        <highlight index="4" start="3191" length="570"/>
+        <highlight index="5" start="3776" length="139"/>
+        <highlight index="6" start="3853" length="617"/>
+        <highlight index="7" start="4578" length="200"/>
+        <highlight index="8" start="4701" length="154"/>
+        <highlight index="9" start="4794" length="1017"/>
+        <highlight index="10" start="6042" length="200"/>
+        <highlight index="11" start="6181" length="524"/>
+        <highlight index="12" start="6644" length="215"/>
+        <highlight index="13" start="6798" length="493"/>
+        <highlight index="14" start="7384" length="262"/>
+        <highlight index="15" start="7584" length="555"/>
+        <highlight index="16" start="8093" length="200"/>
+        <highlight index="17" start="8201" length="169"/>
+        <highlight index="18" start="8309" length="1063"/>
+      </highlights>
+    </line>
+    <line words="Hier &#xE0; midi, &#xE0; la cantine j&#x2019;ai mang&#xE9; et j&#x2019;ai bu avec mes amis, et je l&#x2019;ai entendu dans la cuisine." start="27921" length="11063" useLNutResource="true" useStoryResource="false" image="19#1#2">
+      <subtitles>
+        <subtitle lang="ws" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="vu" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="na" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="lb" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="cl" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/>
+        <subtitle lang="en" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="dk" line="I g&#xE5;r sad jeg i kantinen til middag og spiste og drak sammen med mine venner, og jeg h&#xF8;rte ham i k&#xF8;kkenet."/>
+        <subtitle lang="mt" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ca" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="bs" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="sb" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="me" line="&#x628;&#x627;&#x644;&#x623;&#x645;&#x633; &#x641;&#x64A; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x646;&#x647;&#x627;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x639;&#x645; &#x623;&#x643;&#x644;&#x62A; &#x648;&#x634;&#x631;&#x628;&#x62A; &#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A; &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x628;&#x62E;."/>
+        <subtitle lang="bz" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ae" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="sl" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="gh" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ag" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="sa" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="sco" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="tt" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="za" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="dm" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="gm" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="tz" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="au" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="zw" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="mu" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="nl" line="Gistermiddag zat ik in de kantine te eten en te drinken met mijn vrienden en toen hoorde ik hem in de keuken."/>
+        <subtitle lang="bw" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ug" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="nz" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="zm" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="pk" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="sg" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="fj" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="rw" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="bd" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="gy" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ng" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="vc" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="saa" line="&#x628;&#x627;&#x644;&#x623;&#x645;&#x633; &#x641;&#x64A; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x646;&#x647;&#x627;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x639;&#x645; &#x623;&#x643;&#x644;&#x62A; &#x648;&#x634;&#x631;&#x628;&#x62A; &#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A; &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x628;&#x62E;."/>
+        <subtitle lang="us" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="to" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="lba" line="&#x628;&#x627;&#x644;&#x623;&#x645;&#x633; &#x641;&#x64A; &#x645;&#x646;&#x62A;&#x635;&#x641; &#x627;&#x644;&#x646;&#x647;&#x627;&#x631; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x639;&#x645; &#x623;&#x643;&#x644;&#x62A; &#x648;&#x634;&#x631;&#x628;&#x62A; &#x645;&#x639; &#x623;&#x635;&#x62F;&#x642;&#x627;&#x626;&#x64A; &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x645;&#x637;&#x628;&#x62E;."/>
+        <subtitle lang="jm" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+        <subtitle lang="ke" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+      <subtitle lang="mx" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="es" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="co" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="gt" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="pe" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="ni" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="do" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="bo" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="ve" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="ar" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="cu" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="pr" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="py" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="ec" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="hn" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="sv" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="cr" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/><subtitle lang="pa" line="Yesterday at midday in the canteen, I ate and I drank with my friends, and I heard him in the kitchen."/>
+				<subtitle lang="ine" line="Yesterday at midday in the canteen I ate and I drank with my friends and I heard him in the kitchen."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1953" length="560"/>
+        <highlight index="1" start="2737" length="248"/>
+        <highlight index="2" start="2897" length="544"/>
+        <highlight index="3" start="3586" length="200"/>
+        <highlight index="4" start="3746" length="200"/>
+        <highlight index="5" start="3874" length="608"/>
+        <highlight index="6" start="4818" length="272"/>
+        <highlight index="7" start="5026" length="513"/>
+        <highlight index="8" start="5443" length="200"/>
+        <highlight index="9" start="5539" length="288"/>
+        <highlight index="10" start="5731" length="240"/>
+        <highlight index="11" start="5939" length="416"/>
+        <highlight index="12" start="6307" length="208"/>
+        <highlight index="13" start="6435" length="544"/>
+        <highlight index="14" start="7107" length="200"/>
+        <highlight index="15" start="7236" length="200"/>
+        <highlight index="16" start="7364" length="240"/>
+        <highlight index="17" start="7540" length="752"/>
+        <highlight index="18" start="8244" length="208"/>
+        <highlight index="19" start="8372" length="200"/>
+        <highlight index="20" start="8516" length="769"/>
+      </highlights>
+    </line>
+    <line words="A la recr&#xE9;ation dans la cour, je jouais, je dansais, je chantais et je l&#x2019;ai entendu sur le terrain de sport." start="38867" length="10185" useLNutResource="true" useStoryResource="false" image="19#5#6">
+      <subtitles>
+        <subtitle lang="ws" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="vu" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="na" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="lb" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="cl" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/>
+        <subtitle lang="en" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="dk" line="I pausen ude p&#xE5; legepladsen legede, dansede og sang jeg, og jeg h&#xF8;rte ham p&#xE5; sportspladsen."/>
+        <subtitle lang="mt" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ca" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="bs" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="sb" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x648;&#x642;&#x62A; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x631;&#x627;&#x62D;&#x629; &#x641;&#x64A; &#x633;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x645;&#x644;&#x639;&#x628; &#x644;&#x639;&#x628;&#x62A;&#x64F; &#x648; &#x631;&#x642;&#x635;&#x62A; &#x648;&#x63A;&#x646;&#x64A;&#x62A;  &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647;  &#x641;&#x64A; &#x645;&#x644;&#x639;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629;."/>
+        <subtitle lang="bz" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ae" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="sl" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="gh" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ag" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="sa" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="sco" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="tt" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="za" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="dm" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="gm" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="tz" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="au" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="zw" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="mu" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="nl" line="In de pauze speelde ik op het schoolplein, ik danste, ik zong en toen hoorde ik hem op het sportveld."/>
+        <subtitle lang="bw" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ug" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="nz" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="zm" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="pk" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="sg" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="fj" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="rw" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="bd" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="gy" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ng" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="vc" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x648;&#x642;&#x62A; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x631;&#x627;&#x62D;&#x629; &#x641;&#x64A; &#x633;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x645;&#x644;&#x639;&#x628; &#x644;&#x639;&#x628;&#x62A;&#x64F; &#x648; &#x631;&#x642;&#x635;&#x62A; &#x648;&#x63A;&#x646;&#x64A;&#x62A;  &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647;  &#x641;&#x64A; &#x645;&#x644;&#x639;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629;."/>
+        <subtitle lang="us" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="to" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x648;&#x642;&#x62A; &#x627;&#x644;&#x627;&#x633;&#x62A;&#x631;&#x627;&#x62D;&#x629; &#x641;&#x64A; &#x633;&#x627;&#x62D;&#x629; &#x627;&#x644;&#x645;&#x644;&#x639;&#x628; &#x644;&#x639;&#x628;&#x62A;&#x64F; &#x648; &#x631;&#x642;&#x635;&#x62A; &#x648;&#x63A;&#x646;&#x64A;&#x62A;  &#x648;&#x644;&#x642;&#x62F; &#x633;&#x645;&#x639;&#x62A;&#x647;  &#x641;&#x64A; &#x645;&#x644;&#x639;&#x628; &#x627;&#x644;&#x631;&#x64A;&#x627;&#x636;&#x629;."/>
+        <subtitle lang="jm" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+        <subtitle lang="ke" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+      <subtitle lang="mx" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="es" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="co" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="gt" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="pe" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="ni" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="do" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="bo" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="ve" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="ar" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="cu" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="pr" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="py" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="ec" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="hn" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="sv" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="cr" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/><subtitle lang="pa" line="At breaktime in the playground, I played, I danced, I sang, and I heard him on the sports field."/>
+				<subtitle lang="ine" line="At breaktime in the playground I played, I danced, I sang and I heard him on the sports field."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1267" length="221"/>
+        <highlight index="1" start="1400" length="200"/>
+        <highlight index="2" start="1577" length="840"/>
+        <highlight index="3" start="2667" length="310"/>
+        <highlight index="4" start="2932" length="200"/>
+        <highlight index="5" start="3065" length="398"/>
+        <highlight index="6" start="3625" length="280"/>
+        <highlight index="7" start="3831" length="649"/>
+        <highlight index="8" start="4539" length="200"/>
+        <highlight index="9" start="4686" length="678"/>
+        <highlight index="10" start="5335" length="200"/>
+        <highlight index="11" start="5482" length="619"/>
+        <highlight index="12" start="6175" length="200"/>
+        <highlight index="13" start="6367" length="200"/>
+        <highlight index="14" start="6499" length="222"/>
+        <highlight index="15" start="6691" length="1061"/>
+        <highlight index="16" start="7708" length="177"/>
+        <highlight index="17" start="7840" length="200"/>
+        <highlight index="18" start="7958" length="354"/>
+        <highlight index="19" start="8253" length="147"/>
+        <highlight index="20" start="8327" length="737"/>
+      </highlights>
+    </line>
+    <line words=" Lundi dans la salle de classe, &#xE0; une heure et demie j&#x2019;&#xE9;tais en TIC et je l&#x2019;ai entendu dans le couloir." start="48993" length="10770" useLNutResource="true" useStoryResource="false" image="19#4#7">
+      <subtitles>
+        <subtitle lang="ws" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="vu" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="na" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="lb" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="cl" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="en" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="dk" line="Mandag halv to sad jeg i klassen og arbejdede med IT, og jeg h&#xF8;rte ham i aulaen."/>
+        <subtitle lang="mt" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ca" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="bs" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="sb" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="me" line="&#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x627;&#x62B;&#x646;&#x64A;&#x646; &#x641;&#x64A; &#x627;&#x644;&#x641;&#x635;&#x644; &#x627;&#x644;&#x62F;&#x631;&#x627;&#x633;&#x64A; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x648;&#x627;&#x62D;&#x62F;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x643;&#x646;&#x62A;&#x64F; &#x627;&#x639;&#x645;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62D;&#x627;&#x633;&#x648;&#x628; &#x641;&#x64A; &#x62F;&#x631;&#x633; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627; &#x648;&#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x642;&#x627;&#x639;&#x629;."/>
+        <subtitle lang="bz" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ae" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="sl" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="gh" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ag" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="sa" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="sco" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="tt" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="za" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="dm" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="gm" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="tz" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="au" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="zw" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="mu" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="nl" line="Maandag om half twee had ik informatica en toen hoorde ik hem op de gang."/>
+        <subtitle lang="bw" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ug" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="nz" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="zm" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="pk" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="sg" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="fj" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="rw" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="bd" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="gy" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ng" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="vc" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="saa" line="&#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x627;&#x62B;&#x646;&#x64A;&#x646; &#x641;&#x64A; &#x627;&#x644;&#x641;&#x635;&#x644; &#x627;&#x644;&#x62F;&#x631;&#x627;&#x633;&#x64A; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x648;&#x627;&#x62D;&#x62F;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x643;&#x646;&#x62A;&#x64F; &#x627;&#x639;&#x645;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62D;&#x627;&#x633;&#x648;&#x628; &#x641;&#x64A; &#x62F;&#x631;&#x633; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627; &#x648;&#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x642;&#x627;&#x639;&#x629;."/>
+        <subtitle lang="us" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="to" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="lba" line="&#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x627;&#x62B;&#x646;&#x64A;&#x646; &#x641;&#x64A; &#x627;&#x644;&#x641;&#x635;&#x644; &#x627;&#x644;&#x62F;&#x631;&#x627;&#x633;&#x64A; &#x641;&#x64A; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x648;&#x627;&#x62D;&#x62F;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x643;&#x646;&#x62A;&#x64F; &#x627;&#x639;&#x645;&#x644; &#x639;&#x644;&#x649; &#x627;&#x644;&#x62D;&#x627;&#x633;&#x648;&#x628; &#x641;&#x64A; &#x62F;&#x631;&#x633; &#x627;&#x644;&#x62A;&#x643;&#x646;&#x648;&#x644;&#x648;&#x62C;&#x64A;&#x627; &#x648;&#x633;&#x645;&#x639;&#x62A;&#x647; &#x641;&#x64A; &#x627;&#x644;&#x642;&#x627;&#x639;&#x629;."/>
+        <subtitle lang="jm" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+        <subtitle lang="ke" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+      <subtitle lang="mx" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="es" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="co" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="gt" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="pe" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="ni" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="do" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="bo" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="ve" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="ar" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="cu" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="pr" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="py" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="ec" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="hn" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="sv" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="cr" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/><subtitle lang="pa" line="On Monday in the classroom at half past one, I worked on ICT and I heard him in the hall."/>
+				<subtitle lang="ine" line="On Monday in the classroom at half past one I worked on ICT and I heard him in the hall."/>
+			</subtitles>
+      <highlights>
+        <highlight index="1" start="2181" length="733"/>
+        <highlight index="2" start="3132" length="249"/>
+        <highlight index="3" start="3304" length="200"/>
+        <highlight index="4" start="3413" length="342"/>
+        <highlight index="5" start="3693" length="156"/>
+        <highlight index="6" start="3802" length="624"/>
+        <highlight index="7" start="4737" length="156"/>
+        <highlight index="8" start="4831" length="249"/>
+        <highlight index="9" start="5033" length="250"/>
+        <highlight index="10" start="5236" length="200"/>
+        <highlight index="11" start="5330" length="452"/>
+        <highlight index="12" start="6093" length="281"/>
+        <highlight index="13" start="6311" length="328"/>
+        <highlight index="14" start="6561" length="561"/>
+        <highlight index="15" start="7511" length="187"/>
+        <highlight index="16" start="7621" length="140"/>
+        <highlight index="17" start="7714" length="218"/>
+        <highlight index="18" start="7870" length="748"/>
+        <highlight index="19" start="8540" length="296"/>
+        <highlight index="20" start="8758" length="156"/>
+        <highlight index="21" start="8867" length="951"/>
+      </highlights>
+    </line>
+    <line words="C&#x2019;est mardi, il est deux heures et demie et il est parti." start="59705" length="8605" useLNutResource="true" useStoryResource="false" image="19#1#4">
+      <subtitles>
+        <subtitle lang="ws" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="vu" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="na" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="lb" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="cl" line="It is half past two on Tuesday and he has gone."/>
+        <subtitle lang="en" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="dk" line="Det er tirsdag, klokken er halv tre, og han er v&#xE6;k."/>
+        <subtitle lang="mt" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ca" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="bs" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="sb" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="me" line="&#x623;&#x646;&#x647;&#x627; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x62B;&#x627;&#x646;&#x64A;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x62B;&#x644;&#x627;&#x62B;&#x627;&#x621; &#x648; &#x627;&#x644;&#x634;&#x628;&#x62D; &#x630;&#x647;&#x628;."/>
+        <subtitle lang="bz" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ae" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="sl" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="gh" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ag" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="sa" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="sco" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="tt" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="za" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="dm" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="gm" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="tz" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="au" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="zw" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="mu" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="nl" line="Nu is het dinsdag, half drie, en hij is verdwenen."/>
+        <subtitle lang="bw" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ug" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="nz" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="zm" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="pk" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="sg" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="fj" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="rw" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="bd" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="gy" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ng" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="vc" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="saa" line="&#x623;&#x646;&#x647;&#x627; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x62B;&#x627;&#x646;&#x64A;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x62B;&#x644;&#x627;&#x62B;&#x627;&#x621; &#x648; &#x627;&#x644;&#x634;&#x628;&#x62D; &#x630;&#x647;&#x628;."/>
+        <subtitle lang="us" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="to" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="lba" line="&#x623;&#x646;&#x647;&#x627; &#x627;&#x644;&#x633;&#x627;&#x639;&#x647; &#x627;&#x644;&#x62B;&#x627;&#x646;&#x64A;&#x647; &#x648;&#x627;&#x644;&#x646;&#x635;&#x641; &#x641;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x62B;&#x644;&#x627;&#x62B;&#x627;&#x621; &#x648; &#x627;&#x644;&#x634;&#x628;&#x62D; &#x630;&#x647;&#x628;."/>
+        <subtitle lang="jm" line="It isTuesday, it is half past two and he has gone."/>
+        <subtitle lang="ke" line="It isTuesday, it is half past two and he has gone."/>
+      <subtitle lang="mx" line="It is half past two on Tuesday and he has gone."/><subtitle lang="es" line="It is half past two on Tuesday and he has gone."/><subtitle lang="co" line="It is half past two on Tuesday and he has gone."/><subtitle lang="gt" line="It is half past two on Tuesday and he has gone."/><subtitle lang="pe" line="It is half past two on Tuesday and he has gone."/><subtitle lang="ni" line="It is half past two on Tuesday and he has gone."/><subtitle lang="do" line="It is half past two on Tuesday and he has gone."/><subtitle lang="bo" line="It is half past two on Tuesday and he has gone."/><subtitle lang="ve" line="It is half past two on Tuesday and he has gone."/><subtitle lang="ar" line="It is half past two on Tuesday and he has gone."/><subtitle lang="cu" line="It is half past two on Tuesday and he has gone."/><subtitle lang="pr" line="It is half past two on Tuesday and he has gone."/><subtitle lang="py" line="It is half past two on Tuesday and he has gone."/><subtitle lang="ec" line="It is half past two on Tuesday and he has gone."/><subtitle lang="hn" line="It is half past two on Tuesday and he has gone."/><subtitle lang="sv" line="It is half past two on Tuesday and he has gone."/><subtitle lang="cr" line="It is half past two on Tuesday and he has gone."/><subtitle lang="pa" line="It is half past two on Tuesday and he has gone."/>
+				<subtitle lang="ine" line="It isTuesday, it is half past two and he has gone."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2278" length="374"/>
+        <highlight index="1" start="2540" length="597"/>
+        <highlight index="2" start="3362" length="200"/>
+        <highlight index="3" start="3536" length="200"/>
+        <highlight index="4" start="3698" length="211"/>
+        <highlight index="5" start="3847" length="274"/>
+        <highlight index="6" start="4084" length="124"/>
+        <highlight index="7" start="4146" length="436"/>
+        <highlight index="8" start="5130" length="149"/>
+        <highlight index="9" start="5217" length="162"/>
+        <highlight index="10" start="5329" length="200"/>
+        <highlight index="11" start="5491" length="747"/>
+      </highlights>
+    </line>
+  </lines>
+</karaoke>

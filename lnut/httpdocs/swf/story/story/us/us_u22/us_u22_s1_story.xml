@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="179200" >
+	<lines>
+		<line words="The Boring Town" start="0" length="1585" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="De saaie stad" />
+				<subtitle lang="dk" line="Den kedelige by" />
+			</subtitles>
+		</line>
+		<line words="After their meal at The Crazy Food Café, Jimmy and Jimmy’s Mum go shopping. §Let me take you to the supermarket I used to go to when I was little,§ says Jimmy’s Mum." start="1189" length="10574" useLNutResource="true" image="22#1#1" >
+			<highlights>
+				<highlight index="0" start="385" length="234" />
+				<highlight index="1" start="651" length="234" />
+				<highlight index="2" start="885" length="200" />
+				<highlight index="3" start="1098" length="100" />
+				<highlight index="4" start="1213" length="203" />
+				<highlight index="5" start="1432" length="266" />
+				<highlight index="6" start="1792" length="265" />
+				<highlight index="7" start="2089" length="422" />
+				<highlight index="8" start="3214" length="266" />
+				<highlight index="9" start="3496" length="200" />
+				<highlight index="10" start="3683" length="266" />
+				<highlight index="11" start="4011" length="200" />
+				<highlight index="12" start="4434" length="200" />
+				<highlight index="13" start="4746" length="391" />
+				<highlight index="14" start="6059" length="172" />
+				<highlight index="15" start="6263" length="100" />
+				<highlight index="16" start="6372" length="100" />
+				<highlight index="17" start="6513" length="200" />
+				<highlight index="18" start="6700" length="125" />
+				<highlight index="19" start="6857" length="200" />
+				<highlight index="20" start="7075" length="563" />
+				<highlight index="21" start="7794" length="100" />
+				<highlight index="22" start="7888" length="100" />
+				<highlight index="23" start="7998" length="100" />
+				<highlight index="24" start="8123" length="100" />
+				<highlight index="25" start="8263" length="200" />
+				<highlight index="26" start="8482" length="200" />
+				<highlight index="27" start="8701" length="100" />
+				<highlight index="28" start="8795" length="100" />
+				<highlight index="29" start="8920" length="200" />
+				<highlight index="30" start="9186" length="219" />
+				<highlight index="31" start="9405" length="375" />
+				<highlight index="32" start="9827" length="281" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Na hun maaltijd in Het Gekke Eten Café gaan Jimmy en zijn moeder winkelen. “Laten we naar de supermarkt gaan waar ik vroeger altijd kwam,” zegt Jimmy’s moeder." />
+				<subtitle lang="dk" line="Efter at have spist på ’Café Skør Mad’ skal Jimmy og Jimmys mor på indkøb. ‘Lad mig vise dig det supermarked jeg kom i, da jeg var lille’, siger Jimmys mor." />
+			</subtitles>
+		</line>
+		<line words="§Okay,§ says Jimmy, but Jimmy does not feel okay. He feels very bored. " start="11893" length="7935" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="466" length="673" />
+				<highlight index="1" start="1367" length="200" />
+				<highlight index="2" start="1574" length="476" />
+				<highlight index="3" start="2154" length="200" />
+				<highlight index="4" start="2382" length="145" />
+				<highlight index="5" start="2558" length="104" />
+				<highlight index="6" start="2682" length="197" />
+				<highlight index="7" start="2941" length="200" />
+				<highlight index="8" start="3252" length="259" />
+				<highlight index="9" start="4081" length="114" />
+				<highlight index="10" start="4205" length="404" />
+				<highlight index="11" start="4619" length="332" />
+				<highlight index="12" start="5085" length="446" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="“Oké,” zegt Jimmy, maar Jimmy vindt het niet leuk. Hij verveelt zich. " />
+				<subtitle lang="dk" line="‘Okay’, siger Jimmy, men Jimmy synes ikke, det er okay. Han keder sig." />
+			</subtitles>
+		</line>
+		<line words="They catch the train. On the train Jimmy’s Mum tells Jimmy all about where they are going. §It’s a very lively village,§ she says. " start="19478" length="10388" useLNutResource="true" image="22#6#6" >
+			<highlights>
+				<highlight index="0" start="1654" length="162" />
+				<highlight index="1" start="1817" length="311" />
+				<highlight index="2" start="2183" length="122" />
+				<highlight index="3" start="2318" length="407" />
+				<highlight index="4" start="3702" length="200" />
+				<highlight index="5" start="3905" length="100" />
+				<highlight index="6" start="4054" length="271" />
+				<highlight index="7" start="4366" length="244" />
+				<highlight index="8" start="4691" length="272" />
+				<highlight index="9" start="5139" length="258" />
+				<highlight index="10" start="5424" length="230" />
+				<highlight index="11" start="5763" length="186" />
+				<highlight index="12" start="5953" length="284" />
+				<highlight index="13" start="6292" length="200" />
+				<highlight index="14" start="6522" length="200" />
+				<highlight index="15" start="6712" length="100" />
+				<highlight index="16" start="6820" length="299" />
+				<highlight index="17" start="7946" length="149" />
+				<highlight index="18" start="8082" length="100" />
+				<highlight index="19" start="8258" length="366" />
+				<highlight index="20" start="8678" length="393" />
+				<highlight index="21" start="9112" length="407" />
+				<highlight index="22" start="9573" length="100" />
+				<highlight index="23" start="9695" length="200" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze nemen de trein. In de trein vertelt Jimmy’s moeder hem waar ze naartoe gaan. “Het is een heel gezellig dorp,” zegt ze." />
+				<subtitle lang="dk" line="De tager med toget. I toget fortæller Jimmys mor Jimmy alt om det sted, de skal hen. ‘Det er en meget livlig landsby’, siger hun. " />
+			</subtitles>
+		</line>
+		<line words="§More a town, actually. There is a beautiful church, an old cinema, a grocery, a fishmonger’s, a little restaurant, a bakery, a wonderful delicatessen, and a butcher’s.§" start="29433" length="14717" useLNutResource="true" image="22#6#10" >
+			<highlights>
+				<highlight index="0" start="537" length="200" />
+				<highlight index="1" start="749" length="100" />
+				<highlight index="2" start="864" length="231" />
+				<highlight index="3" start="1152" length="519" />
+				<highlight index="4" start="1998" length="200" />
+				<highlight index="5" start="2170" length="100" />
+				<highlight index="6" start="2305" length="173" />
+				<highlight index="7" start="2497" length="384" />
+				<highlight index="8" start="2920" length="499" />
+				<highlight index="9" start="3458" length="200" />
+				<highlight index="10" start="3707" length="250" />
+				<highlight index="11" start="3976" length="423" />
+				<highlight index="12" start="4437" length="100" />
+				<highlight index="13" start="4629" length="615" />
+				<highlight index="14" start="5321" length="100" />
+				<highlight index="15" start="5494" length="1268" />
+				<highlight index="16" start="7089" length="100" />
+				<highlight index="17" start="7204" length="269" />
+				<highlight index="18" start="7473" length="557" />
+				<highlight index="19" start="8049" length="100" />
+				<highlight index="20" start="8222" length="557" />
+				<highlight index="21" start="8760" length="100" />
+				<highlight index="22" start="8914" length="749" />
+				<highlight index="23" start="9682" length="1210" />
+				<highlight index="24" start="11296" length="100" />
+				<highlight index="25" start="11450" length="100" />
+				<highlight index="26" start="11622" length="865" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="“Eigenlijk meer een stad. Er is een mooie kerk, een oude bioscoop, een kruidenierswinkel, een visboer, een klein restaurant, een bakkerij, een delicatessenwinkel en een slager.”" />
+				<subtitle lang="dk" line="'Faktisk mere en by. Der er en smuk kirke, en gammel biograf, en købmand, en fiskemand, en lille restaurant, et bageri, en vidunderlig delikatesse og en slagterforretning.’" />
+			</subtitles>
+		</line>
+		<line words="This list of things makes Jimmy feel very very bored. §There is nothing to do in Mum’s old town,§ thinks Jimmy. He remembers their last visit. §It was terrible,§ he thinks." start="43862" length="15871" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1631" length="200" />
+				<highlight index="1" start="1825" length="279" />
+				<highlight index="2" start="2082" length="129" />
+				<highlight index="3" start="2254" length="666" />
+				<highlight index="4" start="3091" length="365" />
+				<highlight index="5" start="3478" length="279" />
+				<highlight index="6" start="3757" length="408" />
+				<highlight index="7" start="4165" length="580" />
+				<highlight index="8" start="4745" length="257" />
+				<highlight index="9" start="5110" length="493" />
+				<highlight index="10" start="6462" length="301" />
+				<highlight index="11" start="6763" length="100" />
+				<highlight index="12" start="6892" length="472" />
+				<highlight index="13" start="7364" length="100" />
+				<highlight index="14" start="7493" length="200" />
+				<highlight index="15" start="7665" length="200" />
+				<highlight index="16" start="7879" length="200" />
+				<highlight index="17" start="8116" length="300" />
+				<highlight index="18" start="8416" length="408" />
+				<highlight index="19" start="9017" length="200" />
+				<highlight index="20" start="9211" length="558" />
+				<highlight index="21" start="9898" length="200" />
+				<highlight index="22" start="10155" length="408" />
+				<highlight index="23" start="10563" length="151" />
+				<highlight index="24" start="10735" length="215" />
+				<highlight index="25" start="10971" length="516" />
+				<highlight index="26" start="11723" length="200" />
+				<highlight index="27" start="11916" length="200" />
+				<highlight index="28" start="12174" length="493" />
+				<highlight index="29" start="12753" length="200" />
+				<highlight index="30" start="13011" length="429" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Deze lijst zorgt ervoor dat Jimmy zich nog meer verveelt. “Er is niets te doen in mama’s dorp van vroeger,” denkt Jimmy. Hij herinnert zich hun vorige bezoek. “Het was vreselijk,” denkt hij." />
+				<subtitle lang="dk" line="Denne liste får Jimmy til at kede sig rigtig rigtig meget. ‘Der er ikke noget at lave i mors gamle by’, tænker Jimmy. Han kan huske, sidst de var her. ‘Det var forfærdeligt’, tænker han." />
+			</subtitles>
+		</line>
+		<line words="§And,§ says Jimmy’s Mum, §there was a cake shop right next to the station.§ Jimmy is not cheered up by this. He is too full to eat cakes. Now Jimmy feels bored and sick." start="59300" length="15727" useLNutResource="true" image="22#1#10" >
+			<highlights>
+				<highlight index="0" start="1921" length="200" />
+				<highlight index="1" start="2124" length="346" />
+				<highlight index="2" start="2490" length="285" />
+				<highlight index="3" start="2816" length="407" />
+				<highlight index="4" start="3792" length="200" />
+				<highlight index="5" start="3996" length="142" />
+				<highlight index="6" start="4179" length="100" />
+				<highlight index="7" start="4301" length="223" />
+				<highlight index="8" start="4484" length="285" />
+				<highlight index="9" start="4809" length="224" />
+				<highlight index="10" start="5053" length="265" />
+				<highlight index="11" start="5338" length="100" />
+				<highlight index="12" start="5460" length="122" />
+				<highlight index="13" start="5603" length="528" />
+				<highlight index="14" start="7393" length="200" />
+				<highlight index="15" start="7555" length="100" />
+				<highlight index="16" start="7657" length="163" />
+				<highlight index="17" start="7820" length="366" />
+				<highlight index="18" start="8206" length="200" />
+				<highlight index="19" start="8430" length="100" />
+				<highlight index="20" start="8552" length="427" />
+				<highlight index="21" start="9427" length="122" />
+				<highlight index="22" start="9610" length="139" />
+				<highlight index="23" start="9773" length="122" />
+				<highlight index="24" start="9935" length="265" />
+				<highlight index="25" start="10261" length="183" />
+				<highlight index="26" start="10464" length="200" />
+				<highlight index="27" start="10729" length="691" />
+				<highlight index="28" start="11787" length="224" />
+				<highlight index="29" start="12010" length="285" />
+				<highlight index="30" start="12376" length="163" />
+				<highlight index="31" start="12661" length="326" />
+				<highlight index="32" start="13048" length="142" />
+				<highlight index="33" start="13373" length="468" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="“En,” zegt Jimmy’s moeder, “er was een banketbakker vlak naast het station.” Jimmy wordt hier niet vrolijker van. Hij zit veel te vol om taart te eten. Nu verveelt Jimmy zich en voelt hij zich beroerd." />
+				<subtitle lang="dk" line="‘Og’, siger Jimmys mor,’ der var en bager lige ved siden af banegården.’ Det gør ikke Jimmys humør bedre. Han er alt for mæt til at spise kager. Jimmy keder sig og er skidt tilpas." />
+			</subtitles>
+		</line>
+		<line words="§And,§ says Jimmy’s Mum, §the arcade has been closed down.§ Jimmy can’t speak. " start="74883" length="9955" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1972" length="200" />
+				<highlight index="1" start="2352" length="200" />
+				<highlight index="2" start="2633" length="294" />
+				<highlight index="3" start="2988" length="200" />
+				<highlight index="4" start="3625" length="163" />
+				<highlight index="5" start="3808" length="429" />
+				<highlight index="6" start="4286" length="200" />
+				<highlight index="7" start="4518" length="200" />
+				<highlight index="8" start="4751" length="233" />
+				<highlight index="9" start="5045" length="200" />
+				<highlight index="10" start="6575" length="416" />
+				<highlight index="11" start="7028" length="257" />
+				<highlight index="12" start="7395" length="282" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="“En,” zegt Jimmy’s moeder, “de speelhal is gesloten.” Jimmy weet niets te zeggen. " />
+				<subtitle lang="dk" line="‘Og’, siger Jimmys mor, ‘arkaden er lukket’. Jimmy kan ikke sige noget." />
+			</subtitles>
+		</line>
+		<line words="Jimmy and his Mum arrive at the train station. Jimmy’s Mum skips down the platform. Jimmy walks slowly down the platform." start="84694" length="13274" useLNutResource="true" image="22#1#10" >
+			<highlights>
+				<highlight index="0" start="1735" length="308" />
+				<highlight index="1" start="2115" length="108" />
+				<highlight index="2" start="2242" length="200" />
+				<highlight index="3" start="2477" length="144" />
+				<highlight index="4" start="2639" length="326" />
+				<highlight index="5" start="2965" length="100" />
+				<highlight index="6" start="3109" length="127" />
+				<highlight index="7" start="3272" length="200" />
+				<highlight index="8" start="3525" length="488" />
+				<highlight index="9" start="4881" length="344" />
+				<highlight index="10" start="5297" length="235" />
+				<highlight index="11" start="5568" length="452" />
+				<highlight index="12" start="6147" length="200" />
+				<highlight index="13" start="6382" length="109" />
+				<highlight index="14" start="6563" length="615" />
+				<highlight index="15" start="8353" length="271" />
+				<highlight index="16" start="8678" length="452" />
+				<highlight index="17" start="9185" length="434" />
+				<highlight index="18" start="9727" length="362" />
+				<highlight index="19" start="10143" length="127" />
+				<highlight index="20" start="10306" length="741" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy en zijn moeder komen aan op het station. Jimmy’s moeder huppelt over het perron.Jimmy loopt langzaam over het perron." />
+				<subtitle lang="dk" line="Jimmy og hans mor ankommer til stationen. Jimmys mor hopper ned ad perronen. Jimmy går langsomt ned ad perronen." />
+			</subtitles>
+		</line>
+		<line words="They come out of the station. Jimmy’s Mum is talking about old times. She is talking about her friends. §Jill was my best friend. She was so funny. We were always together. She…§" start="97824" length="16592" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="1550" length="200" />
+				<highlight index="1" start="1740" length="200" />
+				<highlight index="2" start="1993" length="200" />
+				<highlight index="3" start="2183" length="100" />
+				<highlight index="4" start="2247" length="100" />
+				<highlight index="5" start="2331" length="696" />
+				<highlight index="6" start="3913" length="200" />
+				<highlight index="7" start="4187" length="200" />
+				<highlight index="8" start="4546" length="105" />
+				<highlight index="9" start="4778" length="253" />
+				<highlight index="10" start="5052" length="338" />
+				<highlight index="11" start="5537" length="253" />
+				<highlight index="12" start="5790" length="486" />
+				<highlight index="13" start="6550" length="147" />
+				<highlight index="14" start="6740" length="147" />
+				<highlight index="15" start="6887" length="338" />
+				<highlight index="16" start="7267" length="316" />
+				<highlight index="17" start="7668" length="115" />
+				<highlight index="18" start="7858" length="464" />
+				<highlight index="19" start="9081" length="274" />
+				<highlight index="20" start="9376" length="200" />
+				<highlight index="21" start="9629" length="200" />
+				<highlight index="22" start="9840" length="200" />
+				<highlight index="23" start="10094" length="738" />
+				<highlight index="24" start="10937" length="116" />
+				<highlight index="25" start="11127" length="137" />
+				<highlight index="26" start="11338" length="253" />
+				<highlight index="27" start="11612" length="485" />
+				<highlight index="28" start="12372" length="274" />
+				<highlight index="29" start="12625" length="200" />
+				<highlight index="30" start="12857" length="358" />
+				<highlight index="31" start="13237" length="548" />
+				<highlight index="32" start="13912" length="653" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze lopen het station uit. Jimmy’s moeder praat over vroeger. Ze heeft het over haar vrienden. “Jill was mijn beste vriendin. Ze was zo grappig. We waren altijd samen. Ze…” " />
+				<subtitle lang="dk" line="De kommer ud fra banegården. Jimmys mor snakker om gamle dage. Hun snakker om sine venner. ‘Jill var min bedste veninde. Hun var så sjov. Vi var altid sammen. Hun…’" />
+			</subtitles>
+		</line>
+		<line words="Jimmy’s Mum has stopped talking. She looks up and down the road. §The delicatessen, the bakery… they were just here… and the butcher, Mr Stayke. He was on the corner…§" start="113983" length="17891" useLNutResource="true" image="22#1#4" >
+			<highlights>
+				<highlight index="0" start="1891" length="491" />
+				<highlight index="1" start="2405" length="270" />
+				<highlight index="2" start="2709" length="200" />
+				<highlight index="3" start="2942" length="200" />
+				<highlight index="4" start="3199" length="537" />
+				<highlight index="5" start="4437" length="233" />
+				<highlight index="6" start="4694" length="200" />
+				<highlight index="7" start="4997" length="200" />
+				<highlight index="8" start="5348" length="200" />
+				<highlight index="9" start="5581" length="211" />
+				<highlight index="10" start="5815" length="100" />
+				<highlight index="11" start="5932" length="443" />
+				<highlight index="12" start="7216" length="200" />
+				<highlight index="13" start="7473" length="864" />
+				<highlight index="14" start="8781" length="200" />
+				<highlight index="15" start="9038" length="560" />
+				<highlight index="16" start="10322" length="200" />
+				<highlight index="17" start="10603" length="200" />
+				<highlight index="18" start="10813" length="200" />
+				<highlight index="19" start="11023" length="200" />
+				<highlight index="20" start="12051" length="200" />
+				<highlight index="21" start="12261" length="200" />
+				<highlight index="22" start="12518" length="607" />
+				<highlight index="23" start="13475" length="200" />
+				<highlight index="24" start="13685" length="654" />
+				<highlight index="25" start="14900" length="100" />
+				<highlight index="26" start="15040" length="100" />
+				<highlight index="27" start="15204" length="100" />
+				<highlight index="28" start="15390" length="107" />
+				<highlight index="29" start="15577" length="584" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy’s moeder is gestopt met praten. Ze kijkt links en rechts de straat in. “De delicatessenwinkel, de bakkerij… Ze waren toch hier… En de slager, meneer Steen. Dat was op het hoekje…”" />
+				<subtitle lang="dk" line="Jimmys mor er holdt op med at snakke. Hun ser op og ned ad gaden. ‘Delikatessen, bageren…de har lige været her…og slagteren, Mr. Stayke. Han var der på hjørnet…’" />
+			</subtitles>
+		</line>
+		<line words="Jimmy’s Mum has stopped talking again. She points at the corner of the road. Her finger is shaking. " start="131442" length="10821" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2189" length="494" />
+				<highlight index="1" start="2712" length="200" />
+				<highlight index="2" start="2952" length="200" />
+				<highlight index="3" start="3192" length="200" />
+				<highlight index="4" start="3474" length="269" />
+				<highlight index="5" start="3771" length="268" />
+				<highlight index="6" start="4887" length="212" />
+				<highlight index="7" start="5170" length="268" />
+				<highlight index="8" start="5438" length="101" />
+				<highlight index="9" start="5622" length="100" />
+				<highlight index="10" start="5749" length="299" />
+				<highlight index="11" start="6059" length="170" />
+				<highlight index="12" start="6229" length="200" />
+				<highlight index="13" start="6441" length="339" />
+				<highlight index="14" start="7529" length="200" />
+				<highlight index="15" start="7740" length="537" />
+				<highlight index="16" start="8348" length="169" />
+				<highlight index="17" start="8546" length="692" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy’s moeder stopt weer met praten. Ze wijst naar de hoek van de straat. Haar vinger trilt. " />
+				<subtitle lang="dk" line="Jimmys mor er holdt op med at snakke igen. Hun peger på hjørnet. Hendes finger ryster." />
+			</subtitles>
+		</line>
+		<line words="Jimmy looks at the corner of the road. The butcher shop has gone. §It’s a brand new arcade!§ says Jimmy.  " start="141974" length="12120" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2183" length="269" />
+				<highlight index="1" start="2515" length="332" />
+				<highlight index="2" start="2895" length="200" />
+				<highlight index="3" start="3085" length="126" />
+				<highlight index="4" start="3243" length="190" />
+				<highlight index="5" start="3464" length="100" />
+				<highlight index="6" start="3575" length="100" />
+				<highlight index="7" start="3702" length="300" />
+				<highlight index="8" start="4730" length="222" />
+				<highlight index="9" start="4983" length="200" />
+				<highlight index="10" start="5189" length="427" />
+				<highlight index="11" start="5679" length="200" />
+				<highlight index="12" start="5917" length="459" />
+				<highlight index="13" start="7167" length="300" />
+				<highlight index="14" start="7499" length="158" />
+				<highlight index="15" start="7926" length="506" />
+				<highlight index="16" start="8448" length="269" />
+				<highlight index="17" start="8828" length="917" />
+				<highlight index="18" start="9825" length="142" />
+				<highlight index="19" start="10014" length="412" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy kijkt naar de hoek van de straat. De slagerij is verdwenen. “Het is een gloednieuwe speelhal!” roept Jimmy.  " />
+				<subtitle lang="dk" line="Jimmy kigger ned på hjørnet.Slagteren er væk. ‘Der er en helt ny arkade!’ siger Jimmy." />
+			</subtitles>
+		</line>
+		<line words="Jimmy skips down the pavement. " start="153806" length="5483" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2433" length="236" />
+				<highlight index="1" start="2769" length="444" />
+				<highlight index="2" start="3313" length="200" />
+				<highlight index="3" start="3578" length="200" />
+				<highlight index="4" start="3872" length="472" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy huppelt over de stoep. " />
+				<subtitle lang="dk" line="Jimmy hopper ned ad fortovet." />
+			</subtitles>
+		</line>
+		<line words="Jimmy’s Mum walks slowly down the pavement." start="159144" length="6637" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2963" length="200" />
+				<highlight index="1" start="3309" length="200" />
+				<highlight index="2" start="3621" length="200" />
+				<highlight index="3" start="3959" length="390" />
+				<highlight index="4" start="4392" length="200" />
+				<highlight index="5" start="4652" length="165" />
+				<highlight index="6" start="4886" length="200" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy’s moeder loopt langzaam over de stoep." />
+				<subtitle lang="dk" line="Jimmys mor går langsomt ned ad fortovet." />
+			</subtitles>
+		</line>
+		<line words="Jimmy’s Mum is very bored." start="165493" length="6059" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2681" length="237" />
+				<highlight index="1" start="2958" length="466" />
+				<highlight index="2" start="3598" length="253" />
+				<highlight index="3" start="3986" length="200" />
+				<highlight index="4" start="4294" length="435" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Jimmy’s moeder verveelt zich." />
+				<subtitle lang="dk" line="Jimmys mor keder sig meget." />
+			</subtitles>
+		</line>
+		<line words="She can’t speak." start="171264" length="5300" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="2622" length="200" />
+				<highlight index="1" start="2889" length="200" />
+				<highlight index="2" start="3222" length="589" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Ze weet niets te zeggen." />
+				<subtitle lang="dk" line="Hun kan ikke sige noget." />
+			</subtitles>
+		</line>
+		<line words="The End" start="176409" length="2791" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="Einde" />
+				<subtitle lang="dk" line="Slut" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

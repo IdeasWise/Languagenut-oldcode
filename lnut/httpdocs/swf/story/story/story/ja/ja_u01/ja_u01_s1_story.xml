@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="355944" >
+	<lines>
+		<line words="こんにちは。 僕の名前は、ジョン。 魔法使いなんだ。" start="0" length="16011" useLNutResource="true" image="2#3#1" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Hello. My name’s John. I’m a wizard." />
+			</subtitles>
+		</line>
+		<line words="君も、僕の魔法を手伝えるんだよ。 簡単さ！10まで数えるんだ。" start="15703" length="20322" useLNutResource="true" image="2#2#10" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="You can help me with my spells. It’s easy! I count to ten." />
+			</subtitles>
+		</line>
+		<line words="練習しよう。準備はいい? 1 2 3 4 5 6 7 8 9 10! いいねぇ!" start="35409" length="34486" useLNutResource="true" image="2#6#4" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Let’s practice. Ready? 1 2 3 4 5 6 7 8 9 10! Excellent!" />
+			</subtitles>
+		</line>
+		<line words="こちらは、僕の妹。彼女の名前はマリーです。1 2 3 4 5 6 7 8 9 10!" start="69587" length="30175" useLNutResource="true" image="1#4#1" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my younger sister. Her name is Marie. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="彼女は、ヒツジ!僕の妹は、ヒツジだよ!僕の妹は、白いヒツジだよ!" start="99147" length="24017" useLNutResource="true" image="5#1#2" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a sheep! My sister is a sheep! My sister is a white sheep!" />
+			</subtitles>
+		</line>
+		<line words="こちらは、僕のお母さん。彼女の名前はジェーンです。1 2 3 4 5 6 7 8 9 10!" start="122548" length="27712" useLNutResource="true" image="1#4#3" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="彼女は、ブタ!僕のお母さんは、ブタだよ!僕のお母さんは、ピンクのブタだ!" start="149952" length="23709" useLNutResource="true" image="5#2#10" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a pig! My mum is a pig! My mum is a pink pig!" />
+			</subtitles>
+		</line>
+		<line words="こちらは、僕の兄さん。彼の名前は、オリバーです。1 2 3 4 5 6 7 8 9 10!" start="173353" length="32330" useLNutResource="true" image="1#4#2" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my older brother. His name is Oliver. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="彼は、ネズミ!僕の兄さんは、ネズミだよ!僕の兄さんは、茶色いネズミだ!" start="205068" length="23709" useLNutResource="true" image="5#3#4" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a mouse! My brother is a mouse! My brother is a brown mouse!" />
+			</subtitles>
+		</line>
+		<line words="こちらは、僕のお父さん。彼の名前は、ピーターです。1 2 3 4 5 6 7 8 9 10!" start="228161" length="33562" useLNutResource="true" image="1#4#4" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="彼は、カモ!僕のお父さんは、カモだよ!僕のお父さんは、灰色のカモだ!" start="261107" length="18475" useLNutResource="true" image="5#2#9" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a duck! My dad is a duck! My dad is a grey duck!" />
+			</subtitles>
+		</line>
+		<line words="さぁ、僕の番だ。1 2 3 4 5 6 7 8 9 10!" start="279582" length="25864" useLNutResource="true" image="2#3#1" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for me. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="僕は、ウサギ!僕は、赤いウサギだ!" start="304215" length="14779" useLNutResource="true" image="5#3#7" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="I’m a rabbit! I’m a red rabbit!" />
+			</subtitles>
+		</line>
+		<line words="さぁ、君の番だよ。1 2 3 4 5 6 7 8 9 10!" start="318378" length="25249" useLNutResource="true" image="2#2#10" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for you. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="君は、なに？" start="343319" length="12625" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="What are you?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

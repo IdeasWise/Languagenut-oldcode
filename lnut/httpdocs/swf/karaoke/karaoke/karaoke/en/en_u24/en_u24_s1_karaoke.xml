@@ -1,0 +1,1059 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="169717" >
+	<lines>
+		<line words="The sports column" start="5312" length="2588" >
+			<highlight index="0" start="756" length="280" />
+			<highlight index="1" start="1031" length="669" />
+			<highlight index="2" start="1697" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de deportes	" />
+				<subtitle lang="en" line="运动专栏" />
+				<subtitle lang="nl" line="De sportrubriek" />
+				<subtitle lang="sp" line="La columna de deportes" />
+				<subtitle lang="so" line="Qeybta cayaaraha	" />
+				<subtitle lang="dk" line="Sportssektionen" />
+				<subtitle lang="mx" line="La columna de deportes	" />
+			</subtitles>
+		</line>
+		<line words="The education column" start="7219" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de educación" />
+				<subtitle lang="en" line="教育专栏" />
+				<subtitle lang="nl" line="De onderwijsrubriek" />
+				<subtitle lang="sp" line="La columna de educación" />
+				<subtitle lang="so" line="Qeybta waxbarashada	" />
+				<subtitle lang="dk" line="Uddannelse" />
+				<subtitle lang="mx" line="La columna de educación" />
+			</subtitles>
+		</line>
+		<line words="The news column" start="8853" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de noticias" />
+				<subtitle lang="en" line="新闻专栏" />
+				<subtitle lang="nl" line="Het actuele nieuws" />
+				<subtitle lang="sp" line="La columna de noticias" />
+				<subtitle lang="so" line="Qeybta wararka		" />
+				<subtitle lang="dk" line="nyhederne" />
+				<subtitle lang="mx" line="La columna de noticias" />
+			</subtitles>
+		</line>
+		<line words="The fashion column" start="10351" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de moda" />
+				<subtitle lang="en" line="时尚专栏" />
+				<subtitle lang="nl" line="De moderubriek" />
+				<subtitle lang="sp" line="La columna de moda" />
+				<subtitle lang="so" line="Qeybta moodada	" />
+				<subtitle lang="dk" line="Mode" />
+				<subtitle lang="mx" line="La columna de moda" />
+			</subtitles>
+		</line>
+		<line words="The cookery column" start="11986" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cocina" />
+				<subtitle lang="en" line="烹饪专栏" />
+				<subtitle lang="nl" line="De kookrubriek" />
+				<subtitle lang="sp" line="La columna de cocina" />
+				<subtitle lang="so" line="Qeybta cuntada	" />
+				<subtitle lang="dk" line="Madlavning" />
+				<subtitle lang="mx" line="La columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="The travel column" start="13620" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de viajes" />
+				<subtitle lang="en" line="旅游专栏" />
+				<subtitle lang="nl" line="De reisrubriek" />
+				<subtitle lang="sp" line="La columna de viajes" />
+				<subtitle lang="so" line="Qeybta safarada	" />
+				<subtitle lang="dk" line="Rejse" />
+				<subtitle lang="mx" line="La columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="The culture column" start="15255" length="2316" >
+			<highlight index="0" start="484" length="280" />
+			<highlight index="1" start="759" length="669" />
+			<highlight index="2" start="1425" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cultura" />
+				<subtitle lang="en" line="文化专栏" />
+				<subtitle lang="nl" line="De cultuurrubriek" />
+				<subtitle lang="sp" line="La columna de cultura" />
+				<subtitle lang="so" line="Qeybta dhaqanka	" />
+				<subtitle lang="dk" line="Kultur" />
+				<subtitle lang="mx" line="La columna de cultura" />
+			</subtitles>
+		</line>
+		<line words="The weather column" start="17026" length="2316" >
+			<highlight index="0" start="348" length="259" />
+			<highlight index="1" start="601" length="735" />
+			<highlight index="2" start="1329" length="605" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna del clima" />
+				<subtitle lang="en" line="天气专栏" />
+				<subtitle lang="nl" line="Het weer" />
+				<subtitle lang="sp" line="La columna del clima" />
+				<subtitle lang="so" line="Qeybta hawada	" />
+				<subtitle lang="dk" line="vejret" />
+				<subtitle lang="mx" line="La columna del clima" />
+			</subtitles>
+		</line>
+		<line words="I prefer the sports column" start="18933" length="2997" >
+			<highlight index="0" start="346" length="287" />
+			<highlight index="1" start="626" length="580" />
+			<highlight index="2" start="1385" length="191" />
+			<highlight index="3" start="1587" length="674" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Prefiero la columna de deportes" />
+				<subtitle lang="en" line="我更喜欢运动专栏" />
+				<subtitle lang="nl" line="Ik lees graag de sportrubriek" />
+				<subtitle lang="sp" line="Prefiero la columna de deportes" />
+				<subtitle lang="so" line="Waxaan door bidaa qeybta cayaaraha" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+				<subtitle lang="mx" line="Prefiero la columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="I hate the fashion column" start="21943" length="2997" >
+			<highlight index="0" start="346" length="287" />
+			<highlight index="1" start="626" length="490" />
+			<highlight index="2" start="1101" length="191" />
+			<highlight index="3" start="1381" length="880" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Odio la columna de moda" />
+				<subtitle lang="en" line="我讨厌时尚专栏" />
+				<subtitle lang="nl" line="Ik haat de moderubriek" />
+				<subtitle lang="sp" line="Odio la columna de moda" />
+				<subtitle lang="so" line="Waxaan necbahay qeybta moodada" />
+				<subtitle lang="dk" line="Jeg hader modesiden" />
+				<subtitle lang="mx" line="Odio la columna de moda" />
+			</subtitles>
+		</line>
+		<line words="I love the cookery column" start="25471" length="2997" >
+			<highlight index="0" start="97" length="287" />
+			<highlight index="1" start="731" length="467" />
+			<highlight index="2" start="1354" length="214" />
+			<highlight index="3" start="1545" length="716" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Me encanta la columna de cocina" />
+				<subtitle lang="en" line="我爱烹饪专栏" />
+				<subtitle lang="nl" line="Ik houd van de kookrubriek" />
+				<subtitle lang="sp" line="Me encanta la columna de cocina" />
+				<subtitle lang="so" line="Waxaan jeclahay qeybta cuntada	" />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden" />
+				<subtitle lang="mx" line="Me encanta la columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="I don’t like the travel column" start="28059" length="4000" >
+			<highlight index="0" start="623" length="421" />
+			<highlight index="1" start="1064" length="338" />
+			<highlight index="2" start="1386" length="332" />
+			<highlight index="3" start="1786" length="286" />
+			<highlight index="4" start="2067" length="462" />
+			<highlight index="5" start="2805" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="No me gusta la columna de viajes" />
+				<subtitle lang="en" line="我不喜欢旅游专栏" />
+				<subtitle lang="nl" line="Ik houd niet van de reisrubriek" />
+				<subtitle lang="sp" line="No me gusta la columna de viajes" />
+				<subtitle lang="so" line="Ma jecli qeybta safarada	" />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+				<subtitle lang="mx" line="No me gusta la columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="Why?" start="32009" length="2043" >
+			<highlight index="0" start="732" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="¿Por qué?	" />
+				<subtitle lang="en" line="为什么？" />
+				<subtitle lang="nl" line="Waarom?" />
+				<subtitle lang="sp" line="¿Por qué?	" />
+				<subtitle lang="so" line="Maxaa jiro?	" />
+				<subtitle lang="dk" line="Hvorfor?" />
+				<subtitle lang="mx" line="¿Por qué?	" />
+			</subtitles>
+		</line>
+		<line words="Because" start="33507" length="2043" >
+			<highlight index="0" start="732" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="Porque…	" />
+				<subtitle lang="en" line="因为" />
+				<subtitle lang="nl" line="Omdat..." />
+				<subtitle lang="sp" line="Porque…	" />
+				<subtitle lang="so" line="Sababta waa maxay…….	" />
+				<subtitle lang="dk" line="Fordi" />
+				<subtitle lang="mx" line="Porque…	" />
+			</subtitles>
+		</line>
+		<line words="It’s great!" start="35005" length="1862" >
+			<highlight index="0" start="-570" length="241" />
+			<highlight index="0" start="558" length="200" />
+			<highlight index="1" start="783" length="597" />
+			<subtitles>
+				<subtitle lang="cl" line="Es genial	" />
+				<subtitle lang="en" line="它很棒" />
+				<subtitle lang="nl" line="Erg super" />
+				<subtitle lang="sp" line="Es genial" />
+				<subtitle lang="so" line="Waa it aad u wanaagsan" />
+				<subtitle lang="dk" line="Det er fedt" />
+				<subtitle lang="mx" line="Es genial	" />
+			</subtitles>
+		</line>
+		<line words="it's too long!" start="36367" length="2043" >
+			<highlight index="0" start="420" length="200" />
+			<highlight index="1" start="652" length="200" />
+			<highlight index="2" start="859" length="552" />
+			<subtitles>
+				<subtitle lang="cl" line="Es muy larga	" />
+				<subtitle lang="en" line="它太长" />
+				<subtitle lang="nl" line="Veel te lang" />
+				<subtitle lang="sp" line="Es muy larga	" />
+				<subtitle lang="so" line="Waa mid aad u dheer	" />
+				<subtitle lang="dk" line="Det er for langt" />
+				<subtitle lang="mx" line="Es muy larga	" />
+			</subtitles>
+		</line>
+		<line words="It's fantastic!" start="38002" length="2043" >
+			<highlight index="0" start="291" length="277" />
+			<highlight index="1" start="559" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="Es fantástica	" />
+				<subtitle lang="en" line="它很了不起" />
+				<subtitle lang="nl" line="Heel fantastisch" />
+				<subtitle lang="sp" line="Es fantástica	" />
+				<subtitle lang="so" line="Waa mid aad u fiican	" />
+				<subtitle lang="dk" line="Det er fantastisk" />
+				<subtitle lang="mx" line="Es fantástica	" />
+			</subtitles>
+		</line>
+		<line words="It's boring!" start="39909" length="2044" >
+			<highlight index="0" start="193" length="277" />
+			<highlight index="1" start="459" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="Es aburrida	" />
+				<subtitle lang="en" line="它很无聊" />
+				<subtitle lang="nl" line="Het is saai" />
+				<subtitle lang="sp" line="Es aburrida	" />
+				<subtitle lang="so" line="Waa mid lagu caajisayo	" />
+				<subtitle lang="dk" line="Det er kedeligt" />
+				<subtitle lang="mx" line="Es aburrida	" />
+			</subtitles>
+		</line>
+		<line words="It's fun!" start="41543" length="2044" >
+			<highlight index="0" start="260" length="331" />
+			<highlight index="1" start="594" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="Es divertida	" />
+				<subtitle lang="en" line="它很好玩" />
+				<subtitle lang="nl" line="Het is leuk" />
+				<subtitle lang="sp" line="Es divertida	" />
+				<subtitle lang="so" line="Waa mid farxad leh" />
+				<subtitle lang="dk" line="Det er sjovt" />
+				<subtitle lang="mx" line="Es divertida	" />
+			</subtitles>
+		</line>
+		<line words="It's annoying!" start="43178" length="2044" >
+			<highlight index="0" start="260" length="331" />
+			<highlight index="1" start="594" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="Es molesta" />
+				<subtitle lang="en" line="它很恼人" />
+				<subtitle lang="nl" line="Erg vervelend" />
+				<subtitle lang="sp" line="Es molesta" />
+				<subtitle lang="so" line="Waa mid kaa careeynayo	" />
+				<subtitle lang="dk" line="Det er irriterende!" />
+				<subtitle lang="mx" line="Es molesta" />
+			</subtitles>
+		</line>
+		<line words="It's interesting!" start="44540" length="2044" >
+			<highlight index="0" start="236" length="331" />
+			<highlight index="1" start="552" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="Es interesante" />
+				<subtitle lang="en" line="它很有趣" />
+				<subtitle lang="nl" line="Erg interessant" />
+				<subtitle lang="sp" line="Es interesante" />
+				<subtitle lang="so" line="Waa mid xiisa leh	" />
+				<subtitle lang="dk" line="Det er interessant!" />
+				<subtitle lang="mx" line="Es interesante" />
+			</subtitles>
+		</line>
+		<line words="It's complicated!" start="46038" length="2044" >
+			<highlight index="0" start="363" length="331" />
+			<highlight index="1" start="679" length="956" />
+			<subtitles>
+				<subtitle lang="cl" line="Es complicada	" />
+				<subtitle lang="en" line="它很复杂" />
+				<subtitle lang="nl" line="Heel ingewikkeld" />
+				<subtitle lang="sp" line="Es complicada	" />
+				<subtitle lang="so" line="Waa mid aan la fahmeynin" />
+				<subtitle lang="dk" line="Det er svært!" />
+				<subtitle lang="mx" line="Es complicada	" />
+			</subtitles>
+		</line>
+		<line words="I prefer the weather column" start="48626" length="2997" >
+			<highlight index="0" start="81" length="287" />
+			<highlight index="1" start="350" length="580" />
+			<highlight index="2" start="1268" length="323" />
+			<highlight index="3" start="1650" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Prefiero la columna del clima" />
+				<subtitle lang="en" line="我更喜欢天气专栏" />
+				<subtitle lang="nl" line="Ik lees graag over het weer" />
+				<subtitle lang="sp" line="Prefiero la columna del clima" />
+				<subtitle lang="so" line="Waxaan door bidayaa qeybta hawada" />
+				<subtitle lang="dk" line="Jeg kan bedst lide vejrudsigten" />
+				<subtitle lang="mx" line="Prefiero la columna del clima" />
+			</subtitles>
+		</line>
+		<line words="I hate the culture column" start="51895" length="2997" >
+			<highlight index="0" start="167" length="416" />
+			<highlight index="1" start="564" length="580" />
+			<highlight index="2" start="1225" length="394" />
+			<highlight index="3" start="1615" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Odio la columna de cultura" />
+				<subtitle lang="en" line="我讨厌文化专栏" />
+				<subtitle lang="nl" line="Ik haat de cultuurrubriek" />
+				<subtitle lang="sp" line="Odio la columna de cultura" />
+				<subtitle lang="so" line="Waxaan nacbahay qeybta dhaqanka" />
+				<subtitle lang="dk" line="Jeg hader kultursiden" />
+				<subtitle lang="mx" line="Odio la columna de cultura" />
+			</subtitles>
+		</line>
+		<line words="I love the news column" start="55355" length="2997" >
+			<highlight index="0" start="0" length="373" />
+			<highlight index="1" start="505" length="580" />
+			<highlight index="2" start="1070" length="323" />
+			<highlight index="3" start="1377" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="en" line="我爱新闻专栏" />
+				<subtitle lang="cl" line="Me encanta la columna de noticias" />
+				<subtitle lang="so" line="Waxaan jeclahay qeybta wararka" />
+				<subtitle lang="dk" line="Jeg elsker nyhederne" />
+				<subtitle lang="sp" line="Me encanta la columna de noticias" />
+				<subtitle lang="mx" line="Me encanta la columna de noticias" />
+			</subtitles>
+		</line>
+		<line words="I don’t like the education column" start="58025" length="4000" >
+			<highlight index="0" start="332" length="296" />
+			<highlight index="1" start="618" length="296" />
+			<highlight index="2" start="898" length="488" />
+			<highlight index="3" start="1366" length="363" />
+			<highlight index="4" start="1708" length="654" />
+			<highlight index="5" start="2706" length="743" />
+			<subtitles>
+				<subtitle lang="cl" line="No me gusta la columna de educación" />
+				<subtitle lang="en" line="我不喜欢教育专栏" />
+				<subtitle lang="nl" line="Ik houd niet van de onderwijsrubriek" />
+				<subtitle lang="sp" line="No me gusta la columna de educación" />
+				<subtitle lang="so" line="Ma jecli qeybta waxbarashada" />
+				<subtitle lang="dk" line="Jeg kan ikke lide uddannelsessiden" />
+				<subtitle lang="mx" line="No me gusta la columna de educación" />
+			</subtitles>
+		</line>
+		<line words="Why?" start="61975" length="2043" >
+			<highlight index="0" start="440" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="¿Por qué?" />
+				<subtitle lang="en" line="为什么？" />
+				<subtitle lang="nl" line="Waarom?" />
+				<subtitle lang="sp" line="¿Por qué?" />
+				<subtitle lang="so" line="Maxaa jiro?	" />
+				<subtitle lang="dk" line="Hvorfor?" />
+				<subtitle lang="mx" line="¿Por qué?" />
+			</subtitles>
+		</line>
+		<line words="Because" start="63375" length="2043" >
+			<highlight index="0" start="488" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="Porque…" />
+				<subtitle lang="en" line="因为" />
+				<subtitle lang="nl" line="Omdat..." />
+				<subtitle lang="sp" line="Porque…" />
+				<subtitle lang="so" line="Sababta waa maxay…….	" />
+				<subtitle lang="dk" line="Fordi" />
+				<subtitle lang="mx" line="Porque…" />
+			</subtitles>
+		</line>
+		<line words="It's great!" start="64835" length="2044" >
+			<highlight index="0" start="371" length="276" />
+			<highlight index="1" start="639" length="597" />
+			<subtitles>
+				<subtitle lang="cl" line="Es genial" />
+				<subtitle lang="en" line="它很棒" />
+				<subtitle lang="nl" line="Erg super" />
+				<subtitle lang="sp" line="Es genial" />
+				<subtitle lang="so" line="Waa it aad u wanaagsan" />
+				<subtitle lang="dk" line="Det er fedt!" />
+				<subtitle lang="mx" line="Es genial" />
+			</subtitles>
+		</line>
+		<line words="It’s great" start="65970" length="500" >
+			<highlight index="0" start="-806" length="375" />
+			<highlight index="1" start="-424" length="579" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="it's too long!" start="66197" length="2180" >
+			<highlight index="0" start="234" length="322" />
+			<highlight index="1" start="540" length="329" />
+			<highlight index="2" start="925" length="416" />
+			<subtitles>
+				<subtitle lang="cl" line="Es muy larga" />
+				<subtitle lang="en" line="它太长" />
+				<subtitle lang="nl" line="Veel te lang" />
+				<subtitle lang="sp" line="Es muy larga" />
+				<subtitle lang="so" line="Waa mid aad u dheer	" />
+				<subtitle lang="dk" line="Det er for langt!" />
+				<subtitle lang="mx" line="Es muy larga" />
+			</subtitles>
+		</line>
+		<line words="It's fantastic!" start="68104" length="1635" >
+			<highlight index="0" start="21" length="365" />
+			<highlight index="1" start="380" length="842" />
+			<subtitles>
+				<subtitle lang="cl" line="Es fantástica" />
+				<subtitle lang="en" line="它很了不起" />
+				<subtitle lang="nl" line="Heel fantastisch" />
+				<subtitle lang="sp" line="Es fantástica" />
+				<subtitle lang="so" line="Waa mid aad u fiican	" />
+				<subtitle lang="dk" line="Det er fantastisk!" />
+				<subtitle lang="mx" line="Es fantástica" />
+			</subtitles>
+		</line>
+		<line words="It's boring!" start="69330" length="1635" >
+			<highlight index="0" start="180" length="365" />
+			<highlight index="1" start="541" length="842" />
+			<subtitles>
+				<subtitle lang="cl" line="Es aburrida	" />
+				<subtitle lang="en" line="它很无聊" />
+				<subtitle lang="nl" line="Het is saai" />
+				<subtitle lang="sp" line="Es aburrida	" />
+				<subtitle lang="so" line="Waa mid lagu caajisayo	" />
+				<subtitle lang="dk" line="Det er kedeligt!" />
+				<subtitle lang="mx" line="Es aburrida	" />
+			</subtitles>
+		</line>
+		<line words="It's fun" start="71101" length="1635" >
+			<highlight index="0" start="180" length="365" />
+			<highlight index="1" start="541" length="842" />
+			<subtitles>
+				<subtitle lang="cl" line="Es divertida	" />
+				<subtitle lang="en" line="它很好玩" />
+				<subtitle lang="nl" line="Het is leuk" />
+				<subtitle lang="sp" line="Es divertida	" />
+				<subtitle lang="so" line="Waa mid farxad leh	" />
+				<subtitle lang="dk" line="Det er sjovt" />
+				<subtitle lang="mx" line="Es divertida	" />
+			</subtitles>
+		</line>
+		<line words="it's annoying!" start="72327" length="2451" >
+			<highlight index="0" start="547" length="324" />
+			<highlight index="1" start="859" length="719" />
+			<subtitles>
+				<subtitle lang="cl" line="Es molesta	" />
+				<subtitle lang="en" line="它很恼人" />
+				<subtitle lang="nl" line="Erg vervelend" />
+				<subtitle lang="sp" line="Es molesta	" />
+				<subtitle lang="so" line="Waa mid kaa careeynayo" />
+				<subtitle lang="dk" line="Det er irriterende!" />
+				<subtitle lang="mx" line="Es molesta	" />
+			</subtitles>
+		</line>
+		<line words="It's interesting!" start="74097" length="1907" >
+			<highlight index="0" start="373" length="372" />
+			<highlight index="1" start="740" length="854" />
+			<subtitles>
+				<subtitle lang="cl" line="Es interesante" />
+				<subtitle lang="en" line="它很有趣" />
+				<subtitle lang="nl" line="Erg interessant" />
+				<subtitle lang="sp" line="Es interesante" />
+				<subtitle lang="so" line="Waa mid xiisa leh	" />
+				<subtitle lang="dk" line="Det er interessant!" />
+				<subtitle lang="mx" line="Es interesante" />
+			</subtitles>
+		</line>
+		<line words="it's complicated!" start="75732" length="1907" >
+			<highlight index="0" start="373" length="372" />
+			<highlight index="1" start="740" length="854" />
+			<subtitles>
+				<subtitle lang="cl" line="Es complicada" />
+				<subtitle lang="en" line="它很复杂" />
+				<subtitle lang="nl" line="Heel ingewikkeld" />
+				<subtitle lang="sp" line="Es complicada" />
+				<subtitle lang="so" line="Waa mid aan la fahmeynin	" />
+				<subtitle lang="dk" line="Det er svært!" />
+				<subtitle lang="mx" line="Es complicada" />
+			</subtitles>
+		</line>
+		<line words="I prefer the sports column" start="78048" length="3405" >
+			<highlight index="0" start="322" length="287" />
+			<highlight index="1" start="583" length="699" />
+			<highlight index="2" start="1423" length="323" />
+			<highlight index="3" start="1733" length="611" />
+			<highlight index="4" start="2476" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Prefiero la columna de deportes" />
+				<subtitle lang="en" line="我更喜欢运动专栏" />
+				<subtitle lang="nl" line="Ik lees graag de sportrubriek" />
+				<subtitle lang="sp" line="Prefiero la columna de deportes" />
+				<subtitle lang="so" line="Waxaan door bidaa qeybta cayaaraha" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+				<subtitle lang="mx" line="Prefiero la columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="I hate the fashion column" start="81589" length="2997" >
+			<highlight index="0" start="167" length="416" />
+			<highlight index="1" start="564" length="416" />
+			<highlight index="2" start="1046" length="343" />
+			<highlight index="3" start="1517" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Odio la columna de moda" />
+				<subtitle lang="en" line="我讨厌时尚专栏" />
+				<subtitle lang="nl" line="Ik haat de moderubriek" />
+				<subtitle lang="sp" line="Odio la columna de moda" />
+				<subtitle lang="so" line="Waxaan necbahay qeybta moodada" />
+				<subtitle lang="dk" line="Jeg hader modesiden" />
+				<subtitle lang="mx" line="Odio la columna de moda" />
+			</subtitles>
+		</line>
+		<line words="I love the cookery column" start="84722" length="2997" >
+			<highlight index="0" start="0" length="373" />
+			<highlight index="1" start="505" length="580" />
+			<highlight index="2" start="1070" length="323" />
+			<highlight index="3" start="1377" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Me encanta la columna de cocina" />
+				<subtitle lang="en" line="我爱烹饪专栏" />
+				<subtitle lang="nl" line="Ik houd van de kookrubriek" />
+				<subtitle lang="sp" line="Me encanta la columna de cocina" />
+				<subtitle lang="so" line="Waxaan jeclahay qeybta cuntada" />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden" />
+				<subtitle lang="mx" line="Me encanta la columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="I don’t like the travel column" start="87446" length="4000" >
+			<highlight index="0" start="285" length="296" />
+			<highlight index="1" start="561" length="415" />
+			<highlight index="2" start="950" length="484" />
+			<highlight index="3" start="1563" length="307" />
+			<highlight index="4" start="1854" length="654" />
+			<highlight index="5" start="2753" length="696" />
+			<subtitles>
+				<subtitle lang="cl" line="No me gusta la columna de viajes" />
+				<subtitle lang="en" line="我不喜欢旅游专栏" />
+				<subtitle lang="nl" line="Ik houd niet van de reisrubriek" />
+				<subtitle lang="sp" line="No me gusta la columna de viajes" />
+				<subtitle lang="so" line="Ma jecli qeybta safarada	" />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+				<subtitle lang="mx" line="No me gusta la columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="Why?" start="91396" length="2043" >
+			<highlight index="0" start="440" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="¿Por qué?	" />
+				<subtitle lang="en" line="为什么？" />
+				<subtitle lang="nl" line="Waarom?" />
+				<subtitle lang="sp" line="¿Por qué?	" />
+				<subtitle lang="so" line="Maxaa jiro?" />
+				<subtitle lang="dk" line="Hvorfor?" />
+				<subtitle lang="mx" line="¿Por qué?	" />
+			</subtitles>
+		</line>
+		<line words="Because" start="93031" length="2043" >
+			<highlight index="0" start="440" length="546" />
+			<subtitles>
+				<subtitle lang="cl" line="Porque…	" />
+				<subtitle lang="en" line="因为" />
+				<subtitle lang="nl" line="Omdat..." />
+				<subtitle lang="sp" line="Porque…	" />
+				<subtitle lang="so" line="Sababta waa maxay…….	" />
+				<subtitle lang="dk" line="Fordi" />
+				<subtitle lang="mx" line="Porque…	" />
+			</subtitles>
+		</line>
+		<line words="It's great!" start="94393" length="2044" >
+			<highlight index="0" start="371" length="276" />
+			<highlight index="1" start="639" length="597" />
+			<subtitles>
+				<subtitle lang="cl" line="Es genial	" />
+				<subtitle lang="en" line="它很棒" />
+				<subtitle lang="nl" line="Erg super" />
+				<subtitle lang="sp" line="Es genial	" />
+				<subtitle lang="so" line="Waa it aad u wanaagsan" />
+				<subtitle lang="dk" line="Det er fedt" />
+				<subtitle lang="mx" line="Es genial	" />
+			</subtitles>
+		</line>
+		<line words="It's too long!" start="95891" length="2044" >
+			<highlight index="0" start="92" length="340" />
+			<highlight index="1" start="427" length="337" />
+			<highlight index="2" start="745" length="770" />
+			<subtitles>
+				<subtitle lang="cl" line="Es muy larga" />
+				<subtitle lang="en" line="它太长" />
+				<subtitle lang="nl" line="Veel te lang" />
+				<subtitle lang="sp" line="Es muy larga" />
+				<subtitle lang="so" line="Waa mid aad u dheer	" />
+				<subtitle lang="dk" line="Det er for langt!" />
+				<subtitle lang="mx" line="Es muy larga" />
+			</subtitles>
+		</line>
+		<line words="It's fantastic!" start="97798" length="2043" >
+			<highlight index="0" start="34" length="200" />
+			<highlight index="1" start="228" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es fantástica" />
+				<subtitle lang="en" line="它很了不起" />
+				<subtitle lang="nl" line="Heel fantastisch" />
+				<subtitle lang="sp" line="Es fantástica" />
+				<subtitle lang="so" line="Waa mid aad u fiican	" />
+				<subtitle lang="dk" line="Det er fantastisk!" />
+				<subtitle lang="mx" line="Es fantástica" />
+			</subtitles>
+		</line>
+		<line words="It's boring!" start="99296" length="2043" >
+			<highlight index="0" start="100" length="358" />
+			<highlight index="1" start="461" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es aburrida" />
+				<subtitle lang="en" line="它很无聊" />
+				<subtitle lang="nl" line="Het is saai" />
+				<subtitle lang="sp" line="Es aburrida" />
+				<subtitle lang="so" line="Waa mid lagu caajisayo	" />
+				<subtitle lang="dk" line="Det er kedeligt!" />
+				<subtitle lang="mx" line="Es aburrida" />
+			</subtitles>
+		</line>
+		<line words="It's fun!" start="100931" length="2043" >
+			<highlight index="0" start="100" length="358" />
+			<highlight index="1" start="461" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es divertida" />
+				<subtitle lang="en" line="它很好玩" />
+				<subtitle lang="nl" line="Het is leuk" />
+				<subtitle lang="sp" line="Es divertida" />
+				<subtitle lang="so" line="Waa mid farxad leh	" />
+				<subtitle lang="dk" line="Det er sjovt!" />
+				<subtitle lang="mx" line="Es divertida" />
+			</subtitles>
+		</line>
+		<line words="It's annoying!" start="102157" length="2043" >
+			<highlight index="0" start="265" length="358" />
+			<highlight index="1" start="615" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es molesta" />
+				<subtitle lang="en" line="它很恼人" />
+				<subtitle lang="nl" line="Erg vervelend" />
+				<subtitle lang="sp" line="Es molesta" />
+				<subtitle lang="so" line="Waa mid kaa careeynayo	" />
+				<subtitle lang="dk" line="Det er irriterende!" />
+				<subtitle lang="mx" line="Es molesta" />
+			</subtitles>
+		</line>
+		<line words="It's interesting!" start="103791" length="2043" >
+			<highlight index="0" start="265" length="358" />
+			<highlight index="1" start="615" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es interesante" />
+				<subtitle lang="en" line="它很有趣" />
+				<subtitle lang="nl" line="Erg interessant" />
+				<subtitle lang="sp" line="Es interesante" />
+				<subtitle lang="so" line="Waa mid xiisa leh	" />
+				<subtitle lang="dk" line="Det er interessant!" />
+				<subtitle lang="mx" line="Es interesante" />
+			</subtitles>
+		</line>
+		<line words="It's complicated!" start="105426" length="2043" >
+			<highlight index="0" start="265" length="358" />
+			<highlight index="1" start="615" length="711" />
+			<subtitles>
+				<subtitle lang="cl" line="Es complicada	" />
+				<subtitle lang="en" line="它很复杂" />
+				<subtitle lang="nl" line="Heel ingewikkeld" />
+				<subtitle lang="sp" line="Es complicada	" />
+				<subtitle lang="so" line="Waa mid aan la fahmeynin" />
+				<subtitle lang="dk" line="Det er svært!" />
+				<subtitle lang="mx" line="Es complicada	" />
+			</subtitles>
+		</line>
+		<line words="I prefer the sports column" start="107877" length="2997" >
+			<highlight index="0" start="182" length="287" />
+			<highlight index="1" start="455" length="751" />
+			<highlight index="2" start="1268" length="257" />
+			<highlight index="3" start="1521" length="740" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Prefiero la columna de deportes" />
+				<subtitle lang="en" line="我更喜欢运动专栏" />
+				<subtitle lang="nl" line="Ik lees graag de sportrubriek" />
+				<subtitle lang="sp" line="Prefiero la columna de deportes" />
+				<subtitle lang="so" line="Waxaan door bidaa qeybta cayaaraha" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+				<subtitle lang="mx" line="Prefiero la columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="I hate the fashion column" start="111010" length="2997" >
+			<highlight index="0" start="346" length="287" />
+			<highlight index="1" start="626" length="490" />
+			<highlight index="2" start="1101" length="191" />
+			<highlight index="3" start="1381" length="880" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Odio la columna de moda" />
+				<subtitle lang="en" line="我讨厌时尚专栏" />
+				<subtitle lang="nl" line="Ik haat de moderubriek" />
+				<subtitle lang="sp" line="Odio la columna de moda" />
+				<subtitle lang="so" line="Waxaan necbahay qeybta moodada" />
+				<subtitle lang="dk" line="Jeg hader modesiden" />
+				<subtitle lang="mx" line="Odio la columna de moda" />
+			</subtitles>
+		</line>
+		<line words="I love the cookery column" start="114415" length="2997" >
+			<highlight index="0" start="0" length="373" />
+			<highlight index="1" start="505" length="580" />
+			<highlight index="2" start="1070" length="323" />
+			<highlight index="3" start="1377" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Me encanta la columna de cocina" />
+				<subtitle lang="en" line="我爱烹饪专栏" />
+				<subtitle lang="nl" line="Ik houd van de kookrubriek" />
+				<subtitle lang="sp" line="Me encanta la columna de cocina" />
+				<subtitle lang="so" line="Waxaan jeclahay qeybta cuntada	" />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden" />
+				<subtitle lang="mx" line="Me encanta la columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="I don’t like the travel column" start="116867" length="4000" >
+			<highlight index="0" start="623" length="379" />
+			<highlight index="1" start="976" length="338" />
+			<highlight index="2" start="1319" length="399" />
+			<highlight index="3" start="1724" length="265" />
+			<highlight index="4" start="1979" length="555" />
+			<highlight index="5" start="2805" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="No me gusta la columna de viajes" />
+				<subtitle lang="en" line="我不喜欢旅游专栏" />
+				<subtitle lang="nl" line="Ik houd niet van de reisrubriek" />
+				<subtitle lang="sp" line="No me gusta la columna de viajes" />
+				<subtitle lang="so" line="Ma jecli qeybta safarada	" />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+				<subtitle lang="mx" line="No me gusta la columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="I prefer the sports column" start="120817" length="2997" >
+			<highlight index="0" start="38" length="369" />
+			<highlight index="1" start="389" length="580" />
+			<highlight index="2" start="1043" length="291" />
+			<highlight index="3" start="1323" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Prefiero la columna de deportes" />
+				<subtitle lang="en" line="我更喜欢运动专栏" />
+				<subtitle lang="nl" line="Ik lees graag de sportrubriek" />
+				<subtitle lang="sp" line="Prefiero la columna de deportes" />
+				<subtitle lang="so" line="Waxaan door bidaa qeybta cayaaraha" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+				<subtitle lang="mx" line="Prefiero la columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="I hate the fashion column" start="123814" length="2997" >
+			<highlight index="0" start="112" length="521" />
+			<highlight index="1" start="626" length="490" />
+			<highlight index="2" start="1194" length="191" />
+			<highlight index="3" start="1381" length="646" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Odio la columna de moda" />
+				<subtitle lang="en" line="我讨厌时尚专栏" />
+				<subtitle lang="nl" line="Ik haat de moderubriek" />
+				<subtitle lang="sp" line="Odio la columna de moda" />
+				<subtitle lang="so" line="Waxaan necbahay qeybta moodada	" />
+				<subtitle lang="dk" line="Jeg hader modesiden" />
+				<subtitle lang="mx" line="Odio la columna de moda" />
+			</subtitles>
+		</line>
+		<line words="I love the cookery column" start="127083" length="2997" >
+			<highlight index="0" start="0" length="373" />
+			<highlight index="1" start="505" length="580" />
+			<highlight index="2" start="1070" length="323" />
+			<highlight index="3" start="1377" length="611" />
+			<highlight index="4" start="2249" length="716" />
+			<subtitles>
+				<subtitle lang="cl" line="Me encanta la columna de cocina" />
+				<subtitle lang="en" line="我爱烹饪专栏" />
+				<subtitle lang="nl" line="Ik houd van de kookrubriek" />
+				<subtitle lang="sp" line="Me encanta la columna de cocina" />
+				<subtitle lang="so" line="Waxaan jeclahay qeybta cuntada" />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden" />
+				<subtitle lang="mx" line="Me encanta la columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="I don’t like the travel column" start="129671" length="4000" >
+			<highlight index="0" start="623" length="379" />
+			<highlight index="1" start="976" length="338" />
+			<highlight index="2" start="1319" length="399" />
+			<highlight index="3" start="1724" length="265" />
+			<highlight index="4" start="1979" length="555" />
+			<highlight index="5" start="2805" length="831" />
+			<subtitles>
+				<subtitle lang="cl" line="No me gusta la columna de viajes" />
+				<subtitle lang="en" line="我不喜欢旅游专栏" />
+				<subtitle lang="nl" line="Ik houd niet van de reisrubriek" />
+				<subtitle lang="sp" line="No me gusta la columna de viajes" />
+				<subtitle lang="so" line="Ma jecli qeybta safarada	" />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+				<subtitle lang="mx" line="No me gusta la columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="The sports column" start="135800" length="2043" >
+			<highlight index="0" start="737" length="153" />
+			<highlight index="1" start="888" length="433" />
+			<highlight index="2" start="1477" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de deportes" />
+				<subtitle lang="en" line="运动专栏" />
+				<subtitle lang="nl" line="De sportrubriek" />
+				<subtitle lang="sp" line="La columna de deportes" />
+				<subtitle lang="so" line="Qeybta cayaaraha	" />
+				<subtitle lang="dk" line="Sportssektionen" />
+				<subtitle lang="mx" line="La columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="The education column" start="137707" length="2043" >
+			<highlight index="0" start="506" length="190" />
+			<highlight index="1" start="687" length="433" />
+			<highlight index="2" start="1384" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de educación" />
+				<subtitle lang="en" line="教育专栏" />
+				<subtitle lang="nl" line="De onderwijsrubriek" />
+				<subtitle lang="sp" line="La columna de educación" />
+				<subtitle lang="so" line="Qeybta waxbarashada	" />
+				<subtitle lang="dk" line="Uddannelse" />
+				<subtitle lang="mx" line="La columna de educación" />
+			</subtitles>
+		</line>
+		<line words="The news column" start="139478" length="2043" >
+			<highlight index="0" start="350" length="153" />
+			<highlight index="1" start="493" length="433" />
+			<highlight index="2" start="1209" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de noticias" />
+				<subtitle lang="en" line="新闻专栏" />
+				<subtitle lang="nl" line="Het actuele nieuws" />
+				<subtitle lang="sp" line="La columna de noticias" />
+				<subtitle lang="so" line="Qeybta wararka	" />
+				<subtitle lang="dk" line="Nyheder" />
+				<subtitle lang="mx" line="La columna de noticias" />
+			</subtitles>
+		</line>
+		<line words="The fashion column" start="140976" length="2043" >
+			<highlight index="0" start="350" length="153" />
+			<highlight index="1" start="493" length="433" />
+			<highlight index="2" start="1209" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de moda" />
+				<subtitle lang="en" line="时尚专栏" />
+				<subtitle lang="nl" line="De moderubriek" />
+				<subtitle lang="sp" line="La columna de moda" />
+				<subtitle lang="so" line="Qeybta moodada	" />
+				<subtitle lang="dk" line="Mode" />
+				<subtitle lang="mx" line="La columna de moda" />
+			</subtitles>
+		</line>
+		<line words="The cookery column" start="142747" length="2043" >
+			<highlight index="0" start="278" length="153" />
+			<highlight index="1" start="427" length="485" />
+			<highlight index="2" start="1045" length="573" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cocina" />
+				<subtitle lang="en" line="烹饪专栏" />
+				<subtitle lang="nl" line="De kookrubriek" />
+				<subtitle lang="sp" line="La columna de cocina" />
+				<subtitle lang="so" line="Qeybta cuntada	" />
+				<subtitle lang="dk" line="Madlavning" />
+				<subtitle lang="mx" line="La columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="The travel column" start="144382" length="2043" >
+			<highlight index="0" start="265" length="153" />
+			<highlight index="1" start="403" length="433" />
+			<highlight index="2" start="971" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de viajes" />
+				<subtitle lang="en" line="旅游专栏" />
+				<subtitle lang="nl" line="De reisrubriek" />
+				<subtitle lang="sp" line="La columna de viajes" />
+				<subtitle lang="so" line="Qeybta safarada	" />
+				<subtitle lang="dk" line="Rejse" />
+				<subtitle lang="mx" line="La columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="The culture column" start="146016" length="2043" >
+			<highlight index="0" start="262" length="153" />
+			<highlight index="1" start="416" length="433" />
+			<highlight index="2" start="971" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cultura" />
+				<subtitle lang="en" line="文化专栏" />
+				<subtitle lang="nl" line="De cultuurrubriek" />
+				<subtitle lang="sp" line="La columna de cultura" />
+				<subtitle lang="so" line="Qeybta dhaqanka	" />
+				<subtitle lang="dk" line="Kultur" />
+				<subtitle lang="mx" line="La columna de cultura" />
+			</subtitles>
+		</line>
+		<line words="The weather column" start="147651" length="2043" >
+			<highlight index="0" start="214" length="218" />
+			<highlight index="1" start="419" length="451" />
+			<highlight index="2" start="1053" length="544" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna del clima" />
+				<subtitle lang="en" line="天气专栏" />
+				<subtitle lang="nl" line="Het weer" />
+				<subtitle lang="sp" line="La columna del clima" />
+				<subtitle lang="so" line="Qeybta hawada	" />
+				<subtitle lang="dk" line="Vejret" />
+				<subtitle lang="mx" line="La columna del clima" />
+			</subtitles>
+		</line>
+		<line words="The sports column" start="149149" length="2043" >
+			<highlight index="0" start="230" length="190" />
+			<highlight index="1" start="400" length="433" />
+			<highlight index="2" start="1162" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de deportes" />
+				<subtitle lang="en" line="运动专栏" />
+				<subtitle lang="nl" line="De sportrubriek" />
+				<subtitle lang="sp" line="La columna de deportes" />
+				<subtitle lang="so" line="Qeybta cayaaraha	" />
+				<subtitle lang="dk" line="Sportssektionen" />
+				<subtitle lang="mx" line="La columna de deportes" />
+			</subtitles>
+		</line>
+		<line words="The education column" start="150995" length="2043" >
+			<highlight index="0" start="175" length="222" />
+			<highlight index="1" start="384" length="485" />
+			<highlight index="2" start="1045" length="573" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de educación" />
+				<subtitle lang="en" line="教育专栏" />
+				<subtitle lang="nl" line="De onderwijsrubriek" />
+				<subtitle lang="sp" line="La columna de educación" />
+				<subtitle lang="so" line="Qeybta waxbarashada" />
+				<subtitle lang="dk" line="Uddannelse" />
+				<subtitle lang="mx" line="La columna de educación" />
+			</subtitles>
+		</line>
+		<line words="The news column" start="152282" length="2043" >
+			<highlight index="0" start="267" length="190" />
+			<highlight index="1" start="451" length="433" />
+			<highlight index="2" start="1124" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de noticias" />
+				<subtitle lang="en" line="新闻专栏" />
+				<subtitle lang="nl" line="Het actuele nieuws" />
+				<subtitle lang="sp" line="La columna de noticias" />
+				<subtitle lang="so" line="Qeybta wararka	" />
+				<subtitle lang="dk" line="Nyheder" />
+				<subtitle lang="mx" line="La columna de noticias" />
+			</subtitles>
+		</line>
+		<line words="The fashion column" start="153916" length="2043" >
+			<highlight index="0" start="238" length="153" />
+			<highlight index="1" start="387" length="433" />
+			<highlight index="2" start="1069" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de moda" />
+				<subtitle lang="en" line="时尚专栏" />
+				<subtitle lang="nl" line="De moderubriek" />
+				<subtitle lang="sp" line="La columna de moda" />
+				<subtitle lang="so" line="Qeybta moodada	" />
+				<subtitle lang="dk" line="Mode" />
+				<subtitle lang="mx" line="La columna de moda" />
+			</subtitles>
+		</line>
+		<line words="The cookery column" start="155415" length="2043" >
+			<highlight index="0" start="267" length="190" />
+			<highlight index="1" start="451" length="433" />
+			<highlight index="2" start="1124" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cocina" />
+				<subtitle lang="en" line="烹饪专栏" />
+				<subtitle lang="nl" line="De kookrubriek" />
+				<subtitle lang="sp" line="La columna de cocina" />
+				<subtitle lang="so" line="Qeybta cuntada	" />
+				<subtitle lang="dk" line="Madlavning" />
+				<subtitle lang="mx" line="La columna de cocina" />
+			</subtitles>
+		</line>
+		<line words="The travel column" start="157049" length="2043" >
+			<highlight index="0" start="220" length="190" />
+			<highlight index="1" start="397" length="433" />
+			<highlight index="2" start="1124" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de viajes" />
+				<subtitle lang="en" line="旅游专栏" />
+				<subtitle lang="nl" line="De reisrubriek" />
+				<subtitle lang="sp" line="La columna de viajes" />
+				<subtitle lang="so" line="Qeybta safarada	" />
+				<subtitle lang="dk" line="Rejse" />
+				<subtitle lang="mx" line="La columna de viajes" />
+			</subtitles>
+		</line>
+		<line words="The culture column" start="158547" length="2043" >
+			<highlight index="0" start="334" length="190" />
+			<highlight index="1" start="520" length="433" />
+			<highlight index="2" start="1241" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna de cultura" />
+				<subtitle lang="en" line="文化专栏" />
+				<subtitle lang="nl" line="De cultuurrubriek" />
+				<subtitle lang="sp" line="La columna de cultura" />
+				<subtitle lang="so" line="Qeybta dhaqanka	" />
+				<subtitle lang="dk" line="Kultur" />
+				<subtitle lang="mx" line="La columna de cultura" />
+			</subtitles>
+		</line>
+		<line words="The weather column" start="160318" length="2043" >
+			<highlight index="0" start="267" length="190" />
+			<highlight index="1" start="451" length="433" />
+			<highlight index="2" start="1124" length="520" />
+			<subtitles>
+				<subtitle lang="cl" line="La columna del clima" />
+				<subtitle lang="en" line="天气专栏" />
+				<subtitle lang="nl" line="Het weer" />
+				<subtitle lang="sp" line="La columna del clima" />
+				<subtitle lang="so" line="Qeybta hawada	" />
+				<subtitle lang="dk" line="vejret" />
+				<subtitle lang="mx" line="La columna del clima" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

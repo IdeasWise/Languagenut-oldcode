@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="120555" >
+	<lines>
+		<line words="Hallo, wie heißt du?" start="6870" length="4053" >
+			<highlight index="0" start="373" length="800" />
+			<highlight index="1" start="1469" length="462" />
+			<highlight index="2" start="2008" length="474" />
+			<highlight index="3" start="2500" length="426" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Johann." start="10499" length="4988" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="911" />
+			<highlight index="2" start="3507" length="1145" />
+			<subtitles>
+				<subtitle lang="en" line="My name's John" />
+				<subtitle lang="nz" line="My name's John" />
+				<subtitle lang="dk" line="Hej, jeg hedder John." />
+			</subtitles>
+		</line>
+		<line words="Hallo, wie heißt du?" start="16316" length="4053" >
+			<highlight index="0" start="373" length="800" />
+			<highlight index="1" start="1469" length="462" />
+			<highlight index="2" start="2008" length="474" />
+			<highlight index="3" start="2500" length="426" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Marie." start="20265" length="4988" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="911" />
+			<highlight index="2" start="3507" length="1145" />
+			<subtitles>
+				<subtitle lang="en" line="My name's Mary" />
+				<subtitle lang="nz" line="My name's Mary" />
+				<subtitle lang="dk" line="Hej, jeg hedder Mary." />
+			</subtitles>
+		</line>
+		<line words="Und du?" start="25150" length="2598" >
+			<highlight index="0" start="824" length="374" />
+			<highlight index="1" start="1253" length="589" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Hallo, wie heißt du?" start="35335" length="4053" >
+			<highlight index="0" start="373" length="1049" />
+			<highlight index="1" start="1469" length="539" />
+			<highlight index="2" start="2008" length="510" />
+			<highlight index="3" start="2500" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Oliver." start="39284" length="6028" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="1684" />
+			<highlight index="2" start="3613" length="2211" />
+			<subtitles>
+				<subtitle lang="en" line="My name's Oliver" />
+				<subtitle lang="nz" line="My name's Oliver" />
+				<subtitle lang="dk" line="Hej, jeg hedder Oliver." />
+			</subtitles>
+		</line>
+		<line words="Hallo, wie heißt du?" start="45370" length="4053" >
+			<highlight index="0" start="373" length="1049" />
+			<highlight index="1" start="1469" length="539" />
+			<highlight index="2" start="2008" length="510" />
+			<highlight index="3" start="2500" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Theo." start="49053" length="5612" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="1371" />
+			<highlight index="2" start="3613" length="863" />
+			<subtitles>
+				<subtitle lang="en" line="My name's Theo" />
+				<subtitle lang="nz" line="My name's Theo" />
+				<subtitle lang="dk" line="Hej, jeg hedder Theo." />
+			</subtitles>
+		</line>
+		<line words="Und du?" start="54145" length="2598" >
+			<highlight index="0" start="729" length="374" />
+			<highlight index="1" start="1082" length="589" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Hallo, wie heißt du?" start="64434" length="4053" >
+			<highlight index="0" start="373" length="1049" />
+			<highlight index="1" start="1469" length="539" />
+			<highlight index="2" start="2008" length="510" />
+			<highlight index="3" start="2500" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Amy." start="68055" length="6028" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="1256" />
+			<highlight index="2" start="3613" length="1057" />
+			<subtitles>
+				<subtitle lang="en" line="My name's Amy" />
+				<subtitle lang="nz" line="My name's Amy" />
+				<subtitle lang="dk" line="Hej, jeg hedder Amy." />
+			</subtitles>
+		</line>
+		<line words="Hallo, wie heißt du?" start="73891" length="4053" >
+			<highlight index="0" start="373" length="1049" />
+			<highlight index="1" start="1469" length="539" />
+			<highlight index="2" start="2008" length="510" />
+			<highlight index="3" start="2500" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="Hello, what's your name?" />
+				<subtitle lang="nz" line="Hello, what's your name?" />
+				<subtitle lang="dk" line="Hej, hvad hedder du?" />
+			</subtitles>
+		</line>
+		<line words="Ich heiße Sarah." start="77737" length="6028" >
+			<highlight index="0" start="1290" length="532" />
+			<highlight index="1" start="1801" length="1256" />
+			<highlight index="2" start="3613" length="1057" />
+			<subtitles>
+				<subtitle lang="en" line="My name's Sarah" />
+				<subtitle lang="nz" line="My name's Sarah" />
+				<subtitle lang="dk" line="Hej, jeg hedder Sarah." />
+			</subtitles>
+		</line>
+		<line words="Und du?" start="83661" length="2598" >
+			<highlight index="0" start="49" length="334" />
+			<highlight index="1" start="364" length="589" />
+			<subtitles>
+				<subtitle lang="en" line="And you?" />
+				<subtitle lang="nz" line="And you?" />
+				<subtitle lang="dk" line="Og du?" />
+			</subtitles>
+		</line>
+		<line words="Meine Schwester heißt Johanna." start="91975" length="5300" >
+			<highlight index="0" start="991" length="543" />
+			<highlight index="1" start="1588" length="914" />
+			<highlight index="2" start="2518" length="510" />
+			<highlight index="3" start="3122" length="1054" />
+			<subtitles>
+				<subtitle lang="en" line="My sister's name is Joanna " />
+				<subtitle lang="nz" line="My sister's name is Joanna " />
+				<subtitle lang="dk" line="Min søster hedder Jane." />
+			</subtitles>
+		</line>
+		<line words="Mein Bruder heißt Paul." start="96859" length="4677" >
+			<highlight index="0" start="991" length="543" />
+			<highlight index="1" start="1508" length="914" />
+			<highlight index="2" start="2518" length="616" />
+			<highlight index="3" start="3596" length="898" />
+			<subtitles>
+				<subtitle lang="en" line="My brother's name is Paul " />
+				<subtitle lang="nz" line="My brother's name is Paul " />
+				<subtitle lang="dk" line="Min bror hedder Paul." />
+			</subtitles>
+		</line>
+		<line words="Meine Mutter heißt Jenny." start="101432" length="5300" >
+			<highlight index="0" start="991" length="543" />
+			<highlight index="1" start="1588" length="914" />
+			<highlight index="2" start="2649" length="744" />
+			<highlight index="3" start="4121" length="729" />
+			<subtitles>
+				<subtitle lang="en" line="My mother's name is Jenny " />
+				<subtitle lang="nz" line="My mother's name is Jenny " />
+				<subtitle lang="dk" line="Min mor hedder Jenny." />
+			</subtitles>
+		</line>
+		<line words="Mein Vater heißt Peter." start="106524" length="4677" >
+			<highlight index="0" start="991" length="437" />
+			<highlight index="1" start="1401" length="1021" />
+			<highlight index="2" start="2518" length="616" />
+			<highlight index="3" start="3596" length="898" />
+			<subtitles>
+				<subtitle lang="en" line="My dad's name is Peter " />
+				<subtitle lang="nz" line="My dad's name is Peter " />
+				<subtitle lang="dk" line="Min far hedder Peter." />
+			</subtitles>
+		</line>
+		<line words="Das war´s!" start="111201" length="4470" >
+			<highlight index="0" start="1248" length="327" />
+			<highlight index="1" start="1535" length="752" />
+			<subtitles>
+				<subtitle lang="en" line="That's all!" />
+				<subtitle lang="nz" line="That's all!" />
+				<subtitle lang="dk" line="Det var alt!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

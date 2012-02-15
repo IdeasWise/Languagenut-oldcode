@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="123768" >
+	<lines>
+		<line words="Tête épaules genoux pieds genoux pieds" start="5334" length="3521" >
+			<highlight index="0" start="77" length="355" />
+			<highlight index="1" start="607" length="546" />
+			<highlight index="2" start="1132" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2728" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="Hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="Heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux pieds genoux pieds" start="9069" length="3094" >
+			<highlight index="0" start="77" length="355" />
+			<highlight index="1" start="607" length="546" />
+			<highlight index="2" start="1132" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2728" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="11843" length="2240" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1051" length="200" />
+			<highlight index="3" start="1545" length="200" />
+			<highlight index="4" start="1761" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="14083" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1359" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux pieds genoux pieds" start="16217" length="3521" >
+			<highlight index="0" start="169" length="355" />
+			<highlight index="1" start="679" length="546" />
+			<highlight index="2" start="1214" length="345" />
+			<highlight index="3" start="1688" length="556" />
+			<highlight index="4" start="2347" length="484" />
+			<highlight index="5" start="2887" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+		<line words="Tête épaules genoux _____ genoux _____" start="24006" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2728" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd, schouders knie ____ knie ____" />
+				<subtitle lang="dk" line="Hoved skuldre knæ ____, knæ ____" />
+				<subtitle lang="en" line="Heads shoulders knees ____, knees ____" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux _____ genoux _____" start="27741" length="3094" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2728" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders knie ____ knie ____" />
+				<subtitle lang="dk" line="hoved skuldre knæ ____, knæ ____" />
+				<subtitle lang="en" line="heads shoulders knees ____, knees ____" />
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="30195" length="2240" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1051" length="235" />
+			<highlight index="3" start="1545" length="200" />
+			<highlight index="4" start="1761" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="32755" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1359" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux _____ genoux _____" start="34889" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2728" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders knie ____ knie ____" />
+				<subtitle lang="dk" line="hoved skuldre knæ ____, knæ ____" />
+				<subtitle lang="en" line="heads shoulders knees ____, knees ____" />
+			</subtitles>
+		</line>
+		<line words="Tête épaules ______ _____ ______ _____" start="42465" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd schouders _____ ____ _____ ____" />
+				<subtitle lang="dk" line="Hoved skuldre ____ ____, ____ ____" />
+				<subtitle lang="en" line="Heads shoulders _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="tête épaules ______ _____ ______ _____" start="45986" length="3094" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd schouders _____ ____ _____ ____" />
+				<subtitle lang="dk" line="hoved skuldre ____ ____, ____ ____" />
+				<subtitle lang="en" line="heads shoulders _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="48760" length="2453" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1051" length="235" />
+			<highlight index="3" start="1545" length="200" />
+			<highlight index="4" start="1761" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="51000" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1395" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="tête épaules ______ _____ ______ _____" start="53561" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd schouders _____ ____ _____ ____" />
+				<subtitle lang="dk" line="hoved skuldre ____ ____, ____ ____" />
+				<subtitle lang="en" line="heads shoulders _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="Tête _______ ______ _____ ______ _____" start="60817" length="3734" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd ________ _____ ____ _____ ____" />
+				<subtitle lang="dk" line="Hoved _____ ____ ____ ____ ____" />
+				<subtitle lang="en" line="Heads _________ _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="tête _______ ______ _____ ______ _____" start="64444" length="3094" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="633" length="546" />
+			<highlight index="2" start="1180" length="345" />
+			<highlight index="3" start="1646" length="556" />
+			<highlight index="4" start="2297" length="484" />
+			<highlight index="5" start="2739" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd ________ _____ ____ _____ ____" />
+				<subtitle lang="dk" line="hoved _____ ____ ____ ____ ____" />
+				<subtitle lang="en" line="heads _________ _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="67218" length="2453" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1051" length="235" />
+			<highlight index="3" start="1545" length="200" />
+			<highlight index="4" start="1761" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="69459" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1395" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="tête _______ ______ _____ ______ _____" start="71913" length="3734" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd ________ _____ ____ _____ ____" />
+				<subtitle lang="dk" line="hoved _____ ____ ____ ____ ____" />
+				<subtitle lang="en" line="heads _________ _____ ____, _____ ____" />
+			</subtitles>
+		</line>
+		<line words="____ _______ ______ _____ ______ _____" start="79382" length="3734" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="____ _______ ______ _____ ______ _____" start="83116" length="3094" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="85677" length="2453" >
+			<highlight index="0" start="635" length="200" />
+			<highlight index="1" start="838" length="200" />
+			<highlight index="2" start="1051" length="235" />
+			<highlight index="3" start="1545" length="200" />
+			<highlight index="4" start="1761" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="87917" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1395" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="____ _______ ______ _____ ______ _____" start="90478" length="3734" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Tête épaules genoux pieds genoux pieds" start="97840" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="Hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="Hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="Heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux pieds genoux pieds" start="101361" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+		<line words="et les yeux les oreilles" start="104455" length="2453" >
+			<highlight index="0" start="308" length="200" />
+			<highlight index="1" start="502" length="200" />
+			<highlight index="2" start="695" length="235" />
+			<highlight index="3" start="1197" length="200" />
+			<highlight index="4" start="1402" length="433" />
+			<subtitles>
+				<subtitle lang="nl" line="oren, ogen" />
+				<subtitle lang="dk" line="og øjne ører " />
+				<subtitle lang="en" line="and eyes ears" />
+			</subtitles>
+		</line>
+		<line words="la bouche et le nez" start="106483" length="2241" >
+			<highlight index="0" start="62" length="337" />
+			<highlight index="1" start="429" length="445" />
+			<highlight index="2" start="933" length="216" />
+			<highlight index="3" start="1159" length="200" />
+			<highlight index="4" start="1395" length="554" />
+			<subtitles>
+				<subtitle lang="nl" line="puntje van je neus" />
+				<subtitle lang="dk" line="mund næse " />
+				<subtitle lang="en" line="mouth and nose" />
+			</subtitles>
+		</line>
+		<line words="tête épaules genoux pieds genoux pieds" start="108830" length="3521" >
+			<highlight index="0" start="0" length="396" />
+			<highlight index="1" start="545" length="546" />
+			<highlight index="2" start="1086" length="345" />
+			<highlight index="3" start="1569" length="556" />
+			<highlight index="4" start="2197" length="484" />
+			<highlight index="5" start="2697" length="355" />
+			<subtitles>
+				<subtitle lang="nl" line="hoofd, schouders, knie teen, knie teen" />
+				<subtitle lang="dk" line="hoved skuldre knæ tå, knæ tå" />
+				<subtitle lang="en" line="heads shoulders knees feet, knees feet" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

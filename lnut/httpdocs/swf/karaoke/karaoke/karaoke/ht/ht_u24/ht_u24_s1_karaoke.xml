@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="169743" >
+	<lines>
+		<line words="Kolòn espò a" start="6145" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The sports column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn edikasyon an" start="7609" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The education column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn nouvèl la" start="9365" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The news column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn mòd la" start="10974" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The fashion column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kizin nan" start="12584" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The cookery column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn vwayaj la" start="14194" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The travel column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kilti a" start="15803" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The culture column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn tan an" start="17559" length="1756" >
+			<highlight index="0" start="163" length="531" />
+			<highlight index="1" start="697" length="304" />
+			<highlight index="2" start="988" length="276" />
+			<subtitles>
+				<subtitle lang="en" line="The weather column" />
+			</subtitles>
+		</line>
+		<line words="M pito kolòn espò a" start="18876" length="3366" >
+			<highlight index="0" start="407" length="237" />
+			<highlight index="1" start="622" length="701" />
+			<highlight index="2" start="1289" length="826" />
+			<highlight index="3" start="2110" length="911" />
+			<highlight index="4" start="2715" length="531" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+			</subtitles>
+		</line>
+		<line words="Mwen rayi kolòn mòd la" start="21949" length="3366" >
+			<highlight index="0" start="499" length="272" />
+			<highlight index="1" start="752" length="701" />
+			<highlight index="2" start="1913" length="433" />
+			<highlight index="3" start="2332" length="743" />
+			<highlight index="4" start="2715" length="531" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn kizin nan anpil" start="25022" length="3366" >
+			<highlight index="0" start="499" length="272" />
+			<highlight index="1" start="752" length="701" />
+			<highlight index="2" start="1656" length="348" />
+			<highlight index="3" start="1980" length="409" />
+			<highlight index="4" start="2385" length="262" />
+			<highlight index="5" start="2637" length="614" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column" />
+			</subtitles>
+		</line>
+		<line words="M pa renmen kolòn vwayaj la" start="28241" length="4000" >
+			<highlight index="0" start="480" length="200" />
+			<highlight index="1" start="667" length="328" />
+			<highlight index="2" start="995" length="690" />
+			<highlight index="3" start="1663" length="741" />
+			<highlight index="4" start="2381" length="594" />
+			<highlight index="5" start="2930" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column" />
+			</subtitles>
+		</line>
+		<line words="Pou kisa?" start="32046" length="2195" >
+			<highlight index="0" start="630" length="153" />
+			<highlight index="1" start="769" length="916" />
+			<subtitles>
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Paske...." start="33948" length="1463" >
+			<highlight index="0" start="335" length="755" />
+			<subtitles>
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Li bèl" start="35119" length="1756" >
+			<highlight index="0" start="519" length="141" />
+			<highlight index="1" start="654" length="481" />
+			<subtitles>
+				<subtitle lang="en" line="It’s great" />
+			</subtitles>
+		</line>
+		<line words="Li tw ò long" start="36582" length="1902" >
+			<highlight index="0" start="376" length="162" />
+			<highlight index="1" start="527" length="100" />
+			<highlight index="2" start="621" length="100" />
+			<highlight index="3" start="720" length="436" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long" />
+			</subtitles>
+		</line>
+		<line words="Li fòmidab" start="38192" length="1902" >
+			<highlight index="0" start="242" length="200" />
+			<highlight index="1" start="433" length="790" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic" />
+			</subtitles>
+		</line>
+		<line words="Li raz" start="39655" length="1902" >
+			<highlight index="0" start="338" length="294" />
+			<highlight index="1" start="624" length="721" />
+			<subtitles>
+				<subtitle lang="en" line="It’s boring	" />
+			</subtitles>
+		</line>
+		<line words="Li gen plezi ladann" start="41265" length="1902" >
+			<highlight index="0" start="333" length="200" />
+			<highlight index="1" start="527" length="245" />
+			<highlight index="2" start="761" length="489" />
+			<highlight index="3" start="1245" length="417" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun" />
+			</subtitles>
+		</line>
+		<line words="Li anmèdan" start="43021" length="1756" >
+			<highlight index="0" start="363" length="200" />
+			<highlight index="1" start="551" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s annoying" />
+			</subtitles>
+		</line>
+		<line words="Li enteresan" start="44484" length="1756" >
+			<highlight index="0" start="377" length="277" />
+			<highlight index="1" start="645" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting" />
+			</subtitles>
+		</line>
+		<line words="Li konplike" start="46094" length="1756" >
+			<highlight index="0" start="377" length="277" />
+			<highlight index="1" start="645" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s complicated" />
+			</subtitles>
+		</line>
+		<line words="Mwen pito kolòn tan an" start="48288" length="3366" >
+			<highlight index="0" start="496" length="346" />
+			<highlight index="1" start="814" length="819" />
+			<highlight index="2" start="2062" length="651" />
+			<highlight index="3" start="2704" length="609" />
+			<highlight index="4" start="2984" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the weather column" />
+			</subtitles>
+		</line>
+		<line words="Mwen rayi kolòn kilti a" start="51361" length="3366" >
+			<highlight index="0" start="496" length="346" />
+			<highlight index="1" start="814" length="819" />
+			<highlight index="2" start="2062" length="651" />
+			<highlight index="3" start="2704" length="609" />
+			<highlight index="4" start="2984" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the culture column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn nouvèl la" start="54727" length="3366" >
+			<highlight index="0" start="496" length="346" />
+			<highlight index="1" start="814" length="819" />
+			<highlight index="2" start="2062" length="523" />
+			<highlight index="3" start="2570" length="452" />
+			<highlight index="4" start="3008" length="248" />
+			<subtitles>
+				<subtitle lang="en" line="I love the news column" />
+			</subtitles>
+		</line>
+		<line words="Mwen pa renmen kolòn edikasyon an" start="57946" length="3366" >
+			<highlight index="0" start="504" length="246" />
+			<highlight index="1" start="733" length="238" />
+			<highlight index="2" start="952" length="428" />
+			<highlight index="3" start="1490" length="428" />
+			<highlight index="4" start="1880" length="1028" />
+			<highlight index="5" start="2713" length="486" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the education column" />
+			</subtitles>
+		</line>
+		<line words="Pou kisa?" start="61458" length="2195" >
+			<highlight index="0" start="630" length="153" />
+			<highlight index="1" start="769" length="916" />
+			<subtitles>
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Paske...." start="63653" length="1463" >
+			<highlight index="0" start="335" length="755" />
+			<subtitles>
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Li bèl" start="64970" length="1756" >
+			<highlight index="0" start="519" length="141" />
+			<highlight index="1" start="654" length="481" />
+			<subtitles>
+				<subtitle lang="en" line="It’s great" />
+			</subtitles>
+		</line>
+		<line words="Li tw ò long" start="66580" length="1755" >
+			<highlight index="0" start="229" length="162" />
+			<highlight index="1" start="380" length="100" />
+			<highlight index="2" start="474" length="100" />
+			<highlight index="3" start="573" length="436" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long" />
+			</subtitles>
+		</line>
+		<line words="Li fòmidab" start="68189" length="1902" >
+			<highlight index="0" start="242" length="200" />
+			<highlight index="1" start="433" length="790" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic" />
+			</subtitles>
+		</line>
+		<line words="Li raz" start="69653" length="1902" >
+			<highlight index="0" start="338" length="294" />
+			<highlight index="1" start="624" length="721" />
+			<subtitles>
+				<subtitle lang="en" line="It’s boring" />
+			</subtitles>
+		</line>
+		<line words="Li gen plezi ladann" start="70823" length="1902" >
+			<highlight index="0" start="333" length="200" />
+			<highlight index="1" start="527" length="277" />
+			<highlight index="2" start="804" length="290" />
+			<highlight index="3" start="1127" length="568" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun" />
+			</subtitles>
+		</line>
+		<line words="Li anmèdan" start="72579" length="1756" >
+			<highlight index="0" start="363" length="200" />
+			<highlight index="1" start="551" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s annoying" />
+			</subtitles>
+		</line>
+		<line words="Li enteresan" start="74189" length="1756" >
+			<highlight index="0" start="377" length="277" />
+			<highlight index="1" start="645" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting" />
+			</subtitles>
+		</line>
+		<line words="Li konplike" start="75799" length="1756" >
+			<highlight index="0" start="377" length="277" />
+			<highlight index="1" start="645" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s complicated" />
+			</subtitles>
+		</line>
+		<line words="Mwen pito kolòn espò a" start="77554" length="3951" >
+			<highlight index="0" start="676" length="459" />
+			<highlight index="1" start="1112" length="521" />
+			<highlight index="2" start="1937" length="890" />
+			<highlight index="3" start="2805" length="832" />
+			<highlight index="4" start="3324" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+			</subtitles>
+		</line>
+		<line words="Mwen rayi kolòn mòd la" start="80920" length="3951" >
+			<highlight index="0" start="676" length="459" />
+			<highlight index="1" start="1112" length="1084" />
+			<highlight index="2" start="2184" length="643" />
+			<highlight index="3" start="2805" length="832" />
+			<highlight index="4" start="3324" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn kizin nan anpil" start="84578" length="3220" >
+			<highlight index="0" start="223" length="352" />
+			<highlight index="1" start="558" length="521" />
+			<highlight index="2" start="1302" length="463" />
+			<highlight index="3" start="1732" length="430" />
+			<highlight index="4" start="2145" length="241" />
+			<highlight index="5" start="2363" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn kizin nan anpil" start="84578" length="3220" >
+			<highlight index="0" start="223" length="352" />
+			<highlight index="1" start="558" length="521" />
+			<highlight index="2" start="1302" length="463" />
+			<highlight index="3" start="1732" length="430" />
+			<highlight index="4" start="2145" length="241" />
+			<highlight index="5" start="2363" length="514" />
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="Mwen pa renmen kolòn vwayaj la" start="87651" length="3951" >
+			<highlight index="0" start="212" length="296" />
+			<highlight index="1" start="486" length="280" />
+			<highlight index="2" start="743" length="463" />
+			<highlight index="3" start="1620" length="542" />
+			<highlight index="4" start="2145" length="649" />
+			<highlight index="5" start="2749" length="447" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column" />
+			</subtitles>
+		</line>
+		<line words="Pou kisa?" start="91163" length="2049" >
+			<highlight index="0" start="484" length="153" />
+			<highlight index="1" start="623" length="916" />
+			<subtitles>
+				<subtitle lang="en" line="Why?" />
+			</subtitles>
+		</line>
+		<line words="Paske...." start="93212" length="1756" >
+			<highlight index="0" start="335" length="755" />
+			<subtitles>
+				<subtitle lang="en" line="Because…" />
+			</subtitles>
+		</line>
+		<line words="Li bèl" start="94675" length="1756" >
+			<highlight index="0" start="519" length="141" />
+			<highlight index="1" start="654" length="481" />
+			<subtitles>
+				<subtitle lang="en" line="It’s great" />
+			</subtitles>
+		</line>
+		<line words="Li tw ò long" start="96285" length="1755" >
+			<highlight index="0" start="229" length="162" />
+			<highlight index="1" start="380" length="100" />
+			<highlight index="2" start="474" length="100" />
+			<highlight index="3" start="573" length="436" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long" />
+			</subtitles>
+		</line>
+		<line words="Li fòmidab" start="97894" length="1902" >
+			<highlight index="0" start="242" length="200" />
+			<highlight index="1" start="433" length="790" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic" />
+			</subtitles>
+		</line>
+		<line words="Li raz" start="99358" length="1756" >
+			<highlight index="0" start="236" length="294" />
+			<highlight index="1" start="519" length="522" />
+			<subtitles>
+				<subtitle lang="en" line="It’s boring" />
+			</subtitles>
+		</line>
+		<line words="Li gen plezi ladann" start="100675" length="1902" >
+			<highlight index="0" start="333" length="200" />
+			<highlight index="1" start="527" length="236" />
+			<highlight index="2" start="753" length="245" />
+			<highlight index="3" start="981" length="568" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun" />
+			</subtitles>
+		</line>
+		<line words="Li anmèdan" start="102284" length="1756" >
+			<highlight index="0" start="363" length="200" />
+			<highlight index="1" start="551" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s annoying" />
+			</subtitles>
+		</line>
+		<line words="Li enteresan" start="103748" length="1756" >
+			<highlight index="0" start="377" length="277" />
+			<highlight index="1" start="645" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting" />
+			</subtitles>
+		</line>
+		<line words="Li konplike" start="105504" length="1756" >
+			<highlight index="0" start="211" length="233" />
+			<highlight index="1" start="437" length="837" />
+			<subtitles>
+				<subtitle lang="en" line="It’s complicated" />
+			</subtitles>
+		</line>
+		<line words="Mwen pito kolòn espò a" start="107113" length="3951" >
+			<highlight index="0" start="676" length="459" />
+			<highlight index="1" start="1112" length="765" />
+			<highlight index="2" start="1937" length="890" />
+			<highlight index="3" start="2805" length="832" />
+			<highlight index="4" start="3324" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+			</subtitles>
+		</line>
+		<line words="Mwen rayi kolòn mòd la" start="110771" length="3366" >
+			<highlight index="0" start="419" length="329" />
+			<highlight index="1" start="732" length="521" />
+			<highlight index="2" start="1937" length="588" />
+			<highlight index="3" start="2503" length="832" />
+			<highlight index="4" start="2939" length="401" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn kizin nan anpil" start="113991" length="3220" >
+			<highlight index="0" start="223" length="352" />
+			<highlight index="1" start="558" length="521" />
+			<highlight index="2" start="1302" length="463" />
+			<highlight index="3" start="1732" length="430" />
+			<highlight index="4" start="2145" length="241" />
+			<highlight index="5" start="2363" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column" />
+			</subtitles>
+		</line>
+		<line words="Mwen pa renmen kolòn vwayaj la" start="116917" length="3828" >
+			<highlight index="0" start="514" length="296" />
+			<highlight index="1" start="782" length="280" />
+			<highlight index="2" start="1162" length="687" />
+			<highlight index="3" start="1838" length="793" />
+			<highlight index="4" start="2609" length="497" />
+			<highlight index="5" start="3078" length="392" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column" />
+			</subtitles>
+		</line>
+		<line words="Mwen pito kolòn espò a" start="120307" length="3489" >
+			<highlight index="0" start="214" length="459" />
+			<highlight index="1" start="650" length="765" />
+			<highlight index="2" start="1475" length="890" />
+			<highlight index="3" start="2343" length="832" />
+			<highlight index="4" start="2862" length="329" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+			</subtitles>
+		</line>
+		<line words="Mwen rayi kolòn mòd la" start="123648" length="3366" >
+			<highlight index="0" start="419" length="329" />
+			<highlight index="1" start="732" length="521" />
+			<highlight index="2" start="1937" length="588" />
+			<highlight index="3" start="2503" length="832" />
+			<highlight index="4" start="2939" length="401" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column" />
+			</subtitles>
+		</line>
+		<line words="Mwen renmen kolòn kizin nan anpil" start="126723" length="3511" >
+			<highlight index="0" start="316" length="352" />
+			<highlight index="1" start="641" length="953" />
+			<highlight index="2" start="1593" length="369" />
+			<highlight index="3" start="1944" length="509" />
+			<highlight index="4" start="2436" length="241" />
+			<highlight index="5" start="2654" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column" />
+			</subtitles>
+		</line>
+		<line words="Mwen pa renmen kolòn vwayaj la" start="129648" length="3951" >
+			<highlight index="0" start="514" length="296" />
+			<highlight index="1" start="782" length="280" />
+			<highlight index="2" start="1162" length="687" />
+			<highlight index="3" start="1838" length="793" />
+			<highlight index="4" start="2604" length="564" />
+			<highlight index="5" start="3157" length="626" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn espò a" start="136526" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The sports column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn edikasyon an" start="138135" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The education column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn nouvèl la" start="139891" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The news column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn mòd la" start="141501" length="1756" >
+			<highlight index="0" start="146" length="502" />
+			<highlight index="1" start="640" length="413" />
+			<highlight index="2" start="1050" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The fashion column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kizin nan" start="142964" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The cookery column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn vwayaj la" start="144574" length="1756" >
+			<highlight index="0" start="114" length="549" />
+			<highlight index="1" start="653" length="370" />
+			<highlight index="2" start="1010" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The travel column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kilti a" start="146037" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The culture column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn tan an" start="147793" length="1756" >
+			<highlight index="0" start="163" length="531" />
+			<highlight index="1" start="697" length="304" />
+			<highlight index="2" start="988" length="276" />
+			<subtitles>
+				<subtitle lang="en" line="The weather column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn espò a" start="149256" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="371" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The sports column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn edikasyon an" start="151012" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The education column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn nouvèl la" start="152476" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="385" />
+			<highlight index="2" start="1078" length="514" />
+			<subtitles>
+				<subtitle lang="en" line="The news column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn mòd la" start="154232" length="1756" >
+			<highlight index="0" start="146" length="502" />
+			<highlight index="1" start="640" length="413" />
+			<highlight index="2" start="1050" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The fashion column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kizin nan" start="155695" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The cookery column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn vwayaj la" start="157304" length="1756" >
+			<highlight index="0" start="201" length="531" />
+			<highlight index="1" start="721" length="376" />
+			<highlight index="2" start="1078" length="419" />
+			<subtitles>
+				<subtitle lang="en" line="The travel column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn kilti a" start="158768" length="1756" >
+			<highlight index="0" start="260" length="531" />
+			<highlight index="1" start="869" length="303" />
+			<highlight index="2" start="1159" length="281" />
+			<subtitles>
+				<subtitle lang="en" line="The culture column" />
+			</subtitles>
+		</line>
+		<line words="Kolòn tan an" start="160524" length="1756" >
+			<highlight index="0" start="176" length="613" />
+			<highlight index="1" start="779" length="304" />
+			<highlight index="2" start="1072" length="480" />
+			<subtitles>
+				<subtitle lang="en" line="The weather column" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

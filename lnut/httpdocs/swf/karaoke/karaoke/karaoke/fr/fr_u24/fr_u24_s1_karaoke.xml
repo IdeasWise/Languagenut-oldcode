@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="169717" >
+	<lines>
+		<line words="La rubrique sport, la rubrique éducation" start="5706" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="The sports column, the education column" />
+				<subtitle lang="nz" line="The sports column, the education column" />
+				<subtitle lang="dk" line="Sportssektionen, Uddannelse" />
+			</subtitles>
+		</line>
+		<line words="la rubrique actualités, la rubrique mode" start="8924" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the news column, the fashion column" />
+				<subtitle lang="nz" line="the news column, the fashion column" />
+				<subtitle lang="dk" line="Nyheder, Mode" />
+			</subtitles>
+		</line>
+		<line words="la rubrique cuisine, la rubrique voyage" start="12143" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the cookery column, the travel column" />
+				<subtitle lang="nz" line="the cookery column, the travel column" />
+				<subtitle lang="dk" line="Madlavning, Rejse. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique culture, la rubrique météo" start="15362" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the culture column, the weather column" />
+				<subtitle lang="nz" line="the culture column, the weather column" />
+				<subtitle lang="dk" line="Kultur, vejret" />
+			</subtitles>
+		</line>
+		<line words="Je préfère la rubrique sport." start="18727" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column." />
+				<subtitle lang="nz" line="I prefer the sports column." />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+			</subtitles>
+		</line>
+		<line words="Je déteste la rubrique mode." start="21946" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column." />
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="dk" line="Jeg hader modesiden" />
+			</subtitles>
+		</line>
+		<line words="J’adore la rubrique cuisine." start="25311" length="3511" >
+			<highlight index="0" start="364" length="647" />
+			<highlight index="1" start="1108" length="226" />
+			<highlight index="2" start="1355" length="667" />
+			<highlight index="3" start="2135" length="703" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column." />
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden" />
+			</subtitles>
+		</line>
+		<line words="Je n’aime pas la rubrique voyage." start="28383" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="523" />
+			<highlight index="2" start="1149" length="406" />
+			<highlight index="3" start="1539" length="344" />
+			<highlight index="4" start="1863" length="852" />
+			<highlight index="5" start="2694" length="652" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column." />
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+			</subtitles>
+		</line>
+		<line words="Pourquoi? Parce que" start="31895" length="3804" >
+			<highlight index="0" start="889" length="718" />
+			<highlight index="1" start="2263" length="256" />
+			<highlight index="2" start="2574" length="473" />
+			<subtitles>
+				<subtitle lang="en" line="Why? Because" />
+				<subtitle lang="nz" line="Why? Because" />
+				<subtitle lang="dk" line="Hvorfor? Hvorfor?" />
+			</subtitles>
+		</line>
+		<line words="C’est trop long. C’est génial." start="35552" length="3365" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="276" />
+			<highlight index="2" start="988" length="473" />
+			<highlight index="3" start="1864" length="359" />
+			<highlight index="4" start="2203" length="945" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long. It’s great." />
+				<subtitle lang="nz" line="It’s too long. It’s great." />
+				<subtitle lang="dk" line="Det er for langt. Det er fedt." />
+			</subtitles>
+		</line>
+		<line words="C’est fantastique. C’est ennuyeux." start="38478" length="3658" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="945" />
+			<highlight index="2" start="2051" length="270" />
+			<highlight index="3" start="2297" length="964" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic. It’s boring." />
+				<subtitle lang="nz" line="It’s fantastic. It’s boring." />
+				<subtitle lang="dk" line="Det er fantastisk. Det er kedeligt. " />
+			</subtitles>
+		</line>
+		<line words="C’est amusant. C’est agaçant." start="41990" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="960" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun. It’s annoying." />
+				<subtitle lang="nz" line="It’s fun. It’s annoying." />
+				<subtitle lang="dk" line="Det er sjovt. Det er irriterende. " />
+			</subtitles>
+		</line>
+		<line words="C’est interessant. C’est compliqué." start="45209" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="1176" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting. It’s complicated." />
+				<subtitle lang="nz" line="It’s interesting. It’s complicated." />
+				<subtitle lang="dk" line="Det er interessant. Det er svært. " />
+			</subtitles>
+		</line>
+		<line words="Je préfère la rubrique météo." start="48427" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the weather column." />
+				<subtitle lang="nz" line="I prefer the weather column." />
+				<subtitle lang="dk" line="Jeg kan bedst lide vejrudsigten. " />
+			</subtitles>
+		</line>
+		<line words="Je déteste la rubrique culture." start="51646" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the culture column." />
+				<subtitle lang="nz" line="I hate the culture column." />
+				<subtitle lang="dk" line="Jeg hader kultursiden." />
+			</subtitles>
+		</line>
+		<line words="J’adore la rubrique actualités." start="54719" length="3511" >
+			<highlight index="0" start="364" length="647" />
+			<highlight index="1" start="1108" length="226" />
+			<highlight index="2" start="1355" length="667" />
+			<highlight index="3" start="2212" length="1185" />
+			<subtitles>
+				<subtitle lang="en" line="I love the news column." />
+				<subtitle lang="nz" line="I love the news column." />
+				<subtitle lang="dk" line="Jeg elsker nyhederne. " />
+			</subtitles>
+		</line>
+		<line words="Je n’aime pas la rubrique éducation." start="57791" length="4097" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="523" />
+			<highlight index="2" start="1149" length="406" />
+			<highlight index="3" start="1539" length="344" />
+			<highlight index="4" start="1863" length="852" />
+			<highlight index="5" start="2694" length="1133" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the education column." />
+				<subtitle lang="nz" line="I don’t like the education column." />
+				<subtitle lang="dk" line="Jeg kan ikke lide uddannelsessiden. " />
+			</subtitles>
+		</line>
+		<line words="Pourquoi? Parce que" start="61595" length="3804" >
+			<highlight index="0" start="889" length="718" />
+			<highlight index="1" start="2263" length="256" />
+			<highlight index="2" start="2574" length="473" />
+			<subtitles>
+				<subtitle lang="en" line="Why? Because" />
+				<subtitle lang="nz" line="Why? Because" />
+				<subtitle lang="dk" line="Hvorfor? Hvorfor?" />
+			</subtitles>
+		</line>
+		<line words="C’est trop long. C’est génial." start="65106" length="3365" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="276" />
+			<highlight index="2" start="988" length="473" />
+			<highlight index="3" start="1864" length="359" />
+			<highlight index="4" start="2203" length="945" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long. It’s great." />
+				<subtitle lang="nz" line="It’s too long. It’s great." />
+				<subtitle lang="dk" line="Det er for langt. Det er fedt." />
+			</subtitles>
+		</line>
+		<line words="C’est fantastique. C’est ennuyeux." start="68179" length="3658" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="945" />
+			<highlight index="2" start="2051" length="270" />
+			<highlight index="3" start="2297" length="964" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic. It’s boring." />
+				<subtitle lang="nz" line="It’s fantastic. It’s boring." />
+				<subtitle lang="dk" line="Det er fantastisk. Det er kedeligt. " />
+			</subtitles>
+		</line>
+		<line words="C’est amusant. C’est agaçant." start="71690" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="960" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun. It’s annoying." />
+				<subtitle lang="nz" line="It’s fun. It’s annoying." />
+				<subtitle lang="dk" line="Det er sjovt. Det er irriterende. " />
+			</subtitles>
+		</line>
+		<line words="C’est interessant. C’est compliqué." start="74909" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="1176" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting. It’s complicated." />
+				<subtitle lang="nz" line="It’s interesting. It’s complicated." />
+				<subtitle lang="dk" line="Det er interessant. Det er svært. " />
+			</subtitles>
+		</line>
+		<line words="Je préfère la rubrique sport." start="78128" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+				<subtitle lang="nz" line="I prefer the sports column" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen. " />
+			</subtitles>
+		</line>
+		<line words="Je déteste la rubrique mode." start="81200" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column." />
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="dk" line="Jeg hader modesiden. " />
+			</subtitles>
+		</line>
+		<line words="J’adore la rubrique cuisine." start="84419" length="3511" >
+			<highlight index="0" start="364" length="647" />
+			<highlight index="1" start="1108" length="226" />
+			<highlight index="2" start="1355" length="667" />
+			<highlight index="3" start="2135" length="703" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column." />
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden." />
+			</subtitles>
+		</line>
+		<line words="Je n’aime pas la rubrique voyage." start="87492" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="523" />
+			<highlight index="2" start="1149" length="406" />
+			<highlight index="3" start="1539" length="344" />
+			<highlight index="4" start="1863" length="852" />
+			<highlight index="5" start="2694" length="652" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column." />
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne." />
+			</subtitles>
+		</line>
+		<line words="Pourquoi? Parce que" start="90857" length="3804" >
+			<highlight index="0" start="889" length="718" />
+			<highlight index="1" start="2263" length="256" />
+			<highlight index="2" start="2574" length="473" />
+			<subtitles>
+				<subtitle lang="en" line="Why? Because" />
+				<subtitle lang="nz" line="Why? Because" />
+				<subtitle lang="dk" line="Hvorfor? Hvorfor?" />
+			</subtitles>
+		</line>
+		<line words="C’est trop long. C’est génial." start="94661" length="3365" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="276" />
+			<highlight index="2" start="988" length="473" />
+			<highlight index="3" start="1864" length="359" />
+			<highlight index="4" start="2203" length="945" />
+			<subtitles>
+				<subtitle lang="en" line="It’s too long. It’s great." />
+				<subtitle lang="nz" line="It’s too long. It’s great." />
+				<subtitle lang="dk" line="Det er for langt. Det er fedt. " />
+			</subtitles>
+		</line>
+		<line words="C’est fantastique. C’est ennuyeux." start="97733" length="3658" >
+			<highlight index="0" start="506" length="200" />
+			<highlight index="1" start="683" length="945" />
+			<highlight index="2" start="2051" length="270" />
+			<highlight index="3" start="2297" length="964" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fantastic. It’s boring." />
+				<subtitle lang="nz" line="It’s fantastic. It’s boring." />
+				<subtitle lang="dk" line="Det er fantastisk. Det er kedeligt. " />
+			</subtitles>
+		</line>
+		<line words="C’est amusant. C’est agaçant." start="101244" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="960" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s fun. It’s annoying." />
+				<subtitle lang="nz" line="It’s fun. It’s annoying." />
+				<subtitle lang="dk" line="Det er sjovt. Det er irriterende. " />
+			</subtitles>
+		</line>
+		<line words="C’est interessant. C’est compliqué." start="104463" length="3365" >
+			<highlight index="0" start="142" length="200" />
+			<highlight index="1" start="314" length="1176" />
+			<highlight index="2" start="1569" length="310" />
+			<highlight index="3" start="1864" length="1284" />
+			<subtitles>
+				<subtitle lang="en" line="It’s interesting. It’s complicated." />
+				<subtitle lang="nz" line="It’s interesting. It’s complicated." />
+				<subtitle lang="dk" line="Det er interessant. Det er svært. " />
+			</subtitles>
+		</line>
+		<line words="Je préfère la rubrique sport." start="107682" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+				<subtitle lang="nz" line="I prefer the sports column" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen. " />
+			</subtitles>
+		</line>
+		<line words="Je déteste la rubrique mode." start="110754" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column." />
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="dk" line="Jeg hader modesiden. " />
+			</subtitles>
+		</line>
+		<line words="J’adore la rubrique cuisine." start="114120" length="3511" >
+			<highlight index="0" start="364" length="647" />
+			<highlight index="1" start="1108" length="226" />
+			<highlight index="2" start="1355" length="667" />
+			<highlight index="3" start="2135" length="703" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column." />
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden. " />
+			</subtitles>
+		</line>
+		<line words="Je n’aime pas la rubrique voyage." start="117192" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="523" />
+			<highlight index="2" start="1149" length="406" />
+			<highlight index="3" start="1539" length="344" />
+			<highlight index="4" start="1863" length="852" />
+			<highlight index="5" start="2694" length="652" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column." />
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne" />
+			</subtitles>
+		</line>
+		<line words="Je préfère la rubrique sport." start="120557" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I prefer the sports column" />
+				<subtitle lang="nz" line="I prefer the sports column" />
+				<subtitle lang="dk" line="Jeg kan bedst lide sportssektionen" />
+			</subtitles>
+		</line>
+		<line words="Je déteste la rubrique mode." start="123630" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="734" />
+			<highlight index="2" start="1355" length="200" />
+			<highlight index="3" start="1678" length="703" />
+			<highlight index="4" start="2432" length="852" />
+			<subtitles>
+				<subtitle lang="en" line="I hate the fashion column." />
+				<subtitle lang="nz" line="I hate the fashion column." />
+				<subtitle lang="dk" line="Jeg hader modesiden. " />
+			</subtitles>
+		</line>
+		<line words="J’adore la rubrique cuisine." start="126848" length="3511" >
+			<highlight index="0" start="364" length="647" />
+			<highlight index="1" start="1108" length="226" />
+			<highlight index="2" start="1355" length="667" />
+			<highlight index="3" start="2135" length="703" />
+			<subtitles>
+				<subtitle lang="en" line="I love the cookery column." />
+				<subtitle lang="nz" line="I love the cookery column." />
+				<subtitle lang="dk" line="Jeg elsker madlavningssiden. " />
+			</subtitles>
+		</line>
+		<line words="Je n’aime pas la rubrique voyage." start="129921" length="3511" >
+			<highlight index="0" start="456" length="200" />
+			<highlight index="1" start="636" length="523" />
+			<highlight index="2" start="1149" length="406" />
+			<highlight index="3" start="1539" length="344" />
+			<highlight index="4" start="1863" length="852" />
+			<highlight index="5" start="2694" length="652" />
+			<subtitles>
+				<subtitle lang="en" line="I don’t like the travel column." />
+				<subtitle lang="nz" line="I don’t like the travel column." />
+				<subtitle lang="dk" line="Jeg kan ikke lide rejsesiderne. " />
+			</subtitles>
+		</line>
+		<line words="La rubrique sport, la rubrique éducation" start="136066" length="3658" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="The sports column, the education column" />
+				<subtitle lang="nz" line="The sports column, the education column" />
+				<subtitle lang="dk" line="Sportssektionen. Uddannelse. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique actualités, la rubrique mode" start="139138" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the news column, the fashion column" />
+				<subtitle lang="nz" line="the news column, the fashion column" />
+				<subtitle lang="dk" line="Nyheder. Mode. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique cuisine, la rubrique voyage" start="142357" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the cookery column, the travel column" />
+				<subtitle lang="nz" line="the cookery column, the travel column" />
+				<subtitle lang="dk" line="Madlavning. Rejse. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique culture, la rubrique météo" start="145576" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the culture column, the weather column" />
+				<subtitle lang="nz" line="the culture column, the weather column" />
+				<subtitle lang="dk" line="Kultur, vejret. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique sport, la rubrique éducation" start="148794" length="3658" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the sports column, the education column" />
+				<subtitle lang="nz" line="the sports column, the education column" />
+				<subtitle lang="dk" line="Sportssektionen, uddannelse." />
+			</subtitles>
+		</line>
+		<line words="la rubrique actualités, la rubrique mode" start="152160" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the news column, the fashion column" />
+				<subtitle lang="nz" line="the news column, the fashion column" />
+				<subtitle lang="dk" line="Nyheder, mode." />
+			</subtitles>
+		</line>
+		<line words="la rubrique cuisine, la rubrique voyage" start="155378" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the cookery column, the travel column" />
+				<subtitle lang="nz" line="the cookery column, the travel column" />
+				<subtitle lang="dk" line="Madlavning, rejse. " />
+			</subtitles>
+		</line>
+		<line words="la rubrique culture, la rubrique météo" start="158597" length="3657" >
+			<highlight index="0" start="539" length="200" />
+			<highlight index="1" start="732" length="513" />
+			<highlight index="2" start="1443" length="545" />
+			<highlight index="3" start="2154" length="200" />
+			<highlight index="4" start="2336" length="566" />
+			<highlight index="5" start="2918" length="722" />
+			<subtitles>
+				<subtitle lang="en" line="the culture column, the weather column" />
+				<subtitle lang="nz" line="the culture column, the weather column" />
+				<subtitle lang="dk" line="Kultur, vejret. " />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

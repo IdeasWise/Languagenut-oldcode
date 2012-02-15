@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<karaoke length="85968">
+  <lines>
+    <line words="El viaje a la escuela." start="0" length="4640" useLNutResource="false" image="">
+      <subtitles>
+        <subtitle lang="ke" line="The Journey to School."/>
+        <subtitle lang="fj" line="The Journey to School."/>
+        <subtitle lang="sb" line="The Journey to School."/>
+        <subtitle lang="vu" line="The Journey to School."/>
+        <subtitle lang="dk" line="Turen til skole. Af Sophie Mills"/>
+        <subtitle lang="zm" line="The Journey to School."/>
+        <subtitle lang="bs" line="The Journey to School."/>
+        <subtitle lang="ca" line="The Journey to School."/>
+        <subtitle lang="nz" line="The Journey to School."/>
+        <subtitle lang="to" line="The Journey to School."/>
+        <subtitle lang="vc" line="The Journey to School."/>
+        <subtitle lang="sco" line="The Journey to School."/>
+        <subtitle lang="bz" line="The Journey to School."/>
+        <subtitle lang="na" line="The Journey to School."/>
+        <subtitle lang="ag" line="The Journey to School."/>
+        <subtitle lang="pk" line="The Journey to School."/>
+        <subtitle lang="jm" line="The Journey to School."/>
+        <subtitle lang="za" line="The Journey to School."/>
+        <subtitle lang="ng" line="The Journey to School."/>
+        <subtitle lang="en" line="The Journey to School."/>
+        <subtitle lang="mt" line="The Journey to School."/>
+        <subtitle lang="tt" line="The Journey to School."/>
+        <subtitle lang="bw" line="The Journey to School."/>
+        <subtitle lang="sl" line="The Journey to School."/>
+        <subtitle lang="au" line="The Journey to School."/>
+        <subtitle lang="sg" line="The Journey to School."/>
+        <subtitle lang="ws" line="The Journey to School."/>
+        <subtitle lang="dm" line="The Journey to School."/>
+        <subtitle lang="us" line="The Journey to School."/>
+        <subtitle lang="mu" line="The Journey to School."/>
+        <subtitle lang="ug" line="The Journey to School."/>
+        <subtitle lang="bd" line="The Journey to School."/>
+        <subtitle lang="rw" line="The Journey to School."/>
+        <subtitle lang="gh" line="The Journey to School."/>
+        <subtitle lang="gy" line="The Journey to School."/>
+        <subtitle lang="gm" line="The Journey to School."/>
+        <subtitle lang="zw" line="The Journey to School."/>
+        <subtitle lang="tz" line="The Journey to School."/>
+        <subtitle lang="nl" line="Op weg naar schooldoor "/>
+      <subtitle lang="ae" line="The Journey to School."/>
+				<subtitle lang="ine" line="The Journey to School."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1838" length="247"/>
+        <highlight index="1" start="2092" length="585"/>
+        <highlight index="2" start="2638" length="136"/>
+        <highlight index="3" start="2755" length="175"/>
+        <highlight index="4" start="2917" length="604"/>
+      </highlights>
+    </line>
+    <line words="Cuando voy a la escuela alguien me sigue." start="4493" length="6851" useLNutResource="true" image="15#6#1">
+      <subtitles>
+        <subtitle lang="ke" line="When I go to school someone follows me."/>
+        <subtitle lang="fj" line="When I go to school someone follows me."/>
+        <subtitle lang="sb" line="When I go to school someone follows me."/>
+        <subtitle lang="vu" line="When I go to school someone follows me."/>
+        <subtitle lang="dk" line="N&#xE5;r jeg g&#xE5;r i skole, er der nogen, der f&#xF8;lger efter mig."/>
+        <subtitle lang="zm" line="When I go to school someone follows me."/>
+        <subtitle lang="bs" line="When I go to school someone follows me."/>
+        <subtitle lang="ca" line="When I go to school someone follows me."/>
+        <subtitle lang="nz" line="When I go to school someone follows me."/>
+        <subtitle lang="to" line="When I go to school someone follows me."/>
+        <subtitle lang="vc" line="When I go to school someone follows me."/>
+        <subtitle lang="sco" line="When I go to school someone follows me."/>
+        <subtitle lang="bz" line="When I go to school someone follows me."/>
+        <subtitle lang="na" line="When I go to school someone follows me."/>
+        <subtitle lang="ag" line="When I go to school someone follows me."/>
+        <subtitle lang="pk" line="When I go to school someone follows me."/>
+        <subtitle lang="jm" line="When I go to school someone follows me."/>
+        <subtitle lang="za" line="When I go to school someone follows me."/>
+        <subtitle lang="ng" line="When I go to school someone follows me."/>
+        <subtitle lang="en" line="When I go to school someone follows me."/>
+        <subtitle lang="fr" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/>
+        <subtitle lang="mt" line="When I go to school someone follows me."/>
+        <subtitle lang="tt" line="When I go to school someone follows me."/>
+        <subtitle lang="bw" line="When I go to school someone follows me."/>
+        <subtitle lang="sl" line="When I go to school someone follows me."/>
+        <subtitle lang="au" line="When I go to school someone follows me."/>
+        <subtitle lang="sg" line="When I go to school someone follows me."/>
+        <subtitle lang="ws" line="When I go to school someone follows me."/>
+        <subtitle lang="dm" line="When I go to school someone follows me."/>
+        <subtitle lang="us" line="When I go to school someone follows me."/>
+        <subtitle lang="mu" line="When I go to school someone follows me."/>
+        <subtitle lang="ug" line="When I go to school someone follows me."/>
+        <subtitle lang="bd" line="When I go to school someone follows me."/>
+        <subtitle lang="rw" line="When I go to school someone follows me."/>
+        <subtitle lang="gh" line="When I go to school someone follows me."/>
+        <subtitle lang="gy" line="When I go to school someone follows me."/>
+        <subtitle lang="gm" line="When I go to school someone follows me."/>
+        <subtitle lang="zw" line="When I go to school someone follows me."/>
+        <subtitle lang="tz" line="When I go to school someone follows me."/>
+        <subtitle lang="nl" line="Als ik naar school ga word ik door iemand gevolgd."/>
+      <subtitle lang="cd" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="mg" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="cm" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="ci" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="bf" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="ne" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="sn" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="ml" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="bi" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="bj" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="tg" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="ga" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/><subtitle lang="dj" line="Quand je vais &#xE0; l&#x2019;&#xE9;cole, quelqu&#x2019;un me suit."/>
+				<subtitle lang="ae" line="When I go to school someone follows me."/>
+				<subtitle lang="ine" line="When I go to school someone follows me."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2638" length="422"/>
+        <highlight index="1" start="3012" length="250"/>
+        <highlight index="2" start="3242" length="135"/>
+        <highlight index="3" start="3338" length="135"/>
+        <highlight index="4" start="3454" length="700"/>
+        <highlight index="5" start="4384" length="490"/>
+        <highlight index="6" start="4864" length="153"/>
+        <highlight index="7" start="4969" length="701"/>
+      </highlights>
+    </line>
+    <line words="Paso delante de una cafeter&#xED;a, un parque y un cine, y alguien me sigue." start="11344" length="11271" useLNutResource="true" image="15#2#2">
+      <subtitles>
+        <subtitle lang="ke" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="fj" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="sb" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="vu" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="dk" line="Jeg kommer forbi en caf&#xE9;, en park og en biograf, og nogen f&#xF8;lger efter mig."/>
+        <subtitle lang="zm" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="bs" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="ca" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="nz" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="to" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="vc" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="sco" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="bz" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="na" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="ag" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="pk" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="jm" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="za" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="ng" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="en" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="fr" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/>
+        <subtitle lang="mt" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="tt" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="bw" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="sl" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="au" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="sg" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="ws" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="dm" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="us" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="mu" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="ug" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="bd" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="rw" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="gh" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="gy" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="gm" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="zw" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="tz" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+        <subtitle lang="nl" line="Ik kom langs een caf&#xE9;, een park en een bioscoop, maar iemand volgt me."/>
+      <subtitle lang="cd" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="mg" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="cm" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="ci" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="bf" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="ne" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="sn" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="ml" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="bi" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="bj" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="tg" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="ga" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/><subtitle lang="dj" line="Je passe devant un caf&#xE9;, un  parc et un cin&#xE9;ma, et quelqu&#x2019;un me suit."/>
+				<subtitle lang="ae" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+				<subtitle lang="ine" line="I pass in front of a caf&#xE9;, a park and a cinema, and someone follows me."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2209" length="584"/>
+        <highlight index="1" start="2825" length="647"/>
+        <highlight index="2" start="3425" length="200"/>
+        <highlight index="3" start="3551" length="300"/>
+        <highlight index="4" start="3835" length="1026"/>
+        <highlight index="5" start="5587" length="174"/>
+        <highlight index="6" start="5714" length="741"/>
+        <highlight index="7" start="6708" length="200"/>
+        <highlight index="8" start="6866" length="237"/>
+        <highlight index="9" start="7039" length="600"/>
+        <highlight index="10" start="8255" length="237"/>
+        <highlight index="11" start="8444" length="537"/>
+        <highlight index="12" start="8934" length="200"/>
+        <highlight index="13" start="9076" length="978"/>
+      </highlights>
+    </line>
+    <line words="Giro a la derecha de una tienda, giro a la izquierda de la oficina de correos y delante de m&#xED; hay un r&#xED;o, y alguien me sigue." start="22615" length="14365" useLNutResource="true" image="20#3#8">
+      <subtitles>
+        <subtitle lang="ke" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="fj" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="sb" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="vu" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="dk" line="Jeg drejer til h&#xF8;jre ved en forretning, til venstre ved posthuset, og foran mig er der en flod, og nogen f&#xF8;lger efter mig."/>
+        <subtitle lang="zm" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="bs" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="ca" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="nz" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="to" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="vc" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="sco" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="bz" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="na" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="ag" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="pk" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="jm" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="za" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="ng" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="en" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="fr" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/>
+        <subtitle lang="mt" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="tt" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="bw" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="sl" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="au" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="sg" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="ws" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="dm" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="us" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="mu" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="ug" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="bd" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="rw" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="gh" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="gy" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="gm" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="zw" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="tz" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+        <subtitle lang="nl" line="Ik sla rechtsaf bij een winkel, linksaf bij het postkantoor en recht voor me zie ik een rivier, maar iemand volgt me."/>
+      <subtitle lang="cd" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="mg" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="cm" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="ci" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="bf" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="ne" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="sn" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="ml" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="bi" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="bj" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="tg" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="ga" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/><subtitle lang="dj" line="Je tourne &#xE0; droite apr&#xE8;s la boutique, &#xE0; gauche apr&#xE8;s la poste, et devant moi il y a une rivi&#xE8;re, et quelqu&#x2019;un me suit."/>
+				<subtitle lang="ae" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+				<subtitle lang="ine" line="I turn right by a shop, left at the post office and in front of me there is a river, and someone follows me."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2092" length="462"/>
+        <highlight index="1" start="2474" length="161"/>
+        <highlight index="2" start="2554" length="161"/>
+        <highlight index="3" start="2615" length="563"/>
+        <highlight index="4" start="3118" length="200"/>
+        <highlight index="5" start="3238" length="443"/>
+        <highlight index="6" start="3641" length="684"/>
+        <highlight index="7" start="5069" length="382"/>
+        <highlight index="8" start="5431" length="200"/>
+        <highlight index="9" start="5532" length="161"/>
+        <highlight index="10" start="5632" length="684"/>
+        <highlight index="11" start="6256" length="200"/>
+        <highlight index="12" start="6377" length="200"/>
+        <highlight index="13" start="6437" length="805"/>
+        <highlight index="14" start="7222" length="200"/>
+        <highlight index="15" start="7322" length="1006"/>
+        <highlight index="16" start="8409" length="200"/>
+        <highlight index="17" start="8549" length="644"/>
+        <highlight index="18" start="9133" length="261"/>
+        <highlight index="19" start="9314" length="261"/>
+        <highlight index="20" start="9897" length="242"/>
+        <highlight index="21" start="10099" length="200"/>
+        <highlight index="22" start="10199" length="563"/>
+        <highlight index="23" start="11245" length="282"/>
+        <highlight index="24" start="11487" length="523"/>
+        <highlight index="25" start="11929" length="262"/>
+        <highlight index="26" start="12110" length="745"/>
+      </highlights>
+    </line>
+    <line words="Cruzo el paso de peatones enfrente del museo al lado de la iglesia detr&#xE1;s del la escuela, y alguien me sigue." start="36906" length="13923" useLNutResource="true" image="15#4#7">
+      <subtitles>
+        <subtitle lang="ke" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="fj" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="sb" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="vu" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="dk" line="Jeg g&#xE5;r over fodg&#xE6;ngerfeltet overfor museet ved siden af kirken bag ved skolen, og nogen f&#xF8;lger efter mig."/>
+        <subtitle lang="zm" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="bs" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="ca" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="nz" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="to" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="vc" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="sco" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="bz" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="na" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="ag" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="pk" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="jm" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="za" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="ng" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="en" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="fr" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/>
+        <subtitle lang="mt" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="tt" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="bw" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="sl" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="au" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="sg" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="ws" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="dm" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="us" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="mu" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="ug" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="bd" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="rw" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="gh" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="gy" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="gm" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="zw" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="tz" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+        <subtitle lang="nl" line="Ik steek het zebrapad over tegenover het museum naast de kerk achter school, maar iemand volgt me."/>
+      <subtitle lang="cd" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="mg" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="cm" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="ci" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="bf" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="ne" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="sn" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="ml" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="bi" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="bj" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="tg" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="ga" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/><subtitle lang="dj" line="Je traverse le passage pi&#xE9;ton en face du mus&#xE9;e, pr&#xE8;s de l&#x2019;&#xE9;glise et derri&#xE8;re l&#x2019;&#xE9;cole, et quelqu&#x2019;un me suit."/>
+				<subtitle lang="ae" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+				<subtitle lang="ine" line="I cross the pedestrian-crossing opposite the museum next to the church behind the school, and someone follows me."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1949" length="585"/>
+        <highlight index="1" start="2495" length="215"/>
+        <highlight index="2" start="2690" length="429"/>
+        <highlight index="3" start="3080" length="200"/>
+        <highlight index="4" start="3236" length="839"/>
+        <highlight index="5" start="4075" length="897"/>
+        <highlight index="6" start="4913" length="195"/>
+        <highlight index="7" start="5050" length="780"/>
+        <highlight index="8" start="5791" length="487"/>
+        <highlight index="9" start="6200" length="468"/>
+        <highlight index="10" start="6649" length="195"/>
+        <highlight index="11" start="6805" length="200"/>
+        <highlight index="12" start="6961" length="818"/>
+        <highlight index="13" start="7682" length="897"/>
+        <highlight index="14" start="8540" length="195"/>
+        <highlight index="15" start="8696" length="200"/>
+        <highlight index="16" start="8793" length="839"/>
+        <highlight index="17" start="10899" length="156"/>
+        <highlight index="18" start="11036" length="487"/>
+        <highlight index="19" start="11426" length="195"/>
+        <highlight index="20" start="11562" length="683"/>
+      </highlights>
+    </line>
+    <line words="Camino con mis amigos cerca de la estaci&#xF3;n de trenes. Van en tren o en autob&#xFA;s o en taxi. Continuo a pie solo y alguien me sigue." start="50755" length="16354" useLNutResource="true" image="15#6#4">
+      <subtitles>
+        <subtitle lang="ke" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="fj" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="sb" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="vu" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="dk" line="Jeg g&#xE5;r sammen med mine venner nede ved baneg&#xE5;rden. De kommer med tog eller bus eller taxi. Jeg forts&#xE6;tter alene til fods, og nogen f&#xF8;lger efter mig."/>
+        <subtitle lang="zm" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="bs" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="ca" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="nz" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="to" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="vc" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="sco" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="bz" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="na" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="ag" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="pk" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="jm" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="za" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="ng" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="en" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="fr" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/>
+        <subtitle lang="mt" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="tt" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="bw" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="sl" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="au" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="sg" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="ws" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="dm" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="us" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="mu" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="ug" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="bd" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="rw" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="gh" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="gy" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="gm" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="zw" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="tz" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+        <subtitle lang="nl" line="Ik loop met mijn vrienden vlakbij het treinstation. Zij gaan met de trein of met de bus of met de taxi. Ik blijf lopen in mijn eentje, maar iemand volgt me."/>
+      <subtitle lang="cd" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="mg" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="cm" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="ci" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="bf" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="ne" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="sn" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="ml" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="bi" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="bj" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="tg" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="ga" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/><subtitle lang="dj" line="Je marche avec mes amis pr&#xE8;s de la gare. Ils prennent le train ou le bus ou  un taxi. Je continue &#xE0; pied, seul(e), et quelqu&#x2019;un me suit."/>
+				<subtitle lang="ae" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+				<subtitle lang="ine" line="I walk with my friends near to the train station. They go by train or by bus or by taxi. I continue in foot by myself and someone follows me."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1969" length="596"/>
+        <highlight index="1" start="2496" length="252"/>
+        <highlight index="2" start="2725" length="252"/>
+        <highlight index="3" start="2908" length="779"/>
+        <highlight index="4" start="3687" length="641"/>
+        <highlight index="5" start="4237" length="183"/>
+        <highlight index="6" start="4328" length="252"/>
+        <highlight index="7" start="4489" length="687"/>
+        <highlight index="8" start="5107" length="200"/>
+        <highlight index="9" start="5244" length="848"/>
+        <highlight index="10" start="6825" length="252"/>
+        <highlight index="11" start="6962" length="321"/>
+        <highlight index="12" start="7191" length="527"/>
+        <highlight index="13" start="8016" length="229"/>
+        <highlight index="14" start="8130" length="200"/>
+        <highlight index="15" start="8199" length="985"/>
+        <highlight index="16" start="9184" length="200"/>
+        <highlight index="17" start="9298" length="275"/>
+        <highlight index="18" start="9573" length="1008"/>
+        <highlight index="19" start="11153" length="779"/>
+        <highlight index="20" start="11886" length="200"/>
+        <highlight index="21" start="11978" length="298"/>
+        <highlight index="22" start="12184" length="756"/>
+        <highlight index="23" start="13489" length="229"/>
+        <highlight index="24" start="13604" length="527"/>
+        <highlight index="25" start="14039" length="229"/>
+        <highlight index="26" start="14177" length="710"/>
+      </highlights>
+    </line>
+    <line words="Todo recto, en la esquina, lejos de casa giro. &#x201C;Hola gatito,&#x201D; digo. &#x201C;Mejor te llevo a casa. Ma&#xF1;ana creo que voy a ir en autob&#xFA;s.&#x201D; " start="66962" length="17425" useLNutResource="true" image="15#6#2">
+      <subtitles>
+        <subtitle lang="ke" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="fj" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="sb" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="vu" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="dk" line="Lige ud, p&#xE5; hj&#xF8;rnet, langt hjemmefra, vender jeg mig om. &#x201C;Hej misser&#x201D;, siger jeg. Jeg m&#xE5; hellere g&#xE5; hjem med dig. I morgen tager jeg nok bussen."/>
+        <subtitle lang="zm" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="bs" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="ca" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="nz" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="to" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="vc" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="sco" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="bz" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="na" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="ag" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="pk" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="jm" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="za" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="ng" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="en" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="fr" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/>
+        <subtitle lang="mt" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="tt" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="bw" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="sl" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="au" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="sg" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="ws" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="dm" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="us" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="mu" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="ug" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="bd" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="rw" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="gh" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="gy" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="gm" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="zw" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="tz" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+        <subtitle lang="nl" line="Rechtdoor, op de hoek, ver van huis, draai ik me om. &#x201C;Hoi poes&#x201D;, zeg ik. Ik kan je maar beter mee naar huis nemen. Ik denk dat ik morgen met de bus ga."/>
+      <subtitle lang="cd" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="mg" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="cm" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="ci" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="bf" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="ne" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="sn" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="ml" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="bi" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="bj" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="tg" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="ga" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/><subtitle lang="dj" line="Droit devant, &#xE0; l&#x2019;angle, loin de la maison je me retourne. &#xA7;Salut minou&#xA7; dis-je. &#xA7;Je ferais mieux de te ramener &#xE0; la maison. Demain je pense que je prendrai le bus.&#xA7;"/>
+				<subtitle lang="ae" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+				<subtitle lang="ine" line="Straight ahead, on the corner, far from home I turn around. &#x201C;Hello puss,&#x201D; I say. I better take you home. Tomorrow I think I am going to go by bus."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2102" length="533"/>
+        <highlight index="1" start="2528" length="719"/>
+        <highlight index="2" start="3513" length="292"/>
+        <highlight index="3" start="3646" length="200"/>
+        <highlight index="4" start="3779" length="799"/>
+        <highlight index="5" start="4737" length="533"/>
+        <highlight index="6" start="5137" length="319"/>
+        <highlight index="7" start="5323" length="719"/>
+        <highlight index="8" start="5909" length="878"/>
+        <highlight index="9" start="7133" length="506"/>
+        <highlight index="10" start="7506" length="1251"/>
+        <highlight index="11" start="8863" length="799"/>
+        <highlight index="12" start="10327" length="612"/>
+        <highlight index="13" start="10806" length="319"/>
+        <highlight index="14" start="11072" length="240"/>
+        <highlight index="15" start="11259" length="200"/>
+        <highlight index="16" start="11392" length="718"/>
+        <highlight index="17" start="12536" length="666"/>
+        <highlight index="18" start="13122" length="452"/>
+        <highlight index="19" start="13441" length="266"/>
+        <highlight index="20" start="13574" length="346"/>
+        <highlight index="21" start="13840" length="200"/>
+        <highlight index="22" start="13947" length="399"/>
+        <highlight index="23" start="14240" length="319"/>
+        <highlight index="24" start="14453" length="1118"/>
+      </highlights>
+    </line>
+    <line words="Fin" start="84311" length="1657" useLNutResource="false" image="">
+      <subtitles>
+        <subtitle lang="ke" line="The end"/>
+        <subtitle lang="fj" line="The end"/>
+        <subtitle lang="sb" line="The end"/>
+        <subtitle lang="dk" line="Slut. "/>
+        <subtitle lang="zm" line="The end"/>
+        <subtitle lang="bs" line="The end"/>
+        <subtitle lang="ca" line="The end"/>
+        <subtitle lang="to" line="The end"/>
+        <subtitle lang="vc" line="The end"/>
+        <subtitle lang="sco" line="The end"/>
+        <subtitle lang="bz" line="The end"/>
+        <subtitle lang="na" line="The end"/>
+        <subtitle lang="ag" line="The end"/>
+        <subtitle lang="pk" line="The end"/>
+        <subtitle lang="jm" line="The end"/>
+        <subtitle lang="za" line="The end"/>
+        <subtitle lang="ng" line="The end"/>
+        <subtitle lang="en" line="The end"/>
+        <subtitle lang="mt" line="The end"/>
+        <subtitle lang="tt" line="The end"/>
+        <subtitle lang="bw" line="The end"/>
+        <subtitle lang="sl" line="The end"/>
+        <subtitle lang="au" line="The end"/>
+        <subtitle lang="sg" line="The end"/>
+        <subtitle lang="ws" line="The end"/>
+        <subtitle lang="dm" line="The end"/>
+        <subtitle lang="us" line="The end"/>
+        <subtitle lang="mu" line="The end"/>
+        <subtitle lang="ug" line="The end"/>
+        <subtitle lang="bd" line="The end"/>
+        <subtitle lang="rw" line="The end"/>
+        <subtitle lang="gh" line="The end"/>
+        <subtitle lang="gy" line="The end"/>
+        <subtitle lang="gm" line="The end"/>
+        <subtitle lang="zw" line="The end"/>
+        <subtitle lang="tz" line="The end"/>
+        <subtitle lang="vu" line="The end"/>
+      <subtitle lang="ae" line="The end"/>
+				<subtitle lang="ine" line="The end"/>
+			</subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

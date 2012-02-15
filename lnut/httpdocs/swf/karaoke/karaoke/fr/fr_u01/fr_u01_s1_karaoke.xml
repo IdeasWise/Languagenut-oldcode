@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<karaoke length="120058">
+  <lines>
+    <line words="Comment tu t'appelles?" start="6543" length="4267">
+      <highlight index="0" start="617" length="981"/>
+      <highlight index="1" start="1591" length="643"/>
+      <highlight index="2" start="2234" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Jean." start="11095" length="5271">
+      <highlight index="0" start="718" length="442"/>
+      <highlight index="1" start="1160" length="1493"/>
+      <highlight index="2" start="3022" length="959"/>
+      <subtitles>
+        <subtitle lang="en" line="My name&#x2019;s John."/>
+        <subtitle lang="co" line="Me llamo Juan."/>
+        <subtitle lang="gt" line="Me llamo Juan."/>
+        <subtitle lang="nz" line="My name&#x2019;s John."/>
+        <subtitle lang="sv" line="Me llamo Juan."/>
+        <subtitle lang="ni" line="Me llamo Juan."/>
+        <subtitle lang="ca" line="My name&#x2019;s John."/>
+        <subtitle lang="mx" line="Me llamo Juan."/>
+        <subtitle lang="dk" line="Jeg hedder John"/>
+        <subtitle lang="ar" line="Me llamo Juan."/>
+        <subtitle lang="py" line="Me llamo Juan."/>
+        <subtitle lang="me" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62C;&#x648;&#x646;"/>
+        <subtitle lang="cu" line="Me llamo Juan."/>
+        <subtitle lang="sa" line="My name&#x2019;s John."/>
+        <subtitle lang="au" line="My name&#x2019;s John."/>
+        <subtitle lang="ec" line="Me llamo Juan."/>
+        <subtitle lang="pr" line="Me llamo Juan."/>
+        <subtitle lang="cl" line="Me llamo Juan."/>
+        <subtitle lang="sp" line="Me llamo Juan."/>
+        <subtitle lang="nl" line="Ik heet Henk-Jan."/>
+        <subtitle lang="us" line="My name&#x2019;s John."/>
+        <subtitle lang="ae" line="My name&#x2019;s John."/>
+        <subtitle lang="es" line="Me llamo Juan."/>
+        <subtitle lang="lb" line="My name&#x2019;s John."/>
+        <subtitle lang="cr" line="Me llamo Juan."/>
+        <subtitle lang="ve" line="Me llamo Juan."/>
+        <subtitle lang="pe" line="Me llamo Juan."/>
+        <subtitle lang="bo" line="Me llamo Juan."/>
+        <subtitle lang="pa" line="Me llamo Juan."/>
+        <subtitle lang="sco" line="My name&#x2019;s John."/>
+        <subtitle lang="hn" line="Me llamo Juan."/>
+        <subtitle lang="do" line="Me llamo Juan."/>
+      <subtitle lang="saa" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62C;&#x648;&#x646;"/><subtitle lang="lba" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62C;&#x648;&#x646;"/>
+				<subtitle lang="ine" line="My name&#x2019;s John."/>
+			</subtitles>
+    </line>
+    <line words="Comment tu t'appelles?" start="16500" length="4267">
+      <highlight index="0" start="452" length="981"/>
+      <highlight index="1" start="1426" length="603"/>
+      <highlight index="2" start="2029" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Marie." start="21052" length="4695">
+      <highlight index="0" start="586" length="574"/>
+      <highlight index="1" start="1135" length="1518"/>
+      <highlight index="2" start="2985" length="996"/>
+      <subtitles>
+        <subtitle lang="en" line="My name's Mary."/>
+        <subtitle lang="co" line="Me llamo Maria."/>
+        <subtitle lang="gt" line="Me llamo Maria."/>
+        <subtitle lang="nz" line="My name's Mary."/>
+        <subtitle lang="sv" line="Me llamo Maria."/>
+        <subtitle lang="ni" line="Me llamo Maria."/>
+        <subtitle lang="ca" line="My name's Mary."/>
+        <subtitle lang="mx" line="Me llamo Maria."/>
+        <subtitle lang="dk" line="Jeg hedder Mary."/>
+        <subtitle lang="ar" line="Me llamo Maria."/>
+        <subtitle lang="py" line="Me llamo Maria."/>
+        <subtitle lang="cu" line="Me llamo Maria."/>
+        <subtitle lang="sa" line="My name's Mary."/>
+        <subtitle lang="au" line="My name's Mary."/>
+        <subtitle lang="ec" line="Me llamo Maria."/>
+        <subtitle lang="pr" line="Me llamo Maria."/>
+        <subtitle lang="cl" line="Me llamo Maria."/>
+        <subtitle lang="sp" line="Me llamo Maria."/>
+        <subtitle lang="nl" line="Ik heet Margriet."/>
+        <subtitle lang="us" line="My name's Mary."/>
+        <subtitle lang="ae" line="My name's Mary."/>
+        <subtitle lang="es" line="Me llamo Maria."/>
+        <subtitle lang="lb" line="My name's Mary."/>
+        <subtitle lang="cr" line="Me llamo Maria."/>
+        <subtitle lang="ve" line="Me llamo Maria."/>
+        <subtitle lang="pe" line="Me llamo Maria."/>
+        <subtitle lang="bo" line="Me llamo Maria."/>
+        <subtitle lang="pa" line="Me llamo Maria."/>
+        <subtitle lang="sco" line="My name's Mary."/>
+        <subtitle lang="hn" line="Me llamo Maria."/>
+        <subtitle lang="do" line="Me llamo Maria."/>
+      <subtitle lang="ine" line="My name's Mary."/>
+			</subtitles>
+    </line>
+    <line words="Et toi?" start="25889" length="2560">
+      <highlight index="0" start="204" length="263"/>
+      <highlight index="1" start="459" length="446"/>
+      <subtitles>
+        <subtitle lang="en" line="And you?"/>
+        <subtitle lang="co" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="gt" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nz" line="And you?"/>
+        <subtitle lang="sv" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ni" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ca" line="And you?"/>
+        <subtitle lang="mx" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="dk" line="Og du?"/>
+        <subtitle lang="ar" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="py" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="me" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sa" line="And you?"/>
+        <subtitle lang="au" line="And you?"/>
+        <subtitle lang="ec" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="cl" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sp" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nl" line="En jij?"/>
+        <subtitle lang="us" line="And you?"/>
+        <subtitle lang="ae" line="And you?"/>
+        <subtitle lang="es" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="lb" line="And you?"/>
+        <subtitle lang="cr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ve" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pe" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="bo" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pa" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sco" line="And you?"/>
+        <subtitle lang="hn" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="do" line="&#xBF;Y t&#xFA;?"/>
+      <subtitle lang="saa" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+				<subtitle lang="ine" line="And you?"/>
+			</subtitles>
+    </line>
+    <line words="Comment tu t'appelles?" start="35562" length="4267">
+      <highlight index="0" start="544" length="1054"/>
+      <highlight index="1" start="1591" length="643"/>
+      <highlight index="2" start="2234" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Olivier." start="39829" length="5271">
+      <highlight index="0" start="687" length="645"/>
+      <highlight index="1" start="1317" length="1336"/>
+      <highlight index="2" start="3237" length="1260"/>
+      <subtitles>
+        <subtitle lang="en" line="My name's Oliver."/>
+        <subtitle lang="co" line="Me llamo Oliver."/>
+        <subtitle lang="gt" line="Me llamo Oliver."/>
+        <subtitle lang="nz" line="My name's Oliver."/>
+        <subtitle lang="sv" line="Me llamo Oliver."/>
+        <subtitle lang="ni" line="Me llamo Oliver."/>
+        <subtitle lang="ca" line="My name's Oliver."/>
+        <subtitle lang="mx" line="Me llamo Oliver."/>
+        <subtitle lang="dk" line="Jeg hedder Oliver."/>
+        <subtitle lang="ar" line="Me llamo Oliver."/>
+        <subtitle lang="py" line="Me llamo Oliver."/>
+        <subtitle lang="me" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEE0;&#xFEF4;&#xFED4;&#xFEAE;"/>
+        <subtitle lang="cu" line="Me llamo Oliver."/>
+        <subtitle lang="sa" line="My name's Oliver."/>
+        <subtitle lang="au" line="My name's Oliver."/>
+        <subtitle lang="ec" line="Me llamo Oliver."/>
+        <subtitle lang="pr" line="Me llamo Oliver."/>
+        <subtitle lang="cl" line="Me llamo Oliver."/>
+        <subtitle lang="sp" line="Me llamo Oliver."/>
+        <subtitle lang="nl" line="Ik heet Javier."/>
+        <subtitle lang="us" line="My name's Oliver."/>
+        <subtitle lang="ae" line="My name's Oliver."/>
+        <subtitle lang="es" line="Me llamo Oliver."/>
+        <subtitle lang="lb" line="My name's Oliver."/>
+        <subtitle lang="cr" line="Me llamo Oliver."/>
+        <subtitle lang="ve" line="Me llamo Oliver."/>
+        <subtitle lang="pe" line="Me llamo Oliver."/>
+        <subtitle lang="bo" line="Me llamo Oliver."/>
+        <subtitle lang="pa" line="Me llamo Oliver."/>
+        <subtitle lang="sco" line="My name's Oliver."/>
+        <subtitle lang="hn" line="Me llamo Oliver."/>
+        <subtitle lang="do" line="Me llamo Oliver."/>
+      <subtitle lang="saa" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEE0;&#xFEF4;&#xFED4;&#xFEAE;"/><subtitle lang="lba" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEE0;&#xFEF4;&#xFED4;&#xFEAE;"/>
+				<subtitle lang="ine" line="My name's Oliver."/>
+			</subtitles>
+    </line>
+    <line words="Comment tu t'appelles?" start="45092" length="4267">
+      <highlight index="0" start="544" length="1054"/>
+      <highlight index="1" start="1591" length="643"/>
+      <highlight index="2" start="2234" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Th&#xE9;o." start="49502" length="5271">
+      <highlight index="0" start="687" length="645"/>
+      <highlight index="1" start="1317" length="1336"/>
+      <highlight index="2" start="3237" length="1117"/>
+      <subtitles>
+        <subtitle lang="en" line="My name's Theo."/>
+        <subtitle lang="co" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="gt" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="nz" line="My name's Theo."/>
+        <subtitle lang="sv" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="ni" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="ca" line="My name's Theo."/>
+        <subtitle lang="mx" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="dk" line="Jeg hedder Theo."/>
+        <subtitle lang="ar" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="py" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="me" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62A;&#x64A;&#x648;"/>
+        <subtitle lang="cu" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="sa" line="My name's Theo."/>
+        <subtitle lang="au" line="My name's Theo."/>
+        <subtitle lang="ec" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="pr" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="cl" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="sp" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="nl" line="Ik heet Theo."/>
+        <subtitle lang="us" line="My name's Theo."/>
+        <subtitle lang="ae" line="My name's Theo."/>
+        <subtitle lang="es" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="lb" line="My name's Theo."/>
+        <subtitle lang="cr" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="ve" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="pe" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="bo" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="pa" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="sco" line="My name's Theo."/>
+        <subtitle lang="hn" line="Me llamo T&#xE9;o."/>
+        <subtitle lang="do" line="Me llamo T&#xE9;o."/>
+      <subtitle lang="saa" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62A;&#x64A;&#x648;"/><subtitle lang="lba" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x62A;&#x64A;&#x648;"/>
+				<subtitle lang="ine" line="My name's Theo."/>
+			</subtitles>
+    </line>
+    <line words="Et toi?" start="54765" length="2560">
+      <highlight index="0" start="204" length="263"/>
+      <highlight index="1" start="459" length="446"/>
+      <subtitles>
+        <subtitle lang="en" line="And you?"/>
+        <subtitle lang="co" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="gt" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nz" line="And you?"/>
+        <subtitle lang="sv" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ni" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ca" line="And you?"/>
+        <subtitle lang="mx" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="dk" line="Og du?"/>
+        <subtitle lang="ar" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="py" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="me" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sa" line="And you?"/>
+        <subtitle lang="au" line="And you?"/>
+        <subtitle lang="ec" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="cl" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sp" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nl" line="En jij?"/>
+        <subtitle lang="us" line="And you?"/>
+        <subtitle lang="ae" line="And you?"/>
+        <subtitle lang="es" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="lb" line="And you?"/>
+        <subtitle lang="cr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ve" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pe" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="bo" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pa" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sco" line="And you?"/>
+        <subtitle lang="hn" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="do" line="&#xBF;Y t&#xFA;?"/>
+      <subtitle lang="saa" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+				<subtitle lang="ine" line="And you?"/>
+			</subtitles>
+    </line>
+    <line words="Comment tu t'appelles?" start="64296" length="4267">
+      <highlight index="0" start="544" length="1054"/>
+      <highlight index="1" start="1591" length="643"/>
+      <highlight index="2" start="2234" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Aim&#xE9;e." start="68563" length="5271">
+      <highlight index="0" start="744" length="588"/>
+      <highlight index="1" start="1317" length="1336"/>
+      <highlight index="2" start="3237" length="1260"/>
+      <subtitles>
+        <subtitle lang="en" line="My names Amy."/>
+        <subtitle lang="co" line="Me llamo Amy."/>
+        <subtitle lang="gt" line="Me llamo Amy."/>
+        <subtitle lang="nz" line="My names Amy."/>
+        <subtitle lang="sv" line="Me llamo Amy."/>
+        <subtitle lang="ni" line="Me llamo Amy."/>
+        <subtitle lang="ca" line="My names Amy."/>
+        <subtitle lang="mx" line="Me llamo Amy."/>
+        <subtitle lang="dk" line="Jeg hedder Amy."/>
+        <subtitle lang="ar" line="Me llamo Amy."/>
+        <subtitle lang="py" line="Me llamo Amy."/>
+        <subtitle lang="me" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEF4;&#xFEE4;&#xFEF2;"/>
+        <subtitle lang="cu" line="Me llamo Amy."/>
+        <subtitle lang="sa" line="My names Amy."/>
+        <subtitle lang="au" line="My names Amy."/>
+        <subtitle lang="ec" line="Me llamo Amy."/>
+        <subtitle lang="pr" line="Me llamo Amy."/>
+        <subtitle lang="cl" line="Me llamo Amy."/>
+        <subtitle lang="sp" line="Me llamo Amy."/>
+        <subtitle lang="nl" line="Ik heet Anne."/>
+        <subtitle lang="us" line="My names Amy."/>
+        <subtitle lang="ae" line="My names Amy."/>
+        <subtitle lang="es" line="Me llamo Amy."/>
+        <subtitle lang="lb" line="My names Amy."/>
+        <subtitle lang="cr" line="Me llamo Amy."/>
+        <subtitle lang="ve" line="Me llamo Amy."/>
+        <subtitle lang="pe" line="Me llamo Amy."/>
+        <subtitle lang="bo" line="Me llamo Amy."/>
+        <subtitle lang="pa" line="Me llamo Amy."/>
+        <subtitle lang="sco" line="My names Amy."/>
+        <subtitle lang="hn" line="Me llamo Amy."/>
+        <subtitle lang="do" line="Me llamo Amy."/>
+      <subtitle lang="saa" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEF4;&#xFEE4;&#xFEF2;"/><subtitle lang="lba" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#xFE83;&#xFEF4;&#xFEE4;&#xFEF2;"/>
+				<subtitle lang="ine" line="My names Amy."/>
+			</subtitles>
+    </line>
+    <line words="Comment tu t'appelles?" start="73969" length="4267">
+      <highlight index="0" start="544" length="1054"/>
+      <highlight index="1" start="1591" length="643"/>
+      <highlight index="2" start="2234" length="1077"/>
+      <subtitles>
+        <subtitle lang="en" line="Hello, what's your name?"/>
+        <subtitle lang="co" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="gt" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nz" line="Hello, what's your name?"/>
+        <subtitle lang="sv" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ni" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ca" line="Hello, what's your name?"/>
+        <subtitle lang="mx" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="dk" line="Hvad hedder du?"/>
+        <subtitle lang="ar" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="py" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="me" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sa" line="Hello, what's your name?"/>
+        <subtitle lang="au" line="Hello, what's your name?"/>
+        <subtitle lang="ec" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="cl" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sp" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="nl" line="Hoe heet jij?"/>
+        <subtitle lang="us" line="Hello, what's your name?"/>
+        <subtitle lang="ae" line="Hello, what's your name?"/>
+        <subtitle lang="es" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="lb" line="Hello, what's your name?"/>
+        <subtitle lang="cr" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="ve" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pe" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="bo" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="pa" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="sco" line="Hello, what's your name?"/>
+        <subtitle lang="hn" line="&#xBF;C&#xF3;mo te llamas?"/>
+        <subtitle lang="do" line="&#xBF;C&#xF3;mo te llamas?"/>
+      <subtitle lang="saa" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x645;&#x631;&#x62D;&#x628;&#x627;, &#x645;&#x627; &#x627;&#x633;&#x645;&#x643;&#x61F;"/>
+				<subtitle lang="ine" line="Hello, what's your name?"/>
+			</subtitles>
+    </line>
+    <line words="Je m'appelle Sara." start="78236" length="5271">
+      <highlight index="0" start="744" length="588"/>
+      <highlight index="1" start="1317" length="1336"/>
+      <highlight index="2" start="3237" length="1260"/>
+      <subtitles>
+        <subtitle lang="en" line="My names Sarah."/>
+        <subtitle lang="co" line="Me llamo Sara."/>
+        <subtitle lang="gt" line="Me llamo Sara."/>
+        <subtitle lang="nz" line="My names Sarah."/>
+        <subtitle lang="sv" line="Me llamo Sara."/>
+        <subtitle lang="ni" line="Me llamo Sara."/>
+        <subtitle lang="ca" line="My names Sarah."/>
+        <subtitle lang="mx" line="Me llamo Sara."/>
+        <subtitle lang="dk" line="Jeg hedder Sarah."/>
+        <subtitle lang="ar" line="Me llamo Sara."/>
+        <subtitle lang="py" line="Me llamo Sara."/>
+        <subtitle lang="me" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x633;&#x627;&#x631;&#x649;"/>
+        <subtitle lang="cu" line="Me llamo Sara."/>
+        <subtitle lang="sa" line="My names Sarah."/>
+        <subtitle lang="au" line="My names Sarah."/>
+        <subtitle lang="ec" line="Me llamo Sara."/>
+        <subtitle lang="pr" line="Me llamo Sara."/>
+        <subtitle lang="cl" line="Me llamo Sara."/>
+        <subtitle lang="sp" line="Me llamo Sara."/>
+        <subtitle lang="nl" line="Ik heet Sarah."/>
+        <subtitle lang="us" line="My names Sarah."/>
+        <subtitle lang="ae" line="My names Sarah."/>
+        <subtitle lang="es" line="Me llamo Sara."/>
+        <subtitle lang="lb" line="My names Sarah."/>
+        <subtitle lang="cr" line="Me llamo Sara."/>
+        <subtitle lang="ve" line="Me llamo Sara."/>
+        <subtitle lang="pe" line="Me llamo Sara."/>
+        <subtitle lang="bo" line="Me llamo Sara."/>
+        <subtitle lang="pa" line="Me llamo Sara."/>
+        <subtitle lang="sco" line="My names Sarah."/>
+        <subtitle lang="hn" line="Me llamo Sara."/>
+        <subtitle lang="do" line="Me llamo Sara."/>
+      <subtitle lang="saa" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x633;&#x627;&#x631;&#x649;"/><subtitle lang="lba" line="&#x200E;&#x627;&#x647;&#x644;&#x627;, &#x627;&#x633;&#x645;&#x64A; &#x633;&#x627;&#x631;&#x649;"/>
+				<subtitle lang="ine" line="My names Sarah."/>
+			</subtitles>
+    </line>
+    <line words="Et toi?" start="83357" length="2276">
+      <highlight index="0" start="153" length="314"/>
+      <highlight index="1" start="459" length="446"/>
+      <subtitles>
+        <subtitle lang="en" line="And you?"/>
+        <subtitle lang="co" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="gt" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nz" line="And you?"/>
+        <subtitle lang="sv" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ni" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ca" line="And you?"/>
+        <subtitle lang="mx" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="dk" line="Og du?"/>
+        <subtitle lang="ar" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="py" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="me" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+        <subtitle lang="cu" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sa" line="And you?"/>
+        <subtitle lang="au" line="And you?"/>
+        <subtitle lang="ec" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="cl" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sp" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="nl" line="En jij?"/>
+        <subtitle lang="us" line="And you?"/>
+        <subtitle lang="ae" line="And you?"/>
+        <subtitle lang="es" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="lb" line="And you?"/>
+        <subtitle lang="cr" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="ve" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pe" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="bo" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="pa" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="sco" line="And you?"/>
+        <subtitle lang="hn" line="&#xBF;Y t&#xFA;?"/>
+        <subtitle lang="do" line="&#xBF;Y t&#xFA;?"/>
+      <subtitle lang="saa" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/><subtitle lang="lba" line="&#x200E;&#x648;&#x623;&#x646;&#x62A;&#x61F;"/>
+				<subtitle lang="ine" line="And you?"/>
+			</subtitles>
+    </line>
+    <line words="Ma soeur s'appelle Jeanne." start="92177" length="4978">
+      <highlight index="0" start="1312" length="500"/>
+      <highlight index="1" start="1799" length="649"/>
+      <highlight index="2" start="2434" length="917"/>
+      <highlight index="3" start="3733" length="755"/>
+      <subtitles>
+        <subtitle lang="ae" line="My sister's name is Jane."/>
+        <subtitle lang="en" line="My sister's name is Jane."/>
+        <subtitle lang="ca" line="My sister's name is Jane."/>
+        <subtitle lang="nl" line="En mijn zusje heet Marjanne."/>
+        <subtitle lang="us" line="My sister's name is Jane."/>
+        <subtitle lang="nz" line="My sister's name is Jane."/>
+        <subtitle lang="sa" line="My sister's name is Jane."/>
+        <subtitle lang="au" line="My sister's name is Jane."/>
+        <subtitle lang="sco" line="My sister's name is Jane."/>
+        <subtitle lang="me" line="&#x200E;&#x623;&#x62E;&#x62A;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x627;&#x64A;&#x646;"/>
+        <subtitle lang="lb" line="My sister's name is Jane."/>
+        <subtitle lang="dk" line="Min s&#xF8;ster hedder Jane."/>
+      <subtitle lang="saa" line="&#x200E;&#x623;&#x62E;&#x62A;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x627;&#x64A;&#x646;"/><subtitle lang="lba" line="&#x200E;&#x623;&#x62E;&#x62A;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x627;&#x64A;&#x646;"/>
+				<subtitle lang="ine" line="My sister's name is Jane."/>
+			</subtitles>
+    </line>
+    <line words="Mon fr&#xE8;re s'appelle Paul." start="97155" length="4978">
+      <highlight index="0" start="1312" length="500"/>
+      <highlight index="1" start="1799" length="649"/>
+      <highlight index="2" start="2434" length="917"/>
+      <highlight index="3" start="3571" length="755"/>
+      <subtitles>
+        <subtitle lang="en" line="My brother's name is Paul."/>
+        <subtitle lang="co" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="gt" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="nz" line="My brother's name is Paul."/>
+        <subtitle lang="sv" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ni" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ca" line="My brother's name is Paul."/>
+        <subtitle lang="mx" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="dk" line="Min bror hedder Paul."/>
+        <subtitle lang="ar" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="py" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="me" line="&#x200E;&#x623;&#x62E;&#x64A; &#x627;&#x633;&#x645;&#x647; &#x628;&#x648;&#x644;"/>
+        <subtitle lang="cu" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="sa" line="My brother's name is Paul."/>
+        <subtitle lang="au" line="My brother's name is Paul."/>
+        <subtitle lang="ec" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="pr" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="cl" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="sp" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="nl" line="En mijn broer die heet Paul."/>
+        <subtitle lang="us" line="My brother's name is Paul."/>
+        <subtitle lang="ae" line="My brother's name is Paul."/>
+        <subtitle lang="es" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="lb" line="My brother's name is Paul."/>
+        <subtitle lang="cr" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ve" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="pe" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="bo" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="pa" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="sco" line="My brother's name is Paul."/>
+        <subtitle lang="hn" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="do" line="Mi hermano se llama Pablo."/>
+      <subtitle lang="saa" line="&#x200E;&#x623;&#x62E;&#x64A; &#x627;&#x633;&#x645;&#x647; &#x628;&#x648;&#x644;"/><subtitle lang="lba" line="&#x200E;&#x623;&#x62E;&#x64A; &#x627;&#x633;&#x645;&#x647; &#x628;&#x648;&#x644;"/>
+				<subtitle lang="ine" line="My brother's name is Paul."/>
+			</subtitles>
+    </line>
+    <line words="Ma m&#xE8;re s'appelle Jennifer." start="101992" length="4978">
+      <highlight index="0" start="1271" length="487"/>
+      <highlight index="1" start="1758" length="690"/>
+      <highlight index="2" start="2434" length="917"/>
+      <highlight index="3" start="3571" length="1352"/>
+      <subtitles>
+        <subtitle lang="ae" line="My mums name is Jenny."/>
+        <subtitle lang="en" line="My mums name is Jenny."/>
+        <subtitle lang="ca" line="My mums name is Jenny."/>
+        <subtitle lang="nl" line="En mijn moeder heet Jannie."/>
+        <subtitle lang="us" line="My mums name is Jenny."/>
+        <subtitle lang="nz" line="My mums name is Jenny."/>
+        <subtitle lang="sa" line="My mums name is Jenny."/>
+        <subtitle lang="au" line="My mums name is Jenny."/>
+        <subtitle lang="sco" line="My mums name is Jenny."/>
+        <subtitle lang="me" line="&#x200E;&#x623;&#x645;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x646;&#x64A;"/>
+        <subtitle lang="lb" line="My mums name is Jenny."/>
+        <subtitle lang="dk" line="Min mor hedder Jenny."/>
+      <subtitle lang="saa" line="&#x200E;&#x623;&#x645;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x646;&#x64A;"/><subtitle lang="lba" line="&#x200E;&#x623;&#x645;&#x64A; &#x627;&#x633;&#x645;&#x647;&#x627; &#x62C;&#x646;&#x64A;"/>
+				<subtitle lang="ine" line="My mums name is Jenny."/>
+			</subtitles>
+    </line>
+    <line words="Mon p&#xE8;re s'appelle Pierre." start="106828" length="4978">
+      <highlight index="0" start="1271" length="487"/>
+      <highlight index="1" start="1758" length="690"/>
+      <highlight index="2" start="2434" length="917"/>
+      <highlight index="3" start="3571" length="1122"/>
+      <subtitles>
+        <subtitle lang="en" line="My dad's name is Peter."/>
+        <subtitle lang="co" line="Mi padre se llama Pedro."/>
+        <subtitle lang="gt" line="Mi padre se llama Pedro."/>
+        <subtitle lang="nz" line="My dad's name is Peter."/>
+        <subtitle lang="sv" line="Mi padre se llama Pedro."/>
+        <subtitle lang="ni" line="Mi padre se llama Pedro."/>
+        <subtitle lang="ca" line="My dad's name is Peter."/>
+        <subtitle lang="mx" line="Mi padre se llama Pedro."/>
+        <subtitle lang="dk" line="Min far hedder Peter."/>
+        <subtitle lang="ar" line="Mi padre se llama Pedro."/>
+        <subtitle lang="py" line="Mi padre se llama Pedro."/>
+        <subtitle lang="me" line="&#x200E;&#x623;&#x628;&#x64A; &#x627;&#x633;&#x645;&#x647; &#xFE91;&#x64A;&#x62A;&#x631;"/>
+        <subtitle lang="cu" line="Mi padre se llama Pedro."/>
+        <subtitle lang="sa" line="My dad's name is Peter."/>
+        <subtitle lang="au" line="My dad's name is Peter."/>
+        <subtitle lang="ec" line="Mi padre se llama Pedro."/>
+        <subtitle lang="pr" line="Mi padre se llama Pedro."/>
+        <subtitle lang="cl" line="Mi padre se llama Pedro."/>
+        <subtitle lang="sp" line="Mi padre se llama Pedro."/>
+        <subtitle lang="nl" line="Mijn vader heet Peter."/>
+        <subtitle lang="us" line="My dad's name is Peter."/>
+        <subtitle lang="ae" line="My dad's name is Peter."/>
+        <subtitle lang="es" line="Mi padre se llama Pedro."/>
+        <subtitle lang="lb" line="My dad's name is Peter."/>
+        <subtitle lang="cr" line="Mi padre se llama Pedro."/>
+        <subtitle lang="ve" line="Mi padre se llama Pedro."/>
+        <subtitle lang="pe" line="Mi padre se llama Pedro."/>
+        <subtitle lang="bo" line="Mi padre se llama Pedro."/>
+        <subtitle lang="pa" line="Mi padre se llama Pedro."/>
+        <subtitle lang="sco" line="My dad's name is Peter."/>
+        <subtitle lang="hn" line="Mi padre se llama Pedro."/>
+        <subtitle lang="do" line="Mi padre se llama Pedro."/>
+      <subtitle lang="saa" line="&#x200E;&#x623;&#x628;&#x64A; &#x627;&#x633;&#x645;&#x647; &#xFE91;&#x64A;&#x62A;&#x631;"/><subtitle lang="lba" line="&#x200E;&#x623;&#x628;&#x64A; &#x627;&#x633;&#x645;&#x647; &#xFE91;&#x64A;&#x62A;&#x631;"/>
+				<subtitle lang="ine" line="My dad's name is Peter."/>
+			</subtitles>
+    </line>
+    <line words="Voila!" start="111665" length="3414">
+      <highlight index="0" start="661" length="1095"/>
+      <subtitles>
+        <subtitle lang="en" line="There you go!"/>
+        <subtitle lang="co" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="gt" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="nz" line="There you go!"/>
+        <subtitle lang="sv" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="ni" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="ca" line="There you go!"/>
+        <subtitle lang="mx" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="dk" line="Det var alt!"/>
+        <subtitle lang="ar" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="py" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="me" line="&#x200E;&#x647;&#x630;&#x627; &#x643;&#x644; &#x634;&#x64A;&#x621; "/>
+        <subtitle lang="cu" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="sa" line="There you go!"/>
+        <subtitle lang="au" line="There you go!"/>
+        <subtitle lang="ec" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="pr" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="cl" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="sp" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="nl" line="Ja wij!"/>
+        <subtitle lang="us" line="There you go!"/>
+        <subtitle lang="ae" line="There you go!"/>
+        <subtitle lang="es" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="lb" line="There you go!"/>
+        <subtitle lang="cr" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="ve" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="pe" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="bo" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="pa" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="sco" line="There you go!"/>
+        <subtitle lang="hn" line="&#xA1;Ya est&#xE1;!"/>
+        <subtitle lang="do" line="&#xA1;Ya est&#xE1;!"/>
+      <subtitle lang="saa" line="&#x200E;&#x647;&#x630;&#x627; &#x643;&#x644; &#x634;&#x64A;&#x621; "/><subtitle lang="lba" line="&#x200E;&#x647;&#x630;&#x627; &#x643;&#x644; &#x634;&#x64A;&#x621; "/>
+				<subtitle lang="ine" line="There you go!"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

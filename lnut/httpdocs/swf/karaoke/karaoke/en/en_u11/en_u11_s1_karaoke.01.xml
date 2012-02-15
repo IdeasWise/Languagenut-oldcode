@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="112117" >
+	<lines>
+		<line words="Where do you live?" start="8008" length="4000" >
+			<highlight index="0" start="221" length="661" />
+			<highlight index="1" start="943" length="287" />
+			<highlight index="2" start="1306" length="408" />
+			<highlight index="3" start="1820" length="792" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvor bor du?" />
+				<subtitle lang="nl" line="Hee waar woon jij?" />
+			</subtitles>
+		</line>
+		<line words="I live in the forest" start="11787" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1376" length="313" />
+			<highlight index="4" start="1886" length="989" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg bor i skoven." />
+				<subtitle lang="nl" line="Ik woon in het bos." />
+			</subtitles>
+		</line>
+		<line words="Where do you live?" start="15926" length="4000" >
+			<highlight index="0" start="126" length="756" />
+			<highlight index="1" start="943" length="287" />
+			<highlight index="2" start="1306" length="529" />
+			<highlight index="3" start="1820" length="792" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvor bor du?" />
+				<subtitle lang="nl" line="Hee waar woon jij?" />
+			</subtitles>
+		</line>
+		<line words="I live in the river" start="19615" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1578" length="313" />
+			<highlight index="4" start="1886" length="989" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg bor i floden." />
+				<subtitle lang="nl" line="Ik woon in de rivier." />
+			</subtitles>
+		</line>
+		<line words="Here is the lion, the yellow lion." start="23665" length="4000" >
+			<highlight index="0" start="257" length="358" />
+			<highlight index="1" start="595" length="338" />
+			<highlight index="2" start="1044" length="373" />
+			<highlight index="3" start="1402" length="591" />
+			<highlight index="4" start="2108" length="343" />
+			<highlight index="5" start="2426" length="484" />
+			<highlight index="6" start="3117" length="751" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er løven, den gule løve." />
+				<subtitle lang="nl" line="Daar is de leeuw, de gele leeuw." />
+			</subtitles>
+		</line>
+		<line words="Here is the lion, the yellow lion." start="27534" length="4000" >
+			<highlight index="0" start="257" length="358" />
+			<highlight index="1" start="595" length="338" />
+			<highlight index="2" start="1044" length="373" />
+			<highlight index="3" start="1402" length="591" />
+			<highlight index="4" start="2108" length="343" />
+			<highlight index="5" start="2426" length="484" />
+			<highlight index="6" start="3117" length="751" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er løven, den gule løve." />
+				<subtitle lang="nl" line="Daar is de leeuw, de gele leeuw." />
+			</subtitles>
+		</line>
+		<line words="He is very fierce" start="31673" length="7289" >
+			<highlight index="0" start="431" length="566" />
+			<highlight index="1" start="1390" length="722" />
+			<highlight index="2" start="2392" length="1688" />
+			<highlight index="3" start="4062" length="1021" />
+			<subtitles>
+				<subtitle lang="dk" line="Han er vild!" />
+				<subtitle lang="nl" line="Hij is heel erg wild!" />
+			</subtitles>
+		</line>
+		<line words="Here is the fish, the purple fish" start="39834" length="4320" >
+			<highlight index="0" start="266" length="316" />
+			<highlight index="1" start="555" length="323" />
+			<highlight index="2" start="920" length="200" />
+			<highlight index="3" start="1105" length="316" />
+			<highlight index="4" start="1808" length="276" />
+			<highlight index="5" start="2080" length="785" />
+			<highlight index="6" start="2854" length="561" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er fisken, den lilla fisk." />
+				<subtitle lang="nl" line="Daar is de vis, de paarse vis." />
+			</subtitles>
+		</line>
+		<line words="Here is the fish, the purple fish" start="43910" length="4320" >
+			<highlight index="0" start="266" length="316" />
+			<highlight index="1" start="555" length="323" />
+			<highlight index="2" start="920" length="200" />
+			<highlight index="3" start="1105" length="316" />
+			<highlight index="4" start="1808" length="276" />
+			<highlight index="5" start="2080" length="785" />
+			<highlight index="6" start="2854" length="561" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er fisken, den lilla fisk." />
+				<subtitle lang="nl" line="Daar is de vis, de paarse vis." />
+			</subtitles>
+		</line>
+		<line words="She is very flat" start="47960" length="4809" >
+			<highlight index="0" start="0" length="836" />
+			<highlight index="1" start="903" length="746" />
+			<highlight index="2" start="2039" length="1735" />
+			<highlight index="3" start="3961" length="444" />
+			<subtitles>
+				<subtitle lang="dk" line="Hun er meget flad!" />
+				<subtitle lang="nl" line="Zij is heel erg plat!" />
+			</subtitles>
+		</line>
+		<line words="Where do you live?" start="60017" length="4000" >
+			<highlight index="0" start="221" length="661" />
+			<highlight index="1" start="943" length="287" />
+			<highlight index="2" start="1306" length="408" />
+			<highlight index="3" start="1820" length="792" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvor bor du?" />
+				<subtitle lang="nl" line="Hee waar woon jij?" />
+			</subtitles>
+		</line>
+		<line words="I live in the nest" start="63976" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1376" length="313" />
+			<highlight index="4" start="1886" length="989" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg bor i reden." />
+				<subtitle lang="nl" line="Ik woon in een nest." />
+			</subtitles>
+		</line>
+		<line words="Where do you live?" start="67846" length="4000" >
+			<highlight index="0" start="221" length="661" />
+			<highlight index="1" start="943" length="287" />
+			<highlight index="2" start="1306" length="529" />
+			<highlight index="3" start="1820" length="792" />
+			<subtitles>
+				<subtitle lang="dk" line="Hvor bor du?" />
+				<subtitle lang="nl" line="Hee waar woon jij?" />
+			</subtitles>
+		</line>
+		<line words="I live in the desert" start="71535" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1376" length="313" />
+			<highlight index="4" start="1886" length="989" />
+			<subtitles>
+				<subtitle lang="dk" line="Jeg bor i ørkenen." />
+				<subtitle lang="nl" line="Ik woon in de woestijn." />
+			</subtitles>
+		</line>
+		<line words="Here is the bird, the orange bird" start="75404" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1578" length="505" />
+			<highlight index="4" start="2395" length="308" />
+			<highlight index="5" start="2688" length="454" />
+			<highlight index="6" start="3268" length="686" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er fuglen, den orange fugl." />
+				<subtitle lang="nl" line="Daar is de vogel, de oranje vogel." />
+			</subtitles>
+		</line>
+		<line words="Here is the bird, the orange bird" start="79363" length="4000" >
+			<highlight index="0" start="232" length="384" />
+			<highlight index="1" start="696" length="368" />
+			<highlight index="2" start="1033" length="303" />
+			<highlight index="3" start="1578" length="505" />
+			<highlight index="4" start="2395" length="308" />
+			<highlight index="5" start="2688" length="454" />
+			<highlight index="6" start="3268" length="686" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er fuglen, den orange fugl." />
+				<subtitle lang="nl" line="Daar is de vogel, de oranje vogel." />
+			</subtitles>
+		</line>
+		<line words="He flies very fast" start="83772" length="5039" >
+			<highlight index="0" start="267" length="635" />
+			<highlight index="1" start="1111" length="716" />
+			<highlight index="2" start="1969" length="1950" />
+			<highlight index="3" start="4174" length="807" />
+			<subtitles>
+				<subtitle lang="dk" line="Han flyver meget hurtigt!" />
+				<subtitle lang="nl" line="Hij is supersnel!" />
+			</subtitles>
+		</line>
+		<line words="Here is the kangaroo, the red kangaroo." start="91601" length="4000" >
+			<highlight index="0" start="292" length="394" />
+			<highlight index="1" start="655" length="303" />
+			<highlight index="2" start="1119" length="200" />
+			<highlight index="3" start="1351" length="716" />
+			<highlight index="4" start="2128" length="298" />
+			<highlight index="5" start="2426" length="433" />
+			<highlight index="6" start="2940" length="847" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er kænguruen, den røde kænguru." />
+				<subtitle lang="nl" line="Daar is de kangoeroe, de rode kangoeroe." />
+			</subtitles>
+		</line>
+		<line words="Here is the kangaroo, the red kangaroo." start="95470" length="4000" >
+			<highlight index="0" start="292" length="394" />
+			<highlight index="1" start="655" length="303" />
+			<highlight index="2" start="1119" length="200" />
+			<highlight index="3" start="1351" length="716" />
+			<highlight index="4" start="2128" length="298" />
+			<highlight index="5" start="2426" length="433" />
+			<highlight index="6" start="2940" length="847" />
+			<subtitles>
+				<subtitle lang="dk" line="Her er kænguruen, den røde kænguru." />
+				<subtitle lang="nl" line="Daar is de kangoeroe, de rode kangoeroe." />
+			</subtitles>
+		</line>
+		<line words="He jumps very high" start="99699" length="7019" >
+			<highlight index="0" start="380" length="686" />
+			<highlight index="1" start="1301" length="840" />
+			<highlight index="2" start="2327" length="1770" />
+			<highlight index="3" start="4345" length="1169" />
+			<subtitles>
+				<subtitle lang="dk" line="Han hopper meget højt" />
+				<subtitle lang="nl" line="Hij springt zeer hoog" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

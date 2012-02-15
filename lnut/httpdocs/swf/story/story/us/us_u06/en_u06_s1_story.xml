@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="299546" >
+	<lines>
+		<line words="Jack and the Beanstalk" start="0" length="3053" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="dk" line="Hans og bønnestagen" />
+				<subtitle lang="nl" line="Sjaak en de bonenstaak" />
+				<subtitle lang="ja" line="ジャックとまめのき" />
+			</subtitles>
+		</line>
+		<line words="This is the story of a boy. §Hello! What’s your name? My name’s Jack.§" start="2799" length="8370" useLNutResource="true" image="6#3#10" >
+			<highlights>
+				<highlight index="0" start="131" length="216" />
+				<highlight index="1" start="307" length="148" />
+				<highlight index="2" start="415" length="148" />
+				<highlight index="3" start="590" length="689" />
+				<highlight index="4" start="1441" length="256" />
+				<highlight index="5" start="1657" length="122" />
+				<highlight index="6" start="1752" length="405" />
+				<highlight index="7" start="3075" length="540" />
+				<highlight index="8" start="4182" length="243" />
+				<highlight index="9" start="4398" length="352" />
+				<highlight index="10" start="4723" length="297" />
+				<highlight index="11" start="6114" length="199" />
+				<highlight index="12" start="6276" length="364" />
+				<highlight index="13" start="6640" length="781" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Voici l’histoire … d’un garçon.Bonjour! Comment t’appelles-tu?Je m’appelle Jacques" />
+				<subtitle lang="sp" line="Éste es el cuento de un niño.¡Hola! ¿Cómo te llamas?Me llamo Juanito." />
+				<subtitle lang="nl" line="Dit is het verhaal over een jongen. Hallo! Hoe heet jij? Ik heet Sjaak." />
+				<subtitle lang="dk" line="Her er historien om en dreng. §Hej! Hvad hedder du?Jeg hedder Hans.§" />
+				<subtitle lang="ja" line="これは、あるおとこのこのものがたりです。こんにちは！あなたのなまえは？ぼくのなまえはジャックです。" />
+			</subtitles>
+		</line>
+		<line words="Jack is poor… mother is poor…. Jack and his mother are poor, very poor. " start="10943" length="12510" useLNutResource="true" image="6#4#2" >
+			<highlights>
+				<highlight index="0" start="2715" length="333" />
+				<highlight index="1" start="3013" length="140" />
+				<highlight index="2" start="3118" length="736" />
+				<highlight index="3" start="4362" length="578" />
+				<highlight index="4" start="5203" length="228" />
+				<highlight index="5" start="5361" length="823" />
+				<highlight index="6" start="7288" length="350" />
+				<highlight index="7" start="7586" length="157" />
+				<highlight index="8" start="7673" length="210" />
+				<highlight index="9" start="7831" length="420" />
+				<highlight index="10" start="8689" length="228" />
+				<highlight index="11" start="8900" length="700" />
+				<highlight index="12" start="10003" length="333" />
+				<highlight index="13" start="10284" length="683" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques est pauvre … Maman est pauvre …Jacques et Maman deviennent de plus en plus pauvres …de plus en plus pauvres." />
+				<subtitle lang="sp" line="Juanito es pobre ... su mamá es pobre ...Juanito y su mamá son pobres, muy pobres ..." />
+				<subtitle lang="nl" line="Sjaak is arm... Zijn moeder is arm... Sjaak en zijn moeder zijn arm, heel arm. " />
+				<subtitle lang="dk" line="Hans er fattig…mor er fattig…Hans og hans mor er fattige, meget fattige." />
+				<subtitle lang="ja" line="ジャックは、まずしいです...ははおやは、まずしいです...ジャックと、ははおやは、まずしいです、とてもまずしいです。" />
+			</subtitles>
+		</line>
+		<line words="Nothing for breakfast... nothing for lunch… nothing for supper… nothing at all!" start="22904" length="9905" useLNutResource="true" image="6#4#1" >
+			<highlights>
+				<highlight index="0" start="2399" length="389" />
+				<highlight index="1" start="2760" length="208" />
+				<highlight index="2" start="2926" length="638" />
+				<highlight index="3" start="4008" length="430" />
+				<highlight index="4" start="4397" length="152" />
+				<highlight index="5" start="4508" length="582" />
+				<highlight index="6" start="5562" length="444" />
+				<highlight index="7" start="5992" length="125" />
+				<highlight index="8" start="6089" length="569" />
+				<highlight index="9" start="7199" length="430" />
+				<highlight index="10" start="7587" length="153" />
+				<highlight index="11" start="7698" length="450" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Rien pour le petit déjeuner …Rien pour le déjeuner …Rien pour le dîner …Rien du tout!" />
+				<subtitle lang="sp" line="No tienen nada para desayunar...Nada para comer...Nada para cenar...¡Nada de nada!" />
+				<subtitle lang="nl" line="Niets als ontbijt... Niets als lunch... Niets als avondeten… Helemaal geen eten!" />
+				<subtitle lang="dk" line="Ingenting til morgenmad…ingenting til frokost…ingenting til aftensmad…overhovedet ingenting." />
+				<subtitle lang="ja" line="あさごはんに、たべるものもなく...ひるごはんに、たべるものもなく...ゆうごはんに、たべるものもなく...なにもありません！ " />
+			</subtitles>
+		</line>
+		<line words="Mother says, §Jack, let’s sell the cow.§ Moooooooooo. §Go to the market. Quick! Quick!§" start="32575" length="14335" useLNutResource="true" image="6#3#4" >
+			<highlights>
+				<highlight index="0" start="2248" length="361" />
+				<highlight index="1" start="2569" length="402" />
+				<highlight index="2" start="3432" length="442" />
+				<highlight index="3" start="4798" length="341" />
+				<highlight index="4" start="5079" length="321" />
+				<highlight index="5" start="5360" length="180" />
+				<highlight index="6" start="5500" length="642" />
+				<highlight index="7" start="6865" length="2289" />
+				<highlight index="8" start="9957" length="241" />
+				<highlight index="9" start="10158" length="140" />
+				<highlight index="10" start="10238" length="201" />
+				<highlight index="11" start="10399" length="722" />
+				<highlight index="12" start="11141" length="422" />
+				<highlight index="13" start="11684" length="582" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Alors, Maman dit:‘Jacques, vendons la vache’Meuh! Meuh! Meuh! Meuh! Meuh!‘Va au marché’‘Vite! Vite!’" />
+				<subtitle lang="sp" line="La mamá dice:‘Juanito, vamos a vender la vaca.’Muu, muu, muu, muu, muu.‘Ve al mercado.’‘¡Rápido, rápido!’" />
+				<subtitle lang="nl" line="Moeder zegt: ‘Sjaak, laten we de koe verkopen. ’Boe, boe.' ‘Ga naar de markt. Snel! Snel!’" />
+				<subtitle lang="dk" line="Mor siger: “Hans, lad os sælge koen.” Muh, muh, muh, muh, muh. §Tag på marked.Hurtigt! Hurtigt!§" />
+				<subtitle lang="ja" line="ははおやは、いいます:「ジャック、めうしをうりましょう」モー、モー、モー、モー、モー。「いちばにいっておいで」「はやく！はやく！」" />
+			</subtitles>
+		</line>
+		<line words="Jack and the cow go to the market. They meet an old man. §I would like to buy a cow. Here are five magic beans. One… two… three… four… five…§" start="46318" length="21634" useLNutResource="true" image="6#3#5" >
+			<highlights>
+				<highlight index="0" start="2302" length="394" />
+				<highlight index="1" start="2635" length="182" />
+				<highlight index="2" start="2757" length="151" />
+				<highlight index="3" start="2817" length="515" />
+				<highlight index="4" start="3272" length="333" />
+				<highlight index="5" start="3514" length="182" />
+				<highlight index="6" start="3635" length="182" />
+				<highlight index="7" start="3756" length="728" />
+				<highlight index="8" start="5089" length="243" />
+				<highlight index="9" start="5302" length="272" />
+				<highlight index="10" start="5514" length="151" />
+				<highlight index="11" start="5605" length="303" />
+				<highlight index="12" start="5847" length="866" />
+				<highlight index="13" start="7695" length="455" />
+				<highlight index="14" start="8059" length="291" />
+				<highlight index="15" start="8240" length="334" />
+				<highlight index="16" start="8513" length="243" />
+				<highlight index="17" start="8695" length="333" />
+				<highlight index="18" start="8937" length="182" />
+				<highlight index="19" start="9028" length="988" />
+				<highlight index="20" start="10482" length="455" />
+				<highlight index="21" start="10846" length="152" />
+				<highlight index="22" start="10937" length="606" />
+				<highlight index="23" start="11452" length="545" />
+				<highlight index="24" start="11906" length="1200" />
+				<highlight index="25" start="13421" length="637" />
+				<highlight index="26" start="14664" length="685" />
+				<highlight index="27" start="15997" length="727" />
+				<highlight index="28" start="17299" length="836" />
+				<highlight index="29" start="18663" length="1018" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques et la vache vont au marché. Ils rencontrent un vieil homme. ‘Je voudrais acheter une vache. Voici cinq haricots magiques.Un ... deux ... trois ... quatre ... cinq ...’" />
+				<subtitle lang="sp" line="Juanito y la vaca van al mercado.Se encuentran con un hombre viejo.‘Me gustaría comprar la vaca. Aquí tienes cinco judías mágicas.’Una... Dos... Tres... Cuatro... Cinco." />
+				<subtitle lang="nl" line="Sjaak gaat met de koe naar de markt. Ze komen een oude man tegen. ‘Ik wil graag een koe kopen. Hier zijn vijf toverbonen. Een... twee... drie... vier... vijf...’" />
+				<subtitle lang="dk" line="Hans og koen tager på marked. De møder en gammel mand. §Jeg vil gerne købe en ko. Her er fem magiske bønner. En…to…tre…fire…fem…§" />
+				<subtitle lang="ja" line="ジャックは、めうしをつれて、いちばへいきます。かれらは、ろうじんにあいます。「めうしをかいたいんじゃ。ここにまほうのまめが5つぶある。ひとつ...ふたつ...みっつ...よっつ...いつつ...」" />
+			</subtitles>
+		</line>
+		<line words="But mother says, §You really are stupid!§ She takes the beans…. the magic beans… one… two… three… four… five… and she throws them away." start="67187" length="19027" useLNutResource="true" image="6#3#5" >
+			<highlights>
+				<highlight index="0" start="2105" length="213" />
+				<highlight index="1" start="2211" length="480" />
+				<highlight index="2" start="2611" length="320" />
+				<highlight index="3" start="3304" length="306" />
+				<highlight index="4" start="3570" length="586" />
+				<highlight index="5" start="4103" length="187" />
+				<highlight index="6" start="4236" length="1026" />
+				<highlight index="7" start="5702" length="293" />
+				<highlight index="8" start="5862" length="506" />
+				<highlight index="9" start="6288" length="187" />
+				<highlight index="10" start="6395" length="613" />
+				<highlight index="11" start="7301" length="213" />
+				<highlight index="12" start="7487" length="453" />
+				<highlight index="13" start="7834" length="559" />
+				<highlight index="14" start="8979" length="373" />
+				<highlight index="15" start="10152" length="693" />
+				<highlight index="16" start="11537" length="840" />
+				<highlight index="17" start="12896" length="667" />
+				<highlight index="18" start="14149" length="746" />
+				<highlight index="19" start="15774" length="280" />
+				<highlight index="20" start="15987" length="187" />
+				<highlight index="21" start="16121" length="399" />
+				<highlight index="22" start="16414" length="213" />
+				<highlight index="23" start="16574" length="479" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Mais Maman dit ‘Que tu es bête!Elle prend les haricots … les haricots magiques …Un ... deux ... trois ... quatre ... cinq ...Et elle les jette!" />
+				<subtitle lang="sp" line="Pero la mamá le dice:¡Qué tonto eres!Ella coge las judías... las judías mágicas ...Una ... Dos ... Tres ... Cuatro ... Cinco.Y las tira al suelo." />
+				<subtitle lang="nl" line="Maar de moeder zegt ‘wat ben jij dom!’ Ze pakt de bonen... de toverbonen... Een... twee... drie... vier... vijf... En ze gooit ze weg." />
+				<subtitle lang="dk" line="Men mor siger: “Du er virkelig dum!” Hun tager bønnerne…de magiske bønner…En…to…tre…fire…fem…Og smider dem væk." />
+				<subtitle lang="ja" line="しかし、ははおやは、いいます。「おまえは、なんてバカなんだ！」かのじょは、まめをてにとります...まほうのまめを...ひとつ...ふたつ...みっつ...よっつ...いつつ...そして、かのじょは、それらをすててしまいます。" />
+			</subtitles>
+		</line>
+		<line words="But during the night, a magic beanstalk grows and grows… and grows… and grows… oh!" start="85766" length="11989" useLNutResource="true" image="6#3#1" >
+			<highlights>
+				<highlight index="0" start="2233" length="235" />
+				<highlight index="1" start="2417" length="454" />
+				<highlight index="2" start="2820" length="100" />
+				<highlight index="3" start="2887" length="654" />
+				<highlight index="4" start="4012" length="200" />
+				<highlight index="5" start="4130" length="470" />
+				<highlight index="6" start="4533" length="705" />
+				<highlight index="7" start="5188" length="720" />
+				<highlight index="8" start="6161" length="655" />
+				<highlight index="9" start="7270" length="200" />
+				<highlight index="9" start="6716" length="720" />
+				<highlight index="10" start="7740" length="201" />
+				<highlight index="11" start="7908" length="687" />
+				<highlight index="12" start="8714" length="268" />
+				<highlight index="13" start="8915" length="504" />
+				<highlight index="14" start="9385" length="502" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Mais la nuit, une tige de haricot magique pousse.Elle pousse … Elle pousse … Elle pousse …Whoosh!" />
+				<subtitle lang="sp" line="Pero durante la noche, una judía mágica crece.Y crece ... y crece ... y crece.¡Oh!" />
+				<subtitle lang="nl" line="Maar ‘s nachts groeit er ineens een magische bonenstaak. Hij groeit... en groeit... en groeit... Oh!" />
+				<subtitle lang="dk" line="Men midt om natten vokser der en magisk bønnestage op. Den vokser…og vokser…og vokser…oh!" />
+				<subtitle lang="ja" line="しかし、そのよる、まほうのまめのきがそだちます。そして、どんどん...どんどん...どんどんおおきくなって...おぉ！" />
+			</subtitles>
+		</line>
+		<line words="Jack climbs the magic beanstalk. He climbs… he climbs… and he climbs… right up to the sky. Jack sees a huge castle. Knock, knock, knock, knock, knock … §Is anybody there?§" start="97218" length="20069" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="2388" length="563" />
+				<highlight index="1" start="3007" length="1124" />
+				<highlight index="2" start="4019" length="168" />
+				<highlight index="3" start="4131" length="337" />
+				<highlight index="4" start="4384" length="987" />
+				<highlight index="5" start="5986" length="365" />
+				<highlight index="6" start="6239" length="703" />
+				<highlight index="7" start="7279" length="393" />
+				<highlight index="8" start="7560" length="618" />
+				<highlight index="9" start="8066" length="197" />
+				<highlight index="10" start="8206" length="169" />
+				<highlight index="11" start="8319" length="618" />
+				<highlight index="12" start="9134" length="393" />
+				<highlight index="13" start="9499" length="169" />
+				<highlight index="14" start="9612" length="196" />
+				<highlight index="15" start="9696" length="281" />
+				<highlight index="16" start="9893" length="734" />
+				<highlight index="17" start="11551" length="422" />
+				<highlight index="18" start="11888" length="338" />
+				<highlight index="19" start="12197" length="281" />
+				<highlight index="20" start="12310" length="618" />
+				<highlight index="21" start="12816" length="646" />
+				<highlight index="22" start="14474" length="337" />
+				<highlight index="23" start="14783" length="281" />
+				<highlight index="24" start="14980" length="225" />
+				<highlight index="25" start="15149" length="509" />
+				<highlight index="26" start="15570" length="425" />
+				<highlight index="28" start="17144" length="253" />
+				<highlight index="29" start="17285" length="421" />
+				<highlight index="30" start="17650" length="931" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe … jusqu’au ciel.Jacques voit un château géant.Toc … toc … toc … toc … toc … personne!" />
+				<subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Juanito ve un castillo enorme.Pom, pom, pom, pom ¿Hay alguien ahí?" />
+				<subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Sjaak ziet een enorm kasteel. Klop, klop, klop, klop, klop... ‘Is daar iemand?’" />
+				<subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…Lige op i himlen. Hans ser et kæmpestort slot. Banke, banke, banke, banke, banke på…”Er her nogen?”" />
+				<subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまであがります。ジャックは、きょだいなしろをみつけます。コン、コン、コン、コン、コン...「だれかいませんか？」" />
+			</subtitles>
+		</line>
+		<line words="Jack enters the castle. He sees some gold coins, a hen and a magic harp." start="116560" length="11207" useLNutResource="true" image="6#3#6" >
+			<highlights>
+				<highlight index="0" start="2558" length="486" />
+				<highlight index="1" start="3044" length="440" />
+				<highlight index="2" start="3437" length="219" />
+				<highlight index="3" start="3594" length="670" />
+				<highlight index="4" start="4881" length="298" />
+				<highlight index="5" start="5116" length="424" />
+				<highlight index="6" start="5493" length="157" />
+				<highlight index="7" start="5618" length="236" />
+				<highlight index="8" start="5822" length="534" />
+				<highlight index="9" start="6686" length="183" />
+				<highlight index="10" start="6811" length="565" />
+				<highlight index="11" start="7800" length="216" />
+				<highlight index="12" start="7957" length="125" />
+				<highlight index="13" start="8020" length="376" />
+				<highlight index="14" start="8334" length="737" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques entre dans le château.Il voit des pièces d’or,une poule et une harpe magique." />
+				<subtitle lang="sp" line="Juanito entra en el castillo.Ve unas monedas de oro,una gallina y un arpa mágica." />
+				<subtitle lang="nl" line="Sjaak loopt het kasteel binnen. Hij ziet wat gouden munten, een kip en een magische harp." />
+				<subtitle lang="dk" line="Hans går ind på slottet. Han ser nogle guldmønter, en høne og en magisk harpe." />
+				<subtitle lang="ja" line="ジャックは、しろにはいります。かれは、きんかをすうまい、めんどり、まほうのハープをみつけます" />
+			</subtitles>
+		</line>
+		<line words="The giant appears, the big, big big giant. Jack, hides. §I smell a boy!§ But he doesn’t find Jack." start="127504" length="14341" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="1584" length="184" />
+				<highlight index="1" start="1727" length="573" />
+				<highlight index="2" start="2218" length="777" />
+				<highlight index="3" start="3281" length="245" />
+				<highlight index="4" start="3465" length="588" />
+				<highlight index="5" start="4385" length="531" />
+				<highlight index="6" start="5243" length="573" />
+				<highlight index="7" start="5877" length="817" />
+				<highlight index="8" start="7185" length="327" />
+				<highlight index="9" start="7471" length="670" />
+				<highlight index="10" start="8432" length="347" />
+				<highlight index="11" start="8800" length="409" />
+				<highlight index="12" start="9168" length="200" />
+				<highlight index="13" start="9311" length="675" />
+				<highlight index="14" start="10967" length="184" />
+				<highlight index="15" start="11130" length="143" />
+				<highlight index="16" start="11192" length="388" />
+				<highlight index="17" start="11519" length="245" />
+				<highlight index="18" start="11723" length="813" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Fee Fi Fo Fum!Ca sent le garçon!’Mais il ne trouve pas Jacques." />
+				<subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.¡Huelo a niño!Pero no encuentra a Juanito." />
+				<subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. 'Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden." />
+				<subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!” Men han finder ikke Hans." />
+				<subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする！」しかし、かれはジャックをみつけられません。" />
+			</subtitles>
+		</line>
+		<line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Jack decides to creep in. He takes the gold coins." start="141756" length="20330" useLNutResource="true" image="6#3#3" >
+			<highlights>
+				<highlight index="0" start="1964" length="256" />
+				<highlight index="1" start="2135" length="455" />
+				<highlight index="2" start="2477" length="455" />
+				<highlight index="3" start="2790" length="655" />
+				<highlight index="4" start="4185" length="10563" />
+				<highlight index="5" start="14833" length="399" />
+				<highlight index="6" start="15175" length="484" />
+				<highlight index="7" start="15573" length="257" />
+				<highlight index="8" start="15744" length="342" />
+				<highlight index="9" start="16029" length="370" />
+				<highlight index="10" start="17054" length="427" />
+				<highlight index="11" start="17339" length="484" />
+				<highlight index="12" start="17737" length="171" />
+				<highlight index="13" start="17851" length="342" />
+				<highlight index="14" start="18136" length="798" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend les pièces d’or." />
+				<subtitle lang="sp" line="El gigante se queda dormido ...ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Juanito decide marcharse.Se lleva las monedas de oro." />
+				<subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de gouden munten mee." />
+				<subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind.Han tager guldmønterne." />
+				<subtitle lang="ja" line="きょじんは、いねむりをしています。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、きんかをとります。" />
+			</subtitles>
+		</line>
+		<line words="Jack slides down the beanstalk …down… down… down. And then?" start="161861" length="7819" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="2387" length="295" />
+				<highlight index="1" start="2628" length="569" />
+				<highlight index="2" start="3142" length="175" />
+				<highlight index="3" start="3274" length="186" />
+				<highlight index="4" start="3405" length="591" />
+				<highlight index="5" start="3974" length="395" />
+				<highlight index="6" start="4336" length="350" />
+				<highlight index="7" start="4686" length="449" />
+				<highlight index="8" start="5628" length="175" />
+				<highlight index="9" start="5748" length="351" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?" />
+				<subtitle lang="sp" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?" />
+				<subtitle lang="nl" line="Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?" />
+				<subtitle lang="dk" line="Hans glider ned af bønnestagen…ned…ned…ned. Og så?" />
+				<subtitle lang="ja" line="ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。それから？" />
+			</subtitles>
+		</line>
+		<line words="Jack climbs the magic beanstalk. He climbs… he climbs… he climbs… right up to the sky. And Jack enters the castle… and he sees… the hen… and the magic harp." start="169242" length="15639" useLNutResource="true" image="6#3#7" >
+			<highlights>
+				<highlight index="0" start="2562" length="372" />
+				<highlight index="1" start="2847" length="503" />
+				<highlight index="2" start="3285" length="197" />
+				<highlight index="3" start="3438" length="307" />
+				<highlight index="4" start="3679" length="657" />
+				<highlight index="5" start="4424" length="262" />
+				<highlight index="6" start="4621" length="438" />
+				<highlight index="7" start="4993" length="175" />
+				<highlight index="8" start="5103" length="460" />
+				<highlight index="9" start="5541" length="197" />
+				<highlight index="10" start="5650" length="438" />
+				<highlight index="11" start="6220" length="306" />
+				<highlight index="12" start="6548" length="219" />
+				<highlight index="13" start="6745" length="175" />
+				<highlight index="14" start="6855" length="175" />
+				<highlight index="15" start="6964" length="595" />
+				<highlight index="16" start="8191" length="175" />
+				<highlight index="17" start="8300" length="285" />
+				<highlight index="18" start="8519" length="438" />
+				<highlight index="19" start="8892" length="197" />
+				<highlight index="20" start="8979" length="570" />
+				<highlight index="21" start="9812" length="200" />
+				<highlight index="22" start="9965" length="175" />
+				<highlight index="23" start="10096" length="482" />
+				<highlight index="24" start="11323" length="197" />
+				<highlight index="25" start="11476" length="594" />
+				<highlight index="26" start="12637" length="197" />
+				<highlight index="27" start="12768" length="132" />
+				<highlight index="28" start="12856" length="328" />
+				<highlight index="29" start="13119" length="547" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … ilgrimpe … jusqu’au ciel.Et Jacques entre dans le château …Et il voit … la poule … et l’harpe magique." />
+				<subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... la gallina ... y el arpa mágica." />
+				<subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Hij gaat het kasteel in. En ziet… de kip… en de magische harp." />
+				<subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…lige op i himlen. Hans går ind på slottet…og han ser…hønen…og den magiske harpe." />
+				<subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまでのぼります。そしてジャックは、しろにはいります...そして、かれは...めんどりと...まほうのハープをみつけます。" />
+			</subtitles>
+		</line>
+		<line words="The giant appears, the big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." start="184257" length="12772" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="2182" length="196" />
+				<highlight index="1" start="2307" length="358" />
+				<highlight index="2" start="2593" length="519" />
+				<highlight index="3" start="3058" length="197" />
+				<highlight index="4" start="3237" length="519" />
+				<highlight index="5" start="4167" length="358" />
+				<highlight index="6" start="4471" length="844" />
+				<highlight index="7" start="6278" length="286" />
+				<highlight index="8" start="6510" length="483" />
+				<highlight index="9" start="7476" length="394" />
+				<highlight index="10" start="7834" length="429" />
+				<highlight index="11" start="8192" length="200" />
+				<highlight index="12" start="8335" length="701" />
+				<highlight index="13" start="9784" length="178" />
+				<highlight index="14" start="9891" length="232" />
+				<highlight index="15" start="10052" length="411" />
+				<highlight index="16" start="10392" length="250" />
+				<highlight index="17" start="10571" length="411" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques." />
+				<subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito" />
+				<subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. ‘Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden." />
+				<subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!§ Men han finder ikke Hans." />
+				<subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする」しかし、かれはジャックをみつけられません。" />
+			</subtitles>
+		</line>
+		<line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ. Jack decides to creep in. He takes the hen." start="196728" length="16160" useLNutResource="true" image="6#3#7" >
+			<highlights>
+				<highlight index="0" start="2285" length="159" />
+				<highlight index="1" start="2376" length="452" />
+				<highlight index="2" start="2738" length="362" />
+				<highlight index="3" start="3032" length="589" />
+				<highlight index="4" start="4481" length="6382" />
+				<highlight index="5" start="11609" length="453" />
+				<highlight index="6" start="11994" length="475" />
+				<highlight index="7" start="12402" length="181" />
+				<highlight index="8" start="12537" length="362" />
+				<highlight index="9" start="12786" length="294" />
+				<highlight index="10" start="13443" length="312" />
+				<highlight index="11" start="13669" length="407" />
+				<highlight index="12" start="14031" length="158" />
+				<highlight index="13" start="14122" length="475" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend la poule." />
+				<subtitle lang="sp" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva la gallina." />
+				<subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de kip mee." />
+				<subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind.Han tager hønen." />
+				<subtitle lang="ja" line="きょじんは、いねむりをします。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、めんどりをとります。" />
+			</subtitles>
+		</line>
+		<line words="Jack slides down the beanstalk …down… down… down. And then?" start="212761" length="7559" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="2106" length="244" />
+				<highlight index="1" start="2339" length="445" />
+				<highlight index="2" start="2752" length="296" />
+				<highlight index="3" start="3006" length="100" />
+				<highlight index="4" start="3069" length="604" />
+				<highlight index="5" start="3662" length="318" />
+				<highlight index="6" start="4033" length="370" />
+				<highlight index="7" start="4382" length="540" />
+				<highlight index="8" start="5314" length="243" />
+				<highlight index="9" start="5515" length="635" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques glisse le long de la tige …il glisse … il glisse … il glisse …Et après?" />
+				<subtitle lang="sp" line="Juanito baja por la judía mágica.Baja ... baja ... baja.¿Y entonces ...?" />
+				<subtitle lang="nl" line="Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?" />
+				<subtitle lang="dk" line="Hans glider ned af bønnestagen… ned…ned…ned. Og så?" />
+				<subtitle lang="ja" line="ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。それから？" />
+			</subtitles>
+		</line>
+		<line words="Jack climbs the magic beanstalk. He climbs … he climbs … he climbs … right up to the sky. And Jack enters the castle… and he sees… the magic harp." start="220142" length="15525" useLNutResource="true" image="6#3#9" >
+			<highlights>
+				<highlight index="0" start="2351" length="333" />
+				<highlight index="1" start="2621" length="624" />
+				<highlight index="2" start="3162" length="167" />
+				<highlight index="3" start="3266" length="354" />
+				<highlight index="4" start="3557" length="666" />
+				<highlight index="5" start="4494" length="249" />
+				<highlight index="6" start="4660" length="520" />
+				<highlight index="8" start="5160" length="208" />
+				<highlight index="9" start="5305" length="500" />
+				<highlight index="11" start="5805" length="187" />
+				<highlight index="12" start="5929" length="396" />
+				<highlight index="14" start="6533" length="395" />
+				<highlight index="15" start="6845" length="187" />
+				<highlight index="16" start="6949" length="229" />
+				<highlight index="17" start="7136" length="167" />
+				<highlight index="18" start="7240" length="637" />
+				<highlight index="19" start="8738" length="167" />
+				<highlight index="20" start="8863" length="271" />
+				<highlight index="21" start="9113" length="291" />
+				<highlight index="22" start="9362" length="167" />
+				<highlight index="23" start="9487" length="679" />
+				<highlight index="24" start="10528" length="229" />
+				<highlight index="25" start="10736" length="125" />
+				<highlight index="26" start="10840" length="491" />
+				<highlight index="27" start="12192" length="271" />
+				<highlight index="28" start="12400" length="437" />
+				<highlight index="29" start="12796" length="907" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques grimpe la tige de haricot magique.Il grimpe … il grimpe … il grimpe ...jusqu’au ciel.Et Jacques entre dans le château …Et il voit … l’harpe magique." />
+				<subtitle lang="sp" line="Juanito sube por la judía mágica.Sube ... sube ... y sube hasta el cielo.Y entra en el castillo ...Y mira ... el arpa mágica." />
+				<subtitle lang="nl" line="Sjaak klimt in de magische bonenstaak. Hij klimt... en klimt... en klimt... helemaal tot aan de hemel. Hij gaat het kasteel in. En ziet… de magische harp." />
+				<subtitle lang="dk" line="Hans klatrer op af den magiske bønnestage. Han klatrer…han klatrer…og han klatrer…Lige op i himlen. Hans går ind på slottet…Og han ser… den magiske harpe." />
+				<subtitle lang="ja" line="ジャックは、まほうのまめのきをのぼります。かれは、どんどん...どんどん...どんどんのぼり...てんまでのぼります。そしてジャックは、しろにはいります...そして、かれは...まほうのハープをみつけます。" />
+			</subtitles>
+		</line>
+		<line words="The giant arrives, the big, big giant. Jack hides. §I smell a boy.§ But he doesn’t find Jack." start="236175" length="13743" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="2164" length="178" />
+				<highlight index="1" start="2307" length="357" />
+				<highlight index="2" start="2611" length="572" />
+				<highlight index="3" start="3380" length="197" />
+				<highlight index="4" start="3523" length="572" />
+				<highlight index="5" start="4256" length="340" />
+				<highlight index="6" start="4632" length="572" />
+				<highlight index="7" start="5687" length="361" />
+				<highlight index="8" start="5955" length="612" />
+				<highlight index="9" start="7332" length="376" />
+				<highlight index="10" start="7654" length="394" />
+				<highlight index="11" start="8012" length="200" />
+				<highlight index="12" start="8155" length="590" />
+				<highlight index="13" start="9479" length="196" />
+				<highlight index="14" start="9604" length="179" />
+				<highlight index="15" start="9747" length="322" />
+				<highlight index="16" start="10015" length="304" />
+				<highlight index="17" start="10266" length="518" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant arrive! Le grand, grand géant!Cache-toi, Jacques!‘Hum! Hum! Hum! Hum!Ca sent le garçon!’Mais il ne trouve pas Jacques." />
+				<subtitle lang="sp" line="El gigante aparece.El gigante, grande, grande.Juanito se esconde.‘¡Huelo a niño!’Pero no encuentra a Juanito." />
+				<subtitle lang="nl" line="De reus komt tevoorschijn. De grote, enorme reus. Sjaak verstopt zich. ‘Ik ruik een jongen!’ Maar hij kan Sjaak niet vinden." />
+				<subtitle lang="dk" line="Kæmpen kommer frem. Den store, store, store kæmpe. Hans gemmer sig. §Jeg kan lugte en dreng!” Men han finder ikke Hans." />
+				<subtitle lang="ja" line="きょじんがあらわれます。おおきな、おおきなきょじんです。ジャックは、かくれます。「おとこのこのにおいがする」しかし、かれはジャックをみつけられません。" />
+			</subtitles>
+		</line>
+		<line words="The giant falls asleep. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Jack decides to creep in and he takes the magic harp." start="249409" length="14614" useLNutResource="true" image="6#3#9" >
+			<highlights>
+				<highlight index="0" start="1281" length="151" />
+				<highlight index="1" start="1411" length="409" />
+				<highlight index="2" start="1734" length="301" />
+				<highlight index="3" start="1971" length="673" />
+				<highlight index="4" start="3370" length="5277" />
+				<highlight index="5" start="9659" length="366" />
+				<highlight index="6" start="9961" length="473" />
+				<highlight index="7" start="10370" length="172" />
+				<highlight index="8" start="10499" length="345" />
+				<highlight index="9" start="10822" length="237" />
+				<highlight index="10" start="11339" length="194" />
+				<highlight index="11" start="11402" length="271" />
+				<highlight index="12" start="11548" length="463" />
+				<highlight index="13" start="11965" length="268" />
+				<highlight index="14" start="12090" length="438" />
+				<highlight index="15" start="12444" length="542" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Le géant dort …RRRRRRRRRRRRRRRRRRJacques entre à pas de loup.Il prend l’harpe magique." />
+				<subtitle lang="sp" line="El gigante se queda dormido.ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZJuanito decide marcharse.Se lleva el arpa mágica." />
+				<subtitle lang="nl" line="De reus valt in slaap. ZZZZZZZZZZZZZZZZZZZZZZZZZZZZ Sjaak besluit weg te sluipen. Hij neemt de magische harp mee." />
+				<subtitle lang="dk" line="Kæmpen falder i søvn. ZZZZZZZZZZZZZZZZZZZZZZ Hans beslutter sig for at kravle ind. Han tager den magiske harpe." />
+				<subtitle lang="ja" line="きょじんは、いねむりをしています。ぐーぐーぐーぐージャックは、しのびこもうとけっしんします。かれは、まほうのハープをとります。" />
+			</subtitles>
+		</line>
+		<line words="And this is the end of the story. But the giant wakes up. The giant chases Jack. Jack slides down the beanstalk… down… down… and down. But the giant is coming after him." start="264170" length="13553" useLNutResource="true" image="6#4#4" >
+			<highlights>
+				<highlight index="0" start="1822" length="208" />
+				<highlight index="1" start="1973" length="171" />
+				<highlight index="2" start="2106" length="171" />
+				<highlight index="3" start="2201" length="209" />
+				<highlight index="4" start="2353" length="190" />
+				<highlight index="5" start="2505" length="209" />
+				<highlight index="6" start="2657" length="152" />
+				<highlight index="7" start="2771" length="455" />
+				<highlight index="8" start="3872" length="284" />
+				<highlight index="9" start="4099" length="190" />
+				<highlight index="10" start="4232" length="323" />
+				<highlight index="11" start="4517" length="285" />
+				<highlight index="12" start="4802" length="303" />
+				<highlight index="13" start="5542" length="247" />
+				<highlight index="14" start="5751" length="379" />
+				<highlight index="15" start="6073" length="437" />
+				<highlight index="16" start="6491" length="341" />
+				<highlight index="17" start="7136" length="228" />
+				<highlight index="18" start="7326" length="474" />
+				<highlight index="19" start="7725" length="265" />
+				<highlight index="20" start="7990" length="100" />
+				<highlight index="21" start="8028" length="475" />
+				<highlight index="22" start="8465" length="360" />
+				<highlight index="23" start="8787" length="342" />
+				<highlight index="24" start="9091" length="200" />
+				<highlight index="25" start="9186" length="342" />
+				<highlight index="26" start="9812" length="190" />
+				<highlight index="27" start="10021" length="133" />
+				<highlight index="28" start="10116" length="304" />
+				<highlight index="29" start="10382" length="209" />
+				<highlight index="30" start="10553" length="341" />
+				<highlight index="31" start="10818" length="475" />
+				<highlight index="32" start="11255" length="493" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Mais le géant se réveille!Le géant chasse Jacques.Jacques glisse le long de la tige … il glisse … il glisse … il glisse …Mais le géant vient aussi!" />
+				<subtitle lang="sp" line="Y éste es el final del cuento.Pero el gigante se despierta.El gigante corre detrás de Juanito.Juanito baja por la judía mágica.Baja ... baja ... y baja.Pero el gigante corre detrás de él." />
+				<subtitle lang="nl" line="En dit is het einde van het verhaal…Maar de reus wordt wakker! De reus achtervolgt Sjaak! Sjaak klimt naar beneden in de bonenstaak. Lager… lager… lager. En toen?" />
+				<subtitle lang="dk" line="Og det er slutningen på historien. Men kæmpen vågner op.Kæmpen jagter Hans. Hans glider ned af bønnestagen…ned…ned…og ned. Men kæmpen kommer efter ham." />
+				<subtitle lang="ja" line="そして、これがものがたりのおわりです。しかし、きょじんは、めをさまします。きょじんはジャックをおいかけます。ジャックは、まめのきをすべりおります...どんどん...どんどん...どんどんおります。しかし、きょじんは、かれをおいかけてきます。" />
+			</subtitles>
+		</line>
+		<line words="Jack looks for an axe. Quick! Quick! Jack chops down the beanstalk. Quick! Quick! Crash!... The giant falls… Crash!" start="277404" length="13554" useLNutResource="true" image="6#4#5" >
+			<highlights>
+				<highlight index="0" start="2012" length="284" />
+				<highlight index="1" start="2220" length="361" />
+				<highlight index="2" start="2543" length="228" />
+				<highlight index="3" start="2714" length="171" />
+				<highlight index="4" start="2866" length="398" />
+				<highlight index="5" start="3397" length="342" />
+				<highlight index="6" start="4138" length="360" />
+				<highlight index="7" start="4669" length="342" />
+				<highlight index="8" start="5295" length="399" />
+				<highlight index="9" start="5656" length="342" />
+				<highlight index="10" start="5960" length="171" />
+				<highlight index="11" start="6055" length="702" />
+				<highlight index="12" start="6662" length="399" />
+				<highlight index="13" start="7118" length="379" />
+				<highlight index="14" start="7953" length="731" />
+				<highlight index="15" start="9168" length="190" />
+				<highlight index="16" start="9320" length="303" />
+				<highlight index="17" start="9585" length="694" />
+				<highlight index="18" start="10459" length="1016" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Jacques cherche une hache!Vite! Vite!Jacques abat la tige de haricot.Vite! Vite!PATATRAS!Et le géant tombe …PATATRAS!" />
+				<subtitle lang="sp" line="Juanito busca un hacha.¡Rápido, rápido!Juanito corta la judía mágica.¡Rápido, rápido!¡Plafff! El gigante se cae. ¡Plafff!" />
+				<subtitle lang="nl" line="Sjaak zoekt een bijl. Vlug! Vlug! Sjaak hakt de bonenstaak door. Vlug! Vlug! Boem! … De reus valt. Plof!" />
+				<subtitle lang="dk" line="Hans kigger efter en økse. Hurtigt! Hurtigt! Hans fælder bønnestagen. Hurtigt! Hurtigt! Bang…Kæmpen falder…bang!" />
+				<subtitle lang="ja" line="ジャックは、おのをさがします。はやく！はやく！ジャックは、まめのきをきりたおします。はやく！はやく！ぼきっ！...きょじんは、おちます...どすん！" />
+			</subtitles>
+		</line>
+		<line words="And that’s the end of the giant." start="290893" length="6108" useLNutResource="true" image="6#3#2" >
+			<highlights>
+				<highlight index="0" start="1596" length="163" />
+				<highlight index="1" start="1749" length="266" />
+				<highlight index="2" start="1995" length="143" />
+				<highlight index="3" start="2097" length="470" />
+				<highlight index="4" start="2638" length="174" />
+				<highlight index="5" start="2802" length="143" />
+				<highlight index="6" start="2904" length="920" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="fr" line="Et ça, c’est la fin du géant.Et ça, c’est la fin de l’histoire." />
+				<subtitle lang="sp" line="Y éste es el final del gigante. " />
+				<subtitle lang="nl" line="En dat is het einde van de reus." />
+				<subtitle lang="dk" line="Og så er det slut med den kæmpe." />
+				<subtitle lang="ja" line="そして、これがきょじんのさいごです。" />
+			</subtitles>
+		</line>
+		<line words="The End" start="296492" length="3054" useLNutResource="false" image="" >
+			<highlights>
+			</highlights>
+			<subtitles>
+				<subtitle lang="nl" line="EInde" />
+				<subtitle lang="dk" line="Slut" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

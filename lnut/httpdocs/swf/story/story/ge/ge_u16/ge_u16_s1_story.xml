@@ -1,0 +1,795 @@
+<?xml version="1.0"?>
+<karaoke length="172800">
+  <lines>
+    <line words="Jane und Tom sind am Meer" start="185" length="3523" useLNutResource="false" useStoryResource="false" image="null">
+      <subtitles>
+        <subtitle lang="vc" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="vu" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="na" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="en" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="sb" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="mt" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ca" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="bs" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="sg" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="bz" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ae" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="sl" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="gh" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ag" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="tt" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="za" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="dm" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="gm" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="tz" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="au" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="zm" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="sco" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="mu" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="bw" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ug" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ke" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="zw" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="pk" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="fj" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="rw" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="bd" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="gy" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ng" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="ws" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="us" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="to" line="JANE AND TOM AT THE SEASIDE"/>
+        <subtitle lang="jm" line="JANE AND TOM AT THE SEASIDE"/>
+      </subtitles>
+      <highlights/>
+    </line>
+    <line words="Jane und ihr Bruder Tom besuchen ihre Oma, die am Meer wohnt." start="4078" length="6674" useLNutResource="true" useStoryResource="false" image="16#1#5">
+      <subtitles>
+        <subtitle lang="vc" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="vu" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="na" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="en" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="sb" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="mt" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ca" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="mx" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/>
+        <subtitle lang="bs" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="sg" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="bz" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ae" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="sl" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="gh" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ag" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="tt" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="za" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="dm" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="gm" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="tz" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="au" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="zm" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="sco" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="mu" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="bw" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ug" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ke" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="zw" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="pk" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="fj" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="rw" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="bd" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="gy" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ng" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="ws" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="us" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="to" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+        <subtitle lang="jm" line="Jane and her brother, Tom, are staying with their Grandma who lives by the sea."/>
+      <subtitle lang="cl" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="es" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="co" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="gt" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="pe" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="ni" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="do" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="bo" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="ve" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="ar" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="cu" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="pr" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="py" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="ec" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="hn" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="sv" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="cr" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/><subtitle lang="pa" line="Juana y su hermano, Tom&#xE1;s, se van a quedar con su abuelita que vive a lado del mar."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Am Montag sagt Jane zu ihrer Oma:" start="11680" length="4821" useLNutResource="true" useStoryResource="false" image="10#4#1">
+      <subtitles>
+        <subtitle lang="vc" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="vu" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="na" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="en" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="sb" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="mt" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ca" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="mx" line="El lunes, Juana le dice a su abuelita,"/>
+        <subtitle lang="bs" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="sg" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="bz" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ae" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="sl" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="gh" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ag" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="tt" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="za" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="dm" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="gm" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="tz" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="au" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="zm" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="sco" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="mu" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="bw" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ug" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ke" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="zw" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="pk" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="fj" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="rw" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="bd" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="gy" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ng" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="ws" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="us" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="to" line="On Monday, Jane says to Grandma,"/>
+        <subtitle lang="jm" line="On Monday, Jane says to Grandma,"/>
+      <subtitle lang="cl" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="es" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="co" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="gt" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="pe" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="ni" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="do" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="bo" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="ve" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="ar" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="cu" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="pr" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="py" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="ec" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="hn" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="sv" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="cr" line="El lunes, Juana le dice a su abuelita,"/><subtitle lang="pa" line="El lunes, Juana le dice a su abuelita,"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;K&#xF6;nnen wir heute bitte an den Strand gehen?&#xA7;" start="16686" length="4821" useLNutResource="true" useStoryResource="false" image="16#1#5">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="jm" line="&#x201C;Please, can we go to the beach today?&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="es" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="co" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="gt" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pe" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ni" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="do" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="bo" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ve" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ar" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cu" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pr" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="py" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ec" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="hn" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="sv" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cr" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pa" line="&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Nicht heute,&#xA7; sagt die Oma. &#xA7;Es ist &#xFC;berf&#xFC;llt und der Strand ist schmutzig und steinig.&#xA7;" start="22619" length="7602" useLNutResource="true" useStoryResource="false" image="16#4#1">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+        <subtitle lang="jm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is very crowded and the beach is dirty and pebbly.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="es" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="co" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="gt" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="pe" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="ni" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="do" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="bo" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="ve" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="ar" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="cu" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="pr" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="py" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="ec" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="hn" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="sv" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="cr" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/><subtitle lang="pa" line="&#x201C;No, hoy no,&#x201D; dice la abuelita, &#x201C;hay mucha gente y la playa est&#xE1; sucia y llena de piedras.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Am Dienstag sagt Jane zu ihrer Oma: &#xA7;K&#xF6;nnen wir heute bitte an den Strand gehen?&#xA7; " start="32075" length="9827" useLNutResource="true" useStoryResource="false" image="10#4#2">
+      <subtitles>
+        <subtitle lang="vc" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="vu" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="na" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="en" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sb" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mt" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ca" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mx" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+        <subtitle lang="bs" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sg" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bz" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ae" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sl" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gh" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ag" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tt" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="za" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="dm" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gm" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tz" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="au" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zm" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sco" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mu" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bw" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ug" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ke" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zw" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="pk" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="fj" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="rw" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bd" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gy" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ng" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ws" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="us" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="to" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="jm" line="On Tuesday, Tom says to Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+      <subtitle lang="cl" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="es" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="co" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="gt" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pe" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ni" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="do" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="bo" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ve" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ar" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cu" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pr" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="py" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ec" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="hn" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="sv" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cr" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pa" line="El martes, Tom&#xE1;s le dice a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Heute nicht,&#xA7; sagt die Oma. &#xA7;Es ist bew&#xF6;lkt und die Klippe ist gef&#xE4;hrlich. Der Strand ist leer.&#xA7; " start="44497" length="7973" useLNutResource="true" useStoryResource="false" image="16#4#10">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+        <subtitle lang="jm" line="&#x201C;Not today,&#x201D; says Grandma. &#x201C;It is cloudy and the cliff is dangerous. The beach is empty.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="es" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="co" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="gt" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="pe" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="ni" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="do" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="bo" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="ve" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="ar" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="cu" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="pr" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="py" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="ec" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="hn" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="sv" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="cr" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/><subtitle lang="pa" line="&#x201C;No, hoy no,&#x201D; dice su abuelita, &#x201C;est&#xE1; nublado y el acantilado es muy peligroso. La playa est&#xE1; vac&#xED;a.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Am Mittwoch sagt Jane zu ihrer Oma: &#xA7;K&#xF6;nnen wir heute bitte an den Strand gehen?&#xA7; " start="54139" length="8343" useLNutResource="true" useStoryResource="false" image="10#4#3">
+      <subtitles>
+        <subtitle lang="vc" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="vu" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="na" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="en" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sb" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mt" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ca" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mx" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+        <subtitle lang="bs" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sg" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bz" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ae" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sl" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gh" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ag" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tt" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="za" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="dm" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gm" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="tz" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="au" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zm" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="sco" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="mu" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bw" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ug" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ke" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="zw" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="pk" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="fj" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="rw" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="bd" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="gy" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ng" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="ws" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="us" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="to" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+        <subtitle lang="jm" line="On Wednesday, Jane and Tom say to their Grandma, &#x201C;Please, can we go to the beach today?&#x201D;"/>
+      <subtitle lang="cl" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="es" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="co" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="gt" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pe" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ni" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="do" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="bo" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ve" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ar" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cu" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pr" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="py" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="ec" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="hn" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="sv" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="cr" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/><subtitle lang="pa" line="El mi&#xE9;rcoles, Juana y Tom&#xE1;s le dicen a su abuelita,&#x201C;Por favor, &#xBF;podemos ir a la playa hoy?&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Ja,&#xA7; sagt die Oma. &#xA7;Es ist sonnig und der Himmel ist blau. Der Strand ist sicher und der Sand ist gelb und sauber.&#xA7;" start="63780" length="9826" useLNutResource="true" useStoryResource="false" image="16#1#6">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+        <subtitle lang="jm" line="&#x201C;Yes,&#x201D; says Grandma. &#x201C;It is sunny and the sky is blue. The sea is safe and the sand is yellow and clean.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="es" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="co" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="gt" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="pe" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="ni" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="do" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="bo" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="ve" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="ar" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="cu" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="pr" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="py" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="ec" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="hn" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="sv" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="cr" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/><subtitle lang="pa" line="&#x201C;S&#xED;, dice su abuelita, &#x201C;est&#xE1; soleado y el cielo est&#xE1; azul. El mar es seguro y la arena es amarilla y est&#xE1; limpia.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Der Strand ist wundersch&#xF6;n. Jane, Tom und die Oma sitzen unter einem gr&#xFC;nen Schirm auf ihren Handt&#xFC;chern. Sie tragen hellblaue H&#xFC;te und haben ein herrliches Picknick in einem Korb." start="74719" length="16872" useLNutResource="true" useStoryResource="false" image="16#1#6">
+      <subtitles>
+        <subtitle lang="vc" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="vu" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="na" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="en" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="sb" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="mt" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ca" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="mx" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/>
+        <subtitle lang="bs" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="sg" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="bz" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ae" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="sl" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="gh" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ag" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="tt" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="za" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="dm" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="gm" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="tz" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="au" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="zm" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="sco" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="mu" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="bw" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ug" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ke" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="zw" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="pk" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="fj" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="rw" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="bd" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="gy" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ng" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="ws" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="us" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="to" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+        <subtitle lang="jm" line="The beach is beautiful. Jane, Tom and Grandma sit under a green umbrella on their towels. They wear light blue hats and they have a lovely picnic in a basket."/>
+      <subtitle lang="cl" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="es" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="co" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="gt" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="pe" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="ni" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="do" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="bo" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="ve" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="ar" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="cu" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="pr" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="py" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="ec" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="hn" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="sv" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="cr" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/><subtitle lang="pa" line="La playa est&#xE1; hermosa. Juana, Tom&#xE1;s y su abuelita se sientan debajo de una sombrilla verde encima de sus toallas. Traen puestos sombreros de color azul claro y tienen un riqu&#xED;simo picnic en una canasta."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Was kannst du sehen?&#xA7; fragt die Oma." start="93260" length="3893" useLNutResource="true" useStoryResource="false" image="23#5#1">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="vu" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="na" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="en" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sb" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mt" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ca" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mx" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/>
+        <subtitle lang="bs" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sg" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bz" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ae" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sl" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gh" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ag" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="tt" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="za" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="dm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="tz" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="au" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="zm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sco" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mu" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ug" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ke" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="zw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="pk" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="fj" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="rw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bd" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gy" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ng" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ws" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="us" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="to" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="jm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+      <subtitle lang="cl" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="es" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="co" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="gt" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pe" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ni" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="do" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="bo" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ve" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ar" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="cu" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pr" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="py" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ec" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="hn" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="sv" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="cr" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pa" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Jane sieht sich am Strand um und sagt: &#xA7;Ein kleines Boot mit einem roten Segel, das vorbeisegelt und da ist ein gro&#xDF;er Dampfer.&#xA7;" start="99378" length="12052" useLNutResource="true" useStoryResource="false" image="16#6#8">
+      <subtitles>
+        <subtitle lang="vc" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="vu" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="na" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="en" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="sb" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="mt" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ca" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="mx" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/>
+        <subtitle lang="bs" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="sg" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="bz" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ae" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="sl" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="gh" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ag" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="tt" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="za" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="dm" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="gm" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="tz" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="au" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="zm" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="sco" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="mu" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="bw" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ug" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ke" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="zw" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="pk" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="fj" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="rw" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="bd" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="gy" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ng" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="ws" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="us" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="to" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+        <subtitle lang="jm" line="Jane looks at the sea and says, &#x201C;A small boat with a red sail is gliding along and there is a big steamer.&#x201D;"/>
+      <subtitle lang="cl" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="es" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="co" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="gt" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="pe" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="ni" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="do" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="bo" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="ve" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="ar" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="cu" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="pr" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="py" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="ec" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="hn" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="sv" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="cr" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/><subtitle lang="pa" line="Juana mira hacia el mar y dice,&#x201C;Un peque&#xF1;o barco con una vela roja est&#xE1; navegando y tambi&#xE9;n hay un enorme barco a vapor.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Was kannst du sehen?&#xA7; fragt die Oma." start="113098" length="4821" useLNutResource="true" useStoryResource="false" image="23#5#1">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="vu" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="na" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="en" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sb" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mt" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ca" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mx" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/>
+        <subtitle lang="bs" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sg" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bz" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ae" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sl" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gh" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ag" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="tt" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="za" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="dm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="tz" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="au" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="zm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="sco" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="mu" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ug" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ke" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="zw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="pk" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="fj" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="rw" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="bd" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="gy" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ng" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="ws" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="us" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="to" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+        <subtitle lang="jm" line="&#x201C;What can you see?&#x201D; asks Grandma."/>
+      <subtitle lang="cl" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="es" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="co" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="gt" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pe" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ni" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="do" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="bo" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ve" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ar" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="cu" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pr" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="py" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="ec" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="hn" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="sv" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="cr" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/><subtitle lang="pa" line="&#x201C;&#xBF;Qu&#xE9; puedes ver?&#x201D; pregunta la abuelita."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Tom sagt: &#xA7;Einen braunen Hund, der das kleine M&#xE4;dchen bewacht, das gerade auf dem sandigen Strand schl&#xE4;ft.&#xA7;" start="118660" length="10012" useLNutResource="true" useStoryResource="false" image="16#2#3">
+      <subtitles>
+        <subtitle lang="vc" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="vu" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="na" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="en" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="sb" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="mt" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ca" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="mx" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/>
+        <subtitle lang="bs" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="sg" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="bz" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ae" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="sl" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="gh" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ag" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="tt" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="za" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="dm" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="gm" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="tz" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="au" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="zm" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="sco" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="mu" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="bw" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ug" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ke" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="zw" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="pk" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="fj" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="rw" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="bd" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="gy" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ng" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="ws" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="us" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="to" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+        <subtitle lang="jm" line="Tom says, &#x201C;A brown dog is watching a little girl sleeping on the sandy beach.&#x201D;"/>
+      <subtitle lang="cl" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="es" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="co" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="gt" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="pe" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="ni" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="do" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="bo" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="ve" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="ar" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="cu" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="pr" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="py" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="ec" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="hn" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="sv" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="cr" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/><subtitle lang="pa" line="Tom&#xE1;s dice, &#x201C;Un perro caf&#xE9; est&#xE1; viendo a una ni&#xF1;ita dormir en la playa.&#x201D;"/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Was macht die Frau da?&#xA7; fragt die Oma." start="130712" length="5191" useLNutResource="true" useStoryResource="false" image="16#6#6">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="vu" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="na" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="en" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="sb" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="mt" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ca" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="mx" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/>
+        <subtitle lang="bs" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="sg" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="bz" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ae" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="sl" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="gh" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ag" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="tt" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="za" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="dm" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="gm" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="tz" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="au" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="zm" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="sco" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="mu" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="bw" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ug" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ke" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="zw" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="pk" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="fj" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="rw" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="bd" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="gy" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ng" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="ws" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="us" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="to" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+        <subtitle lang="jm" line="&#x201C;What is the woman doing?&#x201D; asks Grandma"/>
+      <subtitle lang="cl" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="es" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="co" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="gt" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="pe" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="ni" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="do" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="bo" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="ve" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="ar" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="cu" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="pr" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="py" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="ec" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="hn" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="sv" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="cr" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/><subtitle lang="pa" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo esa mujer?&#x201D; pregunta la abuelita. "/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Sie b&#xFC;rstet sich das Haar.&#xA7; sagt Jane." start="137016" length="4635" useLNutResource="true" useStoryResource="false" image="16#6#6">
+      <subtitles>
+        <subtitle lang="vc" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="vu" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="na" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="en" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="sb" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="mt" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ca" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="mx" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/>
+        <subtitle lang="bs" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="sg" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="bz" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ae" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="sl" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="gh" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ag" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="tt" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="za" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="dm" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="gm" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="tz" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="au" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="zm" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="sco" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="mu" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="bw" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ug" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ke" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="zw" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="pk" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="fj" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="rw" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="bd" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="gy" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ng" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="ws" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="us" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="to" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+        <subtitle lang="jm" line="Grandma. &#x201C;She is brushing her hair&#x201D;, says Jane."/>
+      <subtitle lang="cl" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="es" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="co" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="gt" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="pe" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="ni" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="do" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="bo" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="ve" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="ar" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="cu" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="pr" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="py" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="ec" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="hn" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="sv" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="cr" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/><subtitle lang="pa" line="&#x201C;Se est&#xE1; cepillando el pelo,&#x201D; dice Juana."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="&#xA7;Was macht der Mann gerade?&#xA7; fragt die Oma. &#xA7;Er l&#xE4;uft um die Bucht,&#xA7; sagt Tom." start="143134" length="8529" useLNutResource="true" useStoryResource="false" image="16#2#9">
+      <subtitles>
+        <subtitle lang="vc" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="vu" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="na" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="en" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="sb" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="mt" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ca" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="mx" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/>
+        <subtitle lang="bs" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="sg" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="bz" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ae" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="sl" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="gh" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ag" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="tt" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="za" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="dm" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="gm" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="tz" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="au" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="zm" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="sco" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="mu" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="bw" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ug" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ke" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="zw" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="pk" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="fj" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="rw" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="bd" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="gy" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ng" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="ws" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="us" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="to" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+        <subtitle lang="jm" line="&#x201C;What is the man doing?&#x201D; asks Grandma. &#x201C;He is walking round the bay&#x201D;, says Tom."/>
+      <subtitle lang="cl" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="es" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="co" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="gt" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="pe" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="ni" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="do" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="bo" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="ve" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="ar" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="cu" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="pr" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="py" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="ec" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="hn" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="sv" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="cr" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/><subtitle lang="pa" line="&#x201C;&#xBF;Qu&#xE9; est&#xE1; haciendo ese hombre?&#x201D; pregunta la abuelita. &#x201C;Est&#xE1; caminando a lo largo de la bah&#xED;a&#x201D; dice Tom&#xE1;s."/>
+			</subtitles>
+      <highlights/>
+    </line>
+    <line words="Sie haben einen tollen Tag. Jane und Tom schwimmen im blauen Meer. Sie finden ein paar wei&#xDF;e Muscheln in einer H&#xF6;hle und klettern auf Felsen. Dann gehen sie alle nach Hause, m&#xFC;de aber gl&#xFC;cklich." start="154259" length="18541" useLNutResource="true" useStoryResource="false" image="16#1#5">
+      <subtitles>
+        <subtitle lang="vc" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="vu" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="na" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="en" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="sb" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="mt" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ca" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="mx" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/>
+        <subtitle lang="bs" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="sg" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="bz" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ae" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="sl" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="gh" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ag" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="tt" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="za" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="dm" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="gm" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="tz" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="au" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="zm" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="sco" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="mu" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="bw" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ug" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ke" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="zw" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="pk" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="fj" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="rw" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="bd" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="gy" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ng" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="ws" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="us" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="to" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+        <subtitle lang="jm" line="They have a lovely day. Jane and Tom swim in the blue sea. They find some white shells in a cave and climb some rocks. Then they all go home, tired but happy."/>
+      <subtitle lang="cl" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="es" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="co" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="gt" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="pe" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="ni" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="do" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="bo" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="ve" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="ar" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="cu" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="pr" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="py" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="ec" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="hn" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="sv" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="cr" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/><subtitle lang="pa" line="Tuvieron un lindo d&#xED;a. Juana y Tom&#xE1;s nadaron en el mar azul. Encontraron conchitas blancas en una cueva y se treparon en unas rocas. Despu&#xE9;s, se fueron a casa, cansados pero felices."/>
+			</subtitles>
+      <highlights/>
+    </line>
+  </lines>
+</karaoke>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="180062" >
+	<lines>
+		<line words="J'adore jouer" start="9003" length="4501" >
+			<highlight index="0" start="1013" length="1566" />
+			<highlight index="1" start="2671" length="1744" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik speel heel graag" />
+				<subtitle lang="dk" line="Jeg elsker at lege" />
+				<subtitle lang="en" line="I love to play" />
+			</subtitles>
+		</line>
+		<line words="avec les amis" start="13659" length="3571" >
+			<highlight index="0" start="135" length="997" />
+			<highlight index="1" start="1132" length="627" />
+			<highlight index="2" start="1769" length="1107" />
+			<subtitles>
+				<subtitle lang="nl" line="met mijn vrienden" />
+				<subtitle lang="dk" line="med mine venner" />
+				<subtitle lang="en" line="with my friends" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="17385" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="21421" length="4191" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="J'adore battre des mains" start="25767" length="3725" >
+			<highlight index="0" start="197" length="1520" />
+			<highlight index="1" start="1697" length="816" />
+			<highlight index="2" start="2506" length="264" />
+			<highlight index="3" start="2750" length="724" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik klap heel graag handen " />
+				<subtitle lang="en" line="I love to clap my hands" />
+			</subtitles>
+		</line>
+		<line words="avec des amis" start="29648" length="3571" >
+			<highlight index="0" start="135" length="997" />
+			<highlight index="1" start="1132" length="627" />
+			<highlight index="2" start="1769" length="1107" />
+			<subtitles>
+				<subtitle lang="nl" line="met mijn vrienden" />
+				<subtitle lang="en" line="with my friends" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="33528" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="37564" length="4191" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2426" length="527" />
+			<highlight index="4" start="2940" length="245" />
+			<highlight index="5" start="3161" length="990" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="41910" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="49827" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+		<line words="J'adore jouer" start="57278" length="4501" >
+			<highlight index="0" start="684" length="1566" />
+			<highlight index="1" start="2671" length="1744" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik speel heel graag" />
+				<subtitle lang="dk" line="Jeg elsker at lege" />
+				<subtitle lang="en" line="I love to play" />
+			</subtitles>
+		</line>
+		<line words="à la marelle" start="61935" length="3570" >
+			<highlight index="0" start="73" length="876" />
+			<highlight index="1" start="934" length="595" />
+			<highlight index="2" start="1518" length="1305" />
+			<subtitles>
+				<subtitle lang="nl" line="op de hinkelbaan met jou" />
+				<subtitle lang="dk" line="hoppe i mand med jer" />
+				<subtitle lang="en" line="hop-skotch with you" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="65350" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="69541" length="4191" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2426" length="545" />
+			<highlight index="4" start="2946" length="257" />
+			<highlight index="5" start="3185" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="J'adore jouer" start="73887" length="3415" >
+			<highlight index="0" start="54" length="1813" />
+			<highlight index="1" start="1852" length="1323" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik speel heel graag" />
+				<subtitle lang="dk" line="Jeg elsker at lege" />
+				<subtitle lang="en" line="I love to play" />
+			</subtitles>
+		</line>
+		<line words="à cache- cache" start="77768" length="3415" >
+			<highlight index="0" start="69" length="929" />
+			<highlight index="1" start="973" length="859" />
+			<highlight index="2" start="1802" length="908" />
+			<subtitles>
+				<subtitle lang="nl" line="verstoppertje" />
+				<subtitle lang="dk" line="gemmeleg" />
+				<subtitle lang="en" line="hide and seek" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="81338" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="85684" length="4191" >
+			<highlight index="0" start="269" length="513" />
+			<highlight index="1" start="753" length="283" />
+			<highlight index="2" start="1010" length="869" />
+			<highlight index="3" start="2211" length="526" />
+			<highlight index="4" start="2714" length="257" />
+			<highlight index="5" start="2959" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="89875" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="97792" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+		<line words="J'adore courir" start="105243" length="4501" >
+			<highlight index="0" start="565" length="2034" />
+			<highlight index="1" start="2579" length="1777" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ren heel graag" />
+				<subtitle lang="dk" line="Jeg elsker at løbe" />
+				<subtitle lang="en" line="I love to run" />
+			</subtitles>
+		</line>
+		<line words="avec des amis" start="109589" length="3571" >
+			<highlight index="0" start="135" length="997" />
+			<highlight index="1" start="1132" length="627" />
+			<highlight index="2" start="1769" length="1107" />
+			<subtitles>
+				<subtitle lang="nl" line="met mijn vrienden" />
+				<subtitle lang="dk" line="sammen med mine venner" />
+				<subtitle lang="en" line="with my friends" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="113470" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="117971" length="4191" >
+			<highlight index="0" start="36" length="513" />
+			<highlight index="1" start="533" length="283" />
+			<highlight index="2" start="790" length="869" />
+			<highlight index="3" start="1911" length="526" />
+			<highlight index="4" start="2413" length="257" />
+			<highlight index="5" start="2646" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="J'adore jouer" start="121697" length="3880" >
+			<highlight index="0" start="52" length="1652" />
+			<highlight index="1" start="2200" length="1248" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik speel heel graag" />
+				<subtitle lang="dk" line="Jeg elsker at lege" />
+				<subtitle lang="en" line="I love to play" />
+			</subtitles>
+		</line>
+		<line words="au chat avec eux" start="125577" length="3726" >
+			<highlight index="0" start="223" length="496" />
+			<highlight index="1" start="751" length="441" />
+			<highlight index="2" start="1187" length="730" />
+			<highlight index="3" start="1922" length="1133" />
+			<subtitles>
+				<subtitle lang="nl" line="tikkertje met mijn vrienden" />
+				<subtitle lang="dk" line="fangeleg med dem" />
+				<subtitle lang="en" line="chase with them" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="129458" length="4501" >
+			<highlight index="0" start="434" length="513" />
+			<highlight index="1" start="934" length="283" />
+			<highlight index="2" start="1197" length="869" />
+			<highlight index="3" start="2487" length="526" />
+			<highlight index="4" start="2993" length="257" />
+			<highlight index="5" start="3237" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="dans la cour, dans la cour" start="133959" length="3571" >
+			<highlight index="0" start="36" length="513" />
+			<highlight index="1" start="533" length="283" />
+			<highlight index="2" start="790" length="869" />
+			<highlight index="3" start="1911" length="526" />
+			<highlight index="4" start="2413" length="257" />
+			<highlight index="5" start="2646" length="914" />
+			<subtitles>
+				<subtitle lang="nl" line="op het speelplein, op het speelplein" />
+				<subtitle lang="dk" line="på legepladsen, på legepladsen" />
+				<subtitle lang="en" line="in the playground, in the playground" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="137840" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+		<line words="mais je préfère chanter seul(e)" start="145757" length="6174" >
+			<highlight index="0" start="72" length="1146" />
+			<highlight index="1" start="1146" length="370" />
+			<highlight index="2" start="1480" length="1417" />
+			<highlight index="3" start="2879" length="1047" />
+			<highlight index="4" start="3881" length="1083" />
+			<subtitles>
+				<subtitle lang="nl" line="maar ja zingen doe ik liever alleen" />
+				<subtitle lang="dk" line="men jeg vil helst synge alene" />
+				<subtitle lang="en" line="but I prefer to sing alone" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

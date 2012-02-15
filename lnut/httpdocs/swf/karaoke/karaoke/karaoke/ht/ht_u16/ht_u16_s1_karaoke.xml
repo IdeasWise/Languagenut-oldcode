@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="201142" >
+	<lines>
+		<line words="Lanmè a, plaj la, ak bato yo" start="7865" length="4384" >
+			<highlight index="0" start="635" length="618" />
+			<highlight index="1" start="1248" length="247" />
+			<highlight index="2" start="1528" length="480" />
+			<highlight index="3" start="2001" length="271" />
+			<highlight index="4" start="2605" length="281" />
+			<highlight index="5" start="2890" length="831" />
+			<highlight index="6" start="3707" length="634" />
+			<subtitles>
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="M renmen yo, m renmen yo" start="12249" length="3610" >
+			<highlight index="0" start="314" length="527" />
+			<highlight index="1" start="838" length="545" />
+			<highlight index="2" start="1394" length="578" />
+			<highlight index="3" start="2045" length="292" />
+			<highlight index="4" start="2330" length="817" />
+			<highlight index="5" start="3176" length="357" />
+			<subtitles>
+				<subtitle lang="en" line="I love them, I love them" />
+			</subtitles>
+		</line>
+		<line words="Bè a, sab la ak wòch yo" start="15472" length="4126" >
+			<highlight index="0" start="328" length="372" />
+			<highlight index="1" start="693" length="200" />
+			<highlight index="2" start="1235" length="200" />
+			<highlight index="3" start="1445" length="596" />
+			<highlight index="4" start="2167" length="651" />
+			<highlight index="5" start="2847" length="675" />
+			<highlight index="6" start="3522" length="501" />
+			<subtitles>
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="Kokiy nou ranmase yo" start="19340" length="3224" >
+			<highlight index="0" start="357" length="582" />
+			<highlight index="1" start="935" length="488" />
+			<highlight index="2" start="1434" length="947" />
+			<highlight index="3" start="2363" length="646" />
+			<subtitles>
+				<subtitle lang="en" line="The shells that we collect" />
+			</subtitles>
+		</line>
+		<line words="An ete mwen ale an vakans" start="22950" length="3224" >
+			<highlight index="0" start="411" length="582" />
+			<highlight index="1" start="1022" length="322" />
+			<highlight index="2" start="1333" length="419" />
+			<highlight index="3" start="1745" length="200" />
+			<highlight index="4" start="1940" length="200" />
+			<highlight index="5" start="2128" length="990" />
+			<subtitles>
+				<subtitle lang="en" line="In summer I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj ki nan vil Masèy " start="26045" length="4000" >
+			<highlight index="0" start="863" length="437" />
+			<highlight index="1" start="1293" length="200" />
+			<highlight index="2" start="1485" length="607" />
+			<highlight index="3" start="2070" length="488" />
+			<highlight index="4" start="2565" length="438" />
+			<highlight index="5" start="3017" length="932" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in Marseille" />
+			</subtitles>
+		</line>
+		<line words="Li nan sid peyi Lafrans" start="30042" length="3094" >
+			<highlight index="0" start="455" length="200" />
+			<highlight index="1" start="650" length="300" />
+			<highlight index="2" start="957" length="387" />
+			<highlight index="3" start="1365" length="676" />
+			<highlight index="4" start="2045" length="921" />
+			<subtitles>
+				<subtitle lang="en" line="It’s in the south of France" />
+			</subtitles>
+		</line>
+		<line words="se plaj nan vil Masèy " start="33007" length="5158" >
+			<highlight index="0" start="1018" length="741" />
+			<highlight index="1" start="1752" length="275" />
+			<highlight index="2" start="2034" length="679" />
+			<highlight index="3" start="2706" length="838" />
+			<highlight index="4" start="3551" length="921" />
+			<subtitles>
+				<subtitle lang="en" line="It’s the beach in Marseille" />
+			</subtitles>
+		</line>
+		<line words="Li toujou bèl li toujou pwòp" start="37649" length="2966" >
+			<highlight index="0" start="151" length="200" />
+			<highlight index="1" start="361" length="462" />
+			<highlight index="2" start="845" length="369" />
+			<highlight index="3" start="1224" length="200" />
+			<highlight index="4" start="1416" length="849" />
+			<highlight index="5" start="2276" length="610" />
+			<subtitles>
+				<subtitle lang="en" line="It’s always good and always clean" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil Masèy " start="40873" length="3868" >
+			<highlight index="0" start="191" length="733" />
+			<highlight index="1" start="932" length="480" />
+			<highlight index="2" start="1394" length="763" />
+			<highlight index="3" start="2160" length="625" />
+			<highlight index="4" start="2760" length="1015" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in Marseille" />
+			</subtitles>
+		</line>
+		<line words="Gen solèy ak sab" start="44483" length="3223" >
+			<highlight index="0" start="393" length="322" />
+			<highlight index="1" start="708" length="1264" />
+			<highlight index="2" start="1961" length="430" />
+			<highlight index="3" start="2373" length="745" />
+			<subtitles>
+				<subtitle lang="en" line="It is sunny and sandy" />
+			</subtitles>
+		</line>
+		<line words="se plaj nan vil Masèy " start="47191" length="4512" >
+			<highlight index="0" start="1018" length="741" />
+			<highlight index="1" start="1752" length="275" />
+			<highlight index="2" start="2034" length="679" />
+			<highlight index="3" start="2706" length="838" />
+			<highlight index="4" start="3551" length="921" />
+			<subtitles>
+				<subtitle lang="en" line="It’s the beach in Marseille" />
+			</subtitles>
+		</line>
+		<line words="Lanmè a, plaj la, ak bato yo" start="51445" length="4384" >
+			<highlight index="0" start="635" length="618" />
+			<highlight index="1" start="1248" length="247" />
+			<highlight index="2" start="1528" length="480" />
+			<highlight index="3" start="2001" length="271" />
+			<highlight index="4" start="2605" length="281" />
+			<highlight index="5" start="2890" length="831" />
+			<highlight index="6" start="3707" length="634" />
+			<subtitles>
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="M renmen yo, m renmen yo" start="55314" length="3610" >
+			<highlight index="0" start="314" length="527" />
+			<highlight index="1" start="838" length="545" />
+			<highlight index="2" start="1394" length="578" />
+			<highlight index="3" start="2045" length="292" />
+			<highlight index="4" start="2330" length="817" />
+			<highlight index="5" start="3176" length="357" />
+			<subtitles>
+				<subtitle lang="en" line="I love them, I love them" />
+			</subtitles>
+		</line>
+		<line words="Bè a, sab la ak wòch yo" start="58537" length="4126" >
+			<highlight index="0" start="328" length="372" />
+			<highlight index="1" start="693" length="200" />
+			<highlight index="2" start="1235" length="200" />
+			<highlight index="3" start="1445" length="596" />
+			<highlight index="4" start="2167" length="651" />
+			<highlight index="5" start="2847" length="675" />
+			<highlight index="6" start="3522" length="501" />
+			<subtitles>
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="Kokiy nou ranmase yo" start="62534" length="3868" >
+			<highlight index="0" start="357" length="582" />
+			<highlight index="1" start="935" length="488" />
+			<highlight index="2" start="1434" length="947" />
+			<highlight index="3" start="2363" length="646" />
+			<subtitles>
+				<subtitle lang="en" line="The shells that we collect" />
+			</subtitles>
+		</line>
+		<line words="Nan otòn, m ale an vakans" start="66273" length="4000" >
+			<highlight index="0" start="267" length="293" />
+			<highlight index="1" start="556" length="394" />
+			<highlight index="2" start="935" length="228" />
+			<highlight index="3" start="1185" length="487" />
+			<highlight index="4" start="1665" length="390" />
+			<highlight index="5" start="2059" length="882" />
+			<subtitles>
+				<subtitle lang="en" line="In autumn I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj ki nan vil Dyèp " start="69497" length="4000" >
+			<highlight index="0" start="679" length="290" />
+			<highlight index="1" start="975" length="549" />
+			<highlight index="2" start="1510" length="914" />
+			<highlight index="3" start="2446" length="632" />
+			<highlight index="4" start="3085" length="200" />
+			<highlight index="5" start="3266" length="520" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in Dieppe" />
+			</subtitles>
+		</line>
+		<line words="Li nan nò peyi Lafrans" start="72978" length="4000" >
+			<highlight index="0" start="827" length="200" />
+			<highlight index="1" start="1029" length="200" />
+			<highlight index="2" start="1224" length="200" />
+			<highlight index="3" start="1430" length="766" />
+			<highlight index="4" start="2200" length="1478" />
+			<subtitles>
+				<subtitle lang="en" line="It’s in the north of France" />
+			</subtitles>
+		</line>
+		<line words="Se plaj nan vil Dyèp " start="76588" length="4000" >
+			<highlight index="0" start="802" length="343" />
+			<highlight index="1" start="1134" length="575" />
+			<highlight index="2" start="1712" length="763" />
+			<highlight index="3" start="2485" length="943" />
+			<highlight index="4" start="3421" length="546" />
+			<subtitles>
+				<subtitle lang="en" line="It’s the beach in Dieppe" />
+			</subtitles>
+		</line>
+		<line words="Li yon ti jan sal pa gen moun" start="80456" length="3224" >
+			<highlight index="0" start="191" length="307" />
+			<highlight index="1" start="487" length="419" />
+			<highlight index="2" start="896" length="200" />
+			<highlight index="3" start="1080" length="246" />
+			<highlight index="4" start="1322" length="491" />
+			<highlight index="5" start="1806" length="200" />
+			<highlight index="6" start="2005" length="318" />
+			<highlight index="7" start="2334" length="773" />
+			<subtitles>
+				<subtitle lang="en" line="It’s quite dirty and empty" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil Dyèp " start="83422" length="4000" >
+			<highlight index="0" start="805" length="618" />
+			<highlight index="1" start="1419" length="373" />
+			<highlight index="2" start="1799" length="621" />
+			<highlight index="3" start="2424" length="947" />
+			<highlight index="4" start="3353" length="585" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in Dieppe" />
+			</subtitles>
+		</line>
+		<line words="Men, mwen jwenn anpil kokiy" start="87419" length="2965" >
+			<highlight index="0" start="805" length="200" />
+			<highlight index="1" start="1004" length="200" />
+			<highlight index="2" start="1203" length="271" />
+			<highlight index="3" start="1477" length="463" />
+			<highlight index="4" start="1940" length="921" />
+			<subtitles>
+				<subtitle lang="en" line="But I find lots of shells" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil Dyèp " start="90771" length="4000" >
+			<highlight index="0" start="805" length="618" />
+			<highlight index="1" start="1419" length="373" />
+			<highlight index="2" start="1799" length="621" />
+			<highlight index="3" start="2424" length="947" />
+			<highlight index="4" start="3353" length="585" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in Dieppe" />
+			</subtitles>
+		</line>
+		<line words="Lanmè a, plaj la, ak bato yo" start="93995" length="4384" >
+			<highlight index="0" start="635" length="618" />
+			<highlight index="1" start="1248" length="247" />
+			<highlight index="2" start="1528" length="480" />
+			<highlight index="3" start="2001" length="271" />
+			<highlight index="4" start="2605" length="281" />
+			<highlight index="5" start="2890" length="831" />
+			<highlight index="6" start="3707" length="634" />
+			<subtitles>
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="M renmen yo, m renmen yo" start="98636" length="3610" >
+			<highlight index="0" start="314" length="527" />
+			<highlight index="1" start="838" length="545" />
+			<highlight index="2" start="1394" length="578" />
+			<highlight index="3" start="2045" length="292" />
+			<highlight index="4" start="2330" length="817" />
+			<highlight index="5" start="3176" length="357" />
+			<subtitles>
+				<subtitle lang="en" line="I love them, I love them" />
+			</subtitles>
+		</line>
+		<line words="Bè a, sab la ak wòch yo" start="101989" length="4126" >
+			<highlight index="0" start="328" length="372" />
+			<highlight index="1" start="693" length="200" />
+			<highlight index="2" start="1235" length="200" />
+			<highlight index="3" start="1445" length="596" />
+			<highlight index="4" start="2167" length="651" />
+			<highlight index="5" start="2847" length="675" />
+			<highlight index="6" start="3522" length="501" />
+			<subtitles>
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="Kokiy nou ranmase yo" start="105857" length="3868" >
+			<highlight index="0" start="357" length="582" />
+			<highlight index="1" start="935" length="488" />
+			<highlight index="2" start="1434" length="947" />
+			<highlight index="3" start="2363" length="646" />
+			<subtitles>
+				<subtitle lang="en" line="The shells that we collect" />
+			</subtitles>
+		</line>
+		<line words="An invè, m ale an vakans" start="109596" length="4000" >
+			<highlight index="0" start="155" length="200" />
+			<highlight index="1" start="336" length="462" />
+			<highlight index="2" start="787" length="200" />
+			<highlight index="3" start="964" length="423" />
+			<highlight index="4" start="1376" length="477" />
+			<highlight index="5" start="1860" length="1388" />
+			<subtitles>
+				<subtitle lang="en" line="In winter I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil La Rochelle" start="112948" length="4000" >
+			<highlight index="0" start="350" length="621" />
+			<highlight index="1" start="953" length="242" />
+			<highlight index="2" start="1185" length="892" />
+			<highlight index="3" start="2055" length="200" />
+			<highlight index="4" start="2222" length="245" />
+			<highlight index="5" start="2482" length="1040" />
+			<subtitles>
+				<subtitle lang="en" line="To beach in La Rochelle" />
+			</subtitles>
+		</line>
+		<line words="Li nan wès peyi la Frans" start="116301" length="4000" >
+			<highlight index="0" start="668" length="200" />
+			<highlight index="1" start="852" length="200" />
+			<highlight index="2" start="1058" length="304" />
+			<highlight index="3" start="1358" length="535" />
+			<highlight index="4" start="1886" length="224" />
+			<highlight index="5" start="2110" length="1344" />
+			<subtitles>
+				<subtitle lang="en" line="It’s in the west of France" />
+			</subtitles>
+		</line>
+		<line words="Se plaj nan vil La Rochelle" start="119782" length="4000" >
+			<highlight index="0" start="737" length="552" />
+			<highlight index="1" start="1279" length="419" />
+			<highlight index="2" start="1698" length="527" />
+			<highlight index="3" start="2218" length="477" />
+			<highlight index="4" start="2691" length="485" />
+			<highlight index="5" start="3161" length="625" />
+			<subtitles>
+				<subtitle lang="en" line="It’s the beach in La Rochelle" />
+			</subtitles>
+		</line>
+		<line words="Li yon ti jan danjere e gen nyaj" start="123521" length="4000" >
+			<highlight index="0" start="603" length="200" />
+			<highlight index="1" start="784" length="200" />
+			<highlight index="2" start="1008" length="200" />
+			<highlight index="3" start="1203" length="581" />
+			<highlight index="4" start="1788" length="1221" />
+			<highlight index="5" start="3009" length="200" />
+			<highlight index="6" start="3201" length="200" />
+			<highlight index="7" start="3392" length="550" />
+			<subtitles>
+				<subtitle lang="en" line="It is quite dangerous and cloudy" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil La Rochelle" start="127260" length="4000" >
+			<highlight index="0" start="198" length="535" />
+			<highlight index="1" start="729" length="582" />
+			<highlight index="2" start="1344" length="632" />
+			<highlight index="3" start="1976" length="200" />
+			<highlight index="4" start="2167" length="745" />
+			<highlight index="5" start="2912" length="791" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in La Rochelle" />
+			</subtitles>
+		</line>
+		<line words="Men ou ka wè tout kannòt yo" start="131000" length="3223" >
+			<highlight index="0" start="469" length="200" />
+			<highlight index="1" start="661" length="200" />
+			<highlight index="2" start="856" length="200" />
+			<highlight index="3" start="1174" length="200" />
+			<highlight index="4" start="1373" length="231" />
+			<highlight index="5" start="1607" length="821" />
+			<highlight index="6" start="2391" length="459" />
+			<subtitles>
+				<subtitle lang="en" line="But you can see all the sailing boats" />
+			</subtitles>
+		</line>
+		<line words="Nan plaj nan vil La Rochelle" start="133965" length="4000" >
+			<highlight index="0" start="968" length="343" />
+			<highlight index="1" start="1304" length="332" />
+			<highlight index="2" start="1615" length="740" />
+			<highlight index="3" start="2344" length="481" />
+			<highlight index="4" start="2814" length="372" />
+			<highlight index="5" start="3183" length="762" />
+			<subtitles>
+				<subtitle lang="en" line="At the beach in La Rochelle" />
+			</subtitles>
+		</line>
+		<line words="Lanmè a, plaj la, ak bato yo" start="137447" length="4384" >
+			<highlight index="0" start="635" length="618" />
+			<highlight index="1" start="1248" length="247" />
+			<highlight index="2" start="1528" length="480" />
+			<highlight index="3" start="2001" length="271" />
+			<highlight index="4" start="2605" length="281" />
+			<highlight index="5" start="2890" length="831" />
+			<highlight index="6" start="3707" length="634" />
+			<subtitles>
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="M renmen yo, m renmen yo" start="141830" length="3610" >
+			<highlight index="0" start="314" length="527" />
+			<highlight index="1" start="838" length="545" />
+			<highlight index="2" start="1394" length="578" />
+			<highlight index="3" start="2045" length="292" />
+			<highlight index="4" start="2330" length="817" />
+			<highlight index="5" start="3176" length="357" />
+			<subtitles>
+				<subtitle lang="en" line="I love them, I love them" />
+			</subtitles>
+		</line>
+		<line words="Bè a, sab la ak wòch yo" start="144796" length="4126" >
+			<highlight index="0" start="328" length="372" />
+			<highlight index="1" start="693" length="200" />
+			<highlight index="2" start="1235" length="200" />
+			<highlight index="3" start="1445" length="596" />
+			<highlight index="4" start="2167" length="651" />
+			<highlight index="5" start="2847" length="675" />
+			<highlight index="6" start="3522" length="501" />
+			<subtitles>
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="Kokiy nou ranmase yo" start="148664" length="3868" >
+			<highlight index="0" start="357" length="582" />
+			<highlight index="1" start="935" length="488" />
+			<highlight index="2" start="1434" length="947" />
+			<highlight index="3" start="2363" length="646" />
+			<subtitles>
+				<subtitle lang="en" line="The shells that we collect" />
+			</subtitles>
+		</line>
+		<line words="O prentan, mwen ale an vakans" start="152403" length="4000" >
+			<highlight index="0" start="592" length="200" />
+			<highlight index="1" start="805" length="448" />
+			<highlight index="2" start="1239" length="451" />
+			<highlight index="3" start="1705" length="200" />
+			<highlight index="4" start="1911" length="200" />
+			<highlight index="5" start="2146" length="1517" />
+			<subtitles>
+				<subtitle lang="en" line="In spring I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="Men, mwen pa ale nan plaj " start="156013" length="4000" >
+			<highlight index="0" start="625" length="200" />
+			<highlight index="1" start="827" length="300" />
+			<highlight index="2" start="1120" length="238" />
+			<highlight index="3" start="1347" length="1518" />
+			<highlight index="4" start="2890" length="200" />
+			<highlight index="5" start="3089" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="But I don’t go to the beach" />
+			</subtitles>
+		</line>
+		<line words="M al nan zòn lès peyi Lafrans" start="159753" length="4000" >
+			<highlight index="0" start="469" length="200" />
+			<highlight index="1" start="672" length="200" />
+			<highlight index="2" start="859" length="200" />
+			<highlight index="3" start="1055" length="200" />
+			<highlight index="4" start="1235" length="260" />
+			<highlight index="5" start="1492" length="549" />
+			<highlight index="6" start="2048" length="1474" />
+			<subtitles>
+				<subtitle lang="en" line="I go to the east side of France" />
+			</subtitles>
+		</line>
+		<line words="Nan mòn Zalp peyi Lazwis" start="163234" length="4000" >
+			<highlight index="0" start="592" length="253" />
+			<highlight index="1" start="845" length="434" />
+			<highlight index="2" start="1275" length="784" />
+			<highlight index="3" start="2052" length="787" />
+			<highlight index="4" start="2829" length="982" />
+			<subtitles>
+				<subtitle lang="en" line="To the Alps in Switzerland" />
+			</subtitles>
+		</line>
+		<line words="O prentan, mwen ale an vakans" start="166457" length="4000" >
+			<highlight index="0" start="592" length="200" />
+			<highlight index="1" start="805" length="448" />
+			<highlight index="2" start="1239" length="451" />
+			<highlight index="3" start="1705" length="200" />
+			<highlight index="4" start="1911" length="200" />
+			<highlight index="5" start="2146" length="1517" />
+			<subtitles>
+				<subtitle lang="en" line="In spring I go on holiday" />
+			</subtitles>
+		</line>
+		<line words="Men, mwen pa ale nan plaj " start="170454" length="4000" >
+			<highlight index="0" start="625" length="200" />
+			<highlight index="1" start="827" length="300" />
+			<highlight index="2" start="1120" length="238" />
+			<highlight index="3" start="1347" length="1518" />
+			<highlight index="4" start="2890" length="200" />
+			<highlight index="5" start="3089" length="628" />
+			<subtitles>
+				<subtitle lang="en" line="But I don’t go to the beach" />
+			</subtitles>
+		</line>
+		<line words="M al nan zòn lès peyi Lafrans" start="173936" length="4000" >
+			<highlight index="0" start="469" length="200" />
+			<highlight index="1" start="672" length="200" />
+			<highlight index="2" start="859" length="200" />
+			<highlight index="3" start="1055" length="200" />
+			<highlight index="4" start="1235" length="260" />
+			<highlight index="5" start="1492" length="549" />
+			<highlight index="6" start="2048" length="1474" />
+			<subtitles>
+				<subtitle lang="en" line="I go to the east side of France" />
+			</subtitles>
+		</line>
+		<line words="Nan mòn Zalp peyi Lazwis" start="177417" length="4000" >
+			<highlight index="0" start="592" length="253" />
+			<highlight index="1" start="845" length="434" />
+			<highlight index="2" start="1275" length="784" />
+			<highlight index="3" start="2052" length="787" />
+			<highlight index="4" start="2829" length="982" />
+			<subtitles>
+				<subtitle lang="en" line="To the Alps in Switzerland" />
+			</subtitles>
+		</line>
+		<line words="Lanmè a, plaj la, ak bato yo" start="180640" length="4384" >
+			<highlight index="0" start="635" length="618" />
+			<highlight index="1" start="1248" length="247" />
+			<highlight index="2" start="1528" length="480" />
+			<highlight index="3" start="2001" length="271" />
+			<highlight index="4" start="2605" length="281" />
+			<highlight index="5" start="2890" length="831" />
+			<highlight index="6" start="3707" length="634" />
+			<subtitles>
+				<subtitle lang="en" line="The sea, the beach and the boats" />
+			</subtitles>
+		</line>
+		<line words="M renmen yo, m renmen yo" start="184766" length="3610" >
+			<highlight index="0" start="314" length="527" />
+			<highlight index="1" start="838" length="545" />
+			<highlight index="2" start="1394" length="578" />
+			<highlight index="3" start="2045" length="292" />
+			<highlight index="4" start="2330" length="817" />
+			<highlight index="5" start="3176" length="357" />
+			<subtitles>
+				<subtitle lang="en" line="I love them, I love them" />
+			</subtitles>
+		</line>
+		<line words="Bè a, sab la ak wòch yo" start="187990" length="4126" >
+			<highlight index="0" start="328" length="372" />
+			<highlight index="1" start="693" length="200" />
+			<highlight index="2" start="1235" length="200" />
+			<highlight index="3" start="1445" length="596" />
+			<highlight index="4" start="2167" length="651" />
+			<highlight index="5" start="2847" length="675" />
+			<highlight index="6" start="3522" length="501" />
+			<subtitles>
+				<subtitle lang="en" line="The bay, the sand and the rocks" />
+			</subtitles>
+		</line>
+		<line words="Kokiy nou ranmase yo" start="191729" length="3868" >
+			<highlight index="0" start="357" length="582" />
+			<highlight index="1" start="935" length="488" />
+			<highlight index="2" start="1434" length="947" />
+			<highlight index="3" start="2363" length="646" />
+			<subtitles>
+				<subtitle lang="en" line="The shells that we collect" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<karaoke length="396591" >
+	<lines>
+		<line words="你好.我的名字是约翰.我是一个巫师." start="2051" length="22564" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="4156" length="824" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Hello. My name’s John. I’m a wizard." />
+			</subtitles>
+		</line>
+		<line words="你可以帮助我与我的法术.很容易! 我数到十." start="23248" length="24274" useLNutResource="true" image="2#2#10" >
+			<highlights>
+				<highlight index="0" start="3158" length="674" />
+				<highlight index="1" start="3796" length="604" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="You can help me with my spells. It’s easy! I count to ten." />
+			</subtitles>
+		</line>
+		<line words="让我们练习. 准备好了吗？一，二，三，四，五，六，七，八，九，十好！" start="46496" length="32822" useLNutResource="true" image="2#2#10" >
+			<highlights>
+				<highlight index="0" start="2063" length="911" />
+				<highlight index="1" start="2782" length="624" />
+			</highlights>
+			<subtitles>
+			</subtitles>
+		</line>
+		<line words="这是我的妹妹.她的名字是玛丽.一，二，三，四，五，六，七，八，九，十" start="78634" length="35898" useLNutResource="true" image="1#4#1" >
+			<highlights>
+				<highlight index="0" start="4460" length="997" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my sister.Her name is Marie.1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="她是一只绵羊!我妹妹是一只绵羊!我妹妹是一只白绵羊!" start="113165" length="33163" useLNutResource="true" image="5#1#2" >
+			<highlights>
+				<highlight index="0" start="6302" length="824" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a sheep! My sister is a sheep! My sister is a white sheep!" />
+			</subtitles>
+		</line>
+		<line words="这是我的妈妈.她的名字是简.一，二，三，四，五，六，七，八，九，十!" start="144960" length="33505" useLNutResource="true" image="1#4#3" >
+			<highlights>
+				<highlight index="0" start="3134" length="784" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my mum. Her name is Jane. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="她是一头猪!我的妈妈是一头猪!我的妈妈是一头粉红色的猪!" start="176756" length="29061" useLNutResource="true" image="5#3#1" >
+			<highlights>
+				<highlight index="0" start="3313" length="722" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="She’s a pig! My mum is a pig! My mum is a pink pig!" />
+			</subtitles>
+		</line>
+		<line words="这是我的哥哥.他的名字是奥利弗.一，二，三，四，五，六，七，八，九，十!" start="205133" length="32479" useLNutResource="true" image="1#4#2" >
+			<highlights>
+				<highlight index="0" start="2468" length="665" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my brother. His name is Oliver. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="他是一只老鼠!我的哥哥是一只老鼠!我的哥哥是一只棕色的老鼠!" start="235903" length="29402" useLNutResource="true" image="5#3#4" >
+			<highlights>
+				<highlight index="0" start="3395" length="946" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a mouse! My brother is a mouse! My brother is a brown mouse!" />
+			</subtitles>
+		</line>
+		<line words="这是我的爸爸.他的名字是彼得.一，二，三，四，五，六，七，八，九，十!" start="263596" length="33505" useLNutResource="true" image="1#4#4" >
+			<highlights>
+				<highlight index="0" start="3232" length="784" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Here is my dad. His name is Peter. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="他是一只鸭子!我的爸爸是一只鸭子!我的爸爸是一只灰鸭!" start="295391" length="27010" useLNutResource="true" image="5#2#9" >
+			<highlights>
+				<highlight index="0" start="3198" length="769" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="He’s a duck! My dad is a duck! My dad is a grey duck!" />
+			</subtitles>
+		</line>
+		<line words="现在是轮到我一，二，三，四，五，六，七，八，九，十!" start="321375" length="23932" useLNutResource="true" image="2#3#1" >
+			<highlights>
+				<highlight index="0" start="2099" length="629" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for me. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="我是一只兔子!我是一只红兔子!" start="344282" length="17094" useLNutResource="true" image="5#3#7" >
+			<highlights>
+				<highlight index="0" start="3223" length="525" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="I’m a rabbit! I’m a red rabbit!" />
+			</subtitles>
+		</line>
+		<line words="现在轮到你了.一，二，三，四，五，六，七，八，九，十!" start="360008" length="27010" useLNutResource="true" image="2#2#10" >
+			<highlights>
+				<highlight index="0" start="3830" length="808" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="Now for you. 1 2 3 4 5 6 7 8 9 10!" />
+			</subtitles>
+		</line>
+		<line words="你是什么?" start="386676" length="16410" useLNutResource="false" image="" >
+			<highlights>
+				<highlight index="0" start="3790" length="648" />
+			</highlights>
+			<subtitles>
+				<subtitle lang="en" line="What are you?" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

@@ -1,0 +1,1034 @@
+<karaoke length="120111">
+  <lines>
+    <line words="Hello. What's your name?" start="6609" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="bo" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="do" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="ni" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="ar" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="pa" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="ve" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="cu" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="cr" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="cl" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="sp" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="py" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿cómo te llamas?"/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+        <subtitle lang="null" line="come ti chiami?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is John." start="10936" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Jean."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي جون"/>
+        <subtitle lang="sv" line="Hola, me llamo Juan."/>
+        <subtitle lang="bo" line="Hola, me llamo Juan."/>
+        <subtitle lang="do" line="Hola, me llamo Juan."/>
+        <subtitle lang="ni" line="Hola, me llamo Juan."/>
+        <subtitle lang="lbr" line="Je m'appelle Jean."/>
+        <subtitle lang="cn" line="嗨，我的名字是约翰"/>
+        <subtitle lang="cd" line="Je m'appelle Jean."/>
+        <subtitle lang="ge" line="Ich heiße Johann."/>
+        <subtitle lang="ne" line="Je m'appelle Jean."/>
+        <subtitle lang="pr" line="Hola, me llamo Juan."/>
+        <subtitle lang="dk" line="Hej, jeg hedder John."/>
+        <subtitle lang="co" line="Hola, me llamo Juan."/>
+        <subtitle lang="it" line="mi chiamo Giovanni"/>
+        <subtitle lang="sn" line="Je m'appelle Jean."/>
+        <subtitle lang="fr" line="Je m'appelle Jean."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي جون"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa John"/>
+        <subtitle lang="bi" line="Je m'appelle Jean."/>
+        <subtitle lang="ec" line="Hola, me llamo Juan."/>
+        <subtitle lang="ar" line="Hola, me llamo Juan."/>
+        <subtitle lang="bj" line="Je m'appelle Jean."/>
+        <subtitle lang="me" line="‎اهلا, اسمي جون"/>
+        <subtitle lang="ci" line="Je m'appelle Jean."/>
+        <subtitle lang="mx" line="Hola, me llamo Juan."/>
+        <subtitle lang="pa" line="Hola, me llamo Juan."/>
+        <subtitle lang="ve" line="Hola, me llamo Juan."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम जॉन है"/>
+        <subtitle lang="hn" line="Hola, me llamo Juan."/>
+        <subtitle lang="ml" line="Je m'appelle Jean."/>
+        <subtitle lang="cm" line="Je m'appelle Jean."/>
+        <subtitle lang="gt" line="Hola, me llamo Juan."/>
+        <subtitle lang="cu" line="Hola, me llamo Juan."/>
+        <subtitle lang="cr" line="Hola, me llamo Juan."/>
+        <subtitle lang="bf" line="Je m'appelle Jean."/>
+        <subtitle lang="dj" line="Je m'appelle Jean."/>
+        <subtitle lang="tg" line="Je m'appelle Jean."/>
+        <subtitle lang="ga" line="Je m'appelle Jean."/>
+        <subtitle lang="pe" line="Hola, me llamo Juan."/>
+        <subtitle lang="cl" line="Hola, me llamo Juan."/>
+        <subtitle lang="sp" line="Hola, me llamo Juan."/>
+        <subtitle lang="py" line="Hola, me llamo Juan."/>
+        <subtitle lang="cc" line="嗨，我的名字是约翰"/>
+        <subtitle lang="es" line="Hola, me llamo Juan."/>
+        <subtitle lang="nl" line="Hoi, ik heet Bart-Jan"/>
+      </subtitles>
+    </line>
+    <line words="Hello. What's your name?" start="16224" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bo" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="do" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ni" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ar" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="pa" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ve" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cu" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cl" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="sp" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="py" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is Mary." start="20430" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Marie."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي ماري"/>
+        <subtitle lang="sv" line="Hola, me llamo María."/>
+        <subtitle lang="bo" line="Hola, me llamo María."/>
+        <subtitle lang="do" line="Hola, me llamo María."/>
+        <subtitle lang="ni" line="Hola, me llamo María."/>
+        <subtitle lang="lbr" line="Je m'appelle Marie."/>
+        <subtitle lang="cn" line="嗨，我的名字是玛丽"/>
+        <subtitle lang="cd" line="Je m'appelle Marie."/>
+        <subtitle lang="ge" line="Ich heiße Marie."/>
+        <subtitle lang="ne" line="Je m'appelle Marie."/>
+        <subtitle lang="pr" line="Hola, me llamo María."/>
+        <subtitle lang="dk" line="Hej, jeg hedder Mary."/>
+        <subtitle lang="co" line="Hola, me llamo María."/>
+        <subtitle lang="it" line="mi chiamo Maria"/>
+        <subtitle lang="sn" line="Je m'appelle Marie."/>
+        <subtitle lang="fr" line="Je m'appelle Marie."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي ماري"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa Mary"/>
+        <subtitle lang="bi" line="Je m'appelle Marie."/>
+        <subtitle lang="ec" line="Hola, me llamo María."/>
+        <subtitle lang="ar" line="Hola, me llamo María."/>
+        <subtitle lang="bj" line="Je m'appelle Marie."/>
+        <subtitle lang="me" line="‎اهلا, اسمي ماري"/>
+        <subtitle lang="ci" line="Je m'appelle Marie."/>
+        <subtitle lang="mx" line="Hola, me llamo María."/>
+        <subtitle lang="pa" line="Hola, me llamo María."/>
+        <subtitle lang="ve" line="Hola, me llamo María."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम मैरी है"/>
+        <subtitle lang="hn" line="Hola, me llamo María."/>
+        <subtitle lang="ml" line="Je m'appelle Marie."/>
+        <subtitle lang="cm" line="Je m'appelle Marie."/>
+        <subtitle lang="gt" line="Hola, me llamo María."/>
+        <subtitle lang="cu" line="Hola, me llamo María."/>
+        <subtitle lang="cr" line="Hola, me llamo María."/>
+        <subtitle lang="bf" line="Je m'appelle Marie."/>
+        <subtitle lang="dj" line="Je m'appelle Marie."/>
+        <subtitle lang="tg" line="Je m'appelle Marie."/>
+        <subtitle lang="ga" line="Je m'appelle Marie."/>
+        <subtitle lang="pe" line="Hola, me llamo María."/>
+        <subtitle lang="cl" line="Hola, me llamo María."/>
+        <subtitle lang="sp" line="Hola, me llamo María."/>
+        <subtitle lang="py" line="Hola, me llamo María."/>
+        <subtitle lang="cc" line="嗨，我的名字是玛丽"/>
+        <subtitle lang="es" line="Hola, me llamo María."/>
+        <subtitle lang="nl" line="Hoi, ik heet Margriet"/>
+      </subtitles>
+    </line>
+    <line words="And you?" start="25477" length="4000">
+      <highlight index="0" start="588" length="383"/>
+      <highlight index="1" start="940" length="451"/>
+      <subtitles>
+        <subtitle lang="mg" line="Et toi?"/>
+        <subtitle lang="lba" line="‎وأنت"/>
+        <subtitle lang="sv" line="¿Y tú?"/>
+        <subtitle lang="bo" line="¿Y tú?"/>
+        <subtitle lang="do" line="¿Y tú?"/>
+        <subtitle lang="ni" line="¿Y tú?"/>
+        <subtitle lang="lbr" line="Et toi?"/>
+        <subtitle lang="cn" line="你呢？"/>
+        <subtitle lang="cd" line="Et toi?"/>
+        <subtitle lang="ge" line="Und du?"/>
+        <subtitle lang="ne" line="Et toi?"/>
+        <subtitle lang="pr" line="¿Y tú?"/>
+        <subtitle lang="dk" line="Og du?"/>
+        <subtitle lang="co" line="¿Y tú?"/>
+        <subtitle lang="it" line="e tu?"/>
+        <subtitle lang="sn" line="Et toi?"/>
+        <subtitle lang="fr" line="Et toi?"/>
+        <subtitle lang="saa" line="‎وأنت"/>
+        <subtitle lang="so" line="Adigane? "/>
+        <subtitle lang="bi" line="Et toi?"/>
+        <subtitle lang="ec" line="¿Y tú?"/>
+        <subtitle lang="ar" line="¿Y tú?"/>
+        <subtitle lang="bj" line="Et toi?"/>
+        <subtitle lang="me" line="‎وأنت"/>
+        <subtitle lang="ci" line="Et toi?"/>
+        <subtitle lang="mx" line="¿Y tú?"/>
+        <subtitle lang="pa" line="¿Y tú?"/>
+        <subtitle lang="ve" line="¿Y tú?"/>
+        <subtitle lang="in" line="और आपका?"/>
+        <subtitle lang="hn" line="¿Y tú?"/>
+        <subtitle lang="ml" line="Et toi?"/>
+        <subtitle lang="cm" line="Et toi?"/>
+        <subtitle lang="gt" line="¿Y tú?"/>
+        <subtitle lang="cu" line="¿Y tú?"/>
+        <subtitle lang="cr" line="¿Y tú?"/>
+        <subtitle lang="bf" line="Et toi?"/>
+        <subtitle lang="dj" line="Et toi?"/>
+        <subtitle lang="tg" line="Et toi?"/>
+        <subtitle lang="ga" line="Et toi?"/>
+        <subtitle lang="pe" line="¿Y tú?"/>
+        <subtitle lang="cl" line="¿Y tú?"/>
+        <subtitle lang="sp" line="¿Y tú?"/>
+        <subtitle lang="py" line="¿Y tú?"/>
+        <subtitle lang="cc" line="你呢？"/>
+        <subtitle lang="es" line="¿Y tú?"/>
+        <subtitle lang="nl" line="En jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hello. What's your name?" start="35332" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bo" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="do" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ni" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ar" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="pa" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ve" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cu" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cl" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="sp" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="py" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is Oliver." start="39658" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Olivier."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي ﺃﻠﻴﻔﺮ"/>
+        <subtitle lang="sv" line="Hola, me llamo Oliver."/>
+        <subtitle lang="bo" line="Hola, me llamo Oliver."/>
+        <subtitle lang="do" line="Hola, me llamo Oliver."/>
+        <subtitle lang="ni" line="Hola, me llamo Oliver."/>
+        <subtitle lang="lbr" line="Je m'appelle Olivier."/>
+        <subtitle lang="cn" line="我的名字是奥利弗"/>
+        <subtitle lang="cd" line="Je m'appelle Olivier."/>
+        <subtitle lang="ge" line="Ich heiße Oliver."/>
+        <subtitle lang="ne" line="Je m'appelle Olivier."/>
+        <subtitle lang="pr" line="Hola, me llamo Oliver."/>
+        <subtitle lang="dk" line="Hej, jeg hedder Oliver."/>
+        <subtitle lang="co" line="Hola, me llamo Oliver."/>
+        <subtitle lang="it" line="mi chiamo Oliviero"/>
+        <subtitle lang="sn" line="Je m'appelle Olivier."/>
+        <subtitle lang="fr" line="Je m'appelle Olivier."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي ﺃﻠﻴﻔﺮ"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa Olifer"/>
+        <subtitle lang="bi" line="Je m'appelle Olivier."/>
+        <subtitle lang="ec" line="Hola, me llamo Oliver."/>
+        <subtitle lang="ar" line="Hola, me llamo Oliver."/>
+        <subtitle lang="bj" line="Je m'appelle Olivier."/>
+        <subtitle lang="me" line="‎اهلا, اسمي ﺃﻠﻴﻔﺮ"/>
+        <subtitle lang="ci" line="Je m'appelle Olivier."/>
+        <subtitle lang="mx" line="Hola, me llamo Oliver."/>
+        <subtitle lang="pa" line="Hola, me llamo Oliver."/>
+        <subtitle lang="ve" line="Hola, me llamo Oliver."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम ओलिवर है"/>
+        <subtitle lang="hn" line="Hola, me llamo Oliver."/>
+        <subtitle lang="ml" line="Je m'appelle Olivier."/>
+        <subtitle lang="cm" line="Je m'appelle Olivier."/>
+        <subtitle lang="gt" line="Hola, me llamo Oliver."/>
+        <subtitle lang="cu" line="Hola, me llamo Oliver."/>
+        <subtitle lang="cr" line="Hola, me llamo Oliver."/>
+        <subtitle lang="bf" line="Je m'appelle Olivier."/>
+        <subtitle lang="dj" line="Je m'appelle Olivier."/>
+        <subtitle lang="tg" line="Je m'appelle Olivier."/>
+        <subtitle lang="ga" line="Je m'appelle Olivier."/>
+        <subtitle lang="pe" line="Hola, me llamo Oliver."/>
+        <subtitle lang="cl" line="Hola, me llamo Oliver."/>
+        <subtitle lang="sp" line="Hola, me llamo Oliver."/>
+        <subtitle lang="py" line="Hola, me llamo Oliver."/>
+        <subtitle lang="cc" line="我的名字是奥利弗"/>
+        <subtitle lang="es" line="Hola, me llamo Oliver."/>
+        <subtitle lang="nl" line="Hoi, ik heet Michiel."/>
+      </subtitles>
+    </line>
+    <line words="Hello. What's your name?" start="44946" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bo" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="do" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ni" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ar" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="pa" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ve" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cu" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cl" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="sp" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="py" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is Theo." start="49393" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Théo."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي تيو"/>
+        <subtitle lang="sv" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="bo" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="do" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="ni" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="lbr" line="Je m'appelle Théo."/>
+        <subtitle lang="cn" line="嗨，我的名字是西奥"/>
+        <subtitle lang="cd" line="Je m'appelle Théo."/>
+        <subtitle lang="ge" line="Ich heiße Theo."/>
+        <subtitle lang="ne" line="Je m'appelle Théo."/>
+        <subtitle lang="dk" line="Hej, jeg hedder Theo."/>
+        <subtitle lang="co" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="it" line="mi chiamo Teo"/>
+        <subtitle lang="sn" line="Je m'appelle Théo."/>
+        <subtitle lang="fr" line="Je m'appelle Théo."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي تيو"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa Theo"/>
+        <subtitle lang="bi" line="Je m'appelle Théo."/>
+        <subtitle lang="ec" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="ar" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="bj" line="Je m'appelle Théo."/>
+        <subtitle lang="me" line="‎اهلا, اسمي تيو"/>
+        <subtitle lang="ci" line="Je m'appelle Théo."/>
+        <subtitle lang="mx" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="pa" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="ve" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम थिओ है"/>
+        <subtitle lang="hn" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="ml" line="Je m'appelle Théo."/>
+        <subtitle lang="cm" line="Je m'appelle Théo."/>
+        <subtitle lang="gt" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="cu" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="cr" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="bf" line="Je m'appelle Théo."/>
+        <subtitle lang="dj" line="Je m'appelle Théo."/>
+        <subtitle lang="tg" line="Je m'appelle Théo."/>
+        <subtitle lang="ga" line="Je m'appelle Théo."/>
+        <subtitle lang="pe" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="cl" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="sp" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="py" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="pr" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="es" line="Hola, me llamo Teodoro."/>
+        <subtitle lang="nl" line="Hoi, ik heet Theo"/>
+      </subtitles>
+    </line>
+    <line words="Hello. What's your name?" start="64054" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bo" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="do" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ni" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ar" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="pa" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ve" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cu" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cl" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="sp" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="py" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is Amy." start="68501" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Aimée."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي ﺃﻴﻤﻲ"/>
+        <subtitle lang="sv" line="Hola, me llamo Amanda."/>
+        <subtitle lang="bo" line="Hola, me llamo Amanda."/>
+        <subtitle lang="do" line="Hola, me llamo Amanda."/>
+        <subtitle lang="ni" line="Hola, me llamo Amanda."/>
+        <subtitle lang="lbr" line="Je m'appelle Aimée."/>
+        <subtitle lang="cn" line="嗨，我的名字是艾米"/>
+        <subtitle lang="cd" line="Je m'appelle Aimée."/>
+        <subtitle lang="ge" line="Ich heiße Amy."/>
+        <subtitle lang="ne" line="Je m'appelle Aimée."/>
+        <subtitle lang="pr" line="Hola, me llamo Amanda."/>
+        <subtitle lang="dk" line="Hej, jeg hedder Amy."/>
+        <subtitle lang="co" line="Hola, me llamo Amanda."/>
+        <subtitle lang="it" line="mi chiamo Amy"/>
+        <subtitle lang="sn" line="Je m'appelle Aimée."/>
+        <subtitle lang="fr" line="Je m'appelle Aimée."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي ﺃﻴﻤﻲ"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa Amy"/>
+        <subtitle lang="bi" line="Je m'appelle Aimée."/>
+        <subtitle lang="ec" line="Hola, me llamo Amanda."/>
+        <subtitle lang="ar" line="Hola, me llamo Amanda."/>
+        <subtitle lang="bj" line="Je m'appelle Aimée."/>
+        <subtitle lang="me" line="‎اهلا, اسمي ﺃﻴﻤﻲ"/>
+        <subtitle lang="ci" line="Je m'appelle Aimée."/>
+        <subtitle lang="mx" line="Hola, me llamo Amanda."/>
+        <subtitle lang="pa" line="Hola, me llamo Amanda."/>
+        <subtitle lang="ve" line="Hola, me llamo Amanda."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम एमी है"/>
+        <subtitle lang="hn" line="Hola, me llamo Amanda."/>
+        <subtitle lang="ml" line="Je m'appelle Aimée."/>
+        <subtitle lang="cm" line="Je m'appelle Aimée."/>
+        <subtitle lang="gt" line="Hola, me llamo Amanda."/>
+        <subtitle lang="cu" line="Hola, me llamo Amanda."/>
+        <subtitle lang="cr" line="Hola, me llamo Amanda."/>
+        <subtitle lang="bf" line="Je m'appelle Aimée."/>
+        <subtitle lang="dj" line="Je m'appelle Aimée."/>
+        <subtitle lang="tg" line="Je m'appelle Aimée."/>
+        <subtitle lang="ga" line="Je m'appelle Aimée."/>
+        <subtitle lang="pe" line="Hola, me llamo Amanda."/>
+        <subtitle lang="cl" line="Hola, me llamo Amanda."/>
+        <subtitle lang="sp" line="Hola, me llamo Amanda."/>
+        <subtitle lang="py" line="Hola, me llamo Amanda."/>
+        <subtitle lang="cc" line="嗨，我的名字是艾米"/>
+        <subtitle lang="es" line="Hola, me llamo Amanda."/>
+        <subtitle lang="nl" line="Hoi, ik heet Anne"/>
+      </subtitles>
+    </line>
+    <line words="Hello. What's your name?" start="73466" length="4807">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1560" length="482"/>
+      <highlight index="2" start="2095" length="200"/>
+      <highlight index="3" start="2393" length="551"/>
+      <subtitles>
+        <subtitle lang="mg" line="Comment tu t'appelles?"/>
+        <subtitle lang="lba" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="sv" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bo" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="do" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ni" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="lbr" line="Comment tu t'appelles?"/>
+        <subtitle lang="cn" line="你好，你叫什么名字？"/>
+        <subtitle lang="cd" line="Comment tu t'appelles?"/>
+        <subtitle lang="ge" line="Hallo, wie heißt du?"/>
+        <subtitle lang="ne" line="Comment tu t'appelles?"/>
+        <subtitle lang="pr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="dk" line="Hej, hvad hedder du?"/>
+        <subtitle lang="co" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="it" line="come ti chiami?"/>
+        <subtitle lang="sn" line="Comment tu t'appelles?"/>
+        <subtitle lang="fr" line="Comment tu t'appelles?"/>
+        <subtitle lang="saa" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="so" line="Nabad miyaa, adiga magacaa ?"/>
+        <subtitle lang="bi" line="Comment tu t'appelles?"/>
+        <subtitle lang="ec" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ar" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bj" line="Comment tu t'appelles?"/>
+        <subtitle lang="me" line="مرحبا ، ما اسمك؟"/>
+        <subtitle lang="ci" line="Comment tu t'appelles?"/>
+        <subtitle lang="mx" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="pa" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ve" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="in" line="नमस्कार, आपका नाम क्या है?"/>
+        <subtitle lang="hn" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="ml" line="Comment tu t'appelles?"/>
+        <subtitle lang="cm" line="Comment tu t'appelles?"/>
+        <subtitle lang="gt" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cu" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cr" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="bf" line="Comment tu t'appelles?"/>
+        <subtitle lang="dj" line="Comment tu t'appelles?"/>
+        <subtitle lang="tg" line="Comment tu t'appelles?"/>
+        <subtitle lang="ga" line="Comment tu t'appelles?"/>
+        <subtitle lang="pe" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cl" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="sp" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="py" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="cc" line="你好，你叫什么名字？"/>
+        <subtitle lang="es" line="Hola, ¿Cómo te llamas? "/>
+        <subtitle lang="nl" line="Hallo, hoe heet jij?"/>
+      </subtitles>
+    </line>
+    <line words="Hi, my name is Sarah." start="78235" length="5048">
+      <highlight index="0" start="1081" length="328"/>
+      <highlight index="1" start="1389" length="599"/>
+      <highlight index="2" start="1978" length="801"/>
+      <highlight index="3" start="2750" length="348"/>
+      <highlight index="4" start="3098" length="743"/>
+      <subtitles>
+        <subtitle lang="mg" line="Je m'appelle Sara."/>
+        <subtitle lang="lba" line="‎اهلا, اسمي سارى"/>
+        <subtitle lang="sv" line="Hola, me llamo Zara."/>
+        <subtitle lang="bo" line="Hola, me llamo Zara."/>
+        <subtitle lang="do" line="Hola, me llamo Zara."/>
+        <subtitle lang="ni" line="Hola, me llamo Zara."/>
+        <subtitle lang="lbr" line="Je m'appelle Sara."/>
+        <subtitle lang="cn" line="嗨，我的名字是莎拉"/>
+        <subtitle lang="cd" line="Je m'appelle Sara."/>
+        <subtitle lang="ge" line="Ich heiße Sarah."/>
+        <subtitle lang="ne" line="Je m'appelle Sara."/>
+        <subtitle lang="pr" line="Hola, me llamo Zara."/>
+        <subtitle lang="dk" line="Hej, jeg hedder Sarah."/>
+        <subtitle lang="co" line="Hola, me llamo Zara."/>
+        <subtitle lang="it" line="mi chiamo Sara"/>
+        <subtitle lang="sn" line="Je m'appelle Sara."/>
+        <subtitle lang="fr" line="Je m'appelle Sara."/>
+        <subtitle lang="saa" line="‎اهلا, اسمي سارى"/>
+        <subtitle lang="so" line="Nabad magaceeyga waa Sarah"/>
+        <subtitle lang="bi" line="Je m'appelle Sara."/>
+        <subtitle lang="ec" line="Hola, me llamo Zara."/>
+        <subtitle lang="ar" line="Hola, me llamo Zara."/>
+        <subtitle lang="bj" line="Je m'appelle Sara."/>
+        <subtitle lang="me" line="‎اهلا, اسمي سارى"/>
+        <subtitle lang="ci" line="Je m'appelle Sara."/>
+        <subtitle lang="mx" line="Hola, me llamo Zara."/>
+        <subtitle lang="pa" line="Hola, me llamo Zara."/>
+        <subtitle lang="ve" line="Hola, me llamo Zara."/>
+        <subtitle lang="in" line="नमस्कार, मेरा नाम सारा है"/>
+        <subtitle lang="hn" line="Hola, me llamo Zara."/>
+        <subtitle lang="ml" line="Je m'appelle Sara."/>
+        <subtitle lang="cm" line="Je m'appelle Sara."/>
+        <subtitle lang="gt" line="Hola, me llamo Zara."/>
+        <subtitle lang="cu" line="Hola, me llamo Zara."/>
+        <subtitle lang="cr" line="Hola, me llamo Zara."/>
+        <subtitle lang="bf" line="Je m'appelle Sara."/>
+        <subtitle lang="dj" line="Je m'appelle Sara."/>
+        <subtitle lang="tg" line="Je m'appelle Sara."/>
+        <subtitle lang="ga" line="Je m'appelle Sara."/>
+        <subtitle lang="pe" line="Hola, me llamo Zara."/>
+        <subtitle lang="cl" line="Hola, me llamo Zara."/>
+        <subtitle lang="sp" line="Hola, me llamo Zara."/>
+        <subtitle lang="py" line="Hola, me llamo Zara."/>
+        <subtitle lang="cc" line="嗨，我的名字是莎拉"/>
+        <subtitle lang="es" line="Hola, me llamo Zara."/>
+        <subtitle lang="nl" line="Hoi, ik heet Sarah"/>
+      </subtitles>
+    </line>
+    <line words="And you?" start="83043" length="4000">
+      <highlight index="0" start="588" length="383"/>
+      <highlight index="1" start="940" length="451"/>
+      <subtitles>
+        <subtitle lang="mg" line="Et toi?"/>
+        <subtitle lang="lba" line="‎وأنت؟"/>
+        <subtitle lang="sv" line="¿Y tú?"/>
+        <subtitle lang="bo" line="¿Y tú?"/>
+        <subtitle lang="do" line="¿Y tú?"/>
+        <subtitle lang="ni" line="¿Y tú?"/>
+        <subtitle lang="lbr" line="Et toi?"/>
+        <subtitle lang="cn" line="你呢？"/>
+        <subtitle lang="cd" line="Et toi?"/>
+        <subtitle lang="ge" line="Und du?"/>
+        <subtitle lang="ne" line="Et toi?"/>
+        <subtitle lang="pr" line="¿Y tú?"/>
+        <subtitle lang="dk" line="Og du?"/>
+        <subtitle lang="co" line="¿Y tú?"/>
+        <subtitle lang="it" line="e tu?"/>
+        <subtitle lang="sn" line="Et toi?"/>
+        <subtitle lang="fr" line="Et toi?"/>
+        <subtitle lang="saa" line="‎وأنت؟"/>
+        <subtitle lang="so" line="Adigane? "/>
+        <subtitle lang="bi" line="Et toi?"/>
+        <subtitle lang="ec" line="¿Y tú?"/>
+        <subtitle lang="ar" line="¿Y tú?"/>
+        <subtitle lang="bj" line="Et toi?"/>
+        <subtitle lang="me" line="‎وأنت؟"/>
+        <subtitle lang="ci" line="Et toi?"/>
+        <subtitle lang="mx" line="¿Y tú?"/>
+        <subtitle lang="pa" line="¿Y tú?"/>
+        <subtitle lang="ve" line="¿Y tú?"/>
+        <subtitle lang="in" line="और आपका?"/>
+        <subtitle lang="hn" line="¿Y tú?"/>
+        <subtitle lang="ml" line="Et toi?"/>
+        <subtitle lang="cm" line="Et toi?"/>
+        <subtitle lang="gt" line="¿Y tú?"/>
+        <subtitle lang="cu" line="¿Y tú?"/>
+        <subtitle lang="cr" line="¿Y tú?"/>
+        <subtitle lang="bf" line="Et toi?"/>
+        <subtitle lang="dj" line="Et toi?"/>
+        <subtitle lang="tg" line="Et toi?"/>
+        <subtitle lang="ga" line="Et toi?"/>
+        <subtitle lang="pe" line="¿Y tú?"/>
+        <subtitle lang="cl" line="¿Y tú?"/>
+        <subtitle lang="sp" line="¿Y tú?"/>
+        <subtitle lang="py" line="¿Y tú?"/>
+        <subtitle lang="cc" line="你呢？"/>
+        <subtitle lang="es" line="¿Y tú?"/>
+        <subtitle lang="nl" line="En jij?"/>
+      </subtitles>
+    </line>
+    <line words="My sister's name is Jane." start="92897" length="5048">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1023" length="482"/>
+      <highlight index="2" start="1563" length="377"/>
+      <highlight index="3" start="2113" length="551"/>
+      <highlight index="4" start="2683" length="617"/>
+      <subtitles>
+        <subtitle lang="mg" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="lba" line="‎أختي اسمها جاين"/>
+        <subtitle lang="sv" line="Mi hermana se llama Jane."/>
+        <subtitle lang="bo" line="Mi hermana se llama Jane."/>
+        <subtitle lang="do" line="Mi hermana se llama Jane."/>
+        <subtitle lang="ni" line="Mi hermana se llama Jane."/>
+        <subtitle lang="lbr" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="cn" line="我姐姐名字是简"/>
+        <subtitle lang="cd" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="ge" line="Meine Schwester heißt Johanna."/>
+        <subtitle lang="ne" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="pr" line="Mi hermana se llama Jane."/>
+        <subtitle lang="dk" line="Min søster hedder Jane."/>
+        <subtitle lang="co" line="Mi hermana se llama Jane."/>
+        <subtitle lang="it" line="mia sorella si chiama Jane"/>
+        <subtitle lang="sn" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="fr" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="saa" line="‎أختي اسمها جاين"/>
+        <subtitle lang="so" line="Magaca walaashay waa Jane"/>
+        <subtitle lang="bi" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="ec" line="Mi hermana se llama Jane."/>
+        <subtitle lang="ar" line="Mi hermana se llama Jane."/>
+        <subtitle lang="bj" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="me" line="‎أختي اسمها جاين"/>
+        <subtitle lang="ci" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="mx" line="Mi hermana se llama Jane."/>
+        <subtitle lang="pa" line="Mi hermana se llama Jane."/>
+        <subtitle lang="ve" line="Mi hermana se llama Jane."/>
+        <subtitle lang="in" line="मेरी बहन का नाम जेन है"/>
+        <subtitle lang="hn" line="Mi hermana se llama Jane."/>
+        <subtitle lang="ml" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="cm" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="gt" line="Mi hermana se llama Jane."/>
+        <subtitle lang="cu" line="Mi hermana se llama Jane."/>
+        <subtitle lang="cr" line="Mi hermana se llama Jane."/>
+        <subtitle lang="bf" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="dj" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="tg" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="ga" line="Ma soeur s'appelle Jeanne."/>
+        <subtitle lang="pe" line="Mi hermana se llama Jane."/>
+        <subtitle lang="cl" line="Mi hermana se llama Juana"/>
+        <subtitle lang="sp" line="Mi hermana se llama Jane."/>
+        <subtitle lang="py" line="Mi hermana se llama Jane."/>
+        <subtitle lang="cc" line="我姐姐名字是简"/>
+        <subtitle lang="es" line="Mi hermana se llama Jane."/>
+        <subtitle lang="nl" line="En mijn zusje heet Marjanne"/>
+      </subtitles>
+    </line>
+    <line words="My brother's name is Paul." start="97704" length="5048">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1023" length="482"/>
+      <highlight index="2" start="1563" length="377"/>
+      <highlight index="3" start="2113" length="551"/>
+      <highlight index="4" start="2683" length="617"/>
+      <subtitles>
+        <subtitle lang="mg" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="lba" line="‎أخي اسمه بول"/>
+        <subtitle lang="sv" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="bo" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="do" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ni" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="lbr" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="cn" line="我哥哥的名字是保罗"/>
+        <subtitle lang="cd" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="ge" line="Mein Bruder heißt Paul."/>
+        <subtitle lang="ne" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="pr" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="dk" line="Min bror hedder Paul."/>
+        <subtitle lang="co" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="it" line="mio fratello si chiama Paolo"/>
+        <subtitle lang="sn" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="fr" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="saa" line="‎أخي اسمه بول"/>
+        <subtitle lang="so" line="Magaca walaalkey waa Baul"/>
+        <subtitle lang="bi" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="ec" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ar" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="bj" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="me" line="‎أخي اسمه بول"/>
+        <subtitle lang="ci" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="mx" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="pa" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ve" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="in" line="मेरे भाई का नाम पॉल है"/>
+        <subtitle lang="hn" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="ml" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="cm" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="gt" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="cu" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="cr" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="bf" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="dj" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="tg" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="ga" line="Mon frère s'appelle Paul."/>
+        <subtitle lang="pe" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="cl" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="sp" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="py" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="cc" line="我哥哥的名字是保罗"/>
+        <subtitle lang="es" line="Mi hermano se llama Pablo."/>
+        <subtitle lang="nl" line="En mijn broer die heet Paul"/>
+      </subtitles>
+    </line>
+    <line words="My mum's name is Jenny." start="102752" length="5048">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1023" length="482"/>
+      <highlight index="2" start="1563" length="377"/>
+      <highlight index="3" start="2113" length="551"/>
+      <highlight index="4" start="2683" length="617"/>
+      <subtitles>
+        <subtitle lang="mg" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="lba" line="‎أمي اسمها جني"/>
+        <subtitle lang="sv" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="bo" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="do" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="ni" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="lbr" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="cn" line="我妈妈的名字是珍妮"/>
+        <subtitle lang="cd" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="ge" line="Meine Mutter heißt Jenny."/>
+        <subtitle lang="ne" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="pr" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="dk" line="Min mor hedder Jenny."/>
+        <subtitle lang="co" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="it" line="mia mamma si chiama Jennifer"/>
+        <subtitle lang="sn" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="fr" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="saa" line="‎أمي اسمها جني"/>
+        <subtitle lang="so" line="Magaca hooyadeey waa Jenny"/>
+        <subtitle lang="bi" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="ec" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="ar" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="bj" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="me" line="‎أمي اسمها جني"/>
+        <subtitle lang="ci" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="mx" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="pa" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="ve" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="in" line="मेरी मम्मी का नाम जेनी है"/>
+        <subtitle lang="hn" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="ml" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="cm" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="gt" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="cu" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="cr" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="bf" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="dj" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="tg" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="ga" line="Ma mère s'appelle Jennifer."/>
+        <subtitle lang="pe" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="cl" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="sp" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="py" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="cc" line="我妈妈的名字是珍妮"/>
+        <subtitle lang="es" line="Mi mamá se llama Jenny."/>
+        <subtitle lang="nl" line="En mijn moeder heet Jannie"/>
+      </subtitles>
+    </line>
+    <line words="My dad's name is Peter." start="107198" length="5048">
+      <highlight index="0" start="581" length="375"/>
+      <highlight index="1" start="1023" length="482"/>
+      <highlight index="2" start="1563" length="377"/>
+      <highlight index="3" start="2113" length="551"/>
+      <highlight index="4" start="2683" length="617"/>
+      <subtitles>
+        <subtitle lang="mg" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="lba" line="‎أبي اسمه ﺑيتر"/>
+        <subtitle lang="sv" line="Mi papá se llama Pedro."/>
+        <subtitle lang="bo" line="Mi papá se llama Pedro."/>
+        <subtitle lang="do" line="Mi papá se llama Pedro."/>
+        <subtitle lang="ni" line="Mi papá se llama Pedro."/>
+        <subtitle lang="lbr" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="cn" line="我爸爸的名字是彼特"/>
+        <subtitle lang="cd" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="ge" line="Mein Vater heißt Peter."/>
+        <subtitle lang="ne" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="pr" line="Mi papá se llama Pedro."/>
+        <subtitle lang="dk" line="Min far hedder Peter."/>
+        <subtitle lang="co" line="Mi papá se llama Pedro."/>
+        <subtitle lang="it" line="mio papa' si chiama Pietro"/>
+        <subtitle lang="sn" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="fr" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="saa" line="‎أبي اسمه ﺑيتر"/>
+        <subtitle lang="so" line="Magaca abahey wa Beter"/>
+        <subtitle lang="bi" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="ec" line="Mi papá se llama Pedro."/>
+        <subtitle lang="ar" line="Mi papá se llama Pedro."/>
+        <subtitle lang="bj" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="me" line="‎أبي اسمه ﺑيتر"/>
+        <subtitle lang="ci" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="mx" line="Mi papá se llama Pedro."/>
+        <subtitle lang="pa" line="Mi papá se llama Pedro."/>
+        <subtitle lang="ve" line="Mi papá se llama Pedro."/>
+        <subtitle lang="in" line="मेरे पापा का नाम पीटर है"/>
+        <subtitle lang="hn" line="Mi papá se llama Pedro."/>
+        <subtitle lang="ml" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="cm" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="gt" line="Mi papá se llama Pedro."/>
+        <subtitle lang="cu" line="Mi papá se llama Pedro."/>
+        <subtitle lang="cr" line="Mi papá se llama Pedro."/>
+        <subtitle lang="bf" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="dj" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="tg" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="ga" line="Mon père s'appelle Pierre."/>
+        <subtitle lang="pe" line="Mi papá se llama Pedro."/>
+        <subtitle lang="cl" line="Mi papá se llama Pedro."/>
+        <subtitle lang="sp" line="Mi papá se llama Pedro."/>
+        <subtitle lang="py" line="Mi papá se llama Pedro."/>
+        <subtitle lang="cc" line="我爸爸的名字是彼特"/>
+        <subtitle lang="es" line="Mi papá se llama Pedro."/>
+        <subtitle lang="nl" line="Mijn vader heet Peter"/>
+      </subtitles>
+    </line>
+    <line words="That's all." start="112246" length="2764">
+      <highlight index="0" start="190" length="296"/>
+      <highlight index="1" start="475" length="555"/>
+      <subtitles>
+        <subtitle lang="mg" line="Voila!"/>
+        <subtitle lang="lba" line="‎هذا كل شيء "/>
+        <subtitle lang="sv" line="¡Eso es todo!"/>
+        <subtitle lang="bo" line="¡Eso es todo!"/>
+        <subtitle lang="do" line="¡Eso es todo!"/>
+        <subtitle lang="ni" line="¡Eso es todo!"/>
+        <subtitle lang="lbr" line="Voila!"/>
+        <subtitle lang="cn" line="就这些！"/>
+        <subtitle lang="cd" line="Voila!"/>
+        <subtitle lang="ge" line="Das war´s!"/>
+        <subtitle lang="ne" line="Voila!"/>
+        <subtitle lang="pr" line="¡Eso es todo!"/>
+        <subtitle lang="dk" line="Det var alt!"/>
+        <subtitle lang="co" line="¡Eso es todo!"/>
+        <subtitle lang="it" line="Ecco tutto!"/>
+        <subtitle lang="sn" line="Voila!"/>
+        <subtitle lang="fr" line="Voila!"/>
+        <subtitle lang="saa" line="‎هذا كل شيء "/>
+        <subtitle lang="so" line="Waa dhameeynay!"/>
+        <subtitle lang="bi" line="Voila!"/>
+        <subtitle lang="ec" line="¡Eso es todo!"/>
+        <subtitle lang="ar" line="¡Eso es todo!"/>
+        <subtitle lang="bj" line="Voila!"/>
+        <subtitle lang="me" line="‎هذا كل شيء "/>
+        <subtitle lang="ci" line="Voila!"/>
+        <subtitle lang="mx" line="¡Eso es todo!"/>
+        <subtitle lang="pa" line="¡Eso es todo!"/>
+        <subtitle lang="ve" line="¡Eso es todo!"/>
+        <subtitle lang="in" line="बस यही!"/>
+        <subtitle lang="hn" line="¡Eso es todo!"/>
+        <subtitle lang="ml" line="Voila!"/>
+        <subtitle lang="cm" line="Voila!"/>
+        <subtitle lang="gt" line="¡Eso es todo!"/>
+        <subtitle lang="cu" line="¡Eso es todo!"/>
+        <subtitle lang="cr" line="¡Eso es todo!"/>
+        <subtitle lang="bf" line="Voila!"/>
+        <subtitle lang="dj" line="Voila!"/>
+        <subtitle lang="tg" line="Voila!"/>
+        <subtitle lang="ga" line="Voila!"/>
+        <subtitle lang="pe" line="¡Eso es todo!"/>
+        <subtitle lang="cl" line="¡Eso es todo!"/>
+        <subtitle lang="sp" line="¡Eso es todo!"/>
+        <subtitle lang="py" line="¡Eso es todo!"/>
+        <subtitle lang="cc" line="就这些！"/>
+        <subtitle lang="es" line="¡Eso es todo!"/>
+        <subtitle lang="nl" line="Ja wij!"/>
+      </subtitles>
+    </line>
+  </lines>
+</karaoke>

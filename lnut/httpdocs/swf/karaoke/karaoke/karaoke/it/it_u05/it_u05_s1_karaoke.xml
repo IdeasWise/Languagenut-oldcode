@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="250984" >
+	<lines>
+		<line words="Di mi chi galoppa?" start="9842" length="3937" >
+			<highlight index="0" start="948" length="409" />
+			<highlight index="1" start="1338" length="485" />
+			<highlight index="2" start="1809" length="600" />
+			<highlight index="3" start="2431" length="1404" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that galloping?" />
+				<subtitle lang="nz" line="Who's that galloping?" />
+			</subtitles>
+		</line>
+		<line words="Di mi chi galoppa?" start="13533" length="3445" >
+			<highlight index="0" start="456" length="409" />
+			<highlight index="1" start="846" length="485" />
+			<highlight index="2" start="1317" length="600" />
+			<highlight index="3" start="1939" length="1404" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that galloping?" />
+				<subtitle lang="nz" line="Who's that galloping?" />
+			</subtitles>
+		</line>
+		<line words="Il cavallo galoppa." start="18405" length="4429" >
+			<highlight index="0" start="1066" length="293" />
+			<highlight index="1" start="1457" length="1482" />
+			<highlight index="2" start="3028" length="1197" />
+			<subtitles>
+				<subtitle lang="en" line="The horse is galloping." />
+				<subtitle lang="nz" line="The horse is galloping." />
+			</subtitles>
+		</line>
+		<line words="Il cavallo galoppa." start="22391" length="3445" >
+			<highlight index="0" start="82" length="293" />
+			<highlight index="1" start="473" length="1160" />
+			<highlight index="2" start="1684" length="969" />
+			<subtitles>
+				<subtitle lang="en" line="The horse is galloping." />
+				<subtitle lang="nz" line="The horse is galloping." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri di cavallo." start="27887" length="3721" >
+			<highlight index="0" start="807" length="316" />
+			<highlight index="1" start="1165" length="408" />
+			<highlight index="2" start="1656" length="391" />
+			<highlight index="3" start="2172" length="1216" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the horse." />
+				<subtitle lang="nz" line="Yippee! Shouts the horse." />
+			</subtitles>
+		</line>
+		<line words="Il cavallo." start="31742" length="4232" >
+			<highlight index="0" start="194" length="307" />
+			<highlight index="1" start="637" length="479" />
+			<subtitles>
+				<subtitle lang="en" line="The horse." />
+				<subtitle lang="nz" line="The horse." />
+			</subtitles>
+		</line>
+		<line words="Youpi! Cri di cavallo." start="36532" length="3576" >
+			<highlight index="0" start="780" length="331" />
+			<highlight index="1" start="1735" length="200" />
+			<highlight index="2" start="2104" length="200" />
+			<highlight index="3" start="2506" length="614" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the horse." />
+				<subtitle lang="nz" line="Yippee! Shouts the horse." />
+			</subtitles>
+		</line>
+		<line words="Il cavallo. " start="40715" length="4462" >
+			<highlight index="0" start="-23" length="457" />
+			<highlight index="1" start="554" length="751" />
+			<subtitles>
+				<subtitle lang="en" line="The horse." />
+				<subtitle lang="nz" line="The horse." />
+			</subtitles>
+		</line>
+		<line words="Di mi chi squittisce?" start="48802" length="4101" >
+			<highlight index="0" start="1483" length="309" />
+			<highlight index="1" start="1931" length="454" />
+			<highlight index="2" start="2394" length="298" />
+			<highlight index="3" start="2702" length="1090" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that scamping here?" />
+				<subtitle lang="nz" line="Who's that scamping here?" />
+			</subtitles>
+		</line>
+		<line words="Di mi chi squittisce?" start="53149" length="4019" >
+			<highlight index="0" start="141" length="242" />
+			<highlight index="1" start="457" length="244" />
+			<highlight index="2" start="783" length="384" />
+			<highlight index="3" start="1575" length="881" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that scamping here?" />
+				<subtitle lang="nz" line="Who's that scamping here?" />
+			</subtitles>
+		</line>
+		<line words="Il topo squittisce." start="57726" length="3904" >
+			<highlight index="0" start="1115" length="322" />
+			<highlight index="1" start="1463" length="895" />
+			<highlight index="2" start="2371" length="1500" />
+			<subtitles>
+				<subtitle lang="en" line="The mouse is scamping." />
+				<subtitle lang="nz" line="The mouse is scamping." />
+			</subtitles>
+		</line>
+		<line words="Il topo squittisce." start="61909" length="3904" >
+			<highlight index="0" start="13" length="243" />
+			<highlight index="1" start="315" length="599" />
+			<highlight index="2" start="980" length="1809" />
+			<subtitles>
+				<subtitle lang="en" line="The mouse is scamping." />
+				<subtitle lang="nz" line="The mouse is scamping." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri di il topo." start="66650" length="3904" >
+			<highlight index="0" start="1128" length="802" />
+			<highlight index="1" start="2088" length="230" />
+			<highlight index="2" start="2325" length="237" />
+			<highlight index="3" start="2614" length="242" />
+			<highlight index="4" start="2930" length="974" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the mouse." />
+				<subtitle lang="nz" line="Yippee! Shouts the mouse." />
+			</subtitles>
+		</line>
+		<line words="Il topo." start="71112" length="3625" >
+			<highlight index="0" start="6" length="796" />
+			<highlight index="1" start="900" length="566" />
+			<subtitles>
+				<subtitle lang="en" line="The mouse." />
+				<subtitle lang="nz" line="The mouse." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri di il topo." start="76410" length="2789" >
+			<highlight index="0" start="6" length="717" />
+			<highlight index="1" start="743" length="329" />
+			<highlight index="2" start="1131" length="230" />
+			<highlight index="3" start="1598" length="243" />
+			<highlight index="4" start="1960" length="671" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the mouse." />
+				<subtitle lang="nz" line="Yippee! Shouts the mouse." />
+			</subtitles>
+		</line>
+		<line words="Il topo." start="79757" length="4462" >
+			<highlight index="0" start="0" length="1178" />
+			<highlight index="1" start="1220" length="526" />
+			<subtitles>
+				<subtitle lang="en" line="The mouse." />
+				<subtitle lang="nz" line="The mouse." />
+			</subtitles>
+		</line>
+		<line words="Di mi chi saltella?" start="88959" length="2789" >
+			<highlight index="0" start="572" length="533" />
+			<highlight index="1" start="1105" length="315" />
+			<highlight index="2" start="1460" length="309" />
+			<highlight index="3" start="1795" length="994" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that hopping by?" />
+				<subtitle lang="nz" line="Who's that hopping by?" />
+			</subtitles>
+		</line>
+		<line words="Di mi chi saltella?" start="92306" length="3625" >
+			<highlight index="0" start="51" length="479" />
+			<highlight index="1" start="564" length="350" />
+			<highlight index="2" start="906" length="350" />
+			<highlight index="3" start="1316" length="1607" />
+			<subtitles>
+				<subtitle lang="en" line="Who's that hopping by?" />
+				<subtitle lang="nz" line="Who's that hopping by?" />
+			</subtitles>
+		</line>
+		<line words="Il coniglio saltella." start="97047" length="3346" >
+			<highlight index="0" start="847" length="261" />
+			<highlight index="1" start="1161" length="1208" />
+			<highlight index="2" start="2392" length="930" />
+			<subtitles>
+				<subtitle lang="en" line="The rabbit's hopping by." />
+				<subtitle lang="nz" line="The rabbit's hopping by." />
+			</subtitles>
+		</line>
+		<line words="Il coniglio saltella." start="100951" length="2789" >
+			<highlight index="0" start="26" length="348" />
+			<highlight index="1" start="381" length="1447" />
+			<highlight index="2" start="1861" length="941" />
+			<subtitles>
+				<subtitle lang="en" line="The rabbit's hopping by." />
+				<subtitle lang="nz" line="The rabbit's hopping by." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri di il coniglio." start="106807" length="2789" >
+			<highlight index="0" start="72" length="704" />
+			<highlight index="1" start="789" length="348" />
+			<highlight index="2" start="1157" length="375" />
+			<highlight index="3" start="1506" length="447" />
+			<highlight index="4" start="1940" length="822" />
+			<subtitles>
+				<subtitle lang="en" line="The rabbit's hopping by." />
+				<subtitle lang="nz" line="The rabbit's hopping by." />
+			</subtitles>
+		</line>
+		<line words="Il coniglio." start="110432" length="2789" >
+			<highlight index="0" start="3" length="624" />
+			<highlight index="1" start="643" length="948" />
+			<subtitles>
+				<subtitle lang="en" line="The rabbit." />
+				<subtitle lang="nz" line="The rabbit." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri di il coniglio." start="115173" length="3347" >
+			<highlight index="0" start="694" length="569" />
+			<highlight index="1" start="1278" length="292" />
+			<highlight index="2" start="1618" length="182" />
+			<highlight index="3" start="1784" length="200" />
+			<highlight index="4" start="1997" length="1357" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the rabbit." />
+				<subtitle lang="nz" line="Yippee! Shouts the rabbit." />
+			</subtitles>
+		</line>
+		<line words="Il coniglio." start="119077" length="3347" >
+			<highlight index="0" start="55" length="464" />
+			<highlight index="1" start="536" length="826" />
+			<subtitles>
+				<subtitle lang="en" line="The rabbit." />
+				<subtitle lang="nz" line="The rabbit." />
+			</subtitles>
+		</line>
+		<line words="Di mi chi saltella?" start="128280" length="3347" >
+			<highlight index="0" start="299" length="332" />
+			<highlight index="1" start="607" length="442" />
+			<highlight index="2" start="1278" length="371" />
+			<highlight index="3" start="1665" length="710" />
+			<subtitles>
+				<subtitle lang="en" line="Whose that hopping by?" />
+				<subtitle lang="nz" line="Whose that hopping by?" />
+			</subtitles>
+		</line>
+		<line words="Di e mi chi corre?" start="131906" length="3067" >
+			<highlight index="0" start="28" length="333" />
+			<highlight index="1" start="347" length="275" />
+			<highlight index="2" start="687" length="492" />
+			<highlight index="3" start="1359" length="200" />
+			<highlight index="4" start="1678" length="795" />
+			<subtitles>
+				<subtitle lang="en" line="Whos that running?" />
+				<subtitle lang="nz" line="Whos that running?" />
+			</subtitles>
+		</line>
+		<line words="La pecora corre" start="136367" length="3347" >
+			<highlight index="0" start="866" length="853" />
+			<highlight index="1" start="1719" length="1041" />
+			<highlight index="2" start="2790" length="568" />
+			<subtitles>
+				<subtitle lang="en" line="The sheep is running." />
+				<subtitle lang="nz" line="The sheep is running." />
+			</subtitles>
+		</line>
+		<line words="La pecora corre" start="139993" length="2510" >
+			<highlight index="0" start="100" length="539" />
+			<highlight index="1" start="657" length="1172" />
+			<highlight index="2" start="1852" length="652" />
+			<subtitles>
+				<subtitle lang="en" line="The sheep is running." />
+				<subtitle lang="nz" line="The sheep is running." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da la pecora" start="145849" length="3625" >
+			<highlight index="0" start="444" length="590" />
+			<highlight index="1" start="1060" length="377" />
+			<highlight index="2" start="1461" length="248" />
+			<highlight index="3" start="1752" length="548" />
+			<highlight index="4" start="2410" length="1044" />
+			<subtitles>
+				<subtitle lang="nz" line="Yippee! Shouts the sheep, shouts the sheep." />
+			</subtitles>
+		</line>
+		<line words="La pecora." start="149204" length="3068" >
+			<highlight index="0" start="115" length="926" />
+			<highlight index="1" start="1057" length="774" />
+			<subtitles>
+				<subtitle lang="en" line="The sheep." />
+				<subtitle lang="nz" line="The sheep." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da la pecora." start="154773" length="3346" >
+			<highlight index="0" start="394" length="395" />
+			<highlight index="1" start="883" length="300" />
+			<highlight index="2" start="1262" length="245" />
+			<highlight index="3" start="1515" length="1057" />
+			<highlight index="4" start="2588" length="544" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the sheep." />
+				<subtitle lang="nz" line="Yippee! Shouts the sheep, shouts the sheep." />
+			</subtitles>
+		</line>
+		<line words="La pecora." start="158119" length="3068" >
+			<highlight index="0" start="355" length="763" />
+			<highlight index="1" start="1172" length="858" />
+			<subtitles>
+				<subtitle lang="nz" line="The sheep" />
+			</subtitles>
+		</line>
+		<line words="Di e mi chi balla?" start="166745" length="3626" >
+			<highlight index="0" start="1051" length="360" />
+			<highlight index="1" start="1419" length="200" />
+			<highlight index="2" start="1718" length="402" />
+			<highlight index="3" start="2155" length="325" />
+			<highlight index="4" start="2522" length="838" />
+			<subtitles>
+				<subtitle lang="en" line="Who is that dancing?" />
+				<subtitle lang="nz" line="Who is that dancing?" />
+			</subtitles>
+		</line>
+		<line words="Di e mi chi balla?" start="171226" length="3068" >
+			<highlight index="0" start="166" length="601" />
+			<highlight index="1" start="774" length="200" />
+			<highlight index="2" start="984" length="376" />
+			<highlight index="3" start="1374" length="200" />
+			<highlight index="4" start="1599" length="405" />
+			<subtitles>
+				<subtitle lang="nz" line="Who is that dancing?" />
+			</subtitles>
+		</line>
+		<line words="La mucca balla." start="175688" length="3347" >
+			<highlight index="0" start="884" length="965" />
+			<highlight index="1" start="1878" length="539" />
+			<highlight index="2" start="2482" length="865" />
+			<subtitles>
+				<subtitle lang="en" line="Its the cow  dancing." />
+				<subtitle lang="nz" line="Its the cow  dancing." />
+			</subtitles>
+		</line>
+		<line words="La mucca balla." start="179314" length="3067" >
+			<highlight index="0" start="101" length="528" />
+			<highlight index="1" start="651" length="1562" />
+			<highlight index="2" start="2227" length="579" />
+			<subtitles>
+				<subtitle lang="en" line="It's the cow dancing." />
+				<subtitle lang="nz" line="Its the cow  dancing." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da la mucca." start="184333" length="3905" >
+			<highlight index="0" start="1392" length="467" />
+			<highlight index="1" start="1865" length="296" />
+			<highlight index="2" start="2253" length="250" />
+			<highlight index="3" start="2648" length="316" />
+			<highlight index="4" start="3240" length="664" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the cow!" />
+				<subtitle lang="nz" line="Yippee! Shouts the cow!" />
+			</subtitles>
+		</line>
+		<line words="La mucca" start="188795" length="2789" >
+			<highlight index="0" start="78" length="1073" />
+			<highlight index="1" start="1269" length="731" />
+			<subtitles>
+				<subtitle lang="en" line="The cow." />
+				<subtitle lang="nz" line="The cow." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da la mucca." start="193257" length="3904" >
+			<highlight index="0" start="1222" length="496" />
+			<highlight index="1" start="1744" length="247" />
+			<highlight index="2" start="2080" length="256" />
+			<highlight index="3" start="2334" length="325" />
+			<highlight index="4" start="2941" length="861" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the cow." />
+				<subtitle lang="nz" line="Yippee! Shouts the cow." />
+			</subtitles>
+		</line>
+		<line words="La mucca." start="197719" length="3068" >
+			<highlight index="0" start="28" length="796" />
+			<highlight index="1" start="1013" length="999" />
+			<subtitles>
+				<subtitle lang="en" line="The cow." />
+				<subtitle lang="nz" line="The cow." />
+			</subtitles>
+		</line>
+		<line words="Di e mi chi nuota?" start="206085" length="3904" >
+			<highlight index="0" start="1197" length="293" />
+			<highlight index="1" start="1521" length="305" />
+			<highlight index="2" start="1883" length="449" />
+			<highlight index="3" start="2350" length="499" />
+			<highlight index="4" start="2874" length="855" />
+			<subtitles>
+				<subtitle lang="nz" line="Who is swimming by?" />
+			</subtitles>
+		</line>
+		<line words="Di e mi chi nuota?" start="210272" length="4000" >
+			<highlight index="0" start="62" length="412" />
+			<highlight index="1" start="474" length="200" />
+			<highlight index="2" start="697" length="332" />
+			<highlight index="3" start="1172" length="528" />
+			<highlight index="4" start="1789" length="1601" />
+			<subtitles>
+				<subtitle lang="en" line="Whos that swimming?" />
+				<subtitle lang="nz" line="Who is swimming by?" />
+			</subtitles>
+		</line>
+		<line words="L'anatra nuota!" start="215009" length="3625" >
+			<highlight index="0" start="855" length="2133" />
+			<highlight index="1" start="2970" length="611" />
+			<subtitles>
+				<subtitle lang="en" line="It's the duck swimming!" />
+				<subtitle lang="nz" line="It's the duck swimming!" />
+			</subtitles>
+		</line>
+		<line words="L'anatra nuota!" start="218913" length="3068" >
+			<highlight index="0" start="13" length="1764" />
+			<highlight index="1" start="1770" length="927" />
+			<subtitles>
+				<subtitle lang="en" line="It's the duck swimming!" />
+				<subtitle lang="nz" line="It's the duck swimming!" />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da l'anatra." start="225048" length="3068" >
+			<highlight index="0" start="34" length="515" />
+			<highlight index="1" start="555" length="666" />
+			<highlight index="2" start="1228" length="529" />
+			<highlight index="3" start="1784" length="858" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the duck." />
+				<subtitle lang="nz" line="Yippee! Shouts the duck" />
+			</subtitles>
+		</line>
+		<line words="Cri da l'anatra" start="228029" length="3347" >
+			<highlight index="0" start="7" length="517" />
+			<highlight index="1" start="531" length="345" />
+			<highlight index="2" start="943" length="1303" />
+			<subtitles>
+				<subtitle lang="nz" line="The duck is swimming by." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da l'anatra." start="232299" length="3904" >
+			<highlight index="0" start="1039" length="812" />
+			<highlight index="1" start="1869" length="707" />
+			<highlight index="2" start="2585" length="288" />
+			<highlight index="3" start="2917" length="987" />
+			<subtitles>
+				<subtitle lang="en" line="Yippee! Shouts the duck." />
+				<subtitle lang="nz" line="Yippee! Shouts the duck." />
+			</subtitles>
+		</line>
+		<line words="Iuppi! Cri da l'anatra." start="232299" length="3904" >
+			<highlight index="0" start="1039" length="812" />
+			<highlight index="1" start="1869" length="707" />
+			<highlight index="2" start="2585" length="288" />
+			<highlight index="3" start="2917" length="987" />
+			<subtitles>
+				<subtitle lang="nz" line="Yippee! Shouts the duck." />
+			</subtitles>
+		</line>
+		<line words="L'anatra." start="237319" length="4000" >
+			<highlight index="0" start="554" length="940" />
+			<subtitles>
+				<subtitle lang="en" line="The duck." />
+				<subtitle lang="nz" line="The duck." />
+			</subtitles>
+		</line>
+		<line words="L'anatra." start="237319" length="4000" >
+			<highlight index="0" start="554" length="940" />
+			<subtitles>
+				<subtitle lang="nz" line="The duck." />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

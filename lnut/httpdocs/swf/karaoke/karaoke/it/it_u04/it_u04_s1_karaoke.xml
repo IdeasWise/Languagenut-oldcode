@@ -1,0 +1,1775 @@
+<?xml version="1.0"?>
+<karaoke length="123768">
+  <lines>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="4800" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="651"/>
+      <highlight index="2" start="2009" length="416"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="8547" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="651"/>
+      <highlight index="2" start="2009" length="416"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="12411" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="349"/>
+      <highlight index="8" start="3204" length="534"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="dm" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ng" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="bw" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="au" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ae" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="to" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ws" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="zm" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ug" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="fj" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ca" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="jm" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="pk" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="tz" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="vu" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="bd" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ke" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="sb" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="za" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="tt" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="mu" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="fr" line="et les yeux les oreilles, le nez et la bouche "/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears. mouth and nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears. mouth and nose."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="16158" length="3974">
+      <highlight index="0" start="420" length="611"/>
+      <highlight index="1" start="1137" length="411"/>
+      <highlight index="2" start="1533" length="501"/>
+      <highlight index="3" start="2009" length="416"/>
+      <highlight index="4" start="2450" length="451"/>
+      <highlight index="5" start="2886" length="772"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia ______, ginocchia ______." start="23301" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og ____, kn&#xE6; og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="au" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="to" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="na" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en ____, knie en ____"/>
+        <subtitle lang="us" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="za" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux ______, genoux ______"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie, Knie"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees ____, knees ____."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia ______, ginocchia ______." start="27165" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="473"/>
+      <highlight index="2" start="1826" length="565"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og ____, kn&#xE6; og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="au" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="to" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="na" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en ____, knie en ____"/>
+        <subtitle lang="us" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="za" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux ______, genoux ______"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie, Knie_"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees ____, knees ____."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="30912" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="349"/>
+      <highlight index="8" start="3204" length="534"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ng" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="au" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ae" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="to" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ws" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="zm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ug" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fj" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ca" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="jm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pk" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="vu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bd" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ke" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sb" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="za" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fr" line="Et les yeux, les oreilles, le nez et la bouche"/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears, mouth, nose."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia ______, ginocchia ______." start="34813" length="3974">
+      <highlight index="0" start="266" length="765"/>
+      <highlight index="1" start="1060" length="411"/>
+      <highlight index="2" start="1450" length="584"/>
+      <highlight index="3" start="2009" length="416"/>
+      <highlight index="4" start="2450" length="451"/>
+      <highlight index="5" start="2886" length="772"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og ____, kn&#xE6; og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="au" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="to" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="na" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en ____, knie en ____"/>
+        <subtitle lang="us" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="za" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="fr" line="Tete, epaules, genoux ______, genoux ______"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y _____, rodillas y _____"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees ____, knees ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie, Knie"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees ____, knees ____."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle _________, ______, _________, _______." start="41919" length="3974">
+      <highlight index="0" start="499" length="693"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bz" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="mt" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="rw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gy" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sg" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bs" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nz" line="Heads, shoulders _____, ____, _____, ____"/>
+        <subtitle lang="jm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="na" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gh" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="vc" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, epaules  ..."/>
+        <subtitle lang="bo" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sl" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sco" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="zw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter ________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, shoulders _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle _________, ______, _________, _______." start="45783" length="3676">
+      <highlight index="0" start="283" length="611"/>
+      <highlight index="1" start="1075" length="566"/>
+      <highlight index="2" start="1611" length="511"/>
+      <highlight index="3" start="2112" length="471"/>
+      <highlight index="4" start="2568" length="511"/>
+      <highlight index="5" start="3064" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bz" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="mt" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="rw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gy" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sg" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bs" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nz" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="jm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="na" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gh" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gm" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="vc" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, epaules  ..."/>
+        <subtitle lang="bo" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sl" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sco" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="zw" line="Heads, shoulders _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter ________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, shoulders _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="49296" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="349"/>
+      <highlight index="8" start="3204" length="534"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ng" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="au" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ae" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="to" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ws" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="zm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ug" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fj" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ca" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="jm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pk" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="vu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bd" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ke" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sb" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="za" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fr" line="Et les yeux, les oreilles, le nez et la bouche"/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears, mouth, nose."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, _________, ______, _________, _______." start="53160" length="3676">
+      <highlight index="0" start="283" length="611"/>
+      <highlight index="1" start="1075" length="566"/>
+      <highlight index="2" start="1611" length="511"/>
+      <highlight index="3" start="2112" length="471"/>
+      <highlight index="4" start="2568" length="511"/>
+      <highlight index="5" start="3064" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bz" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved, skuldre ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="pr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="mt" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="rw" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gy" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sg" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="do" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="bs" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nz" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="jm" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="py" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="na" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gh" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gm" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="nl" line="Hoofd, schouders, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sp" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="vc" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, epaules  ..."/>
+        <subtitle lang="bo" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sl" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="sco" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="gt" line="Cabeza, hombros, ________   _____, ________  _____"/>
+        <subtitle lang="zw" line="Heads, shoulders, _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, Schulter ________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, shoulders, _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="Testa, ______, _________, ______, _________, _______." start="59951" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved ______ , ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="jm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="Hoofd, _________, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, ...."/>
+        <subtitle lang="bo" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, _________, _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="Testa, ______, _________, ______, _________, _______." start="63646" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved ______ , ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="jm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="Hoofd, _________, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, ...."/>
+        <subtitle lang="bo" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, _________, _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="67490" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="349"/>
+      <highlight index="8" start="3204" length="534"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ng" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="au" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ae" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="to" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ws" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="zm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ug" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fj" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ca" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="jm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pk" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="vu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bd" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ke" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sb" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="za" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fr" line="Et les yeux, les oreilles, le nez et la bouche"/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears, mouth, nose."/>
+			</subtitles>
+    </line>
+    <line words="Testa, ______, _________, ______, _________, _______." start="71310" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ng" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ni" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="dk" line="Hoved ______ , ____ og ____, ____ og ____"/>
+        <subtitle lang="ag" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="au" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ec" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ae" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="to" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="es" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ws" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pe" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="zm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ve" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mx" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ug" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fj" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ca" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="co" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="jm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pk" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tz" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ar" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cu" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sv" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="vu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cl" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="Hoofd, _________, _____ en ____, _____ en ____"/>
+        <subtitle lang="us" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="bd" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ke" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="sb" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="cr" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="za" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="tt" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="mu" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="fr" line="Tete, ...."/>
+        <subtitle lang="bo" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="pa" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="hn" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="Cabeza, ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="Heads, _________, _____, ____, _____, ____."/>
+        <subtitle lang="ge" line="Kopf, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="Heads, _________, _____, ____, _____, ____."/>
+			</subtitles>
+    </line>
+    <line words="_____, ______, _________, ______, _________, _______." start="78569" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="dm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ng" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ni" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="dk" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ag" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="bw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="au" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ec" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ae" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="to" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="es" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ws" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pe" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="zm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ve" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="mx" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ug" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="fj" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ca" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="co" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="jm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pk" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="tz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ar" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cu" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="sv" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="vu" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cl" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="us" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="bd" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ke" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="sb" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="za" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="tt" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="mu" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="fr" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="bo" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pa" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="hn" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ge" line="_____, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="_____, ______, _________, ______, _________, _______."/>
+			</subtitles>
+    </line>
+    <line words="_____, ______, _________, ______, _________, _______." start="82316" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="dm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ng" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ni" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="dk" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ag" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="bw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="au" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ec" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ae" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="to" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="es" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ws" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pe" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="zm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ve" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="mx" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ug" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="fj" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ca" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="co" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="jm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pk" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="tz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ar" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cu" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="sv" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="vu" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cl" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="us" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="bd" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ke" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="sb" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="cr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="za" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="tt" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="mu" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="fr" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="bo" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="pa" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="hn" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="ge" line="_____, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="_____, ______, _________, ______, _________, _______."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="86063" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="477"/>
+      <highlight index="8" start="3333" length="616"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ng" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="au" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ae" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="to" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ws" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="zm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ug" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fj" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ca" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="jm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pk" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="vu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bd" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ke" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sb" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="za" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fr" line="Et les yeux, les oreilles, le nez et la bouche"/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears, mouth, nose."/>
+			</subtitles>
+    </line>
+    <line words="_____, ______, _________ ______, _________ _______" start="89927" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="566"/>
+      <highlight index="2" start="1909" length="511"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="dm" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ng" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ni" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bz" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="dk" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ag" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="bw" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="au" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ec" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="pr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="mt" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ae" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="to" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="es" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="rw" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ws" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="pe" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gy" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="zm" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ve" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sg" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="mx" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="do" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="bs" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ug" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="fj" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ca" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="co" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nz" line="_____, ______, _________, ______, _________, _______."/>
+        <subtitle lang="jm" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="pk" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="tz" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ar" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="py" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="na" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="cu" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gh" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="sv" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gm" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="vu" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="cl" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="nl" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="us" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="bd" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ke" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="sb" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="cr" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sp" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="vc" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="za" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="tt" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="mu" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="fr" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="bo" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sl" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="pa" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="sco" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="hn" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="gt" line="______ , ________ , ________  _____ , ________ _____"/>
+        <subtitle lang="zw" line="_____, ______, _________, ______, _________, _______"/>
+        <subtitle lang="ge" line="_____, ______, _________ ______, _________ _______"/>
+      <subtitle lang="ine" line="_____, ______, _________, ______, _________, _______"/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="97304" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="425"/>
+      <highlight index="2" start="1783" length="642"/>
+      <highlight index="3" start="2410" length="471"/>
+      <highlight index="4" start="2866" length="511"/>
+      <highlight index="5" start="3362" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="100934" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="425"/>
+      <highlight index="2" start="1783" length="552"/>
+      <highlight index="3" start="2325" length="421"/>
+      <highlight index="4" start="2741" length="596"/>
+      <highlight index="5" start="3317" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+    <line words="e gli occhi le orecchie la bocca e il naso" start="104447" length="4073">
+      <highlight index="0" start="128" length="185"/>
+      <highlight index="1" start="297" length="200"/>
+      <highlight index="2" start="482" length="483"/>
+      <highlight index="3" start="1119" length="252"/>
+      <highlight index="4" start="1366" length="570"/>
+      <highlight index="5" start="2198" length="200"/>
+      <highlight index="6" start="2383" length="518"/>
+      <highlight index="7" start="2876" length="349"/>
+      <highlight index="8" start="3204" length="534"/>
+      <subtitles>
+        <subtitle lang="en" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ng" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ni" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="dk" line="Og &#xF8;jne, &#xF8;rer, n&#xE6;se, mund"/>
+        <subtitle lang="ag" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="au" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ec" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="pr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="mt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ae" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="to" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="es" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="rw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ws" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pe" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gy" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="zm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ve" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sg" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mx" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="do" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="bs" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ug" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fj" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ca" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="co" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="jm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pk" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tz" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ar" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="py" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="na" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cu" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gh" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sv" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gm" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="vu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cl" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="nl" line="Oren, ogen, puntje van je neus"/>
+        <subtitle lang="us" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="bd" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ke" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="sb" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="cr" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sp" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="vc" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="za" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="tt" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="mu" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="fr" line="Et les yeux, les oreilles, le nez et la bouche "/>
+        <subtitle lang="bo" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sl" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="pa" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="sco" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="hn" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="gt" line="y ojos, orejas, nariz y boca"/>
+        <subtitle lang="zw" line="And eyes, ears, mouth, nose."/>
+        <subtitle lang="ge" line="Und die Augen, die Ohren, die  Nase, der Mund"/>
+      <subtitle lang="ine" line="And eyes, ears, mouth, nose."/>
+			</subtitles>
+    </line>
+    <line words="Testa, spalle, ginocchia, piedi, ginocchia, piedi." start="108311" length="3974">
+      <highlight index="0" start="581" length="611"/>
+      <highlight index="1" start="1373" length="425"/>
+      <highlight index="2" start="1783" length="552"/>
+      <highlight index="3" start="2325" length="421"/>
+      <highlight index="4" start="2741" length="526"/>
+      <highlight index="5" start="3247" length="501"/>
+      <subtitles>
+        <subtitle lang="en" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ng" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ni" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="dk" line="Hoved, skuldre, kn&#xE6; og t&#xE5;, kn&#xE6; og t&#xE5;"/>
+        <subtitle lang="ag" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="au" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ec" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="pr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="mt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ae" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="to" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="es" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="rw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ws" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pe" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gy" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="zm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ve" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sg" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mx" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="do" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="bs" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ug" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fj" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ca" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="co" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="jm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pk" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tz" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ar" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="py" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="na" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cu" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gh" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sv" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gm" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="vu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cl" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="nl" line="Hoofd, schouders, knie en teen, knie en teen"/>
+        <subtitle lang="us" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="bd" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ke" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="sb" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="cr" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sp" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="vc" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="za" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="tt" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="mu" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="fr" line="Tete, epaules genoux pieds, genoux pieds"/>
+        <subtitle lang="bo" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sl" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="pa" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="sco" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="hn" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="gt" line="Cabeza, hombros, rodillas y dedos, rodillas y dedos"/>
+        <subtitle lang="zw" line="Heads, shoulders, knees, toes, knees, toes."/>
+        <subtitle lang="ge" line="Kopf, Schulter, Knie und Fu&#xDF;, Knie und Fu&#xDF;"/>
+      <subtitle lang="ine" line="Heads, shoulders, knees, toes, knees, toes."/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

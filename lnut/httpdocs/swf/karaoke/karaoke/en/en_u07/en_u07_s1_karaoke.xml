@@ -1,0 +1,989 @@
+<karaoke length="128104">
+  <lines>
+    <line words="How do you go to school, my friend?" start="8958" length="4524">
+      <highlight index="0" start="934" length="247"/>
+      <highlight index="1" start="1157" length="258"/>
+      <highlight index="2" start="1398" length="288"/>
+      <highlight index="3" start="1668" length="711"/>
+      <highlight index="4" start="2438" length="200"/>
+      <highlight index="5" start="2626" length="728"/>
+      <highlight index="6" start="3436" length="318"/>
+      <highlight index="7" start="3742" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school on foot, my friend." start="13571" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1858" length="334"/>
+      <highlight index="5" start="2207" length="458"/>
+      <highlight index="6" start="2774" length="328"/>
+      <highlight index="7" start="3097" length="552"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="ge" line="Ich geh zu Fuß zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र, मैं स्कूल पैदल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg går til skole, min ven"/>
+        <subtitle lang="co" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة سيرا على الأقدام، يا صديقي"/>
+        <subtitle lang="es" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة سيرا على الأقدام، يا صديقي"/>
+        <subtitle lang="ec" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="so" line="Saxiib, aniga waan u lugeeyaa iskuul."/>
+        <subtitle lang="it" line="io vado a scuola a piedi, amico mio"/>
+        <subtitle lang="mx" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="cn" line="我是走路去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة سيرا على الأقدام، يا صديقي"/>
+        <subtitle lang="cu" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga altijd lopend naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela a pie, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela a pie, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="How do you go to school, my friend?" start="16964" length="4524">
+      <highlight index="0" start="934" length="247"/>
+      <highlight index="1" start="1157" length="205"/>
+      <highlight index="2" start="1368" length="394"/>
+      <highlight index="3" start="1750" length="664"/>
+      <highlight index="4" start="2396" length="200"/>
+      <highlight index="5" start="2584" length="647"/>
+      <highlight index="6" start="3436" length="318"/>
+      <highlight index="7" start="3742" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school by bus, my friend." start="21487" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1895" length="334"/>
+      <highlight index="5" start="2233" length="401"/>
+      <highlight index="6" start="2774" length="328"/>
+      <highlight index="7" start="3097" length="552"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="ge" line="Ich fahre mit dem Bus zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र, मैं बस से स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg tager bussen til skole, min ven"/>
+        <subtitle lang="co" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة بالباص, يا صديقي"/>
+        <subtitle lang="es" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة بالباص, يا صديقي"/>
+        <subtitle lang="ec" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="so" line="Saaxiib, aniga waxaan raacaa bas."/>
+        <subtitle lang="it" line="io vado a scuola in pullman, amico mio"/>
+        <subtitle lang="mx" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="cn" line="我是坐公车去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة بالباص, يا صديقي"/>
+        <subtitle lang="cu" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga met de bus naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela en camión, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela en camión, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="In England, I go to school." start="25497" length="4421">
+      <highlight index="0" start="551" length="493"/>
+      <highlight index="1" start="1389" length="1021"/>
+      <highlight index="2" start="2399" length="276"/>
+      <highlight index="3" start="2640" length="476"/>
+      <highlight index="4" start="3186" length="303"/>
+      <highlight index="5" start="3467" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="In England, I go to school."/>
+        <subtitle lang="do" line="In England, I go to school."/>
+        <subtitle lang="ni" line="In England, I go to school."/>
+        <subtitle lang="ge" line="In England, geht er zur Schule."/>
+        <subtitle lang="in" line="इंग्लैंड में, मैं स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="I England går jeg i skole."/>
+        <subtitle lang="co" line="In England, I go to school."/>
+        <subtitle lang="sv" line="In England, I go to school."/>
+        <subtitle lang="saa" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="es" line="In England, I go to school."/>
+        <subtitle lang="me" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="In England, I go to school."/>
+        <subtitle lang="ar" line="In England, I go to school."/>
+        <subtitle lang="so" line="Dalka Ingriiska, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="In Inghilterra io vado a scuola"/>
+        <subtitle lang="mx" line="In England, I go to school."/>
+        <subtitle lang="pa" line="In England, I go to school."/>
+        <subtitle lang="ve" line="In England, I go to school."/>
+        <subtitle lang="hn" line="In England, I go to school."/>
+        <subtitle lang="cn" line="在英国，我去上学"/>
+        <subtitle lang="lba" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="In England, I go to school."/>
+        <subtitle lang="cr" line="In England, I go to school."/>
+        <subtitle lang="nl" line="In Engeland ga ik naar school."/>
+        <subtitle lang="pe" line="In England, I go to school."/>
+        <subtitle lang="cl" line="In England, I go to school."/>
+        <subtitle lang="sp" line="In England, I go to school."/>
+        <subtitle lang="py" line="In England, I go to school."/>
+        <subtitle lang="pr" line="In England, I go to school."/>
+        <subtitle lang="gt" line="In England, I go to school."/>
+      </subtitles>
+    </line>
+    <line words="In America, you go to school." start="29609" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2336" length="276"/>
+      <highlight index="3" start="2640" length="476"/>
+      <highlight index="4" start="3105" length="201"/>
+      <highlight index="5" start="3295" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="do" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ni" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ge" line="In America, gehst du zur Schule."/>
+        <subtitle lang="in" line="अमेरिका में, तुम स्कूल जाते हो।"/>
+        <subtitle lang="dk" line="I USA går du i skole."/>
+        <subtitle lang="co" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sv" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="saa" line="في أمريكا،  أنت تذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="me" line="في أمريكا،  أنت تذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ar" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="so" line="Dalka Ameerika, adiga waxaad aadaa iskuul."/>
+        <subtitle lang="it" line="in America tu vai a scuola"/>
+        <subtitle lang="mx" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pa" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ve" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="hn" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cn" line="在美国，你去上学"/>
+        <subtitle lang="lba" line="في أمريكا،  أنت تذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="nl" line="In Amerika ga jij naar school."/>
+        <subtitle lang="pe" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cl" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sp" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="py" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="gt" line="En Estados Unidos, voy a la escuela ."/>
+      </subtitles>
+    </line>
+    <line words="In Canada, he goes to school." start="33722" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2198" length="351"/>
+      <highlight index="3" start="2531" length="442"/>
+      <highlight index="4" start="3105" length="201"/>
+      <highlight index="5" start="3295" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="do" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ni" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ge" line="In Kanada, geht er zur Schule."/>
+        <subtitle lang="in" line="कनाडा में, वह स्कूल जाता है"/>
+        <subtitle lang="dk" line="I Canada går han i skole."/>
+        <subtitle lang="co" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sv" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="saa" line="‎في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="me" line="‎في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ar" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Kanada, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Canada lui va a scuola"/>
+        <subtitle lang="mx" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pa" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ve" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="hn" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cn" line="在加拿大，他去上学"/>
+        <subtitle lang="lba" line="‎في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="nl" line="In Canada gaat hij naar school."/>
+        <subtitle lang="pe" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cl" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sp" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="py" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="gt" line="En Canadá, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="In Jamaica, she goes to school." start="37834" length="4421">
+      <highlight index="0" start="200" length="402"/>
+      <highlight index="1" start="591" length="1021"/>
+      <highlight index="2" start="1940" length="522"/>
+      <highlight index="3" start="2440" length="384"/>
+      <highlight index="4" start="2795" length="201"/>
+      <highlight index="5" start="2956" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="do" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ni" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ge" line="In Jamaika, geht sie zur Schule."/>
+        <subtitle lang="in" line="जमैका में, वह स्कूल जाती है।"/>
+        <subtitle lang="dk" line="På Jamaica går hun i skole."/>
+        <subtitle lang="co" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sv" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="saa" line="في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="me" line="في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ar" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Jameeka, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Jamaica lei va a scuola"/>
+        <subtitle lang="mx" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pa" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ve" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="hn" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cn" line="在牙买加，她去上学"/>
+        <subtitle lang="lba" line="في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="nl" line="In Jamaica gaat zij naar school."/>
+        <subtitle lang="pe" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cl" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sp" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="py" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="gt" line="En Jamaica, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="How do you go to school, my friend?" start="40919" length="4524">
+      <highlight index="0" start="934" length="247"/>
+      <highlight index="1" start="1157" length="258"/>
+      <highlight index="2" start="1398" length="329"/>
+      <highlight index="3" start="1703" length="711"/>
+      <highlight index="4" start="2396" length="200"/>
+      <highlight index="5" start="2584" length="505"/>
+      <highlight index="6" start="3436" length="318"/>
+      <highlight index="7" start="3742" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school on the train, my friend." start="45442" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1895" length="334"/>
+      <highlight index="5" start="2238" length="250"/>
+      <highlight index="6" start="2483" length="406"/>
+      <highlight index="7" start="3097" length="313"/>
+      <highlight index="8" start="3389" length="386"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="ge" line="Ich fahre mit dem Zug zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र, मैं ट्रेन से स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg tager toget til skole, min ven"/>
+        <subtitle lang="co" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة بالقطار, يا صديقي"/>
+        <subtitle lang="es" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة بالقطار, يا صديقي"/>
+        <subtitle lang="ec" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="so" line="Saaxiib, aniga waxaan raacaa tareen."/>
+        <subtitle lang="it" line="io vado a scuola in treno, amico mio"/>
+        <subtitle lang="mx" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="cn" line="我是坐火车去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة بالقطار, يا صديقي"/>
+        <subtitle lang="cu" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga met de trein naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela en tren, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela en tren, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="How do you go to school, my friend?" start="48938" length="4524">
+      <highlight index="0" start="934" length="247"/>
+      <highlight index="1" start="1157" length="258"/>
+      <highlight index="2" start="1398" length="329"/>
+      <highlight index="3" start="1703" length="711"/>
+      <highlight index="4" start="2396" length="200"/>
+      <highlight index="5" start="2584" length="741"/>
+      <highlight index="6" start="3436" length="318"/>
+      <highlight index="7" start="3742" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school by tube, my friend." start="53565" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1895" length="334"/>
+      <highlight index="5" start="2249" length="411"/>
+      <highlight index="6" start="2852" length="328"/>
+      <highlight index="7" start="3160" length="578"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="ge" line="Ich fahre mit der U-Bahn zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र, मैं भूमिगत रेल से स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg tager undergrunden til skole, min ven"/>
+        <subtitle lang="co" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة بقطار الأنفاق، يا صديقي."/>
+        <subtitle lang="es" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة بقطار الأنفاق، يا صديقي."/>
+        <subtitle lang="ec" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="so" line="Saaxiib, aniga waxaan raacaa tareenka dhulka hoos ku socdo."/>
+        <subtitle lang="it" line="io vado a scuola in metro, amico mio"/>
+        <subtitle lang="mx" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="cn" line="我是乘地铁去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة بقطار الأنفاق، يا صديقي."/>
+        <subtitle lang="cu" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga met de metro naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela en metro, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela en metro, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="In England, I go to school." start="57369" length="4421">
+      <highlight index="0" start="551" length="493"/>
+      <highlight index="1" start="1389" length="1021"/>
+      <highlight index="2" start="2399" length="276"/>
+      <highlight index="3" start="2640" length="476"/>
+      <highlight index="4" start="3186" length="303"/>
+      <highlight index="5" start="3467" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="do" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ni" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ge" line="In England, geht er zur Schule."/>
+        <subtitle lang="in" line="इंग्लैंड में, मैं स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="I England går jeg i skole."/>
+        <subtitle lang="co" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="sv" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="saa" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="me" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ar" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Ingriiska, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Italia io vado a scuola"/>
+        <subtitle lang="mx" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="pa" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ve" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="hn" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cn" line="在英国，我去上学"/>
+        <subtitle lang="lba" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cr" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="nl" line="In Engeland ga ik naar school."/>
+        <subtitle lang="pe" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cl" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="sp" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="py" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="pr" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="gt" line="En Inglaterra, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="In America, you go to school." start="61687" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2296" length="287"/>
+      <highlight index="3" start="2577" length="454"/>
+      <highlight index="4" start="3025" length="281"/>
+      <highlight index="5" start="3295" length="672"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="do" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ni" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ge" line="In America, gehst du zur Schule."/>
+        <subtitle lang="in" line="अमेरिका में, तुम स्कूल जाते हो।"/>
+        <subtitle lang="dk" line="I USA går du i skole."/>
+        <subtitle lang="co" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sv" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="saa" line="في أمريكا، أنت تذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="me" line="في أمريكا، أنت تذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ar" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="so" line="Dalka Ameerika, adiga waxaad aadaa iskuul."/>
+        <subtitle lang="it" line="in America tu vai a scuola"/>
+        <subtitle lang="mx" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pa" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ve" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="hn" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cn" line="在美国，你去上学"/>
+        <subtitle lang="lba" line="في أمريكا، أنت تذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="nl" line="In Amerika ga jij naar school."/>
+        <subtitle lang="pe" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cl" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sp" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="py" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="gt" line="En Estados Unidos, voy a la escuela ."/>
+      </subtitles>
+    </line>
+    <line words="In Canada, he goes to school." start="65696" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2198" length="351"/>
+      <highlight index="3" start="2531" length="442"/>
+      <highlight index="4" start="3105" length="201"/>
+      <highlight index="5" start="3295" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="do" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ni" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ge" line="In Kanada, geht er zur Schule."/>
+        <subtitle lang="in" line="कनाडा में, वह स्कूल जाता है"/>
+        <subtitle lang="dk" line="I Canada går han i skole."/>
+        <subtitle lang="co" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sv" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="saa" line="في كندا ، هو يذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="me" line="في كندا ، هو يذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ar" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Kanada, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Canada lui va a scuola"/>
+        <subtitle lang="mx" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pa" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ve" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="hn" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cn" line="在加拿大，他去上学"/>
+        <subtitle lang="lba" line="في كندا ، هو يذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="nl" line="In Canada gaat hij naar school."/>
+        <subtitle lang="pe" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cl" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sp" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="py" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="gt" line="En Canadá, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="In Jamaica, she goes to school." start="69912" length="4421">
+      <highlight index="0" start="200" length="402"/>
+      <highlight index="1" start="591" length="1021"/>
+      <highlight index="2" start="1940" length="522"/>
+      <highlight index="3" start="2440" length="384"/>
+      <highlight index="4" start="2795" length="201"/>
+      <highlight index="5" start="2956" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="do" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ni" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ge" line="In Jamaika, geht sie zur Schule."/>
+        <subtitle lang="in" line="जमैका में, वह स्कूल जाती है।"/>
+        <subtitle lang="dk" line="På Jamaica går hun i skole."/>
+        <subtitle lang="co" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sv" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="saa" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="me" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ar" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Jameeka, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="In Jamaica lei va a scuola"/>
+        <subtitle lang="mx" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pa" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ve" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="hn" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cn" line="在牙买加，她去上学"/>
+        <subtitle lang="lba" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="nl" line="In Jamaica gaat zij naar school."/>
+        <subtitle lang="pe" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cl" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sp" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="py" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="gt" line="En Jamaica, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="How do you go to school, my friend?" start="72996" length="4524">
+      <highlight index="0" start="934" length="247"/>
+      <highlight index="1" start="1157" length="258"/>
+      <highlight index="2" start="1380" length="329"/>
+      <highlight index="3" start="1691" length="711"/>
+      <highlight index="4" start="2396" length="312"/>
+      <highlight index="5" start="2702" length="605"/>
+      <highlight index="6" start="3436" length="318"/>
+      <highlight index="7" start="3742" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school by bike, my friend." start="77726" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1895" length="307"/>
+      <highlight index="5" start="2170" length="427"/>
+      <highlight index="6" start="2675" length="427"/>
+      <highlight index="7" start="3082" length="552"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="ge" line="Ich fahre mit dem Rad zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र मैं साइकिल से स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg cykler til skole, min ven."/>
+        <subtitle lang="co" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة بالدراجة, يا صديقي"/>
+        <subtitle lang="es" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة بالدراجة, يا صديقي"/>
+        <subtitle lang="ec" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="so" line="Saaxiib aniga waxaan u takaa bushkuleeti"/>
+        <subtitle lang="it" line="io vado a scuola in bicicletta, amico mio"/>
+        <subtitle lang="mx" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="cn" line="我是骑单车去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة بالدراجة, يا صديقي"/>
+        <subtitle lang="cu" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga op de fiets naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela en bici, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela en bici, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="How do you go to school, my friend?" start="81530" length="4524">
+      <highlight index="0" start="434" length="346"/>
+      <highlight index="1" start="740" length="258"/>
+      <highlight index="2" start="975" length="293"/>
+      <highlight index="3" start="1245" length="581"/>
+      <highlight index="4" start="1838" length="293"/>
+      <highlight index="5" start="2109" length="716"/>
+      <highlight index="6" start="2960" length="318"/>
+      <highlight index="7" start="3248" length="664"/>
+      <subtitles>
+        <subtitle lang="bo" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="do" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ni" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ge" line="Wie kommst du zur Schule, mein Freund?"/>
+        <subtitle lang="in" line="मेरे मित्र, तुम स्कूल कैसे जाते हो?"/>
+        <subtitle lang="dk" line="Hvordan kommer du til skole, min ven?"/>
+        <subtitle lang="co" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sv" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="saa" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="es" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="me" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="ec" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ar" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="so" line="Saahiib, sidee u taktaa iskuul?"/>
+        <subtitle lang="it" line="come vai a scuola, amico mio?"/>
+        <subtitle lang="mx" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pa" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="ve" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="hn" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cn" line="你是怎么去学校的？我的朋友"/>
+        <subtitle lang="lba" line="‎كيف تذهب إلى المدرسة، يا صديقي؟"/>
+        <subtitle lang="cu" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="nl" line="Hoe ga jij naar school, mijn vriend?"/>
+        <subtitle lang="pe" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="cl" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="sp" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="py" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="pr" line="¿Cómo te vas a la escuela, mi amigo?"/>
+        <subtitle lang="gt" line="¿Cómo te vas a la escuela, mi amigo?"/>
+      </subtitles>
+    </line>
+    <line words="I go to school by car, my friend." start="85539" length="4009">
+      <highlight index="0" start="150" length="438"/>
+      <highlight index="1" start="577" length="323"/>
+      <highlight index="2" start="890" length="200"/>
+      <highlight index="3" start="1077" length="693"/>
+      <highlight index="4" start="1962" length="307"/>
+      <highlight index="5" start="2259" length="401"/>
+      <highlight index="6" start="2780" length="427"/>
+      <highlight index="7" start="3186" length="552"/>
+      <subtitles>
+        <subtitle lang="bo" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="do" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="ni" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="ge" line="Ich fahre mit dem Auto zur Schule, mein Freund."/>
+        <subtitle lang="in" line="मेरे मित्र, मैं कार से स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="Jeg bliver kørt til skole, min ven."/>
+        <subtitle lang="co" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="sv" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="saa" line="أنا أذهب إلى المدرسة بالسيارة، يا صديقي "/>
+        <subtitle lang="es" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="me" line="أنا أذهب إلى المدرسة بالسيارة، يا صديقي "/>
+        <subtitle lang="ec" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="ar" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="so" line="Saaxiib, aniga waxaan raacaa gaari."/>
+        <subtitle lang="it" line="io vado a scuola in macchina"/>
+        <subtitle lang="mx" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="pa" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="ve" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="hn" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="cn" line="我是开车去学校的，我的朋友"/>
+        <subtitle lang="lba" line="أنا أذهب إلى المدرسة بالسيارة، يا صديقي "/>
+        <subtitle lang="cu" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="cr" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="nl" line="Ik ga met de auto naar school, mijn vriend."/>
+        <subtitle lang="pe" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="cl" line="Me voy a la escuela en auto, mi amigo."/>
+        <subtitle lang="sp" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="py" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="pr" line="Me voy a la escuela en coche, mi amigo."/>
+        <subtitle lang="gt" line="Me voy a la escuela en coche, mi amigo."/>
+      </subtitles>
+    </line>
+    <line words="In England, I go to school." start="89446" length="4421">
+      <highlight index="0" start="551" length="493"/>
+      <highlight index="1" start="1389" length="1021"/>
+      <highlight index="2" start="2399" length="408"/>
+      <highlight index="3" start="2864" length="333"/>
+      <highlight index="4" start="3186" length="303"/>
+      <highlight index="5" start="3467" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="do" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ni" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ge" line="In England, geht er zur Schule."/>
+        <subtitle lang="in" line="इंग्लैंड में, मैं स्कूल जाता/जाती हूँ।"/>
+        <subtitle lang="dk" line="I England går jeg i skole."/>
+        <subtitle lang="co" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="sv" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="saa" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="me" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ar" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Ingriiska, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="In Inghilterra io vado a scuola"/>
+        <subtitle lang="mx" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="pa" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="ve" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="hn" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cn" line="在英国，我去上学"/>
+        <subtitle lang="lba" line="‎في انكلترا، أنا أذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cr" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="nl" line="In Engeland ga ik naar school."/>
+        <subtitle lang="pe" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="cl" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="sp" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="py" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="pr" line="En Inglaterra, voy a la escuela."/>
+        <subtitle lang="gt" line="En Inglaterra, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="In America, you go to school." start="93456" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2399" length="276"/>
+      <highlight index="3" start="2640" length="476"/>
+      <highlight index="4" start="3105" length="282"/>
+      <highlight index="5" start="3387" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="do" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ni" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ge" line="In America, gehst du zur Schule."/>
+        <subtitle lang="in" line="अमेरिका में, तुम स्कूल जाते हो।"/>
+        <subtitle lang="dk" line="I USA går du i skole."/>
+        <subtitle lang="co" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sv" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="saa" line="‎في أمريكا، أنت تذهب إلى المدرسة."/>
+        <subtitle lang="es" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="me" line="‎في أمريكا، أنت تذهب إلى المدرسة."/>
+        <subtitle lang="ec" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ar" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="so" line="Dalka Ameerika, adiga waxaad aadaa iskuul."/>
+        <subtitle lang="it" line="in America tu vai a scuola"/>
+        <subtitle lang="mx" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pa" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="ve" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="hn" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cn" line="在美国，你去上学"/>
+        <subtitle lang="lba" line="‎في أمريكا، أنت تذهب إلى المدرسة."/>
+        <subtitle lang="cu" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="nl" line="n Amerika ga jij naar school."/>
+        <subtitle lang="pe" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="cl" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="sp" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="py" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="pr" line="En Estados Unidos, voy a la escuela ."/>
+        <subtitle lang="gt" line="En Estados Unidos, voy a la escuela ."/>
+      </subtitles>
+    </line>
+    <line words="In Canada, he goes to school." start="97774" length="4421">
+      <highlight index="0" start="350" length="683"/>
+      <highlight index="1" start="1010" length="1021"/>
+      <highlight index="2" start="2112" length="322"/>
+      <highlight index="3" start="2399" length="442"/>
+      <highlight index="4" start="2985" length="321"/>
+      <highlight index="5" start="3295" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="do" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ni" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ge" line="In Kanada, geht er zur Schule."/>
+        <subtitle lang="in" line="कनाडा में, वह स्कूल जाता है"/>
+        <subtitle lang="dk" line="I Canada går han i skole."/>
+        <subtitle lang="co" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sv" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="saa" line="في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="me" line="في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ar" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Kanada, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Canada lui va a scuola"/>
+        <subtitle lang="mx" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pa" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="ve" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="hn" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cn" line="在加拿大，他去上学"/>
+        <subtitle lang="lba" line="في كندا، هو يذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="nl" line="In Canada gaat hij naar school."/>
+        <subtitle lang="pe" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="cl" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="sp" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="py" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="pr" line="En Canadá, voy a la escuela."/>
+        <subtitle lang="gt" line="En Canadá, voy a la escuela."/>
+      </subtitles>
+    </line>
+    <line words="In Jamaica, she goes to school." start="101886" length="4421">
+      <highlight index="0" start="200" length="402"/>
+      <highlight index="1" start="591" length="1021"/>
+      <highlight index="2" start="1940" length="522"/>
+      <highlight index="3" start="2543" length="287"/>
+      <highlight index="4" start="2801" length="224"/>
+      <highlight index="5" start="3105" length="563"/>
+      <subtitles>
+        <subtitle lang="bo" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="do" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ni" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ge" line="In Jamaika, geht sie zur Schule."/>
+        <subtitle lang="in" line="जमैका में, वह स्कूल जाती है।"/>
+        <subtitle lang="dk" line="På Jamaica går hun i skole."/>
+        <subtitle lang="co" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sv" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="saa" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="es" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="me" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="ec" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ar" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="so" line="Dalka Jameeka, aniga waxaan aadaa iskuul."/>
+        <subtitle lang="it" line="in Jamaica lei va a scuola"/>
+        <subtitle lang="mx" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pa" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="ve" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="hn" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cn" line="在牙买加，她去上学"/>
+        <subtitle lang="lba" line="‎في جامايكا، هي تذهب إلى المدرسة"/>
+        <subtitle lang="cu" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="nl" line="In Jamaica gaat zij naar school."/>
+        <subtitle lang="pe" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="cl" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="sp" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="py" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="pr" line="En Jamaica, voy a la escuela."/>
+        <subtitle lang="gt" line="En Jamaica, voy a la escuela."/>
+      </subtitles>
+    </line>
+  </lines>
+</karaoke>

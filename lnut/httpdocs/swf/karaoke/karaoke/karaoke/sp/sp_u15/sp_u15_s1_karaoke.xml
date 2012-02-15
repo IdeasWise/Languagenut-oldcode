@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<karaoke length="115461" >
+	<lines>
+		<line words="Camino a la escuela" start="7962" length="2507" >
+			<highlight index="0" start="587" length="431" />
+			<highlight index="1" start="1005" length="158" />
+			<highlight index="2" start="1143" length="149" />
+			<highlight index="3" start="1285" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente del cine." start="11446" length="2887" >
+			<highlight index="0" start="594" length="321" />
+			<highlight index="1" start="900" length="322" />
+			<highlight index="2" start="1207" length="930" />
+			<highlight index="3" start="2126" length="299" />
+			<highlight index="4" start="2413" length="409" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een bioscoop" />
+				<subtitle lang="dk" line="Kommer jeg forbi biografen" />
+				<subtitle lang="en" line="I pass in front of the cinema." />
+				<subtitle lang="nz" line="I pass in front of the cinema." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="15328" length="2507" >
+			<highlight index="0" start="587" length="431" />
+			<highlight index="1" start="1005" length="158" />
+			<highlight index="2" start="1143" length="149" />
+			<highlight index="3" start="1285" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de una iglesia." start="18314" length="3384" >
+			<highlight index="0" start="543" length="403" />
+			<highlight index="1" start="930" length="391" />
+			<highlight index="2" start="1306" length="899" />
+			<highlight index="3" start="2187" length="258" />
+			<highlight index="4" start="2432" length="218" />
+			<highlight index="5" start="2632" length="612" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een kerk" />
+				<subtitle lang="dk" line="Kommer jeg forbi en kirke" />
+				<subtitle lang="en" line="I pass in front of a church." />
+				<subtitle lang="nz" line="I pass in front of a church." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="22494" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="128" />
+			<highlight index="2" start="917" length="132" />
+			<highlight index="3" start="1035" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de un café." start="25281" length="3185" >
+			<highlight index="0" start="344" length="403" />
+			<highlight index="1" start="731" length="391" />
+			<highlight index="2" start="1107" length="899" />
+			<highlight index="3" start="1988" length="258" />
+			<highlight index="4" start="2233" length="218" />
+			<highlight index="5" start="2433" length="612" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een café" />
+				<subtitle lang="dk" line="Kommer jeg forbi en café" />
+				<subtitle lang="en" line="I pass in front of a café." />
+				<subtitle lang="nz" line="I pass in front of a café." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="29462" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="128" />
+			<highlight index="2" start="917" length="132" />
+			<highlight index="3" start="1035" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de un museo." start="32050" length="4000" >
+			<highlight index="0" start="421" length="356" />
+			<highlight index="1" start="748" length="322" />
+			<highlight index="2" start="1058" length="684" />
+			<highlight index="3" start="1970" length="269" />
+			<highlight index="4" start="2210" length="304" />
+			<highlight index="5" start="2485" length="783" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een museum" />
+				<subtitle lang="dk" line="Kommer jeg forbi et museum." />
+				<subtitle lang="en" line="I pass in front of a museum." />
+				<subtitle lang="nz" line="I pass in front of a museum." />
+			</subtitles>
+		</line>
+		<line words="Voy a la escuela, voy a la escuela." start="35733" length="3583" >
+			<highlight index="0" start="309" length="309" />
+			<highlight index="1" start="586" length="128" />
+			<highlight index="2" start="696" length="132" />
+			<highlight index="3" start="806" length="623" />
+			<highlight index="4" start="1812" length="200" />
+			<highlight index="5" start="2000" length="168" />
+			<highlight index="6" start="2163" length="173" />
+			<highlight index="7" start="2325" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga naar school, ik ga naar school." />
+				<subtitle lang="dk" line="Jeg skal i skole, jeg skal i skole" />
+				<subtitle lang="en" line="I’m going to school, I’m going to school." />
+				<subtitle lang="nz" line="I’m going to school, I’m going to school." />
+			</subtitles>
+		</line>
+		<line words="Voy a la escuela, voy a la escuela." start="39216" length="3583" >
+			<highlight index="0" start="309" length="309" />
+			<highlight index="1" start="586" length="128" />
+			<highlight index="2" start="696" length="132" />
+			<highlight index="3" start="806" length="623" />
+			<highlight index="4" start="1812" length="200" />
+			<highlight index="5" start="2000" length="168" />
+			<highlight index="6" start="2163" length="173" />
+			<highlight index="7" start="2325" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga naar school, ik ga naar school." />
+				<subtitle lang="dk" line="Jeg skal i skole, jeg skal i skole" />
+				<subtitle lang="en" line="I’m going to school, I’m going to school." />
+				<subtitle lang="nz" line="I’m going to school, I’m going to school." />
+			</subtitles>
+		</line>
+		<line words="Detrás del parque, el correo." start="42402" length="4099" >
+			<highlight index="0" start="293" length="569" />
+			<highlight index="1" start="838" length="413" />
+			<highlight index="2" start="1210" length="599" />
+			<highlight index="3" start="2163" length="395" />
+			<highlight index="4" start="2558" length="911" />
+			<subtitles>
+				<subtitle lang="nl" line="Achter het park is een postkantoor! " />
+				<subtitle lang="dk" line="Bag ved parken, er der et posthus. " />
+				<subtitle lang="en" line="Behind the park, the post-office." />
+				<subtitle lang="nz" line="Behind the park, the post-office." />
+			</subtitles>
+		</line>
+		<line words="Junto al correo una estación." start="46184" length="3384" >
+			<highlight index="0" start="192" length="257" />
+			<highlight index="1" start="430" length="223" />
+			<highlight index="2" start="628" length="574" />
+			<highlight index="3" start="1766" length="396" />
+			<highlight index="4" start="2147" length="762" />
+			<subtitles>
+				<subtitle lang="nl" line="Voor het postkantoor is een treinstation! " />
+				<subtitle lang="dk" line="Foran posthuset, er der en banegård! " />
+				<subtitle lang="en" line="Next to the post office, a station." />
+				<subtitle lang="nz" line="Next to the post office, a station." />
+			</subtitles>
+		</line>
+		<line words="Cerca de la estación, un zoológico" start="49269" length="4000" >
+			<highlight index="0" start="274" length="339" />
+			<highlight index="1" start="584" length="240" />
+			<highlight index="2" start="795" length="251" />
+			<highlight index="3" start="1029" length="755" />
+			<highlight index="4" start="2087" length="362" />
+			<highlight index="5" start="2426" length="1146" />
+			<subtitles>
+				<subtitle lang="nl" line="Vlakbij het station is een dierentuin! " />
+				<subtitle lang="dk" line="I nærheden af banegården, er der en Zoo. " />
+				<subtitle lang="en" line="Near to the station, a zoo." />
+				<subtitle lang="nz" line="Near to the station, a zoo." />
+			</subtitles>
+		</line>
+		<line words="Lejos del zoológico hay un río." start="52952" length="3783" >
+			<highlight index="0" start="226" length="282" />
+			<highlight index="1" start="475" length="172" />
+			<highlight index="2" start="647" length="232" />
+			<highlight index="3" start="846" length="608" />
+			<highlight index="4" start="1935" length="304" />
+			<highlight index="5" start="2228" length="382" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar ver vandaan is een rivier!" />
+				<subtitle lang="dk" line="Langt fra Zoo er der en flod!" />
+				<subtitle lang="en" line="Far from the zoo, there is a river." />
+				<subtitle lang="nz" line="Far from the zoo, there is a river." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="60218" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="158" />
+			<highlight index="2" start="944" length="149" />
+			<highlight index="3" start="1086" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente del cine." start="63204" length="2787" >
+			<highlight index="0" start="295" length="321" />
+			<highlight index="1" start="601" length="322" />
+			<highlight index="2" start="908" length="958" />
+			<highlight index="3" start="1861" length="396" />
+			<highlight index="4" start="2248" length="409" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een bioscoop." />
+				<subtitle lang="dk" line="Kommer jeg forbi biografen" />
+				<subtitle lang="en" line="I pass in front of the cinema." />
+				<subtitle lang="nz" line="I pass in front of the cinema." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="67086" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="158" />
+			<highlight index="2" start="944" length="149" />
+			<highlight index="3" start="1086" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de una iglesia." start="69873" length="3385" >
+			<highlight index="0" start="344" length="403" />
+			<highlight index="1" start="731" length="391" />
+			<highlight index="2" start="1107" length="899" />
+			<highlight index="3" start="1988" length="327" />
+			<highlight index="4" start="2301" length="218" />
+			<highlight index="5" start="2508" length="612" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een kerk." />
+				<subtitle lang="dk" line="Kommer jeg forbi en kirke" />
+				<subtitle lang="en" line="I pass in front of a church." />
+				<subtitle lang="nz" line="I pass in front of a church." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="73954" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="128" />
+			<highlight index="2" start="917" length="132" />
+			<highlight index="3" start="1035" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole" />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de un café." start="76741" length="3185" >
+			<highlight index="0" start="344" length="403" />
+			<highlight index="1" start="731" length="391" />
+			<highlight index="2" start="1107" length="899" />
+			<highlight index="3" start="1988" length="258" />
+			<highlight index="4" start="2233" length="218" />
+			<highlight index="5" start="2433" length="612" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een café." />
+				<subtitle lang="dk" line="Kommer jeg forbi en café." />
+				<subtitle lang="en" line="I pass in front of a café." />
+				<subtitle lang="nz" line="I pass in front of a café." />
+			</subtitles>
+		</line>
+		<line words="Camino a la escuela" start="80822" length="2308" >
+			<highlight index="0" start="388" length="431" />
+			<highlight index="1" start="806" length="128" />
+			<highlight index="2" start="917" length="132" />
+			<highlight index="3" start="1035" length="621" />
+			<subtitles>
+				<subtitle lang="nl" line="Wanneer ik naar school ga" />
+				<subtitle lang="dk" line="Når jeg går i skole." />
+				<subtitle lang="en" line="When I’m going to school" />
+				<subtitle lang="nz" line="When I’m going to school" />
+			</subtitles>
+		</line>
+		<line words="paso en frente de un museo." start="83609" length="4000" >
+			<highlight index="0" start="380" length="397" />
+			<highlight index="1" start="748" length="322" />
+			<highlight index="2" start="1058" length="936" />
+			<highlight index="3" start="1970" length="269" />
+			<highlight index="4" start="2210" length="304" />
+			<highlight index="5" start="2485" length="783" />
+			<subtitles>
+				<subtitle lang="nl" line="Kom ik langs een museum" />
+				<subtitle lang="dk" line="Kommer jeg forbi et museum." />
+				<subtitle lang="en" line="I pass in front of a museum." />
+				<subtitle lang="nz" line="I pass in front of a museum." />
+			</subtitles>
+		</line>
+		<line words="Voy a la escuela, voy a la escuela." start="87192" length="3583" >
+			<highlight index="0" start="309" length="309" />
+			<highlight index="1" start="586" length="128" />
+			<highlight index="2" start="696" length="132" />
+			<highlight index="3" start="806" length="623" />
+			<highlight index="4" start="1812" length="200" />
+			<highlight index="5" start="2000" length="168" />
+			<highlight index="6" start="2163" length="173" />
+			<highlight index="7" start="2325" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga naar school, ik ga naar school." />
+				<subtitle lang="dk" line="Jeg skal i skole, jeg skal i skole" />
+				<subtitle lang="en" line="I’m going to school, I’m going to school." />
+				<subtitle lang="nz" line="I’m going to school, I’m going to school." />
+			</subtitles>
+		</line>
+		<line words="Voy a la escuela, voy a la escuela." start="90577" length="3583" >
+			<highlight index="0" start="214" length="299" />
+			<highlight index="1" start="497" length="128" />
+			<highlight index="2" start="597" length="132" />
+			<highlight index="3" start="701" length="623" />
+			<highlight index="4" start="1749" length="263" />
+			<highlight index="5" start="2000" length="168" />
+			<highlight index="6" start="2163" length="173" />
+			<highlight index="7" start="2325" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Ik ga naar school, ik ga naar school." />
+				<subtitle lang="dk" line="Jeg skal i skole, jeg skal i skole." />
+				<subtitle lang="en" line="I’m going to school, I’m going to school." />
+				<subtitle lang="nz" line="I’m going to school, I’m going to school." />
+			</subtitles>
+		</line>
+		<line words="Cerca del zoológico, una estación." start="93961" length="3484" >
+			<highlight index="0" start="274" length="339" />
+			<highlight index="1" start="584" length="322" />
+			<highlight index="2" start="877" length="1088" />
+			<highlight index="3" start="1958" length="579" />
+			<highlight index="4" start="2508" length="860" />
+			<subtitles>
+				<subtitle lang="nl" line="Er vlakbij is een treinstation! " />
+				<subtitle lang="dk" line="I nærheden af Zoo, er der en banegård. " />
+				<subtitle lang="en" line="Near to the zoo, a station." />
+				<subtitle lang="nz" line="Near to the zoo, a station." />
+			</subtitles>
+		</line>
+		<line words="En frente a la estación, el correo." start="97146" length="4099" >
+			<highlight index="0" start="401" length="240" />
+			<highlight index="1" start="599" length="185" />
+			<highlight index="2" start="755" length="174" />
+			<highlight index="3" start="892" length="180" />
+			<highlight index="4" start="1048" length="911" />
+			<highlight index="5" start="2271" length="284" />
+			<highlight index="6" start="2540" length="1289" />
+			<subtitles>
+				<subtitle lang="nl" line="Voor het station is een postkantoor! " />
+				<subtitle lang="dk" line="Foran banegården, er der et posthus! " />
+				<subtitle lang="en" line="In front of the station, a post-office." />
+				<subtitle lang="nz" line="In front of the station, a post-office." />
+			</subtitles>
+		</line>
+		<line words="Atrás del correo hay un parque." start="100829" length="3683" >
+			<highlight index="0" start="251" length="456" />
+			<highlight index="1" start="683" length="318" />
+			<highlight index="2" start="979" length="599" />
+			<highlight index="3" start="2049" length="347" />
+			<highlight index="4" start="2366" length="438" />
+			<highlight index="5" start="2786" length="701" />
+			<subtitles>
+				<subtitle lang="nl" line="Achter het postkantoor is een park! " />
+				<subtitle lang="dk" line="Bag ved posthuset, er der en park! " />
+				<subtitle lang="en" line="Behind the post office, there is a park." />
+				<subtitle lang="nz" line="Behind the post office, there is a park." />
+			</subtitles>
+		</line>
+		<line words="Al otro lado del parque…" start="104113" length="1693" >
+			<highlight index="0" start="230" length="193" />
+			<highlight index="1" start="415" length="334" />
+			<highlight index="2" start="742" length="270" />
+			<highlight index="3" start="999" length="250" />
+			<highlight index="4" start="1232" length="397" />
+			<subtitles>
+				<subtitle lang="nl" line="Tegenover het park..." />
+				<subtitle lang="dk" line="Over for parken... " />
+				<subtitle lang="en" line="Opposite the park …" />
+				<subtitle lang="nz" line="Opposite the park …" />
+			</subtitles>
+		</line>
+		<line words="¡Ahí está mi escuela!" start="105607" length="2687" >
+			<highlight index="0" start="593" length="227" />
+			<highlight index="1" start="809" length="310" />
+			<highlight index="2" start="1103" length="279" />
+			<highlight index="3" start="1374" length="707" />
+			<subtitles>
+				<subtitle lang="nl" line="Daar is mijn school!" />
+				<subtitle lang="dk" line="Er min skole!" />
+				<subtitle lang="en" line="There is my school!" />
+				<subtitle lang="nz" line="There is my school!" />
+			</subtitles>
+		</line>
+	</lines>
+</karaoke>

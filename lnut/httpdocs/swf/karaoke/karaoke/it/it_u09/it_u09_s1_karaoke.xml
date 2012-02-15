@@ -1,0 +1,1862 @@
+<?xml version="1.0"?>
+<karaoke length="123167">
+  <lines>
+    <line words="Ascolta! Ascolta!" start="6432" length="3558">
+      <highlight index="0" start="419" length="1108"/>
+      <highlight index="1" start="2047" length="1410"/>
+      <subtitles>
+        <subtitle lang="en" line="Listen! Listen!"/>
+        <subtitle lang="dm" line="Listen! Listen!"/>
+        <subtitle lang="ng" line="Listen! Listen!"/>
+        <subtitle lang="ni" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bz" line="Listen! Listen!"/>
+        <subtitle lang="ag" line="Listen! Listen!"/>
+        <subtitle lang="bw" line="Listen! Listen!"/>
+        <subtitle lang="au" line="Listen! Listen!"/>
+        <subtitle lang="ec" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="pr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="mt" line="Listen! Listen!"/>
+        <subtitle lang="ae" line="Listen! Listen!"/>
+        <subtitle lang="to" line="Listen! Listen!"/>
+        <subtitle lang="es" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="rw" line="Listen! Listen!"/>
+        <subtitle lang="fj" line="Listen! Listen!"/>
+        <subtitle lang="pe" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gy" line="Listen! Listen!"/>
+        <subtitle lang="zm" line="Listen! Listen!"/>
+        <subtitle lang="ve" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sg" line="Listen! Listen!"/>
+        <subtitle lang="mx" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="do" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bs" line="Listen! Listen!"/>
+        <subtitle lang="ug" line="Listen! Listen!"/>
+        <subtitle lang="ws" line="Listen! Listen!"/>
+        <subtitle lang="tz" line="Listen! Listen!"/>
+        <subtitle lang="co" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="nz" line="Listen! Listen!"/>
+        <subtitle lang="jm" line="Listen! Listen!"/>
+        <subtitle lang="pk" line="Listen! Listen!"/>
+        <subtitle lang="ca" line="Listen! Listen!"/>
+        <subtitle lang="ar" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="py" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="na" line="Listen! Listen!"/>
+        <subtitle lang="cu" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gh" line="Listen! Listen!"/>
+        <subtitle lang="sv" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gm" line="Listen! Listen!"/>
+        <subtitle lang="vu" line="Listen! Listen!"/>
+        <subtitle lang="cl" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="us" line="Listen! Listen!"/>
+        <subtitle lang="bd" line="Listen! Listen!"/>
+        <subtitle lang="ke" line="Listen! Listen!"/>
+        <subtitle lang="sb" line="Listen! Listen!"/>
+        <subtitle lang="cr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sp" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="vc" line="Listen! Listen!"/>
+        <subtitle lang="za" line="Listen! Listen!"/>
+        <subtitle lang="tt" line="Listen! Listen!"/>
+        <subtitle lang="mu" line="Listen! Listen!"/>
+        <subtitle lang="bo" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sl" line="Listen! Listen!"/>
+        <subtitle lang="pa" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sco" line="Listen! Listen!"/>
+        <subtitle lang="hn" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gt" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="zw" line="Listen! Listen!"/>
+      <subtitle lang="ine" line="Listen! Listen!"/>
+			</subtitles>
+    </line>
+    <line words="Ascolta! Ascolta!" start="9853" length="3558">
+      <highlight index="0" start="419" length="1108"/>
+      <highlight index="1" start="2047" length="1410"/>
+      <subtitles>
+        <subtitle lang="en" line="Listen! Listen!"/>
+        <subtitle lang="dm" line="Listen! Listen!"/>
+        <subtitle lang="ng" line="Listen! Listen!"/>
+        <subtitle lang="ni" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bz" line="Listen! Listen!"/>
+        <subtitle lang="ag" line="Listen! Listen!"/>
+        <subtitle lang="bw" line="Listen! Listen!"/>
+        <subtitle lang="au" line="Listen! Listen!"/>
+        <subtitle lang="ec" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="pr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="mt" line="Listen! Listen!"/>
+        <subtitle lang="ae" line="Listen! Listen!"/>
+        <subtitle lang="to" line="Listen! Listen!"/>
+        <subtitle lang="es" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="rw" line="Listen! Listen!"/>
+        <subtitle lang="fj" line="Listen! Listen!"/>
+        <subtitle lang="pe" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gy" line="Listen! Listen!"/>
+        <subtitle lang="zm" line="Listen! Listen!"/>
+        <subtitle lang="ve" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sg" line="Listen! Listen!"/>
+        <subtitle lang="mx" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="do" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bs" line="Listen! Listen!"/>
+        <subtitle lang="ug" line="Listen! Listen!"/>
+        <subtitle lang="ws" line="Listen! Listen!"/>
+        <subtitle lang="tz" line="Listen! Listen!"/>
+        <subtitle lang="co" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="nz" line="Listen! Listen!"/>
+        <subtitle lang="jm" line="Listen! Listen!"/>
+        <subtitle lang="pk" line="Listen! Listen!"/>
+        <subtitle lang="ca" line="Listen! Listen!"/>
+        <subtitle lang="ar" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="py" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="na" line="Listen! Listen!"/>
+        <subtitle lang="cu" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gh" line="Listen! Listen!"/>
+        <subtitle lang="sv" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gm" line="Listen! Listen!"/>
+        <subtitle lang="vu" line="Listen! Listen!"/>
+        <subtitle lang="cl" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="us" line="Listen! Listen!"/>
+        <subtitle lang="bd" line="Listen! Listen!"/>
+        <subtitle lang="ke" line="Listen! Listen!"/>
+        <subtitle lang="sb" line="Listen! Listen!"/>
+        <subtitle lang="cr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sp" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="vc" line="Listen! Listen!"/>
+        <subtitle lang="za" line="Listen! Listen!"/>
+        <subtitle lang="tt" line="Listen! Listen!"/>
+        <subtitle lang="mu" line="Listen! Listen!"/>
+        <subtitle lang="bo" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sl" line="Listen! Listen!"/>
+        <subtitle lang="pa" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sco" line="Listen! Listen!"/>
+        <subtitle lang="hn" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gt" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="zw" line="Listen! Listen!"/>
+      <subtitle lang="ine" line="Listen! Listen!"/>
+			</subtitles>
+    </line>
+    <line words="Ascolta! Ascolta!" start="13548" length="3558">
+      <highlight index="0" start="419" length="1108"/>
+      <highlight index="1" start="2047" length="1410"/>
+      <subtitles>
+        <subtitle lang="en" line="Listen! Listen!"/>
+        <subtitle lang="dm" line="Listen! Listen!"/>
+        <subtitle lang="ng" line="Listen! Listen!"/>
+        <subtitle lang="ni" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bz" line="Listen! Listen!"/>
+        <subtitle lang="ag" line="Listen! Listen!"/>
+        <subtitle lang="bw" line="Listen! Listen!"/>
+        <subtitle lang="au" line="Listen! Listen!"/>
+        <subtitle lang="ec" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="pr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="mt" line="Listen! Listen!"/>
+        <subtitle lang="ae" line="Listen! Listen!"/>
+        <subtitle lang="to" line="Listen! Listen!"/>
+        <subtitle lang="es" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="rw" line="Listen! Listen!"/>
+        <subtitle lang="fj" line="Listen! Listen!"/>
+        <subtitle lang="pe" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gy" line="Listen! Listen!"/>
+        <subtitle lang="zm" line="Listen! Listen!"/>
+        <subtitle lang="ve" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sg" line="Listen! Listen!"/>
+        <subtitle lang="mx" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="do" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bs" line="Listen! Listen!"/>
+        <subtitle lang="ug" line="Listen! Listen!"/>
+        <subtitle lang="ws" line="Listen! Listen!"/>
+        <subtitle lang="tz" line="Listen! Listen!"/>
+        <subtitle lang="co" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="nz" line="Listen! Listen!"/>
+        <subtitle lang="jm" line="Listen! Listen!"/>
+        <subtitle lang="pk" line="Listen! Listen!"/>
+        <subtitle lang="ca" line="Listen! Listen!"/>
+        <subtitle lang="ar" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="py" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="na" line="Listen! Listen!"/>
+        <subtitle lang="cu" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gh" line="Listen! Listen!"/>
+        <subtitle lang="sv" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gm" line="Listen! Listen!"/>
+        <subtitle lang="vu" line="Listen! Listen!"/>
+        <subtitle lang="cl" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="us" line="Listen! Listen!"/>
+        <subtitle lang="bd" line="Listen! Listen!"/>
+        <subtitle lang="ke" line="Listen! Listen!"/>
+        <subtitle lang="sb" line="Listen! Listen!"/>
+        <subtitle lang="cr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sp" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="vc" line="Listen! Listen!"/>
+        <subtitle lang="za" line="Listen! Listen!"/>
+        <subtitle lang="tt" line="Listen! Listen!"/>
+        <subtitle lang="mu" line="Listen! Listen!"/>
+        <subtitle lang="bo" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sl" line="Listen! Listen!"/>
+        <subtitle lang="pa" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sco" line="Listen! Listen!"/>
+        <subtitle lang="hn" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gt" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="zw" line="Listen! Listen!"/>
+      <subtitle lang="ine" line="Listen! Listen!"/>
+			</subtitles>
+    </line>
+    <line words="Ascolta! Ascolta!" start="17106" length="3558">
+      <highlight index="0" start="419" length="1108"/>
+      <highlight index="1" start="2047" length="1410"/>
+      <subtitles>
+        <subtitle lang="en" line="Listen! Listen."/>
+        <subtitle lang="dm" line="Listen! Listen."/>
+        <subtitle lang="ng" line="Listen! Listen."/>
+        <subtitle lang="ni" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bz" line="Listen! Listen."/>
+        <subtitle lang="ag" line="Listen! Listen."/>
+        <subtitle lang="bw" line="Listen! Listen."/>
+        <subtitle lang="au" line="Listen! Listen."/>
+        <subtitle lang="ec" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="pr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="mt" line="Listen! Listen."/>
+        <subtitle lang="ae" line="Listen! Listen."/>
+        <subtitle lang="to" line="Listen! Listen."/>
+        <subtitle lang="es" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="rw" line="Listen! Listen."/>
+        <subtitle lang="fj" line="Listen! Listen."/>
+        <subtitle lang="pe" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gy" line="Listen! Listen."/>
+        <subtitle lang="zm" line="Listen! Listen."/>
+        <subtitle lang="ve" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sg" line="Listen! Listen."/>
+        <subtitle lang="mx" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="do" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="bs" line="Listen! Listen."/>
+        <subtitle lang="ug" line="Listen! Listen."/>
+        <subtitle lang="ws" line="Listen! Listen."/>
+        <subtitle lang="tz" line="Listen! Listen."/>
+        <subtitle lang="co" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="nz" line="Listen! Listen!"/>
+        <subtitle lang="jm" line="Listen! Listen."/>
+        <subtitle lang="pk" line="Listen! Listen."/>
+        <subtitle lang="ca" line="Listen! Listen."/>
+        <subtitle lang="ar" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="py" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="na" line="Listen! Listen."/>
+        <subtitle lang="cu" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gh" line="Listen! Listen."/>
+        <subtitle lang="sv" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gm" line="Listen! Listen."/>
+        <subtitle lang="vu" line="Listen! Listen."/>
+        <subtitle lang="cl" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="us" line="Listen! Listen."/>
+        <subtitle lang="bd" line="Listen! Listen."/>
+        <subtitle lang="ke" line="Listen! Listen."/>
+        <subtitle lang="sb" line="Listen! Listen."/>
+        <subtitle lang="cr" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sp" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="vc" line="Listen! Listen."/>
+        <subtitle lang="za" line="Listen! Listen."/>
+        <subtitle lang="tt" line="Listen! Listen."/>
+        <subtitle lang="mu" line="Listen! Listen."/>
+        <subtitle lang="bo" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sl" line="Listen! Listen."/>
+        <subtitle lang="pa" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="sco" line="Listen! Listen."/>
+        <subtitle lang="hn" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="gt" line="&#xA1;Oye! &#xA1;Oye!"/>
+        <subtitle lang="zw" line="Listen! Listen."/>
+      <subtitle lang="ine" line="Listen! Listen."/>
+			</subtitles>
+    </line>
+    <line words="Ecco il principe! Sta arrivando!" start="21075" length="3284">
+      <highlight index="0" start="92" length="303"/>
+      <highlight index="1" start="472" length="200"/>
+      <highlight index="2" start="697" length="960"/>
+      <highlight index="3" start="1711" length="233"/>
+      <highlight index="4" start="1998" length="1170"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the prince! He is coming!"/>
+        <subtitle lang="dm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ng" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ni" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="bz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ag" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bw" line="Here's the prince! He is coming!"/>
+        <subtitle lang="au" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ec" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="pr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="mt" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ae" line="Here's the prince! He is coming!"/>
+        <subtitle lang="to" line="Here's the prince! He is coming!"/>
+        <subtitle lang="es" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="rw" line="Here's the prince! He is coming!"/>
+        <subtitle lang="fj" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pe" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gy" line="Here's the prince! He is coming!"/>
+        <subtitle lang="zm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ve" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sg" line="Here's the prince! He is coming!"/>
+        <subtitle lang="mx" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="do" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="bs" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ug" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ws" line="Here's the prince! He is coming!"/>
+        <subtitle lang="tz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="co" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="nz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="jm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pk" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ca" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ar" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="py" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="na" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cu" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gh" line="Here's the prince! He is coming!"/>
+        <subtitle lang="sv" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="vu" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cl" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="us" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bd" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ke" line="Here's the prince! He is coming!"/>
+        <subtitle lang="sb" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sp" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="vc" line="Here's the prince! He is coming!"/>
+        <subtitle lang="za" line="Here's the prince! He is coming!"/>
+        <subtitle lang="tt" line="Here's the prince! He is coming!"/>
+        <subtitle lang="mu" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bo" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sl" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pa" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sco" line="Here's the prince! He is coming!"/>
+        <subtitle lang="hn" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gt" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="zw" line="Here's the prince! He is coming!"/>
+      <subtitle lang="ine" line="Here's the prince! He is coming!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco il principe! E' affascinante!" start="24633" length="3284">
+      <highlight index="0" start="77" length="434"/>
+      <highlight index="1" start="534" length="200"/>
+      <highlight index="2" start="759" length="913"/>
+      <highlight index="3" start="1750" length="200"/>
+      <highlight index="4" start="1967" length="1200"/>
+      <subtitles>
+        <subtitle lang="en" line="Here is the prince! He is charming!"/>
+        <subtitle lang="dm" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ng" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ni" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="bz" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ag" line="Here is the prince! He is charming!"/>
+        <subtitle lang="bw" line="Here is the prince! He is charming!"/>
+        <subtitle lang="au" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ec" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="pr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="mt" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ae" line="Here is the prince! He is charming!"/>
+        <subtitle lang="to" line="Here is the prince! He is charming!"/>
+        <subtitle lang="es" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="rw" line="Here is the prince! He is charming!"/>
+        <subtitle lang="fj" line="Here is the prince! He is charming!"/>
+        <subtitle lang="pe" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="gy" line="Here is the prince! He is charming!"/>
+        <subtitle lang="zm" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ve" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="sg" line="Here is the prince! He is charming!"/>
+        <subtitle lang="mx" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="do" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="bs" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ug" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ws" line="Here is the prince! He is charming!"/>
+        <subtitle lang="tz" line="Here is the prince! He is charming!"/>
+        <subtitle lang="co" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="nz" line="Here is the prince! He is charming!"/>
+        <subtitle lang="jm" line="Here is the prince! He is charming!"/>
+        <subtitle lang="pk" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ca" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ar" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="py" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="na" line="Here is the prince! He is charming!"/>
+        <subtitle lang="cu" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="gh" line="Here is the prince! He is charming!"/>
+        <subtitle lang="sv" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="gm" line="Here is the prince! He is charming!"/>
+        <subtitle lang="vu" line="Here is the prince! He is charming!"/>
+        <subtitle lang="cl" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="us" line="Here is the prince! He is charming!"/>
+        <subtitle lang="bd" line="Here is the prince! He is charming!"/>
+        <subtitle lang="ke" line="Here is the prince! He is charming!"/>
+        <subtitle lang="sb" line="Here is the prince! He is charming!"/>
+        <subtitle lang="cr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="sp" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="vc" line="Here is the prince! He is charming!"/>
+        <subtitle lang="za" line="Here is the prince! He is charming!"/>
+        <subtitle lang="tt" line="Here is the prince! He is charming!"/>
+        <subtitle lang="mu" line="Here is the prince! He is charming!"/>
+        <subtitle lang="bo" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="sl" line="Here is the prince! He is charming!"/>
+        <subtitle lang="pa" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="sco" line="Here is the prince! He is charming!"/>
+        <subtitle lang="hn" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="gt" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Es encantador!"/>
+        <subtitle lang="zw" line="Here is the prince! He is charming!"/>
+      <subtitle lang="ine" line="Here is the prince! He is charming!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco il principe! Sta arrivando!" start="28191" length="3285">
+      <highlight index="0" start="61" length="388"/>
+      <highlight index="1" start="511" length="200"/>
+      <highlight index="2" start="767" length="929"/>
+      <highlight index="3" start="1750" length="217"/>
+      <highlight index="4" start="2006" length="1279"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the prince! He is coming!"/>
+        <subtitle lang="dm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ng" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ni" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="bz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ag" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bw" line="Here's the prince! He is coming!"/>
+        <subtitle lang="au" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ec" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="pr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="mt" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ae" line="Here's the prince! He is coming!"/>
+        <subtitle lang="to" line="Here's the prince! He is coming!"/>
+        <subtitle lang="es" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="rw" line="Here's the prince! He is coming!"/>
+        <subtitle lang="fj" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pe" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gy" line="Here's the prince! He is coming!"/>
+        <subtitle lang="zm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ve" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sg" line="Here's the prince! He is coming!"/>
+        <subtitle lang="mx" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="do" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="bs" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ug" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ws" line="Here's the prince! He is coming!"/>
+        <subtitle lang="tz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="co" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="nz" line="Here's the prince! He is coming!"/>
+        <subtitle lang="jm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pk" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ca" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ar" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="py" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="na" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cu" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gh" line="Here's the prince! He is coming!"/>
+        <subtitle lang="sv" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gm" line="Here's the prince! He is coming!"/>
+        <subtitle lang="vu" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cl" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="us" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bd" line="Here's the prince! He is coming!"/>
+        <subtitle lang="ke" line="Here's the prince! He is coming!"/>
+        <subtitle lang="sb" line="Here's the prince! He is coming!"/>
+        <subtitle lang="cr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sp" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="vc" line="Here's the prince! He is coming!"/>
+        <subtitle lang="za" line="Here's the prince! He is coming!"/>
+        <subtitle lang="tt" line="Here's the prince! He is coming!"/>
+        <subtitle lang="mu" line="Here's the prince! He is coming!"/>
+        <subtitle lang="bo" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sl" line="Here's the prince! He is coming!"/>
+        <subtitle lang="pa" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="sco" line="Here's the prince! He is coming!"/>
+        <subtitle lang="hn" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="gt" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Ah&#xED; viene!"/>
+        <subtitle lang="zw" line="Here's the prince! He is coming!"/>
+      <subtitle lang="ine" line="Here's the prince! He is coming!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco il principe! E' grande!" start="31749" length="4000">
+      <highlight index="0" start="75" length="613"/>
+      <highlight index="1" start="754" length="200"/>
+      <highlight index="2" start="981" length="783"/>
+      <highlight index="3" start="1811" length="519"/>
+      <highlight index="4" start="2405" length="1528"/>
+      <subtitles>
+        <subtitle lang="en" line="Here is the prince! He is big!"/>
+        <subtitle lang="dm" line="Here is the prince! He is big!"/>
+        <subtitle lang="ng" line="Here is the prince! He is big!"/>
+        <subtitle lang="ni" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="bz" line="Here is the prince! He is big!"/>
+        <subtitle lang="ag" line="Here is the prince! He is big!"/>
+        <subtitle lang="bw" line="Here is the prince! He is big!"/>
+        <subtitle lang="au" line="Here is the prince! He is big!"/>
+        <subtitle lang="ec" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="pr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="mt" line="Here is the prince! He is big!"/>
+        <subtitle lang="ae" line="Here is the prince! He is big!"/>
+        <subtitle lang="to" line="Here is the prince! He is big!"/>
+        <subtitle lang="es" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="rw" line="Here is the prince! He is big!"/>
+        <subtitle lang="fj" line="Here is the prince! He is big!"/>
+        <subtitle lang="pe" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="gy" line="Here is the prince! He is big!"/>
+        <subtitle lang="zm" line="Here is the prince! He is big!"/>
+        <subtitle lang="ve" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="sg" line="Here is the prince! He is big!"/>
+        <subtitle lang="mx" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="do" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="bs" line="Here is the prince! He is big!"/>
+        <subtitle lang="ug" line="Here is the prince! He is big!"/>
+        <subtitle lang="ws" line="Here is the prince! He is big!"/>
+        <subtitle lang="tz" line="Here is the prince! He is big!"/>
+        <subtitle lang="co" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="nz" line="Here is the prince! He is big!"/>
+        <subtitle lang="jm" line="Here is the prince! He is big!"/>
+        <subtitle lang="pk" line="Here is the prince! He is big!"/>
+        <subtitle lang="ca" line="Here is the prince! He is big!"/>
+        <subtitle lang="ar" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="py" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="na" line="Here is the prince! He is big!"/>
+        <subtitle lang="cu" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="gh" line="Here is the prince! He is big!"/>
+        <subtitle lang="sv" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="gm" line="Here is the prince! He is big!"/>
+        <subtitle lang="vu" line="Here is the prince! He is big!"/>
+        <subtitle lang="cl" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="us" line="Here is the prince! He is big!"/>
+        <subtitle lang="bd" line="Here is the prince! He is big!"/>
+        <subtitle lang="ke" line="Here is the prince! He is big!"/>
+        <subtitle lang="sb" line="Here is the prince! He is big!"/>
+        <subtitle lang="cr" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="sp" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="vc" line="Here is the prince! He is big!"/>
+        <subtitle lang="za" line="Here is the prince! He is big!"/>
+        <subtitle lang="tt" line="Here is the prince! He is big!"/>
+        <subtitle lang="mu" line="Here is the prince! He is big!"/>
+        <subtitle lang="bo" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="sl" line="Here is the prince! He is big!"/>
+        <subtitle lang="pa" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="sco" line="Here is the prince! He is big!"/>
+        <subtitle lang="hn" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="gt" line="&#xC9;ste es el pr&#xED;ncipe. &#xA1;Espl&#xE9;ndido!"/>
+        <subtitle lang="zw" line="Here is the prince! He is big!"/>
+      <subtitle lang="ine" line="Here is the prince! He is big!"/>
+			</subtitles>
+    </line>
+    <line words="Guarda! Guarda!" start="40918" length="2601">
+      <highlight index="0" start="42" length="829"/>
+      <highlight index="1" start="1742" length="803"/>
+      <subtitles>
+        <subtitle lang="en" line="Look! Look!"/>
+        <subtitle lang="dm" line="Look! Look!"/>
+        <subtitle lang="ng" line="Look! Look!"/>
+        <subtitle lang="ni" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bz" line="Look! Look!"/>
+        <subtitle lang="ag" line="Look! Look!"/>
+        <subtitle lang="bw" line="Look! Look!"/>
+        <subtitle lang="au" line="Look! Look!"/>
+        <subtitle lang="ec" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="pr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="mt" line="Look! Look!"/>
+        <subtitle lang="ae" line="Look! Look!"/>
+        <subtitle lang="to" line="Look! Look!"/>
+        <subtitle lang="es" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="rw" line="Look! Look!"/>
+        <subtitle lang="fj" line="Look! Look!"/>
+        <subtitle lang="pe" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gy" line="Look! Look!"/>
+        <subtitle lang="zm" line="Look! Look!"/>
+        <subtitle lang="ve" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sg" line="Look! Look!"/>
+        <subtitle lang="mx" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="do" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bs" line="Look! Look!"/>
+        <subtitle lang="ug" line="Look! Look!"/>
+        <subtitle lang="ws" line="Look! Look!"/>
+        <subtitle lang="tz" line="Look! Look!"/>
+        <subtitle lang="co" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="nz" line="Look! Look!"/>
+        <subtitle lang="jm" line="Look! Look!"/>
+        <subtitle lang="pk" line="Look! Look!"/>
+        <subtitle lang="ca" line="Look! Look!"/>
+        <subtitle lang="ar" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="py" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="na" line="Look! Look!"/>
+        <subtitle lang="cu" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gh" line="Look! Look!"/>
+        <subtitle lang="sv" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gm" line="Look! Look!"/>
+        <subtitle lang="vu" line="Look! Look!"/>
+        <subtitle lang="cl" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="us" line="Look! Look!"/>
+        <subtitle lang="bd" line="Look! Look!"/>
+        <subtitle lang="ke" line="Look! Look!"/>
+        <subtitle lang="sb" line="Look! Look!"/>
+        <subtitle lang="cr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sp" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="vc" line="Look! Look!"/>
+        <subtitle lang="za" line="Look! Look!"/>
+        <subtitle lang="tt" line="Look! Look!"/>
+        <subtitle lang="mu" line="Look! Look!"/>
+        <subtitle lang="bo" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sl" line="Look! Look!"/>
+        <subtitle lang="pa" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sco" line="Look! Look!"/>
+        <subtitle lang="hn" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gt" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="zw" line="Look! Look!"/>
+      <subtitle lang="ine" line="Look! Look!"/>
+			</subtitles>
+    </line>
+    <line words="Guarda! Guarda!" start="43792" length="3011">
+      <highlight index="0" start="42" length="829"/>
+      <highlight index="1" start="1907" length="876"/>
+      <subtitles>
+        <subtitle lang="en" line="Look! Look!"/>
+        <subtitle lang="dm" line="Look! Look!"/>
+        <subtitle lang="ng" line="Look! Look!"/>
+        <subtitle lang="ni" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bz" line="Look! Look!"/>
+        <subtitle lang="ag" line="Look! Look!"/>
+        <subtitle lang="bw" line="Look! Look!"/>
+        <subtitle lang="au" line="Look! Look!"/>
+        <subtitle lang="ec" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="pr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="mt" line="Look! Look!"/>
+        <subtitle lang="ae" line="Look! Look!"/>
+        <subtitle lang="to" line="Look! Look!"/>
+        <subtitle lang="es" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="rw" line="Look! Look!"/>
+        <subtitle lang="fj" line="Look! Look!"/>
+        <subtitle lang="pe" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gy" line="Look! Look!"/>
+        <subtitle lang="zm" line="Look! Look!"/>
+        <subtitle lang="ve" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sg" line="Look! Look!"/>
+        <subtitle lang="mx" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="do" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bs" line="Look! Look!"/>
+        <subtitle lang="ug" line="Look! Look!"/>
+        <subtitle lang="ws" line="Look! Look!"/>
+        <subtitle lang="tz" line="Look! Look!"/>
+        <subtitle lang="co" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="nz" line="Look! Look!"/>
+        <subtitle lang="jm" line="Look! Look!"/>
+        <subtitle lang="pk" line="Look! Look!"/>
+        <subtitle lang="ca" line="Look! Look!"/>
+        <subtitle lang="ar" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="py" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="na" line="Look! Look!"/>
+        <subtitle lang="cu" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gh" line="Look! Look!"/>
+        <subtitle lang="sv" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gm" line="Look! Look!"/>
+        <subtitle lang="vu" line="Look! Look!"/>
+        <subtitle lang="cl" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="us" line="Look! Look!"/>
+        <subtitle lang="bd" line="Look! Look!"/>
+        <subtitle lang="ke" line="Look! Look!"/>
+        <subtitle lang="sb" line="Look! Look!"/>
+        <subtitle lang="cr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sp" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="vc" line="Look! Look!"/>
+        <subtitle lang="za" line="Look! Look!"/>
+        <subtitle lang="tt" line="Look! Look!"/>
+        <subtitle lang="mu" line="Look! Look!"/>
+        <subtitle lang="bo" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sl" line="Look! Look!"/>
+        <subtitle lang="pa" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sco" line="Look! Look!"/>
+        <subtitle lang="hn" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gt" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="zw" line="Look! Look!"/>
+      <subtitle lang="ine" line="Look! Look!"/>
+			</subtitles>
+    </line>
+    <line words="Guarda! Guarda!" start="47077" length="3147">
+      <highlight index="0" start="623" length="829"/>
+      <highlight index="1" start="2464" length="657"/>
+      <subtitles>
+        <subtitle lang="en" line="Look! Look!"/>
+        <subtitle lang="dm" line="Look! Look!"/>
+        <subtitle lang="ng" line="Look! Look!"/>
+        <subtitle lang="ni" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bz" line="Look! Look!"/>
+        <subtitle lang="ag" line="Look! Look!"/>
+        <subtitle lang="bw" line="Look! Look!"/>
+        <subtitle lang="au" line="Look! Look!"/>
+        <subtitle lang="ec" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="pr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="mt" line="Look! Look!"/>
+        <subtitle lang="ae" line="Look! Look!"/>
+        <subtitle lang="to" line="Look! Look!"/>
+        <subtitle lang="es" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="rw" line="Look! Look!"/>
+        <subtitle lang="fj" line="Look! Look!"/>
+        <subtitle lang="pe" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gy" line="Look! Look!"/>
+        <subtitle lang="zm" line="Look! Look!"/>
+        <subtitle lang="ve" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sg" line="Look! Look!"/>
+        <subtitle lang="mx" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="do" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bs" line="Look! Look!"/>
+        <subtitle lang="ug" line="Look! Look!"/>
+        <subtitle lang="ws" line="Look! Look!"/>
+        <subtitle lang="tz" line="Look! Look!"/>
+        <subtitle lang="co" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="nz" line="Look! Look!"/>
+        <subtitle lang="jm" line="Look! Look!"/>
+        <subtitle lang="pk" line="Look! Look!"/>
+        <subtitle lang="ca" line="Look! Look!"/>
+        <subtitle lang="ar" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="py" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="na" line="Look! Look!"/>
+        <subtitle lang="cu" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gh" line="Look! Look!"/>
+        <subtitle lang="sv" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gm" line="Look! Look!"/>
+        <subtitle lang="vu" line="Look! Look!"/>
+        <subtitle lang="cl" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="us" line="Look! Look!"/>
+        <subtitle lang="bd" line="Look! Look!"/>
+        <subtitle lang="ke" line="Look! Look!"/>
+        <subtitle lang="sb" line="Look! Look!"/>
+        <subtitle lang="cr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sp" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="vc" line="Look! Look!"/>
+        <subtitle lang="za" line="Look! Look!"/>
+        <subtitle lang="tt" line="Look! Look!"/>
+        <subtitle lang="mu" line="Look! Look!"/>
+        <subtitle lang="bo" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sl" line="Look! Look!"/>
+        <subtitle lang="pa" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sco" line="Look! Look!"/>
+        <subtitle lang="hn" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gt" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="zw" line="Look! Look!"/>
+      <subtitle lang="ine" line="Look! Look!"/>
+			</subtitles>
+    </line>
+    <line words="Guarda! Guarda!" start="51319" length="3147">
+      <highlight index="0" start="0" length="829"/>
+      <highlight index="1" start="1870" length="1054"/>
+      <subtitles>
+        <subtitle lang="en" line="Look! Look!"/>
+        <subtitle lang="dm" line="Look! Look!"/>
+        <subtitle lang="ng" line="Look! Look!"/>
+        <subtitle lang="ni" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bz" line="Look! Look!"/>
+        <subtitle lang="ag" line="Look! Look!"/>
+        <subtitle lang="bw" line="Look! Look!"/>
+        <subtitle lang="au" line="Look! Look!"/>
+        <subtitle lang="ec" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="pr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="mt" line="Look! Look!"/>
+        <subtitle lang="ae" line="Look! Look!"/>
+        <subtitle lang="to" line="Look! Look!"/>
+        <subtitle lang="es" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="rw" line="Look! Look!"/>
+        <subtitle lang="fj" line="Look! Look!"/>
+        <subtitle lang="pe" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gy" line="Look! Look!"/>
+        <subtitle lang="zm" line="Look! Look!"/>
+        <subtitle lang="ve" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sg" line="Look! Look!"/>
+        <subtitle lang="mx" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="do" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="bs" line="Look! Look!"/>
+        <subtitle lang="ug" line="Look! Look!"/>
+        <subtitle lang="ws" line="Look! Look!"/>
+        <subtitle lang="tz" line="Look! Look!"/>
+        <subtitle lang="co" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="nz" line="Look! Look!"/>
+        <subtitle lang="jm" line="Look! Look!"/>
+        <subtitle lang="pk" line="Look! Look!"/>
+        <subtitle lang="ca" line="Look! Look!"/>
+        <subtitle lang="ar" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="py" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="na" line="Look! Look!"/>
+        <subtitle lang="cu" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gh" line="Look! Look!"/>
+        <subtitle lang="sv" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gm" line="Look! Look!"/>
+        <subtitle lang="vu" line="Look! Look!"/>
+        <subtitle lang="cl" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="us" line="Look! Look!"/>
+        <subtitle lang="bd" line="Look! Look!"/>
+        <subtitle lang="ke" line="Look! Look!"/>
+        <subtitle lang="sb" line="Look! Look!"/>
+        <subtitle lang="cr" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sp" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="vc" line="Look! Look!"/>
+        <subtitle lang="za" line="Look! Look!"/>
+        <subtitle lang="tt" line="Look! Look!"/>
+        <subtitle lang="mu" line="Look! Look!"/>
+        <subtitle lang="bo" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sl" line="Look! Look!"/>
+        <subtitle lang="pa" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="sco" line="Look! Look!"/>
+        <subtitle lang="hn" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="gt" line="&#xA1;Mira! &#xA1;Mira!"/>
+        <subtitle lang="zw" line="Look! Look!"/>
+      <subtitle lang="ine" line="Look! Look!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la bella addormentata!" start="54740" length="3422">
+      <highlight index="0" start="72" length="533"/>
+      <highlight index="1" start="645" length="200"/>
+      <highlight index="2" start="871" length="969"/>
+      <highlight index="3" start="1896" length="1517"/>
+      <subtitles>
+        <subtitle lang="en" line="Here&#x2019;s beautiful sleeping beauty!"/>
+        <subtitle lang="dm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ng" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ni" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="bz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ag" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bw" line="Here's the sleeping beauty!"/>
+        <subtitle lang="au" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ec" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="pr" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="mt" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ae" line="Here's the sleeping beauty!"/>
+        <subtitle lang="to" line="Here's the sleeping beauty!"/>
+        <subtitle lang="es" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="rw" line="Here's the sleeping beauty!"/>
+        <subtitle lang="fj" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pe" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gy" line="Here's the sleeping beauty!"/>
+        <subtitle lang="zm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ve" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sg" line="Here's the sleeping beauty!"/>
+        <subtitle lang="mx" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="do" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="bs" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ug" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ws" line="Here's the sleeping beauty!"/>
+        <subtitle lang="tz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="co" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="nz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="jm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pk" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ca" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ar" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="py" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="na" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cu" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gh" line="Here's the sleeping beauty!"/>
+        <subtitle lang="sv" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="vu" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cl" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="us" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bd" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ke" line="Here's the sleeping beauty!"/>
+        <subtitle lang="sb" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cr" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sp" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="vc" line="Here's the sleeping beauty!"/>
+        <subtitle lang="za" line="Here's the sleeping beauty!"/>
+        <subtitle lang="tt" line="Here's the sleeping beauty!"/>
+        <subtitle lang="mu" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bo" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sl" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pa" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sco" line="Here's the sleeping beauty!"/>
+        <subtitle lang="hn" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gt" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="zw" line="Here's the sleeping beauty!"/>
+      <subtitle lang="ine" line="Here&#x2019;s beautiful sleeping beauty!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la bella. E' affascinante!" start="58435" length="3422">
+      <highlight index="0" start="32" length="604"/>
+      <highlight index="1" start="694" length="200"/>
+      <highlight index="2" start="976" length="976"/>
+      <highlight index="3" start="1990" length="200"/>
+      <highlight index="4" start="2235" length="1138"/>
+      <subtitles>
+        <subtitle lang="en" line="Look, she&#x2019;s beautiful! She&#x2019;s charming!"/>
+        <subtitle lang="dm" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ng" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ni" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="bz" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ag" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="bw" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="au" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ec" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="pr" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="mt" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ae" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="to" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="es" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="rw" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="fj" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="pe" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gy" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="zm" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ve" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sg" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="mx" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="do" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="bs" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ug" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ws" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="tz" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="co" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="nz" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="jm" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="pk" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ca" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ar" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="py" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="na" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="cu" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gh" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="sv" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gm" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="vu" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="cl" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="us" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="bd" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="ke" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="sb" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="cr" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sp" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="vc" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="za" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="tt" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="mu" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="bo" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sl" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="pa" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sco" line="Here's the beauty. She is charming!"/>
+        <subtitle lang="hn" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gt" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="zw" line="Here's the beauty. She is charming!"/>
+      <subtitle lang="ine" line="Look, she&#x2019;s beautiful! She&#x2019;s charming!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la bella addormentata!" start="62130" length="3422">
+      <highlight index="0" start="72" length="533"/>
+      <highlight index="1" start="645" length="200"/>
+      <highlight index="2" start="871" length="969"/>
+      <highlight index="3" start="1896" length="1517"/>
+      <subtitles>
+        <subtitle lang="en" line="Here&#x2019;s beautiful sleeping beauty!"/>
+        <subtitle lang="dm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ng" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ni" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="bz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ag" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bw" line="Here's the sleeping beauty!"/>
+        <subtitle lang="au" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ec" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="pr" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="mt" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ae" line="Here's the sleeping beauty!"/>
+        <subtitle lang="to" line="Here's the sleeping beauty!"/>
+        <subtitle lang="es" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="rw" line="Here's the sleeping beauty!"/>
+        <subtitle lang="fj" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pe" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gy" line="Here's the sleeping beauty!"/>
+        <subtitle lang="zm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ve" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sg" line="Here's the sleeping beauty!"/>
+        <subtitle lang="mx" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="do" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="bs" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ug" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ws" line="Here's the sleeping beauty!"/>
+        <subtitle lang="tz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="co" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="nz" line="Here's the sleeping beauty!"/>
+        <subtitle lang="jm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pk" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ca" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ar" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="py" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="na" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cu" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gh" line="Here's the sleeping beauty!"/>
+        <subtitle lang="sv" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gm" line="Here's the sleeping beauty!"/>
+        <subtitle lang="vu" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cl" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="us" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bd" line="Here's the sleeping beauty!"/>
+        <subtitle lang="ke" line="Here's the sleeping beauty!"/>
+        <subtitle lang="sb" line="Here's the sleeping beauty!"/>
+        <subtitle lang="cr" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sp" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="vc" line="Here's the sleeping beauty!"/>
+        <subtitle lang="za" line="Here's the sleeping beauty!"/>
+        <subtitle lang="tt" line="Here's the sleeping beauty!"/>
+        <subtitle lang="mu" line="Here's the sleeping beauty!"/>
+        <subtitle lang="bo" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sl" line="Here's the sleeping beauty!"/>
+        <subtitle lang="pa" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="sco" line="Here's the sleeping beauty!"/>
+        <subtitle lang="hn" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="gt" line="La Bella Durmiente, tan bonita."/>
+        <subtitle lang="zw" line="Here's the sleeping beauty!"/>
+      <subtitle lang="ine" line="Here&#x2019;s beautiful sleeping beauty!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco, la bella! &#xE8; cos&#xEC; delicata!" start="65689" length="3695">
+      <highlight index="0" start="0" length="545"/>
+      <highlight index="1" start="595" length="200"/>
+      <highlight index="2" start="876" length="562"/>
+      <highlight index="3" start="1504" length="200"/>
+      <highlight index="4" start="1777" length="479"/>
+      <highlight index="5" start="2289" length="1356"/>
+      <subtitles>
+        <subtitle lang="en" line="Look, she&#x2019;s beautiful! She&#x2019;s so delicate!"/>
+        <subtitle lang="dm" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ng" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ni" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="bz" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ag" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="bw" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="au" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ec" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="pr" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="mt" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ae" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="to" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="es" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="rw" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="fj" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="pe" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gy" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="zm" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ve" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sg" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="mx" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="do" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="bs" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ug" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ws" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="tz" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="co" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="nz" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="jm" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="pk" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ca" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ar" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="py" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="na" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="cu" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gh" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="sv" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gm" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="vu" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="cl" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="us" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="bd" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="ke" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="sb" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="cr" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sp" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="vc" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="za" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="tt" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="mu" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="bo" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sl" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="pa" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="sco" line="Here's the beauty. She is so silent!"/>
+        <subtitle lang="hn" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="gt" line="La Bella Durmiente, tan callada."/>
+        <subtitle lang="zw" line="Here's the beauty. She is so silent!"/>
+      <subtitle lang="ine" line="Look, she&#x2019;s beautiful! She&#x2019;s so delicate!"/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="73626" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2722" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence."/>
+        <subtitle lang="dm" line="In silence! In silence."/>
+        <subtitle lang="ng" line="In silence! In silence."/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence."/>
+        <subtitle lang="ag" line="In silence! In silence."/>
+        <subtitle lang="bw" line="In silence! In silence."/>
+        <subtitle lang="au" line="In silence! In silence."/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence."/>
+        <subtitle lang="ae" line="In silence! In silence."/>
+        <subtitle lang="to" line="In silence! In silence."/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence."/>
+        <subtitle lang="fj" line="In silence! In silence."/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence."/>
+        <subtitle lang="zm" line="In silence! In silence."/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence."/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence."/>
+        <subtitle lang="ug" line="In silence! In silence."/>
+        <subtitle lang="ws" line="In silence! In silence."/>
+        <subtitle lang="tz" line="In silence! In silence."/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="jm" line="In silence! In silence."/>
+        <subtitle lang="pk" line="In silence! In silence."/>
+        <subtitle lang="ca" line="In silence! In silence."/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence."/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence."/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence."/>
+        <subtitle lang="vu" line="In silence! In silence."/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence."/>
+        <subtitle lang="bd" line="In silence! In silence."/>
+        <subtitle lang="ke" line="In silence! In silence."/>
+        <subtitle lang="sb" line="In silence! In silence."/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence."/>
+        <subtitle lang="za" line="In silence! In silence."/>
+        <subtitle lang="tt" line="In silence! In silence."/>
+        <subtitle lang="mu" line="In silence! In silence."/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence."/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence."/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence."/>
+      <subtitle lang="ine" line="In silence! In silence."/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="77184" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2666" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence."/>
+        <subtitle lang="dm" line="In silence! In silence."/>
+        <subtitle lang="ng" line="In silence! In silence."/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence."/>
+        <subtitle lang="ag" line="In silence! In silence."/>
+        <subtitle lang="bw" line="In silence! In silence."/>
+        <subtitle lang="au" line="In silence! In silence."/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence."/>
+        <subtitle lang="ae" line="In silence! In silence."/>
+        <subtitle lang="to" line="In silence! In silence."/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence."/>
+        <subtitle lang="fj" line="In silence! In silence."/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence."/>
+        <subtitle lang="zm" line="In silence! In silence."/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence."/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence."/>
+        <subtitle lang="ug" line="In silence! In silence."/>
+        <subtitle lang="ws" line="In silence! In silence."/>
+        <subtitle lang="tz" line="In silence! In silence."/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence."/>
+        <subtitle lang="jm" line="In silence! In silence."/>
+        <subtitle lang="pk" line="In silence! In silence."/>
+        <subtitle lang="ca" line="In silence! In silence."/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence."/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence."/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence."/>
+        <subtitle lang="vu" line="In silence! In silence."/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence."/>
+        <subtitle lang="bd" line="In silence! In silence."/>
+        <subtitle lang="ke" line="In silence! In silence."/>
+        <subtitle lang="sb" line="In silence! In silence."/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence."/>
+        <subtitle lang="za" line="In silence! In silence."/>
+        <subtitle lang="tt" line="In silence! In silence."/>
+        <subtitle lang="mu" line="In silence! In silence."/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence."/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence."/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence."/>
+      <subtitle lang="ine" line="In silence! In silence."/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="80658" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2774" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence."/>
+        <subtitle lang="dm" line="In silence! In silence."/>
+        <subtitle lang="ng" line="In silence! In silence."/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence."/>
+        <subtitle lang="ag" line="In silence! In silence."/>
+        <subtitle lang="bw" line="In silence! In silence."/>
+        <subtitle lang="au" line="In silence! In silence."/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence."/>
+        <subtitle lang="ae" line="In silence! In silence."/>
+        <subtitle lang="to" line="In silence! In silence."/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence."/>
+        <subtitle lang="fj" line="In silence! In silence."/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence."/>
+        <subtitle lang="zm" line="In silence! In silence."/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence."/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence."/>
+        <subtitle lang="ug" line="In silence! In silence."/>
+        <subtitle lang="ws" line="In silence! In silence."/>
+        <subtitle lang="tz" line="In silence! In silence."/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence."/>
+        <subtitle lang="jm" line="In silence! In silence."/>
+        <subtitle lang="pk" line="In silence! In silence."/>
+        <subtitle lang="ca" line="In silence! In silence."/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence."/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence."/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence."/>
+        <subtitle lang="vu" line="In silence! In silence."/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence."/>
+        <subtitle lang="bd" line="In silence! In silence."/>
+        <subtitle lang="ke" line="In silence! In silence."/>
+        <subtitle lang="sb" line="In silence! In silence."/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence."/>
+        <subtitle lang="za" line="In silence! In silence."/>
+        <subtitle lang="tt" line="In silence! In silence."/>
+        <subtitle lang="mu" line="In silence! In silence."/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence."/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence."/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence."/>
+      <subtitle lang="ine" line="In silence! In silence."/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="84697" length="3558">
+      <highlight index="0" start="382" length="1002"/>
+      <highlight index="1" start="2356" length="1066"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence."/>
+        <subtitle lang="dm" line="In silence! In silence."/>
+        <subtitle lang="ng" line="In silence! In silence."/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence."/>
+        <subtitle lang="ag" line="In silence! In silence."/>
+        <subtitle lang="bw" line="In silence! In silence."/>
+        <subtitle lang="au" line="In silence! In silence."/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence."/>
+        <subtitle lang="ae" line="In silence! In silence."/>
+        <subtitle lang="to" line="In silence! In silence."/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence."/>
+        <subtitle lang="fj" line="In silence! In silence."/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence."/>
+        <subtitle lang="zm" line="In silence! In silence."/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence."/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence."/>
+        <subtitle lang="ug" line="In silence! In silence."/>
+        <subtitle lang="ws" line="In silence! In silence."/>
+        <subtitle lang="tz" line="In silence! In silence."/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence."/>
+        <subtitle lang="jm" line="In silence! In silence."/>
+        <subtitle lang="pk" line="In silence! In silence."/>
+        <subtitle lang="ca" line="In silence! In silence."/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence."/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence."/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence."/>
+        <subtitle lang="vu" line="In silence! In silence."/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence."/>
+        <subtitle lang="bd" line="In silence! In silence."/>
+        <subtitle lang="ke" line="In silence! In silence."/>
+        <subtitle lang="sb" line="In silence! In silence."/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence."/>
+        <subtitle lang="za" line="In silence! In silence."/>
+        <subtitle lang="tt" line="In silence! In silence."/>
+        <subtitle lang="mu" line="In silence! In silence."/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence."/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence."/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence."/>
+      <subtitle lang="ine" line="In silence! In silence."/>
+			</subtitles>
+    </line>
+    <line words="Ecco la strega cattiva. State silenzio!!" start="88817" length="3147">
+      <highlight index="0" start="63" length="338"/>
+      <highlight index="1" start="429" length="200"/>
+      <highlight index="2" start="668" length="317"/>
+      <highlight index="3" start="1034" length="648"/>
+      <highlight index="4" start="1717" length="200"/>
+      <highlight index="5" start="1999" length="1098"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="dm" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ng" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ni" line="Es la bruja malvada."/>
+        <subtitle lang="bz" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ag" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="bw" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="au" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ec" line="Es la bruja malvada."/>
+        <subtitle lang="pr" line="Es la bruja malvada."/>
+        <subtitle lang="mt" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ae" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="to" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="es" line="Es la bruja malvada."/>
+        <subtitle lang="rw" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="fj" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="pe" line="Es la bruja malvada."/>
+        <subtitle lang="gy" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="zm" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ve" line="Es la bruja malvada."/>
+        <subtitle lang="sg" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="mx" line="Es la bruja malvada."/>
+        <subtitle lang="do" line="Es la bruja malvada."/>
+        <subtitle lang="bs" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ug" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ws" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="tz" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="co" line="Es la bruja malvada."/>
+        <subtitle lang="nz" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="jm" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="pk" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ca" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ar" line="Es la bruja malvada."/>
+        <subtitle lang="py" line="Es la bruja malvada."/>
+        <subtitle lang="na" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="cu" line="Es la bruja malvada."/>
+        <subtitle lang="gh" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="sv" line="Es la bruja malvada."/>
+        <subtitle lang="gm" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="vu" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="cl" line="Es la bruja malvada."/>
+        <subtitle lang="us" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="bd" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="ke" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="sb" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="cr" line="Es la bruja malvada."/>
+        <subtitle lang="sp" line="Es la bruja malvada."/>
+        <subtitle lang="vc" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="za" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="tt" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="mu" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="bo" line="Es la bruja malvada."/>
+        <subtitle lang="sl" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="pa" line="Es la bruja malvada."/>
+        <subtitle lang="sco" line="Here's the wicked witch. Be quiet!"/>
+        <subtitle lang="hn" line="Es la bruja malvada."/>
+        <subtitle lang="gt" line="Es la bruja malvada."/>
+        <subtitle lang="zw" line="Here's the wicked witch. Be quiet!"/>
+      <subtitle lang="ine" line="Here's the wicked witch. Be quiet!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la strega cattiva. Sedetevi!" start="92375" length="3421">
+      <highlight index="0" start="38" length="421"/>
+      <highlight index="1" start="497" length="200"/>
+      <highlight index="2" start="711" length="466"/>
+      <highlight index="3" start="1224" length="758"/>
+      <highlight index="4" start="2035" length="1102"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="dm" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ng" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ni" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="bz" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ag" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="bw" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="au" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ec" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="pr" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="mt" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ae" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="to" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="es" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="rw" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="fj" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="pe" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="gy" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="zm" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ve" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="sg" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="mx" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="do" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="bs" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ug" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ws" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="tz" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="co" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="nz" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="jm" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="pk" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ca" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ar" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="py" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="na" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="cu" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="gh" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="sv" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="gm" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="vu" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="cl" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="us" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="bd" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="ke" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="sb" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="cr" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="sp" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="vc" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="za" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="tt" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="mu" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="bo" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="sl" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="pa" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="sco" line="Here's the wicked witch. Sit down!"/>
+        <subtitle lang="hn" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="gt" line="Es la bruja malvada. &#xA1;Si&#xE9;ntate!"/>
+        <subtitle lang="zw" line="Here's the wicked witch. Sit down!"/>
+      <subtitle lang="ine" line="Here's the wicked witch. Sit down!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la strega cattiva. Alzatevi!" start="95933" length="3284">
+      <highlight index="0" start="0" length="455"/>
+      <highlight index="1" start="514" length="147"/>
+      <highlight index="2" start="697" length="338"/>
+      <highlight index="3" start="1072" length="558"/>
+      <highlight index="4" start="1682" length="1227"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the wicked witch. Stand up!!"/>
+        <subtitle lang="dm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ng" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ni" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="bz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ag" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bw" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="au" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ec" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="pr" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="mt" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ae" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="to" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="es" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="rw" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="fj" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pe" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="gy" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="zm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ve" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="sg" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="mx" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="do" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="bs" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ug" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ws" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="tz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="co" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="nz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="jm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pk" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ca" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ar" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="py" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="na" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cu" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="gh" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="sv" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="gm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="vu" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cl" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="us" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bd" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ke" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="sb" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cr" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="sp" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="vc" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="za" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="tt" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="mu" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bo" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="sl" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pa" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="sco" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="hn" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="gt" line="Es la bruja malvada. &#xA1;Lev&#xE1;ntate!"/>
+        <subtitle lang="zw" line="Here's the wicked witch, put up your hand!"/>
+      <subtitle lang="ine" line="Here's the wicked witch. Stand up!!"/>
+			</subtitles>
+    </line>
+    <line words="Ecco la strega cattiva. Alzate le mani!" start="99217" length="3285">
+      <highlight index="0" start="102" length="419"/>
+      <highlight index="1" start="632" length="200"/>
+      <highlight index="2" start="881" length="552"/>
+      <highlight index="3" start="1477" length="550"/>
+      <highlight index="4" start="2072" length="200"/>
+      <highlight index="5" start="2300" length="200"/>
+      <highlight index="6" start="2520" length="906"/>
+      <subtitles>
+        <subtitle lang="en" line="Here's the wicked witch. Hands up!"/>
+        <subtitle lang="dm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ng" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ni" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="bz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ag" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bw" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="au" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ec" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="pr" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="mt" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ae" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="to" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="es" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="rw" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="fj" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pe" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="gy" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="zm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ve" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="sg" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="mx" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="do" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="bs" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ug" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ws" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="tz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="co" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="nz" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="jm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pk" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ca" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ar" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="py" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="na" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cu" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="gh" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="sv" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="gm" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="vu" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cl" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="us" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bd" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="ke" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="sb" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="cr" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="sp" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="vc" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="za" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="tt" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="mu" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="bo" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="sl" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="pa" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="sco" line="Here's the wicked witch, put up your hand!"/>
+        <subtitle lang="hn" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="gt" line="Es la bruja malvada. &#xA1;Levanta tu mano!"/>
+        <subtitle lang="zw" line="Here's the wicked witch, put up your hand!"/>
+      <subtitle lang="ine" line="Here's the wicked witch. Hands up!"/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="106881" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2774" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence!"/>
+        <subtitle lang="dm" line="In silence! In silence!"/>
+        <subtitle lang="ng" line="In silence! In silence!"/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence!"/>
+        <subtitle lang="ag" line="In silence! In silence!"/>
+        <subtitle lang="bw" line="In silence! In silence!"/>
+        <subtitle lang="au" line="In silence! In silence!"/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence!"/>
+        <subtitle lang="ae" line="In silence! In silence!"/>
+        <subtitle lang="to" line="In silence! In silence!"/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence!"/>
+        <subtitle lang="fj" line="In silence! In silence!"/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence!"/>
+        <subtitle lang="zm" line="In silence! In silence!"/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence!"/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence!"/>
+        <subtitle lang="ug" line="In silence! In silence!"/>
+        <subtitle lang="ws" line="In silence! In silence!"/>
+        <subtitle lang="tz" line="In silence! In silence!"/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence!"/>
+        <subtitle lang="jm" line="In silence! In silence!"/>
+        <subtitle lang="pk" line="In silence! In silence!"/>
+        <subtitle lang="ca" line="In silence! In silence!"/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence!"/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence!"/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence!"/>
+        <subtitle lang="vu" line="In silence! In silence!"/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence!"/>
+        <subtitle lang="bd" line="In silence! In silence!"/>
+        <subtitle lang="ke" line="In silence! In silence!"/>
+        <subtitle lang="sb" line="In silence! In silence!"/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence!"/>
+        <subtitle lang="za" line="In silence! In silence!"/>
+        <subtitle lang="tt" line="In silence! In silence!"/>
+        <subtitle lang="mu" line="In silence! In silence!"/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence!"/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence!"/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence!"/>
+      <subtitle lang="ine" line="In silence! In silence!"/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="110576" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2666" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence!"/>
+        <subtitle lang="dm" line="In silence! In silence!"/>
+        <subtitle lang="ng" line="In silence! In silence!"/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence!"/>
+        <subtitle lang="ag" line="In silence! In silence!"/>
+        <subtitle lang="bw" line="In silence! In silence!"/>
+        <subtitle lang="au" line="In silence! In silence!"/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence!"/>
+        <subtitle lang="ae" line="In silence! In silence!"/>
+        <subtitle lang="to" line="In silence! In silence!"/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence!"/>
+        <subtitle lang="fj" line="In silence! In silence!"/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence!"/>
+        <subtitle lang="zm" line="In silence! In silence!"/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence!"/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence!"/>
+        <subtitle lang="ug" line="In silence! In silence!"/>
+        <subtitle lang="ws" line="In silence! In silence!"/>
+        <subtitle lang="tz" line="In silence! In silence!"/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence!"/>
+        <subtitle lang="jm" line="In silence! In silence!"/>
+        <subtitle lang="pk" line="In silence! In silence!"/>
+        <subtitle lang="ca" line="In silence! In silence!"/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence!"/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence!"/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence!"/>
+        <subtitle lang="vu" line="In silence! In silence!"/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence!"/>
+        <subtitle lang="bd" line="In silence! In silence!"/>
+        <subtitle lang="ke" line="In silence! In silence!"/>
+        <subtitle lang="sb" line="In silence! In silence!"/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence!"/>
+        <subtitle lang="za" line="In silence! In silence!"/>
+        <subtitle lang="tt" line="In silence! In silence!"/>
+        <subtitle lang="mu" line="In silence! In silence!"/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence!"/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence!"/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence!"/>
+      <subtitle lang="ine" line="In silence! In silence!"/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="114408" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2666" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence!"/>
+        <subtitle lang="dm" line="In silence! In silence!"/>
+        <subtitle lang="ng" line="In silence! In silence!"/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence!"/>
+        <subtitle lang="ag" line="In silence! In silence!"/>
+        <subtitle lang="bw" line="In silence! In silence!"/>
+        <subtitle lang="au" line="In silence! In silence!"/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence!"/>
+        <subtitle lang="ae" line="In silence! In silence!"/>
+        <subtitle lang="to" line="In silence! In silence!"/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence!"/>
+        <subtitle lang="fj" line="In silence! In silence!"/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence!"/>
+        <subtitle lang="zm" line="In silence! In silence!"/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence!"/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence!"/>
+        <subtitle lang="ug" line="In silence! In silence!"/>
+        <subtitle lang="ws" line="In silence! In silence!"/>
+        <subtitle lang="tz" line="In silence! In silence!"/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence!"/>
+        <subtitle lang="jm" line="In silence! In silence!"/>
+        <subtitle lang="pk" line="In silence! In silence!"/>
+        <subtitle lang="ca" line="In silence! In silence!"/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence!"/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence!"/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence!"/>
+        <subtitle lang="vu" line="In silence! In silence!"/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence!"/>
+        <subtitle lang="bd" line="In silence! In silence!"/>
+        <subtitle lang="ke" line="In silence! In silence!"/>
+        <subtitle lang="sb" line="In silence! In silence!"/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence!"/>
+        <subtitle lang="za" line="In silence! In silence!"/>
+        <subtitle lang="tt" line="In silence! In silence!"/>
+        <subtitle lang="mu" line="In silence! In silence!"/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence!"/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence!"/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence!"/>
+      <subtitle lang="ine" line="In silence! In silence!"/>
+			</subtitles>
+    </line>
+    <line words="Silenzio! Silenzio!" start="118103" length="3558">
+      <highlight index="0" start="942" length="856"/>
+      <highlight index="1" start="2666" length="791"/>
+      <subtitles>
+        <subtitle lang="en" line="In silence! In silence!"/>
+        <subtitle lang="dm" line="In silence! In silence!"/>
+        <subtitle lang="ng" line="In silence! In silence!"/>
+        <subtitle lang="ni" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bz" line="In silence! In silence!"/>
+        <subtitle lang="ag" line="In silence! In silence!"/>
+        <subtitle lang="bw" line="In silence! In silence!"/>
+        <subtitle lang="au" line="In silence! In silence!"/>
+        <subtitle lang="ec" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="pr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="mt" line="In silence! In silence!"/>
+        <subtitle lang="ae" line="In silence! In silence!"/>
+        <subtitle lang="to" line="In silence! In silence!"/>
+        <subtitle lang="es" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="rw" line="In silence! In silence!"/>
+        <subtitle lang="fj" line="In silence! In silence!"/>
+        <subtitle lang="pe" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gy" line="In silence! In silence!"/>
+        <subtitle lang="zm" line="In silence! In silence!"/>
+        <subtitle lang="ve" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sg" line="In silence! In silence!"/>
+        <subtitle lang="mx" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="do" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="bs" line="In silence! In silence!"/>
+        <subtitle lang="ug" line="In silence! In silence!"/>
+        <subtitle lang="ws" line="In silence! In silence!"/>
+        <subtitle lang="tz" line="In silence! In silence!"/>
+        <subtitle lang="co" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="nz" line="In silence! In silence!"/>
+        <subtitle lang="jm" line="In silence! In silence!"/>
+        <subtitle lang="pk" line="In silence! In silence!"/>
+        <subtitle lang="ca" line="In silence! In silence!"/>
+        <subtitle lang="ar" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="py" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="na" line="In silence! In silence!"/>
+        <subtitle lang="cu" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gh" line="In silence! In silence!"/>
+        <subtitle lang="sv" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gm" line="In silence! In silence!"/>
+        <subtitle lang="vu" line="In silence! In silence!"/>
+        <subtitle lang="cl" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="us" line="In silence! In silence!"/>
+        <subtitle lang="bd" line="In silence! In silence!"/>
+        <subtitle lang="ke" line="In silence! In silence!"/>
+        <subtitle lang="sb" line="In silence! In silence!"/>
+        <subtitle lang="cr" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sp" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="vc" line="In silence! In silence!"/>
+        <subtitle lang="za" line="In silence! In silence!"/>
+        <subtitle lang="tt" line="In silence! In silence!"/>
+        <subtitle lang="mu" line="In silence! In silence!"/>
+        <subtitle lang="bo" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sl" line="In silence! In silence!"/>
+        <subtitle lang="pa" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="sco" line="In silence! In silence!"/>
+        <subtitle lang="hn" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="gt" line="&#xA1;Silencio! &#xA1;Silencio!"/>
+        <subtitle lang="zw" line="In silence! In silence!"/>
+      <subtitle lang="ine" line="In silence! In silence!"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

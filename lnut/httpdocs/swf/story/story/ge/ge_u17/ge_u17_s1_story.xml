@@ -1,0 +1,940 @@
+<?xml version="1.0"?>
+<karaoke length="170553">
+  <lines>
+    <line words="Meine liebste Jahreszeit." start="0" length="5095" useLNutResource="false" useStoryResource="false" image="">
+      <subtitles>
+        <subtitle lang="jm" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="us" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="zw" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="gy" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="rw" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="dk" line="Min yndlings&#xE5;rstid."/>
+        <subtitle lang="ng" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ca" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="vc" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="bs" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ws" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="en" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="sb" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="na" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ug" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="nz" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ag" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="sco" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ae" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="bz" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="sg" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="dm" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="gh" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="au" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="gm" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="tt" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="bw" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="tz" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="vu" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="za" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="pk" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="sl" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="bd" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="ke" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="to" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="fj" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="mu" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="zm" line="MY FAVOURITE SEASON"/>
+        <subtitle lang="mt" line="MY FAVOURITE SEASON"/>
+      </subtitles>
+      <highlights>
+        <highlight index="0" start="2239" length="300"/>
+        <highlight index="1" start="2508" length="408"/>
+        <highlight index="2" start="2909" length="923"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Heute will ich, dass ihr etwas &#xFC;ber eure liebste Jahreszeit erz&#xE4;hlt,&#xA7; sagt der Lehrer Frau Adams zu den Kindern. &#xA7;Der Fr&#xFC;hling ist im M&#xE4;rz, April und Mai. Wer mag den Fr&#xFC;hling?&#xA7;" start="4795" length="16486" useLNutResource="true" useStoryResource="false" image="17#5#4">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;I dag vil jeg gerne have jer til at fort&#xE6;lle mig om jeres yndlings&#xE5;rstid&#x201D;, siger b&#xF8;rnenes l&#xE6;rer, Mrs Adams. &#x201D;Det er for&#xE5;r i marts, april og maj. Hvem kan lide for&#xE5;ret?&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;Today, I want you to tell me about your favourite season,&#x201D; says the children&#x2019;s teacher, Mrs Adams. &#x201C;Spring is in March, April and May. Who likes spring?&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="es" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="co" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="gt" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="pe" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="ni" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="do" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="bo" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="ve" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="ar" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="cu" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="pr" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="py" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="ec" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="hn" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="sv" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="cr" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/><subtitle lang="pa" line="&#x201C;Hoy quiero que me cuenten de su estaci&#xF3;n favorita,&#x201D; dice la miss Adams a sus alumnos, &#x201C;la primavera boreal es en marzo, abril y mayo. &#xBF;A qui&#xE9;n le gusta la primavera?&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2191" length="398"/>
+        <highlight index="1" start="2539" length="299"/>
+        <highlight index="2" start="2813" length="399"/>
+        <highlight index="3" start="3336" length="299"/>
+        <highlight index="4" start="3585" length="224"/>
+        <highlight index="5" start="3735" length="423"/>
+        <highlight index="6" start="4083" length="324"/>
+        <highlight index="7" start="4332" length="274"/>
+        <highlight index="8" start="4532" length="373"/>
+        <highlight index="9" start="4830" length="747"/>
+        <highlight index="10" start="5528" length="448"/>
+        <highlight index="11" start="6374" length="349"/>
+        <highlight index="12" start="6648" length="224"/>
+        <highlight index="13" start="6822" length="349"/>
+        <highlight index="14" start="7121" length="349"/>
+        <highlight index="15" start="7420" length="473"/>
+        <highlight index="16" start="7819" length="199"/>
+        <highlight index="17" start="7943" length="224"/>
+        <highlight index="18" start="8092" length="374"/>
+        <highlight index="19" start="10458" length="324"/>
+        <highlight index="20" start="10707" length="548"/>
+        <highlight index="21" start="11180" length="349"/>
+        <highlight index="22" start="11479" length="224"/>
+        <highlight index="23" start="11628" length="548"/>
+        <highlight index="24" start="12102" length="698"/>
+        <highlight index="25" start="12799" length="224"/>
+        <highlight index="26" start="12973" length="473"/>
+        <highlight index="27" start="14094" length="299"/>
+        <highlight index="28" start="14293" length="373"/>
+        <highlight index="29" start="14542" length="224"/>
+        <highlight index="30" start="14716" length="498"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich mag den Fr&#xFC;hling,&#xA7; sagt Sunita. &#xA7;Im Fr&#xFC;hling ist es warm und sonnig. Meine Lieblingsblumen sind gelbe Narzissen und rosa Kirschbl&#xFC;ten. Ich mag auch K&#xFC;ken und L&#xE4;mmer.&#xA7;" start="21281" length="16936" useLNutResource="true" useStoryResource="false" image="17#3#9">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;Jeg kan godt lide for&#xE5;ret&#x201D;, siger Sunita. &#x201D;Om for&#xE5;ret er det varmt, og solen skinner. Mine yndlingsblomster er gule p&#xE5;skeliljer og rosa blomster. Jeg kan ogs&#xE5; godt lide kyllinger og lam.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;I like spring,&#x201D; says Sunita. &#x201C;In spring it is warm and sunny. My favourite flowers are yellow daffodils and pink blossom. I also like chicks and lambs.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="es" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="co" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="gt" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="pe" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="ni" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="do" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="bo" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="ve" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="ar" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="cu" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="pr" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="py" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="ec" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="hn" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="sv" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="cr" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/><subtitle lang="pa" line="&#x201C;A m&#xED; me gusta la primavera,&#x201D; dice Sunita, &#x201C;en primavera hace calor y est&#xE1; soleado. Mis flores favoritas son los narcisos amarillos y las rosas. Tambi&#xE9;n me gustan los pollitos y los corderos.&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2251" length="409"/>
+        <highlight index="1" start="2609" length="332"/>
+        <highlight index="2" start="2839" length="205"/>
+        <highlight index="3" start="2992" length="512"/>
+        <highlight index="4" start="3581" length="307"/>
+        <highlight index="5" start="3837" length="665"/>
+        <highlight index="6" start="5499" length="333"/>
+        <highlight index="7" start="5755" length="435"/>
+        <highlight index="8" start="6139" length="230"/>
+        <highlight index="9" start="6292" length="205"/>
+        <highlight index="10" start="6446" length="409"/>
+        <highlight index="11" start="6779" length="255"/>
+        <highlight index="12" start="6958" length="460"/>
+        <highlight index="13" start="8799" length="410"/>
+        <highlight index="14" start="9132" length="998"/>
+        <highlight index="15" start="10053" length="435"/>
+        <highlight index="16" start="10411" length="460"/>
+        <highlight index="17" start="10718" length="691"/>
+        <highlight index="18" start="11716" length="230"/>
+        <highlight index="19" start="11869" length="384"/>
+        <highlight index="20" start="12278" length="742"/>
+        <highlight index="21" start="13992" length="231"/>
+        <highlight index="22" start="14146" length="332"/>
+        <highlight index="23" start="14402" length="307"/>
+        <highlight index="24" start="14606" length="512"/>
+        <highlight index="25" start="15067" length="179"/>
+        <highlight index="26" start="15195" length="460"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich mag den Fr&#xFC;hling auch,&#xA7; sagt Peter. &#xA7;Ich mag Ostern, weil ich viele Ostereier essen kann. Und der Osterhase ist lustig!&#xA7;" start="37917" length="13039" useLNutResource="true" useStoryResource="false" image="17#3#8">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;Jeg kan ogs&#xE5; godt lide for&#xE5;ret&#x201D;, siger Peter. &#x201D;Jeg kan godt lide p&#xE5;ske, for s&#xE5; f&#xE5;r jeg mange p&#xE5;ske&#xE6;g, som jeg kan spise. Og p&#xE5;skeharen er sjov&#x201D;."/>
+        <subtitle lang="ng" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;I also like spring,&#x201D; says Peter. &#x201C;I like Easter because I have lots of Easter eggs to eat. And the Easter bunny is fun!&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="es" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="co" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="gt" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="pe" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="ni" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="do" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="bo" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="ve" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="ar" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="cu" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="pr" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="py" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="ec" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="hn" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="sv" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="cr" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/><subtitle lang="pa" line="&#x201C;A m&#xED; tambi&#xE9;n me gusta la primavera,&#x201D; dice Pedro, &#x201C;me gusta la Pascua porque tengo much&#xED;simos huevos de Pascua para comer y el conejo de Pascua es muy divertido.&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2402" length="315"/>
+        <highlight index="1" start="2698" length="256"/>
+        <highlight index="2" start="2895" length="177"/>
+        <highlight index="3" start="3033" length="433"/>
+        <highlight index="4" start="3387" length="394"/>
+        <highlight index="5" start="3722" length="315"/>
+        <highlight index="6" start="3958" length="611"/>
+        <highlight index="7" start="4825" length="197"/>
+        <highlight index="8" start="4943" length="335"/>
+        <highlight index="9" start="5199" length="748"/>
+        <highlight index="10" start="6243" length="216"/>
+        <highlight index="11" start="6400" length="138"/>
+        <highlight index="12" start="6519" length="315"/>
+        <highlight index="13" start="6814" length="571"/>
+        <highlight index="14" start="7365" length="296"/>
+        <highlight index="15" start="7641" length="374"/>
+        <highlight index="16" start="8862" length="177"/>
+        <highlight index="17" start="9000" length="236"/>
+        <highlight index="18" start="9158" length="650"/>
+        <highlight index="19" start="9729" length="197"/>
+        <highlight index="20" start="9886" length="631"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Der Sommer ist im Juni, Juli und August. Wer mag den Sommer?&#xA7; fragt Frau Adams." start="50956" length="9292" useLNutResource="true" useStoryResource="false" image="17#5#1">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="us" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zw" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gy" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mx" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/>
+        <subtitle lang="rw" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dk" line="&#x201D;Det er sommer i juni, juli og august. Hvem kan lide sommeren?&#x201D;, sp&#xF8;rger Mrs Adams."/>
+        <subtitle lang="ng" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ca" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vc" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bs" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ws" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="en" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sb" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="na" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ug" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="nz" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ag" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sco" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ae" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bz" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sg" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dm" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gh" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="au" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gm" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tt" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bw" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tz" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vu" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="za" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="pk" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sl" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bd" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ke" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="to" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="fj" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mu" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zm" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mt" line="&#x201C;Summer is in June, July and August. Who likes summer?&#x201D; asks Mrs Adams."/>
+      <subtitle lang="cl" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="es" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="co" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="gt" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="pe" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="ni" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="do" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="bo" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="ve" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="ar" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="cu" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="pr" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="py" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="ec" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="hn" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="sv" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="cr" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/><subtitle lang="pa" line="&#x201C;El verano es en junio, julio y agosto. &#xBF;A qui&#xE9;n le gusta el verano?&#x201D; pregunta miss Adams."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2329" length="281"/>
+        <highlight index="1" start="2596" length="379"/>
+        <highlight index="2" start="2947" length="182"/>
+        <highlight index="3" start="3087" length="183"/>
+        <highlight index="4" start="3228" length="505"/>
+        <highlight index="5" start="3691" length="294"/>
+        <highlight index="6" start="3943" length="225"/>
+        <highlight index="7" start="4140" length="646"/>
+        <highlight index="8" start="5922" length="239"/>
+        <highlight index="9" start="6119" length="281"/>
+        <highlight index="10" start="6371" length="239"/>
+        <highlight index="11" start="6568" length="407"/>
+        <highlight index="12" start="6919" length="337"/>
+        <highlight index="13" start="7214" length="322"/>
+        <highlight index="14" start="7480" length="734"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich mag den Sommer,&#xA7; sagt Maria. &#xA7;Ich bin sehr aufgeregt, weil wir meine Gro&#xDF;eltern in Spanien besuchen werden. Es ist sehr hei&#xDF; und sonnig. Der Himmel ist blau und die Blumen sind lila.&#xA7;" start="59948" length="17984" useLNutResource="true" useStoryResource="false" image="17#5#1">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;Jeg kan godt lide sommeren&#x201D;, siger Marie. &#x201D;Jeg er meget sp&#xE6;ndt, for vi bes&#xF8;ger min bedste i Spanien. Der er det meget varmt, og solen skinner. Himlen er bl&#xE5;, og blomsterne er lilla.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;I like summer,&#x201D; says Maria. &#x201C;I am very excited because we visit my gran in Spain. It is very hot and sunny. The sky is blue and the flowers are purple.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="es" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="co" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="gt" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="pe" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="ni" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="do" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="bo" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="ve" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="ar" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="cu" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="pr" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="py" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="ec" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="hn" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="sv" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="cr" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/><subtitle lang="pa" line="&#x201C;A m&#xED; me gusta el verano,&#x201D; dice Mar&#xED;a, &#x201C;me emociona mucho porque visitamos a mis abuelos en Espa&#xF1;a y hace mucho calor y est&#xE1; soleado. El cielo es azul y las flores moradas.&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2906" length="353"/>
+        <highlight index="1" start="3178" length="380"/>
+        <highlight index="2" start="3449" length="190"/>
+        <highlight index="3" start="3558" length="380"/>
+        <highlight index="4" start="3993" length="380"/>
+        <highlight index="5" start="4319" length="489"/>
+        <highlight index="6" start="5677" length="217"/>
+        <highlight index="7" start="5785" length="299"/>
+        <highlight index="8" start="6030" length="244"/>
+        <highlight index="9" start="6220" length="761"/>
+        <highlight index="10" start="7660" length="271"/>
+        <highlight index="11" start="7850" length="217"/>
+        <highlight index="12" start="7986" length="353"/>
+        <highlight index="13" start="8257" length="652"/>
+        <highlight index="14" start="8855" length="109"/>
+        <highlight index="15" start="9018" length="435"/>
+        <highlight index="16" start="9398" length="408"/>
+        <highlight index="17" start="9724" length="489"/>
+        <highlight index="18" start="11110" length="326"/>
+        <highlight index="19" start="11354" length="272"/>
+        <highlight index="20" start="11544" length="381"/>
+        <highlight index="21" start="11789" length="380"/>
+        <highlight index="22" start="12060" length="191"/>
+        <highlight index="23" start="12196" length="489"/>
+        <highlight index="24" start="13310" length="272"/>
+        <highlight index="25" start="13500" length="272"/>
+        <highlight index="26" start="13717" length="218"/>
+        <highlight index="27" start="13826" length="516"/>
+        <highlight index="28" start="14722" length="408"/>
+        <highlight index="29" start="15021" length="218"/>
+        <highlight index="30" start="15103" length="407"/>
+        <highlight index="31" start="15429" length="326"/>
+        <highlight index="32" start="15700" length="662"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Der Herbst ist im September, Oktober und November. Wer mag den Herbst?&#xA7; fragt Frau Adams." start="77633" length="12289" useLNutResource="true" useStoryResource="false" image="17#5#2">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="us" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zw" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gy" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mx" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/>
+        <subtitle lang="rw" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dk" line="&#x201D;Det er efter&#xE5;r i september, oktober og november. Hvem kan lide efter&#xE5;ret?&#x201D;, sp&#xF8;rger Mrs Adams."/>
+        <subtitle lang="ng" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ca" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vc" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bs" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ws" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="en" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sb" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="na" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ug" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="nz" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ag" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sco" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ae" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bz" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sg" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dm" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gh" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="au" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gm" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tt" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bw" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tz" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vu" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="za" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="pk" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sl" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bd" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ke" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="to" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="fj" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mu" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zm" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mt" line="&#x201C;Autumn is in September, October and November. Who likes autumn?&#x201D; asks Mrs Adams."/>
+      <subtitle lang="cl" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="es" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="co" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="gt" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="pe" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="ni" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="do" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="bo" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="ve" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="ar" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="cu" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="pr" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="py" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="ec" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="hn" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="sv" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="cr" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/><subtitle lang="pa" line="&#x201C;El oto&#xF1;o boreal es en septiembre, octubre y noviembre. &#xBF;A qui&#xE9;n le gusta el oto&#xF1;o?&#x201D; pregunta miss Adams."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="4157" length="186"/>
+        <highlight index="1" start="4287" length="464"/>
+        <highlight index="2" start="4733" length="297"/>
+        <highlight index="3" start="4974" length="204"/>
+        <highlight index="4" start="5123" length="794"/>
+        <highlight index="5" start="6069" length="743"/>
+        <highlight index="6" start="6738" length="241"/>
+        <highlight index="7" start="6905" length="575"/>
+        <highlight index="8" start="8204" length="334"/>
+        <highlight index="9" start="8464" length="260"/>
+        <highlight index="10" start="8649" length="223"/>
+        <highlight index="11" start="8798" length="612"/>
+        <highlight index="12" start="9448" length="315"/>
+        <highlight index="13" start="9763" length="260"/>
+        <highlight index="14" start="9967" length="539"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich mag den Herbst,&#xA7; sagt Abdul. &#xA7;Es ist ganz kalt und windig, aber alles ist so bunt. Ich mag die roten und gelben Bl&#xE4;tter.&#xA7;" start="89472" length="14238" useLNutResource="true" useStoryResource="false" image="17#5#5">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/>
+        <subtitle lang="rw" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;Jeg kan godt lide efter&#xE5;ret&#x201D;, siger Abdul. &#x201D;Det er koldt, og det bl&#xE6;ser, men der er mange farver. Jeg kan godt lide r&#xF8;de og gule blade&#x201D;."/>
+        <subtitle lang="ng" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;I like autumn,&#x201D; says Abdul. &#x201C;It is quite cold and windy, but it is very colourful. I like the red and yellow leaves.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="es" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="co" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="gt" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="pe" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="ni" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="do" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="bo" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="ve" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="ar" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="cu" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="pr" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="py" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="ec" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="hn" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="sv" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="cr" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/><subtitle lang="pa" line="&#x201C;A m&#xED; me gusta el oto&#xF1;o,&#x201D; dice Abdul. &#x201C;Es un poco frio y hace viento, pero es muy colorido. Me gustan las hojas rojas y amarillas.&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2946" length="322"/>
+        <highlight index="1" start="3225" length="344"/>
+        <highlight index="2" start="3505" length="258"/>
+        <highlight index="3" start="3720" length="430"/>
+        <highlight index="4" start="4279" length="387"/>
+        <highlight index="5" start="4602" length="516"/>
+        <highlight index="6" start="6666" length="194"/>
+        <highlight index="7" start="6838" length="194"/>
+        <highlight index="8" start="6946" length="473"/>
+        <highlight index="9" start="7376" length="344"/>
+        <highlight index="10" start="7677" length="194"/>
+        <highlight index="11" start="7806" length="538"/>
+        <highlight index="12" start="8924" length="280"/>
+        <highlight index="13" start="9140" length="279"/>
+        <highlight index="14" start="9355" length="279"/>
+        <highlight index="15" start="9527" length="236"/>
+        <highlight index="16" start="9699" length="387"/>
+        <highlight index="17" start="10645" length="258"/>
+        <highlight index="18" start="10860" length="258"/>
+        <highlight index="19" start="11075" length="172"/>
+        <highlight index="20" start="11226" length="365"/>
+        <highlight index="21" start="11527" length="193"/>
+        <highlight index="22" start="11656" length="365"/>
+        <highlight index="23" start="11957" length="580"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Der Winter ist im Dezember, Januar und Februar. Wer mag den Winter?&#xA7; fragt Frau Adams." start="103560" length="9442" useLNutResource="true" useStoryResource="false" image="17#5#3">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="us" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zw" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gy" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mx" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/>
+        <subtitle lang="rw" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dk" line="&#x201D;Det er vinter i december, januar og februar. Hvem kan godt lide vinteren?&#x201D;, sp&#xF8;rger Mrs Adams."/>
+        <subtitle lang="ng" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ca" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vc" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bs" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ws" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="en" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sb" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="na" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ug" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="nz" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ag" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sco" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ae" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bz" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sg" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dm" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gh" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="au" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gm" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tt" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bw" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tz" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vu" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="za" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="pk" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sl" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bd" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ke" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="to" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="fj" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mu" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zm" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mt" line="&#x201C;Winter is in December, January and February. Who likes winter?&#x201D; asks Mrs Adams."/>
+      <subtitle lang="cl" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="es" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="co" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="gt" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="pe" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="ni" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="do" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="bo" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="ve" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="ar" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="cu" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="pr" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="py" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="ec" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="hn" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="sv" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="cr" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/><subtitle lang="pa" line="&#x201C;El invierno es en diciembre, enero y febrero. &#xBF;A qui&#xE9;n le gusta el invierno?&#x201D; pregunta miss Adams."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2224" length="229"/>
+        <highlight index="1" start="2410" length="413"/>
+        <highlight index="2" start="2838" length="256"/>
+        <highlight index="3" start="3052" length="171"/>
+        <highlight index="4" start="3194" length="699"/>
+        <highlight index="5" start="3864" length="557"/>
+        <highlight index="6" start="4378" length="171"/>
+        <highlight index="7" start="4520" length="557"/>
+        <highlight index="8" start="5533" length="243"/>
+        <highlight index="9" start="5790" length="228"/>
+        <highlight index="10" start="6004" length="199"/>
+        <highlight index="11" start="6161" length="484"/>
+        <highlight index="12" start="6674" length="342"/>
+        <highlight index="13" start="6959" length="271"/>
+        <highlight index="14" start="7187" length="471"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich mag den Winter,&#xA7; sagt Klara. &#xA7;Wir besuchen meine Tante in Polen. Es ist sehr kalt, aber dort gibt es ganz viel sch&#xF6;nen wei&#xDF;en Schnee.&#xA7;" start="113002" length="15437" useLNutResource="true" useStoryResource="false" image="17#2#8">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="us" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="zw" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="gy" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="mx" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/>
+        <subtitle lang="rw" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="dk" line="&#x201D;Jeg kan godt lide vinteren&#x201D;, siger Klara. &#x201D;Vi bes&#xF8;ger min tante i Polen. Det er meget koldt, men der er en masse smuk, hvid sne.&#x201D;"/>
+        <subtitle lang="ng" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ca" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="vc" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="bs" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ws" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="en" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="sb" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="na" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ug" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="nz" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ag" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="sco" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ae" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="bz" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="sg" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="dm" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="gh" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="au" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="gm" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="tt" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="bw" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="tz" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="vu" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="za" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="pk" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="sl" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="bd" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="ke" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="to" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="fj" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="mu" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="zm" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+        <subtitle lang="mt" line="&#x201C;I like winter,&#x201D; says Klara. &#x201C;We visit my auntie in Poland. It is very cold but there is lots of beautiful white snow.&#x201D;"/>
+      <subtitle lang="cl" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="es" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="co" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="gt" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="pe" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="ni" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="do" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="bo" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="ve" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="ar" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="cu" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="pr" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="py" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="ec" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="hn" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="sv" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="cr" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/><subtitle lang="pa" line="&#x201C;A m&#xED; me gusta el invierno,&#x201D; dice Klara. &#x201C;Visitamos a mi t&#xED;a en Polonia. Hace mucho frio, pero hay much&#xED;sima nieve blanca y bonita.&#x201D; "/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1958" length="233"/>
+        <highlight index="1" start="2098" length="326"/>
+        <highlight index="2" start="2378" length="303"/>
+        <highlight index="3" start="2588" length="396"/>
+        <highlight index="4" start="3124" length="303"/>
+        <highlight index="5" start="3334" length="513"/>
+        <highlight index="6" start="6248" length="210"/>
+        <highlight index="7" start="6388" length="467"/>
+        <highlight index="8" start="6831" length="327"/>
+        <highlight index="9" start="7134" length="327"/>
+        <highlight index="10" start="7414" length="117"/>
+        <highlight index="11" start="7484" length="653"/>
+        <highlight index="12" start="8977" length="279"/>
+        <highlight index="13" start="9210" length="233"/>
+        <highlight index="14" start="9350" length="396"/>
+        <highlight index="15" start="9699" length="513"/>
+        <highlight index="16" start="10515" length="234"/>
+        <highlight index="17" start="10702" length="326"/>
+        <highlight index="18" start="10982" length="303"/>
+        <highlight index="19" start="11215" length="210"/>
+        <highlight index="20" start="11401" length="490"/>
+        <highlight index="21" start="11845" length="443"/>
+        <highlight index="22" start="12194" length="490"/>
+        <highlight index="23" start="12614" length="420"/>
+        <highlight index="24" start="12940" length="1063"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Was ist deine liebste Jahreszeit, Tom?&#xA7; fragt Frau Adams." start="128289" length="7493" useLNutResource="true" useStoryResource="false" image="1#4#9">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="us" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zw" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gy" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mx" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/>
+        <subtitle lang="rw" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dk" line="&#x201D;Hvad er din yndlings&#xE5;rstid, Tom?&#x201D;, sp&#xF8;rger Mrs Adams."/>
+        <subtitle lang="ng" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ca" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vc" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bs" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ws" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="en" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sb" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="na" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ug" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="nz" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ag" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sco" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ae" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bz" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sg" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="dm" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gh" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="au" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="gm" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tt" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bw" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="tz" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="vu" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="za" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="pk" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="sl" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="bd" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="ke" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="to" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="fj" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mu" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="zm" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+        <subtitle lang="mt" line="&#x201C;What is your favourite season, Tom?&#x201D; asks Mrs Adams."/>
+      <subtitle lang="cl" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="es" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="co" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="gt" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="pe" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="ni" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="do" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="bo" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="ve" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="ar" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="cu" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="pr" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="py" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="ec" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="hn" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="sv" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="cr" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/><subtitle lang="pa" line="&#x201C;&#xBF;Cu&#xE1;l es tu estaci&#xF3;n favorita, Steven?&#x201D; pregunta miss Adams."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2354" length="271"/>
+        <highlight index="1" start="2603" length="181"/>
+        <highlight index="2" start="2738" length="363"/>
+        <highlight index="3" start="3078" length="339"/>
+        <highlight index="4" start="3372" length="645"/>
+        <highlight index="5" start="3983" length="329"/>
+        <highlight index="6" start="4583" length="374"/>
+        <highlight index="7" start="4923" length="283"/>
+        <highlight index="8" start="5172" length="339"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich habe keine Lieblingsjahreszeit,&#xA7; sagt Tom. &#xA7;Im Fr&#xFC;hling war das Wetter sch&#xF6;n, aber es hat geregnet. Im Sommer war es sonnig, aber sehr hei&#xDF;." start="135483" length="13638" useLNutResource="true" useStoryResource="false" image="1#6#10">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="us" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="zw" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="gy" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="mx" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/>
+        <subtitle lang="rw" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="dk" line="&#x201D;Jeg har ikke nogen yndlings&#xE5;rstid&#x201D;, siger Tom. &#x201D;Det var godt vejr i for&#xE5;ret, men det regnede meget. Solen skinnede i sommer, men det var meget varmt. I efter&#xE5;ret var vejret nogenlunde, men det bl&#xE6;ste meget.&#xA7;"/>
+        <subtitle lang="ng" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ca" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="vc" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="bs" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ws" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="en" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="sb" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="na" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ug" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="nz" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ag" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="sco" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ae" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="bz" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="sg" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="dm" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="gh" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="au" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="gm" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="tt" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="bw" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="tz" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="vu" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="za" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="pk" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="sl" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="bd" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="ke" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="to" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="fj" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="mu" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="zm" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+        <subtitle lang="mt" line="&#x201C;I don&#x2019;t have a favourite season,&#x201D; says Steven. &#x201C;It was good weather in spring, but it was very rainy. It was sunny in summer, but it was very hot."/>
+      <subtitle lang="cl" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="es" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="co" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="gt" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="pe" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="ni" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="do" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="bo" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="ve" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="ar" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="cu" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="pr" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="py" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="ec" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="hn" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="sv" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="cr" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/><subtitle lang="pa" line="&#x201C;No tengo una estaci&#xF3;n favorita,&#x201D; dice Steven. &#x201C;En primavera hac&#xED;a buen clima, pero llovi&#xF3; mucho. En verano estaba soleado, pero hac&#xED;a mucho calor."/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="1709" length="330"/>
+        <highlight index="1" start="2018" length="453"/>
+        <highlight index="2" start="2430" length="392"/>
+        <highlight index="3" start="2780" length="1113"/>
+        <highlight index="4" start="4037" length="330"/>
+        <highlight index="5" start="4346" length="474"/>
+        <highlight index="6" start="6427" length="247"/>
+        <highlight index="7" start="6633" length="494"/>
+        <highlight index="8" start="7045" length="185"/>
+        <highlight index="9" start="7189" length="226"/>
+        <highlight index="10" start="7354" length="309"/>
+        <highlight index="11" start="7601" length="494"/>
+        <highlight index="12" start="8301" length="309"/>
+        <highlight index="13" start="8610" length="103"/>
+        <highlight index="14" start="8651" length="268"/>
+        <highlight index="15" start="8899" length="597"/>
+        <highlight index="16" start="11041" length="247"/>
+        <highlight index="17" start="11247" length="350"/>
+        <highlight index="18" start="11515" length="247"/>
+        <highlight index="19" start="11700" length="165"/>
+        <highlight index="20" start="11783" length="514"/>
+        <highlight index="21" start="12277" length="268"/>
+        <highlight index="22" start="12483" length="329"/>
+        <highlight index="23" start="12771" length="736"/>
+      </highlights>
+    </line>
+    <line words=" Im Herbst war das Wetter sch&#xF6;n, aber sehr windig. Im Winter war das Wetter schlecht, weil der Himmel grau war und es war sehr kalt.&#xA7;" start="148821" length="14688" useLNutResource="true" useStoryResource="false" image="1#6#10">
+      <subtitles>
+        <subtitle lang="jm" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="us" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="zw" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="gy" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="mx" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/>
+        <subtitle lang="rw" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="dk" line="Og i vinter var vejret d&#xE5;rligt, fordi himlen var gr&#xE5;, og det var meget koldt.&#x201D;"/>
+        <subtitle lang="ng" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ca" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="vc" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="bs" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ws" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="en" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="sb" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="na" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ug" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="nz" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ag" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="sco" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ae" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="bz" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="sg" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="dm" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="gh" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="au" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="gm" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="tt" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="bw" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="tz" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="vu" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="za" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="pk" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="sl" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="bd" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="ke" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="to" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="fj" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="mu" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="zm" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+        <subtitle lang="mt" line=" It was quite good weather in autumn, but it was windy.  And it was bad weather in winter because the sky was grey and it was very cold.&#x201D; "/>
+      <subtitle lang="cl" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="es" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="co" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="gt" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="pe" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="ni" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="do" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="bo" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="ve" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="ar" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="cu" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="pr" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="py" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="ec" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="hn" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="sv" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="cr" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/><subtitle lang="pa" line=" En oto&#xF1;o el clima estaba bien, pero hac&#xED;a mucho viento. Y en invierno hac&#xED;a mal clima, porque el cielo estaba gris y hac&#xED;a mucho frio.&#x201D;"/>
+			</subtitles>
+      <highlights>
+        <highlight index="1" start="1575" length="399"/>
+        <highlight index="2" start="1863" length="421"/>
+        <highlight index="3" start="2196" length="266"/>
+        <highlight index="4" start="2396" length="266"/>
+        <highlight index="5" start="2573" length="377"/>
+        <highlight index="6" start="2884" length="421"/>
+        <highlight index="7" start="3505" length="310"/>
+        <highlight index="8" start="3771" length="311"/>
+        <highlight index="9" start="4037" length="400"/>
+        <highlight index="10" start="7143" length="222"/>
+        <highlight index="11" start="7299" length="399"/>
+        <highlight index="12" start="7654" length="199"/>
+        <highlight index="13" start="7809" length="200"/>
+        <highlight index="14" start="7964" length="289"/>
+        <highlight index="15" start="8208" length="488"/>
+        <highlight index="16" start="8940" length="222"/>
+        <highlight index="17" start="9118" length="177"/>
+        <highlight index="18" start="9229" length="377"/>
+        <highlight index="19" start="9517" length="333"/>
+        <highlight index="20" start="9761" length="289"/>
+        <highlight index="21" start="10249" length="333"/>
+        <highlight index="22" start="10515" length="200"/>
+        <highlight index="23" start="10626" length="200"/>
+        <highlight index="24" start="10760" length="288"/>
+        <highlight index="25" start="10959" length="577"/>
+      </highlights>
+    </line>
+    <line words="&#xA7;Ich hoffe n&#xE4;chstes Jahr magst du die Jahreszeiten, Tom.&#xA7; sagt Frau Adams." start="163509" length="7793" useLNutResource="true" useStoryResource="false" image="1#6#10">
+      <subtitles>
+        <subtitle lang="jm" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="us" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="zw" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="gy" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="mx" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/>
+        <subtitle lang="rw" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="dk" line="&#x201D;Jeg h&#xE5;ber, du kan lide &#xE5;rstiderne n&#xE6;ste &#xE5;r, Tom&#x201D;, siger Mrs Adams."/>
+        <subtitle lang="ng" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ca" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="vc" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="bs" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ws" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="en" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="sb" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="na" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ug" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="nz" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ag" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="sco" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ae" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="bz" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="sg" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="dm" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="gh" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="au" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="gm" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="tt" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="bw" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="tz" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="vu" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="za" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="pk" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="sl" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="bd" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="ke" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="to" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="fj" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="mu" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="zm" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+        <subtitle lang="mt" line="&#x201C;I hope you like the seasons next year, Tom!&#x201D; says Mrs Adams."/>
+      <subtitle lang="cl" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="es" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="co" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="gt" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="pe" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="ni" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="do" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="bo" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="ve" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="ar" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="cu" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="pr" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="py" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="ec" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="hn" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="sv" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="cr" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/><subtitle lang="pa" line="&#x201C;&#xA1;Espero que te gusten las estaciones el pr&#xF3;ximo a&#xF1;o, Steven!&#x201D; dice la miss Adams. "/>
+			</subtitles>
+      <highlights>
+        <highlight index="0" start="2507" length="212"/>
+        <highlight index="1" start="2683" length="318"/>
+        <highlight index="2" start="2954" length="530"/>
+        <highlight index="3" start="3425" length="424"/>
+        <highlight index="4" start="3978" length="377"/>
+        <highlight index="5" start="4308" length="200"/>
+        <highlight index="6" start="4402" length="106"/>
+        <highlight index="7" start="4461" length="730"/>
+        <highlight index="8" start="5179" length="259"/>
+        <highlight index="9" start="5850" length="294"/>
+        <highlight index="10" start="6109" length="306"/>
+        <highlight index="11" start="6344" length="647"/>
+      </highlights>
+    </line>
+  </lines>
+</karaoke>

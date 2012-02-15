@@ -1,0 +1,961 @@
+<?xml version="1.0"?>
+<karaoke length="102661">
+  <lines>
+    <line words="El r&#xED;o corre, el r&#xED;o corre." start="14613" length="4448">
+      <highlight index="0" start="321" length="256"/>
+      <highlight index="1" start="551" length="1003"/>
+      <highlight index="2" start="1508" length="643"/>
+      <highlight index="3" start="2440" length="262"/>
+      <highlight index="4" start="2676" length="872"/>
+      <highlight index="5" start="3509" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, the river flows."/>
+        <subtitle lang="ug" line="The river flows, the river flows."/>
+        <subtitle lang="to" line="The river flows, the river flows."/>
+        <subtitle lang="bd" line="The river flows, the river flows."/>
+        <subtitle lang="dm" line="The river flows, the river flows."/>
+        <subtitle lang="us" line="The river flows, the river flows."/>
+        <subtitle lang="gh" line="The river flows, the river flows."/>
+        <subtitle lang="gm" line="The river flows, the river flows."/>
+        <subtitle lang="rw" line="The river flows, the river flows."/>
+        <subtitle lang="nl" line="De rivieren stromen, rivieren stromen."/>
+        <subtitle lang="ke" line="The river flows, the river flows."/>
+        <subtitle lang="gy" line="The river flows, the river flows."/>
+        <subtitle lang="zw" line="The river flows, the river flows."/>
+        <subtitle lang="tz" line="The river flows, the river flows."/>
+        <subtitle lang="vu" line="The river flows, the river flows."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer, floden str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The river flows, the river flows."/>
+        <subtitle lang="fr" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+        <subtitle lang="ca" line="The river flows, the river flows."/>
+        <subtitle lang="vc" line="The river flows, the river flows."/>
+        <subtitle lang="bs" line="The river flows, the river flows."/>
+        <subtitle lang="sg" line="The river flows, the river flows."/>
+        <subtitle lang="nz" line="The river flows, the river flows."/>
+        <subtitle lang="ag" line="The river flows, the river flows."/>
+        <subtitle lang="pk" line="The river flows, the river flows."/>
+        <subtitle lang="sco" line="The river flows, the river flows."/>
+        <subtitle lang="zm" line="The river flows, the river flows."/>
+        <subtitle lang="za" line="The river flows, the river flows."/>
+        <subtitle lang="sb" line="The river flows, the river flows."/>
+        <subtitle lang="bz" line="The river flows, the river flows."/>
+        <subtitle lang="na" line="The river flows, the river flows."/>
+        <subtitle lang="mt" line="The river flows, the river flows."/>
+        <subtitle lang="tt" line="The river flows, the river flows."/>
+        <subtitle lang="ng" line="The river flows, the river flows."/>
+        <subtitle lang="en" line="The river flows, the river flows."/>
+        <subtitle lang="ws" line="The river flows, the river flows."/>
+        <subtitle lang="jm" line="The river flows, the river flows."/>
+        <subtitle lang="bw" line="The river flows, the river flows."/>
+        <subtitle lang="sl" line="The river flows, the river flows."/>
+        <subtitle lang="au" line="The river flows, the river flows."/>
+      <subtitle lang="cd" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="mg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="cm" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ci" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bf" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ne" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="sn" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ml" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bi" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="tg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ga" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="dj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+				<subtitle lang="ae" line="The river flows, the river flows."/>
+				<subtitle lang="ine" line="The river flows, the river flows."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, hacia el mar." start="18880" length="4448">
+      <highlight index="0" start="321" length="256"/>
+      <highlight index="1" start="551" length="1003"/>
+      <highlight index="2" start="1508" length="643"/>
+      <highlight index="3" start="2709" length="584"/>
+      <highlight index="4" start="3273" length="439"/>
+      <highlight index="5" start="3699" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, down to the sea."/>
+        <subtitle lang="ug" line="The river flows, down to the sea."/>
+        <subtitle lang="to" line="The river flows, down to the sea."/>
+        <subtitle lang="bd" line="The river flows, down to the sea."/>
+        <subtitle lang="dm" line="The river flows, down to the sea."/>
+        <subtitle lang="us" line="The river flows, down to the sea."/>
+        <subtitle lang="gh" line="The river flows, down to the sea."/>
+        <subtitle lang="gm" line="The river flows, down to the sea."/>
+        <subtitle lang="rw" line="The river flows, down to the sea."/>
+        <subtitle lang="nl" line="De rivieren stromen richting zee."/>
+        <subtitle lang="ke" line="The river flows, down to the sea."/>
+        <subtitle lang="gy" line="The river flows, down to the sea."/>
+        <subtitle lang="zw" line="The river flows, down to the sea."/>
+        <subtitle lang="tz" line="The river flows, down to the sea."/>
+        <subtitle lang="vu" line="The river flows, down to the sea."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The river flows, down to the sea."/>
+        <subtitle lang="fr" line="la rivi&#xE8;re coule vers la mer."/>
+        <subtitle lang="ca" line="The river flows, down to the sea."/>
+        <subtitle lang="vc" line="The river flows, down to the sea."/>
+        <subtitle lang="bs" line="The river flows, down to the sea."/>
+        <subtitle lang="sg" line="The river flows, down to the sea."/>
+        <subtitle lang="nz" line="The river flows, down to the sea."/>
+        <subtitle lang="ag" line="The river flows, down to the sea."/>
+        <subtitle lang="pk" line="The river flows, down to the sea."/>
+        <subtitle lang="sco" line="The river flows, down to the sea."/>
+        <subtitle lang="zm" line="The river flows, down to the sea."/>
+        <subtitle lang="za" line="The river flows, down to the sea."/>
+        <subtitle lang="sb" line="The river flows, down to the sea."/>
+        <subtitle lang="bz" line="The river flows, down to the sea."/>
+        <subtitle lang="na" line="The river flows, down to the sea."/>
+        <subtitle lang="mt" line="The river flows, down to the sea."/>
+        <subtitle lang="tt" line="The river flows, down to the sea."/>
+        <subtitle lang="ng" line="The river flows, down to the sea."/>
+        <subtitle lang="en" line="The river flows, down to the sea."/>
+        <subtitle lang="ws" line="The river flows, down to the sea."/>
+        <subtitle lang="jm" line="The river flows, down to the sea."/>
+        <subtitle lang="bw" line="The river flows, down to the sea."/>
+        <subtitle lang="sl" line="The river flows, down to the sea."/>
+        <subtitle lang="au" line="The river flows, down to the sea."/>
+      <subtitle lang="cd" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="mg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="cm" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ci" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bf" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ne" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="sn" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ml" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bi" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bj" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="tg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ga" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="dj" line="la rivi&#xE8;re coule vers la mer."/>
+				<subtitle lang="ae" line="The river flows, down to the sea."/>
+				<subtitle lang="ine" line="The river flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="Paso por un lago, navego un pantano" start="23600" length="4629">
+      <highlight index="0" start="348" length="361"/>
+      <highlight index="1" start="697" length="269"/>
+      <highlight index="2" start="946" length="249"/>
+      <highlight index="3" start="1166" length="518"/>
+      <highlight index="4" start="2350" length="655"/>
+      <highlight index="5" start="2972" length="445"/>
+      <highlight index="6" start="3397" length="855"/>
+      <subtitles>
+        <subtitle lang="mu" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="ug" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="to" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="bd" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="dm" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="us" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="gh" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="gm" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="rw" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="nl" line="Ik kom langs een meer, ik vaar door een moeras."/>
+        <subtitle lang="ke" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="gy" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="zw" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="tz" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="vu" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="dk" line="Jeg kommer forbi en s&#xF8;, jeg navigerer gennem en sump"/>
+        <subtitle lang="fj" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="fr" line="Je passe un lac, je navigue un marais."/>
+        <subtitle lang="ca" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="vc" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="bs" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="sg" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="nz" line="I pass a lake, I navigate a swamp"/>
+        <subtitle lang="ag" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="pk" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="sco" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="zm" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="za" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="sb" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="bz" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="na" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="mt" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="tt" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="ng" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="en" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="ws" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="jm" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="bw" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="sl" line="I pass a lake, I navigate a swamp."/>
+        <subtitle lang="au" line="I pass a lake, I navigate a swamp."/>
+      <subtitle lang="cd" line="Je passe un lac, je navigue un marais."/><subtitle lang="mg" line="Je passe un lac, je navigue un marais."/><subtitle lang="cm" line="Je passe un lac, je navigue un marais."/><subtitle lang="ci" line="Je passe un lac, je navigue un marais."/><subtitle lang="bf" line="Je passe un lac, je navigue un marais."/><subtitle lang="ne" line="Je passe un lac, je navigue un marais."/><subtitle lang="sn" line="Je passe un lac, je navigue un marais."/><subtitle lang="ml" line="Je passe un lac, je navigue un marais."/><subtitle lang="bi" line="Je passe un lac, je navigue un marais."/><subtitle lang="bj" line="Je passe un lac, je navigue un marais."/><subtitle lang="tg" line="Je passe un lac, je navigue un marais."/><subtitle lang="ga" line="Je passe un lac, je navigue un marais."/><subtitle lang="dj" line="Je passe un lac, je navigue un marais."/>
+				<subtitle lang="ae" line="I pass a lake, I navigate a swamp."/>
+				<subtitle lang="ine" line="I pass a lake, I navigate a swamp."/>
+			</subtitles>
+    </line>
+    <line words="Cruzo el desierto, hacia el mar." start="27957" length="4629">
+      <highlight index="0" start="348" length="361"/>
+      <highlight index="1" start="697" length="269"/>
+      <highlight index="2" start="946" length="822"/>
+      <highlight index="3" start="2457" length="560"/>
+      <highlight index="4" start="2976" length="430"/>
+      <highlight index="5" start="3379" length="478"/>
+      <subtitles>
+        <subtitle lang="mu" line="I cross a desert, down to the sea."/>
+        <subtitle lang="ug" line="I cross a desert, down to the sea."/>
+        <subtitle lang="to" line="I cross a desert, down to the sea."/>
+        <subtitle lang="bd" line="I cross a desert, down to the sea."/>
+        <subtitle lang="dm" line="I cross a desert, down to the sea."/>
+        <subtitle lang="us" line="I cross a desert, down to the sea."/>
+        <subtitle lang="gh" line="I cross a desert, down to the sea."/>
+        <subtitle lang="gm" line="I cross a desert, down to the sea."/>
+        <subtitle lang="rw" line="I cross a desert, down to the sea."/>
+        <subtitle lang="nl" line="Ik kom door een woestijn, richting de zee."/>
+        <subtitle lang="ke" line="I cross a desert, down to the sea."/>
+        <subtitle lang="gy" line="I cross a desert, down to the sea."/>
+        <subtitle lang="zw" line="I cross a desert, down to the sea."/>
+        <subtitle lang="tz" line="I cross a desert, down to the sea."/>
+        <subtitle lang="vu" line="I cross a desert, down to the sea."/>
+        <subtitle lang="dk" line="Jeg krydser en &#xF8;rken ned til havet."/>
+        <subtitle lang="fj" line="I cross a desert, down to the sea."/>
+        <subtitle lang="fr" line="Je traverse un desert, vers la mer."/>
+        <subtitle lang="ca" line="I cross a desert, down to the sea."/>
+        <subtitle lang="vc" line="I cross a desert, down to the sea."/>
+        <subtitle lang="bs" line="I cross a desert, down to the sea."/>
+        <subtitle lang="sg" line="I cross a desert, down to the sea."/>
+        <subtitle lang="nz" line="I cross a desert, down to the sea."/>
+        <subtitle lang="ag" line="I cross a desert, down to the sea."/>
+        <subtitle lang="pk" line="I cross a desert, down to the sea."/>
+        <subtitle lang="sco" line="I cross a desert, down to the sea."/>
+        <subtitle lang="zm" line="I cross a desert, down to the sea."/>
+        <subtitle lang="za" line="I cross a desert, down to the sea."/>
+        <subtitle lang="sb" line="I cross a desert, down to the sea."/>
+        <subtitle lang="bz" line="I cross a desert, down to the sea."/>
+        <subtitle lang="na" line="I cross a desert, down to the sea."/>
+        <subtitle lang="mt" line="I cross a desert, down to the sea."/>
+        <subtitle lang="tt" line="I cross a desert, down to the sea."/>
+        <subtitle lang="ng" line="I cross a desert, down to the sea."/>
+        <subtitle lang="en" line="I cross a desert, down to the sea."/>
+        <subtitle lang="ws" line="I cross a desert, down to the sea."/>
+        <subtitle lang="jm" line="I cross a desert, down to the sea."/>
+        <subtitle lang="bw" line="I cross a desert, down to the sea."/>
+        <subtitle lang="sl" line="I cross a desert, down to the sea."/>
+        <subtitle lang="au" line="I cross a desert, down to the sea."/>
+      <subtitle lang="cd" line="Je traverse un desert, vers la mer."/><subtitle lang="mg" line="Je traverse un desert, vers la mer."/><subtitle lang="cm" line="Je traverse un desert, vers la mer."/><subtitle lang="ci" line="Je traverse un desert, vers la mer."/><subtitle lang="bf" line="Je traverse un desert, vers la mer."/><subtitle lang="ne" line="Je traverse un desert, vers la mer."/><subtitle lang="sn" line="Je traverse un desert, vers la mer."/><subtitle lang="ml" line="Je traverse un desert, vers la mer."/><subtitle lang="bi" line="Je traverse un desert, vers la mer."/><subtitle lang="bj" line="Je traverse un desert, vers la mer."/><subtitle lang="tg" line="Je traverse un desert, vers la mer."/><subtitle lang="ga" line="Je traverse un desert, vers la mer."/><subtitle lang="dj" line="Je traverse un desert, vers la mer."/>
+				<subtitle lang="ae" line="I cross a desert, down to the sea."/>
+				<subtitle lang="ine" line="I cross a desert, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, el r&#xED;o corre." start="32314" length="4448">
+      <highlight index="0" start="321" length="256"/>
+      <highlight index="1" start="551" length="924"/>
+      <highlight index="2" start="1443" length="643"/>
+      <highlight index="3" start="2440" length="262"/>
+      <highlight index="4" start="2676" length="872"/>
+      <highlight index="5" start="3509" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, the river flows."/>
+        <subtitle lang="ug" line="The river flows, the river flows."/>
+        <subtitle lang="to" line="The river flows, the river flows."/>
+        <subtitle lang="bd" line="The river flows, the river flows."/>
+        <subtitle lang="dm" line="The river flows, the river flows."/>
+        <subtitle lang="us" line="The river flows, the river flows."/>
+        <subtitle lang="gh" line="The river flows, the river flows."/>
+        <subtitle lang="gm" line="The river flows, the river flows."/>
+        <subtitle lang="rw" line="The river flows, the river flows."/>
+        <subtitle lang="nl" line="De rivieren stromen, rivieren stromen."/>
+        <subtitle lang="ke" line="The river flows, the river flows."/>
+        <subtitle lang="gy" line="The river flows, the river flows."/>
+        <subtitle lang="zw" line="The river flows, the river flows."/>
+        <subtitle lang="tz" line="The river flows, the river flows."/>
+        <subtitle lang="vu" line="The river flows, the river flows."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer, floden str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The river flows, the river flows."/>
+        <subtitle lang="fr" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+        <subtitle lang="ca" line="The river flows, the river flows."/>
+        <subtitle lang="vc" line="The river flows, the river flows."/>
+        <subtitle lang="bs" line="The river flows, the river flows."/>
+        <subtitle lang="sg" line="The river flows, the river flows."/>
+        <subtitle lang="nz" line="The river flows, the river flows."/>
+        <subtitle lang="ag" line="The river flows, the river flows."/>
+        <subtitle lang="pk" line="The river flows, the river flows."/>
+        <subtitle lang="sco" line="The river flows, the river flows."/>
+        <subtitle lang="zm" line="The river flows, the river flows."/>
+        <subtitle lang="za" line="The river flows, the river flows."/>
+        <subtitle lang="sb" line="The river flows, the river flows."/>
+        <subtitle lang="bz" line="The river flows, the river flows."/>
+        <subtitle lang="na" line="The river flows, the river flows."/>
+        <subtitle lang="mt" line="The river flows, the river flows."/>
+        <subtitle lang="tt" line="The river flows, the river flows."/>
+        <subtitle lang="ng" line="The river flows, the river flows."/>
+        <subtitle lang="en" line="The river flows, the river flows."/>
+        <subtitle lang="ws" line="The river flows, the river flows."/>
+        <subtitle lang="jm" line="The river flows, the river flows."/>
+        <subtitle lang="bw" line="The river flows, the river flows."/>
+        <subtitle lang="sl" line="The river flows, the river flows."/>
+        <subtitle lang="au" line="The river flows, the river flows."/>
+      <subtitle lang="cd" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="mg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="cm" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ci" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bf" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ne" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="sn" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ml" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bi" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="tg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ga" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="dj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+				<subtitle lang="ae" line="The river flows, the river flows."/>
+				<subtitle lang="ine" line="The river flows, the river flows."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, hacia el mar." start="36489" length="4448">
+      <highlight index="0" start="321" length="256"/>
+      <highlight index="1" start="551" length="1003"/>
+      <highlight index="2" start="1508" length="643"/>
+      <highlight index="3" start="2709" length="584"/>
+      <highlight index="4" start="3273" length="439"/>
+      <highlight index="5" start="3699" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, down to the sea."/>
+        <subtitle lang="ug" line="The river flows, down to the sea."/>
+        <subtitle lang="to" line="The river flows, down to the sea."/>
+        <subtitle lang="bd" line="The river flows, down to the sea."/>
+        <subtitle lang="dm" line="The river flows, down to the sea."/>
+        <subtitle lang="us" line="The river flows, down to the sea."/>
+        <subtitle lang="gh" line="The river flows, down to the sea."/>
+        <subtitle lang="gm" line="The river flows, down to the sea."/>
+        <subtitle lang="rw" line="The river flows, down to the sea."/>
+        <subtitle lang="nl" line="De rivieren stromen richting zee."/>
+        <subtitle lang="ke" line="The river flows, down to the sea."/>
+        <subtitle lang="gy" line="The river flows, down to the sea."/>
+        <subtitle lang="zw" line="The river flows, down to the sea."/>
+        <subtitle lang="tz" line="The river flows, down to the sea."/>
+        <subtitle lang="vu" line="The river flows, down to the sea."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The river flows, down to the sea."/>
+        <subtitle lang="fr" line="la rivi&#xE8;re coule vers la mer."/>
+        <subtitle lang="ca" line="The river flows, down to the sea."/>
+        <subtitle lang="vc" line="The river flows, down to the sea."/>
+        <subtitle lang="bs" line="The river flows, down to the sea."/>
+        <subtitle lang="sg" line="The river flows, down to the sea."/>
+        <subtitle lang="nz" line="The river flows, down to the sea."/>
+        <subtitle lang="ag" line="The river flows, down to the sea."/>
+        <subtitle lang="pk" line="The river flows, down to the sea."/>
+        <subtitle lang="sco" line="The river flows, down to the sea."/>
+        <subtitle lang="zm" line="The river flows, down to the sea."/>
+        <subtitle lang="za" line="The river flows, down to the sea."/>
+        <subtitle lang="sb" line="The river flows, down to the sea."/>
+        <subtitle lang="bz" line="The river flows, down to the sea."/>
+        <subtitle lang="na" line="The river flows, down to the sea."/>
+        <subtitle lang="mt" line="The river flows, down to the sea."/>
+        <subtitle lang="tt" line="The river flows, down to the sea."/>
+        <subtitle lang="ng" line="The river flows, down to the sea."/>
+        <subtitle lang="en" line="The river flows, down to the sea."/>
+        <subtitle lang="ws" line="The river flows, down to the sea."/>
+        <subtitle lang="jm" line="The river flows, down to the sea."/>
+        <subtitle lang="bw" line="The river flows, down to the sea."/>
+        <subtitle lang="sl" line="The river flows, down to the sea."/>
+        <subtitle lang="au" line="The river flows, down to the sea."/>
+      <subtitle lang="cd" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="mg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="cm" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ci" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bf" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ne" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="sn" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ml" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bi" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bj" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="tg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ga" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="dj" line="la rivi&#xE8;re coule vers la mer."/>
+				<subtitle lang="ae" line="The river flows, down to the sea."/>
+				<subtitle lang="ine" line="The river flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="Exploro un bosque, me aviento a un lago." start="40975" length="4773">
+      <highlight index="0" start="367" length="714"/>
+      <highlight index="1" start="1078" length="279"/>
+      <highlight index="2" start="1344" length="822"/>
+      <highlight index="3" start="2317" length="203"/>
+      <highlight index="4" start="2496" length="815"/>
+      <highlight index="5" start="3270" length="200"/>
+      <highlight index="6" start="3447" length="205"/>
+      <highlight index="7" start="3632" length="621"/>
+      <subtitles>
+        <subtitle lang="mu" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="ug" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="to" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="bd" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="dm" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="us" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="gh" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="gm" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="rw" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="nl" line="Ik verken een regenwoud, ik duik in een waterval."/>
+        <subtitle lang="ke" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="gy" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="zw" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="tz" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="vu" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="dk" line="Jeg udforsker en skov, jeg dykker i en s&#xF8;."/>
+        <subtitle lang="fj" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="fr" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/>
+        <subtitle lang="ca" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="vc" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="bs" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="sg" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="nz" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="ag" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="pk" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="sco" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="zm" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="za" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="sb" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="bz" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="na" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="mt" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="tt" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="ng" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="en" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="ws" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="jm" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="bw" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="sl" line="I explore a forest, I dive into a lake."/>
+        <subtitle lang="au" line="I explore a forest, I dive into a lake."/>
+      <subtitle lang="cd" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="mg" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="cm" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="ci" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="bf" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="ne" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="sn" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="ml" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="bi" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="bj" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="tg" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="ga" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/><subtitle lang="dj" line="J&#x2019;explore une for&#xEA;t, je plonge dans une chute."/>
+				<subtitle lang="ae" line="I explore a forest, I dive into a lake."/>
+				<subtitle lang="ine" line="I explore a forest, I dive into a lake."/>
+			</subtitles>
+    </line>
+    <line words="Paso una monta&#xF1;a, hacia el mar." start="45566" length="3903">
+      <highlight index="0" start="224" length="351"/>
+      <highlight index="1" start="558" length="439"/>
+      <highlight index="2" start="983" length="822"/>
+      <highlight index="3" start="2348" length="530"/>
+      <highlight index="4" start="2855" length="424"/>
+      <highlight index="5" start="3275" length="535"/>
+      <subtitles>
+        <subtitle lang="mu" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="ug" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="to" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="bd" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="dm" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="us" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="gh" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="gm" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="rw" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="nl" line="Ik zie een hoge berg, op weg naar zee."/>
+        <subtitle lang="ke" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="gy" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="zw" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="tz" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="vu" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="zm" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="fj" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="fr" line="Je vois une montagne, vers la mer."/>
+        <subtitle lang="ca" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="vc" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="bs" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="sg" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="en" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="ag" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="pk" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="sco" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="za" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="sb" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="bz" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="na" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="mt" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="jm" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="ng" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="nz" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="ws" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="tt" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="bw" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="sl" line="I pass a mountain, down to the sea."/>
+        <subtitle lang="au" line="I pass a mountain, down to the sea."/>
+      <subtitle lang="cd" line="Je vois une montagne, vers la mer."/><subtitle lang="mg" line="Je vois une montagne, vers la mer."/><subtitle lang="cm" line="Je vois une montagne, vers la mer."/><subtitle lang="ci" line="Je vois une montagne, vers la mer."/><subtitle lang="bf" line="Je vois une montagne, vers la mer."/><subtitle lang="ne" line="Je vois une montagne, vers la mer."/><subtitle lang="sn" line="Je vois une montagne, vers la mer."/><subtitle lang="ml" line="Je vois une montagne, vers la mer."/><subtitle lang="bi" line="Je vois une montagne, vers la mer."/><subtitle lang="bj" line="Je vois une montagne, vers la mer."/><subtitle lang="tg" line="Je vois une montagne, vers la mer."/><subtitle lang="ga" line="Je vois une montagne, vers la mer."/><subtitle lang="dj" line="Je vois une montagne, vers la mer."/>
+				<subtitle lang="ae" line="I pass a mountain, down to the sea."/>
+				<subtitle lang="ine" line="I pass a mountain, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, el r&#xED;o corre." start="49560" length="4539">
+      <highlight index="0" start="412" length="256"/>
+      <highlight index="1" start="642" length="1003"/>
+      <highlight index="2" start="1599" length="643"/>
+      <highlight index="3" start="2531" length="262"/>
+      <highlight index="4" start="2767" length="872"/>
+      <highlight index="5" start="3600" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, the river flows."/>
+        <subtitle lang="ug" line="The river flows, the river flows."/>
+        <subtitle lang="to" line="The river flows, the river flows."/>
+        <subtitle lang="bd" line="The river flows, the river flows."/>
+        <subtitle lang="dm" line="The river flows, the river flows."/>
+        <subtitle lang="us" line="The river flows, the river flows."/>
+        <subtitle lang="gh" line="The river flows, the river flows."/>
+        <subtitle lang="gm" line="The river flows, the river flows."/>
+        <subtitle lang="rw" line="The river flows, the river flows."/>
+        <subtitle lang="nl" line="De rivieren stromen, rivieren stromen."/>
+        <subtitle lang="ke" line="The river flows, the river flows."/>
+        <subtitle lang="gy" line="The river flows, the river flows."/>
+        <subtitle lang="zw" line="The river flows, the river flows."/>
+        <subtitle lang="tz" line="The river flows, the river flows."/>
+        <subtitle lang="vu" line="The river flows, the river flows."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer, floden str&#xF8;mmer ."/>
+        <subtitle lang="fj" line="The river flows, the river flows."/>
+        <subtitle lang="fr" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+        <subtitle lang="ca" line="The river flows, the river flows."/>
+        <subtitle lang="vc" line="The river flows, the river flows."/>
+        <subtitle lang="bs" line="The river flows, the river flows."/>
+        <subtitle lang="sg" line="The river flows, the river flows."/>
+        <subtitle lang="nz" line="The river flows, the river flows."/>
+        <subtitle lang="ag" line="The river flows, the river flows."/>
+        <subtitle lang="pk" line="The river flows, the river flows."/>
+        <subtitle lang="sco" line="The river flows, the river flows."/>
+        <subtitle lang="zm" line="The river flows, the river flows."/>
+        <subtitle lang="za" line="The river flows, the river flows."/>
+        <subtitle lang="sb" line="The river flows, the river flows."/>
+        <subtitle lang="bz" line="The river flows, the river flows."/>
+        <subtitle lang="na" line="The river flows, the river flows."/>
+        <subtitle lang="mt" line="The river flows, the river flows."/>
+        <subtitle lang="tt" line="The river flows, the river flows."/>
+        <subtitle lang="ng" line="The river flows, the river flows."/>
+        <subtitle lang="en" line="The river flows, the river flows."/>
+        <subtitle lang="ws" line="The river flows, the river flows."/>
+        <subtitle lang="jm" line="The river flows, the river flows."/>
+        <subtitle lang="bw" line="The river flows, the river flows."/>
+        <subtitle lang="sl" line="The river flows, the river flows."/>
+        <subtitle lang="au" line="The river flows, the river flows."/>
+      <subtitle lang="cd" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="mg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="cm" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ci" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bf" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ne" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="sn" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ml" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bi" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="tg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ga" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="dj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+				<subtitle lang="ae" line="The river flows, the river flows."/>
+				<subtitle lang="ine" line="The river flows, the river flows."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, hacia el mar." start="53917" length="4448">
+      <highlight index="0" start="321" length="256"/>
+      <highlight index="1" start="551" length="1003"/>
+      <highlight index="2" start="1508" length="643"/>
+      <highlight index="3" start="2709" length="584"/>
+      <highlight index="4" start="3273" length="439"/>
+      <highlight index="5" start="3699" length="629"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, down to the sea."/>
+        <subtitle lang="ug" line="The river flows, down to the sea."/>
+        <subtitle lang="to" line="The river flows, down to the sea."/>
+        <subtitle lang="bd" line="The river flows, down to the sea."/>
+        <subtitle lang="dm" line="The river flows, down to the sea."/>
+        <subtitle lang="us" line="The river flows, down to the sea."/>
+        <subtitle lang="gh" line="The river flows, down to the sea."/>
+        <subtitle lang="gm" line="The river flows, down to the sea."/>
+        <subtitle lang="rw" line="The river flows, down to the sea."/>
+        <subtitle lang="nl" line="De rivieren stromen richting zee."/>
+        <subtitle lang="ke" line="The river flows, down to the sea."/>
+        <subtitle lang="gy" line="The river flows, down to the sea."/>
+        <subtitle lang="zw" line="The river flows, down to the sea."/>
+        <subtitle lang="tz" line="The river flows, down to the sea."/>
+        <subtitle lang="vu" line="The river flows, down to the sea."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The river flows, down to the sea."/>
+        <subtitle lang="fr" line="la rivi&#xE8;re coule vers la mer."/>
+        <subtitle lang="ca" line="The river flows, down to the sea."/>
+        <subtitle lang="vc" line="The river flows, down to the sea."/>
+        <subtitle lang="bs" line="The river flows, down to the sea."/>
+        <subtitle lang="sg" line="The river flows, down to the sea."/>
+        <subtitle lang="nz" line="The river flows, down to the sea."/>
+        <subtitle lang="ag" line="The river flows, down to the sea."/>
+        <subtitle lang="pk" line="The river flows, down to the sea."/>
+        <subtitle lang="sco" line="The river flows, down to the sea."/>
+        <subtitle lang="zm" line="The river flows, down to the sea."/>
+        <subtitle lang="za" line="The river flows, down to the sea."/>
+        <subtitle lang="sb" line="The river flows, down to the sea."/>
+        <subtitle lang="bz" line="The river flows, down to the sea."/>
+        <subtitle lang="na" line="The river flows, down to the sea."/>
+        <subtitle lang="mt" line="The river flows, down to the sea."/>
+        <subtitle lang="tt" line="The river flows, down to the sea."/>
+        <subtitle lang="ng" line="The river flows, down to the sea."/>
+        <subtitle lang="en" line="The river flows, down to the sea."/>
+        <subtitle lang="ws" line="The river flows, down to the sea."/>
+        <subtitle lang="jm" line="The river flows, down to the sea."/>
+        <subtitle lang="bw" line="The river flows, down to the sea."/>
+        <subtitle lang="sl" line="The river flows, down to the sea."/>
+        <subtitle lang="au" line="The river flows, down to the sea."/>
+      <subtitle lang="cd" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="mg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="cm" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ci" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bf" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ne" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="sn" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ml" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bi" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bj" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="tg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ga" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="dj" line="la rivi&#xE8;re coule vers la mer."/>
+				<subtitle lang="ae" line="The river flows, down to the sea."/>
+				<subtitle lang="ine" line="The river flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El Amazonas corre, el Congo corre," start="58183" length="4811">
+      <highlight index="0" start="399" length="275"/>
+      <highlight index="1" start="652" length="1036"/>
+      <highlight index="2" start="1676" length="419"/>
+      <highlight index="3" start="2589" length="302"/>
+      <highlight index="4" start="2866" length="781"/>
+      <highlight index="5" start="3618" length="944"/>
+      <subtitles>
+        <subtitle lang="mu" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="ug" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="to" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="bd" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="dm" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="us" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="gh" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="gm" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="rw" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="nl" line="De Amazone stroomt, de Kongo stroomt,"/>
+        <subtitle lang="ke" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="gy" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="zw" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="tz" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="vu" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="dk" line="Amazonfloden  str&#xF8;mmer, Congo str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="fr" line="L&#x2019;Amazone coule, le Congo coule"/>
+        <subtitle lang="ca" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="vc" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="bs" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="sg" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="nz" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="ag" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="pk" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="sco" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="zm" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="za" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="sb" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="bz" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="na" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="mt" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="tt" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="ng" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="en" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="ws" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="jm" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="bw" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="sl" line="The Amazon flows, the Congo flows."/>
+        <subtitle lang="au" line="The Amazon flows, the Congo flows."/>
+      <subtitle lang="cd" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="mg" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="cm" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="ci" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="bf" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="ne" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="sn" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="ml" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="bi" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="bj" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="tg" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="ga" line="L&#x2019;Amazone coule, le Congo coule"/><subtitle lang="dj" line="L&#x2019;Amazone coule, le Congo coule"/>
+				<subtitle lang="ae" line="The Amazon flows, the Congo flows."/>
+				<subtitle lang="ine" line="The Amazon flows, the Congo flows."/>
+			</subtitles>
+    </line>
+    <line words="El Danubio corre hacia el mar." start="62722" length="4627">
+      <highlight index="0" start="269" length="275"/>
+      <highlight index="1" start="510" length="1058"/>
+      <highlight index="2" start="1553" length="611"/>
+      <highlight index="3" start="2589" length="653"/>
+      <highlight index="4" start="3221" length="539"/>
+      <highlight index="5" start="3746" length="573"/>
+      <subtitles>
+        <subtitle lang="mu" line="The Danube flows, down to the sea."/>
+        <subtitle lang="ug" line="The Danube flows, down to the sea."/>
+        <subtitle lang="to" line="The Danube flows, down to the sea."/>
+        <subtitle lang="bd" line="The Danube flows, down to the sea."/>
+        <subtitle lang="dm" line="The Danube flows, down to the sea."/>
+        <subtitle lang="us" line="The Danube flows, down to the sea."/>
+        <subtitle lang="gh" line="The Danube flows, down to the sea."/>
+        <subtitle lang="gm" line="The Danube flows, down to the sea."/>
+        <subtitle lang="rw" line="The Danube flows, down to the sea."/>
+        <subtitle lang="nl" line="De Donau stroomt, richting zee"/>
+        <subtitle lang="ke" line="The Danube flows, down to the sea."/>
+        <subtitle lang="gy" line="The Danube flows, down to the sea."/>
+        <subtitle lang="zw" line="The Danube flows, down to the sea."/>
+        <subtitle lang="tz" line="The Danube flows, down to the sea."/>
+        <subtitle lang="vu" line="The Danube flows, down to the sea."/>
+        <subtitle lang="dk" line="Donau str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The Danube flows, down to the sea."/>
+        <subtitle lang="fr" line="le Danube coule vers la mer."/>
+        <subtitle lang="ca" line="The Danube flows, down to the sea."/>
+        <subtitle lang="vc" line="The Danube flows, down to the sea."/>
+        <subtitle lang="bs" line="The Danube flows, down to the sea."/>
+        <subtitle lang="sg" line="The Danube flows, down to the sea."/>
+        <subtitle lang="nz" line="The Danube flows, down to the sea."/>
+        <subtitle lang="ag" line="The Danube flows, down to the sea."/>
+        <subtitle lang="pk" line="The Danube flows, down to the sea."/>
+        <subtitle lang="sco" line="The Danube flows, down to the sea."/>
+        <subtitle lang="zm" line="The Danube flows, down to the sea."/>
+        <subtitle lang="za" line="The Danube flows, down to the sea."/>
+        <subtitle lang="sb" line="The Danube flows, down to the sea."/>
+        <subtitle lang="bz" line="The Danube flows, down to the sea."/>
+        <subtitle lang="na" line="The Danube flows, down to the sea."/>
+        <subtitle lang="mt" line="The Danube flows, down to the sea."/>
+        <subtitle lang="tt" line="The Danube flows, down to the sea."/>
+        <subtitle lang="ng" line="The Danube flows, down to the sea."/>
+        <subtitle lang="en" line="The Danube flows, down to the sea."/>
+        <subtitle lang="ws" line="The Danube flows, down to the sea."/>
+        <subtitle lang="jm" line="The Danube flows, down to the sea."/>
+        <subtitle lang="bw" line="The Danube flows, down to the sea."/>
+        <subtitle lang="sl" line="The Danube flows, down to the sea."/>
+        <subtitle lang="au" line="The Danube flows, down to the sea."/>
+      <subtitle lang="cd" line="le Danube coule vers la mer."/><subtitle lang="mg" line="le Danube coule vers la mer."/><subtitle lang="cm" line="le Danube coule vers la mer."/><subtitle lang="ci" line="le Danube coule vers la mer."/><subtitle lang="bf" line="le Danube coule vers la mer."/><subtitle lang="ne" line="le Danube coule vers la mer."/><subtitle lang="sn" line="le Danube coule vers la mer."/><subtitle lang="ml" line="le Danube coule vers la mer."/><subtitle lang="bi" line="le Danube coule vers la mer."/><subtitle lang="bj" line="le Danube coule vers la mer."/><subtitle lang="tg" line="le Danube coule vers la mer."/><subtitle lang="ga" line="le Danube coule vers la mer."/><subtitle lang="dj" line="le Danube coule vers la mer."/>
+				<subtitle lang="ae" line="The Danube flows, down to the sea."/>
+				<subtitle lang="ine" line="The Danube flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El Ganges corre, el Nilo corre." start="67083" length="4514">
+      <highlight index="0" start="308" length="324"/>
+      <highlight index="1" start="603" length="967"/>
+      <highlight index="2" start="1532" length="419"/>
+      <highlight index="3" start="2424" length="345"/>
+      <highlight index="4" start="2732" length="742"/>
+      <highlight index="5" start="3436" length="766"/>
+      <subtitles>
+        <subtitle lang="mu" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="ug" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="to" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="bd" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="dm" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="us" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="gh" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="gm" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="rw" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="nl" line="De Ganges stroomt, de Nijl stroomt."/>
+        <subtitle lang="ke" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="gy" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="zw" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="tz" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="vu" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="dk" line="Ganges str&#xF8;mmer, Nilen str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="fr" line="La Gange coule, le Nil coule"/>
+        <subtitle lang="ca" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="vc" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="bs" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="sg" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="nz" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="ag" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="pk" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="sco" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="zm" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="za" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="sb" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="bz" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="na" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="mt" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="tt" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="ng" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="en" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="ws" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="jm" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="bw" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="sl" line="The Ganges flows, the Nile flows."/>
+        <subtitle lang="au" line="The Ganges flows, the Nile flows."/>
+      <subtitle lang="cd" line="La Gange coule, le Nil coule"/><subtitle lang="mg" line="La Gange coule, le Nil coule"/><subtitle lang="cm" line="La Gange coule, le Nil coule"/><subtitle lang="ci" line="La Gange coule, le Nil coule"/><subtitle lang="bf" line="La Gange coule, le Nil coule"/><subtitle lang="ne" line="La Gange coule, le Nil coule"/><subtitle lang="sn" line="La Gange coule, le Nil coule"/><subtitle lang="ml" line="La Gange coule, le Nil coule"/><subtitle lang="bi" line="La Gange coule, le Nil coule"/><subtitle lang="bj" line="La Gange coule, le Nil coule"/><subtitle lang="tg" line="La Gange coule, le Nil coule"/><subtitle lang="ga" line="La Gange coule, le Nil coule"/><subtitle lang="dj" line="La Gange coule, le Nil coule"/>
+				<subtitle lang="ae" line="The Ganges flows, the Nile flows."/>
+				<subtitle lang="ine" line="The Ganges flows, the Nile flows."/>
+			</subtitles>
+    </line>
+    <line words="El Yangtz&#xE9; corre hacia el mar." start="71331" length="4734">
+      <highlight index="0" start="401" length="228"/>
+      <highlight index="1" start="615" length="985"/>
+      <highlight index="2" start="1573" length="611"/>
+      <highlight index="3" start="2768" length="653"/>
+      <highlight index="4" start="3399" length="539"/>
+      <highlight index="5" start="3903" length="575"/>
+      <subtitles>
+        <subtitle lang="mu" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="ug" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="to" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="bd" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="dm" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="us" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="gh" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="gm" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="rw" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="nl" line="De Jangtsekiang stroomt, richting zee."/>
+        <subtitle lang="ke" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="gy" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="zw" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="tz" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="vu" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="dk" line="YangTse str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="fr" line="le Rhin coule vers la mer."/>
+        <subtitle lang="ca" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="vc" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="bs" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="sg" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="nz" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="ag" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="pk" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="sco" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="zm" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="za" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="sb" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="bz" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="na" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="mt" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="tt" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="ng" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="en" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="ws" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="jm" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="bw" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="sl" line="The YangTse flows, down to the sea."/>
+        <subtitle lang="au" line="The YangTse flows, down to the sea."/>
+      <subtitle lang="cd" line="le Rhin coule vers la mer."/><subtitle lang="mg" line="le Rhin coule vers la mer."/><subtitle lang="cm" line="le Rhin coule vers la mer."/><subtitle lang="ci" line="le Rhin coule vers la mer."/><subtitle lang="bf" line="le Rhin coule vers la mer."/><subtitle lang="ne" line="le Rhin coule vers la mer."/><subtitle lang="sn" line="le Rhin coule vers la mer."/><subtitle lang="ml" line="le Rhin coule vers la mer."/><subtitle lang="bi" line="le Rhin coule vers la mer."/><subtitle lang="bj" line="le Rhin coule vers la mer."/><subtitle lang="tg" line="le Rhin coule vers la mer."/><subtitle lang="ga" line="le Rhin coule vers la mer."/><subtitle lang="dj" line="le Rhin coule vers la mer."/>
+				<subtitle lang="ae" line="The YangTse flows, down to the sea."/>
+				<subtitle lang="ine" line="The YangTse flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, el r&#xED;o corre." start="75611" length="4720">
+      <highlight index="0" start="396" length="352"/>
+      <highlight index="1" start="730" length="805"/>
+      <highlight index="2" start="1498" length="844"/>
+      <highlight index="3" start="2526" length="289"/>
+      <highlight index="4" start="2788" length="953"/>
+      <highlight index="5" start="3727" length="874"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, the river flows."/>
+        <subtitle lang="ug" line="The river flows, the river flows."/>
+        <subtitle lang="to" line="The river flows, the river flows."/>
+        <subtitle lang="bd" line="The river flows, the river flows."/>
+        <subtitle lang="dm" line="The river flows, the river flows."/>
+        <subtitle lang="us" line="The river flows, the river flows."/>
+        <subtitle lang="gh" line="The river flows, the river flows."/>
+        <subtitle lang="gm" line="The river flows, the river flows."/>
+        <subtitle lang="rw" line="The river flows, the river flows."/>
+        <subtitle lang="nl" line="De rivieren stromen, rivieren stromen."/>
+        <subtitle lang="ke" line="The river flows, the river flows."/>
+        <subtitle lang="gy" line="The river flows, the river flows."/>
+        <subtitle lang="zw" line="The river flows, the river flows."/>
+        <subtitle lang="tz" line="The river flows, the river flows."/>
+        <subtitle lang="vu" line="The river flows, the river flows."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer, floden str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The river flows, the river flows."/>
+        <subtitle lang="fr" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+        <subtitle lang="ca" line="The river flows, the river flows."/>
+        <subtitle lang="vc" line="The river flows, the river flows."/>
+        <subtitle lang="bs" line="The river flows, the river flows."/>
+        <subtitle lang="sg" line="The river flows, the river flows."/>
+        <subtitle lang="nz" line="The river flows, the river flows."/>
+        <subtitle lang="ag" line="The river flows, the river flows."/>
+        <subtitle lang="pk" line="The river flows, the river flows."/>
+        <subtitle lang="sco" line="The river flows, the river flows."/>
+        <subtitle lang="zm" line="The river flows, the river flows."/>
+        <subtitle lang="za" line="The river flows, the river flows."/>
+        <subtitle lang="sb" line="The river flows, the river flows."/>
+        <subtitle lang="bz" line="The river flows, the river flows."/>
+        <subtitle lang="na" line="The river flows, the river flows."/>
+        <subtitle lang="mt" line="The river flows, the river flows."/>
+        <subtitle lang="tt" line="The river flows, the river flows."/>
+        <subtitle lang="ng" line="The river flows, the river flows."/>
+        <subtitle lang="en" line="The river flows, the river flows."/>
+        <subtitle lang="ws" line="The river flows, the river flows."/>
+        <subtitle lang="jm" line="The river flows, the river flows."/>
+        <subtitle lang="bw" line="The river flows, the river flows."/>
+        <subtitle lang="sl" line="The river flows, the river flows."/>
+        <subtitle lang="au" line="The river flows, the river flows."/>
+      <subtitle lang="cd" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="mg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="cm" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ci" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bf" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ne" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="sn" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ml" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bi" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="tg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ga" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="dj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+				<subtitle lang="ae" line="The river flows, the river flows."/>
+				<subtitle lang="ine" line="The river flows, the river flows."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, hacia el mar." start="79968" length="4720">
+      <highlight index="0" start="396" length="352"/>
+      <highlight index="1" start="730" length="805"/>
+      <highlight index="2" start="1498" length="844"/>
+      <highlight index="3" start="2638" length="522"/>
+      <highlight index="4" start="3125" length="616"/>
+      <highlight index="5" start="3727" length="874"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, down to the sea."/>
+        <subtitle lang="ug" line="The river flows, down to the sea."/>
+        <subtitle lang="to" line="The river flows, down to the sea."/>
+        <subtitle lang="bd" line="The river flows, down to the sea."/>
+        <subtitle lang="dm" line="The river flows, down to the sea."/>
+        <subtitle lang="us" line="The river flows, down to the sea."/>
+        <subtitle lang="gh" line="The river flows, down to the sea."/>
+        <subtitle lang="gm" line="The river flows, down to the sea."/>
+        <subtitle lang="rw" line="The river flows, down to the sea."/>
+        <subtitle lang="nl" line="De rivieren stromen richting zee."/>
+        <subtitle lang="ke" line="The river flows, down to the sea."/>
+        <subtitle lang="gy" line="The river flows, down to the sea."/>
+        <subtitle lang="zw" line="The river flows, down to the sea."/>
+        <subtitle lang="tz" line="The river flows, down to the sea."/>
+        <subtitle lang="vu" line="The river flows, down to the sea."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The river flows, down to the sea."/>
+        <subtitle lang="fr" line="la rivi&#xE8;re coule vers la mer."/>
+        <subtitle lang="ca" line="The river flows, down to the sea."/>
+        <subtitle lang="vc" line="The river flows, down to the sea."/>
+        <subtitle lang="bs" line="The river flows, down to the sea."/>
+        <subtitle lang="sg" line="The river flows, down to the sea."/>
+        <subtitle lang="nz" line="The river flows, down to the sea."/>
+        <subtitle lang="ag" line="The river flows, down to the sea."/>
+        <subtitle lang="pk" line="The river flows, down to the sea."/>
+        <subtitle lang="sco" line="The river flows, down to the sea."/>
+        <subtitle lang="zm" line="The river flows, down to the sea."/>
+        <subtitle lang="za" line="The river flows, down to the sea."/>
+        <subtitle lang="sb" line="The river flows, down to the sea."/>
+        <subtitle lang="bz" line="The river flows, down to the sea."/>
+        <subtitle lang="na" line="The river flows, down to the sea."/>
+        <subtitle lang="mt" line="The river flows, down to the sea."/>
+        <subtitle lang="tt" line="The river flows, down to the sea."/>
+        <subtitle lang="ng" line="The river flows, down to the sea."/>
+        <subtitle lang="en" line="The river flows, down to the sea."/>
+        <subtitle lang="ws" line="The river flows, down to the sea."/>
+        <subtitle lang="jm" line="The river flows, down to the sea."/>
+        <subtitle lang="bw" line="The river flows, down to the sea."/>
+        <subtitle lang="sl" line="The river flows, down to the sea."/>
+        <subtitle lang="au" line="The river flows, down to the sea."/>
+      <subtitle lang="cd" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="mg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="cm" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ci" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bf" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ne" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="sn" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ml" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bi" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bj" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="tg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ga" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="dj" line="la rivi&#xE8;re coule vers la mer."/>
+				<subtitle lang="ae" line="The river flows, down to the sea."/>
+				<subtitle lang="ine" line="The river flows, down to the sea."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, el r&#xED;o corre." start="84325" length="4720">
+      <highlight index="0" start="396" length="352"/>
+      <highlight index="1" start="730" length="805"/>
+      <highlight index="2" start="1498" length="844"/>
+      <highlight index="3" start="2526" length="289"/>
+      <highlight index="4" start="2788" length="953"/>
+      <highlight index="5" start="3727" length="874"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, the river flows."/>
+        <subtitle lang="ug" line="The river flows, the river flows."/>
+        <subtitle lang="to" line="The river flows, the river flows."/>
+        <subtitle lang="bd" line="The river flows, the river flows."/>
+        <subtitle lang="dm" line="The river flows, the river flows."/>
+        <subtitle lang="us" line="The river flows, the river flows."/>
+        <subtitle lang="gh" line="The river flows, the river flows."/>
+        <subtitle lang="gm" line="The river flows, the river flows."/>
+        <subtitle lang="rw" line="The river flows, the river flows."/>
+        <subtitle lang="nl" line="De rivieren stromen, rivieren stromen."/>
+        <subtitle lang="ke" line="The river flows, the river flows."/>
+        <subtitle lang="gy" line="The river flows, the river flows."/>
+        <subtitle lang="zw" line="The river flows, the river flows."/>
+        <subtitle lang="tz" line="The river flows, the river flows."/>
+        <subtitle lang="vu" line="The river flows, the river flows."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer, floden str&#xF8;mmer."/>
+        <subtitle lang="fj" line="The river flows, the river flows."/>
+        <subtitle lang="fr" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+        <subtitle lang="ca" line="The river flows, the river flows."/>
+        <subtitle lang="vc" line="The river flows, the river flows."/>
+        <subtitle lang="bs" line="The river flows, the river flows."/>
+        <subtitle lang="sg" line="The river flows, the river flows."/>
+        <subtitle lang="nz" line="The river flows, the river flows."/>
+        <subtitle lang="ag" line="The river flows, the river flows."/>
+        <subtitle lang="pk" line="The river flows, the river flows."/>
+        <subtitle lang="sco" line="The river flows, the river flows."/>
+        <subtitle lang="zm" line="The river flows, the river flows."/>
+        <subtitle lang="za" line="The river flows, the river flows."/>
+        <subtitle lang="sb" line="The river flows, the river flows."/>
+        <subtitle lang="bz" line="The river flows, the river flows."/>
+        <subtitle lang="na" line="The river flows, the river flows."/>
+        <subtitle lang="mt" line="The river flows, the river flows."/>
+        <subtitle lang="tt" line="The river flows, the river flows."/>
+        <subtitle lang="ng" line="The river flows, the river flows."/>
+        <subtitle lang="en" line="The river flows, the river flows."/>
+        <subtitle lang="ws" line="The river flows, the river flows."/>
+        <subtitle lang="jm" line="The river flows, the river flows."/>
+        <subtitle lang="bw" line="The river flows, the river flows."/>
+        <subtitle lang="sl" line="The river flows, the river flows."/>
+        <subtitle lang="au" line="The river flows, the river flows."/>
+      <subtitle lang="cd" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="mg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="cm" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ci" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bf" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ne" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="sn" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ml" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bi" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="bj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="tg" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="ga" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/><subtitle lang="dj" line="La rivi&#xE8;re coule, la rivi&#xE8;re coule"/>
+				<subtitle lang="ae" line="The river flows, the river flows."/>
+				<subtitle lang="ine" line="The river flows, the river flows."/>
+			</subtitles>
+    </line>
+    <line words="El r&#xED;o corre, hacia el mar." start="88682" length="4720">
+      <highlight index="0" start="396" length="352"/>
+      <highlight index="1" start="730" length="805"/>
+      <highlight index="2" start="1498" length="844"/>
+      <highlight index="3" start="2638" length="522"/>
+      <highlight index="4" start="3125" length="616"/>
+      <highlight index="5" start="3727" length="874"/>
+      <subtitles>
+        <subtitle lang="mu" line="The river flows, down to the sea."/>
+        <subtitle lang="ug" line="The river flows, down to the sea."/>
+        <subtitle lang="to" line="The river flows, down to the sea."/>
+        <subtitle lang="bd" line="The river flows, down to the sea."/>
+        <subtitle lang="dm" line="The river flows, down to the sea."/>
+        <subtitle lang="us" line="The river flows, down to the sea."/>
+        <subtitle lang="gh" line="The river flows, down to the sea."/>
+        <subtitle lang="gm" line="The river flows, down to the sea."/>
+        <subtitle lang="rw" line="The river flows, down to the sea."/>
+        <subtitle lang="nl" line="De rivieren stromen richting zee."/>
+        <subtitle lang="ke" line="The river flows, down to the sea."/>
+        <subtitle lang="gy" line="The river flows, down to the sea."/>
+        <subtitle lang="zw" line="The river flows, down to the sea."/>
+        <subtitle lang="tz" line="The river flows, down to the sea."/>
+        <subtitle lang="vu" line="The river flows, down to the sea."/>
+        <subtitle lang="dk" line="Floden str&#xF8;mmer ned til havet."/>
+        <subtitle lang="fj" line="The river flows, down to the sea."/>
+        <subtitle lang="fr" line="la rivi&#xE8;re coule vers la mer."/>
+        <subtitle lang="ca" line="The river flows, down to the sea."/>
+        <subtitle lang="vc" line="The river flows, down to the sea."/>
+        <subtitle lang="bs" line="The river flows, down to the sea."/>
+        <subtitle lang="sg" line="The river flows, down to the sea."/>
+        <subtitle lang="nz" line="The river flows, down to the sea."/>
+        <subtitle lang="ag" line="The river flows, down to the sea."/>
+        <subtitle lang="pk" line="The river flows, down to the sea."/>
+        <subtitle lang="sco" line="The river flows, down to the sea."/>
+        <subtitle lang="zm" line="The river flows, down to the sea."/>
+        <subtitle lang="za" line="The river flows, down to the sea."/>
+        <subtitle lang="sb" line="The river flows, down to the sea."/>
+        <subtitle lang="bz" line="The river flows, down to the sea."/>
+        <subtitle lang="na" line="The river flows, down to the sea."/>
+        <subtitle lang="mt" line="The river flows, down to the sea."/>
+        <subtitle lang="tt" line="The river flows, down to the sea."/>
+        <subtitle lang="ng" line="The river flows, down to the sea."/>
+        <subtitle lang="en" line="The river flows, down to the sea."/>
+        <subtitle lang="ws" line="The river flows, down to the sea."/>
+        <subtitle lang="jm" line="The river flows, down to the sea."/>
+        <subtitle lang="bw" line="The river flows, down to the sea."/>
+        <subtitle lang="sl" line="The river flows, down to the sea."/>
+        <subtitle lang="au" line="The river flows, down to the sea."/>
+      <subtitle lang="cd" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="mg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="cm" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ci" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bf" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ne" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="sn" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ml" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bi" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="bj" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="tg" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="ga" line="la rivi&#xE8;re coule vers la mer."/><subtitle lang="dj" line="la rivi&#xE8;re coule vers la mer."/>
+				<subtitle lang="ae" line="The river flows, down to the sea."/>
+				<subtitle lang="ine" line="The river flows, down to the sea."/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>

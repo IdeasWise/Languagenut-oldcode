@@ -1,0 +1,1865 @@
+<?xml version="1.0"?>
+<karaoke length="122331">
+  <lines>
+    <line words="lunedi', martedi', mercoledi'" start="4481" length="3866">
+      <subtitles>
+        <subtitle lang="en" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="dm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ng" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ni" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ag" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="au" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ec" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="pr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="mt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ae" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="to" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="es" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="rw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="fj" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pe" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gy" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="zm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ve" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sg" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mx" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="do" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bs" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ug" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ws" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="co" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="jm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pk" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ca" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ar" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="py" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="na" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cu" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gh" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sv" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="vu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cl" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="us" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bd" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ke" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sb" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sp" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="vc" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="za" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bo" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sl" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pa" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sco" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="hn" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gt" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="zw" line="Monday, Tuesday, Wednesday."/>
+      <subtitle lang="ine" line="Monday, Tuesday, Wednesday."/>
+			</subtitles>
+    </line>
+    <line words="giovedi',venerdi',sabato," start="8384" length="3250">
+      <subtitles>
+        <subtitle lang="en" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="dm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ng" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ni" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ag" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="au" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ec" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="pr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="mt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ae" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="to" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="es" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="rw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="fj" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pe" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gy" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="zm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ve" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sg" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mx" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="do" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bs" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ug" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ws" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="co" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="jm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pk" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ca" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ar" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="py" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="na" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cu" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gh" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sv" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="vu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cl" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="us" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bd" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ke" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sb" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sp" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="vc" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="za" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bo" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sl" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pa" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sco" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="hn" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gt" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="zw" line="Thursday, Friday, Saturday."/>
+      <subtitle lang="ine" line="Thursday, Friday, Saturday."/>
+			</subtitles>
+    </line>
+    <line words="domenica, amo fare sport!" start="11634" length="3028">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I love doing sport!"/>
+        <subtitle lang="dm" line="Sunday, I love sport!"/>
+        <subtitle lang="ng" line="Sunday, I love sport!"/>
+        <subtitle lang="ni" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bz" line="Sunday, I love sport!"/>
+        <subtitle lang="ag" line="Sunday, I love sport!"/>
+        <subtitle lang="bw" line="Sunday, I love sport!"/>
+        <subtitle lang="au" line="Sunday, I love sport!"/>
+        <subtitle lang="ec" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="pr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="mt" line="Sunday, I love sport!"/>
+        <subtitle lang="ae" line="Sunday, I love sport!"/>
+        <subtitle lang="to" line="Sunday, I love sport!"/>
+        <subtitle lang="es" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="rw" line="Sunday, I love sport!"/>
+        <subtitle lang="fj" line="Sunday, I love sport!"/>
+        <subtitle lang="pe" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gy" line="Sunday, I love sport!"/>
+        <subtitle lang="zm" line="Sunday, I love sport!"/>
+        <subtitle lang="ve" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sg" line="Sunday, I love sport!"/>
+        <subtitle lang="mx" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="do" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bs" line="Sunday, I love sport!"/>
+        <subtitle lang="ug" line="Sunday, I love sport!"/>
+        <subtitle lang="ws" line="Sunday, I love sport!"/>
+        <subtitle lang="tz" line="Sunday, I love sport!"/>
+        <subtitle lang="co" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="jm" line="Sunday, I love sport!"/>
+        <subtitle lang="pk" line="Sunday, I love sport!"/>
+        <subtitle lang="ca" line="Sunday, I love sport!"/>
+        <subtitle lang="ar" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="py" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="na" line="Sunday, I love sport!"/>
+        <subtitle lang="cu" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gh" line="Sunday, I love sport!"/>
+        <subtitle lang="sv" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gm" line="Sunday, I love sport!"/>
+        <subtitle lang="vu" line="Sunday, I love sport!"/>
+        <subtitle lang="cl" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="us" line="Sunday, I love sport!"/>
+        <subtitle lang="bd" line="Sunday, I love sport!"/>
+        <subtitle lang="ke" line="Sunday, I love sport!"/>
+        <subtitle lang="sb" line="Sunday, I love sport!"/>
+        <subtitle lang="cr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sp" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="vc" line="Sunday, I love sport!"/>
+        <subtitle lang="za" line="Sunday, I love sport!"/>
+        <subtitle lang="tt" line="Sunday, I love sport!"/>
+        <subtitle lang="mu" line="Sunday, I love sport!"/>
+        <subtitle lang="bo" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sl" line="Sunday, I love sport!"/>
+        <subtitle lang="pa" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sco" line="Sunday, I love sport!"/>
+        <subtitle lang="hn" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gt" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="zw" line="Sunday, I love sport!"/>
+      <subtitle lang="ine" line="Sunday I love doing sport!"/>
+			</subtitles>
+    </line>
+    <line words="Adoro tutti gli sport" start="14663" length="3398">
+      <subtitles>
+        <subtitle lang="en" line="I adore all sports"/>
+        <subtitle lang="dm" line="Yes I really like all sport."/>
+        <subtitle lang="ng" line="Yes I really like all sport."/>
+        <subtitle lang="ni" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bz" line="Yes I really like all sport."/>
+        <subtitle lang="ag" line="Yes I really like all sport."/>
+        <subtitle lang="bw" line="Yes I really like all sport."/>
+        <subtitle lang="au" line="Yes I really like all sport."/>
+        <subtitle lang="ec" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="pr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="mt" line="Yes I really like all sport."/>
+        <subtitle lang="ae" line="Yes I really like all sport."/>
+        <subtitle lang="to" line="Yes I really like all sport."/>
+        <subtitle lang="es" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="rw" line="Yes I really like all sport."/>
+        <subtitle lang="fj" line="Yes I really like all sport."/>
+        <subtitle lang="pe" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gy" line="Yes I really like all sport."/>
+        <subtitle lang="zm" line="Yes I really like all sport."/>
+        <subtitle lang="ve" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sg" line="Yes I really like all sport."/>
+        <subtitle lang="mx" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="do" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bs" line="Yes I really like all sport."/>
+        <subtitle lang="ug" line="Yes I really like all sport."/>
+        <subtitle lang="ws" line="Yes I really like all sport."/>
+        <subtitle lang="tz" line="Yes I really like all sport."/>
+        <subtitle lang="co" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="jm" line="Yes I really like all sport."/>
+        <subtitle lang="pk" line="Yes I really like all sport."/>
+        <subtitle lang="ca" line="Yes I really like all sport."/>
+        <subtitle lang="ar" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="py" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="na" line="Yes I really like all sport."/>
+        <subtitle lang="cu" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gh" line="Yes I really like all sport."/>
+        <subtitle lang="sv" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gm" line="Yes I really like all sport."/>
+        <subtitle lang="vu" line="Yes I really like all sport."/>
+        <subtitle lang="cl" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="us" line="Yes I really like all sport."/>
+        <subtitle lang="bd" line="Yes I really like all sport."/>
+        <subtitle lang="ke" line="Yes I really like all sport."/>
+        <subtitle lang="sb" line="Yes I really like all sport."/>
+        <subtitle lang="cr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sp" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="vc" line="Yes I really like all sport."/>
+        <subtitle lang="za" line="Yes I really like all sport."/>
+        <subtitle lang="tt" line="Yes I really like all sport."/>
+        <subtitle lang="mu" line="Yes I really like all sport."/>
+        <subtitle lang="bo" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sl" line="Yes I really like all sport."/>
+        <subtitle lang="pa" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sco" line="Yes I really like all sport."/>
+        <subtitle lang="hn" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gt" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="zw" line="Yes I really like all sport."/>
+      <subtitle lang="ine" line="I adore all sports"/>
+			</subtitles>
+    </line>
+    <line words="Il lunedi' gioco a calcio!" start="18506" length="2997">
+      <subtitles>
+        <subtitle lang="en" line="On Monday I play football!"/>
+        <subtitle lang="dm" line="On Monday I play football!"/>
+        <subtitle lang="ng" line="On Monday I play football!"/>
+        <subtitle lang="ni" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="bz" line="On Monday I play football!"/>
+        <subtitle lang="ag" line="On Monday I play football!"/>
+        <subtitle lang="bw" line="On Monday I play football!"/>
+        <subtitle lang="au" line="On Monday I play football!"/>
+        <subtitle lang="ec" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="pr" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="mt" line="On Monday I play football!"/>
+        <subtitle lang="ae" line="On Monday I play football!"/>
+        <subtitle lang="to" line="On Monday I play football!"/>
+        <subtitle lang="es" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="rw" line="On Monday I play football!"/>
+        <subtitle lang="fj" line="On Monday I play football!"/>
+        <subtitle lang="pe" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="gy" line="On Monday I play football!"/>
+        <subtitle lang="zm" line="On Monday I play football!"/>
+        <subtitle lang="ve" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="sg" line="On Monday I play football!"/>
+        <subtitle lang="mx" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="do" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="bs" line="On Monday I play football!"/>
+        <subtitle lang="ug" line="On Monday I play football!"/>
+        <subtitle lang="ws" line="On Monday I play football!"/>
+        <subtitle lang="tz" line="On Monday I play football!"/>
+        <subtitle lang="co" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="jm" line="On Monday I play football!"/>
+        <subtitle lang="pk" line="On Monday I play football!"/>
+        <subtitle lang="ca" line="On Monday I play football!"/>
+        <subtitle lang="ar" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="py" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="na" line="On Monday I play football!"/>
+        <subtitle lang="cu" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="gh" line="On Monday I play football!"/>
+        <subtitle lang="sv" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="gm" line="On Monday I play football!"/>
+        <subtitle lang="vu" line="On Monday I play football!"/>
+        <subtitle lang="cl" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="us" line="On Monday I play football!"/>
+        <subtitle lang="bd" line="On Monday I play football!"/>
+        <subtitle lang="ke" line="On Monday I play football!"/>
+        <subtitle lang="sb" line="On Monday I play football!"/>
+        <subtitle lang="cr" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="sp" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="vc" line="On Monday I play football!"/>
+        <subtitle lang="za" line="On Monday I play football!"/>
+        <subtitle lang="tt" line="On Monday I play football!"/>
+        <subtitle lang="mu" line="On Monday I play football!"/>
+        <subtitle lang="bo" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="sl" line="On Monday I play football!"/>
+        <subtitle lang="pa" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="sco" line="On Monday I play football!"/>
+        <subtitle lang="hn" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="gt" line="El lunes juego f&#xFA;tbol"/>
+        <subtitle lang="zw" line="On Monday I play football!"/>
+      <subtitle lang="ine" line="On Monday I play football!"/>
+			</subtitles>
+    </line>
+    <line words="Allora bevi l&#x2019;acqua, bevi dell&#x2019;acqua" start="21543" length="3638">
+      <subtitles>
+        <subtitle lang="en" line="So you drink water, you drink some water"/>
+        <subtitle lang="dm" line="So drink water! Drink water."/>
+        <subtitle lang="ng" line="So drink water! Drink water."/>
+        <subtitle lang="ni" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="bz" line="So drink water! Drink water."/>
+        <subtitle lang="ag" line="So drink water! Drink water."/>
+        <subtitle lang="bw" line="So drink water! Drink water."/>
+        <subtitle lang="au" line="So drink water! Drink water."/>
+        <subtitle lang="ec" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="pr" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="mt" line="So drink water! Drink water."/>
+        <subtitle lang="ae" line="So drink water! Drink water."/>
+        <subtitle lang="to" line="So drink water! Drink water."/>
+        <subtitle lang="es" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="rw" line="So drink water! Drink water."/>
+        <subtitle lang="fj" line="So drink water! Drink water."/>
+        <subtitle lang="pe" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="gy" line="So drink water! Drink water."/>
+        <subtitle lang="zm" line="So drink water! Drink water."/>
+        <subtitle lang="ve" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="sg" line="So drink water! Drink water."/>
+        <subtitle lang="mx" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="do" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="bs" line="So drink water! Drink water."/>
+        <subtitle lang="ug" line="So drink water! Drink water."/>
+        <subtitle lang="ws" line="So drink water! Drink water."/>
+        <subtitle lang="tz" line="So drink water! Drink water."/>
+        <subtitle lang="co" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="jm" line="So drink water! Drink water."/>
+        <subtitle lang="pk" line="So drink water! Drink water."/>
+        <subtitle lang="ca" line="So drink water! Drink water."/>
+        <subtitle lang="ar" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="py" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="na" line="So drink water! Drink water."/>
+        <subtitle lang="cu" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="gh" line="So drink water! Drink water."/>
+        <subtitle lang="sv" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="gm" line="So drink water! Drink water."/>
+        <subtitle lang="vu" line="So drink water! Drink water."/>
+        <subtitle lang="cl" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="us" line="So drink water! Drink water."/>
+        <subtitle lang="bd" line="So drink water! Drink water."/>
+        <subtitle lang="ke" line="So drink water! Drink water."/>
+        <subtitle lang="sb" line="So drink water! Drink water."/>
+        <subtitle lang="cr" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="sp" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="vc" line="So drink water! Drink water."/>
+        <subtitle lang="za" line="So drink water! Drink water."/>
+        <subtitle lang="tt" line="So drink water! Drink water."/>
+        <subtitle lang="mu" line="So drink water! Drink water."/>
+        <subtitle lang="bo" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="sl" line="So drink water! Drink water."/>
+        <subtitle lang="pa" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="sco" line="So drink water! Drink water."/>
+        <subtitle lang="hn" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="gt" line="y tomo agua. Tomo mucha agua."/>
+        <subtitle lang="zw" line="So drink water! Drink water."/>
+      <subtitle lang="ine" line="So you drink water, you drink some water"/>
+			</subtitles>
+    </line>
+    <line words="Il martedi' gioco a tennis!" start="25260" length="2998">
+      <subtitles>
+        <subtitle lang="en" line="On Tuesday I play tennis!"/>
+        <subtitle lang="dm" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ng" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ni" line="El martes juego tenis"/>
+        <subtitle lang="bz" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ag" line="On Tuesday I play tennis!"/>
+        <subtitle lang="bw" line="On Tuesday I play tennis!"/>
+        <subtitle lang="au" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ec" line="El martes juego tenis"/>
+        <subtitle lang="pr" line="El martes juego tenis"/>
+        <subtitle lang="mt" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ae" line="On Tuesday I play tennis!"/>
+        <subtitle lang="to" line="On Tuesday I play tennis!"/>
+        <subtitle lang="es" line="El martes juego tenis"/>
+        <subtitle lang="rw" line="On Tuesday I play tennis!"/>
+        <subtitle lang="fj" line="On Tuesday I play tennis!"/>
+        <subtitle lang="pe" line="El martes juego tenis"/>
+        <subtitle lang="gy" line="On Tuesday I play tennis!"/>
+        <subtitle lang="zm" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ve" line="El martes juego tenis"/>
+        <subtitle lang="sg" line="On Tuesday I play tennis!"/>
+        <subtitle lang="mx" line="El martes juego tenis"/>
+        <subtitle lang="do" line="El martes juego tenis"/>
+        <subtitle lang="bs" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ug" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ws" line="On Tuesday I play tennis!"/>
+        <subtitle lang="tz" line="On Tuesday I play tennis!"/>
+        <subtitle lang="co" line="El martes juego tenis"/>
+        <subtitle lang="jm" line="On Tuesday I play tennis!"/>
+        <subtitle lang="pk" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ca" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ar" line="El martes juego tenis"/>
+        <subtitle lang="py" line="El martes juego tenis"/>
+        <subtitle lang="na" line="On Tuesday I play tennis!"/>
+        <subtitle lang="cu" line="El martes juego tenis"/>
+        <subtitle lang="gh" line="On Tuesday I play tennis!"/>
+        <subtitle lang="sv" line="El martes juego tenis"/>
+        <subtitle lang="gm" line="On Tuesday I play tennis!"/>
+        <subtitle lang="vu" line="On Tuesday I play tennis!"/>
+        <subtitle lang="cl" line="El martes juego tenis"/>
+        <subtitle lang="us" line="On Tuesday I play tennis!"/>
+        <subtitle lang="bd" line="On Tuesday I play tennis!"/>
+        <subtitle lang="ke" line="On Tuesday I play tennis!"/>
+        <subtitle lang="sb" line="On Tuesday I play tennis!"/>
+        <subtitle lang="cr" line="El martes juego tenis"/>
+        <subtitle lang="sp" line="El martes juego tenis"/>
+        <subtitle lang="vc" line="On Tuesday I play tennis!"/>
+        <subtitle lang="za" line="On Tuesday I play tennis!"/>
+        <subtitle lang="tt" line="On Tuesday I play tennis!"/>
+        <subtitle lang="mu" line="On Tuesday I play tennis!"/>
+        <subtitle lang="bo" line="El martes juego tenis"/>
+        <subtitle lang="sl" line="On Tuesday I play tennis!"/>
+        <subtitle lang="pa" line="El martes juego tenis"/>
+        <subtitle lang="sco" line="On Tuesday I play tennis!"/>
+        <subtitle lang="hn" line="El martes juego tenis"/>
+        <subtitle lang="gt" line="El martes juego tenis"/>
+        <subtitle lang="zw" line="On Tuesday I play tennis!"/>
+      <subtitle lang="ine" line="On Tuesday I play tennis!"/>
+			</subtitles>
+    </line>
+    <line words="Allora bevi il succo, bevi del succo" start="28338" length="3757">
+      <subtitles>
+        <subtitle lang="en" line="So you drink juice, you drink some juice"/>
+        <subtitle lang="dm" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ng" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ni" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="bz" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ag" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="bw" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="au" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ec" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="pr" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="mt" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ae" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="to" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="es" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="rw" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="fj" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="pe" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="gy" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="zm" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ve" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="sg" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="mx" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="do" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="bs" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ug" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ws" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="tz" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="co" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="jm" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="pk" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ca" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ar" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="py" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="na" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="cu" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="gh" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="sv" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="gm" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="vu" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="cl" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="us" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="bd" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="ke" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="sb" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="cr" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="sp" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="vc" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="za" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="tt" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="mu" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="bo" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="sl" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="pa" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="sco" line="So drink some juice! Drink some juice."/>
+        <subtitle lang="hn" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="gt" line="y tomo jugo. Tomo mucho jugo."/>
+        <subtitle lang="zw" line="So drink some juice! Drink some juice."/>
+      <subtitle lang="ine" line="So you drink juice, you drink some juice"/>
+			</subtitles>
+    </line>
+    <line words="mercoledi' gioco a golf!" start="32215" length="2758">
+      <subtitles>
+        <subtitle lang="en" line="Wednesday I play some golf!"/>
+        <subtitle lang="dm" line="Wednesday I play some golf!"/>
+        <subtitle lang="ng" line="Wednesday I play some golf!"/>
+        <subtitle lang="ni" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="bz" line="Wednesday I play some golf!"/>
+        <subtitle lang="ag" line="Wednesday I play some golf!"/>
+        <subtitle lang="bw" line="Wednesday I play some golf!"/>
+        <subtitle lang="au" line="Wednesday I play some golf!"/>
+        <subtitle lang="ec" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="pr" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="mt" line="Wednesday I play some golf!"/>
+        <subtitle lang="ae" line="Wednesday I play some golf!"/>
+        <subtitle lang="to" line="Wednesday I play some golf!"/>
+        <subtitle lang="es" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="rw" line="Wednesday I play some golf!"/>
+        <subtitle lang="fj" line="Wednesday I play some golf!"/>
+        <subtitle lang="pe" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="gy" line="Wednesday I play some golf!"/>
+        <subtitle lang="zm" line="Wednesday I play some golf!"/>
+        <subtitle lang="ve" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="sg" line="Wednesday I play some golf!"/>
+        <subtitle lang="mx" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="do" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="bs" line="Wednesday I play some golf!"/>
+        <subtitle lang="ug" line="Wednesday I play some golf!"/>
+        <subtitle lang="ws" line="Wednesday I play some golf!"/>
+        <subtitle lang="tz" line="Wednesday I play some golf!"/>
+        <subtitle lang="co" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="jm" line="Wednesday I play some golf!"/>
+        <subtitle lang="pk" line="Wednesday I play some golf!"/>
+        <subtitle lang="ca" line="Wednesday I play some golf!"/>
+        <subtitle lang="ar" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="py" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="na" line="Wednesday I play some golf!"/>
+        <subtitle lang="cu" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="gh" line="Wednesday I play some golf!"/>
+        <subtitle lang="sv" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="gm" line="Wednesday I play some golf!"/>
+        <subtitle lang="vu" line="Wednesday I play some golf!"/>
+        <subtitle lang="cl" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="us" line="Wednesday I play some golf!"/>
+        <subtitle lang="bd" line="Wednesday I play some golf!"/>
+        <subtitle lang="ke" line="Wednesday I play some golf!"/>
+        <subtitle lang="sb" line="Wednesday I play some golf!"/>
+        <subtitle lang="cr" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="sp" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="vc" line="Wednesday I play some golf!"/>
+        <subtitle lang="za" line="Wednesday I play some golf!"/>
+        <subtitle lang="tt" line="Wednesday I play some golf!"/>
+        <subtitle lang="mu" line="Wednesday I play some golf!"/>
+        <subtitle lang="bo" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="sl" line="Wednesday I play some golf!"/>
+        <subtitle lang="pa" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="sco" line="Wednesday I play some golf!"/>
+        <subtitle lang="hn" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="gt" line="El mi&#xE9;rcoles juego golf"/>
+        <subtitle lang="zw" line="Wednesday I play some golf!"/>
+      <subtitle lang="ine" line="Wednesday I play some golf!"/>
+			</subtitles>
+    </line>
+    <line words="Allora bevi l&#x2019;acqua, o bevi del succo" start="35053" length="4117">
+      <subtitles>
+        <subtitle lang="en" line="So you drink water, or you drink some juice"/>
+        <subtitle lang="dm" line="So drink water or drink some juice."/>
+        <subtitle lang="ng" line="So drink water or drink some juice."/>
+        <subtitle lang="ni" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="bz" line="So drink water or drink some juice."/>
+        <subtitle lang="ag" line="So drink water or drink some juice."/>
+        <subtitle lang="bw" line="So drink water or drink some juice."/>
+        <subtitle lang="au" line="So drink water or drink some juice."/>
+        <subtitle lang="ec" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="pr" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="mt" line="So drink water or drink some juice."/>
+        <subtitle lang="ae" line="So drink water or drink some juice."/>
+        <subtitle lang="to" line="So drink water or drink some juice."/>
+        <subtitle lang="es" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="rw" line="So drink water or drink some juice."/>
+        <subtitle lang="fj" line="So drink water or drink some juice."/>
+        <subtitle lang="pe" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="gy" line="So drink water or drink some juice."/>
+        <subtitle lang="zm" line="So drink water or drink some juice."/>
+        <subtitle lang="ve" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="sg" line="So drink water or drink some juice."/>
+        <subtitle lang="mx" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="do" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="bs" line="So drink water or drink some juice."/>
+        <subtitle lang="ug" line="So drink water or drink some juice."/>
+        <subtitle lang="ws" line="So drink water or drink some juice."/>
+        <subtitle lang="tz" line="So drink water or drink some juice."/>
+        <subtitle lang="co" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="jm" line="So drink water or drink some juice."/>
+        <subtitle lang="pk" line="So drink water or drink some juice."/>
+        <subtitle lang="ca" line="So drink water or drink some juice."/>
+        <subtitle lang="ar" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="py" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="na" line="So drink water or drink some juice."/>
+        <subtitle lang="cu" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="gh" line="So drink water or drink some juice."/>
+        <subtitle lang="sv" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="gm" line="So drink water or drink some juice."/>
+        <subtitle lang="vu" line="So drink water or drink some juice."/>
+        <subtitle lang="cl" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="us" line="So drink water or drink some juice."/>
+        <subtitle lang="bd" line="So drink water or drink some juice."/>
+        <subtitle lang="ke" line="So drink water or drink some juice."/>
+        <subtitle lang="sb" line="So drink water or drink some juice."/>
+        <subtitle lang="cr" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="sp" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="vc" line="So drink water or drink some juice."/>
+        <subtitle lang="za" line="So drink water or drink some juice."/>
+        <subtitle lang="tt" line="So drink water or drink some juice."/>
+        <subtitle lang="mu" line="So drink water or drink some juice."/>
+        <subtitle lang="bo" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="sl" line="So drink water or drink some juice."/>
+        <subtitle lang="pa" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="sco" line="So drink water or drink some juice."/>
+        <subtitle lang="hn" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="gt" line="y tomo agua. Tomo mucho jugo."/>
+        <subtitle lang="zw" line="So drink water or drink some juice."/>
+      <subtitle lang="ine" line="So you drink water, or you drink some juice"/>
+			</subtitles>
+    </line>
+    <line words="lunedi', martedi', mercoledi'" start="42727" length="3320">
+      <subtitles>
+        <subtitle lang="en" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="dm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ng" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ni" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ag" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="au" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ec" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="pr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="mt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ae" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="to" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="es" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="rw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="fj" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pe" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gy" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="zm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ve" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sg" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mx" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="do" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bs" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ug" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ws" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="co" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="jm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pk" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ca" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ar" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="py" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="na" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cu" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gh" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sv" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="vu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cl" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="us" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bd" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ke" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sb" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sp" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="vc" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="za" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bo" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sl" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pa" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sco" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="hn" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gt" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="zw" line="Monday, Tuesday, Wednesday."/>
+      <subtitle lang="ine" line="Monday, Tuesday, Wednesday."/>
+			</subtitles>
+    </line>
+    <line words="giovedi', venerdi', sabato," start="46047" length="3198">
+      <subtitles>
+        <subtitle lang="en" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="dm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ng" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ni" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ag" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="au" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ec" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="pr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="mt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ae" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="to" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="es" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="rw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="fj" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pe" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gy" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="zm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ve" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sg" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mx" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="do" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bs" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ug" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ws" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="co" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="jm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pk" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ca" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ar" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="py" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="na" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cu" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gh" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sv" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="vu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cl" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="us" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bd" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ke" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sb" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sp" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="vc" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="za" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bo" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sl" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pa" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sco" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="hn" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gt" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="zw" line="Thursday, Friday, Saturday."/>
+      <subtitle lang="ine" line="Thursday, Friday, Saturday."/>
+			</subtitles>
+    </line>
+    <line words="domenica, amo fare sport!" start="49402" length="3118">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I love doing sport!"/>
+        <subtitle lang="dm" line="Sunday, I love sport!"/>
+        <subtitle lang="ng" line="Sunday, I love sport!"/>
+        <subtitle lang="ni" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bz" line="Sunday, I love sport!"/>
+        <subtitle lang="ag" line="Sunday, I love sport!"/>
+        <subtitle lang="bw" line="Sunday, I love sport!"/>
+        <subtitle lang="au" line="Sunday, I love sport!"/>
+        <subtitle lang="ec" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="pr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="mt" line="Sunday, I love sport!"/>
+        <subtitle lang="ae" line="Sunday, I love sport!"/>
+        <subtitle lang="to" line="Sunday, I love sport!"/>
+        <subtitle lang="es" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="rw" line="Sunday, I love sport!"/>
+        <subtitle lang="fj" line="Sunday, I love sport!"/>
+        <subtitle lang="pe" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gy" line="Sunday, I love sport!"/>
+        <subtitle lang="zm" line="Sunday, I love sport!"/>
+        <subtitle lang="ve" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sg" line="Sunday, I love sport!"/>
+        <subtitle lang="mx" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="do" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bs" line="Sunday, I love sport!"/>
+        <subtitle lang="ug" line="Sunday, I love sport!"/>
+        <subtitle lang="ws" line="Sunday, I love sport!"/>
+        <subtitle lang="tz" line="Sunday, I love sport!"/>
+        <subtitle lang="co" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="jm" line="Sunday, I love sport!"/>
+        <subtitle lang="pk" line="Sunday, I love sport!"/>
+        <subtitle lang="ca" line="Sunday, I love sport!"/>
+        <subtitle lang="ar" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="py" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="na" line="Sunday, I love sport!"/>
+        <subtitle lang="cu" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gh" line="Sunday, I love sport!"/>
+        <subtitle lang="sv" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gm" line="Sunday, I love sport!"/>
+        <subtitle lang="vu" line="Sunday, I love sport!"/>
+        <subtitle lang="cl" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="us" line="Sunday, I love sport!"/>
+        <subtitle lang="bd" line="Sunday, I love sport!"/>
+        <subtitle lang="ke" line="Sunday, I love sport!"/>
+        <subtitle lang="sb" line="Sunday, I love sport!"/>
+        <subtitle lang="cr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sp" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="vc" line="Sunday, I love sport!"/>
+        <subtitle lang="za" line="Sunday, I love sport!"/>
+        <subtitle lang="tt" line="Sunday, I love sport!"/>
+        <subtitle lang="mu" line="Sunday, I love sport!"/>
+        <subtitle lang="bo" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sl" line="Sunday, I love sport!"/>
+        <subtitle lang="pa" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sco" line="Sunday, I love sport!"/>
+        <subtitle lang="hn" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gt" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="zw" line="Sunday, I love sport!"/>
+      <subtitle lang="ine" line="Sunday I love doing sport!"/>
+			</subtitles>
+    </line>
+    <line words="adoro tutti gli sport!" start="52639" length="3038">
+      <subtitles>
+        <subtitle lang="en" line="I adore all sports"/>
+        <subtitle lang="dm" line="Yes I really like all sport."/>
+        <subtitle lang="ng" line="Yes I really like all sport."/>
+        <subtitle lang="ni" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bz" line="Yes I really like all sport."/>
+        <subtitle lang="ag" line="Yes I really like all sport."/>
+        <subtitle lang="bw" line="Yes I really like all sport."/>
+        <subtitle lang="au" line="Yes I really like all sport."/>
+        <subtitle lang="ec" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="pr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="mt" line="Yes I really like all sport."/>
+        <subtitle lang="ae" line="Yes I really like all sport."/>
+        <subtitle lang="to" line="Yes I really like all sport."/>
+        <subtitle lang="es" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="rw" line="Yes I really like all sport."/>
+        <subtitle lang="fj" line="Yes I really like all sport."/>
+        <subtitle lang="pe" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gy" line="Yes I really like all sport."/>
+        <subtitle lang="zm" line="Yes I really like all sport."/>
+        <subtitle lang="ve" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sg" line="Yes I really like all sport."/>
+        <subtitle lang="mx" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="do" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bs" line="Yes I really like all sport."/>
+        <subtitle lang="ug" line="Yes I really like all sport."/>
+        <subtitle lang="ws" line="Yes I really like all sport."/>
+        <subtitle lang="tz" line="Yes I really like all sport."/>
+        <subtitle lang="co" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="jm" line="Yes I really like all sport."/>
+        <subtitle lang="pk" line="Yes I really like all sport."/>
+        <subtitle lang="ca" line="Yes I really like all sport."/>
+        <subtitle lang="ar" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="py" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="na" line="Yes I really like all sport."/>
+        <subtitle lang="cu" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gh" line="Yes I really like all sport."/>
+        <subtitle lang="sv" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gm" line="Yes I really like all sport."/>
+        <subtitle lang="vu" line="Yes I really like all sport."/>
+        <subtitle lang="cl" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="us" line="Yes I really like all sport."/>
+        <subtitle lang="bd" line="Yes I really like all sport."/>
+        <subtitle lang="ke" line="Yes I really like all sport."/>
+        <subtitle lang="sb" line="Yes I really like all sport."/>
+        <subtitle lang="cr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sp" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="vc" line="Yes I really like all sport."/>
+        <subtitle lang="za" line="Yes I really like all sport."/>
+        <subtitle lang="tt" line="Yes I really like all sport."/>
+        <subtitle lang="mu" line="Yes I really like all sport."/>
+        <subtitle lang="bo" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sl" line="Yes I really like all sport."/>
+        <subtitle lang="pa" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sco" line="Yes I really like all sport."/>
+        <subtitle lang="hn" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gt" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="zw" line="Yes I really like all sport."/>
+      <subtitle lang="ine" line="I adore all sports"/>
+			</subtitles>
+    </line>
+    <line words="giovedi' vado a nuotare!" start="55837" length="3277">
+      <subtitles>
+        <subtitle lang="en" line="Thursday I go swimming!"/>
+        <subtitle lang="dm" line="Thursday I go swimming!"/>
+        <subtitle lang="ng" line="Thursday I go swimming!"/>
+        <subtitle lang="ni" line="El jueves voy a nadar."/>
+        <subtitle lang="bz" line="Thursday I go swimming!"/>
+        <subtitle lang="ag" line="Thursday I go swimming!"/>
+        <subtitle lang="bw" line="Thursday I go swimming!"/>
+        <subtitle lang="au" line="Thursday I go swimming!"/>
+        <subtitle lang="ec" line="El jueves voy a nadar."/>
+        <subtitle lang="pr" line="El jueves voy a nadar."/>
+        <subtitle lang="mt" line="Thursday I go swimming!"/>
+        <subtitle lang="ae" line="Thursday I go swimming!"/>
+        <subtitle lang="to" line="Thursday I go swimming!"/>
+        <subtitle lang="es" line="El jueves voy a nadar."/>
+        <subtitle lang="rw" line="Thursday I go swimming!"/>
+        <subtitle lang="fj" line="Thursday I go swimming!"/>
+        <subtitle lang="pe" line="El jueves voy a nadar."/>
+        <subtitle lang="gy" line="Thursday I go swimming!"/>
+        <subtitle lang="zm" line="Thursday I go swimming!"/>
+        <subtitle lang="ve" line="El jueves voy a nadar."/>
+        <subtitle lang="sg" line="Thursday I go swimming!"/>
+        <subtitle lang="mx" line="El jueves voy a nadar."/>
+        <subtitle lang="do" line="El jueves voy a nadar."/>
+        <subtitle lang="bs" line="Thursday I go swimming!"/>
+        <subtitle lang="ug" line="Thursday I go swimming!"/>
+        <subtitle lang="ws" line="Thursday I go swimming!"/>
+        <subtitle lang="tz" line="Thursday I go swimming!"/>
+        <subtitle lang="co" line="El jueves voy a nadar."/>
+        <subtitle lang="jm" line="Thursday I go swimming!"/>
+        <subtitle lang="pk" line="Thursday I go swimming!"/>
+        <subtitle lang="ca" line="Thursday I go swimming!"/>
+        <subtitle lang="ar" line="El jueves voy a nadar."/>
+        <subtitle lang="py" line="El jueves voy a nadar."/>
+        <subtitle lang="na" line="Thursday I go swimming!"/>
+        <subtitle lang="cu" line="El jueves voy a nadar."/>
+        <subtitle lang="gh" line="Thursday I go swimming!"/>
+        <subtitle lang="sv" line="El jueves voy a nadar."/>
+        <subtitle lang="gm" line="Thursday I go swimming!"/>
+        <subtitle lang="vu" line="Thursday I go swimming!"/>
+        <subtitle lang="cl" line="El jueves voy a nadar."/>
+        <subtitle lang="us" line="Thursday I go swimming!"/>
+        <subtitle lang="bd" line="Thursday I go swimming!"/>
+        <subtitle lang="ke" line="Thursday I go swimming!"/>
+        <subtitle lang="sb" line="Thursday I go swimming!"/>
+        <subtitle lang="cr" line="El jueves voy a nadar."/>
+        <subtitle lang="sp" line="El jueves voy a nadar."/>
+        <subtitle lang="vc" line="Thursday I go swimming!"/>
+        <subtitle lang="za" line="Thursday I go swimming!"/>
+        <subtitle lang="tt" line="Thursday I go swimming!"/>
+        <subtitle lang="mu" line="Thursday I go swimming!"/>
+        <subtitle lang="bo" line="El jueves voy a nadar."/>
+        <subtitle lang="sl" line="Thursday I go swimming!"/>
+        <subtitle lang="pa" line="El jueves voy a nadar."/>
+        <subtitle lang="sco" line="Thursday I go swimming!"/>
+        <subtitle lang="hn" line="El jueves voy a nadar."/>
+        <subtitle lang="gt" line="El jueves voy a nadar."/>
+        <subtitle lang="zw" line="Thursday I go swimming!"/>
+      <subtitle lang="ine" line="Thursday I go swimming!"/>
+			</subtitles>
+    </line>
+    <line words="allora mangia il pesce, mangia del pesce" start="59274" length="3837">
+      <subtitles>
+        <subtitle lang="en" line="So he eats fish, he eats some fish"/>
+        <subtitle lang="dm" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ng" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ni" line="Como pescado, mucho pescado."/>
+        <subtitle lang="bz" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ag" line="So eat some fish, eat some fish."/>
+        <subtitle lang="bw" line="So eat some fish, eat some fish."/>
+        <subtitle lang="au" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ec" line="Como pescado, mucho pescado."/>
+        <subtitle lang="pr" line="Como pescado, mucho pescado."/>
+        <subtitle lang="mt" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ae" line="So eat some fish, eat some fish."/>
+        <subtitle lang="to" line="So eat some fish, eat some fish."/>
+        <subtitle lang="es" line="Como pescado, mucho pescado."/>
+        <subtitle lang="rw" line="So eat some fish, eat some fish."/>
+        <subtitle lang="fj" line="So eat some fish, eat some fish."/>
+        <subtitle lang="pe" line="Como pescado, mucho pescado."/>
+        <subtitle lang="gy" line="So eat some fish, eat some fish."/>
+        <subtitle lang="zm" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ve" line="Como pescado, mucho pescado."/>
+        <subtitle lang="sg" line="So eat some fish, eat some fish."/>
+        <subtitle lang="mx" line="Como pescado, mucho pescado."/>
+        <subtitle lang="do" line="Como pescado, mucho pescado."/>
+        <subtitle lang="bs" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ug" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ws" line="So eat some fish, eat some fish."/>
+        <subtitle lang="tz" line="So eat some fish, eat some fish."/>
+        <subtitle lang="co" line="Como pescado, mucho pescado."/>
+        <subtitle lang="jm" line="So eat some fish, eat some fish."/>
+        <subtitle lang="pk" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ca" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ar" line="Como pescado, mucho pescado."/>
+        <subtitle lang="py" line="Como pescado, mucho pescado."/>
+        <subtitle lang="na" line="So eat some fish, eat some fish."/>
+        <subtitle lang="cu" line="Como pescado, mucho pescado."/>
+        <subtitle lang="gh" line="So eat some fish, eat some fish."/>
+        <subtitle lang="sv" line="Como pescado, mucho pescado."/>
+        <subtitle lang="gm" line="So eat some fish, eat some fish."/>
+        <subtitle lang="vu" line="So eat some fish, eat some fish."/>
+        <subtitle lang="cl" line="Como pescado, mucho pescado."/>
+        <subtitle lang="us" line="So eat some fish, eat some fish."/>
+        <subtitle lang="bd" line="So eat some fish, eat some fish."/>
+        <subtitle lang="ke" line="So eat some fish, eat some fish."/>
+        <subtitle lang="sb" line="So eat some fish, eat some fish."/>
+        <subtitle lang="cr" line="Como pescado, mucho pescado."/>
+        <subtitle lang="sp" line="Como pescado, mucho pescado."/>
+        <subtitle lang="vc" line="So eat some fish, eat some fish."/>
+        <subtitle lang="za" line="So eat some fish, eat some fish."/>
+        <subtitle lang="tt" line="So eat some fish, eat some fish."/>
+        <subtitle lang="mu" line="So eat some fish, eat some fish."/>
+        <subtitle lang="bo" line="Como pescado, mucho pescado."/>
+        <subtitle lang="sl" line="So eat some fish, eat some fish."/>
+        <subtitle lang="pa" line="Como pescado, mucho pescado."/>
+        <subtitle lang="sco" line="So eat some fish, eat some fish."/>
+        <subtitle lang="hn" line="Como pescado, mucho pescado."/>
+        <subtitle lang="gt" line="Como pescado, mucho pescado."/>
+        <subtitle lang="zw" line="So eat some fish, eat some fish."/>
+      <subtitle lang="ine" line="So he eats fish, he eats some fish"/>
+			</subtitles>
+    </line>
+    <line words="venerdi' faccio judo!" start="63231" length="2678">
+      <subtitles>
+        <subtitle lang="en" line="Friday I do judo!"/>
+        <subtitle lang="dm" line="Friday I do judo!"/>
+        <subtitle lang="ng" line="Friday I do judo!"/>
+        <subtitle lang="ni" line="El viernes hago judo"/>
+        <subtitle lang="bz" line="Friday I do judo!"/>
+        <subtitle lang="ag" line="Friday I do judo!"/>
+        <subtitle lang="bw" line="Friday I do judo!"/>
+        <subtitle lang="au" line="Friday I do judo!"/>
+        <subtitle lang="ec" line="El viernes hago judo"/>
+        <subtitle lang="pr" line="El viernes hago judo"/>
+        <subtitle lang="mt" line="Friday I do judo!"/>
+        <subtitle lang="ae" line="Friday I do judo!"/>
+        <subtitle lang="to" line="Friday I do judo!"/>
+        <subtitle lang="es" line="El viernes hago judo"/>
+        <subtitle lang="rw" line="Friday I do judo!"/>
+        <subtitle lang="fj" line="Friday I do judo!"/>
+        <subtitle lang="pe" line="El viernes hago judo"/>
+        <subtitle lang="gy" line="Friday I do judo!"/>
+        <subtitle lang="zm" line="Friday I do judo!"/>
+        <subtitle lang="ve" line="El viernes hago judo"/>
+        <subtitle lang="sg" line="Friday I do judo!"/>
+        <subtitle lang="mx" line="El viernes hago judo"/>
+        <subtitle lang="do" line="El viernes hago judo"/>
+        <subtitle lang="bs" line="Friday I do judo!"/>
+        <subtitle lang="ug" line="Friday I do judo!"/>
+        <subtitle lang="ws" line="Friday I do judo!"/>
+        <subtitle lang="tz" line="Friday I do judo!"/>
+        <subtitle lang="co" line="El viernes hago judo"/>
+        <subtitle lang="jm" line="Friday I do judo!"/>
+        <subtitle lang="pk" line="Friday I do judo!"/>
+        <subtitle lang="ca" line="Friday I do judo!"/>
+        <subtitle lang="ar" line="El viernes hago judo"/>
+        <subtitle lang="py" line="El viernes hago judo"/>
+        <subtitle lang="na" line="Friday I do judo!"/>
+        <subtitle lang="cu" line="El viernes hago judo"/>
+        <subtitle lang="gh" line="Friday I do judo!"/>
+        <subtitle lang="sv" line="El viernes hago judo"/>
+        <subtitle lang="gm" line="Friday I do judo!"/>
+        <subtitle lang="vu" line="Friday I do judo!"/>
+        <subtitle lang="cl" line="El viernes hago judo"/>
+        <subtitle lang="us" line="Friday I do judo!"/>
+        <subtitle lang="bd" line="Friday I do judo!"/>
+        <subtitle lang="ke" line="Friday I do judo!"/>
+        <subtitle lang="sb" line="Friday I do judo!"/>
+        <subtitle lang="cr" line="El viernes hago judo"/>
+        <subtitle lang="sp" line="El viernes hago judo"/>
+        <subtitle lang="vc" line="Friday I do judo!"/>
+        <subtitle lang="za" line="Friday I do judo!"/>
+        <subtitle lang="tt" line="Friday I do judo!"/>
+        <subtitle lang="mu" line="Friday I do judo!"/>
+        <subtitle lang="bo" line="El viernes hago judo"/>
+        <subtitle lang="sl" line="Friday I do judo!"/>
+        <subtitle lang="pa" line="El viernes hago judo"/>
+        <subtitle lang="sco" line="Friday I do judo!"/>
+        <subtitle lang="hn" line="El viernes hago judo"/>
+        <subtitle lang="gt" line="El viernes hago judo"/>
+        <subtitle lang="zw" line="Friday I do judo!"/>
+      <subtitle lang="ine" line="Friday I do judo!"/>
+			</subtitles>
+    </line>
+    <line words="allora mangia la carne, mangia della carne" start="66069" length="3877">
+      <subtitles>
+        <subtitle lang="en" line="So she eats meat, she eats some meat"/>
+        <subtitle lang="dm" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ng" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ni" line="y como carne, como mucha carne."/>
+        <subtitle lang="bz" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ag" line="So eat some steak, eat some steak."/>
+        <subtitle lang="bw" line="So eat some steak, eat some steak."/>
+        <subtitle lang="au" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ec" line="y como carne, como mucha carne."/>
+        <subtitle lang="pr" line="y como carne, como mucha carne."/>
+        <subtitle lang="mt" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ae" line="So eat some steak, eat some steak."/>
+        <subtitle lang="to" line="So eat some steak, eat some steak."/>
+        <subtitle lang="es" line="y como carne, como mucha carne."/>
+        <subtitle lang="rw" line="So eat some steak, eat some steak."/>
+        <subtitle lang="fj" line="So eat some steak, eat some steak."/>
+        <subtitle lang="pe" line="y como carne, como mucha carne."/>
+        <subtitle lang="gy" line="So eat some steak, eat some steak."/>
+        <subtitle lang="zm" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ve" line="y como carne, como mucha carne."/>
+        <subtitle lang="sg" line="So eat some steak, eat some steak."/>
+        <subtitle lang="mx" line="y como carne, como mucha carne."/>
+        <subtitle lang="do" line="y como carne, como mucha carne."/>
+        <subtitle lang="bs" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ug" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ws" line="So eat some steak, eat some steak."/>
+        <subtitle lang="tz" line="So eat some steak, eat some steak."/>
+        <subtitle lang="co" line="y como carne, como mucha carne."/>
+        <subtitle lang="jm" line="So eat some steak, eat some steak."/>
+        <subtitle lang="pk" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ca" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ar" line="y como carne, como mucha carne."/>
+        <subtitle lang="py" line="y como carne, como mucha carne."/>
+        <subtitle lang="na" line="So eat some steak, eat some steak."/>
+        <subtitle lang="cu" line="y como carne, como mucha carne."/>
+        <subtitle lang="gh" line="So eat some steak, eat some steak."/>
+        <subtitle lang="sv" line="y como carne, como mucha carne."/>
+        <subtitle lang="gm" line="So eat some steak, eat some steak."/>
+        <subtitle lang="vu" line="So eat some steak, eat some steak."/>
+        <subtitle lang="cl" line="y como carne, como mucha carne."/>
+        <subtitle lang="us" line="So eat some steak, eat some steak."/>
+        <subtitle lang="bd" line="So eat some steak, eat some steak."/>
+        <subtitle lang="ke" line="So eat some steak, eat some steak."/>
+        <subtitle lang="sb" line="So eat some steak, eat some steak."/>
+        <subtitle lang="cr" line="y como carne, como mucha carne."/>
+        <subtitle lang="sp" line="y como carne, como mucha carne."/>
+        <subtitle lang="vc" line="So eat some steak, eat some steak."/>
+        <subtitle lang="za" line="So eat some steak, eat some steak."/>
+        <subtitle lang="tt" line="So eat some steak, eat some steak."/>
+        <subtitle lang="mu" line="So eat some steak, eat some steak."/>
+        <subtitle lang="bo" line="y como carne, como mucha carne."/>
+        <subtitle lang="sl" line="So eat some steak, eat some steak."/>
+        <subtitle lang="pa" line="y como carne, como mucha carne."/>
+        <subtitle lang="sco" line="So eat some steak, eat some steak."/>
+        <subtitle lang="hn" line="y como carne, como mucha carne."/>
+        <subtitle lang="gt" line="y como carne, como mucha carne."/>
+        <subtitle lang="zw" line="So eat some steak, eat some steak."/>
+      <subtitle lang="ine" line="So she eats meat, she eats some meat"/>
+			</subtitles>
+    </line>
+    <line words="Sabato equitazione" start="70112" length="2718">
+      <subtitles>
+        <subtitle lang="en" line="Saturday I go horseriding!"/>
+        <subtitle lang="dm" line="Saturday I go horseriding!"/>
+        <subtitle lang="ng" line="Saturday I go horseriding!"/>
+        <subtitle lang="ni" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="bz" line="Saturday I go horseriding!"/>
+        <subtitle lang="ag" line="Saturday I go horseriding!"/>
+        <subtitle lang="bw" line="Saturday I go horseriding!"/>
+        <subtitle lang="au" line="Saturday I go horseriding!"/>
+        <subtitle lang="ec" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="pr" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="mt" line="Saturday I go horseriding!"/>
+        <subtitle lang="ae" line="Saturday I go horseriding!"/>
+        <subtitle lang="to" line="Saturday I go horseriding!"/>
+        <subtitle lang="es" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="rw" line="Saturday I go horseriding!"/>
+        <subtitle lang="fj" line="Saturday I go horseriding!"/>
+        <subtitle lang="pe" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="gy" line="Saturday I go horseriding!"/>
+        <subtitle lang="zm" line="Saturday I go horseriding!"/>
+        <subtitle lang="ve" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="sg" line="Saturday I go horseriding!"/>
+        <subtitle lang="mx" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="do" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="bs" line="Saturday I go horseriding!"/>
+        <subtitle lang="ug" line="Saturday I go horseriding!"/>
+        <subtitle lang="ws" line="Saturday I go horseriding!"/>
+        <subtitle lang="tz" line="Saturday I go horseriding!"/>
+        <subtitle lang="co" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="jm" line="Saturday I go horseriding!"/>
+        <subtitle lang="pk" line="Saturday I go horseriding!"/>
+        <subtitle lang="ca" line="Saturday I go horseriding!"/>
+        <subtitle lang="ar" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="py" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="na" line="Saturday I go horseriding!"/>
+        <subtitle lang="cu" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="gh" line="Saturday I go horseriding!"/>
+        <subtitle lang="sv" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="gm" line="Saturday I go horseriding!"/>
+        <subtitle lang="vu" line="Saturday I go horseriding!"/>
+        <subtitle lang="cl" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="us" line="Saturday I go horseriding!"/>
+        <subtitle lang="bd" line="Saturday I go horseriding!"/>
+        <subtitle lang="ke" line="Saturday I go horseriding!"/>
+        <subtitle lang="sb" line="Saturday I go horseriding!"/>
+        <subtitle lang="cr" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="sp" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="vc" line="Saturday I go horseriding!"/>
+        <subtitle lang="za" line="Saturday I go horseriding!"/>
+        <subtitle lang="tt" line="Saturday I go horseriding!"/>
+        <subtitle lang="mu" line="Saturday I go horseriding!"/>
+        <subtitle lang="bo" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="sl" line="Saturday I go horseriding!"/>
+        <subtitle lang="pa" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="sco" line="Saturday I go horseriding!"/>
+        <subtitle lang="hn" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="gt" line="El s&#xE1;bado monto a caballo"/>
+        <subtitle lang="zw" line="Saturday I go horseriding!"/>
+      <subtitle lang="ine" line="Saturday I go horseriding!"/>
+			</subtitles>
+    </line>
+    <line words="Allora mangia verdure, delle verdure" start="72950" length="3837">
+      <subtitles>
+        <subtitle lang="en" line="So he eats vegetables, some vegetables"/>
+        <subtitle lang="dm" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ng" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ni" line="y como verduras, muchas verduras."/>
+        <subtitle lang="bz" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ag" line="So eat some veg, eat some veg."/>
+        <subtitle lang="bw" line="So eat some veg, eat some veg."/>
+        <subtitle lang="au" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ec" line="y como verduras, muchas verduras."/>
+        <subtitle lang="pr" line="y como verduras, muchas verduras."/>
+        <subtitle lang="mt" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ae" line="So eat some veg, eat some veg."/>
+        <subtitle lang="to" line="So eat some veg, eat some veg."/>
+        <subtitle lang="es" line="y como verduras, muchas verduras."/>
+        <subtitle lang="rw" line="So eat some veg, eat some veg."/>
+        <subtitle lang="fj" line="So eat some veg, eat some veg."/>
+        <subtitle lang="pe" line="y como verduras, muchas verduras."/>
+        <subtitle lang="gy" line="So eat some veg, eat some veg."/>
+        <subtitle lang="zm" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ve" line="y como verduras, muchas verduras."/>
+        <subtitle lang="sg" line="So eat some veg, eat some veg."/>
+        <subtitle lang="mx" line="y como verduras, muchas verduras."/>
+        <subtitle lang="do" line="y como verduras, muchas verduras."/>
+        <subtitle lang="bs" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ug" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ws" line="So eat some veg, eat some veg."/>
+        <subtitle lang="tz" line="So eat some veg, eat some veg."/>
+        <subtitle lang="co" line="y como verduras, muchas verduras."/>
+        <subtitle lang="jm" line="So eat some veg, eat some veg."/>
+        <subtitle lang="pk" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ca" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ar" line="y como verduras, muchas verduras."/>
+        <subtitle lang="py" line="y como verduras, muchas verduras."/>
+        <subtitle lang="na" line="So eat some veg, eat some veg."/>
+        <subtitle lang="cu" line="y como verduras, muchas verduras."/>
+        <subtitle lang="gh" line="So eat some veg, eat some veg."/>
+        <subtitle lang="sv" line="y como verduras, muchas verduras."/>
+        <subtitle lang="gm" line="So eat some veg, eat some veg."/>
+        <subtitle lang="vu" line="So eat some veg, eat some veg."/>
+        <subtitle lang="cl" line="y como verduras, muchas verduras."/>
+        <subtitle lang="us" line="So eat some veg, eat some veg."/>
+        <subtitle lang="bd" line="So eat some veg, eat some veg."/>
+        <subtitle lang="ke" line="So eat some veg, eat some veg."/>
+        <subtitle lang="sb" line="So eat some veg, eat some veg."/>
+        <subtitle lang="cr" line="y como verduras, muchas verduras."/>
+        <subtitle lang="sp" line="y como verduras, muchas verduras."/>
+        <subtitle lang="vc" line="So eat some veg, eat some veg."/>
+        <subtitle lang="za" line="So eat some veg, eat some veg."/>
+        <subtitle lang="tt" line="So eat some veg, eat some veg."/>
+        <subtitle lang="mu" line="So eat some veg, eat some veg."/>
+        <subtitle lang="bo" line="y como verduras, muchas verduras."/>
+        <subtitle lang="sl" line="So eat some veg, eat some veg."/>
+        <subtitle lang="pa" line="y como verduras, muchas verduras."/>
+        <subtitle lang="sco" line="So eat some veg, eat some veg."/>
+        <subtitle lang="hn" line="y como verduras, muchas verduras."/>
+        <subtitle lang="gt" line="y como verduras, muchas verduras."/>
+        <subtitle lang="zw" line="So eat some veg, eat some veg."/>
+      <subtitle lang="ine" line="So he eats vegetables, some vegetables"/>
+			</subtitles>
+    </line>
+    <line words="lunedi', martedi', mercoledi'" start="80264" length="3478">
+      <subtitles>
+        <subtitle lang="en" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="dm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ng" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ni" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ag" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="au" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ec" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="pr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="mt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ae" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="to" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="es" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="rw" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="fj" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pe" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gy" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="zm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ve" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sg" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mx" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="do" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="bs" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ug" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ws" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tz" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="co" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="jm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pk" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ca" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ar" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="py" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="na" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cu" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gh" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sv" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gm" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="vu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cl" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="us" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bd" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="ke" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="sb" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="cr" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sp" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="vc" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="za" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="tt" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="mu" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="bo" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sl" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="pa" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="sco" line="Monday, Tuesday, Wednesday."/>
+        <subtitle lang="hn" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="gt" line="Lunes, martes, mi&#xE9;rcoles."/>
+        <subtitle lang="zw" line="Monday, Tuesday, Wednesday."/>
+      <subtitle lang="ine" line="Monday, Tuesday, Wednesday."/>
+			</subtitles>
+    </line>
+    <line words="giovedi',venerdi',sabato," start="83861" length="3198">
+      <subtitles>
+        <subtitle lang="en" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="dm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ng" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ni" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ag" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="au" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ec" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="pr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="mt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ae" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="to" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="es" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="rw" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="fj" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pe" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gy" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="zm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ve" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sg" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mx" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="do" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="bs" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ug" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ws" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tz" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="co" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="jm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pk" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ca" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ar" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="py" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="na" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cu" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gh" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sv" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gm" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="vu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cl" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="us" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bd" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="ke" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="sb" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="cr" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sp" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="vc" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="za" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="tt" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="mu" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="bo" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sl" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="pa" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="sco" line="Thursday, Friday, Saturday."/>
+        <subtitle lang="hn" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="gt" line="Jueves, viernes, s&#xE1;bado."/>
+        <subtitle lang="zw" line="Thursday, Friday, Saturday."/>
+      <subtitle lang="ine" line="Thursday, Friday, Saturday."/>
+			</subtitles>
+    </line>
+    <line words="domenica, amo fare sport!" start="87179" length="2801">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I love doing sport!"/>
+        <subtitle lang="dm" line="Sunday, I love sport!"/>
+        <subtitle lang="ng" line="Sunday, I love sport!"/>
+        <subtitle lang="ni" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bz" line="Sunday, I love sport!"/>
+        <subtitle lang="ag" line="Sunday, I love sport!"/>
+        <subtitle lang="bw" line="Sunday, I love sport!"/>
+        <subtitle lang="au" line="Sunday, I love sport!"/>
+        <subtitle lang="ec" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="pr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="mt" line="Sunday, I love sport!"/>
+        <subtitle lang="ae" line="Sunday, I love sport!"/>
+        <subtitle lang="to" line="Sunday, I love sport!"/>
+        <subtitle lang="es" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="rw" line="Sunday, I love sport!"/>
+        <subtitle lang="fj" line="Sunday, I love sport!"/>
+        <subtitle lang="pe" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gy" line="Sunday, I love sport!"/>
+        <subtitle lang="zm" line="Sunday, I love sport!"/>
+        <subtitle lang="ve" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sg" line="Sunday, I love sport!"/>
+        <subtitle lang="mx" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="do" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="bs" line="Sunday, I love sport!"/>
+        <subtitle lang="ug" line="Sunday, I love sport!"/>
+        <subtitle lang="ws" line="Sunday, I love sport!"/>
+        <subtitle lang="tz" line="Sunday, I love sport!"/>
+        <subtitle lang="co" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="jm" line="Sunday, I love sport!"/>
+        <subtitle lang="pk" line="Sunday, I love sport!"/>
+        <subtitle lang="ca" line="Sunday, I love sport!"/>
+        <subtitle lang="ar" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="py" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="na" line="Sunday, I love sport!"/>
+        <subtitle lang="cu" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gh" line="Sunday, I love sport!"/>
+        <subtitle lang="sv" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gm" line="Sunday, I love sport!"/>
+        <subtitle lang="vu" line="Sunday, I love sport!"/>
+        <subtitle lang="cl" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="us" line="Sunday, I love sport!"/>
+        <subtitle lang="bd" line="Sunday, I love sport!"/>
+        <subtitle lang="ke" line="Sunday, I love sport!"/>
+        <subtitle lang="sb" line="Sunday, I love sport!"/>
+        <subtitle lang="cr" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sp" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="vc" line="Sunday, I love sport!"/>
+        <subtitle lang="za" line="Sunday, I love sport!"/>
+        <subtitle lang="tt" line="Sunday, I love sport!"/>
+        <subtitle lang="mu" line="Sunday, I love sport!"/>
+        <subtitle lang="bo" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sl" line="Sunday, I love sport!"/>
+        <subtitle lang="pa" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="sco" line="Sunday, I love sport!"/>
+        <subtitle lang="hn" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="gt" line="&#xA1;Domingo amo ir a jugar!"/>
+        <subtitle lang="zw" line="Sunday, I love sport!"/>
+      <subtitle lang="ine" line="Sunday I love doing sport!"/>
+			</subtitles>
+    </line>
+    <line words="si! adoro tutti gli sport!" start="90416" length="3023">
+      <subtitles>
+        <subtitle lang="en" line="I adore all sports"/>
+        <subtitle lang="dm" line="Yes I really like all sport."/>
+        <subtitle lang="ng" line="Yes I really like all sport."/>
+        <subtitle lang="ni" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bz" line="Yes I really like all sport."/>
+        <subtitle lang="ag" line="Yes I really like all sport."/>
+        <subtitle lang="bw" line="Yes I really like all sport."/>
+        <subtitle lang="au" line="Yes I really like all sport."/>
+        <subtitle lang="ec" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="pr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="mt" line="Yes I really like all sport."/>
+        <subtitle lang="ae" line="Yes I really like all sport."/>
+        <subtitle lang="to" line="Yes I really like all sport."/>
+        <subtitle lang="es" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="rw" line="Yes I really like all sport."/>
+        <subtitle lang="fj" line="Yes I really like all sport."/>
+        <subtitle lang="pe" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gy" line="Yes I really like all sport."/>
+        <subtitle lang="zm" line="Yes I really like all sport."/>
+        <subtitle lang="ve" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sg" line="Yes I really like all sport."/>
+        <subtitle lang="mx" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="do" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="bs" line="Yes I really like all sport."/>
+        <subtitle lang="ug" line="Yes I really like all sport."/>
+        <subtitle lang="ws" line="Yes I really like all sport."/>
+        <subtitle lang="tz" line="Yes I really like all sport."/>
+        <subtitle lang="co" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="jm" line="Yes I really like all sport."/>
+        <subtitle lang="pk" line="Yes I really like all sport."/>
+        <subtitle lang="ca" line="Yes I really like all sport."/>
+        <subtitle lang="ar" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="py" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="na" line="Yes I really like all sport."/>
+        <subtitle lang="cu" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gh" line="Yes I really like all sport."/>
+        <subtitle lang="sv" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gm" line="Yes I really like all sport."/>
+        <subtitle lang="vu" line="Yes I really like all sport."/>
+        <subtitle lang="cl" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="us" line="Yes I really like all sport."/>
+        <subtitle lang="bd" line="Yes I really like all sport."/>
+        <subtitle lang="ke" line="Yes I really like all sport."/>
+        <subtitle lang="sb" line="Yes I really like all sport."/>
+        <subtitle lang="cr" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sp" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="vc" line="Yes I really like all sport."/>
+        <subtitle lang="za" line="Yes I really like all sport."/>
+        <subtitle lang="tt" line="Yes I really like all sport."/>
+        <subtitle lang="mu" line="Yes I really like all sport."/>
+        <subtitle lang="bo" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sl" line="Yes I really like all sport."/>
+        <subtitle lang="pa" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="sco" line="Yes I really like all sport."/>
+        <subtitle lang="hn" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="gt" line="&#xA1;Oh, s&#xED;! Amo ir a jugar."/>
+        <subtitle lang="zw" line="Yes I really like all sport."/>
+      <subtitle lang="ine" line="I adore all sports"/>
+			</subtitles>
+    </line>
+    <line words="domenica non faccio sport!" start="93793" length="2758">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I don't do sport!"/>
+        <subtitle lang="dm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ng" line="Sunday I don't do sport!"/>
+        <subtitle lang="ni" line="El domingo no juego a nada,"/>
+        <subtitle lang="bz" line="Sunday I don't do sport!"/>
+        <subtitle lang="ag" line="Sunday I don't do sport!"/>
+        <subtitle lang="bw" line="Sunday I don't do sport!"/>
+        <subtitle lang="au" line="Sunday I don't do sport!"/>
+        <subtitle lang="ec" line="El domingo no juego a nada,"/>
+        <subtitle lang="pr" line="El domingo no juego a nada,"/>
+        <subtitle lang="mt" line="Sunday I don't do sport!"/>
+        <subtitle lang="ae" line="Sunday I don't do sport!"/>
+        <subtitle lang="to" line="Sunday I don't do sport!"/>
+        <subtitle lang="es" line="El domingo no juego a nada,"/>
+        <subtitle lang="rw" line="Sunday I don't do sport!"/>
+        <subtitle lang="fj" line="Sunday I don't do sport!"/>
+        <subtitle lang="pe" line="El domingo no juego a nada,"/>
+        <subtitle lang="gy" line="Sunday I don't do sport!"/>
+        <subtitle lang="zm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ve" line="El domingo no juego a nada,"/>
+        <subtitle lang="sg" line="Sunday I don't do sport!"/>
+        <subtitle lang="mx" line="El domingo no juego a nada,"/>
+        <subtitle lang="do" line="El domingo no juego a nada,"/>
+        <subtitle lang="bs" line="Sunday I don't do sport!"/>
+        <subtitle lang="ug" line="Sunday I don't do sport!"/>
+        <subtitle lang="ws" line="Sunday I don't do sport!"/>
+        <subtitle lang="tz" line="Sunday I don't do sport!"/>
+        <subtitle lang="co" line="El domingo no juego a nada,"/>
+        <subtitle lang="jm" line="Sunday I don't do sport!"/>
+        <subtitle lang="pk" line="Sunday I don't do sport!"/>
+        <subtitle lang="ca" line="Sunday I don't do sport!"/>
+        <subtitle lang="ar" line="El domingo no juego a nada,"/>
+        <subtitle lang="py" line="El domingo no juego a nada,"/>
+        <subtitle lang="na" line="Sunday I don't do sport!"/>
+        <subtitle lang="cu" line="El domingo no juego a nada,"/>
+        <subtitle lang="gh" line="Sunday I don't do sport!"/>
+        <subtitle lang="sv" line="El domingo no juego a nada,"/>
+        <subtitle lang="gm" line="Sunday I don't do sport!"/>
+        <subtitle lang="vu" line="Sunday I don't do sport!"/>
+        <subtitle lang="cl" line="El domingo no juego a nada,"/>
+        <subtitle lang="us" line="Sunday I don't do sport!"/>
+        <subtitle lang="bd" line="Sunday I don't do sport!"/>
+        <subtitle lang="ke" line="Sunday I don't do sport!"/>
+        <subtitle lang="sb" line="Sunday I don't do sport!"/>
+        <subtitle lang="cr" line="El domingo no juego a nada,"/>
+        <subtitle lang="sp" line="El domingo no juego a nada,"/>
+        <subtitle lang="vc" line="Sunday I don't do sport!"/>
+        <subtitle lang="za" line="Sunday I don't do sport!"/>
+        <subtitle lang="tt" line="Sunday I don't do sport!"/>
+        <subtitle lang="mu" line="Sunday I don't do sport!"/>
+        <subtitle lang="bo" line="El domingo no juego a nada,"/>
+        <subtitle lang="sl" line="Sunday I don't do sport!"/>
+        <subtitle lang="pa" line="El domingo no juego a nada,"/>
+        <subtitle lang="sco" line="Sunday I don't do sport!"/>
+        <subtitle lang="hn" line="El domingo no juego a nada,"/>
+        <subtitle lang="gt" line="El domingo no juego a nada,"/>
+        <subtitle lang="zw" line="Sunday I don't do sport!"/>
+      <subtitle lang="ine" line="Sunday I don't do sport!"/>
+			</subtitles>
+    </line>
+    <line words="Allora mangia dei dolci e bevi la coca" start="96671" length="4036">
+      <subtitles>
+        <subtitle lang="en" line="So she eats puddings and you drink cola"/>
+        <subtitle lang="dm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ng" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ni" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ag" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="au" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ec" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="pr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="mt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ae" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="to" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="es" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="rw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="fj" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pe" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gy" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="zm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ve" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sg" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mx" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="do" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bs" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ug" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ws" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="co" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="jm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pk" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ca" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ar" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="py" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="na" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cu" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gh" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sv" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="vu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cl" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="us" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bd" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ke" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sb" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sp" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="vc" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="za" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bo" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sl" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pa" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sco" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="hn" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gt" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="zw" line="So eat some sweets and drink some cola."/>
+      <subtitle lang="ine" line="So she eats puddings and you drink cola"/>
+			</subtitles>
+    </line>
+    <line words="domenica non faccio sport!" start="100787" length="2500">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I don't do sport!"/>
+        <subtitle lang="dm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ng" line="Sunday I don't do sport!"/>
+        <subtitle lang="ni" line="El domingo no juego a nada,"/>
+        <subtitle lang="bz" line="Sunday I don't do sport!"/>
+        <subtitle lang="ag" line="Sunday I don't do sport!"/>
+        <subtitle lang="bw" line="Sunday I don't do sport!"/>
+        <subtitle lang="au" line="Sunday I don't do sport!"/>
+        <subtitle lang="ec" line="El domingo no juego a nada,"/>
+        <subtitle lang="pr" line="El domingo no juego a nada,"/>
+        <subtitle lang="mt" line="Sunday I don't do sport!"/>
+        <subtitle lang="ae" line="Sunday I don't do sport!"/>
+        <subtitle lang="to" line="Sunday I don't do sport!"/>
+        <subtitle lang="es" line="El domingo no juego a nada,"/>
+        <subtitle lang="rw" line="Sunday I don't do sport!"/>
+        <subtitle lang="fj" line="Sunday I don't do sport!"/>
+        <subtitle lang="pe" line="El domingo no juego a nada,"/>
+        <subtitle lang="gy" line="Sunday I don't do sport!"/>
+        <subtitle lang="zm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ve" line="El domingo no juego a nada,"/>
+        <subtitle lang="sg" line="Sunday I don't do sport!"/>
+        <subtitle lang="mx" line="El domingo no juego a nada,"/>
+        <subtitle lang="do" line="El domingo no juego a nada,"/>
+        <subtitle lang="bs" line="Sunday I don't do sport!"/>
+        <subtitle lang="ug" line="Sunday I don't do sport!"/>
+        <subtitle lang="ws" line="Sunday I don't do sport!"/>
+        <subtitle lang="tz" line="Sunday I don't do sport!"/>
+        <subtitle lang="co" line="El domingo no juego a nada,"/>
+        <subtitle lang="jm" line="Sunday I don't do sport!"/>
+        <subtitle lang="pk" line="Sunday I don't do sport!"/>
+        <subtitle lang="ca" line="Sunday I don't do sport!"/>
+        <subtitle lang="ar" line="El domingo no juego a nada,"/>
+        <subtitle lang="py" line="El domingo no juego a nada,"/>
+        <subtitle lang="na" line="Sunday I don't do sport!"/>
+        <subtitle lang="cu" line="El domingo no juego a nada,"/>
+        <subtitle lang="gh" line="Sunday I don't do sport!"/>
+        <subtitle lang="sv" line="El domingo no juego a nada,"/>
+        <subtitle lang="gm" line="Sunday I don't do sport!"/>
+        <subtitle lang="vu" line="Sunday I don't do sport!"/>
+        <subtitle lang="cl" line="El domingo no juego a nada,"/>
+        <subtitle lang="us" line="Sunday I don't do sport!"/>
+        <subtitle lang="bd" line="Sunday I don't do sport!"/>
+        <subtitle lang="ke" line="Sunday I don't do sport!"/>
+        <subtitle lang="sb" line="Sunday I don't do sport!"/>
+        <subtitle lang="cr" line="El domingo no juego a nada,"/>
+        <subtitle lang="sp" line="El domingo no juego a nada,"/>
+        <subtitle lang="vc" line="Sunday I don't do sport!"/>
+        <subtitle lang="za" line="Sunday I don't do sport!"/>
+        <subtitle lang="tt" line="Sunday I don't do sport!"/>
+        <subtitle lang="mu" line="Sunday I don't do sport!"/>
+        <subtitle lang="bo" line="El domingo no juego a nada,"/>
+        <subtitle lang="sl" line="Sunday I don't do sport!"/>
+        <subtitle lang="pa" line="El domingo no juego a nada,"/>
+        <subtitle lang="sco" line="Sunday I don't do sport!"/>
+        <subtitle lang="hn" line="El domingo no juego a nada,"/>
+        <subtitle lang="gt" line="El domingo no juego a nada,"/>
+        <subtitle lang="zw" line="Sunday I don't do sport!"/>
+      <subtitle lang="ine" line="Sunday I don't do sport!"/>
+			</subtitles>
+    </line>
+    <line words="Allora mangia dei dolci e bevi la coca" start="103585" length="3917">
+      <subtitles>
+        <subtitle lang="en" line="So she eats puddings and you drink cola"/>
+        <subtitle lang="dm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ng" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ni" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ag" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="au" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ec" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="pr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="mt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ae" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="to" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="es" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="rw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="fj" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pe" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gy" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="zm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ve" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sg" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mx" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="do" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bs" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ug" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ws" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="co" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="jm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pk" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ca" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ar" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="py" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="na" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cu" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gh" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sv" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="vu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cl" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="us" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bd" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ke" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sb" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sp" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="vc" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="za" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bo" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sl" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pa" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sco" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="hn" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gt" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="zw" line="So eat some sweets and drink some cola."/>
+      <subtitle lang="ine" line="So she eats puddings and you drink cola"/>
+			</subtitles>
+    </line>
+    <line words="domenica non faccio sport!" start="107542" length="2634">
+      <subtitles>
+        <subtitle lang="en" line="Sunday I don't do sport!"/>
+        <subtitle lang="dm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ng" line="Sunday I don't do sport!"/>
+        <subtitle lang="ni" line="El domingo no juego a nada,"/>
+        <subtitle lang="bz" line="Sunday I don't do sport!"/>
+        <subtitle lang="ag" line="Sunday I don't do sport!"/>
+        <subtitle lang="bw" line="Sunday I don't do sport!"/>
+        <subtitle lang="au" line="Sunday I don't do sport!"/>
+        <subtitle lang="ec" line="El domingo no juego a nada,"/>
+        <subtitle lang="pr" line="El domingo no juego a nada,"/>
+        <subtitle lang="mt" line="Sunday I don't do sport!"/>
+        <subtitle lang="ae" line="Sunday I don't do sport!"/>
+        <subtitle lang="to" line="Sunday I don't do sport!"/>
+        <subtitle lang="es" line="El domingo no juego a nada,"/>
+        <subtitle lang="rw" line="Sunday I don't do sport!"/>
+        <subtitle lang="fj" line="Sunday I don't do sport!"/>
+        <subtitle lang="pe" line="El domingo no juego a nada,"/>
+        <subtitle lang="gy" line="Sunday I don't do sport!"/>
+        <subtitle lang="zm" line="Sunday I don't do sport!"/>
+        <subtitle lang="ve" line="El domingo no juego a nada,"/>
+        <subtitle lang="sg" line="Sunday I don't do sport!"/>
+        <subtitle lang="mx" line="El domingo no juego a nada,"/>
+        <subtitle lang="do" line="El domingo no juego a nada,"/>
+        <subtitle lang="bs" line="Sunday I don't do sport!"/>
+        <subtitle lang="ug" line="Sunday I don't do sport!"/>
+        <subtitle lang="ws" line="Sunday I don't do sport!"/>
+        <subtitle lang="tz" line="Sunday I don't do sport!"/>
+        <subtitle lang="co" line="El domingo no juego a nada,"/>
+        <subtitle lang="jm" line="Sunday I don't do sport!"/>
+        <subtitle lang="pk" line="Sunday I don't do sport!"/>
+        <subtitle lang="ca" line="Sunday I don't do sport!"/>
+        <subtitle lang="ar" line="El domingo no juego a nada,"/>
+        <subtitle lang="py" line="El domingo no juego a nada,"/>
+        <subtitle lang="na" line="Sunday I don't do sport!"/>
+        <subtitle lang="cu" line="El domingo no juego a nada,"/>
+        <subtitle lang="gh" line="Sunday I don't do sport!"/>
+        <subtitle lang="sv" line="El domingo no juego a nada,"/>
+        <subtitle lang="gm" line="Sunday I don't do sport!"/>
+        <subtitle lang="vu" line="Sunday I don't do sport!"/>
+        <subtitle lang="cl" line="El domingo no juego a nada,"/>
+        <subtitle lang="us" line="Sunday I don't do sport!"/>
+        <subtitle lang="bd" line="Sunday I don't do sport!"/>
+        <subtitle lang="ke" line="Sunday I don't do sport!"/>
+        <subtitle lang="sb" line="Sunday I don't do sport!"/>
+        <subtitle lang="cr" line="El domingo no juego a nada,"/>
+        <subtitle lang="sp" line="El domingo no juego a nada,"/>
+        <subtitle lang="vc" line="Sunday I don't do sport!"/>
+        <subtitle lang="za" line="Sunday I don't do sport!"/>
+        <subtitle lang="tt" line="Sunday I don't do sport!"/>
+        <subtitle lang="mu" line="Sunday I don't do sport!"/>
+        <subtitle lang="bo" line="El domingo no juego a nada,"/>
+        <subtitle lang="sl" line="Sunday I don't do sport!"/>
+        <subtitle lang="pa" line="El domingo no juego a nada,"/>
+        <subtitle lang="sco" line="Sunday I don't do sport!"/>
+        <subtitle lang="hn" line="El domingo no juego a nada,"/>
+        <subtitle lang="gt" line="El domingo no juego a nada,"/>
+        <subtitle lang="zw" line="Sunday I don't do sport!"/>
+      <subtitle lang="ine" line="Sunday I don't do sport!"/>
+			</subtitles>
+    </line>
+    <line words="Allora mangia dei dolci e bevi la coca" start="110500" length="3957">
+      <subtitles>
+        <subtitle lang="en" line="So she eats puddings and you drink cola"/>
+        <subtitle lang="dm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ng" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ni" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ag" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="au" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ec" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="pr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="mt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ae" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="to" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="es" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="rw" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="fj" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pe" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gy" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="zm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ve" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sg" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mx" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="do" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="bs" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ug" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ws" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tz" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="co" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="jm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pk" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ca" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ar" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="py" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="na" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cu" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gh" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sv" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gm" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="vu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cl" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="us" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bd" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="ke" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="sb" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="cr" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sp" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="vc" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="za" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="tt" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="mu" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="bo" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sl" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="pa" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="sco" line="So eat some sweets and drink some cola."/>
+        <subtitle lang="hn" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="gt" line="as&#xED; que como dulces, tomo Coca Cola."/>
+        <subtitle lang="zw" line="So eat some sweets and drink some cola."/>
+      <subtitle lang="ine" line="So she eats puddings and you drink cola"/>
+			</subtitles>
+    </line>
+  </lines>
+</karaoke>
