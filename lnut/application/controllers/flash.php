@@ -172,6 +172,15 @@ class Flash extends Controller {
 					if($flash_package_token == 'lgfl_eal' && isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights']!='student') {
 						$other_notification = '<a href="'.config::url('lgfl-upgrade/eal/').'" style="color:white;font-size:0.8em;font-family:Arial;">Get all of Languagenut EAL with your LGFL discount!</a>';
 					}
+					if($other_notification=='') {
+						if(is_array($arrPackages) && count($arrPackages)) {
+							if(!in_array('standard',$arrPackages)) {
+								$other_notification = '<a href="'.config::url('upgrade/').'" style="color:white;font-size:0.8em;font-family:Arial;">Free trial the MFL resource here!</a>';
+							} else if(!in_array('eal',$arrPackages)) {
+								$other_notification = '<a href="'.config::url('upgrade/').'" style="color:white;font-size:0.8em;font-family:Arial;">Free trial the EAL resource here!</a>';
+							}
+						}
+					}
 					$ie_site_map= str_replace(array('|[',']|'),array('[',']'),str_replace('\\','',str_replace('"', '|', json_encode($site_map))));
 					$ie_tour_list= str_replace(array('|[',']|'),array('[',']'),str_replace('\\','',str_replace('"', '|', json_encode($tour_list))));
 					$skeleton = make::tpl ('skeleton.flash');
