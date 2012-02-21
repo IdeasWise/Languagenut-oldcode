@@ -361,6 +361,12 @@ class Subscribe extends Controller {
 			$label_whole_school_username = (isset($arrStageInfo['label_whole_school_username']))?stripslashes($arrStageInfo['label_whole_school_username']):'';
 			$label_whole_school_password = (isset($arrStageInfo['label_whole_school_password']))?stripslashes($arrStageInfo['label_whole_school_password']):'';
 
+			$text_thank_you_for_choosing = (isset($arrStageInfo['text_thank_you_for_choosing']))?stripslashes($arrStageInfo['text_thank_you_for_choosing']):'';
+
+			$text_enter_your_details = (isset($arrStageInfo['text_enter_your_details']))?stripslashes($arrStageInfo['text_enter_your_details']):'';
+
+			$button_start_my_trial = (isset($arrStageInfo['button_start_my_trial']))?stripslashes($arrStageInfo['button_start_my_trial']):'';
+
 			$reseller_code_uids = '';
 
 /*
@@ -467,6 +473,9 @@ class Subscribe extends Controller {
 					'translate.label_whole_school_username' => $label_whole_school_username,
 					'translate.label_whole_school_password' => $label_whole_school_password,
 					'translate.which_reseller'				=> $label_which_reseller,
+					'translate.text_thank_you_for_choosing'	=> $text_thank_you_for_choosing,
+					'translate.text_enter_your_details'		=> $text_enter_your_details,
+					'translate.button_start_my_trial'		=> $button_start_my_trial,
 					'reseller_code_uids'					=> $reseller_code_uids,
 					'signtype'								=> $signType,
 					'translate.label_school_detail'			=> $label_school_detail,

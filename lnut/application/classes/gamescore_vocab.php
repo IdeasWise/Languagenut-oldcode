@@ -28,7 +28,7 @@ class gamescore_vocab extends generic_object {
 				$row = mysql_fetch_assoc($result);
 				$this->set_word_translated(stripslashes($row['name']));
 			} else {
-				mail('andrew@languagenut.com', 'lnut: gamescore_vocab', mysql_error(), 'From: info@languagenut.com');
+				//mail('andrew@languagenut.com', 'lnut: gamescore_vocab', mysql_error(), 'From: info@languagenut.com');
 			}
 			$query = "SELECT ";
 			$query.="`name` ";
@@ -44,7 +44,7 @@ class gamescore_vocab extends generic_object {
 				$row = mysql_fetch_assoc($result);
 				$this->set_word_english(stripslashes($row['name']));
 			} else {
-				mail('andrew@languagenut.com', 'lnut: gamescore_vocab', mysql_error(), 'From: info@languagenut.com');
+				//mail('andrew@languagenut.com', 'lnut: gamescore_vocab', mysql_error(), 'From: info@languagenut.com');
 			}
 			$this->insert();
 		}

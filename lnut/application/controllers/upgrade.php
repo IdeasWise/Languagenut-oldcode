@@ -64,11 +64,12 @@ class Upgrade extends Controller {
 							}
 							$body = make::tpl('body.upgrade.gaelic');
 						} else {
-							if(isset($_GET['upgrade']) && in_array($_GET['upgrade'],array('standard','eal')) && count($arrPackages)==1) {
+							if(isset($_GET['upgrade']) && in_array($_GET['upgrade'],array('standard','eal'))) {
 								$objSubsription = new subscriptions();
 								if($objSubsription->upgradeuserPackage($_GET['upgrade'])) {
 									output::redirect(config::url('upgrade/success'));
 								}
+								output::redirect(config::url('upgrade'));
 							}
 							if(in_array('standard',$arrPackages)) {
 								$standard_text = 'you already subscribe to this resource';

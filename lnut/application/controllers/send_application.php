@@ -121,11 +121,12 @@ class send_application extends Controller {
 
 		$skeleton->assign(
 			array(
-				'title' => $page->title(),
-				'keywords' => $page->keywords(),
-				'description' => $page->description(),
-				'body' => stripslashes($body),
-				'background_url' => 'registration_bg.en.jpg'
+				'title'				=> $page->title(),
+				'keywords'			=> $page->keywords(),
+				'description'		=> $page->description(),
+				'body'				=> stripslashes($body),
+				'background_url'	=> 'registration_bg.en.jpg',
+				'locale'			=> config::get('locale')
 			)
 		);
 		output::as_html($skeleton, true);

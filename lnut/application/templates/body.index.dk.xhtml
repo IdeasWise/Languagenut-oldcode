@@ -2,8 +2,12 @@
 			<div id="header">
 				<div id="topButtons">
 					<a href="{{ uri }}login/" class="login">Login</a>
-					<a href="{{ uri }}subscribe/" class="subscribe">Subscribe</a>
+					<!--<a href="{{ uri }}subscribe/" class="subscribe">Subscribe</a>-->
 				</div>
+                <div style="position: absolute;top: 100px;left: 14px;">
+		<div class="homeuser"><a href="{{ uri }}subscribe/homeuser/" >{{ home_user_link_caption }}</a></div>
+		<div class="schooluser"><a href="{{ uri }}subscribe/school/" style="line-height:22px;">{{ school_user_link_caption }}</a></div>
+	</div>
 
 				<div id="vScreen">
 					<div style="height:206px;width:233px;position:relative;top:38px;left:25px;">

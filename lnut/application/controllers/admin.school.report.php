@@ -80,7 +80,8 @@ class school_report extends Controller {
 		$query.="`A`.`name` AS `contact`, ";
 
 		$query.="`S`.`phone_number`, ";
-		$query.="`S`.`affiliate` ";
+		$query.="`S`.`affiliate`, ";
+		$query.="`S`.`tracking_code` ";
 
 		$query.="FROM ";
 		$query.="`user` AS `U`, ";
@@ -126,7 +127,8 @@ class school_report extends Controller {
 				'postcode',
 				'contact',
 				'phone_number',
-				'affiliate'
+				'affiliate',
+				'tracking_code'
 			);
 			fputcsv($fp, $arrTitles);
 			while($arrRow = mysql_fetch_assoc($result)) {
