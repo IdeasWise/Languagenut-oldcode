@@ -592,6 +592,10 @@ class users_schools extends generic_object {
 				mail('swyam.joshi@latitudetechnolabs.com', $subject, $body, $header);
 				unset($_SESSION['aff']);
 			}
+		} else {
+			if(config::get('locale') == 'en') {
+				$this->set_tracking_code('lnut');
+			}
 		}
 		/*
 		$this->arrFields['name']['Value'] = mysql_real_escape_string($form1['name']['value']);
