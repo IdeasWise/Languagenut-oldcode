@@ -100,7 +100,13 @@ class Permission extends Controller {
 				}
 			} else if($_REQUEST['package_token']=='gaelic') {
 				$json_file = config::get('cache').'json/gaelic_package.json';
-				echo file_get_contents($json_file);
+				//echo file_get_contents($json_file);
+				if(in_array($_REQUEST['support_languauge_uid'],array(14,74))) {
+					echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
+				} else {
+					echo str_replace('sl_uid',14,file_get_contents($json_file));
+				}
+				
 			} else if($_REQUEST['package_token']=='eal') {
 				$json_file = config::get('cache').'json/eal_package.json';
 				echo str_replace('sl_uid',$_REQUEST['support_languauge_uid'],file_get_contents($json_file));
