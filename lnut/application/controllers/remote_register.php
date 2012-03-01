@@ -360,7 +360,8 @@ class remote_register extends Controller {
 		$query .= "`invoice_for` = 'school', ";
 		$query .= "`amount` = '".$arrPrice['price']."', ";
 		$query .= "`vat` = '".$arrPrice['vat']."', ";
-		$query .= "`invoice_number` = '".(1600+$user_uid)."' ";
+		$query .= "`package_token` = 'standard', ";
+		$query .= "`invoice_number` = 'mfl-".(1600+$user_uid)."' ";
 		database::query( $query ) or die($query.'<br>'.mysql_error());
 	}
 

@@ -39,7 +39,7 @@ class Permission extends Controller {
 				}
 				$arrLanguage[] = $support_language_id;
 			} else if($_REQUEST['package_token']=='gaelic') {
-				$query = "SELECT `uid` FROM `language` WHERE `prefix` = 'en'";
+				$query = "SELECT `uid` FROM `language` WHERE `prefix` IN ('en','sco')";
 				$result = database::query($query);
 				while($arrRow = mysql_fetch_array($result)) {
 					$arrLanguage[] = $arrRow['uid'];

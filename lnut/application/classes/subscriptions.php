@@ -599,7 +599,7 @@ class subscriptions extends generic_object {
 					$this->set_verified_dts(date('Y-m-d H:i:s'));
 					$arrFields['verified_dts']['value'] = date('Y-m-d H:i:s');
 				}
-				$start_dts = $this->get_set_start_dts();
+				$start_dts = $this->get_start_dts();
 				$expires_dts = date('Y-m-d H:i:s',strtotime($start_dts.' +54 week'));
 				$this->set_expires_dts($expires_dts);
 				$this->financeNotification($arrFields['user_uid']['value'],$arrFields['verified_dts']['value']);
@@ -613,7 +613,7 @@ class subscriptions extends generic_object {
 
 	public function getUserlocale($user_uid=null) {
 		if($user_uid!=null && is_numeric($user_uid) && $user_uid > 0) {
-			$query = "SELECT `locale` FROM `user` WHERE`uid`='".$user_uid."'";
+			$query = "SELECT `locale` FROM `user` WHERE`uid`='".$user_uid."' LIMIT 0,1";
 			$result = database::query($query);
 			if(mysql_error()=='' && mysql_num_rows($result)) {
 				$arrRow = mysql_fetch_array($result);
@@ -632,18 +632,35 @@ class subscriptions extends generic_object {
 				//$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `iuser_uid`=".$_SESSION['user']['uid']." LIMIT 1";
 				$query = "SELECT `finance_email` FROM `profile_reseller` WHERE `locale_rights`='".$locale."' LIMIT 1";
 				$result = database::query($query);
+				$finance_email = '';
 				if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
 					$row = mysql_fetch_assoc($result);
 					$finance_email = $row['finance_email'];
+				} else {
+					$finance_email = 'info@languagenut.com';
+				}
 					if(strlen($finance_email) > 0) {
 
-						$query = "SELECT `name`,`school`,`address`,`postcode`,`contact`,`phone_number` FROM `users_schools` WHERE `user_uid`=".$user_uid." LIMIT 1";
+						$query = "SELECT ";
+						$query .="`name`, ";
+						$query .="`school`, ";
+						$query .="`address`, ";
+						$query .="`postcode`, ";
+						$query .="`contact`, ";
+						$query .="`phone_number`, ";
+						$query .="`tracking_code` ";
+						$query .="FROM ";
+						$query .="`users_schools` ";
+						$query .="WHERE ";
+						$query .="`user_uid`=".$user_uid." LIMIT 1";
 
 						$contact_name = '';
 						$school_name = '';
 						$school_address = '';
 						$phone = '';
 						$email = '';
+						$tracking_code = '';
+						$trackingCode = '';
 
 						$result = database::query($query);
 						if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
@@ -652,7 +669,10 @@ class subscriptions extends generic_object {
 							$school_name = $row['school'];
 							$school_address = $row['address'].", ".$row['postcode'];
 							$phone = $row['phone_number'];
-
+							$tracking_code = $row['tracking_code'];
+							if($locale!='en') {
+								$trackingCode = "Tracking Code: $tracking_code\n";
+							}
 							$query = "SELECT `email` FROM `user` WHERE `uid`=".$user_uid." LIMIT 1";
 							$result = database::query($query);
 							if($result && mysql_error()=='' && mysql_num_rows($result) > 0) {
@@ -674,6 +694,21 @@ class subscriptions extends generic_object {
 							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
 							"Contact Name: $contact_name\n".
 							"School Name: $school_name\n".
+							$trackingCode.
+							"School Address: $school_address\n".
+							"Phone: $phone\n".
+							"Email: $email\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
+							$extraMessage,
+							"From: info@languagenut.com"
+						);
+						mail(
+							'cshepherd@languagenut.com',
+							'Subscription Verified',
+							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
+							"Contact Name: $contact_name\n".
+							"School Name: $school_name\n".
+							$trackingCode.
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
@@ -682,12 +717,28 @@ class subscriptions extends generic_object {
 							"From: info@languagenut.com"
 						);
 
+						mail(
+							'swyam.joshi@latitudetechnolabs.com',
+							'Subscription Verified',
+							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
+							"Contact Name: $contact_name\n".
+							"School Name: $school_name\n".
+							$trackingCode.
+							"School Address: $school_address\n".
+							"Phone: $phone\n".
+							"Email: $email\n".
+							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
+							$extraMessage,
+							"From: info@languagenut.com"
+						);
+						
 						mail(
 							'jamie@languagenut.com',
 							'Subscription Verified',
 							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
 							"Contact Name: $contact_name\n".
 							"School Name: $school_name\n".
+							$trackingCode.
 							"School Address: $school_address\n".
 							"Phone: $phone\n".
 							"Email: $email\n".
@@ -695,39 +746,12 @@ class subscriptions extends generic_object {
 							$extraMessage,
 							"From: info@languagenut.com"
 						);
-/*
-						mail(
-							'andrew@languagenut.com',
-							'Subscription Verified',
-							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
-							"Contact Name: $contact_name\n".
-							"School Name: $school_name\n".
-							"School Address: $school_address\n".
-							"Phone: $phone\n".
-							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
-							$extraMessage,
-							"From: info@languagenut.com"
-						);
-
-						mail(
-							'testing@mystream.co.uk',
-							'Subscription Verified',
-							"A Subscription has been verified. Please send out an invoice for the following school.\n\n".
-							"Contact Name: $contact_name\n".
-							"School Name: $school_name\n".
-							"School Address: $school_address\n".
-							"Phone: $phone\n".
-							"Email: $email\n".
-							"Verified Date: ".date('d/m/Y',strtotime($verified_dts))."\n".
-							$extraMessage,
-							"From: info@languagenut.com"
-						);
-*/
 					}
+				/*
 				} else {
 
 				}
+				*/
 			}
 		}
 	}
