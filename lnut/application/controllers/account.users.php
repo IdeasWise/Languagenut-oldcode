@@ -147,29 +147,30 @@ class account_users extends Controller {
 
 	private function AvailableUserTypes( $selected = null ) {
 		$arrUserType = array();
-		if($_SESSION['user']['userRights'] == 'school'){
+		if(isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights'] == 'school'){
 			$arrUserType['schooladmin']		= 'School Admin';
 			$arrUserType['schoolteacher']	= 'School Teacher';
 			$arrUserType['student']			= 'Student';
 		}
 
-		if($_SESSION['user']['userRights'] == 'schooladmin'){
+		if(isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights'] == 'schooladmin'){
 			$arrUserType['schoolteacher']	= 'School Teacher';
 			$arrUserType['student']			= 'Student';
 		}
 
-		if($_SESSION['user']['userRights'] == 'schoolteacher'){
+		if(isset($_SESSION['user']['userRights']) && $_SESSION['user']['userRights'] == 'schoolteacher'){
 			$arrUserType['student']			= 'Student';
 		}
 
 		return format::to_select(
-							array(
-								"name" => "user_type",
-								"id" => "user_type",
-								"options_only" => false),
-								$arrUserType,
-								$selected
-							);
+			array(
+				"name" => "user_type",
+				"id" => "user_type",
+				"options_only" => false
+			),
+			$arrUserType,
+			$selected
+		);
 	}
 
 	protected function doAdd() {

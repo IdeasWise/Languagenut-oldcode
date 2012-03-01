@@ -35,11 +35,12 @@
 					<p>
 						<label for="school_id" class="listbox"> <span class="label">School Name:</span> {{ school_id }} </label>
 					</p>
-					<p>
+                    <input type="hidden" name="vemail" id="vemail" value="{{ email }}" />
+					<!--<p>
 						<label for="email"  class="textbox"> <span class="label {{ error_vemail }}">Email:</span>
-							<input type="text" name="vemail" id="vemail" value="{{ vemail }}" class="box" />
+							<input type="text" name="vemail" id="vemail" value="{{ email }}" class="box" />
 						</label>
-					</p>
+					</p>-->
 					<!--<p>
 						<label for="vphone" class="textbox"> <span class="label {{ error_vphone }}">Phone:</span>
 							<input type="text" name="vphone" id="vphone" value="{{ vphone }}" class="box" />

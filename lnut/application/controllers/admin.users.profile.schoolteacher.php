@@ -32,6 +32,11 @@ class schoolteacher extends Controller {
 			if($this->parts[4] > 0){
 				$arrBody['iuser_uid'] = $this->parts[4];
 				$objSchoolTeacher->load(array(),$arrBody);
+				$objUser = new user($this->parts[4]);
+				$objUser->load();
+				if($objUser->get_email() != '') {
+					$arrBody['email'] = $objUser->get_email();
+				}
 
 				if($objSchoolTeacher->get_vfirstname() != '' ) {
 					foreach( $objSchoolTeacher->TableData as $idx => $val ){

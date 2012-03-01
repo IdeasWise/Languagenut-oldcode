@@ -74,30 +74,30 @@ class school_registration_templates extends generic_object {
 	}
 
 	public function getListBox($inputName, $selctedValue = NULL) {
-		$sql = "SELECT ";
-		$sql.= "`uid`, ";
-		$sql.= "`template_name` ";
-		$sql.= "FROM ";
-		$sql.= "`school_registration_templates` ";
-		$sql.= "ORDER BY ";
-		$sql.= "`template_name` ASC";
+		$query = "SELECT ";
+		$query.= "`uid`, ";
+		$query.= "`template_name` ";
+		$query.= "FROM ";
+		$query.= "`school_registration_templates` ";
+		$query.= "ORDER BY ";
+		$query.= "`template_name` ASC";
 
 		if(isset($_SESSION['user']['localeRights']) && !empty($_SESSION['user']['localeRights'])) {
-			$sql = "SELECT ";
-			$sql.= "DISTINCT `E`.`uid`, ";
-			$sql.= "`template_name` ";
-			$sql.= "FROM ";
-			$sql.= "`school_registration_templates` AS `E`, ";
-			$sql.= "`school_registration_templates_translations` AS `ET` ";
-			$sql.="WHERE ";
-			$sql.="`E`.`uid`=`email_uid` ";
-			$sql.="AND ";
-			$sql.="`locale` IN (".$_SESSION['user']['localeRights'].")";
-			$sql.= "ORDER BY ";
-			$sql.= "`template_name` ASC";
+			$query = "SELECT ";
+			$query.= "DISTINCT `E`.`uid`, ";
+			$query.= "`template_name` ";
+			$query.= "FROM ";
+			$query.= "`school_registration_templates` AS `E`, ";
+			$query.= "`school_registration_templates_translations` AS `ET` ";
+			$query.="WHERE ";
+			$query.="`E`.`uid`=`email_uid` ";
+			$query.="AND ";
+			$query.="`locale` IN (".$_SESSION['user']['localeRights'].")";
+			$query.= "ORDER BY ";
+			$query.= "`template_name` ASC";
 		}
-
-		$res = database::query($sql);
+		// echo $query;
+		$res = database::query($query);
 		$data = array();
 		$data[0] = 'Email Template';
 		if ($res && mysql_error() == '' && mysql_num_rows($res) > 0) {

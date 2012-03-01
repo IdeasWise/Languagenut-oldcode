@@ -4,7 +4,11 @@ class plugin_login extends plugin {
 
 	public function __construct($data = array()) {
 		$this->data = $data;
-		$this->body = make::tpl('body.login');
+		if(config::get('locale')=='nl') {
+			$this->body = make::tpl('body.login.nl');
+		} else {
+			$this->body = make::tpl('body.login');
+		}
 	}
 
 	public function get_class_name() {
