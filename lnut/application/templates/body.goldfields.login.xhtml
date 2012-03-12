@@ -1,0 +1,14 @@
+<div id="content">
+	<div id="loginform">
+		<div class="back"><a href="{{ uri }}"></a></div>
+		<form action="{{ uri }}goldfields-login/" method="post" id="login">
+			<input type="hidden" name="form" value="login" />
+			<dl id="signup" style="margin-top:25px;">
+				<dt>Barcode</dt><dd><input type="text" value="" id="barcode_username" name="barcode_username"></dd>				
+			</dl>
+			<div class="login-errors">{{ message }}</div>
+			<div style="margin-top: 48px;"><input type="submit" title="LOGIN" id="login-button" value="Login" name="submit" style="background-position: left top;"></div>
+		</form>
+	</div>
+</div>
+

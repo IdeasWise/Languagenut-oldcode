@@ -1,0 +1,28 @@
+<div class="in">
+	<div class="author">
+		<h2><a href="{{ admin_uri }}barcode-users/list">Barcode User List</a> &gt; Edit</h2>		
+	</div>
+	<div class="clear"></div>
+</div>
+<div class="line"></div>
+<div class="in forms">
+	<div class="message_error"> {{ message_error }} </div>
+    {{ success_message }}
+	<form action="{{ admin_uri }}barcode-users/edit/{{ uid }}/" method="post">
+		<input type="hidden" name="uid" id="uid" value="{{ uid }}" />
+		<p>
+			<label for="barcode_username" class="textbox"> <span class="label {{ error.barcode_username }}">Barcode:</span>
+				<input type="text" name="barcode_username" id="barcode_username" value="{{ barcode_username }}" class="box" />
+			</label>
+		</p>
+		<p>
+			<label for="barcode_ip_address" class="textbox"> <span class="label {{ error.barcode_ip_address }}">IP Address:</span>
+				<input type="text" name="barcode_ip_address" id="barcode_ip_address" value="{{ barcode_ip_address }}" class="box" />
+			</label>
+		</p>
+		
+		<p>
+			<input type="submit" name="submit" value="Add" class="com_btn" />
+		</p>
+	</form>
+</div>

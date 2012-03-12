@@ -1551,6 +1551,8 @@ class subscriptions extends generic_object {
 			$query.="`package_token`='".$package_token."' ";
 			$query.="AND ";
 			$query.="`user_uid`='".$user_uid."' ";
+			$query.= "AND ";
+			$query.= "`expires_dts`>'".date('Y-m-d H:i:s')."' ";
 			$query.="LIMIT 0,1";
 			$result = database::query($query);
 			if($result && mysql_error()=='' && mysql_num_rows($result)) {

@@ -1,0 +1,12 @@
+<tr>
+	<td>
+		<p class="show" id="show-{{ uid }}"><a href="{{ admin_uri }}barcode-users/edit/{{ uid }}/">{{ barcode_username }}</a></p>
+	</td>
+	<td><p>{{ barcode_ip_address }}</p></td>	
+	<td>
+		<p id="data-{{ uid }}" class="invisible">
+			<a href="{{ admin_uri }}barcode-users/edit/{{ uid }}/">Edit</a> | 
+			<a href="{{ admin_uri }}barcode-users/delete/{{ uid }}/" class="Ajax-delete-page">Delete</a>
+		</p>
+	</td>
+</tr>

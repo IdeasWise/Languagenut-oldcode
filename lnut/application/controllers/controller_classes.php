@@ -243,6 +243,16 @@ class controller_classes extends Controller {
 	}
 
 	protected function doEdit() {
+		if(isset($this->arrPaths[4]) && $this->arrPaths[4] == 'delete-student' && isset($this->arrPaths[5]) && is_numeric($this->arrPaths[5])) {
+			$objUser = new user($this->arrPaths[5]);
+			if($objUser->get_valid()) {
+				$objUser->load();
+				$objUser->set_deleted(1);
+				$objUser->save();
+				$objUser->redirectToDynamic('/classes/edit/'.$this->arrPaths[3].'/#tab-6');
+			}
+		}
+
 		$objSchool = new users_schools();
 		$arrSchool = $objSchool->getSchool();
 		$skeleton = config::getUserSkeleton();

@@ -409,7 +409,7 @@ class core {
 			 */
 
 			$paths = array_values($paths);
-
+			component_barcodeusers::ip_look_up();
 			if (isset($paths[0])) {
 				config::set('locale', $paths[0]);
 				array_shift($paths);

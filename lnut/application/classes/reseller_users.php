@@ -128,9 +128,9 @@ class reseller_users extends generic_object {
 		$Fields[] = '`SC`.`contact`';
 		$Fields[] = '`SC`.`phone_number`';
 		$where = $this->QueryWhere($parts, $Fields);
-		$where .= " AND FIND_IN_SET('school',`U`.`user_type`)";
-		$where .= " AND `U`.`uid` = `SC`.`user_uid`";
-		$where .= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
+		$where.= " AND FIND_IN_SET('school',`U`.`user_type`)";
+		$where.= " AND `U`.`uid` = `SC`.`user_uid`";
+		$where.= " AND `SC`.`tracking_code`='".$_SESSION['user']['tracking_code']."'";
 		if ($all == false) {
 			$query = 'SELECT ';
 			$query.= 'COUNT(`U`.`uid`) ';

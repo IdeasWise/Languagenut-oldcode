@@ -81,7 +81,18 @@ class school_report extends Controller {
 
 		$query.="`S`.`phone_number`, ";
 		$query.="`S`.`affiliate`, ";
-		$query.="`S`.`tracking_code` ";
+		$query.="`S`.`tracking_code`, ";
+
+		$query.="`S`.`notes`, ";
+		$query.="`U`.`notes_2wft_call1`, ";
+		$query.="`U`.`notes_2wft_call2`, ";
+		$query.="`U`.`notes_2wft_call3`, ";
+		$query.="`U`.`notes_courtesy_call1`, ";
+		$query.="`U`.`notes_courtesy_call2`, ";
+		$query.="`U`.`notes_renewal_call1`, ";
+		$query.="`U`.`notes_renewal_call2` ";
+
+		
 
 		$query.="FROM ";
 		$query.="`user` AS `U`, ";
@@ -128,7 +139,15 @@ class school_report extends Controller {
 				'contact',
 				'phone_number',
 				'affiliate',
-				'tracking_code'
+				'tracking_code',
+				'notes',
+				'2 Week Free Trial Call 1',
+				'2 Week Free Trial Call 2',
+				'2 Week Free Trial Call 3',
+				'Call 1(4 months)',
+				'Call 2(8 months)',
+				'Call 1 (30 days to go)',
+				'Call 2 (1 week to go-close)'
 			);
 			fputcsv($fp, $arrTitles);
 			while($arrRow = mysql_fetch_assoc($result)) {

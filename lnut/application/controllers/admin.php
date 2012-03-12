@@ -96,6 +96,9 @@ class Admin extends Controller {
 					case "school_report":
 						$this->load_controller('admin.school.report');
 					break;
+					case "barcode-users":
+						$this->load_controller('admin.barcode.users');
+					break;
 					default:
 						output::redirect(config::url('admin/users/school/'));
 					break;

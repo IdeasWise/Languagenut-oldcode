@@ -2,7 +2,7 @@
 
 class user extends generic_object {
 
-	private $arrForm = array();
+	public $arrForm = array();
 
 	public function __construct($uid = 0) {
 		parent::__construct($uid, __CLASS__);
@@ -1054,6 +1054,16 @@ class user extends generic_object {
 		$sql .="`email` = '".strtolower(mysql_real_escape_string($email))."' ";
 		$sql .="WHERE `uid` = '".$uid."'";
 		database::query($sql);
+		$query = "SELECT `email` FROM `user` WHERE `uid`='".$uid."' AND `email`='' LIMIT 0,1";
+		$result = database::query($query);
+		if(mysql_error()=='' && mysql_num_rows($result)) {
+			$email = 'ch'.$uid;
+			$query ="UPDATE `user` SET ";
+			$query.="`email`='".mysql_real_escape_string($email)."' ";
+			$query.="WHERE ";
+			$query.="`uid`='".$uid."'";
+			database::query($query);
+		}
 	}
 
 	public function SetRegistrationKey( $uid, $ip_address ) {
@@ -2117,6 +2127,278 @@ class user extends generic_object {
 		}
 		*/
 		return $package_text;
+	}
+
+	public function get_barcode_users( $all = false ) {
+		if(!$all) {
+			$query = 'SELECT ';
+			$query.= 'COUNT(`uid`) ';
+			$query.= 'FROM ';
+			$query.="FROM ";
+			$query.="`user` ";
+			$query.="WHERE ";
+			$query.="`barcode_username` !='' ";
+			$query.="AND ";
+			$query.="`barcode_ip_address`!='' ";
+			$query.="AND ";
+			$query.="`deleted`!='1' ";
+			$this->setPagination( $query );
+		}
+
+		$query ="SELECT ";
+		$query.="`uid`, ";
+		$query.="`barcode_username`, ";
+		$query.="`barcode_ip_address` ";
+		$query.="FROM ";
+		$query.="`user` ";
+		$query.="WHERE ";
+		$query.="`barcode_username` !='' ";
+		$query.="AND ";
+		$query.="`barcode_ip_address`!='' ";
+		$query.="AND ";
+		$query.="`deleted`!='1' ";
+		if(!$all) {
+			$query.= "LIMIT ".$this->get_limit();
+		}
+		return database::arrQuery($query);
+	}
+
+
+	public function AddEditBarcodeUser() {
+		if($this->isValidateBarcodeUserFormData() == true) {
+			if (isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+				$this->save();
+			} else {
+				$insert = $this->insert();
+				$this->add_extra_fields_for_barcode_user($insert);
+				return true;
+			}
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	private function add_extra_fields_for_barcode_user($user_uid=null) {
+		if($user_uid!=null && is_numeric($user_uid)) {
+			parent::__construct($user_uid, __CLASS__);
+			if($this->get_valid()) {
+				$this->load();
+				$this->set_registered_dts(date('Y-m-d H:i:s'));
+				$this->set_registration_ip($_SERVER['REMOTE_ADDR']);
+				$this->set_allow_access_without_sub(1);
+				$this->set_access_allowed(1);
+				$this->set_active(1);
+				$this->set_user_type('student');
+				$arrSchool = array();
+				$arrSchool = $this->get_barcode_school_details();
+				if(is_array($arrSchool) && count($arrSchool)==4) {
+					$this->set_locale($arrSchool['locale']);
+					$objProfileStudent = new profile_student();
+					$objProfileStudent->set_vfirstname($this->get_barcode_username());
+					$objProfileStudent->set_school_id($arrSchool['school_id']);
+					$objProfileStudent->set_iuser_uid($user_uid);
+					$student_uid = $objProfileStudent->insert();
+					$objClassesStudent	= new classes_student();
+					$objClassesStudent->doSave( $arrSchool['class_uid'] , $student_uid);
+				} else {
+					$header = "Content-Transfer-Encoding: 8bit";
+					$header .="\nContent-Type: text/html; charset=utf-8";
+					$header .="\nFrom: info@languagenut.com";
+					$subject= "Barcode School details are not found";
+					$body = "<p>Something going wrong, Query could not find barcode school details.</p>";
+					mail('dev@mystream.co.uk', $subject, $body, $header);
+					mail('swyam.joshi@latitudetechnolabs.com', $subject, $body, $header);
+				}
+				$this->save();
+				$this->SetRegistrationKey( $user_uid, $_SERVER['REMOTE_ADDR'] );
+			}
+		}
+	}
+	
+	private function get_barcode_school_details() {
+		$arrResult = array();
+		$query ="SELECT ";
+		$query.="`uid`, ";
+		$query.="`locale` ";
+		$query.="FROM ";
+		$query.="`user` ";
+		$query.="WHERE ";
+		$query.="`email`='goldfields_library@languagenut.com' ";
+		$query.="LIMIT 0,1";
+		$result = database::query($query);
+		if($result && mysql_error()=='' && mysql_num_rows($result)) {
+			$arrRow = mysql_fetch_array($result);
+			$arrResult['user_uid']	= $arrRow['uid'];
+			$arrResult['locale']	= $arrRow['locale'];
+
+			$query ="SELECT ";
+			$query.="`C`.`uid` AS `class_uid`, ";
+			$query.="`school_id` ";
+			$query.="FROM ";
+			$query.="`users_schools` AS `S`, ";
+			$query.="`classes` AS `C` ";
+			$query.="WHERE ";
+			$query.="`user_uid`='".$arrRow['uid']."' ";
+			$query.="AND ";
+			$query.="`school_id`= `S`.`uid` ";
+			$query.="LIMIT 0,1 ";
+			$result2 = database::query($query);
+			if(mysql_error()=='' && mysql_num_rows($result2)) {
+				$arrRwo2 = mysql_fetch_array($result2);
+				$arrResult['class_uid']	= $arrRwo2['class_uid'];
+				$arrResult['school_id']	= $arrRwo2['school_id'];
+			}
+		}
+		return $arrResult;
+	}
+
+	public function isValidateBarcodeUserFormData() {
+		if (isset($_POST['uid']) && is_numeric($_POST['uid']) && $_POST['uid'] > 0) {
+			parent::__construct($_POST['uid'], __CLASS__);
+			$this->load();
+		}
+		$arrFields = array(
+			'barcode_username' => array(
+				'value' => (isset($_POST['barcode_username'])) ? trim($_POST['barcode_username']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter barcode.',
+				'minChar' => 2,
+				'maxChar' => 32,
+				'errMinMax' => 'Barcode must be 2 to 32 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid barcode.',
+				'errIndex' => 'error.barcode_username'
+			),
+			'barcode_ip_address' => array(
+				'value' => (isset($_POST['barcode_ip_address'])) ? trim($_POST['barcode_ip_address']) : '',
+				'checkEmpty' => true,
+				'errEmpty' => 'Please enter ip address.',
+				'minChar' => 2,
+				'maxChar' => 32,
+				'errMinMax' => 'Ip address must be 2 to 260 characters in length.',
+				'dataType' => 'text',
+				'errdataType' => 'Please enter valid ip address.',
+				'errIndex' => 'error.barcode_ip_address'
+			)
+		);
+		// $arrFields contains array for fields which needs to be validate and then we are passing class object($this)
+		if ($this->isValidarrFields($arrFields, $this) === true) {
+			$this->set_barcode_username($arrFields['barcode_username']['value']);
+			$this->set_barcode_ip_address($arrFields['barcode_ip_address']['value']);
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public static function getUserByBarcode($barcode_username	= "") {
+
+		$user_uid	= false;
+		$barcode_username		= addslashes(mysql_real_escape_string($barcode_username));
+
+		$sql = "SELECT ";
+		$sql.= "`uid` ";
+		$sql.= "FROM ";
+		$sql.= "`user` ";
+		$sql.= "WHERE ";
+		$sql.= "`barcode_username`	= '".$barcode_username."' ";
+		$sql.= "AND ";
+		$sql.= "`barcode_ip_address`	= '".$_SERVER['REMOTE_ADDR']."' ";
+		$sql.= "AND ";
+		$sql.= "`deleted` = '0' ";
+		$sql.= "LIMIT 1";
+
+		$result		= database::query($sql);
+
+		if($result && mysql_error()==''	&& mysql_num_rows($result) > 0)	{
+			$row		= mysql_fetch_assoc($result);
+			$user_uid	= $row['uid'];
+		}
+		return $user_uid;
+	}
+
+	// operations to perform
+	public function	isValidBaarcodeLogin() {
+		$response =	array (
+			'fields'=>array	(
+				'barcode_username'		=> array (
+					'default'	=> 'Barcode',
+					'message'	=> '',
+					'highlight'	=> false,
+					'error'		=> false,
+					'value'		=> ''
+				)
+			),
+			'message' => ''
+		);
+
+		$user_uid	= 0;
+		$error		= false;
+
+		// validation start here
+		if(validation::isPresent('barcode_username',$_POST)) {
+			if(validation::isValid('text',$_POST['barcode_username'])) {
+				if((($user_uid = self::getUserByBarcode($_POST['barcode_username'])) === false)) {
+					$response['fields']['barcode_username']['message']		= "The details you have entered do not match our records.";
+					$response['fields']['barcode_username']['error']		= true;
+					$response['fields']['barcode_username']['highlight']	= true;
+					$response['message']									= "The details you have entered do not match our records.";
+				} else {
+					$response['fields']['barcode_username']['value']		= $_POST['barcode_username'];
+				}
+			} else {
+				$response['fields']['barcode_username']['message']			= 'Please enter a valid barcode.';
+				$response['fields']['barcode_username']['error']			= true;
+				$response['fields']['barcode_username']['highlight']		= true;
+				$response['message']							= "Please enter a valid barcode.";
+			}
+		} else {
+			$response['fields']['barcode_username']['message']		= 'Barcode is requried.';
+			$response['fields']['barcode_username']['error']		= true;
+			$response['fields']['barcode_username']['highlight']	= true;
+			$response['message']									= "Barcode is requried.";
+		}
+
+		if(is_numeric($user_uid) &&	$user_uid > 0) {
+
+			parent::__construct($user_uid);
+			$this->load();
+
+			if($this->get_access_allowed() == 0) {
+				$response['message'] = 'The details you have entered do not match our records.';
+			}
+			if($this->get_deleted()	== 1) {
+				$response['message']	= "The details you have entered do not match our records.";
+			}
+			$arrUserType = explode(',',$this->get_user_type());
+			if($this->get_is_admin() ==	0){
+				if($this->has_active_subscription()	== false) {
+					$response['message'] = "Your subscription period has expired please renew now.";
+				}
+			}
+		} else {
+			//
+		}
+
+		if(count($response['fields']) > 0) {
+			foreach($response['fields'] as $key => $data) {
+				if($data['error'] == true) {
+					$error = true;
+					break;
+				}
+			}
+		}
+
+		if($response['message'] != "") {
+			$error = true;
+		}
+
+		if(!$error)	{
+			return true;
+		} else {
+			return $response;
+		}
 	}
 }
 
